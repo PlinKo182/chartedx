@@ -19,6 +19,7 @@
   .row label { margin-left: 12px; color: var(--muted); white-space: nowrap; }
   .row label:has(input:checked) { color: var(--text); }
   .src { font-size: 12px; color: var(--muted); font-weight: normal; }
+  .types { padding-left: 12px; border-left: 1px solid var(--line); }
   footer { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card); border-top: 1px solid var(--line); padding: 12px 16px; }
   footer div { max-width: 760px; margin: 0 auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
   .primary { background: var(--accent); border-color: var(--accent); font-weight: 600; }
@@ -43,9 +44,12 @@
 </div></footer>
 <script>
 const LISTS = [['top', 'Top 10'], ['popular', 'Populares'], ['trending', 'Tendências']];
-// config from /{config}/configure, if reinstalling
+const sn = id => id.slice(0, id.lastIndexOf('-'));
+// config from /{config}/configure, if reinstalling: entries "nfx-top", "sic-popular.m" (movies only), "nfx-trending.s" (series only)
 const first = location.pathname.split('/').filter(Boolean)[0];
-let picked = first && first !== 'configure' ? decodeURIComponent(first).split(',') : [];
+const saved = first && first !== 'configure' ? decodeURIComponent(first).split(',') : [];
+let picked = saved.map(e => e.split('.')[0]);
+const savedType = Object.fromEntries(saved.map(e => [sn(e.split('.')[0]), e.split('.')[1]])); // provider -> 'm' | 's' | undefined
 
 fetch('/manifest.json').then(r => r.json()).then(m => {
   const providers = new Map(); // sn -> {name, lists:Set, source}
@@ -56,30 +60,41 @@ fetch('/manifest.json').then(r => r.json()).then(m => {
     if (list === 'top' && c.name.endsWith('Top JustWatch')) p.jw = true;
     providers.set(sn, p);
   }
-  document.getElementById('list').innerHTML = [...providers].map(([sn, p]) => `
-    <div class="row" data-name="${p.name.toLowerCase()}">
+  document.getElementById('list').innerHTML = [...providers].map(([id, p]) => `
+    <div class="row" data-sn="${id}" data-name="${p.name.toLowerCase()}">
       <b>${p.name}${p.lists.has('top') ? ` <span class="src">${p.jw ? 'JustWatch' : 'FlixPatrol'}</span>` : ''}</b>
       <span>${LISTS.filter(([l]) => p.lists.has(l)).map(([l, label]) =>
-        `<label><input type="checkbox" value="${sn}-${l}" ${picked.includes(`${sn}-${l}`) ? 'checked' : ''}> ${label}</label>`).join('')}</span>
+        `<label><input type="checkbox" class="list" value="${id}-${l}" ${picked.includes(`${id}-${l}`) ? 'checked' : ''}> ${label}</label>`).join('')}
+        <span class="types">
+          <label><input type="checkbox" class="type" value="m" ${savedType[id] !== 's' ? 'checked' : ''}> Filmes</label>
+          <label><input type="checkbox" class="type" value="s" ${savedType[id] !== 'm' ? 'checked' : ''}> Séries</label>
+        </span></span>
     </div>`).join('');
   update();
 });
 
-const boxes = () => [...document.querySelectorAll('#list input')];
+const boxes = () => [...document.querySelectorAll('#list input.list')];
+// '' = movies and series, '.m' / '.s' = one type, null = neither
+function typeOf(provider) {
+  const [m, s] = [...document.querySelectorAll(`.row[data-sn="${provider}"] input.type`)].map(b => b.checked);
+  return m && s ? '' : m ? '.m' : s ? '.s' : null;
+}
+const entries = () => picked.filter(id => typeOf(sn(id)) !== null).map(id => id + typeOf(sn(id)));
 function update() {
   // keep the order things were ticked in (= order of rows on the Stremio board)
   const on = new Set(boxes().filter(b => b.checked).map(b => b.value));
   picked = [...picked.filter(id => on.has(id)), ...[...on].filter(id => !picked.includes(id))];
-  document.getElementById('count').textContent = `${picked.length} listas`;
+  const n = entries().reduce((sum, e) => sum + (e.includes('.') ? 1 : 2), 0);
+  document.getElementById('count').textContent = `${n} filas no Stremio`;
 }
-const url = () => `${location.host}/${picked.join(',')}/manifest.json`;
+const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
 document.getElementById('list').addEventListener('change', update);
 document.getElementById('q').addEventListener('input', e => document.querySelectorAll('.row').forEach(r => { r.hidden = !r.dataset.name.includes(e.target.value.toLowerCase()); }));
 document.getElementById('tops').onclick = () => { boxes().forEach(b => { if (b.value.endsWith('-top')) b.checked = true; }); update(); };
 document.getElementById('none').onclick = () => { boxes().forEach(b => { b.checked = false; }); update(); };
-document.getElementById('install').onclick = () => { if (picked.length) location.href = `stremio://${url()}`; };
+document.getElementById('install').onclick = () => { if (entries().length) location.href = `stremio://${url()}`; };
 document.getElementById('copy').onclick = async e => {
-  if (!picked.length) return;
+  if (!entries().length) return;
   await navigator.clipboard.writeText(`${location.protocol}//${url()}`).catch(() => {});
   e.target.textContent = 'Copiado';
   setTimeout(() => { e.target.textContent = 'Copiar link'; }, 1500);
