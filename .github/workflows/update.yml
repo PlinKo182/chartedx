@@ -23,3 +23,7 @@ jobs:
           git add docs cache.json
           git diff --cached --quiet || git commit -m "update $(date -u +%F)"
           git pull --rebase && git push # main may have moved while this ran
+      # Vercel (free plan) blocks deploys of commits by github-actions; the deploy hook redeploys main regardless
+      - run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK" > /dev/null
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
