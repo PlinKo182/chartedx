@@ -1,6 +1,6 @@
 // ChartedX: Portugal Top 10 per streaming provider -> static Stremio catalog addon in docs/ (served by GitHub Pages).
 // Source per provider: FlixPatrol daily Top 10 (= what the app shows) when it exists, else JustWatch weekly streamingCharts.
-// Usage: node update.js                  update (opens a Chrome window for FlixPatrol)
+// Usage: node update.js                  update (FIRECRAWL_API_KEY for FlixPatrol)
 //        node update.js <fixtureDir>     same, but FlixPatrol pages from saved fp-{slug}.html files
 //        node update.js list-providers   write providers-available.json (pick shortNames from it into providers.json)
 const fs = require('fs');
@@ -87,26 +87,19 @@ function pageDate(html) {
   return m ? new Date(m[1] + ' UTC').toISOString().slice(0, 10) : null;
 }
 
+// FlixPatrol's Cloudflare blocks plain fetch, r.jina.ai, headless Chrome and GitHub runners even headed (tested 2026-10-02/03).
+// Firecrawl (paid scraping service, 1 credit/page) gets the page. Needs FIRECRAWL_API_KEY.
 async function scrape(slugs) {
-  if (!slugs.length) return {};
-  const { chromium } = require('playwright-core');
-  // ponytail: headed real Chrome — Cloudflare blocks plain fetch, r.jina.ai and headless (tested 2026-10-02). Needs a desktop session.
-  const exe = process.env.CHROME || `${process.env.LOCALAPPDATA}/Google/Chrome/Application/chrome.exe`;
-  const browser = await chromium.launch({ executablePath: exe, headless: false, args: ['--disable-blink-features=AutomationControlled'] });
-  const page = await browser.newPage();
   const pages = {};
-  try {
-    for (const slug of slugs) {
-      await page.goto(`https://flixpatrol.com/top10/${slug}/portugal/`, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(() => {});
-      let html = '';
-      for (let i = 0; i < 30 && !/TOP 10 [^<]*<\/h3>/.test(html); i++) {
-        await page.waitForTimeout(1000);
-        html = await page.content().catch(() => ''); // throws mid-navigation (Cloudflare reload)
-      }
-      pages[slug] = html;
-    }
-  } finally {
-    await browser.close();
+  for (const slug of slugs) {
+    const r = await fetch('https://api.firecrawl.dev/v2/scrape', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${process.env.FIRECRAWL_API_KEY}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url: `https://flixpatrol.com/top10/${slug}/portugal/`, formats: ['rawHtml'], maxAge: 0 }),
+    });
+    const j = await r.json().catch(() => ({}));
+    pages[slug] = j.data?.rawHtml || '';
+    if (!pages[slug]) console.error('firecrawl', slug, r.status, JSON.stringify(j).slice(0, 200));
   }
   return pages;
 }
