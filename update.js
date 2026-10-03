@@ -28,15 +28,22 @@ const norm = s => s.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().repl
 // ---------- JustWatch ----------
 
 async function jw(query, variables) {
-  const r = await fetch('https://apis.justwatch.com/graphql', {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0' },
-    body: JSON.stringify({ query, variables }),
-  });
-  const j = await r.json().catch(() => ({}));
-  if (!r.ok || j.errors) throw new Error(`JustWatch ${r.status} ${JSON.stringify(j.errors || '').slice(0, 200)}`);
-  await sleep(1500); // JustWatch 403-bans bursts (Omnicatalogs, ~1200 requests)
-  return j.data;
+  // ~300 requests in a run hit 429 (2026-10-03): back off and retry instead of losing the list
+  for (let attempt = 0; ; attempt++) {
+    const r = await fetch('https://apis.justwatch.com/graphql', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0' },
+      body: JSON.stringify({ query, variables }),
+    });
+    if (r.status === 429 && attempt < 5) {
+      await sleep((+r.headers.get('retry-after') || 30 * (attempt + 1)) * 1000);
+      continue;
+    }
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok || j.errors) throw new Error(`JustWatch ${r.status} ${JSON.stringify(j.errors || '').slice(0, 200)}`);
+    await sleep(1500); // JustWatch 403-bans bursts (Omnicatalogs, ~1200 requests)
+    return j.data;
+  }
 }
 
 // Providers JustWatch has registered for Portugal (country: PT) that have titles — sports-only ones have none.
@@ -270,6 +277,7 @@ async function main() {
       id: `${g.shortName}-top`,
       name: g.genre ? `${g.name} · Top 10` : 'Portugal · Top 10',
       source: `JustWatch trending${g.genre ? ` genre ${g.genre}` : ''}`,
+      mixed: true,
       plan: async () => [
         ...jw2plan(await justwatchList({ genres: g.genre ? [g.genre] : [] }, 'TRENDING', 10)),
         [await justwatchMixed(g.genre ? [g.genre] : []), null, 'mix'], // types per item
@@ -278,7 +286,7 @@ async function main() {
   }
 
   const catalogs = [];
-  for (const { id, name, source, plan: getPlan } of jobs) {
+  for (const { id, name, source, mixed, plan: getPlan } of jobs) {
     const st = { source, checked: now, missing: [] };
     let plan = [];
     try {
@@ -299,7 +307,7 @@ async function main() {
       }
     }
     for (const bucket of ['movie', 'series', 'mix']) {
-      if (bucket === 'mix' && !plan.some(p => p[2] === 'mix')) continue;
+      if (bucket === 'mix' && !mixed) continue;
       const file = path.join(DOCS, 'catalog', bucket, `${id}.json`);
       if (out[bucket].length >= MIN_ITEMS) {
         write(file, { metas: out[bucket].map(r => ({ id: r.id, type: r.type, name: r.name, poster: `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${r.id}.jpg`, posterShape: 'poster' })) });
