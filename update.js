@@ -173,8 +173,10 @@ async function tmdb(type, item) {
   const { results = [] } = await get(`/search/${kind}?query=${encodeURIComponent(item.title)}`);
   const year = yearOf(item);
   const n = norm(item.title);
-  const m = results.find(r => [r.title, r.name, r.original_title, r.original_name].some(t => t && norm(t) === n)
-    && (!year || Math.abs(parseInt(r.release_date || r.first_air_date) - year) <= 1));
+  const yearOk = r => !year || Math.abs(parseInt(r.release_date || r.first_air_date) - year) <= 1;
+  // exact name, or the search's only result (TMDB matched it on a translated title it doesn't return)
+  const m = results.find(r => [r.title, r.name, r.original_title, r.original_name].some(t => t && norm(t) === n) && yearOk(r))
+    || (results.length === 1 && yearOk(results[0]) ? results[0] : undefined);
   if (!m) return;
   const { imdb_id } = await get(`/${kind}/${m.id}/external_ids`);
   return imdb_id ? { id: imdb_id, name: m.title || m.name } : undefined;
