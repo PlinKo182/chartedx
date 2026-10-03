@@ -5,6 +5,7 @@
 //        node update.js list-providers   write providers-available.json (pick shortNames from it into providers.json)
 const fs = require('fs');
 const path = require('path');
+try { process.loadEnvFile(path.join(__dirname, '.env')); } catch {} // local runs; GitHub Action uses repo secrets
 
 // JustWatch shortName -> FlixPatrol slug (lists available for Portugal: flixpatrol.com/about/availability/)
 const FLIXPATROL = { nfx: 'netflix', prv: 'amazon-prime', mxx: 'hbo-max', atp: 'apple-tv', dnp: 'disney', sst: 'skyshowtime' };
