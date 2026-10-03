@@ -14,6 +14,7 @@ jobs:
       - run: node update.js
         env:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
+          SCRAPINGANT_API_KEY: ${{ secrets.SCRAPINGANT_API_KEY }}
       - run: |
           git config user.name github-actions
           git config user.email github-actions@users.noreply.github.com

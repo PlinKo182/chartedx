@@ -1,6 +1,6 @@
 // ChartedX: Portugal Top 10 per streaming provider -> static Stremio catalog addon in docs/ (served by GitHub Pages).
 // Source per provider: FlixPatrol daily Top 10 (= what the app shows) when it exists, else JustWatch weekly streamingCharts.
-// Usage: node update.js                  update (FIRECRAWL_API_KEY for FlixPatrol)
+// Usage: node update.js                  update (FlixPatrol needs FIRECRAWL_API_KEY and/or SCRAPINGANT_API_KEY)
 //        node update.js <fixtureDir>     same, but FlixPatrol pages from saved fp-{slug}.html files
 //        node update.js list-providers   write providers-available.json (pick shortNames from it into providers.json)
 const fs = require('fs');
@@ -88,18 +88,32 @@ function pageDate(html) {
 }
 
 // FlixPatrol's Cloudflare blocks plain fetch, r.jina.ai, headless Chrome and GitHub runners even headed (tested 2026-10-02/03).
-// Firecrawl (paid scraping service, 1 credit/page) gets the page. Needs FIRECRAWL_API_KEY.
+// Scraping services get through. Tried in order; those without an API key in env are skipped.
+const SCRAPERS = {
+  async FIRECRAWL_API_KEY(url, key) { // 1 credit/page, works (tested 2026-10-03)
+    const r = await fetch('https://api.firecrawl.dev/v2/scrape', {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ url, formats: ['rawHtml'], maxAge: 0 }),
+    });
+    return (await r.json()).data?.rawHtml || `HTTP ${r.status}`;
+  },
+  async SCRAPINGANT_API_KEY(url, key) { // free tier ~10k credits/month, browser render ~10/page
+    const r = await fetch(`https://api.scrapingant.com/v2/general?url=${encodeURIComponent(url)}`, { headers: { 'x-api-key': key } });
+    return r.ok ? r.text() : `HTTP ${r.status} ${(await r.text()).slice(0, 200)}`;
+  },
+};
+
 async function scrape(slugs) {
   const pages = {};
   for (const slug of slugs) {
-    const r = await fetch('https://api.firecrawl.dev/v2/scrape', {
-      method: 'POST',
-      headers: { Authorization: `Bearer ${process.env.FIRECRAWL_API_KEY}`, 'Content-Type': 'application/json' },
-      body: JSON.stringify({ url: `https://flixpatrol.com/top10/${slug}/portugal/`, formats: ['rawHtml'], maxAge: 0 }),
-    });
-    const j = await r.json().catch(() => ({}));
-    pages[slug] = j.data?.rawHtml || '';
-    if (!pages[slug]) console.error('firecrawl', slug, r.status, JSON.stringify(j).slice(0, 200));
+    const url = `https://flixpatrol.com/top10/${slug}/portugal/`;
+    for (const [env, get] of Object.entries(SCRAPERS)) {
+      if (!process.env[env]) continue;
+      const html = await get(url, process.env[env]).catch(e => e.message);
+      if (/TOP 10 [^<]*<\/h3>/.test(html)) { pages[slug] = html; console.log('flixpatrol', slug, 'via', env); break; }
+      console.error('flixpatrol', slug, env, 'failed:', html.slice(0, 200));
+    }
   }
   return pages;
 }
