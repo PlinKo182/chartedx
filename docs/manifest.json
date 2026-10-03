@@ -1,0 +1,310 @@
+{
+ "id": "community.chartedx",
+ "version": "1.0.0",
+ "name": "ChartedX",
+ "description": "Plataformas de streaming em Portugal. \"Top 10\" = FlixPatrol diário (igual à app); \"Top JustWatch\" = top semanal do JustWatch; Populares / Tendências = páginas de cada plataforma no JustWatch.",
+ "resources": [
+  "catalog"
+ ],
+ "types": [
+  "movie",
+  "series"
+ ],
+ "catalogs": [
+  {
+   "type": "movie",
+   "id": "nfx-top",
+   "name": "Netflix · Top 10"
+  },
+  {
+   "type": "series",
+   "id": "nfx-top",
+   "name": "Netflix · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "nfx-popular",
+   "name": "Netflix · Populares"
+  },
+  {
+   "type": "series",
+   "id": "nfx-popular",
+   "name": "Netflix · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "nfx-trending",
+   "name": "Netflix · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "nfx-trending",
+   "name": "Netflix · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "prv-top",
+   "name": "Amazon Prime Video · Top 10"
+  },
+  {
+   "type": "series",
+   "id": "prv-top",
+   "name": "Amazon Prime Video · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "prv-popular",
+   "name": "Amazon Prime Video · Populares"
+  },
+  {
+   "type": "series",
+   "id": "prv-popular",
+   "name": "Amazon Prime Video · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "prv-trending",
+   "name": "Amazon Prime Video · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "prv-trending",
+   "name": "Amazon Prime Video · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "mxx-top",
+   "name": "HBO Max · Top 10"
+  },
+  {
+   "type": "series",
+   "id": "mxx-top",
+   "name": "HBO Max · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "mxx-popular",
+   "name": "HBO Max · Populares"
+  },
+  {
+   "type": "series",
+   "id": "mxx-popular",
+   "name": "HBO Max · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "mxx-trending",
+   "name": "HBO Max · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "mxx-trending",
+   "name": "HBO Max · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "dnp-top",
+   "name": "Disney Plus · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "dnp-popular",
+   "name": "Disney Plus · Populares"
+  },
+  {
+   "type": "series",
+   "id": "dnp-popular",
+   "name": "Disney Plus · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "dnp-trending",
+   "name": "Disney Plus · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "dnp-trending",
+   "name": "Disney Plus · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "atp-top",
+   "name": "Apple TV · Top 10"
+  },
+  {
+   "type": "series",
+   "id": "atp-top",
+   "name": "Apple TV · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "atp-popular",
+   "name": "Apple TV · Populares"
+  },
+  {
+   "type": "series",
+   "id": "atp-popular",
+   "name": "Apple TV · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "atp-trending",
+   "name": "Apple TV · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "atp-trending",
+   "name": "Apple TV · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "sst-top",
+   "name": "SkyShowtime · Top 10"
+  },
+  {
+   "type": "series",
+   "id": "sst-top",
+   "name": "SkyShowtime · Top 10"
+  },
+  {
+   "type": "movie",
+   "id": "sst-popular",
+   "name": "SkyShowtime · Populares"
+  },
+  {
+   "type": "series",
+   "id": "sst-popular",
+   "name": "SkyShowtime · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "sst-trending",
+   "name": "SkyShowtime · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "sst-trending",
+   "name": "SkyShowtime · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "sic-top",
+   "name": "OPTO SIC · Top JustWatch"
+  },
+  {
+   "type": "movie",
+   "id": "sic-popular",
+   "name": "OPTO SIC · Populares"
+  },
+  {
+   "type": "series",
+   "id": "sic-popular",
+   "name": "OPTO SIC · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "sic-trending",
+   "name": "OPTO SIC · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "sic-trending",
+   "name": "OPTO SIC · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "rtp-popular",
+   "name": "RTPplay · Populares"
+  },
+  {
+   "type": "series",
+   "id": "rtp-popular",
+   "name": "RTPplay · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "rtp-trending",
+   "name": "RTPplay · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "rtp-trending",
+   "name": "RTPplay · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "fil-top",
+   "name": "Filmin · Top JustWatch"
+  },
+  {
+   "type": "series",
+   "id": "fil-top",
+   "name": "Filmin · Top JustWatch"
+  },
+  {
+   "type": "movie",
+   "id": "fil-popular",
+   "name": "Filmin · Populares"
+  },
+  {
+   "type": "series",
+   "id": "fil-popular",
+   "name": "Filmin · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "fil-trending",
+   "name": "Filmin · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "fil-trending",
+   "name": "Filmin · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "mbi-top",
+   "name": "MUBI · Top JustWatch"
+  },
+  {
+   "type": "movie",
+   "id": "mbi-popular",
+   "name": "MUBI · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "mbi-trending",
+   "name": "MUBI · Tendências"
+  },
+  {
+   "type": "movie",
+   "id": "cru-top",
+   "name": "Crunchyroll · Top JustWatch"
+  },
+  {
+   "type": "series",
+   "id": "cru-top",
+   "name": "Crunchyroll · Top JustWatch"
+  },
+  {
+   "type": "movie",
+   "id": "cru-popular",
+   "name": "Crunchyroll · Populares"
+  },
+  {
+   "type": "series",
+   "id": "cru-popular",
+   "name": "Crunchyroll · Populares"
+  },
+  {
+   "type": "movie",
+   "id": "cru-trending",
+   "name": "Crunchyroll · Tendências"
+  },
+  {
+   "type": "series",
+   "id": "cru-trending",
+   "name": "Crunchyroll · Tendências"
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "nfx-top": {
+  "source": "https://flixpatrol.com/top10/netflix/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "nfx-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Untold Mr. T: I Pity the Fool",
+   "Monster: The Lizzie Borden Story"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 29
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "nfx-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Monster: The Lizzie Borden Story"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "prv-top": {
+  "source": "https://flixpatrol.com/top10/amazon-prime/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Joana Marques: Guilty or Indecent",
+   "Land of Ambition"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 9
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 9
+  }
+ },
+ "prv-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Joana Marques: Guilty or Indecent"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 29
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "prv-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "mxx-top": {
+  "source": "https://flixpatrol.com/top10/hbo-max/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "mxx-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "mxx-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "dnp-top": {
+  "source": "https://flixpatrol.com/top10/disney/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Vitória"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "error": "only 1 resolved, kept previous file"
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 8
+  }
+ },
+ "dnp-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "dnp-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Dolly Parton: An American Original – Special Edition of 20/20",
+   "Mahkum"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 29
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "atp-top": {
+  "source": "https://flixpatrol.com/top10/apple-tv/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "F1"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 9
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "atp-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "atp-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "sst-top": {
+  "source": "https://flixpatrol.com/top10/skyshowtime/portugal/",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "sst-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "sst-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "sic-top": {
+  "source": "JustWatch weekly chart",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "error": "only 1 resolved, kept previous file"
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "sic-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Wounded Birds",
+   "A Little Sunshine",
+   "Pela Estrada Fora"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 27
+  }
+ },
+ "sic-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "A Minha Mãe com o Teu Pai",
+   "A Little Sunshine",
+   "Pela Estrada Fora"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 27
+  }
+ },
+ "rtp-top": {
+  "source": "JustWatch weekly chart",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "error": "only 1 resolved, kept previous file"
+  },
+  "series": {
+   "error": "only 0 resolved, kept previous file"
+  }
+ },
+ "rtp-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "PJ 7"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "rtp-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "PJ 7"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "fil-top": {
+  "source": "JustWatch weekly chart",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "fil-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Apocalypse Now: Final Cut"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 29
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "fil-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [
+   "Apocalypse Now: Final Cut",
+   "Shaun the Sheep: Mossy Bottom Shorts"
+  ],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 29
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 29
+  }
+ },
+ "mbi-top": {
+  "source": "JustWatch weekly chart",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "error": "only 1 resolved, kept previous file"
+  }
+ },
+ "mbi-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "error": "only 1 resolved, kept previous file"
+  }
+ },
+ "mbi-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "error": "only 1 resolved, kept previous file"
+  }
+ },
+ "cru-top": {
+  "source": "JustWatch weekly chart",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 10
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 10
+  }
+ },
+ "cru-popular": {
+  "source": "JustWatch popular",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ },
+ "cru-trending": {
+  "source": "JustWatch trending",
+  "checked": "2026-10-03T07:04:28.958Z",
+  "missing": [],
+  "date": "2026-10-03",
+  "movie": {
+   "updated": "2026-10-03",
+   "count": 30
+  },
+  "series": {
+   "updated": "2026-10-03",
+   "count": 30
+  }
+ }
+}
