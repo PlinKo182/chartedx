@@ -4,7 +4,7 @@
 //   /{config}/manifest.json           only the picked catalogs; config = comma list of catalog ids, optionally
 //                                     limited to one type: nfx-top (movies+series), sic-popular.m (movies), nfx-trending.s (series)
 //   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action
-//   /providers.json, /logo.png, /logo.svg   for the configure page and Stremio
+//   /providers.json, /general.json, /logo.png, /logo.svg   for the configure page and Stremio
 const fs = require('fs');
 const path = require('path');
 
@@ -26,8 +26,8 @@ module.exports = (req, res) => {
     return send(res, 200, parts[0].endsWith('png') ? 'image/png' : 'image/svg+xml', fs.readFileSync(path.join(ROOT, parts[0])), 'public, max-age=86400');
   }
 
-  if (parts[0] === 'providers.json') {
-    return send(res, 200, 'application/json', fs.readFileSync(path.join(ROOT, 'docs', 'providers.json')), 'no-cache');
+  if (['providers.json', 'general.json'].includes(parts[0])) {
+    return send(res, 200, 'application/json', fs.readFileSync(path.join(ROOT, 'docs', parts[0])), 'no-cache');
   }
 
   if (parts[0] === 'manifest.json') {

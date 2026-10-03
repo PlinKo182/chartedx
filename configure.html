@@ -55,6 +55,17 @@
   .card[aria-pressed=true] { border-color: var(--accent); background: var(--accent-soft); }
   .card[aria-pressed=true] .check { display: grid; }
 
+  .sub { font-size: 14px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; margin: 0 0 10px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+  .chip { min-height: 44px; padding: 0 16px; border: 2px solid var(--line); border-radius: 999px; background: var(--surface); display: inline-flex; align-items: center; gap: 8px; font-weight: 500; transition: border-color .2s, background .2s; }
+  .chip:hover { border-color: #46468A; }
+  .chip svg { width: 16px; height: 16px; }
+  .chip .tick { display: none; }
+  .chip[aria-pressed=true] { border-color: var(--accent); background: var(--accent-soft); }
+  .chip[aria-pressed=true] .tick { display: block; color: var(--accent); }
+  .chip.main { border-color: #46468A; }
+  .avatar { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 10px; background: linear-gradient(135deg, #4338CA, #7C3AED); }
+
   /* step 2: picked, ordered */
   .empty { padding: 28px; border: 2px dashed var(--line); border-radius: var(--radius); color: var(--muted); text-align: center; }
   ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
@@ -104,6 +115,7 @@
   <symbol id="i-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
   <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
   <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-chart" viewBox="0 0 24 24"><path d="M4 20V14M10 20V9M16 20V4M2 20h20" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></symbol>
   <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></symbol>
 </svg>
 
@@ -117,8 +129,11 @@
   </header>
 
   <section>
-    <h2><span>1</span>Escolhe as plataformas</h2>
-    <p class="hint"><b>Top 10 diário</b> = o mesmo Top 10 que a plataforma mostra na app. Nas restantes, o top é semanal (JustWatch).</p>
+    <h2><span>1</span>Escolhe o que queres ver</h2>
+    <p class="hint">Listas gerais juntam todas as plataformas (top da semana em Portugal, JustWatch). <b>Top 10 diário</b> = o mesmo Top 10 que a plataforma mostra na app.</p>
+    <p class="sub">Listas gerais</p>
+    <div class="chips" id="chips"></div>
+    <p class="sub">Plataformas</p>
     <div class="tools">
       <label class="search"><svg><use href="#i-search"/></svg><input type="search" id="q" placeholder="Procurar plataforma…" aria-label="Procurar plataforma"></label>
       <div class="seg" role="group" aria-label="Filtro">
@@ -149,10 +164,11 @@ const icon = id => `<svg aria-hidden="true"><use href="#i-${id}"/></svg>`;
 const $ = id => document.getElementById(id);
 
 let providers = [];   // [{shortName, name, icon, flixpatrol, lists:Set}] in JustWatch order
+let general = [];     // [{shortName: 'all' | 'gcmy' …, name, genre, lists:Set}]
 let picked = [];      // [{sn, lists:Set, types:Set}] in board order
 let filter = 'all';
 let have = new Set();  // "nfx-top|m": catalogs that exist
-const info = sn => providers.find(p => p.shortName === sn);
+const info = sn => providers.find(p => p.shortName === sn) || general.find(p => p.shortName === sn);
 
 // Restore from /{config}/configure: "nfx-top,sic-popular.m,…" (.m movies only, .s series only)
 function restore() {
@@ -169,8 +185,9 @@ function restore() {
   }
 }
 
-Promise.all([fetch('/providers.json', { cache: 'no-cache' }).then(r => r.json()), fetch('/manifest.json', { cache: 'no-cache' }).then(r => r.json())])
-  .then(([all, manifest]) => {
+const get = u => fetch(u, { cache: 'no-cache' }).then(r => r.json());
+Promise.all([get('/providers.json'), get('/manifest.json'), get('/general.json').catch(() => [])])
+  .then(([all, manifest, gen]) => {
     const lists = {};
     for (const c of manifest.catalogs) {
       const i = c.id.lastIndexOf('-');
@@ -178,6 +195,7 @@ Promise.all([fetch('/providers.json', { cache: 'no-cache' }).then(r => r.json())
     }
     have = new Set(manifest.catalogs.map(c => `${c.id}|${c.type === 'movie' ? 'm' : 's'}`));
     providers = all.filter(p => lists[p.shortName]).map(p => ({ ...p, lists: lists[p.shortName] }));
+    general = gen.filter(p => lists[p.shortName]).map(p => ({ ...p, lists: lists[p.shortName] }));
     restore();
     render();
   });
@@ -200,6 +218,13 @@ function renderGrid() {
       </button>`).join('') || '<p class="hint">Nenhuma plataforma encontrada.</p>';
 }
 
+function renderChips() {
+  $('chips').innerHTML = general.map(g => `
+    <button type="button" class="chip${g.genre ? '' : ' main'}" data-sn="${g.shortName}" aria-pressed="${picked.some(x => x.sn === g.shortName)}">
+      ${icon(g.genre ? 'check' : 'chart').replace('<svg', `<svg class="${g.genre ? 'tick' : ''}"`)}${g.genre ? g.name : 'Top 10 da semana'}
+    </button>`).join('');
+}
+
 function renderPicked() {
   if (!picked.length) {
     $('picked').innerHTML = '<div class="empty">Ainda não escolheste nenhuma plataforma. Toca nas plataformas acima.</div>';
@@ -220,9 +245,9 @@ function renderPicked() {
     return `
       <li draggable="true" data-i="${i}">
         <span class="grip" aria-hidden="true">${icon('grip')}</span>
-        <img src="${p.icon}" alt="">
-        <span class="who"><b>${p.name}</b><small>${p.flixpatrol ? 'Top 10 diário' : 'JustWatch'}</small></span>
-        <span class="pills" role="group" aria-label="Listas">${listPills}</span>
+        ${p.icon ? `<img src="${p.icon}" alt="">` : `<span class="avatar">${icon('chart')}</span>`}
+        <span class="who"><b>${p.icon ? p.name : p.genre ? `${p.name} · Top 10` : 'Top 10 da semana'}</b><small>${p.flixpatrol ? 'Top 10 diário' : p.icon ? 'JustWatch' : 'Todas as plataformas'}</small></span>
+        ${p.lists.size > 1 ? `<span class="pills" role="group" aria-label="Listas">${listPills}</span>` : ''}
         <span class="pills" role="group" aria-label="Tipo">${typePills}</span>
         <span class="actions">
           <button type="button" class="icon-btn" data-move="-1" aria-label="Subir ${p.name}" ${i === 0 ? 'disabled' : ''}>${icon('up')}</button>
@@ -242,12 +267,13 @@ const entries = () => picked.filter(x => x.types.size).flatMap(x => {
 const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
 
 function render() {
+  renderChips();
   renderGrid();
   renderPicked();
   const rows = entries().reduce((n, e) => { const [id, t] = e.split('.'); return n + (t ? [t] : ['m', 's']).filter(x => have.has(`${id}|${x}`)).length; }, 0);
   const s = n => n === 1 ? '' : 's';
-  $('summary').innerHTML = rows ? `<b>${rows}</b> fila${s(rows)} · ${picked.length} plataforma${s(picked.length)}`
-    : picked.length ? 'Nenhuma fila com esta escolha' : 'Escolhe pelo menos uma plataforma';
+  $('summary').innerHTML = rows ? `<b>${rows}</b> fila${s(rows)} · ${picked.length} escolha${s(picked.length)}`
+    : picked.length ? 'Nenhuma fila com esta escolha' : 'Escolhe pelo menos uma lista ou plataforma';
   $('install').disabled = $('copy').disabled = !rows;
 }
 
@@ -256,6 +282,13 @@ $('grid').addEventListener('click', e => {
   if (!card) return;
   const i = picked.findIndex(x => x.sn === card.dataset.sn);
   i >= 0 ? picked.splice(i, 1) : add(card.dataset.sn);
+  render();
+});
+$('chips').addEventListener('click', e => {
+  const chip = e.target.closest('.chip');
+  if (!chip) return;
+  const i = picked.findIndex(x => x.sn === chip.dataset.sn);
+  i >= 0 ? picked.splice(i, 1) : add(chip.dataset.sn);
   render();
 });
 $('q').addEventListener('input', renderGrid);

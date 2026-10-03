@@ -35,7 +35,7 @@ async function jw(query, variables) {
   if (!r.ok || j.errors) throw new Error(`JustWatch ${r.status} ${JSON.stringify(j.errors || '').slice(0, 200)}`);
   await sleep(1500); // JustWatch 403-bans bursts (Omnicatalogs, ~1200 requests)
   return j.data;
-}
+  }
 
 // Providers JustWatch has registered for Portugal (country: PT) that have titles — sports-only ones have none.
 // This is the list the justwatch.com/pt provider bar shows.
@@ -47,27 +47,32 @@ async function packages() {
   return packages
     .filter(p => p.hasTitles)
     .map(p => ({ shortName: p.shortName, name: p.clearName, monetization: p.monetizationTypes, channelOf: p.addonParent?.clearName || null, flixpatrol: FLIXPATROL[p.shortName] || null, icon: `https://images.justwatch.com${p.icon.replace('{format}', 'png')}` }));
-}
+  }
 
 const toItem = ({ node: { content: c } }) => ({ slug: `jw:${c.title}:${c.originalReleaseYear}`, title: c.title, year: c.originalReleaseYear, imdbId: c.externalIds?.imdbId });
 const CONTENT = 'content(country: $country, language: $language) { title originalReleaseYear externalIds { imdbId } }';
 
 // sort 'CHART': weekly JustWatch Top 10 (rank is JustWatch-global, 7, 11, 12…; only the order matters; often empty for small providers).
 // sort 'POPULAR' / 'TRENDING': the provider page on justwatch.com/pt/provedor/{x} with that ordering.
-async function justwatchList(shortName, sort) {
+// packages / genres: [] = no filter. TRENDING with no package = the "Top 10 … this week" rows on justwatch.com (checked 2026-10-03).
+async function justwatchList({ packages = [], genres = [] }, sort, size = LIST_SIZE) {
   const lists = {};
   for (const [objectType, type] of [['MOVIE', 'movie'], ['SHOW', 'series']]) {
-    const vars = { country: 'PT', language: 'en', obj: objectType, pk: [shortName] };
+    const vars = { country: 'PT', language: 'en', obj: objectType, pk: packages };
     lists[type] = sort === 'CHART'
       ? (await jw(`query C($country: Country!, $language: Language!, $obj: StreamingChartObjectType!, $pk: [String!]) {
           streamingCharts(country: $country, first: 10, filter: {category: WEEKLY_POPULARITY_SAME_CONTENT_TYPE, objectType: $obj, packages: $pk, previousTitles: 0, nextTitles: 0}) {
             edges { node { ${CONTENT} } } } }`, vars)).streamingCharts.edges.map(toItem)
-      : (await jw(`query L($country: Country!, $language: Language!, $obj: ObjectType!, $pk: [String!], $sort: PopularTitlesSorting!) {
-          popularTitles(country: $country, first: ${LIST_SIZE}, sortBy: $sort, filter: {packages: $pk, objectTypes: [$obj]}) {
-            edges { node { ${CONTENT} } } } }`, { ...vars, sort })).popularTitles.edges.map(toItem);
+      : (await jw(`query L($country: Country!, $language: Language!, $obj: ObjectType!, $pk: [String!], $g: [String!], $sort: PopularTitlesSorting!) {
+          popularTitles(country: $country, first: ${size}, sortBy: $sort, filter: {packages: $pk, genres: $g, objectTypes: [$obj]}) {
+            edges { node { ${CONTENT} } } } }`, { ...vars, g: genres, sort })).popularTitles.edges.map(toItem);
   }
   return lists;
-}
+  }
+
+async function genres() {
+  return (await jw('query { genres { shortName translation(language: "pt") } }', {})).genres;
+  }
 
 // ---------- FlixPatrol ----------
 
@@ -80,13 +85,13 @@ function parse(html) {
     lists[m[1]] = [...table.matchAll(/href="\/title\/([^"/]+)\/"[^>]*>([^<]+)<\/a>/g)].slice(0, 10).map(x => ({ slug: x[1], title: decode(x[2]) }));
   }
   return lists;
-}
+  }
 
 // "TOP 10 on Netflix in Portugal on October 2, 2026 • FlixPatrol" -> 2026-10-02
 function pageDate(html) {
   const m = html.match(/<title>[^<]* on (\w+ \d+, \d{4})/);
   return m ? new Date(m[1] + ' UTC').toISOString().slice(0, 10) : null;
-}
+  }
 
 // FlixPatrol's Cloudflare blocks plain fetch, r.jina.ai, headless Chrome and GitHub runners even headed (tested 2026-10-02/03).
 // Scraping services that get through, tried in order; those without an API key in env are skipped.
@@ -128,7 +133,7 @@ async function scrape(slugs) {
     }
   }
   return pages;
-}
+  }
 
 // ---------- title -> IMDb (Cinemeta) ----------
 
@@ -138,12 +143,12 @@ function yearOf({ slug, title, year }) {
   if (year) return year;
   const y = slug.match(/-((?:19|20)\d\d)$/)?.[1];
   return y && !norm(title).endsWith(y) ? +y : null;
-}
+  }
 
 async function search(type, title) {
   const r = await fetch(`https://v3-cinemeta.strem.io/catalog/${type}/top/search=${encodeURIComponent(title)}.json`);
   return r.ok ? (await r.json()).metas || [] : [];
-}
+  }
 
 // Only among Cinemeta's results for the full title, + year ±1 when known. No "first result" fallback: never guess.
 // 1. exact normalized name
@@ -160,7 +165,7 @@ function pick(metas, item, type) {
   const started = metas.filter(m => !year || (type === 'series' ? parseInt(m.releaseInfo) <= year + 1 : Math.abs(parseInt(m.releaseInfo) - year) <= 1));
   const loose = started.filter(m => m.releaseInfo && (norm(m.name) === base(item.title) || base(m.name) === norm(item.title)));
   return loose.length === 1 ? loose[0] : undefined;
-}
+  }
 
 // Fallback when Cinemeta has nothing: TMDB search (also matches translated titles: Land of Ambition = Terra Forte), exact name only.
 // TMDB_API_KEY: v3 API key or the long Read Access Token.
@@ -180,12 +185,12 @@ async function tmdb(type, item) {
   if (!m) return;
   const { imdb_id } = await get(`/${kind}/${m.id}/external_ids`);
   return imdb_id ? { id: imdb_id, name: m.title || m.name } : undefined;
-}
+  }
 
 async function popularity(type, id) {
   const r = await fetch(`https://v3-cinemeta.strem.io/meta/${type}/${id}.json`);
   return r.ok ? (await r.json()).meta?.popularities?.moviedb || 0 : 0;
-}
+  }
 
 // types: ['movie'] / ['series'], or both for Overall lists (Disney+).
 // Hit in both types (Modern Family series vs an obscure 2012 film): keep the one ≥10x more popular on TMDB, else unresolved.
@@ -203,7 +208,7 @@ async function resolve(item, types, cache) {
   if (!hit) return null;
   delete hit.pop;
   return (cache[key] = hit);
-}
+  }
 
 // ---------- main ----------
 
@@ -229,51 +234,68 @@ async function main() {
     : await scrape(fpSlugs);
   const now = new Date().toISOString();
 
-  const catalogs = [];
+  // One job per catalog id: { id, name, source, plan() -> [[items, types they may resolve to], …] (+ sets st.date) }
+  const jw2plan = lists => [[lists.movie, ['movie']], [lists.series, ['series']]];
+  const jobs = [];
   for (const sn of providers) {
     const fp = FLIXPATROL[sn];
     for (const list of Object.keys(LISTS)) {
-      const id = `${sn}-${list}`;
       const fromFp = list === 'top' && fp;
-      const st = { source: fromFp ? `https://flixpatrol.com/top10/${fp}/portugal/` : `JustWatch ${list === 'top' ? 'weekly chart' : list}`, checked: now, missing: [] };
-      let plan = []; // [items, types they may resolve to]
-      try {
-        if (fromFp) {
+      jobs.push({
+        id: `${sn}-${list}`,
+        name: `${names[sn] || sn} · ${list === 'top' ? (fp ? 'Top 10' : 'Top JustWatch') : LISTS[list]}`,
+        source: fromFp ? `https://flixpatrol.com/top10/${fp}/portugal/` : `JustWatch ${list === 'top' ? 'weekly chart' : list}`,
+        plan: async st => {
+          if (!fromFp) return jw2plan(await justwatchList({ packages: [sn] }, list === 'top' ? 'CHART' : list.toUpperCase()));
           const lists = parse(pages[fp] || '');
           st.date = pageDate(pages[fp] || '');
-          plan = lists.Overall && !lists.Movies && !lists['TV Shows'] ? [[lists.Overall, ['movie', 'series']]] : [[lists.Movies || [], ['movie']], [lists['TV Shows'] || [], ['series']]];
-        } else {
-          const lists = await justwatchList(sn, list === 'top' ? 'CHART' : list.toUpperCase());
-          st.date = now.slice(0, 10);
-          plan = [[lists.movie, ['movie']], [lists.series, ['series']]];
-        }
-      } catch (e) {
-        st.error = e.message;
-      }
-
-      const out = { movie: [], series: [] };
-      for (const [items, types] of plan) {
-        for (const item of items) {
-          const r = await resolve(item, types, cache);
-          if (r && !out[r.type].some(x => x.id === r.id)) out[r.type].push(r);
-          else if (!r) st.missing.push(item.title);
-        }
-      }
-      for (const type of ['movie', 'series']) {
-        const file = path.join(DOCS, 'catalog', type, `${id}.json`);
-        if (out[type].length >= MIN_ITEMS) {
-          write(file, { metas: out[type].map(r => ({ id: r.id, type, name: r.name, poster: `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${r.id}.jpg`, posterShape: 'poster' })) });
-          st[type] = { updated: st.date, count: out[type].length };
-        } else {
-          st[type] = { ...status[id]?.[type], error: `only ${out[type].length} resolved, kept previous file` };
-        }
-        if (fs.existsSync(file)) {
-          catalogs.push({ type, id, name: `${names[sn] || sn} · ${list === 'top' ? (fp ? 'Top 10' : 'Top JustWatch') : LISTS[list]}` });
-        }
-      }
-      status[id] = st;
-      console.log(id.padEnd(16), st.date, 'movies', out.movie.length, 'series', out.series.length, st.error || '', st.missing.length ? `missing: ${st.missing.join(', ')}` : '');
+          return lists.Overall && !lists.Movies && !lists['TV Shows'] ? [[lists.Overall, ['movie', 'series']]] : [[lists.Movies || [], ['movie']], [lists['TV Shows'] || [], ['series']]];
+        },
+      });
     }
+  }
+  // All platforms: this week's Top 10, overall and per genre (justwatch.com home rows). ids: all-top, gcmy-top, …
+  const general = [{ shortName: 'all', name: 'Todas as plataformas' }, ...(await genres()).map(g => ({ shortName: `g${g.shortName}`, name: g.translation, genre: g.shortName }))];
+  for (const g of general) {
+    jobs.push({
+      id: `${g.shortName}-top`,
+      name: g.genre ? `${g.name} · Top 10` : 'Portugal · Top 10',
+      source: `JustWatch trending${g.genre ? ` genre ${g.genre}` : ''}`,
+      plan: async () => jw2plan(await justwatchList({ genres: g.genre ? [g.genre] : [] }, 'TRENDING', 10)),
+    });
+  }
+
+  const catalogs = [];
+  for (const { id, name, source, plan: getPlan } of jobs) {
+    const st = { source, checked: now, missing: [] };
+    let plan = [];
+    try {
+      plan = await getPlan(st);
+      st.date ||= now.slice(0, 10);
+    } catch (e) {
+      st.error = e.message;
+    }
+
+    const out = { movie: [], series: [] };
+    for (const [items, types] of plan) {
+      for (const item of items) {
+        const r = await resolve(item, types, cache);
+        if (r && !out[r.type].some(x => x.id === r.id)) out[r.type].push(r);
+        else if (!r) st.missing.push(item.title);
+      }
+    }
+    for (const type of ['movie', 'series']) {
+      const file = path.join(DOCS, 'catalog', type, `${id}.json`);
+      if (out[type].length >= MIN_ITEMS) {
+        write(file, { metas: out[type].map(r => ({ id: r.id, type, name: r.name, poster: `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${r.id}.jpg`, posterShape: 'poster' })) });
+        st[type] = { updated: st.date, count: out[type].length };
+      } else {
+        st[type] = { ...status[id]?.[type], error: `only ${out[type].length} resolved, kept previous file` };
+      }
+      if (fs.existsSync(file)) catalogs.push({ type, id, name });
+    }
+    status[id] = st;
+    console.log(id.padEnd(16), st.date, 'movies', out.movie.length, 'series', out.series.length, st.error || '', st.missing.length ? `missing: ${st.missing.join(', ')}` : '');
   }
 
   write(path.join(DOCS, 'manifest.json'), {
@@ -288,8 +310,9 @@ async function main() {
   write(path.join(DOCS, 'status.json'), status);
   // for the configure page: names, logos, source
   write(path.join(DOCS, 'providers.json'), all.map(({ shortName, name, icon, flixpatrol }) => ({ shortName, name, icon, flixpatrol: !!flixpatrol })));
+  write(path.join(DOCS, 'general.json'), general.map(({ shortName, name, genre }) => ({ shortName, name, genre: !!genre })));
   write(CACHE_FILE, cache);
-}
+  }
 
 module.exports = { parse, resolve, yearOf, scrape, packages };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });
