@@ -169,6 +169,14 @@ const JW_CARD = {
 };
 const jwCardGet = id => JW_CARD[id]?.[1] || (/^g[a-z]{3}-top$/.test(id) ? f => jwPopular('TRENDING', { ...f, genres: [id.slice(1, 4)] }, 10) : null);
 
+// A platform's "Top 10 filmes e séries" as on justwatch.com/pt/provedor/{x}: the weekly chart per type, or the platform's
+// trending when the chart has fewer than 10 (the site's fallback); together = trending of both
+async function jwProviderTop(f) {
+  const chart = await jwChart('WEEKLY', f);
+  const trending = await jwPopular('TRENDING', f, 10);
+  return { movie: chart.movie.length >= 10 ? chart.movie : trending.movie, series: chart.series.length >= 10 ? chart.series : trending.series, mix: trending.mix };
+}
+
 // Stremio metas for one bucket; days → a separator poster before each day (the API makes "/sep/…" absolute)
 function toMetas(list, bucket, days) {
   const metas = [];
@@ -186,7 +194,7 @@ function toMetas(list, bucket, days) {
 
 // API: one JustWatch-card catalog for the user's platforms, built on request (Vercel's CDN caches the answer)
 async function liveCatalog(id, bucket, packages) {
-  const get = jwCardGet(id);
+  const get = id === 'provider-top' ? jwProviderTop : jwCardGet(id); // provider-top: one platform's Top 10
   if (!get) return null;
   pause = 0;
   const lists = await get({ packages });
@@ -419,18 +427,24 @@ async function main() {
   const jw2plan = lists => [[lists.movie, ['movie']], [lists.series, ['series']]];
   const novidades = await justwatchNew().catch(e => (console.error('novidades', e.message), null));
   const jobs = [];
-  // Platforms: only the FlixPatrol daily Top 10 (= the app). Everything JustWatch lives on the JustWatch card,
-  // limited to the user's platforms.
+  // Platforms with FlixPatrol: its daily Top 10 (= the app). Every other platform's Top 10 is JustWatch's, built live
+  // by the API ({sn}-top); their other lists ({sn}-jw-…) too.
   for (const sn of providers.filter(sn => FLIXPATROL[sn])) {
     const fp = FLIXPATROL[sn];
     jobs.push({
       id: `${sn}-top`,
       name: `${names[sn] || sn} · Top 10`,
       source: `https://flixpatrol.com/top10/${fp}/portugal/`,
+      mixed: true,
       plan: async st => {
         const lists = parse(pages[fp] || '');
         st.date = pageDate(pages[fp] || '');
-        return lists.Overall && !lists.Movies && !lists['TV Shows'] ? [[lists.Overall, ['movie', 'series']]] : [[lists.Movies || [], ['movie']], [lists['TV Shows'] || [], ['series']]];
+        if (lists.Overall && !lists.Movies && !lists['TV Shows']) return [[lists.Overall, ['movie', 'series']], [lists.Overall, ['movie', 'series'], 'mix']];
+        const movies = (lists.Movies || []).map(i => ({ ...i, kind: 'MOVIE' }));
+        const shows = (lists['TV Shows'] || []).map(i => ({ ...i, kind: 'SHOW' }));
+        // together: FlixPatrol's Overall list when it has one, else movies and series alternating
+        const together = lists.Overall ? [lists.Overall, ['movie', 'series'], 'mix'] : [movies.flatMap((m, i) => [m, shows[i]].filter(Boolean)).concat(shows.slice(movies.length)), null, 'mix'];
+        return [[movies, ['movie']], [shows, ['series']], together];
       },
     });
   }
@@ -522,5 +536,5 @@ async function main() {
   write(CACHE_FILE, cache);
 }
 
-module.exports = { parse, resolve, yearOf, scrape, packages, liveCatalog, JW_CARD };
+module.exports = { parse, resolve, yearOf, scrape, packages, liveCatalog };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });

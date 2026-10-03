@@ -205,8 +205,8 @@ let openSn = null;    // the one expanded pick
 const special = p => p === jw || p === tmdb; // cards that aren't a platform: lists carry their catalog id, can mix
 const info = sn => (sn === 'jw' ? jw : sn === 'tmdb' ? tmdb : providers.find(p => p.shortName === sn));
 const cardLists = p => p === jw || p === tmdb ? p.lists : [
-  ...(p.lists.has('top') ? [['top', 'Top 10 diário', `${p.shortName}-top`, 'Da app (FlixPatrol)', 'Top 10 diário']] : []),
-  ...JW_LISTS.map(([k, label, , group, full]) => [`jw-${k}`, label, `${p.shortName}-jw-${k}`, group, full]),
+  // Top 10: FlixPatrol's daily one (= the app) where it exists, else the platform's Top 10 on JustWatch
+  ['top', p.flixpatrol ? 'Top 10 diário' : 'Top 10', `${p.shortName}-top`, 'Top 10', p.flixpatrol ? 'Top 10 diário' : 'Top 10'],
 ];
 const catalogId = (sn, key) => cardLists(info(sn)).find(l => l[0] === key)[2];
 const listsOf = p => cardLists(p).map(([k, label, , , full]) => [k, full || label]);
@@ -251,7 +251,7 @@ function add(sn) {
   const p = info(sn);
   picked.push(special(p)
     ? { sn, lists: new Set([p.lists[0][0]]), mode: 'mix' }
-    : { sn, lists: new Set([p.lists.has('top') ? 'top' : 'jw-daily']), mode: 'sep' });
+    : { sn, lists: new Set(['top']), mode: 'sep' });
   openSn = sn; // a new pick opens, the others close
 }
 
@@ -276,7 +276,7 @@ function rowsOf(x) {
   const p = info(x.sn);
   const types = x.mode === 'sep' ? ['m', 's'] : x.mode === 'mix' ? ['x'] : [x.mode];
   return listsOf(p).filter(([k]) => x.lists.has(k)).flatMap(([k, label]) => types
-    .filter(t => have.has(`${catalogId(x.sn, k)}|${t}`) || /-jw-/.test(catalogId(x.sn, k))) // a platform's own JustWatch lists are built live
+    .filter(t => have.has(`${catalogId(x.sn, k)}|${t}`) || (!special(p) && !p.flixpatrol)) // Top 10 of a platform without FlixPatrol: built live
     .map(t => `${label}${t === 'x' ? '' : t === 'm' ? ' (filmes)' : ' (séries)'}`));
 }
 
@@ -296,7 +296,7 @@ function renderPicked() {
     const pill = ([k, label]) => `<button type="button" class="pill" data-list="${k}" aria-pressed="${x.lists.has(k)}">${icon('check')}${label}</button>`;
     // JustWatch: lists grouped like the site; genres folded behind "+ Géneros" except the picked ones
     const all = cardLists(p);
-    const groups = all.some(l => l[3]) ? [...new Set(all.map(l => l[3]))].map(g => {
+    const groups = p === jw ? [...new Set(all.map(l => l[3]))].map(g => {
       const ls = all.filter(l => l[3] === g);
       const shown = g === 'Géneros' && !x.more ? ls.filter(([k]) => x.lists.has(k)) : ls;
       return `<p class="grp">${g}</p><div class="pills">${shown.map(pill).join('')}${g === 'Géneros' ? `<button type="button" class="pill more" data-more>${x.more ? 'Menos' : '+ Géneros'}</button>` : ''}</div>`;
@@ -306,9 +306,9 @@ function renderPicked() {
     const body = !open ? '' : `
       <div class="body">
         ${groups || (lists.length > 1 ? `<div class="pills" role="group" aria-label="Listas">${lists.map(pill).join('')}</div>` : '')}
-        ${!lists.length ? '' : `<div class="segm" role="group" aria-label="Filmes e séries">${Object.entries(MODES).filter(([m]) => m !== 'mix' || special(p) || cardLists(p).some(l => l[0].startsWith('jw-'))).map(([m, [label, , tip]]) =>
+        ${!lists.length ? '' : `<div class="segm" role="group" aria-label="Filmes e séries">${Object.entries(MODES).map(([m, [label, , tip]]) =>
           `<button type="button" data-mode="${m}" title="${tip}" aria-pressed="${x.mode === m}">${label}</button>`).join('')}</div>`}
-        ${note}${special(p) ? '' : `<p class="note">Filas só de ${p.name}. Para juntar várias plataformas na mesma fila, usa o cartão <b>JustWatch</b>.</p>`}
+        ${note}${special(p) ? '' : `<p class="note">${p.flixpatrol ? 'Top 10 diário = o da app (FlixPatrol).' : 'Top 10 = o da página da plataforma no JustWatch.'} Escolhe filmes e séries separados ou juntos.</p>`}
         <div class="move">Mover
           <button type="button" class="icon-btn" data-move="-1" aria-label="Subir ${p.name}" ${i === 0 ? 'disabled' : ''}>${icon('up')}</button>
           <button type="button" class="icon-btn" data-move="1" aria-label="Descer ${p.name}" ${i === picked.length - 1 ? 'disabled' : ''}>${icon('down')}</button>
