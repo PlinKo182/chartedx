@@ -159,7 +159,8 @@
 
 <script>
 const LISTS = [['top', 'Top 10'], ['popular', 'Populares'], ['trending', 'Tendências']];
-const TYPES = [['m', 'Filmes'], ['s', 'Séries']];
+const TYPES = [['m', 'Filmes'], ['s', 'Séries'], ['x', 'Filmes + Séries']];
+const LETTER = { movie: 'm', series: 's', 'Filmes e Séries': 'x' };
 const icon = id => `<svg aria-hidden="true"><use href="#i-${id}"/></svg>`;
 const $ = id => document.getElementById(id);
 
@@ -170,7 +171,7 @@ let filter = 'all';
 let have = new Set();  // "nfx-top|m": catalogs that exist
 const info = sn => providers.find(p => p.shortName === sn) || general.find(p => p.shortName === sn);
 
-// Restore from /{config}/configure: "nfx-top,sic-popular.m,…" (.m movies only, .s series only)
+// Restore from /{config}/configure: "nfx-top,sic-popular.m,all-top.sx…" (no suffix = movies + series; m movies, s series, x mixed)
 function restore() {
   const first = location.pathname.split('/').filter(Boolean)[0];
   if (!first || first === 'configure') return;
@@ -180,7 +181,7 @@ function restore() {
     const sn = id.slice(0, i);
     if (!info(sn)) continue;
     let p = picked.find(x => x.sn === sn);
-    if (!p) picked.push(p = { sn, lists: new Set(), types: new Set(t ? [t] : ['m', 's']) });
+    if (!p) picked.push(p = { sn, lists: new Set(), types: new Set(t ? [...t] : ['m', 's']) });
     p.lists.add(id.slice(i + 1));
   }
 }
@@ -193,7 +194,7 @@ Promise.all([get('/providers.json'), get('/manifest.json'), get('/general.json')
       const i = c.id.lastIndexOf('-');
       (lists[c.id.slice(0, i)] ||= new Set()).add(c.id.slice(i + 1));
     }
-    have = new Set(manifest.catalogs.map(c => `${c.id}|${c.type === 'movie' ? 'm' : 's'}`));
+    have = new Set(manifest.catalogs.map(c => `${c.id}|${LETTER[c.type]}`));
     providers = all.filter(p => lists[p.shortName]).map(p => ({ ...p, lists: lists[p.shortName] }));
     general = gen.filter(p => lists[p.shortName]).map(p => ({ ...p, lists: lists[p.shortName] }));
     restore();
@@ -202,7 +203,8 @@ Promise.all([get('/providers.json'), get('/manifest.json'), get('/general.json')
 
 function add(sn) {
   const p = info(sn);
-  picked.push({ sn, lists: new Set([p.lists.has('top') ? 'top' : [...p.lists][0]]), types: new Set(['m', 's']) });
+  // general lists start mixed, like the justwatch.com rows; platforms start with movies + series
+  picked.push({ sn, lists: new Set([p.lists.has('top') ? 'top' : [...p.lists][0]]), types: new Set(p.icon ? ['m', 's'] : ['x']) });
 }
 
 function renderGrid() {
@@ -236,7 +238,7 @@ function renderPicked() {
       const text = l === 'top' && !p.flixpatrol ? 'Top semanal' : label;
       return `<button type="button" class="pill" data-list="${l}" aria-pressed="${x.lists.has(l)}">${icon('check')}${text}</button>`;
     }).join('');
-    const typePills = TYPES.map(([t, label]) => `<button type="button" class="pill" data-type="${t}" aria-pressed="${x.types.has(t)}">${icon('check')}${label}</button>`).join('');
+    const typePills = TYPES.filter(([t]) => [...p.lists].some(l => have.has(`${x.sn}-${l}|${t}`))).map(([t, label]) => `<button type="button" class="pill" data-type="${t}" aria-pressed="${x.types.has(t)}">${icon('check')}${label}</button>`).join('');
     const label = l => { const [, text] = LISTS.find(([k]) => k === l); return l === 'top' && !p.flixpatrol ? 'Top semanal' : text; };
     const only = l => have.has(`${x.sn}-${l}|m`) ? 'filmes' : 'séries';
     const empty = [...x.lists].filter(l => ![...x.types].some(t => have.has(`${x.sn}-${l}|${t}`)));
@@ -261,7 +263,8 @@ function renderPicked() {
 
 // Stremio board order: picked order, then Top 10 / Populares / Tendências; '' both types, '.m'/'.s' one
 const entries = () => picked.filter(x => x.types.size).flatMap(x => {
-  const t = x.types.size === 2 ? '' : `.${[...x.types][0]}`;
+  const letters = TYPES.map(([t]) => t).filter(t => x.types.has(t)).join('');
+  const t = letters === 'ms' ? '' : `.${letters}`;
   return LISTS.map(([l]) => l).filter(l => x.lists.has(l)).map(l => `${x.sn}-${l}${t}`);
 });
 const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
@@ -270,7 +273,7 @@ function render() {
   renderChips();
   renderGrid();
   renderPicked();
-  const rows = entries().reduce((n, e) => { const [id, t] = e.split('.'); return n + (t ? [t] : ['m', 's']).filter(x => have.has(`${id}|${x}`)).length; }, 0);
+  const rows = entries().reduce((n, e) => { const [id, t = 'ms'] = e.split('.'); return n + [...t].filter(x => have.has(`${id}|${x}`)).length; }, 0);
   const s = n => n === 1 ? '' : 's';
   $('summary').innerHTML = rows ? `<b>${rows}</b> fila${s(rows)} · ${picked.length} escolha${s(picked.length)}`
     : picked.length ? 'Nenhuma fila com esta escolha' : 'Escolhe pelo menos uma lista ou plataforma';
