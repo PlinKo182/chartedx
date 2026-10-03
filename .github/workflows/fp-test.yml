@@ -1,0 +1,24 @@
+# One-off check: can a GitHub runner get past FlixPatrol's Cloudflare?
+name: flixpatrol-test
+on: workflow_dispatch
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: npm ci
+      - name: headed Chrome under xvfb
+        env: { CHROME: /usr/bin/google-chrome }
+        run: |
+          xvfb-run -a node -e "
+            require('./update').scrape(['netflix']).then(p => {
+              const h = p.netflix || '';
+              console.log('len', h.length, 'title', (h.match(/<title>([^<]*)/) || [])[1]);
+              console.log('PASSED', /TOP 10 Movies/.test(h));
+              require('fs').writeFileSync('fp.html', h);
+            })"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: fp, path: fp.html }
