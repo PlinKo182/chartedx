@@ -4,6 +4,7 @@
 //   /{config}/manifest.json           only the picked catalogs; config = comma list of catalog ids, optionally
 //                                     limited to one type: nfx-top (movies+series), sic-popular.m (movies), nfx-trending.s (series)
 //   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action
+//   /providers.json, /logo.png, /logo.svg   for the configure page and Stremio
 const fs = require('fs');
 const path = require('path');
 
@@ -21,8 +22,18 @@ module.exports = (req, res) => {
     return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'configure.html')), 'no-cache');
   }
 
+  if (parts.length === 1 && ['logo.png', 'logo.svg'].includes(parts[0])) {
+    return send(res, 200, parts[0].endsWith('png') ? 'image/png' : 'image/svg+xml', fs.readFileSync(path.join(ROOT, parts[0])), 'public, max-age=86400');
+  }
+
+  if (parts[0] === 'providers.json') {
+    return send(res, 200, 'application/json', fs.readFileSync(path.join(ROOT, 'docs', 'providers.json')), 'no-cache');
+  }
+
   if (parts[0] === 'manifest.json') {
     const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'manifest.json'), 'utf8'));
+    const host = req.headers.host;
+    manifest.logo = `${/^(localhost|127\.)/.test(host) ? 'http' : 'https'}://${host}/logo.png`;
     if (config) {
       const type = { m: 'movie', s: 'series' };
       manifest.catalogs = config.split(',').flatMap(entry => { // user's order

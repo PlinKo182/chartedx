@@ -42,11 +42,11 @@ async function jw(query, variables) {
 async function packages() {
   const { packages } = await jw(`query P($country: Country!) {
     packages(country: $country, platform: WEB, includeAddons: true) {
-      shortName clearName monetizationTypes hasTitles(country: $country, platform: WEB)
+      shortName clearName monetizationTypes icon(profile: S100) hasTitles(country: $country, platform: WEB)
       addonParent(country: $country, platform: WEB) { clearName } } }`, { country: 'PT' });
   return packages
     .filter(p => p.hasTitles)
-    .map(p => ({ shortName: p.shortName, name: p.clearName, monetization: p.monetizationTypes, channelOf: p.addonParent?.clearName || null, flixpatrol: FLIXPATROL[p.shortName] || null }));
+    .map(p => ({ shortName: p.shortName, name: p.clearName, monetization: p.monetizationTypes, channelOf: p.addonParent?.clearName || null, flixpatrol: FLIXPATROL[p.shortName] || null, icon: `https://images.justwatch.com${p.icon.replace('{format}', 'png')}` }));
 }
 
 const toItem = ({ node: { content: c } }) => ({ slug: `jw:${c.title}:${c.originalReleaseYear}`, title: c.title, year: c.originalReleaseYear, imdbId: c.externalIds?.imdbId });
@@ -286,8 +286,10 @@ async function main() {
     catalogs,
   });
   write(path.join(DOCS, 'status.json'), status);
+  // for the configure page: names, logos, source
+  write(path.join(DOCS, 'providers.json'), all.map(({ shortName, name, icon, flixpatrol }) => ({ shortName, name, icon, flixpatrol: !!flixpatrol })));
   write(CACHE_FILE, cache);
 }
 
-module.exports = { parse, resolve, yearOf, scrape };
+module.exports = { parse, resolve, yearOf, scrape, packages };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });

@@ -4,133 +4,313 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>ChartedX</title>
+<link rel="icon" href="/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-  :root { --bg: #0f1115; --card: #181b22; --line: #2a2f3a; --text: #e8eaf0; --muted: #9aa1b2; --accent: #7b5cff; }
+  :root {
+    --bg: #0F0F23; --surface: #17172F; --surface-2: #1F1F3D; --line: #2D2D55;
+    --text: #F8FAFC; --muted: #A9ACC9; --accent: #6366F1; --accent-soft: rgba(99, 102, 241, .16);
+    --cta: #22C55E; --cta-text: #052E16; --fp: #F59E0B;
+    --radius: 14px;
+  }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.4 system-ui, sans-serif; }
-  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 120px; }
-  h1 { margin: 0 0 4px; }
-  p { color: var(--muted); margin: 0 0 16px; }
-  .tools { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
-  input[type=search] { flex: 1; min-width: 180px; padding: 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
-  button { padding: 10px 14px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); cursor: pointer; }
-  .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); margin-bottom: 6px; }
-  .row b { min-width: 160px; }
-  .row label { margin-left: 12px; color: var(--muted); white-space: nowrap; }
-  .row label:has(input:checked) { color: var(--text); }
-  .src { font-size: 12px; color: var(--muted); font-weight: normal; }
-  .types { padding-left: 12px; border-left: 1px solid var(--line); }
-  .row b { flex: 1; }
-  .move { display: flex; flex-direction: column; }
-  .move button { padding: 0 6px; font-size: 10px; line-height: 14px; border: 0; background: none; color: var(--muted); }
-  .move button:hover { color: var(--text); }
-  footer { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card); border-top: 1px solid var(--line); padding: 12px 16px; }
-  footer div { max-width: 760px; margin: 0 auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
-  .primary { background: var(--accent); border-color: var(--accent); font-weight: 600; }
-  #count { color: var(--muted); margin-right: auto; }
+  html { color-scheme: dark; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Poppins, system-ui, sans-serif; }
+  button { font: inherit; color: inherit; cursor: pointer; }
+  button:focus-visible, input:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  svg { width: 18px; height: 18px; flex: none; }
+  main { max-width: 980px; margin: 0 auto; padding: 32px 16px 140px; }
+
+  header { display: flex; gap: 16px; align-items: center; margin-bottom: 32px; }
+  header img { width: 56px; height: 56px; }
+  header h1 { margin: 0; font-size: 28px; line-height: 1.1; }
+  header p { margin: 4px 0 0; color: var(--muted); }
+
+  h2 { display: flex; align-items: center; gap: 10px; font-size: 18px; margin: 0 0 6px; }
+  h2 span { display: grid; place-items: center; width: 28px; height: 28px; border-radius: 50%; background: var(--accent); font-size: 14px; }
+  .hint { color: var(--muted); margin: 0 0 16px; font-size: 14px; }
+  .hint b { color: var(--fp); font-weight: 500; }
+  section { margin-bottom: 40px; }
+
+  /* step 1: platform grid */
+  .tools { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 16px; }
+  .search { flex: 1; min-width: 200px; display: flex; align-items: center; gap: 8px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--muted); }
+  .search input { flex: 1; min-height: 44px; border: 0; background: none; color: var(--text); font: inherit; }
+  .search input:focus { outline: none; }
+  .search:focus-within { border-color: var(--accent); }
+  .seg { display: flex; padding: 3px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+  .seg button { min-height: 38px; padding: 0 14px; border: 0; border-radius: 8px; background: none; color: var(--muted); transition: background .2s, color .2s; }
+  .seg button[aria-pressed=true] { background: var(--surface-2); color: var(--text); }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 10px; }
+  .card { position: relative; display: flex; flex-direction: column; align-items: center; gap: 8px; padding: 14px 8px 12px; border: 2px solid var(--line); border-radius: var(--radius); background: var(--surface); text-align: center; transition: border-color .2s, background .2s; }
+  .card:hover { border-color: #46468A; }
+  .card img { width: 56px; height: 56px; border-radius: 12px; }
+  .card .name { font-size: 13px; font-weight: 500; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .tag { font-size: 11px; color: var(--fp); }
+  .card .check { position: absolute; top: 6px; right: 6px; display: none; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--accent); }
+  .card .check svg { width: 14px; height: 14px; }
+  .card[aria-pressed=true] { border-color: var(--accent); background: var(--accent-soft); }
+  .card[aria-pressed=true] .check { display: grid; }
+
+  /* step 2: picked, ordered */
+  .empty { padding: 28px; border: 2px dashed var(--line); border-radius: var(--radius); color: var(--muted); text-align: center; }
+  ol { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+  li { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; padding: 10px 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); transition: opacity .2s, border-color .2s; }
+  li.dragging { opacity: .4; }
+  li.over { border-color: var(--accent); }
+  .grip { cursor: grab; color: var(--muted); display: grid; place-items: center; width: 28px; min-height: 44px; }
+  li img { width: 40px; height: 40px; border-radius: 10px; }
+  .who { flex: 1; min-width: 120px; }
+  .who b { display: block; font-weight: 600; }
+  .who small { color: var(--muted); }
+  .pills { display: flex; gap: 6px; flex-wrap: wrap; }
+  .pills + .pills { padding-left: 12px; border-left: 1px solid var(--line); }
+  .pill { min-height: 36px; padding: 0 12px; border: 1px solid var(--line); border-radius: 999px; background: none; color: var(--muted); font-size: 13px; display: inline-flex; align-items: center; gap: 6px; transition: background .2s, color .2s, border-color .2s; }
+  .pill svg { width: 14px; height: 14px; display: none; }
+  .pill[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .pill[aria-pressed=true] svg { display: block; }
+  .icon-btn { display: grid; place-items: center; width: 36px; height: 36px; border: 0; border-radius: 8px; background: none; color: var(--muted); transition: background .2s, color .2s; }
+  .icon-btn:hover { background: var(--surface-2); color: var(--text); }
+  .icon-btn:disabled { opacity: .3; cursor: default; background: none; }
+  .actions { display: flex; }
+  .warn { width: 100%; margin: 0 0 0 40px; color: var(--fp); font-size: 13px; }
+
+  footer { position: fixed; z-index: 10; left: 12px; right: 12px; bottom: 12px; max-width: 956px; margin: 0 auto; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; padding: 12px 12px 12px 18px; border: 1px solid var(--line); border-radius: 16px; background: rgba(23, 23, 47, .92); backdrop-filter: blur(10px); box-shadow: 0 10px 40px rgba(0, 0, 0, .4); }
+  #summary { margin-right: auto; color: var(--muted); font-size: 14px; }
+  #summary b { color: var(--text); }
+  .btn { min-height: 44px; padding: 0 18px; border-radius: 10px; display: inline-flex; align-items: center; gap: 8px; font-weight: 600; transition: filter .2s, background .2s; }
+  .btn.secondary { border: 1px solid var(--line); background: var(--surface-2); }
+  .btn.primary { border: 0; background: var(--cta); color: var(--cta-text); }
+  .btn:hover:not(:disabled) { filter: brightness(1.1); }
+  .btn:disabled { opacity: .4; cursor: default; }
+
+  @media (max-width: 600px) {
+    header h1 { font-size: 24px; }
+    .pills + .pills { padding-left: 0; border-left: 0; }
+    footer .btn { flex: 1; justify-content: center; }
+  }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
 </style>
 </head>
 <body>
+<svg style="display:none" xmlns="http://www.w3.org/2000/svg">
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m20 20-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-grip" viewBox="0 0 24 24"><g fill="currentColor"><circle cx="9" cy="6" r="1.6"/><circle cx="15" cy="6" r="1.6"/><circle cx="9" cy="12" r="1.6"/><circle cx="15" cy="12" r="1.6"/><circle cx="9" cy="18" r="1.6"/><circle cx="15" cy="18" r="1.6"/></g></symbol>
+  <symbol id="i-up" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-down" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-x" viewBox="0 0 24 24"><path d="M18 6 6 18M6 6l12 12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+  <symbol id="i-link" viewBox="0 0 24 24"><path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/></symbol>
+</svg>
+
 <main>
-  <h1>ChartedX</h1>
-  <p>Escolhe as plataformas e as listas. «Top 10» = FlixPatrol diário (igual à app) ou, sem FlixPatrol, o top semanal do JustWatch. Populares e Tendências vêm do JustWatch.</p>
-  <div class="tools">
-    <input type="search" id="q" placeholder="Procurar plataforma…">
-    <button id="tops">Todos os Top 10</button>
-    <button id="none">Limpar</button>
-  </div>
-  <div id="list">A carregar…</div>
+  <header>
+    <img src="/logo.svg" alt="">
+    <div>
+      <h1>ChartedX</h1>
+      <p>Os tops das plataformas de streaming em Portugal, no teu Stremio.</p>
+    </div>
+  </header>
+
+  <section>
+    <h2><span>1</span>Escolhe as plataformas</h2>
+    <p class="hint"><b>Top 10 diário</b> = o mesmo Top 10 que a plataforma mostra na app. Nas restantes, o top é semanal (JustWatch).</p>
+    <div class="tools">
+      <label class="search"><svg><use href="#i-search"/></svg><input type="search" id="q" placeholder="Procurar plataforma…" aria-label="Procurar plataforma"></label>
+      <div class="seg" role="group" aria-label="Filtro">
+        <button type="button" data-filter="all" aria-pressed="true">Todas</button>
+        <button type="button" data-filter="fp" aria-pressed="false">Top 10 diário</button>
+      </div>
+    </div>
+    <div class="grid" id="grid">A carregar…</div>
+  </section>
+
+  <section>
+    <h2><span>2</span>Ordena e escolhe as listas</h2>
+    <p class="hint">A ordem aqui é a ordem das filas no ecrã inicial do Stremio. Arrasta pela pega ou usa as setas.</p>
+    <div id="picked"></div>
+  </section>
 </main>
-<footer><div>
-  <span id="count"></span>
-  <button id="copy">Copiar link</button>
-  <button id="install" class="primary">Instalar no Stremio</button>
-</div></footer>
+
+<footer>
+  <span id="summary"></span>
+  <button class="btn secondary" id="copy" type="button"><svg><use href="#i-link"/></svg><span>Copiar link</span></button>
+  <button class="btn primary" id="install" type="button"><svg><use href="#i-plus"/></svg><span>Instalar no Stremio</span></button>
+</footer>
+
 <script>
 const LISTS = [['top', 'Top 10'], ['popular', 'Populares'], ['trending', 'Tendências']];
-const sn = id => id.slice(0, id.lastIndexOf('-'));
-// config from /{config}/configure, if reinstalling: entries "nfx-top", "sic-popular.m" (movies only), "nfx-trending.s" (series only)
-const first = location.pathname.split('/').filter(Boolean)[0];
-const saved = first && first !== 'configure' ? decodeURIComponent(first).split(',') : [];
-const picked = saved.map(e => e.split('.')[0]);
-const savedType = Object.fromEntries(saved.map(e => [sn(e.split('.')[0]), e.split('.')[1]])); // provider -> 'm' | 's' | undefined
-const savedOrder = [...new Set(picked.map(sn))];
+const TYPES = [['m', 'Filmes'], ['s', 'Séries']];
+const icon = id => `<svg aria-hidden="true"><use href="#i-${id}"/></svg>`;
+const $ = id => document.getElementById(id);
 
-const list = document.getElementById('list');
-fetch('/manifest.json', { cache: 'no-cache' }).then(r => r.json()).then(m => {
-  const providers = new Map(); // sn -> {name, lists:Set, source}
-  for (const c of m.catalogs) {
-    const [sn, list] = [c.id.slice(0, c.id.lastIndexOf('-')), c.id.slice(c.id.lastIndexOf('-') + 1)];
-    const p = providers.get(sn) || { name: c.name.split(' · ')[0], lists: new Set(), jw: false };
-    p.lists.add(list);
-    if (list === 'top' && c.name.endsWith('Top JustWatch')) p.jw = true;
-    providers.set(sn, p);
+let providers = [];   // [{shortName, name, icon, flixpatrol, lists:Set}] in JustWatch order
+let picked = [];      // [{sn, lists:Set, types:Set}] in board order
+let filter = 'all';
+let have = new Set();  // "nfx-top|m": catalogs that exist
+const info = sn => providers.find(p => p.shortName === sn);
+
+// Restore from /{config}/configure: "nfx-top,sic-popular.m,…" (.m movies only, .s series only)
+function restore() {
+  const first = location.pathname.split('/').filter(Boolean)[0];
+  if (!first || first === 'configure') return;
+  for (const entry of decodeURIComponent(first).split(',')) {
+    const [id, t] = entry.split('.');
+    const i = id.lastIndexOf('-');
+    const sn = id.slice(0, i);
+    if (!info(sn)) continue;
+    let p = picked.find(x => x.sn === sn);
+    if (!p) picked.push(p = { sn, lists: new Set(), types: new Set(t ? [t] : ['m', 's']) });
+    p.lists.add(id.slice(i + 1));
   }
-  // previously picked providers first, in their saved order
-  const rank = id => (savedOrder.indexOf(id) + 1) || Infinity;
-  list.innerHTML = [...providers].sort(([a], [b]) => rank(a) - rank(b)).map(([id, p]) => `
-    <div class="row" data-sn="${id}" data-name="${p.name.toLowerCase()}">
-      <span class="move"><button data-move="-1" title="Subir">▲</button><button data-move="1" title="Descer">▼</button></span>
-      <b>${p.name}${p.lists.has('top') ? ` <span class="src">${p.jw ? 'JustWatch' : 'FlixPatrol'}</span>` : ''}</b>
-      <span>${LISTS.filter(([l]) => p.lists.has(l)).map(([l, label]) =>
-        `<label><input type="checkbox" class="list" value="${id}-${l}" ${picked.includes(`${id}-${l}`) ? 'checked' : ''}> ${label}</label>`).join('')}
-        <span class="types">
-          <label><input type="checkbox" class="type" value="m" ${savedType[id] !== 's' ? 'checked' : ''}> Filmes</label>
-          <label><input type="checkbox" class="type" value="s" ${savedType[id] !== 'm' ? 'checked' : ''}> Séries</label>
-        </span></span>
-    </div>`).join('');
-  update();
-});
+}
 
-const boxes = () => [...list.querySelectorAll('input.list')];
-const rows = () => [...list.querySelectorAll('.row')];
-const isOn = row => row.querySelector('input.list:checked');
-// '' = movies and series, '.m' / '.s' = one type, null = neither
-function typeOf(row) {
-  const [m, s] = [...row.querySelectorAll('input.type')].map(b => b.checked);
-  return m && s ? '' : m ? '.m' : s ? '.s' : null;
+Promise.all([fetch('/providers.json', { cache: 'no-cache' }).then(r => r.json()), fetch('/manifest.json', { cache: 'no-cache' }).then(r => r.json())])
+  .then(([all, manifest]) => {
+    const lists = {};
+    for (const c of manifest.catalogs) {
+      const i = c.id.lastIndexOf('-');
+      (lists[c.id.slice(0, i)] ||= new Set()).add(c.id.slice(i + 1));
+    }
+    have = new Set(manifest.catalogs.map(c => `${c.id}|${c.type === 'movie' ? 'm' : 's'}`));
+    providers = all.filter(p => lists[p.shortName]).map(p => ({ ...p, lists: lists[p.shortName] }));
+    restore();
+    render();
+  });
+
+function add(sn) {
+  const p = info(sn);
+  picked.push({ sn, lists: new Set([p.lists.has('top') ? 'top' : [...p.lists][0]]), types: new Set(['m', 's']) });
 }
-// Stremio board order = row order on this page, then Top 10 / Populares / Tendências within a provider
-const entries = () => rows().filter(r => typeOf(r) !== null)
-  .flatMap(r => [...r.querySelectorAll('input.list:checked')].map(b => b.value + typeOf(r)));
-function update() {
-  const n = entries().reduce((sum, e) => sum + (e.includes('.') ? 1 : 2), 0);
-  document.getElementById('count').textContent = `${n} filas no Stremio`;
+
+function renderGrid() {
+  const q = $('q').value.trim().toLowerCase();
+  $('grid').innerHTML = providers
+    .filter(p => (filter === 'all' || p.flixpatrol) && p.name.toLowerCase().includes(q))
+    .map(p => `
+      <button type="button" class="card" data-sn="${p.shortName}" aria-pressed="${picked.some(x => x.sn === p.shortName)}">
+        <span class="check">${icon('check')}</span>
+        <img src="${p.icon}" alt="" loading="lazy">
+        <span class="name">${p.name}</span>
+        ${p.flixpatrol ? '<span class="tag">Top 10 diário</span>' : ''}
+      </button>`).join('') || '<p class="hint">Nenhuma plataforma encontrada.</p>';
 }
+
+function renderPicked() {
+  if (!picked.length) {
+    $('picked').innerHTML = '<div class="empty">Ainda não escolheste nenhuma plataforma. Toca nas plataformas acima.</div>';
+    return;
+  }
+  $('picked').innerHTML = `<ol>${picked.map((x, i) => {
+    const p = info(x.sn);
+    const listPills = LISTS.filter(([l]) => p.lists.has(l)).map(([l, label]) => {
+      const text = l === 'top' && !p.flixpatrol ? 'Top semanal' : label;
+      return `<button type="button" class="pill" data-list="${l}" aria-pressed="${x.lists.has(l)}">${icon('check')}${text}</button>`;
+    }).join('');
+    const typePills = TYPES.map(([t, label]) => `<button type="button" class="pill" data-type="${t}" aria-pressed="${x.types.has(t)}">${icon('check')}${label}</button>`).join('');
+    const label = l => { const [, text] = LISTS.find(([k]) => k === l); return l === 'top' && !p.flixpatrol ? 'Top semanal' : text; };
+    const only = l => have.has(`${x.sn}-${l}|m`) ? 'filmes' : 'séries';
+    const empty = [...x.lists].filter(l => ![...x.types].some(t => have.has(`${x.sn}-${l}|${t}`)));
+    const warn = !x.lists.size || !x.types.size ? '<p class="warn">Escolhe pelo menos uma lista e um tipo, senão esta plataforma não aparece.</p>'
+      : empty.length ? `<p class="warn">${empty.map(l => `${label(l)} só tem ${only(l)}`).join(' · ')}.</p>` : '';
+    return `
+      <li draggable="true" data-i="${i}">
+        <span class="grip" aria-hidden="true">${icon('grip')}</span>
+        <img src="${p.icon}" alt="">
+        <span class="who"><b>${p.name}</b><small>${p.flixpatrol ? 'Top 10 diário' : 'JustWatch'}</small></span>
+        <span class="pills" role="group" aria-label="Listas">${listPills}</span>
+        <span class="pills" role="group" aria-label="Tipo">${typePills}</span>
+        <span class="actions">
+          <button type="button" class="icon-btn" data-move="-1" aria-label="Subir ${p.name}" ${i === 0 ? 'disabled' : ''}>${icon('up')}</button>
+          <button type="button" class="icon-btn" data-move="1" aria-label="Descer ${p.name}" ${i === picked.length - 1 ? 'disabled' : ''}>${icon('down')}</button>
+          <button type="button" class="icon-btn" data-remove aria-label="Remover ${p.name}">${icon('x')}</button>
+        </span>
+        ${warn}
+      </li>`;
+  }).join('')}</ol>`;
+}
+
+// Stremio board order: picked order, then Top 10 / Populares / Tendências; '' both types, '.m'/'.s' one
+const entries = () => picked.filter(x => x.types.size).flatMap(x => {
+  const t = x.types.size === 2 ? '' : `.${[...x.types][0]}`;
+  return LISTS.map(([l]) => l).filter(l => x.lists.has(l)).map(l => `${x.sn}-${l}${t}`);
+});
 const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
-list.addEventListener('change', e => {
-  const row = e.target.closest('.row');
-  // a provider just picked joins the end of the picked block at the top
-  if (e.target.classList.contains('list') && e.target.checked && row.querySelectorAll('input.list:checked').length === 1) {
-    const lastOn = rows().filter(r => r !== row && isOn(r)).pop();
-    lastOn ? lastOn.after(row) : list.prepend(row);
-  }
-  update();
+
+function render() {
+  renderGrid();
+  renderPicked();
+  const rows = entries().reduce((n, e) => { const [id, t] = e.split('.'); return n + (t ? [t] : ['m', 's']).filter(x => have.has(`${id}|${x}`)).length; }, 0);
+  const s = n => n === 1 ? '' : 's';
+  $('summary').innerHTML = rows ? `<b>${rows}</b> fila${s(rows)} · ${picked.length} plataforma${s(picked.length)}`
+    : picked.length ? 'Nenhuma fila com esta escolha' : 'Escolhe pelo menos uma plataforma';
+  $('install').disabled = $('copy').disabled = !rows;
+}
+
+$('grid').addEventListener('click', e => {
+  const card = e.target.closest('.card');
+  if (!card) return;
+  const i = picked.findIndex(x => x.sn === card.dataset.sn);
+  i >= 0 ? picked.splice(i, 1) : add(card.dataset.sn);
+  render();
 });
-list.addEventListener('click', e => {
-  const step = +e.target.dataset.move;
-  if (!step) return;
-  const row = e.target.closest('.row');
-  const sibling = step < 0 ? row.previousElementSibling : row.nextElementSibling;
-  if (sibling) step < 0 ? sibling.before(row) : sibling.after(row);
-  update();
+$('q').addEventListener('input', renderGrid);
+document.querySelector('.seg').addEventListener('click', e => {
+  if (!e.target.dataset.filter) return;
+  filter = e.target.dataset.filter;
+  document.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b === e.target));
+  renderGrid();
 });
-document.getElementById('q').addEventListener('input', e => document.querySelectorAll('.row').forEach(r => { r.hidden = !r.dataset.name.includes(e.target.value.toLowerCase()); }));
-document.getElementById('tops').onclick = () => { boxes().forEach(b => { if (b.value.endsWith('-top')) b.checked = true; }); update(); };
-document.getElementById('none').onclick = () => { boxes().forEach(b => { b.checked = false; }); update(); };
-document.getElementById('install').onclick = async e => {
-  if (!entries().length) return;
+
+$('picked').addEventListener('click', e => {
+  const li = e.target.closest('li');
+  const btn = e.target.closest('button');
+  if (!li || !btn) return;
+  const i = +li.dataset.i;
+  const x = picked[i];
+  if (btn.dataset.list) x.lists.has(btn.dataset.list) ? x.lists.delete(btn.dataset.list) : x.lists.add(btn.dataset.list);
+  else if (btn.dataset.type) x.types.has(btn.dataset.type) ? x.types.delete(btn.dataset.type) : x.types.add(btn.dataset.type);
+  else if (btn.dataset.move) { const j = i + +btn.dataset.move; [picked[i], picked[j]] = [picked[j], picked[i]]; }
+  else if ('remove' in btn.dataset) picked.splice(i, 1);
+  render();
+});
+
+// drag to reorder
+let from = null;
+$('picked').addEventListener('dragstart', e => { const li = e.target.closest('li'); from = +li.dataset.i; li.classList.add('dragging'); e.dataTransfer.effectAllowed = 'move'; });
+$('picked').addEventListener('dragover', e => {
+  const li = e.target.closest('li');
+  if (from === null || !li) return;
+  e.preventDefault();
+  document.querySelectorAll('li.over').forEach(x => x.classList.remove('over'));
+  li.classList.add('over');
+});
+$('picked').addEventListener('drop', e => {
+  const li = e.target.closest('li');
+  if (from === null || !li) return;
+  e.preventDefault();
+  picked.splice(+li.dataset.i, 0, picked.splice(from, 1)[0]);
+  from = null;
+  render();
+});
+$('picked').addEventListener('dragend', () => { from = null; render(); });
+
+async function copyLink(btn, text, done) {
+  await navigator.clipboard.writeText(text).catch(() => {});
+  const label = btn.querySelector('span');
+  const old = label.textContent;
+  label.textContent = done;
+  setTimeout(() => { label.textContent = old; }, 3000);
+}
+$('copy').onclick = e => copyLink(e.currentTarget, `${location.protocol}//${url()}`, 'Copiado');
+$('install').onclick = e => {
   if (location.protocol === 'https:') return void (location.href = `stremio://${url()}`);
-  // stremio:// always becomes https:// (and drops the port), so a local http server can only be added by pasting the link
-  await navigator.clipboard.writeText(`http://${url()}`).catch(() => {});
-  e.target.textContent = 'Link copiado: cola em Add-ons no Stremio';
-  setTimeout(() => { e.target.textContent = 'Instalar no Stremio'; }, 4000);
-};
-document.getElementById('copy').onclick = async e => {
-  if (!entries().length) return;
-  await navigator.clipboard.writeText(`${location.protocol}//${url()}`).catch(() => {});
-  e.target.textContent = 'Copiado';
-  setTimeout(() => { e.target.textContent = 'Copiar link'; }, 1500);
+  // stremio:// always becomes https:// (and drops the port): a local http server has to be pasted in Stremio → Add-ons
+  copyLink(e.currentTarget, `http://${url()}`, 'Copiado: cola em Add-ons no Stremio');
 };
 </script>
 </body>
