@@ -1,6 +1,6 @@
 // ChartedX: Portugal Top 10 per streaming provider -> static Stremio catalog addon in docs/ (served by GitHub Pages).
 // Source per provider: FlixPatrol daily Top 10 (= what the app shows) when it exists, else JustWatch weekly streamingCharts.
-// Usage: node update.js                  update (FlixPatrol needs FIRECRAWL_API_KEY)
+// Usage: node update.js                  update (FlixPatrol: CF_ACCOUNT_ID + CF_API_TOKEN, fallback FIRECRAWL_API_KEY)
 //        node update.js <fixtureDir>     same, but FlixPatrol pages from saved fp-{slug}.html files
 //        node update.js list-providers   write providers-available.json (pick shortNames from it into providers.json)
 const fs = require('fs');
@@ -89,8 +89,22 @@ function pageDate(html) {
 
 // FlixPatrol's Cloudflare blocks plain fetch, r.jina.ai, headless Chrome and GitHub runners even headed (tested 2026-10-02/03).
 // Scraping services that get through, tried in order; those without an API key in env are skipped.
-// ScrapingAnt tested 2026-10-03: detected by FlixPatrol even with residential proxy — not usable.
+// ScrapingAnt tested 2026-10-03: detected by FlixPatrol even with residential proxy. Scrapfly: works only with asp, 80 credits/page.
 const SCRAPERS = {
+  async CF_API_TOKEN(url, token) { // Cloudflare Browser Rendering, free plan (~10 browser-min/day), works (tested 2026-10-03)
+    for (let attempt = 0; attempt < 6; attempt++) {
+      const r = await fetch(`https://api.cloudflare.com/client/v4/accounts/${process.env.CF_ACCOUNT_ID}/browser-rendering/content`, {
+        method: 'POST',
+        headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' },
+        body: JSON.stringify({ url, gotoOptions: { waitUntil: 'networkidle0' } }),
+      });
+      const j = await r.json().catch(() => ({}));
+      if (j.success) return j.result;
+      if (j.errors?.[0]?.code !== 2001) return JSON.stringify(j).slice(0, 300);
+      await sleep(15000); // free plan rate limit
+    }
+    return 'rate limited';
+  },
   async FIRECRAWL_API_KEY(url, key) { // 1 credit/page, works (tested 2026-10-03)
     const r = await fetch('https://api.firecrawl.dev/v2/scrape', {
       method: 'POST',
