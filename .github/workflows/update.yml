@@ -18,12 +18,9 @@ jobs:
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
       - run: |
-          git config user.name github-actions
-          git config user.email github-actions@users.noreply.github.com
+          # commits as the repo owner: Vercel (free plan) blocks deploys of commits by other authors, like github-actions
+          git config user.name PlinKo182
+          git config user.email jrplinko@gmail.com
           git add docs cache.json
           git diff --cached --quiet || git commit -m "update $(date -u +%F)"
           git pull --rebase && git push # main may have moved while this ran
-      # Vercel (free plan) blocks deploys of commits by github-actions; the deploy hook redeploys main regardless
-      - run: curl -fsS -X POST "$VERCEL_DEPLOY_HOOK" > /dev/null
-        env:
-          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
