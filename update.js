@@ -1,6 +1,6 @@
 // ChartedX: Portugal Top 10 per streaming provider -> static Stremio catalog addon in docs/ (served by GitHub Pages).
 // Source per provider: FlixPatrol daily Top 10 (= what the app shows) when it exists, else JustWatch weekly streamingCharts.
-// Usage: node update.js                  update (FlixPatrol needs FIRECRAWL_API_KEY and/or SCRAPINGANT_API_KEY)
+// Usage: node update.js                  update (FlixPatrol needs FIRECRAWL_API_KEY)
 //        node update.js <fixtureDir>     same, but FlixPatrol pages from saved fp-{slug}.html files
 //        node update.js list-providers   write providers-available.json (pick shortNames from it into providers.json)
 const fs = require('fs');
@@ -88,7 +88,8 @@ function pageDate(html) {
 }
 
 // FlixPatrol's Cloudflare blocks plain fetch, r.jina.ai, headless Chrome and GitHub runners even headed (tested 2026-10-02/03).
-// Scraping services get through. Tried in order; those without an API key in env are skipped.
+// Scraping services that get through, tried in order; those without an API key in env are skipped.
+// ScrapingAnt tested 2026-10-03: detected by FlixPatrol even with residential proxy — not usable.
 const SCRAPERS = {
   async FIRECRAWL_API_KEY(url, key) { // 1 credit/page, works (tested 2026-10-03)
     const r = await fetch('https://api.firecrawl.dev/v2/scrape', {
@@ -97,10 +98,6 @@ const SCRAPERS = {
       body: JSON.stringify({ url, formats: ['rawHtml'], maxAge: 0 }),
     });
     return (await r.json()).data?.rawHtml || `HTTP ${r.status}`;
-  },
-  async SCRAPINGANT_API_KEY(url, key) { // free tier ~10k credits/month, browser render ~10/page
-    const r = await fetch(`https://api.scrapingant.com/v2/general?url=${encodeURIComponent(url)}`, { headers: { 'x-api-key': key } });
-    return r.ok ? r.text() : `HTTP ${r.status} ${(await r.text()).slice(0, 200)}`;
   },
 };
 
