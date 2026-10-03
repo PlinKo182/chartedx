@@ -23,4 +23,4 @@ jobs:
           git config user.email jrplinko@gmail.com
           git add docs cache.json
           git diff --cached --quiet || git commit -m "update $(date -u +%F)"
-          git pull --rebase && git push # main may have moved while this ran
+          git pull --rebase -X theirs && git push # main may have moved while this ran; on a docs/ conflict keep this run's data
