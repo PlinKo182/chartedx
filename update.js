@@ -150,13 +150,34 @@ async function search(type, title) {
 // 2. else a single released result whose name matches ours up to a ":" subtitle on either side:
 //    "Monster: The Lizzie Borden Story" -> "Monster" (season of the anthology), "13 Hours: The Secret…" -> "13 Hours"
 const base = s => norm(s.split(':')[0]);
-function pick(metas, item) {
+// A season's year (Monster: The Lizzie Borden Story, 2026) is later than the series' start (Monster, 2022-), so a loose series
+// match only needs to have started by then.
+function pick(metas, item, type) {
   const year = yearOf(item);
   const ok = metas.filter(m => !year || Math.abs(parseInt(m.releaseInfo) - year) <= 1);
   const exact = ok.find(m => norm(m.name) === norm(item.title));
   if (exact) return exact;
-  const loose = ok.filter(m => m.releaseInfo && (norm(m.name) === base(item.title) || base(m.name) === norm(item.title)));
+  const started = metas.filter(m => !year || (type === 'series' ? parseInt(m.releaseInfo) <= year + 1 : Math.abs(parseInt(m.releaseInfo) - year) <= 1));
+  const loose = started.filter(m => m.releaseInfo && (norm(m.name) === base(item.title) || base(m.name) === norm(item.title)));
   return loose.length === 1 ? loose[0] : undefined;
+}
+
+// Fallback when Cinemeta has nothing: TMDB search (also matches translated titles: Land of Ambition = Terra Forte), exact name only.
+// TMDB_API_KEY: v3 API key or the long Read Access Token.
+async function tmdb(type, item) {
+  const key = process.env.TMDB_API_KEY;
+  if (!key) return;
+  const long = key.length > 40;
+  const get = async p => (await fetch(`https://api.themoviedb.org/3${p}${long ? '' : `${p.includes('?') ? '&' : '?'}api_key=${key}`}`, long ? { headers: { Authorization: `Bearer ${key}` } } : {})).json();
+  const kind = type === 'movie' ? 'movie' : 'tv';
+  const { results = [] } = await get(`/search/${kind}?query=${encodeURIComponent(item.title)}`);
+  const year = yearOf(item);
+  const n = norm(item.title);
+  const m = results.find(r => [r.title, r.name, r.original_title, r.original_name].some(t => t && norm(t) === n)
+    && (!year || Math.abs(parseInt(r.release_date || r.first_air_date) - year) <= 1));
+  if (!m) return;
+  const { imdb_id } = await get(`/${kind}/${m.id}/external_ids`);
+  return imdb_id ? { id: imdb_id, name: m.title || m.name } : undefined;
 }
 
 async function popularity(type, id) {
@@ -172,7 +193,7 @@ async function resolve(item, types, cache) {
   if (cache[key]) return cache[key];
   const hits = [];
   for (const type of types) {
-    const m = pick(await search(type, item.title), item);
+    const m = pick(await search(type, item.title), item, type) || await tmdb(type, item).catch(() => undefined);
     if (m) hits.push({ type, id: m.id, name: m.name, pop: await (types.length > 1 ? popularity(type, m.id) : 0) });
   }
   hits.sort((a, b) => b.pop - a.pop);
