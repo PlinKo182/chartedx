@@ -185,7 +185,6 @@ const JW_LISTS = [
   ['new', 'Novidades', 'all-new', 'Lançamentos', 'Novidades'],
   ['soon', 'Em breve', 'all-soon', 'Lançamentos', 'Em breve'],
 ];
-const PLATFORM_LISTS = [['top', 'Top 10 diário']]; // FlixPatrol, only on the platforms it covers
 const MODES = { // label, config suffix, tooltip
   sep: ['Separados', '', 'Uma fila de filmes e outra de séries'],
   mix: ['Juntos', '.x', 'Filmes e séries na mesma fila, como no site do JustWatch'],
@@ -205,8 +204,12 @@ let filter = 'all';
 let openSn = null;    // the one expanded pick
 const special = p => p === jw || p === tmdb; // cards that aren't a platform: lists carry their catalog id, can mix
 const info = sn => (sn === 'jw' ? jw : sn === 'tmdb' ? tmdb : providers.find(p => p.shortName === sn));
-const catalogId = (sn, key) => (special(info(sn)) ? info(sn).lists.find(l => l[0] === key)[2] : `${sn}-${key}`);
-const listsOf = p => (special(p) ? p.lists.map(([k, label, , , full]) => [k, full || label]) : PLATFORM_LISTS.filter(([k]) => p.lists.has(k)));
+const cardLists = p => p === jw || p === tmdb ? p.lists : [
+  ...(p.lists.has('top') ? [['top', 'Top 10 diário', `${p.shortName}-top`, 'Da app (FlixPatrol)', 'Top 10 diário']] : []),
+  ...JW_LISTS.map(([k, label, , group, full]) => [`jw-${k}`, label, `${p.shortName}-jw-${k}`, group, full]),
+];
+const catalogId = (sn, key) => cardLists(info(sn)).find(l => l[0] === key)[2];
+const listsOf = p => cardLists(p).map(([k, label, , , full]) => [k, full || label]);
 
 const get = u => fetch(u, { cache: 'no-cache' }).then(r => r.json());
 Promise.all([get('/providers.json'), get('/manifest.json'), get('/general.json').catch(() => [])]).then(([all, manifest, gen]) => {
@@ -234,8 +237,8 @@ function restore() {
     const t = id === 'my' ? rest.join('.') : rest.join('');
     if (id === 'my') { filterOnly.push(...(t.match(/[a-z0-9]+/g) || [])); continue; }
     const card = [jw, tmdb].find(c => c?.lists.some(l => l[2] === id));
-    const sn = card ? card.shortName : id.slice(0, id.lastIndexOf('-'));
-    const key = card ? card.lists.find(l => l[2] === id)[0] : id.slice(id.lastIndexOf('-') + 1);
+    const sn = card ? card.shortName : id.slice(0, id.indexOf('-'));
+    const key = card ? card.lists.find(l => l[2] === id)[0] : id.slice(id.indexOf('-') + 1);
     if (!info(sn)) continue;
     let p = picked.find(x => x.sn === sn);
     if (!p) picked.push(p = { sn, lists: new Set(), mode: t.includes('x') ? 'mix' : t === 'm' ? 'm' : t === 's' ? 's' : 'sep' });
@@ -248,13 +251,8 @@ function add(sn) {
   const p = info(sn);
   picked.push(special(p)
     ? { sn, lists: new Set([p.lists[0][0]]), mode: 'mix' }
-    : { sn, lists: new Set(p.lists.has('top') ? ['top'] : []), mode: 'sep' });
+    : { sn, lists: new Set([p.lists.has('top') ? 'top' : 'jw-daily']), mode: 'sep' });
   openSn = sn; // a new pick opens, the others close
-  // a platform's tops (beyond FlixPatrol's Top 10) live on the JustWatch card: bring it in, open, on top
-  if (!special(p) && jw && !picked.some(x => x.sn === 'jw')) {
-    picked.unshift({ sn: 'jw', lists: new Set(['daily']), mode: 'mix' });
-    if (!p.lists.has('top')) openSn = 'jw';
-  }
 }
 
 const avatar = p => (p === jw ? '<span class="logo jw">JW</span>' : p === tmdb ? `<span class="logo tm">${icon('cal')}</span>` : `<img src="${p.icon}" alt="" loading="lazy">`);
@@ -278,7 +276,7 @@ function rowsOf(x) {
   const p = info(x.sn);
   const types = x.mode === 'sep' ? ['m', 's'] : x.mode === 'mix' ? ['x'] : [x.mode];
   return listsOf(p).filter(([k]) => x.lists.has(k)).flatMap(([k, label]) => types
-    .filter(t => have.has(`${catalogId(x.sn, k)}|${t}`))
+    .filter(t => have.has(`${catalogId(x.sn, k)}|${t}`) || /-jw-/.test(catalogId(x.sn, k))) // a platform's own JustWatch lists are built live
     .map(t => `${label}${t === 'x' ? '' : t === 'm' ? ' (filmes)' : ' (séries)'}`));
 }
 
@@ -297,8 +295,9 @@ function renderPicked() {
     const sum = rows.length ? `${chosen.join(' · ')} · ${MODES[x.mode][0]}` : !special(p) ? (jwPicked ? 'Tops no cartão JustWatch' : 'Escolhe o JustWatch para veres os tops') : 'Nenhuma fila: escolhe uma lista';
     const pill = ([k, label]) => `<button type="button" class="pill" data-list="${k}" aria-pressed="${x.lists.has(k)}">${icon('check')}${label}</button>`;
     // JustWatch: lists grouped like the site; genres folded behind "+ Géneros" except the picked ones
-    const groups = p === jw ? [...new Set(p.lists.map(l => l[3]))].map(g => {
-      const ls = p.lists.filter(l => l[3] === g);
+    const all = cardLists(p);
+    const groups = all.some(l => l[3]) ? [...new Set(all.map(l => l[3]))].map(g => {
+      const ls = all.filter(l => l[3] === g);
       const shown = g === 'Géneros' && !x.more ? ls.filter(([k]) => x.lists.has(k)) : ls;
       return `<p class="grp">${g}</p><div class="pills">${shown.map(pill).join('')}${g === 'Géneros' ? `<button type="button" class="pill more" data-more>${x.more ? 'Menos' : '+ Géneros'}</button>` : ''}</div>`;
     }).join('') : '';
@@ -306,10 +305,10 @@ function renderPicked() {
     const note = p !== jw ? '' : `<p class="note">${mine.length ? `Só das tuas plataformas: <b>${mine.join(', ')}</b>` : 'Todas as plataformas de Portugal. Escolhe plataformas à esquerda para limitar.'}</p>`;
     const body = !open ? '' : `
       <div class="body">
-        ${p === jw ? groups : (special(p) ? lists.length > 1 : lists.length) ? `<div class="pills" role="group" aria-label="Listas">${lists.map(pill).join('')}</div>` : ''}
-        ${!lists.length ? '' : `<div class="segm" role="group" aria-label="Filmes e séries">${Object.entries(MODES).filter(([m]) => m !== 'mix' || special(p)).map(([m, [label, , tip]]) =>
+        ${groups || (lists.length > 1 ? `<div class="pills" role="group" aria-label="Listas">${lists.map(pill).join('')}</div>` : '')}
+        ${!lists.length ? '' : `<div class="segm" role="group" aria-label="Filmes e séries">${Object.entries(MODES).filter(([m]) => m !== 'mix' || special(p) || cardLists(p).some(l => l[0].startsWith('jw-'))).map(([m, [label, , tip]]) =>
           `<button type="button" data-mode="${m}" title="${tip}" aria-pressed="${x.mode === m}">${label}</button>`).join('')}</div>`}
-        ${note}${special(p) ? '' : `<p class="note">Os tops de ${p.name} (mais vistos, novidades, géneros…) estão no cartão <b>JustWatch</b>.${lists.length ? ' O Top 10 diário é o da app (FlixPatrol).' : ''}</p>`}
+        ${note}${special(p) ? '' : `<p class="note">Filas só de ${p.name}. Para juntar várias plataformas na mesma fila, usa o cartão <b>JustWatch</b>.</p>`}
         <div class="move">Mover
           <button type="button" class="icon-btn" data-move="-1" aria-label="Subir ${p.name}" ${i === 0 ? 'disabled' : ''}>${icon('up')}</button>
           <button type="button" class="icon-btn" data-move="1" aria-label="Descer ${p.name}" ${i === picked.length - 1 ? 'disabled' : ''}>${icon('down')}</button>

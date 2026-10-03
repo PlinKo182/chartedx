@@ -522,5 +522,5 @@ async function main() {
   write(CACHE_FILE, cache);
 }
 
-module.exports = { parse, resolve, yearOf, scrape, packages, liveCatalog };
+module.exports = { parse, resolve, yearOf, scrape, packages, liveCatalog, JW_CARD };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });

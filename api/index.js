@@ -8,6 +8,7 @@
 //                                     live when the config has the user's platforms: my.nfx.mxx.sic
 //   /{config}/meta/{type}/chartedx:sep:{day}.json   the day separators in Novidades
 //   /sep/{day}.png                    separator poster (logo if missing)
+//   {sn}-jw-{list} catalog ids         one platform's own JustWatch-card list (sic-jw-daily), named and built live
 //   /providers.json, /general.json, /logo.png, /logo.svg   for the configure page and Stremio
 const fs = require('fs');
 const path = require('path');
@@ -15,6 +16,7 @@ const path = require('path');
 const ROOT = path.join(__dirname, '..');
 const MIX = 'Filmes e Séries'; // catalogs mixing movies and series, files in docs/catalog/mix/
 const TYPE = { m: 'movie', s: 'series', x: MIX };
+const PLATFORM_JW = /^([a-z0-9]+)-jw-([a-z0-9]+)$/; // one platform's own JustWatch list: sic-jw-daily = all-daily for sic only
 const origin = req => `${/^(localhost|127\.)/.test(req.headers.host) ? 'http' : 'https'}://${req.headers.host}`;
 const send = (res, code, type, body, cache = 'public, max-age=3600') => {
   res.writeHead(code, { 'Content-Type': type, 'Access-Control-Allow-Origin': '*', 'Cache-Control': cache });
@@ -56,9 +58,14 @@ module.exports = async (req, res) => {
     const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'manifest.json'), 'utf8'));
     manifest.logo = `${origin(req)}/logo.png`;
     if (config) {
+      const names = Object.fromEntries(JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'providers.json'), 'utf8')).map(p => [p.shortName, p.name]));
+      const { JW_CARD } = require('../update.js');
       manifest.catalogs = config.split(',').flatMap(entry => { // user's order
         const [id, t = 'ms'] = entry.split('.');
         const types = [...t].map(c => TYPE[c]);
+        // one platform's own JustWatch list ("sic-jw-daily"): not in docs/, built live
+        const own = id.match(PLATFORM_JW);
+        if (own && names[own[1]] && JW_CARD[`all-${own[2]}`]) return types.map(type => ({ type, id, name: `${names[own[1]]} · ${JW_CARD[`all-${own[2]}`][0]}` }));
         return manifest.catalogs.filter(c => c.id === id && types.includes(c.type));
       });
     }
@@ -71,9 +78,11 @@ module.exports = async (req, res) => {
     if (parts.length > 3) return send(res, 200, 'application/json', '{"metas":[]}');
     const bucket = parts[1] === MIX ? 'mix' : parts[1];
     // JustWatch card lists for the user's platforms ("my.nfx.mxx" in the config): built live, cached 6 h by Vercel's CDN
-    const mine = config.split(',').find(e => e.startsWith('my.'))?.split('.').slice(1) || [];
+    const id = (parts[2] || '').replace(/\.json$/, '');
+    const own = id.match(PLATFORM_JW);
+    const mine = own ? [own[1]] : config.split(',').find(e => e.startsWith('my.'))?.split('.').slice(1) || [];
     if (mine.length) {
-      const metas = await require('../update.js').liveCatalog((parts[2] || '').replace(/\.json$/, ''), bucket, mine).catch(() => null);
+      const metas = await require('../update.js').liveCatalog(own ? `all-${own[2]}` : id, bucket, mine).catch(() => null);
       if (metas) return send(res, 200, 'application/json', JSON.stringify({ metas }).replaceAll('"poster":"/sep/', `"poster":"${origin(req)}/sep/`), 'public, max-age=3600, s-maxage=21600');
     }
     const file = path.join(ROOT, 'docs', 'catalog', bucket, parts[2] || '');
