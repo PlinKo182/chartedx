@@ -275,7 +275,7 @@ async function main() {
   for (const g of general) {
     jobs.push({
       id: `${g.shortName}-top`,
-      name: g.genre ? `${g.name} · Top 10` : 'Portugal · Top 10',
+      name: `JustWatch · ${g.genre ? g.name : 'Top 10'}`,
       source: `JustWatch trending${g.genre ? ` genre ${g.genre}` : ''}`,
       mixed: true,
       plan: async () => [
