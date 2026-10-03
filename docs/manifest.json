@@ -2,9 +2,19 @@
  "id": "community.chartedx",
  "version": "1.0.0",
  "name": "ChartedX",
- "description": "Plataformas de streaming em Portugal. \"Top 10\" = FlixPatrol diário (igual à app); \"Top JustWatch\" = top semanal do JustWatch; Populares / Tendências = páginas de cada plataforma no JustWatch.",
+ "description": "Streaming em Portugal. \"Top 10\" das plataformas = FlixPatrol diário (igual à app). JustWatch = mais vistos, em alta, populares, novidades e géneros, só das tuas plataformas. Estreias = novos no mundo (TMDB).",
  "resources": [
-  "catalog"
+  "catalog",
+  {
+   "name": "meta",
+   "types": [
+    "movie",
+    "series"
+   ],
+   "idPrefixes": [
+    "chartedx:"
+   ]
+  }
  ],
  "types": [
   "movie",
@@ -24,26 +34,6 @@
   },
   {
    "type": "movie",
-   "id": "nfx-popular",
-   "name": "Netflix · Populares"
-  },
-  {
-   "type": "series",
-   "id": "nfx-popular",
-   "name": "Netflix · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "nfx-trending",
-   "name": "Netflix · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "nfx-trending",
-   "name": "Netflix · Tendências"
-  },
-  {
-   "type": "movie",
    "id": "prv-top",
    "name": "Amazon Prime Video · Top 10"
   },
@@ -54,26 +44,6 @@
   },
   {
    "type": "movie",
-   "id": "prv-popular",
-   "name": "Amazon Prime Video · Populares"
-  },
-  {
-   "type": "series",
-   "id": "prv-popular",
-   "name": "Amazon Prime Video · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "prv-trending",
-   "name": "Amazon Prime Video · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "prv-trending",
-   "name": "Amazon Prime Video · Tendências"
-  },
-  {
-   "type": "movie",
    "id": "atp-top",
    "name": "Apple TV · Top 10"
   },
@@ -81,26 +51,6 @@
    "type": "series",
    "id": "atp-top",
    "name": "Apple TV · Top 10"
-  },
-  {
-   "type": "movie",
-   "id": "atp-popular",
-   "name": "Apple TV · Populares"
-  },
-  {
-   "type": "series",
-   "id": "atp-popular",
-   "name": "Apple TV · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "atp-trending",
-   "name": "Apple TV · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "atp-trending",
-   "name": "Apple TV · Tendências"
   },
   {
    "type": "series",
@@ -109,386 +59,6 @@
   },
   {
    "type": "movie",
-   "id": "dnp-popular",
-   "name": "Disney Plus · Populares"
-  },
-  {
-   "type": "series",
-   "id": "dnp-popular",
-   "name": "Disney Plus · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "dnp-trending",
-   "name": "Disney Plus · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "dnp-trending",
-   "name": "Disney Plus · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "jwt-popular",
-   "name": "JustWatch TV · Populares"
-  },
-  {
-   "type": "series",
-   "id": "jwt-popular",
-   "name": "JustWatch TV · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "jwt-trending",
-   "name": "JustWatch TV · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "jwt-trending",
-   "name": "JustWatch TV · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "itu-popular",
-   "name": "Apple TV Store · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "itu-trending",
-   "name": "Apple TV Store · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "ytr-top",
-   "name": "YouTube Premium · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "ytr-top",
-   "name": "YouTube Premium · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "ytr-popular",
-   "name": "YouTube Premium · Populares"
-  },
-  {
-   "type": "series",
-   "id": "ytr-popular",
-   "name": "YouTube Premium · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "ytr-trending",
-   "name": "YouTube Premium · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "ytr-trending",
-   "name": "YouTube Premium · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "wki-popular",
-   "name": "Rakuten TV · Populares"
-  },
-  {
-   "type": "series",
-   "id": "wki-popular",
-   "name": "Rakuten TV · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "wki-trending",
-   "name": "Rakuten TV · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "wki-trending",
-   "name": "Rakuten TV · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "cts-top",
-   "name": "Curiosity Stream · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "cts-top",
-   "name": "Curiosity Stream · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "cts-popular",
-   "name": "Curiosity Stream · Populares"
-  },
-  {
-   "type": "series",
-   "id": "cts-popular",
-   "name": "Curiosity Stream · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "cts-trending",
-   "name": "Curiosity Stream · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "cts-trending",
-   "name": "Curiosity Stream · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "rtp-popular",
-   "name": "RTPplay · Populares"
-  },
-  {
-   "type": "series",
-   "id": "rtp-popular",
-   "name": "RTPplay · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "rtp-trending",
-   "name": "RTPplay · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "rtp-trending",
-   "name": "RTPplay · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "dsv-top",
-   "name": "DOCSVILLE · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "dsv-popular",
-   "name": "DOCSVILLE · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "dsv-trending",
-   "name": "DOCSVILLE · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "wow-top",
-   "name": "WOW Presents Plus · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "wow-popular",
-   "name": "WOW Presents Plus · Populares"
-  },
-  {
-   "type": "series",
-   "id": "wow-popular",
-   "name": "WOW Presents Plus · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "wow-trending",
-   "name": "WOW Presents Plus · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "wow-trending",
-   "name": "WOW Presents Plus · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "mgl-top",
-   "name": "Magellan TV · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "mgl-top",
-   "name": "Magellan TV · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "mgl-popular",
-   "name": "Magellan TV · Populares"
-  },
-  {
-   "type": "series",
-   "id": "mgl-popular",
-   "name": "Magellan TV · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "mgl-trending",
-   "name": "Magellan TV · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "mgl-trending",
-   "name": "Magellan TV · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "bhd-popular",
-   "name": "BroadwayHD · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "bhd-trending",
-   "name": "BroadwayHD · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "fmz-popular",
-   "name": "Filmzie · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "fmz-trending",
-   "name": "Filmzie · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "dkk-top",
-   "name": "Dekkoo · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "dkk-top",
-   "name": "Dekkoo · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "dkk-popular",
-   "name": "Dekkoo · Populares"
-  },
-  {
-   "type": "series",
-   "id": "dkk-popular",
-   "name": "Dekkoo · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "dkk-trending",
-   "name": "Dekkoo · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "dkk-trending",
-   "name": "Dekkoo · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "trs-top",
-   "name": "True Story · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "trs-popular",
-   "name": "True Story · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "trs-trending",
-   "name": "True Story · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "hoc-top",
-   "name": "Hoichoi · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "hoc-top",
-   "name": "Hoichoi · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "hoc-popular",
-   "name": "Hoichoi · Populares"
-  },
-  {
-   "type": "series",
-   "id": "hoc-popular",
-   "name": "Hoichoi · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "hoc-trending",
-   "name": "Hoichoi · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "hoc-trending",
-   "name": "Hoichoi · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "eve-popular",
-   "name": "Eventive · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "eve-trending",
-   "name": "Eventive · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "fil-top",
-   "name": "Filmin · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "fil-top",
-   "name": "Filmin · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "fil-popular",
-   "name": "Filmin · Populares"
-  },
-  {
-   "type": "series",
-   "id": "fil-popular",
-   "name": "Filmin · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "fil-trending",
-   "name": "Filmin · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "fil-trending",
-   "name": "Filmin · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "fip-popular",
-   "name": "Filmin Plus · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "fip-trending",
-   "name": "Filmin Plus · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "ctx-top",
-   "name": "Cultpix · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "ctx-popular",
-   "name": "Cultpix · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "ctx-trending",
-   "name": "Cultpix · Tendências"
-  },
-  {
-   "type": "movie",
    "id": "sst-top",
    "name": "SkyShowtime · Top 10"
   },
@@ -496,111 +66,6 @@
    "type": "series",
    "id": "sst-top",
    "name": "SkyShowtime · Top 10"
-  },
-  {
-   "type": "movie",
-   "id": "sst-popular",
-   "name": "SkyShowtime · Populares"
-  },
-  {
-   "type": "series",
-   "id": "sst-popular",
-   "name": "SkyShowtime · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "sst-trending",
-   "name": "SkyShowtime · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "sst-trending",
-   "name": "SkyShowtime · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "snx-top",
-   "name": "Sun Nxt · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "snx-top",
-   "name": "Sun Nxt · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "snx-popular",
-   "name": "Sun Nxt · Populares"
-  },
-  {
-   "type": "series",
-   "id": "snx-popular",
-   "name": "Sun Nxt · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "snx-trending",
-   "name": "Sun Nxt · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "snx-trending",
-   "name": "Sun Nxt · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "cru-top",
-   "name": "Crunchyroll · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "cru-top",
-   "name": "Crunchyroll · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "cru-popular",
-   "name": "Crunchyroll · Populares"
-  },
-  {
-   "type": "series",
-   "id": "cru-popular",
-   "name": "Crunchyroll · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "cru-trending",
-   "name": "Crunchyroll · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "cru-trending",
-   "name": "Crunchyroll · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "sic-top",
-   "name": "OPTO SIC · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "sic-popular",
-   "name": "OPTO SIC · Populares"
-  },
-  {
-   "type": "series",
-   "id": "sic-popular",
-   "name": "OPTO SIC · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "sic-trending",
-   "name": "OPTO SIC · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "sic-trending",
-   "name": "OPTO SIC · Tendências"
   },
   {
    "type": "movie",
@@ -614,353 +79,148 @@
   },
   {
    "type": "movie",
-   "id": "mxx-popular",
-   "name": "HBO Max · Populares"
+   "id": "all-daily",
+   "name": "JustWatch · Mais vistos hoje"
   },
   {
    "type": "series",
-   "id": "mxx-popular",
-   "name": "HBO Max · Populares"
+   "id": "all-daily",
+   "name": "JustWatch · Mais vistos hoje"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "all-daily",
+   "name": "JustWatch · Mais vistos hoje"
   },
   {
    "type": "movie",
-   "id": "mxx-trending",
-   "name": "HBO Max · Tendências"
+   "id": "all-weekly",
+   "name": "JustWatch · Mais vistos da semana"
   },
   {
    "type": "series",
-   "id": "mxx-trending",
-   "name": "HBO Max · Tendências"
+   "id": "all-weekly",
+   "name": "JustWatch · Mais vistos da semana"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "all-weekly",
+   "name": "JustWatch · Mais vistos da semana"
   },
   {
    "type": "movie",
-   "id": "aot-top",
-   "name": "OUTtv Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "aot-popular",
-   "name": "OUTtv Amazon Channel · Populares"
+   "id": "all-monthly",
+   "name": "JustWatch · Mais vistos do mês"
   },
   {
    "type": "series",
-   "id": "aot-popular",
-   "name": "OUTtv Amazon Channel · Populares"
+   "id": "all-monthly",
+   "name": "JustWatch · Mais vistos do mês"
   },
   {
-   "type": "movie",
-   "id": "aot-trending",
-   "name": "OUTtv Amazon Channel · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "aot-trending",
-   "name": "OUTtv Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "qcs-top",
-   "name": "Qello Concerts by Stingray Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "qcs-popular",
-   "name": "Qello Concerts by Stingray Amazon Channel · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "qcs-trending",
-   "name": "Qello Concerts by Stingray Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "fod-popular",
-   "name": "FOUND TV · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "fod-trending",
-   "name": "FOUND TV · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "mbi-top",
-   "name": "MUBI · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "mbi-popular",
-   "name": "MUBI · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "mbi-trending",
-   "name": "MUBI · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "ahy-top",
-   "name": "Hayu Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "ahy-popular",
-   "name": "Hayu Amazon Channel · Populares"
-  },
-  {
-   "type": "series",
-   "id": "ahy-trending",
-   "name": "Hayu Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "amu-top",
-   "name": "MUBI Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "amu-popular",
-   "name": "MUBI Amazon Channel · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "amu-trending",
-   "name": "MUBI Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "amz-popular",
-   "name": "Amazon Video · Populares"
-  },
-  {
-   "type": "series",
-   "id": "amz-popular",
-   "name": "Amazon Video · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "amz-trending",
-   "name": "Amazon Video · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "amz-trending",
-   "name": "Amazon Video · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "bsm-top",
-   "name": "Bloodstream · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "bsm-popular",
-   "name": "Bloodstream · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "bsm-trending",
-   "name": "Bloodstream · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "mvm-popular",
-   "name": "MovieMe · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "mvm-trending",
-   "name": "MovieMe · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "kbo-top",
-   "name": "KableOne · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "kbo-popular",
-   "name": "KableOne · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "kbo-trending",
-   "name": "KableOne · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "cfp-popular",
-   "name": "CaixaForum+ · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "cfp-trending",
-   "name": "CaixaForum+ · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "afx-top",
-   "name": "Artiflix · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "afx-popular",
-   "name": "Artiflix · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "afx-trending",
-   "name": "Artiflix · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "atf-popular",
-   "name": "Artify · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "atf-trending",
-   "name": "Artify · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "alg-top",
-   "name": "Lionsgate+ Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "alg-top",
-   "name": "Lionsgate+ Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "alg-popular",
-   "name": "Lionsgate+ Amazon Channel · Populares"
-  },
-  {
-   "type": "series",
-   "id": "alg-popular",
-   "name": "Lionsgate+ Amazon Channel · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "alg-trending",
-   "name": "Lionsgate+ Amazon Channel · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "alg-trending",
-   "name": "Lionsgate+ Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "pij-popular",
-   "name": "Pijama Films · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "pij-trending",
-   "name": "Pijama Films · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "cra-top",
-   "name": "Crunchyroll Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "series",
-   "id": "cra-top",
-   "name": "Crunchyroll Amazon Channel · Top JustWatch"
-  },
-  {
-   "type": "movie",
-   "id": "cra-popular",
-   "name": "Crunchyroll Amazon Channel · Populares"
-  },
-  {
-   "type": "series",
-   "id": "cra-popular",
-   "name": "Crunchyroll Amazon Channel · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "cra-trending",
-   "name": "Crunchyroll Amazon Channel · Tendências"
-  },
-  {
-   "type": "series",
-   "id": "cra-trending",
-   "name": "Crunchyroll Amazon Channel · Tendências"
-  },
-  {
-   "type": "movie",
-   "id": "fit-popular",
-   "name": "Filmtap · Populares"
-  },
-  {
-   "type": "movie",
-   "id": "fit-trending",
-   "name": "Filmtap · Tendências"
+   "type": "Filmes e Séries",
+   "id": "all-monthly",
+   "name": "JustWatch · Mais vistos do mês"
   },
   {
    "type": "movie",
    "id": "all-top",
-   "name": "JustWatch · Top 10"
+   "name": "JustWatch · Em alta"
   },
   {
    "type": "series",
    "id": "all-top",
-   "name": "JustWatch · Top 10"
+   "name": "JustWatch · Em alta"
   },
   {
    "type": "Filmes e Séries",
    "id": "all-top",
-   "name": "JustWatch · Top 10"
+   "name": "JustWatch · Em alta"
   },
   {
    "type": "movie",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
+   "id": "all-rising",
+   "name": "JustWatch · A subir hoje"
   },
   {
    "type": "series",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
+   "id": "all-rising",
+   "name": "JustWatch · A subir hoje"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
+   "id": "all-rising",
+   "name": "JustWatch · A subir hoje"
   },
   {
    "type": "movie",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
+   "id": "all-pop7",
+   "name": "JustWatch · Populares 7 dias"
   },
   {
    "type": "series",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
+   "id": "all-pop7",
+   "name": "JustWatch · Populares 7 dias"
   },
   {
    "type": "Filmes e Séries",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
+   "id": "all-pop7",
+   "name": "JustWatch · Populares 7 dias"
   },
   {
    "type": "movie",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
+   "id": "all-pop180",
+   "name": "JustWatch · Populares 180 dias"
   },
   {
    "type": "series",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
+   "id": "all-pop180",
+   "name": "JustWatch · Populares 180 dias"
   },
   {
    "type": "Filmes e Séries",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
+   "id": "all-pop180",
+   "name": "JustWatch · Populares 180 dias"
+  },
+  {
+   "type": "movie",
+   "id": "all-new",
+   "name": "JustWatch · Novidades"
+  },
+  {
+   "type": "series",
+   "id": "all-new",
+   "name": "JustWatch · Novidades"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "all-new",
+   "name": "JustWatch · Novidades"
+  },
+  {
+   "type": "series",
+   "id": "all-soon",
+   "name": "JustWatch · Em breve"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "all-soon",
+   "name": "JustWatch · Em breve"
+  },
+  {
+   "type": "movie",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
+  },
+  {
+   "type": "series",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
   },
   {
    "type": "movie",
@@ -979,48 +239,18 @@
   },
   {
    "type": "movie",
-   "id": "gscf-top",
-   "name": "JustWatch · Ficção Científica"
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
   },
   {
    "type": "series",
-   "id": "gscf-top",
-   "name": "JustWatch · Ficção Científica"
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gscf-top",
-   "name": "JustWatch · Ficção Científica"
-  },
-  {
-   "type": "movie",
-   "id": "gact-top",
-   "name": "JustWatch · Ação & Aventura"
-  },
-  {
-   "type": "series",
-   "id": "gact-top",
-   "name": "JustWatch · Ação & Aventura"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gact-top",
-   "name": "JustWatch · Ação & Aventura"
-  },
-  {
-   "type": "movie",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
-  },
-  {
-   "type": "series",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
   },
   {
    "type": "movie",
@@ -1039,33 +269,48 @@
   },
   {
    "type": "movie",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
+   "id": "ghst-top",
+   "name": "JustWatch · História"
   },
   {
    "type": "series",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
+   "id": "ghst-top",
+   "name": "JustWatch · História"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
+   "id": "ghst-top",
+   "name": "JustWatch · História"
   },
   {
    "type": "movie",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
   },
   {
    "type": "series",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
+  },
+  {
+   "type": "movie",
+   "id": "gact-top",
+   "name": "JustWatch · Ação & Aventura"
+  },
+  {
+   "type": "series",
+   "id": "gact-top",
+   "name": "JustWatch · Ação & Aventura"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gact-top",
+   "name": "JustWatch · Ação & Aventura"
   },
   {
    "type": "movie",
@@ -1099,36 +344,6 @@
   },
   {
    "type": "movie",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
-  },
-  {
-   "type": "series",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
-  },
-  {
-   "type": "movie",
-   "id": "gwar-top",
-   "name": "JustWatch · Guerra & Militar"
-  },
-  {
-   "type": "series",
-   "id": "gwar-top",
-   "name": "JustWatch · Guerra & Militar"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gwar-top",
-   "name": "JustWatch · Guerra & Militar"
-  },
-  {
-   "type": "movie",
    "id": "geur-top",
    "name": "JustWatch · Europeu"
   },
@@ -1144,33 +359,78 @@
   },
   {
    "type": "movie",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
   },
   {
    "type": "series",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
   },
   {
    "type": "movie",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
   },
   {
    "type": "series",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
+  },
+  {
+   "type": "movie",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "series",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "movie",
+   "id": "gscf-top",
+   "name": "JustWatch · Ficção Científica"
+  },
+  {
+   "type": "series",
+   "id": "gscf-top",
+   "name": "JustWatch · Ficção Científica"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gscf-top",
+   "name": "JustWatch · Ficção Científica"
+  },
+  {
+   "type": "movie",
+   "id": "gwar-top",
+   "name": "JustWatch · Guerra & Militar"
+  },
+  {
+   "type": "series",
+   "id": "gwar-top",
+   "name": "JustWatch · Guerra & Militar"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gwar-top",
+   "name": "JustWatch · Guerra & Militar"
   },
   {
    "type": "movie",
@@ -1201,6 +461,51 @@
    "type": "Filmes e Séries",
    "id": "grly-top",
    "name": "JustWatch · Reality TV"
+  },
+  {
+   "type": "movie",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
+  },
+  {
+   "type": "series",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
+  },
+  {
+   "type": "movie",
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
+  },
+  {
+   "type": "series",
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
+  },
+  {
+   "type": "movie",
+   "id": "tmdb-new",
+   "name": "Estreias · Mundo"
+  },
+  {
+   "type": "series",
+   "id": "tmdb-new",
+   "name": "Estreias · Mundo"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "tmdb-new",
+   "name": "Estreias · Mundo"
   }
  ]
 }
