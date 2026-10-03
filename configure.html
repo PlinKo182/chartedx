@@ -250,6 +250,11 @@ function add(sn) {
     ? { sn, lists: new Set([p.lists[0][0]]), mode: 'mix' }
     : { sn, lists: new Set(p.lists.has('top') ? ['top'] : []), mode: 'sep' });
   openSn = sn; // a new pick opens, the others close
+  // a platform's tops (beyond FlixPatrol's Top 10) live on the JustWatch card: bring it in, open, on top
+  if (!special(p) && jw && !picked.some(x => x.sn === 'jw')) {
+    picked.unshift({ sn: 'jw', lists: new Set(['daily']), mode: 'mix' });
+    if (!p.lists.has('top')) openSn = 'jw';
+  }
 }
 
 const avatar = p => (p === jw ? '<span class="logo jw">JW</span>' : p === tmdb ? `<span class="logo tm">${icon('cal')}</span>` : `<img src="${p.icon}" alt="" loading="lazy">`);
@@ -289,7 +294,7 @@ function renderPicked() {
     const open = x.sn === openSn;
     const chosen = lists.filter(([k]) => x.lists.has(k)).map(([, label]) => label);
     const jwPicked = picked.some(y => y.sn === 'jw');
-    const sum = rows.length ? `${chosen.join(' · ')} · ${MODES[x.mode][0]}` : !special(p) ? (jwPicked ? 'Nas listas do JustWatch' : 'Escolhe o JustWatch para veres os tops') : 'Nenhuma fila: escolhe uma lista';
+    const sum = rows.length ? `${chosen.join(' · ')} · ${MODES[x.mode][0]}` : !special(p) ? (jwPicked ? 'Tops no cartão JustWatch' : 'Escolhe o JustWatch para veres os tops') : 'Nenhuma fila: escolhe uma lista';
     const pill = ([k, label]) => `<button type="button" class="pill" data-list="${k}" aria-pressed="${x.lists.has(k)}">${icon('check')}${label}</button>`;
     // JustWatch: lists grouped like the site; genres folded behind "+ Géneros" except the picked ones
     const groups = p === jw ? [...new Set(p.lists.map(l => l[3]))].map(g => {
@@ -304,7 +309,7 @@ function renderPicked() {
         ${p === jw ? groups : (special(p) ? lists.length > 1 : lists.length) ? `<div class="pills" role="group" aria-label="Listas">${lists.map(pill).join('')}</div>` : ''}
         ${!lists.length ? '' : `<div class="segm" role="group" aria-label="Filmes e séries">${Object.entries(MODES).filter(([m]) => m !== 'mix' || special(p)).map(([m, [label, , tip]]) =>
           `<button type="button" data-mode="${m}" title="${tip}" aria-pressed="${x.mode === m}">${label}</button>`).join('')}</div>`}
-        ${note}${special(p) ? '' : `<p class="note">${p.name} entra nas listas do JustWatch${lists.length ? '. O Top 10 diário é o da app (FlixPatrol).' : '.'}</p>`}
+        ${note}${special(p) ? '' : `<p class="note">Os tops de ${p.name} (mais vistos, novidades, géneros…) estão no cartão <b>JustWatch</b>.${lists.length ? ' O Top 10 diário é o da app (FlixPatrol).' : ''}</p>`}
         <div class="move">Mover
           <button type="button" class="icon-btn" data-move="-1" aria-label="Subir ${p.name}" ${i === 0 ? 'disabled' : ''}>${icon('up')}</button>
           <button type="button" class="icon-btn" data-move="1" aria-label="Descer ${p.name}" ${i === picked.length - 1 ? 'disabled' : ''}>${icon('down')}</button>
