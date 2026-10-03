@@ -216,8 +216,10 @@ async function main() {
     return;
   }
 
-  const providers = read(path.join(__dirname, 'providers.json'), []);
-  const names = Object.fromEntries((await packages()).map(p => [p.shortName, p.name]));
+  // Every Portuguese provider; users pick theirs on /configure. providers.json (optional) narrows it for quick local runs.
+  const all = await packages();
+  const providers = read(path.join(__dirname, 'providers.json'), null) || all.map(p => p.shortName);
+  const names = Object.fromEntries(all.map(p => [p.shortName, p.name]));
   const cache = read(CACHE_FILE, {});
   const status = read(path.join(DOCS, 'status.json'), {});
   const fixtureDir = process.argv[2];

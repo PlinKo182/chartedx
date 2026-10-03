@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ChartedX</title>
+<style>
+  :root { --bg: #0f1115; --card: #181b22; --line: #2a2f3a; --text: #e8eaf0; --muted: #9aa1b2; --accent: #7b5cff; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.4 system-ui, sans-serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 24px 16px 120px; }
+  h1 { margin: 0 0 4px; }
+  p { color: var(--muted); margin: 0 0 16px; }
+  .tools { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  input[type=search] { flex: 1; min-width: 180px; padding: 10px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
+  button { padding: 10px 14px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); cursor: pointer; }
+  .row { display: flex; align-items: center; justify-content: space-between; gap: 8px; flex-wrap: wrap; padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); margin-bottom: 6px; }
+  .row b { min-width: 160px; }
+  .row label { margin-left: 12px; color: var(--muted); white-space: nowrap; }
+  .row label:has(input:checked) { color: var(--text); }
+  .src { font-size: 12px; color: var(--muted); font-weight: normal; }
+  footer { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card); border-top: 1px solid var(--line); padding: 12px 16px; }
+  footer div { max-width: 760px; margin: 0 auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+  .primary { background: var(--accent); border-color: var(--accent); font-weight: 600; }
+  #count { color: var(--muted); margin-right: auto; }
+</style>
+</head>
+<body>
+<main>
+  <h1>ChartedX</h1>
+  <p>Escolhe as plataformas e as listas. «Top 10» = FlixPatrol diário (igual à app) ou, sem FlixPatrol, o top semanal do JustWatch. Populares e Tendências vêm do JustWatch.</p>
+  <div class="tools">
+    <input type="search" id="q" placeholder="Procurar plataforma…">
+    <button id="tops">Todos os Top 10</button>
+    <button id="none">Limpar</button>
+  </div>
+  <div id="list">A carregar…</div>
+</main>
+<footer><div>
+  <span id="count"></span>
+  <button id="copy">Copiar link</button>
+  <button id="install" class="primary">Instalar no Stremio</button>
+</div></footer>
+<script>
+const LISTS = [['top', 'Top 10'], ['popular', 'Populares'], ['trending', 'Tendências']];
+// config from /{config}/configure, if reinstalling
+const first = location.pathname.split('/').filter(Boolean)[0];
+let picked = first && first !== 'configure' ? decodeURIComponent(first).split(',') : [];
+
+fetch('/manifest.json').then(r => r.json()).then(m => {
+  const providers = new Map(); // sn -> {name, lists:Set, source}
+  for (const c of m.catalogs) {
+    const [sn, list] = [c.id.slice(0, c.id.lastIndexOf('-')), c.id.slice(c.id.lastIndexOf('-') + 1)];
+    const p = providers.get(sn) || { name: c.name.split(' · ')[0], lists: new Set(), jw: false };
+    p.lists.add(list);
+    if (list === 'top' && c.name.endsWith('Top JustWatch')) p.jw = true;
+    providers.set(sn, p);
+  }
+  document.getElementById('list').innerHTML = [...providers].map(([sn, p]) => `
+    <div class="row" data-name="${p.name.toLowerCase()}">
+      <b>${p.name}${p.lists.has('top') ? ` <span class="src">${p.jw ? 'JustWatch' : 'FlixPatrol'}</span>` : ''}</b>
+      <span>${LISTS.filter(([l]) => p.lists.has(l)).map(([l, label]) =>
+        `<label><input type="checkbox" value="${sn}-${l}" ${picked.includes(`${sn}-${l}`) ? 'checked' : ''}> ${label}</label>`).join('')}</span>
+    </div>`).join('');
+  update();
+});
+
+const boxes = () => [...document.querySelectorAll('#list input')];
+function update() {
+  // keep the order things were ticked in (= order of rows on the Stremio board)
+  const on = new Set(boxes().filter(b => b.checked).map(b => b.value));
+  picked = [...picked.filter(id => on.has(id)), ...[...on].filter(id => !picked.includes(id))];
+  document.getElementById('count').textContent = `${picked.length} listas`;
+}
+const url = () => `${location.host}/${picked.join(',')}/manifest.json`;
+document.getElementById('list').addEventListener('change', update);
+document.getElementById('q').addEventListener('input', e => document.querySelectorAll('.row').forEach(r => { r.hidden = !r.dataset.name.includes(e.target.value.toLowerCase()); }));
+document.getElementById('tops').onclick = () => { boxes().forEach(b => { if (b.value.endsWith('-top')) b.checked = true; }); update(); };
+document.getElementById('none').onclick = () => { boxes().forEach(b => { b.checked = false; }); update(); };
+document.getElementById('install').onclick = () => { if (picked.length) location.href = `stremio://${url()}`; };
+document.getElementById('copy').onclick = async e => {
+  if (!picked.length) return;
+  await navigator.clipboard.writeText(`${location.protocol}//${url()}`).catch(() => {});
+  e.target.textContent = 'Copiado';
+  setTimeout(() => { e.target.textContent = 'Copiar link'; }, 1500);
+};
+</script>
+</body>
+</html>

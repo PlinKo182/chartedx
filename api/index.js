@@ -1,0 +1,41 @@
+// Single Vercel function (also a plain Node http handler, for local runs):
+//   /configure, /{config}/configure   pick catalogs
+//   /manifest.json                    every catalog, asks Stremio to configure first
+//   /{config}/manifest.json           only the picked catalogs; config = comma list of catalog ids (nfx-top,sic-popular)
+//   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action
+const fs = require('fs');
+const path = require('path');
+
+const ROOT = path.join(__dirname, '..');
+const send = (res, code, type, body) => {
+  res.writeHead(code, { 'Content-Type': type, 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'public, max-age=3600' });
+  res.end(body);
+};
+
+module.exports = (req, res) => {
+  const parts = new URL(req.url, 'http://x').pathname.split('/').filter(Boolean).map(decodeURIComponent);
+  const config = parts.length > 1 && parts[0] !== 'catalog' && /^[a-z0-9,-]+$/.test(parts[0]) ? parts.shift() : '';
+
+  if (!parts.length || parts[0] === 'configure') {
+    return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'configure.html')));
+  }
+
+  if (parts[0] === 'manifest.json') {
+    const manifest = JSON.parse(fs.readFileSync(path.join(ROOT, 'docs', 'manifest.json'), 'utf8'));
+    if (config) {
+      const ids = config.split(',');
+      manifest.catalogs = ids.flatMap(id => manifest.catalogs.filter(c => c.id === id)); // user's order
+    }
+    manifest.behaviorHints = { configurable: true, configurationRequired: !config };
+    return send(res, 200, 'application/json', JSON.stringify(manifest));
+  }
+
+  // /catalog/{type}/{id}.json, or /catalog/{type}/{id}/skip=30.json (Stremio paging): lists end before that
+  if (parts[0] === 'catalog' && /^(movie|series)$/.test(parts[1])) {
+    if (parts.length > 3) return send(res, 200, 'application/json', '{"metas":[]}');
+    const file = path.join(ROOT, 'docs', 'catalog', parts[1], parts[2] || '');
+    if (/^[a-z0-9-]+\.json$/.test(parts[2] || '') && fs.existsSync(file)) return send(res, 200, 'application/json', fs.readFileSync(file));
+  }
+
+  send(res, 404, 'application/json', '{"error":"not found"}');
+};
