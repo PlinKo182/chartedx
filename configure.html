@@ -20,6 +20,10 @@
   .row label:has(input:checked) { color: var(--text); }
   .src { font-size: 12px; color: var(--muted); font-weight: normal; }
   .types { padding-left: 12px; border-left: 1px solid var(--line); }
+  .row b { flex: 1; }
+  .move { display: flex; flex-direction: column; }
+  .move button { padding: 0 6px; font-size: 10px; line-height: 14px; border: 0; background: none; color: var(--muted); }
+  .move button:hover { color: var(--text); }
   footer { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card); border-top: 1px solid var(--line); padding: 12px 16px; }
   footer div { max-width: 760px; margin: 0 auto; display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
   .primary { background: var(--accent); border-color: var(--accent); font-weight: 600; }
@@ -48,9 +52,11 @@ const sn = id => id.slice(0, id.lastIndexOf('-'));
 // config from /{config}/configure, if reinstalling: entries "nfx-top", "sic-popular.m" (movies only), "nfx-trending.s" (series only)
 const first = location.pathname.split('/').filter(Boolean)[0];
 const saved = first && first !== 'configure' ? decodeURIComponent(first).split(',') : [];
-let picked = saved.map(e => e.split('.')[0]);
+const picked = saved.map(e => e.split('.')[0]);
 const savedType = Object.fromEntries(saved.map(e => [sn(e.split('.')[0]), e.split('.')[1]])); // provider -> 'm' | 's' | undefined
+const savedOrder = [...new Set(picked.map(sn))];
 
+const list = document.getElementById('list');
 fetch('/manifest.json').then(r => r.json()).then(m => {
   const providers = new Map(); // sn -> {name, lists:Set, source}
   for (const c of m.catalogs) {
@@ -60,8 +66,11 @@ fetch('/manifest.json').then(r => r.json()).then(m => {
     if (list === 'top' && c.name.endsWith('Top JustWatch')) p.jw = true;
     providers.set(sn, p);
   }
-  document.getElementById('list').innerHTML = [...providers].map(([id, p]) => `
+  // previously picked providers first, in their saved order
+  const rank = id => (savedOrder.indexOf(id) + 1) || Infinity;
+  list.innerHTML = [...providers].sort(([a], [b]) => rank(a) - rank(b)).map(([id, p]) => `
     <div class="row" data-sn="${id}" data-name="${p.name.toLowerCase()}">
+      <span class="move"><button data-move="-1" title="Subir">▲</button><button data-move="1" title="Descer">▼</button></span>
       <b>${p.name}${p.lists.has('top') ? ` <span class="src">${p.jw ? 'JustWatch' : 'FlixPatrol'}</span>` : ''}</b>
       <span>${LISTS.filter(([l]) => p.lists.has(l)).map(([l, label]) =>
         `<label><input type="checkbox" class="list" value="${id}-${l}" ${picked.includes(`${id}-${l}`) ? 'checked' : ''}> ${label}</label>`).join('')}
@@ -73,26 +82,50 @@ fetch('/manifest.json').then(r => r.json()).then(m => {
   update();
 });
 
-const boxes = () => [...document.querySelectorAll('#list input.list')];
+const boxes = () => [...list.querySelectorAll('input.list')];
+const rows = () => [...list.querySelectorAll('.row')];
+const isOn = row => row.querySelector('input.list:checked');
 // '' = movies and series, '.m' / '.s' = one type, null = neither
-function typeOf(provider) {
-  const [m, s] = [...document.querySelectorAll(`.row[data-sn="${provider}"] input.type`)].map(b => b.checked);
+function typeOf(row) {
+  const [m, s] = [...row.querySelectorAll('input.type')].map(b => b.checked);
   return m && s ? '' : m ? '.m' : s ? '.s' : null;
 }
-const entries = () => picked.filter(id => typeOf(sn(id)) !== null).map(id => id + typeOf(sn(id)));
+// Stremio board order = row order on this page, then Top 10 / Populares / Tendências within a provider
+const entries = () => rows().filter(r => typeOf(r) !== null)
+  .flatMap(r => [...r.querySelectorAll('input.list:checked')].map(b => b.value + typeOf(r)));
 function update() {
-  // keep the order things were ticked in (= order of rows on the Stremio board)
-  const on = new Set(boxes().filter(b => b.checked).map(b => b.value));
-  picked = [...picked.filter(id => on.has(id)), ...[...on].filter(id => !picked.includes(id))];
   const n = entries().reduce((sum, e) => sum + (e.includes('.') ? 1 : 2), 0);
   document.getElementById('count').textContent = `${n} filas no Stremio`;
 }
 const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
-document.getElementById('list').addEventListener('change', update);
+list.addEventListener('change', e => {
+  const row = e.target.closest('.row');
+  // a provider just picked joins the end of the picked block at the top
+  if (e.target.classList.contains('list') && e.target.checked && row.querySelectorAll('input.list:checked').length === 1) {
+    const lastOn = rows().filter(r => r !== row && isOn(r)).pop();
+    lastOn ? lastOn.after(row) : list.prepend(row);
+  }
+  update();
+});
+list.addEventListener('click', e => {
+  const step = +e.target.dataset.move;
+  if (!step) return;
+  const row = e.target.closest('.row');
+  const sibling = step < 0 ? row.previousElementSibling : row.nextElementSibling;
+  if (sibling) step < 0 ? sibling.before(row) : sibling.after(row);
+  update();
+});
 document.getElementById('q').addEventListener('input', e => document.querySelectorAll('.row').forEach(r => { r.hidden = !r.dataset.name.includes(e.target.value.toLowerCase()); }));
 document.getElementById('tops').onclick = () => { boxes().forEach(b => { if (b.value.endsWith('-top')) b.checked = true; }); update(); };
 document.getElementById('none').onclick = () => { boxes().forEach(b => { b.checked = false; }); update(); };
-document.getElementById('install').onclick = () => { if (entries().length) location.href = `stremio://${url()}`; };
+document.getElementById('install').onclick = async e => {
+  if (!entries().length) return;
+  if (location.protocol === 'https:') return void (location.href = `stremio://${url()}`);
+  // stremio:// always becomes https:// (and drops the port), so a local http server can only be added by pasting the link
+  await navigator.clipboard.writeText(`http://${url()}`).catch(() => {});
+  e.target.textContent = 'Link copiado: cola em Add-ons no Stremio';
+  setTimeout(() => { e.target.textContent = 'Instalar no Stremio'; }, 4000);
+};
 document.getElementById('copy').onclick = async e => {
   if (!entries().length) return;
   await navigator.clipboard.writeText(`${location.protocol}//${url()}`).catch(() => {});
