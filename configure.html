@@ -57,7 +57,7 @@ const savedType = Object.fromEntries(saved.map(e => [sn(e.split('.')[0]), e.spli
 const savedOrder = [...new Set(picked.map(sn))];
 
 const list = document.getElementById('list');
-fetch('/manifest.json').then(r => r.json()).then(m => {
+fetch('/manifest.json', { cache: 'no-cache' }).then(r => r.json()).then(m => {
   const providers = new Map(); // sn -> {name, lists:Set, source}
   for (const c of m.catalogs) {
     const [sn, list] = [c.id.slice(0, c.id.lastIndexOf('-')), c.id.slice(c.id.lastIndexOf('-') + 1)];

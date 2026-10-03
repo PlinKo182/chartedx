@@ -8,8 +8,8 @@ const fs = require('fs');
 const path = require('path');
 
 const ROOT = path.join(__dirname, '..');
-const send = (res, code, type, body) => {
-  res.writeHead(code, { 'Content-Type': type, 'Access-Control-Allow-Origin': '*', 'Cache-Control': 'public, max-age=3600' });
+const send = (res, code, type, body, cache = 'public, max-age=3600') => {
+  res.writeHead(code, { 'Content-Type': type, 'Access-Control-Allow-Origin': '*', 'Cache-Control': cache });
   res.end(body);
 };
 
@@ -18,7 +18,7 @@ module.exports = (req, res) => {
   const config = parts.length > 1 && parts[0] !== 'catalog' && /^[a-z0-9,.-]+$/.test(parts[0]) ? parts.shift() : '';
 
   if (!parts.length || parts[0] === 'configure') {
-    return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'configure.html')));
+    return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'configure.html')), 'no-cache');
   }
 
   if (parts[0] === 'manifest.json') {
