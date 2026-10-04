@@ -68,6 +68,11 @@
    "name": "Apple TV · Top 10"
   },
   {
+   "type": "movie",
+   "id": "dnp-top",
+   "name": "Disney Plus · Top 10"
+  },
+  {
    "type": "series",
    "id": "dnp-top",
    "name": "Disney Plus · Top 10"
@@ -239,123 +244,18 @@
   },
   {
    "type": "movie",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
+   "id": "grma-top",
+   "name": "JustWatch · Romance"
   },
   {
    "type": "series",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
+   "id": "grma-top",
+   "name": "JustWatch · Romance"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gcmy-top",
-   "name": "JustWatch · Comédia"
-  },
-  {
-   "type": "movie",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
-  },
-  {
-   "type": "series",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "ghst-top",
-   "name": "JustWatch · História"
-  },
-  {
-   "type": "movie",
-   "id": "gcrm-top",
-   "name": "JustWatch · Crime"
-  },
-  {
-   "type": "series",
-   "id": "gcrm-top",
-   "name": "JustWatch · Crime"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gcrm-top",
-   "name": "JustWatch · Crime"
-  },
-  {
-   "type": "movie",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
-  },
-  {
-   "type": "series",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gfml-top",
-   "name": "JustWatch · Família"
-  },
-  {
-   "type": "movie",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
-  },
-  {
-   "type": "series",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gmsc-top",
-   "name": "JustWatch · Música & Musical"
-  },
-  {
-   "type": "movie",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
-  },
-  {
-   "type": "series",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gani-top",
-   "name": "JustWatch · Animação"
-  },
-  {
-   "type": "movie",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
-  },
-  {
-   "type": "series",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gdoc-top",
-   "name": "JustWatch · Documentário"
-  },
-  {
-   "type": "movie",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
-  },
-  {
-   "type": "series",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "ghrr-top",
-   "name": "JustWatch · Terror"
+   "id": "grma-top",
+   "name": "JustWatch · Romance"
   },
   {
    "type": "movie",
@@ -371,21 +271,6 @@
    "type": "Filmes e Séries",
    "id": "gscf-top",
    "name": "JustWatch · Ficção Científica"
-  },
-  {
-   "type": "movie",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
-  },
-  {
-   "type": "series",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gspt-top",
-   "name": "JustWatch · Esporte & Fitness"
   },
   {
    "type": "movie",
@@ -434,21 +319,6 @@
   },
   {
    "type": "movie",
-   "id": "gdrm-top",
-   "name": "JustWatch · Drama"
-  },
-  {
-   "type": "series",
-   "id": "gdrm-top",
-   "name": "JustWatch · Drama"
-  },
-  {
-   "type": "Filmes e Séries",
-   "id": "gdrm-top",
-   "name": "JustWatch · Drama"
-  },
-  {
-   "type": "movie",
    "id": "gfnt-top",
    "name": "JustWatch · Fantasia"
   },
@@ -464,33 +334,108 @@
   },
   {
    "type": "movie",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
   },
   {
    "type": "series",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
   },
   {
    "type": "Filmes e Séries",
-   "id": "gtrl-top",
-   "name": "JustWatch · Mistério & Thriller"
+   "id": "gfml-top",
+   "name": "JustWatch · Família"
   },
   {
    "type": "movie",
-   "id": "grma-top",
-   "name": "JustWatch · Romance"
+   "id": "geur-top",
+   "name": "JustWatch · Europeu"
   },
   {
    "type": "series",
-   "id": "grma-top",
-   "name": "JustWatch · Romance"
+   "id": "geur-top",
+   "name": "JustWatch · Europeu"
   },
   {
    "type": "Filmes e Séries",
-   "id": "grma-top",
-   "name": "JustWatch · Romance"
+   "id": "geur-top",
+   "name": "JustWatch · Europeu"
+  },
+  {
+   "type": "movie",
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
+  },
+  {
+   "type": "series",
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gcmy-top",
+   "name": "JustWatch · Comédia"
+  },
+  {
+   "type": "movie",
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
+  },
+  {
+   "type": "series",
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gdoc-top",
+   "name": "JustWatch · Documentário"
+  },
+  {
+   "type": "movie",
+   "id": "ghst-top",
+   "name": "JustWatch · História"
+  },
+  {
+   "type": "series",
+   "id": "ghst-top",
+   "name": "JustWatch · História"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "ghst-top",
+   "name": "JustWatch · História"
+  },
+  {
+   "type": "movie",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
+  },
+  {
+   "type": "series",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gmsc-top",
+   "name": "JustWatch · Música & Musical"
+  },
+  {
+   "type": "movie",
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
+  },
+  {
+   "type": "series",
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gspt-top",
+   "name": "JustWatch · Esporte & Fitness"
   },
   {
    "type": "movie",
@@ -509,18 +454,78 @@
   },
   {
    "type": "movie",
-   "id": "geur-top",
-   "name": "JustWatch · Europeu"
+   "id": "gcrm-top",
+   "name": "JustWatch · Crime"
   },
   {
    "type": "series",
-   "id": "geur-top",
-   "name": "JustWatch · Europeu"
+   "id": "gcrm-top",
+   "name": "JustWatch · Crime"
   },
   {
    "type": "Filmes e Séries",
-   "id": "geur-top",
-   "name": "JustWatch · Europeu"
+   "id": "gcrm-top",
+   "name": "JustWatch · Crime"
+  },
+  {
+   "type": "movie",
+   "id": "gdrm-top",
+   "name": "JustWatch · Drama"
+  },
+  {
+   "type": "series",
+   "id": "gdrm-top",
+   "name": "JustWatch · Drama"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gdrm-top",
+   "name": "JustWatch · Drama"
+  },
+  {
+   "type": "movie",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "series",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "ghrr-top",
+   "name": "JustWatch · Terror"
+  },
+  {
+   "type": "movie",
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
+  },
+  {
+   "type": "series",
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gtrl-top",
+   "name": "JustWatch · Mistério & Thriller"
+  },
+  {
+   "type": "movie",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
+  },
+  {
+   "type": "series",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
+  },
+  {
+   "type": "Filmes e Séries",
+   "id": "gani-top",
+   "name": "JustWatch · Animação"
   },
   {
    "type": "movie",
