@@ -21,7 +21,7 @@ jobs:
       - run: |
           # commits as the repo owner: Vercel (free plan) blocks deploys of commits by other authors, like github-actions
           git config user.name PlinKo182
-          git config user.email jrplinko@gmail.com
+          git config user.email 21090796+PlinKo182@users.noreply.github.com
           git add docs cache.json
           git diff --cached --quiet || git commit -m "update $(date -u +%F)"
           git pull --rebase -X theirs && git push # main may have moved while this ran; on a docs/ conflict keep this run's data
