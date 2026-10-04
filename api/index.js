@@ -9,7 +9,8 @@
 //   /{config}/meta/{type}/chartedx:sep:{day}.json   the day separators in Novidades
 //   /sep/{day}.png                    separator poster (logo if missing)
 //   {sn}-top                          a platform's Top 10: FlixPatrol from docs/, else JustWatch's, built live
-//   /providers.json, /general.json, /logo.png, /logo.svg   for the configure page and Stremio
+//   /dados                            page showing what was extracted (FlixPatrol, JustWatch, TMDB, status)
+//   /providers.json, /general.json, /status.json, /logo.png, /logo.svg   for the pages and Stremio
 const fs = require('fs');
 const path = require('path');
 
@@ -49,7 +50,11 @@ module.exports = async (req, res) => {
     } }));
   }
 
-  if (['providers.json', 'general.json'].includes(parts[0])) {
+  if (parts[0] === 'dados') {
+    return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'dados.html')), 'no-cache');
+  }
+
+  if (['providers.json', 'general.json', 'status.json'].includes(parts[0])) {
     return send(res, 200, 'application/json', fs.readFileSync(path.join(ROOT, 'docs', parts[0])), 'no-cache');
   }
 

@@ -1,0 +1,223 @@
+<!doctype html>
+<html lang="pt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ChartedX · Dados</title>
+<link rel="icon" href="/logo.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0F0F23; --surface: #17172F; --surface-2: #1F1F3D; --line: #2D2D55;
+    --text: #F8FAFC; --muted: #A9ACC9; --accent: #6366F1; --ok: #22C55E; --warn: #F59E0B; --bad: #F87171; --jw: #FBC500;
+  }
+  * { box-sizing: border-box; }
+  html { color-scheme: dark; }
+  body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Poppins, system-ui, sans-serif; }
+  button, select { font: inherit; color: inherit; cursor: pointer; }
+  button:focus-visible, select:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  a { color: inherit; }
+  main { max-width: 1240px; margin: 0 auto; padding: 24px 16px 60px; }
+  header { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; margin-bottom: 20px; }
+  header img { width: 48px; height: 48px; }
+  header h1 { margin: 0; font-size: 24px; line-height: 1.1; }
+  header p { margin: 2px 0 0; color: var(--muted); font-size: 13px; }
+  header .spacer { flex: 1; }
+  header .cfg { padding: 10px 14px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); text-decoration: none; font-size: 14px; }
+
+  .tabs { position: sticky; top: 0; z-index: 10; display: flex; gap: 4px; padding: 8px 0; margin-bottom: 16px; background: var(--bg); border-bottom: 1px solid var(--line); overflow-x: auto; }
+  .tabs button { min-height: 40px; padding: 0 16px; border: 0; border-radius: 8px; background: none; color: var(--muted); white-space: nowrap; transition: background .2s, color .2s; }
+  .tabs button[aria-selected=true] { background: var(--surface-2); color: var(--text); }
+  .intro { color: var(--muted); font-size: 13px; margin: 0 0 18px; }
+
+  section.list { margin-bottom: 26px; }
+  .list-head { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-bottom: 8px; }
+  .list-head img, .list-head .logo { width: 30px; height: 30px; border-radius: 8px; }
+  .logo.jw { display: grid; place-items: center; background: var(--jw); color: #111; font-weight: 700; font-size: 12px; }
+  .list-head h2 { margin: 0; font-size: 16px; }
+  .list-head small { color: var(--muted); font-size: 12px; }
+  .list-head .grow { flex: 1; }
+  .seg { display: flex; padding: 3px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); }
+  .seg button { min-height: 30px; padding: 0 10px; border: 0; border-radius: 7px; background: none; color: var(--muted); font-size: 12px; }
+  .seg button[aria-pressed=true] { background: var(--accent); color: #fff; }
+
+  .row { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x proximity; }
+  .row::-webkit-scrollbar { height: 8px; }
+  .row::-webkit-scrollbar-thumb { background: var(--line); border-radius: 8px; }
+  .item { flex: none; width: 124px; scroll-snap-align: start; text-decoration: none; }
+  .item .poster { position: relative; aspect-ratio: 2 / 3; border-radius: 10px; overflow: hidden; background: var(--surface); }
+  .item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .item .rank { position: absolute; left: 6px; top: 6px; min-width: 24px; height: 24px; padding: 0 6px; border-radius: 999px; background: rgba(15, 15, 35, .85); font-size: 12px; font-weight: 700; display: grid; place-items: center; }
+  .item .name { margin-top: 6px; font-size: 12px; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .item .kind { color: var(--muted); font-size: 11px; }
+  .day { flex: none; width: 70px; display: grid; place-items: center; text-align: center; border-radius: 10px; background: linear-gradient(160deg, #4338CA, #7C3AED); font-weight: 700; font-size: 13px; line-height: 1.25; padding: 6px; }
+  .empty { color: var(--muted); font-size: 13px; padding: 20px 0; }
+
+  .live { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; margin: 6px 0 10px; }
+  .live select { min-height: 40px; padding: 0 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 500; }
+  td.n { white-space: nowrap; }
+  .ok { color: var(--ok); } .warn { color: var(--warn); } .bad { color: var(--bad); }
+  details summary { cursor: pointer; color: var(--warn); }
+  .table-wrap { overflow-x: auto; }
+  [hidden] { display: none !important; }
+  @media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <img src="/logo.svg" alt="">
+    <div>
+      <h1>ChartedX · Dados</h1>
+      <p id="updated">A carregar…</p>
+    </div>
+    <span class="spacer"></span>
+    <a class="cfg" href="/configure">Configurar o addon</a>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button role="tab" data-tab="fp" aria-selected="true">Top 10 das plataformas</button>
+    <button role="tab" data-tab="jw" aria-selected="false">JustWatch</button>
+    <button role="tab" data-tab="tmdb" aria-selected="false">Estreias</button>
+    <button role="tab" data-tab="status" aria-selected="false">Estado</button>
+  </nav>
+
+  <div data-panel="fp">
+    <p class="intro">Top 10 diário de cada plataforma, igual à app (FlixPatrol). As outras plataformas usam o Top 10 da sua página no JustWatch, pedido no momento.</p>
+    <div id="fp"></div>
+    <section class="list">
+      <div class="list-head"><h2>Outra plataforma</h2><small>Top 10 da página da plataforma no JustWatch (ao vivo)</small></div>
+      <div class="live"><select id="other" aria-label="Plataforma"></select></div>
+      <div id="other-list"></div>
+    </section>
+  </div>
+  <div data-panel="jw" hidden>
+    <p class="intro">Listas gerais do JustWatch para Portugal, com todas as plataformas (no addon ficam limitadas às plataformas que escolheres).</p>
+    <div id="jw"></div>
+  </div>
+  <div data-panel="tmdb" hidden>
+    <p class="intro">Filmes saídos em digital e séries estreadas nos últimos 14 dias, em qualquer parte do mundo (TMDB).</p>
+    <div id="tmdb"></div>
+  </div>
+  <div data-panel="status" hidden>
+    <p class="intro">O que a última atualização apanhou: fonte, data dos dados, quantos títulos e quais ficaram sem IMDb.</p>
+    <div class="table-wrap"><table id="status"></table></div>
+  </div>
+</main>
+
+<script>
+const MIX = 'Filmes e Séries';
+const TYPES = [['movie', 'Filmes'], ['series', 'Séries'], [MIX, 'Juntos']];
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const get = u => fetch(u, { cache: 'no-cache' }).then(r => (r.ok ? r.json() : Promise.reject(r.status)));
+const when = iso => iso ? new Date(iso).toLocaleString('pt-PT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }) : '—';
+
+let catalogs = {};   // id -> { name, types: [] }
+let providers = {};  // shortName -> { name, icon, flixpatrol }
+
+function rowHtml(metas) {
+  if (!metas.length) return '<p class="empty">Sem títulos.</p>';
+  let rank = 0;
+  return `<div class="row">${metas.map(m => {
+    if (m.id.startsWith('chartedx:sep:')) { rank = 0; return `<div class="day">${esc(m.name).replace(' · ', '<br>')}</div>`; }
+    rank++;
+    return `<a class="item" href="https://www.imdb.com/title/${esc(m.id)}/" target="_blank" rel="noopener">
+      <div class="poster"><img src="${esc(m.poster)}" alt="" loading="lazy"><span class="rank">${rank}</span></div>
+      <div class="name">${esc(m.name)}</div><div class="kind">${m.type === 'movie' ? 'Filme' : 'Série'}</div></a>`;
+  }).join('')}</div>`;
+}
+
+async function load(section, type) {
+  const box = section.querySelector('.content');
+  box.innerHTML = '<p class="empty">A carregar…</p>';
+  section.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.type === type));
+  try {
+    const { metas } = await get(`${section.dataset.base || ''}/catalog/${encodeURIComponent(type)}/${section.dataset.id}.json`);
+    box.innerHTML = rowHtml(metas);
+  } catch {
+    box.innerHTML = '<p class="empty">Não há esta lista.</p>';
+  }
+}
+
+function sectionHtml(id, title, sub, avatar, types, base = '') {
+  return `<section class="list" data-id="${id}" data-base="${base}">
+    <div class="list-head">${avatar}<h2>${esc(title)}</h2><small>${sub}</small><span class="grow"></span>
+      <div class="seg" role="group" aria-label="Tipo">${TYPES.filter(([t]) => types.includes(t)).map(([t, l]) => `<button type="button" data-type="${t}">${l}</button>`).join('')}</div>
+    </div>
+    <div class="content"></div>
+  </section>`;
+}
+
+// load each list when it scrolls into view
+const seen = new IntersectionObserver(entries => entries.forEach(e => {
+  if (!e.isIntersecting) return;
+  seen.unobserve(e.target);
+  const first = e.target.querySelector('.seg button');
+  if (first) load(e.target, first.dataset.type);
+}), { rootMargin: '300px' });
+const watch = root => root.querySelectorAll('section.list[data-id]').forEach(s => seen.observe(s));
+
+document.addEventListener('click', e => {
+  const b = e.target.closest('.seg button');
+  if (b) load(b.closest('section'), b.dataset.type);
+  const tab = e.target.closest('[role=tab]');
+  if (tab) {
+    document.querySelectorAll('[role=tab]').forEach(t => t.setAttribute('aria-selected', t === tab));
+    document.querySelectorAll('[data-panel]').forEach(p => { p.hidden = p.dataset.panel !== tab.dataset.tab; });
+  }
+});
+
+Promise.all([get('/manifest.json'), get('/status.json'), get('/providers.json')]).then(([manifest, status, prov]) => {
+  providers = Object.fromEntries(prov.map(p => [p.shortName, p]));
+  for (const c of manifest.catalogs) (catalogs[c.id] ||= { name: c.name, types: [] }).types.push(c.type);
+  const st = id => status[id] || {};
+  const last = Object.values(status).map(s => s.checked).filter(Boolean).sort().pop();
+  $('updated').textContent = `Última atualização: ${when(last)}`;
+
+  // FlixPatrol platforms
+  const fpIds = Object.keys(catalogs).filter(id => /^[a-z0-9]+-top$/.test(id) && providers[id.slice(0, -4)]);
+  $('fp').innerHTML = fpIds.map(id => {
+    const p = providers[id.slice(0, -4)];
+    return sectionHtml(id, p.name, `FlixPatrol · dados de ${esc(st(id).date || '—')}`, `<img src="${esc(p.icon)}" alt="">`, catalogs[id].types);
+  }).join('');
+  // other platforms, live
+  const others = prov.filter(p => !p.flixpatrol);
+  $('other').innerHTML = others.map(p => `<option value="${p.shortName}">${esc(p.name)}</option>`).join('');
+  const showOther = () => {
+    const p = providers[$('other').value];
+    $('other-list').innerHTML = sectionHtml(`${p.shortName}-top`, `${p.name} · Top 10`, 'JustWatch, ao vivo', `<img src="${esc(p.icon)}" alt="">`, ['movie', 'series', MIX]);
+    load($('other-list').firstElementChild, 'movie');
+  };
+  $('other').onchange = showOther;
+  if (others.length) showOther();
+
+  // JustWatch general lists, then genres
+  const jwIds = Object.keys(catalogs).filter(id => /^all-/.test(id)).concat(Object.keys(catalogs).filter(id => /^g[a-z]{3}-top$/.test(id)));
+  $('jw').innerHTML = jwIds.map(id => sectionHtml(id, catalogs[id].name.replace('JustWatch · ', ''), `dados de ${esc(st(id).date || '—')}`, '<span class="logo jw">JW</span>', catalogs[id].types)).join('');
+
+  // Estreias
+  $('tmdb').innerHTML = catalogs['tmdb-new'] ? sectionHtml('tmdb-new', 'Estreias no mundo', `TMDB · dados de ${esc(st('tmdb-new').date || '—')}`, '', catalogs['tmdb-new'].types) : '<p class="empty">Sem dados.</p>';
+
+  // Estado
+  const count = (s, t) => s[t]?.count != null ? `<span class="ok">${s[t].count}</span>` : s[t]?.error ? '<span class="bad">✕</span>' : '—';
+  $('status').innerHTML = `<thead><tr><th>Lista</th><th>Fonte</th><th>Dados de</th><th>Filmes</th><th>Séries</th><th>Juntos</th><th>Sem IMDb</th></tr></thead><tbody>${
+    Object.entries(status).map(([id, s]) => `<tr>
+      <td>${esc(catalogs[id]?.name || id)}${s.error ? `<div class="bad">${esc(s.error)}</div>` : ''}</td>
+      <td>${s.source?.startsWith('http') ? `<a href="${esc(s.source)}" target="_blank" rel="noopener">FlixPatrol</a>` : esc((s.source || '').split(/[ ,]/)[0])}</td>
+      <td class="n">${esc(s.date || '—')}</td>
+      <td class="n">${count(s, 'movie')}</td><td class="n">${count(s, 'series')}</td><td class="n">${count(s, 'mix')}</td>
+      <td>${s.missing?.length ? `<details><summary>${s.missing.length}</summary>${s.missing.map(esc).join(', ')}</details>` : '<span class="ok">0</span>'}</td>
+    </tr>`).join('')}</tbody>`;
+
+  watch(document);
+}).catch(() => { $('updated').textContent = 'Não foi possível carregar os dados.'; });
+</script>
+</body>
+</html>
