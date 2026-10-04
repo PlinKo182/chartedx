@@ -94,6 +94,16 @@ async function justwatchNew(packages = []) {
   return items;
 }
 
+// A FlixPatrol title looked up on its own platform in JustWatch: tells movie or series and the IMDb id for
+// "Overall" lists (Criminal Minds the series, not the 1998 film). Exact name only; no match → the item stays as is.
+async function onPlatform(sn, item) {
+  const { popularTitles } = await jw(`query F($country: Country!, $language: Language!, $pk: [String!], $q: String!) {
+    popularTitles(country: $country, first: 5, filter: {packages: $pk, searchQuery: $q}) { edges { node { ${CONTENT} } } } }`,
+  { country: 'PT', language: 'en', pk: [sn], q: item.title });
+  const hit = popularTitles.edges.map(toItem).find(i => norm(i.title) === norm(item.title));
+  return hit ? { ...item, kind: hit.kind, imdbId: hit.imdbId, year: hit.year } : item;
+}
+
 async function genres() {
   return (await jw('query { genres { shortName translation(language: "pt") } }', {})).genres;
 }
@@ -439,12 +449,18 @@ async function main() {
       plan: async st => {
         const lists = parse(pages[fp] || '');
         st.date = pageDate(pages[fp] || '');
-        if (lists.Overall && !lists.Movies && !lists['TV Shows']) return [[lists.Overall, ['movie', 'series']], [lists.Overall, ['movie', 'series'], 'mix']];
-        const movies = (lists.Movies || []).map(i => ({ ...i, kind: 'MOVIE' }));
-        const shows = (lists['TV Shows'] || []).map(i => ({ ...i, kind: 'SHOW' }));
+        // FlixPatrol doesn't fill a row (Disney+ PT only has an Overall list, often 1–2 movies): that row uses the
+        // platform's JustWatch Top 10 instead (fetched only when needed)
+        let jwTop;
+        const fallback = type => [null, [type], type, async () => (jwTop ||= await jwProviderTop({ packages: [sn] }))[type]];
+        // Overall list (filmes e séries juntos): look each title up on the platform to know its type
+        const overall = lists.Overall && await Promise.all(lists.Overall.map(i => onPlatform(sn, i).catch(() => i)));
+        if (overall && !lists.Movies && !lists['TV Shows']) return [[overall, null], [overall, null, 'mix'], fallback('movie'), fallback('series')];
+        const movies = (lists.Movies || []).map(i => ({ ...i, kind: 'MOVIE', sn }));
+        const shows = (lists['TV Shows'] || []).map(i => ({ ...i, kind: 'SHOW', sn }));
         // together: FlixPatrol's Overall list when it has one, else movies and series alternating
-        const together = lists.Overall ? [lists.Overall, ['movie', 'series'], 'mix'] : [movies.flatMap((m, i) => [m, shows[i]].filter(Boolean)).concat(shows.slice(movies.length)), null, 'mix'];
-        return [[movies, ['movie']], [shows, ['series']], together];
+        const together = overall ? [overall, null, 'mix'] : [movies.flatMap((m, i) => [m, shows[i]].filter(Boolean)).concat(shows.slice(movies.length)), null, 'mix'];
+        return [[movies, ['movie']], [shows, ['series']], together, fallback('movie'), fallback('series')];
       },
     });
   }
@@ -489,9 +505,22 @@ async function main() {
 
     // buckets: movie, series, and mix (movies + series in one catalog, stored in catalog/mix/)
     const out = { movie: [], series: [], mix: [] };
-    for (const [items, types, bucket] of plan) {
+    for (let [items, types, bucket, fallback] of plan) {
+      // a fallback entry replaces its bucket only when the main source left it short
+      if (fallback) {
+        if (out[bucket].length >= MIN_ITEMS) continue;
+        items = await fallback().catch(() => []);
+        if (!items.length) continue;
+        out[bucket] = [];
+        (st.fallback ||= []).push(bucket);
+      }
       for (const item of items) {
-        const r = await resolve(item, types || [item.kind === 'MOVIE' ? 'movie' : 'series'], cache);
+        // no types: each item's own kind, or either when unknown (FlixPatrol Overall title not found on the platform)
+        let r = await resolve(item, types || (item.kind ? [item.kind === 'MOVIE' ? 'movie' : 'series'] : ['movie', 'series']), cache);
+        if (!r && item.sn) { // FlixPatrol title not found elsewhere: look for it on its platform
+          const f = await onPlatform(item.sn, item).catch(() => item);
+          if (f.imdbId) r = { type: f.kind === 'MOVIE' ? 'movie' : 'series', id: f.imdbId, name: f.title };
+        }
         const list = out[bucket || r?.type];
         if (r && !list.some(x => x.id === r.id)) list.push(item.day ? { ...r, day: item.day } : r);
         else if (!r) st.missing.push(item.title);
