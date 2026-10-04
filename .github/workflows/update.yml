@@ -1,6 +1,7 @@
 name: update
 on:
-  schedule: [{ cron: '0 8 * * *' }] # FlixPatrol has the previous day's Top 10 by then
+  # FlixPatrol publishes ~11:00 UTC (its FAQ), Netflix again 14:00–16:00 UTC; JustWatch's daily chart ~05:20 UTC
+  schedule: [{ cron: '30 11 * * *' }, { cron: '30 16 * * *' }]
   workflow_dispatch:
 permissions:
   contents: write
