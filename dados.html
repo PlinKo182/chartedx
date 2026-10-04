@@ -39,9 +39,7 @@
   .list-head h2 { margin: 0; font-size: 16px; }
   .list-head small { color: var(--muted); font-size: 12px; }
   .list-head .grow { flex: 1; }
-  .seg { display: flex; padding: 3px; border: 1px solid var(--line); border-radius: 9px; background: var(--surface); }
-  .seg button { min-height: 30px; padding: 0 10px; border: 0; border-radius: 7px; background: none; color: var(--muted); font-size: 12px; }
-  .seg button[aria-pressed=true] { background: var(--accent); color: #fff; }
+  .type-label { margin: 10px 0 6px; font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
 
   .row { display: flex; gap: 10px; overflow-x: auto; padding-bottom: 8px; scroll-snap-type: x proximity; }
   .row::-webkit-scrollbar { height: 8px; }
@@ -139,24 +137,24 @@ function rowHtml(metas) {
   }).join('')}</div>`;
 }
 
-async function load(section, type) {
-  const box = section.querySelector('.content');
-  box.innerHTML = '<p class="empty">A carregar…</p>';
-  section.querySelectorAll('.seg button').forEach(b => b.setAttribute('aria-pressed', b.dataset.type === type));
-  try {
-    const { metas } = await get(`${section.dataset.base || ''}/catalog/${encodeURIComponent(type)}/${section.dataset.id}.json`);
-    box.innerHTML = rowHtml(metas);
-  } catch {
-    box.innerHTML = '<p class="empty">Não há esta lista.</p>';
+// every type of a list (Filmes, Séries, Juntos), one row each
+async function load(section) {
+  for (const block of section.querySelectorAll('.typed')) {
+    const box = block.querySelector('.content');
+    box.innerHTML = '<p class="empty">A carregar…</p>';
+    try {
+      const { metas } = await get(`${section.dataset.base || ''}/catalog/${encodeURIComponent(block.dataset.type)}/${section.dataset.id}.json`);
+      box.innerHTML = rowHtml(metas);
+    } catch {
+      box.innerHTML = '<p class="empty">Não há esta lista.</p>';
+    }
   }
 }
 
 function sectionHtml(id, title, sub, avatar, types, base = '') {
   return `<section class="list" data-id="${id}" data-base="${base}">
-    <div class="list-head">${avatar}<h2>${esc(title)}</h2><small>${sub}</small><span class="grow"></span>
-      <div class="seg" role="group" aria-label="Tipo">${TYPES.filter(([t]) => types.includes(t)).map(([t, l]) => `<button type="button" data-type="${t}">${l}</button>`).join('')}</div>
-    </div>
-    <div class="content"></div>
+    <div class="list-head">${avatar}<h2>${esc(title)}</h2><small>${sub}</small></div>
+    ${TYPES.filter(([t]) => types.includes(t)).map(([t, l]) => `<div class="typed" data-type="${t}"><p class="type-label">${l}</p><div class="content"></div></div>`).join('')}
   </section>`;
 }
 
@@ -164,14 +162,11 @@ function sectionHtml(id, title, sub, avatar, types, base = '') {
 const seen = new IntersectionObserver(entries => entries.forEach(e => {
   if (!e.isIntersecting) return;
   seen.unobserve(e.target);
-  const first = e.target.querySelector('.seg button');
-  if (first) load(e.target, first.dataset.type);
+  load(e.target);
 }), { rootMargin: '300px' });
 const watch = root => root.querySelectorAll('section.list[data-id]').forEach(s => seen.observe(s));
 
 document.addEventListener('click', e => {
-  const b = e.target.closest('.seg button');
-  if (b) load(b.closest('section'), b.dataset.type);
   const tab = e.target.closest('[role=tab]');
   if (tab) {
     document.querySelectorAll('[role=tab]').forEach(t => t.setAttribute('aria-selected', t === tab));
@@ -198,7 +193,7 @@ Promise.all([get('/manifest.json'), get('/status.json'), get('/providers.json')]
   const showOther = () => {
     const p = providers[$('other').value];
     $('other-list').innerHTML = sectionHtml(`${p.shortName}-top`, `${p.name} · Top 10`, 'JustWatch, ao vivo', `<img src="${esc(p.icon)}" alt="">`, ['movie', 'series', MIX]);
-    load($('other-list').firstElementChild, 'movie');
+    load($('other-list').firstElementChild);
   };
   $('other').onchange = showOther;
   if (others.length) showOther();
