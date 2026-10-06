@@ -5,8 +5,8 @@
   "genre": false
  },
  {
-  "shortName": "gcrm",
-  "name": "Crime",
+  "shortName": "gcmy",
+  "name": "Comédia",
   "genre": true
  },
  {
@@ -15,23 +15,8 @@
   "genre": true
  },
  {
-  "shortName": "ghrr",
-  "name": "Terror",
-  "genre": true
- },
- {
   "shortName": "gmsc",
   "name": "Música & Musical",
-  "genre": true
- },
- {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
-  "genre": true
- },
- {
-  "shortName": "gdrm",
-  "name": "Drama",
   "genre": true
  },
  {
@@ -45,13 +30,13 @@
   "genre": true
  },
  {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "grly",
+  "name": "Reality TV",
   "genre": true
  },
  {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
+  "shortName": "gcrm",
+  "name": "Crime",
   "genre": true
  },
  {
@@ -60,8 +45,8 @@
   "genre": true
  },
  {
-  "shortName": "ghst",
-  "name": "História",
+  "shortName": "grma",
+  "name": "Romance",
   "genre": true
  },
  {
@@ -70,8 +55,18 @@
   "genre": true
  },
  {
-  "shortName": "grly",
-  "name": "Reality TV",
+  "shortName": "gdrm",
+  "name": "Drama",
+  "genre": true
+ },
+ {
+  "shortName": "ghst",
+  "name": "História",
+  "genre": true
+ },
+ {
+  "shortName": "ghrr",
+  "name": "Terror",
   "genre": true
  },
  {
@@ -80,13 +75,18 @@
   "genre": true
  },
  {
-  "shortName": "grma",
-  "name": "Romance",
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
   "genre": true
  },
  {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
+  "shortName": "geur",
+  "name": "Europeu",
+  "genre": true
+ },
+ {
+  "shortName": "gact",
+  "name": "Ação & Aventura",
   "genre": true
  },
  {
@@ -95,8 +95,8 @@
   "genre": true
  },
  {
-  "shortName": "gcmy",
-  "name": "Comédia",
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
   "genre": true
  }
 ]
