@@ -5,8 +5,28 @@
   "genre": false
  },
  {
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
+  "genre": true
+ },
+ {
   "shortName": "gscf",
   "name": "Ficção Científica",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
+  "genre": true
+ },
+ {
+  "shortName": "gcmy",
+  "name": "Comédia",
+  "genre": true
+ },
+ {
+  "shortName": "grly",
+  "name": "Reality TV",
   "genre": true
  },
  {
@@ -20,18 +40,8 @@
   "genre": true
  },
  {
-  "shortName": "gmsc",
-  "name": "Música & Musical",
-  "genre": true
- },
- {
-  "shortName": "grly",
-  "name": "Reality TV",
-  "genre": true
- },
- {
-  "shortName": "gcmy",
-  "name": "Comédia",
+  "shortName": "gdoc",
+  "name": "Documentário",
   "genre": true
  },
  {
@@ -40,8 +50,13 @@
   "genre": true
  },
  {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
+  "shortName": "ghrr",
+  "name": "Terror",
+  "genre": true
+ },
+ {
+  "shortName": "gmsc",
+  "name": "Música & Musical",
   "genre": true
  },
  {
@@ -50,23 +65,8 @@
   "genre": true
  },
  {
-  "shortName": "gwsn",
-  "name": "Western",
-  "genre": true
- },
- {
-  "shortName": "gani",
-  "name": "Animação",
-  "genre": true
- },
- {
-  "shortName": "ghst",
-  "name": "História",
-  "genre": true
- },
- {
-  "shortName": "ghrr",
-  "name": "Terror",
+  "shortName": "gfml",
+  "name": "Família",
   "genre": true
  },
  {
@@ -80,13 +80,13 @@
   "genre": true
  },
  {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "gwsn",
+  "name": "Western",
   "genre": true
  },
  {
-  "shortName": "gdoc",
-  "name": "Documentário",
+  "shortName": "gani",
+  "name": "Animação",
   "genre": true
  },
  {
@@ -95,8 +95,8 @@
   "genre": true
  },
  {
-  "shortName": "gfml",
-  "name": "Família",
+  "shortName": "ghst",
+  "name": "História",
   "genre": true
  }
 ]
