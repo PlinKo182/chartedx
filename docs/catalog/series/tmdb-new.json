@@ -13,7 +13,7 @@
     "Drama",
     "Horror"
    ],
-   "imdbRating": "7.6",
+   "imdbRating": "7.9",
    "released": "2026-10-07T00:00:00.000Z",
    "writer": [
     "Mike Flanagan"
@@ -107,7 +107,7 @@
     "Action",
     "Adventure"
    ],
-   "imdbRating": "",
+   "imdbRating": "8.4",
    "released": "2026-10-09T00:00:00.000Z",
    "writer": [
     "Michael Dante DiMartino",
@@ -207,7 +207,7 @@
     "Horror",
     "Thriller"
    ],
-   "imdbRating": "",
+   "imdbRating": "6.4",
    "released": "2026-10-08T00:00:00.000Z",
    "writer": [
     "Jesse McKeown"
@@ -300,7 +300,7 @@
     "Fantasy",
     "Romance"
    ],
-   "imdbRating": "",
+   "imdbRating": "7.7",
    "released": "2026-10-09T00:00:00.000Z",
    "year": "2026–",
    "runtime": "63 min",
@@ -385,7 +385,7 @@
     "Mystery",
     "Thriller"
    ],
-   "imdbRating": "",
+   "imdbRating": "8.8",
    "released": "2026-10-09T00:00:00.000Z",
    "year": "2026–",
    "trailers": [
@@ -465,7 +465,7 @@
    "genre": [
     "Drama"
    ],
-   "imdbRating": "",
+   "imdbRating": "8.1",
    "released": "2026-10-01T00:00:00.000Z",
    "year": "2026",
    "runtime": "59 min",
@@ -540,7 +540,7 @@
     "Drama",
     "Family"
    ],
-   "imdbRating": "",
+   "imdbRating": "6.3",
    "released": null,
    "writer": [
     "Tim Federle"
@@ -709,7 +709,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38937897.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38937897.jpg",
+   "imdbRating": "9.2"
   },
   {
    "name": "War",
@@ -718,7 +719,7 @@
     "Drama",
     "Thriller"
    ],
-   "imdbRating": "",
+   "imdbRating": "6.9",
    "released": null,
    "year": "2025–",
    "trailers": [
@@ -733,7 +734,16 @@
    ],
    "runtime": "53 min",
    "status": "Continuing",
-   "cast": [],
+   "cast": [
+    "Dominic West",
+    "Sienna Miller",
+    "Phoebe Fox",
+    "James McArdle",
+    "Nina Sosanya",
+    "Pip Torrens",
+    "Archie Renaux",
+    "Emma Laird"
+   ],
    "director": [],
    "writer": [],
    "background": "https://images.metahub.space/background/medium/tt37972251/img",
@@ -780,11 +790,91 @@
    "description": "Uma série antológica ambientada no mundo da elite jurídica londrina, que acompanha dois escritórios rivais, a Cathcarts e a Taylor & Byrne, à medida que se enfrentam em diferentes disputas judiciais que dão nas manchetes a cada temporada."
   },
   {
-   "status": "Ended",
    "id": "tt39087958",
-   "name": "Love Doctor",
-   "releaseInfo": "2026",
+   "logo": "https://live.metahub.space/logo/medium/tt39087958/img",
+   "background": "https://live.metahub.space/background/medium/tt39087958/img",
+   "name": "Between Steps",
    "description": "Um ex-nadador que reconstrói sua vida através da robótica após perder a perna e uma mulher que encontra um novo caminho acadêmico depois de se afastar de seus sonhos originais se envolvem em um romance tranquilo e reconfortante enquanto estudam engenharia mecânica.",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Choo Young-woo",
+    "Kim So-hyun",
+    "Kim Min-seok"
+   ],
+   "credits_cast": [
+    {
+     "character": "Park Min-jae",
+     "name": "Choo Young-woo",
+     "profile_path": "/nGICKq8yq7G6nDUNVjrUoMe4iQ0.jpg",
+     "id": 2959217
+    },
+    {
+     "character": "Lim Yu-jin",
+     "name": "Kim So-hyun",
+     "profile_path": "/jrRXistOzBtfRkvf3WrxSmyDKBY.jpg",
+     "id": 235731
+    },
+    {
+     "character": "Lim Yu-seong",
+     "name": "Kim Min-seok",
+     "profile_path": "/oZNJCOMEqFPzN4xSSGulE62gUMZ.jpg",
+     "id": 1256347
+    },
+    {
+     "character": "",
+     "name": "Seo Jeong-yeon",
+     "profile_path": "/za1tTtSULKsZPN0u1oTs2Iival0.jpg",
+     "id": 1737904
+    },
+    {
+     "character": "",
+     "name": "Park Hyuk-kwon",
+     "profile_path": "/d4p9iRGNkZUZrFenD0gj0nQN3gR.jpg",
+     "id": 587676
+    },
+    {
+     "character": "Hong Eun-ju",
+     "name": "Shim Hye-jin",
+     "profile_path": "/dFZksi2ovgOy43fqZUHgzvi1988.jpg",
+     "id": 117349
+    },
+    {
+     "character": "",
+     "name": "Lee Chang-hoon",
+     "profile_path": "/gunEDHw5kp3Por19IelR8qOp8kL.jpg",
+     "id": 2462807
+    },
+    {
+     "character": "",
+     "name": "Lee Kyu-sung",
+     "profile_path": "/6KOKFGaizHwl1yMHEphzWaUF4UH.jpg",
+     "id": 2210940
+    },
+    {
+     "character": "",
+     "name": "Jang In-sub",
+     "profile_path": "/gFmUjdGIqd8ahUkIWOKZP1B6eJa.jpg",
+     "id": 1538984
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Ahn Pan-seok",
+     "profile_path": "/5kqfXl3hQj7BxAaDyQBGAAv2ZhG.jpg",
+     "id": 1203073
+    }
+   ],
+   "director": [
+    "Ahn Pan-seok"
+   ],
    "language": "Korean",
    "country": "South Korea",
    "behaviorHints": {
@@ -794,10 +884,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39087958.jpg",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ]
+   "imdbRating": "8.7"
   },
   {
    "name": "Kill Jackie",
@@ -813,7 +900,7 @@
     "Comedy",
     "Crime"
    ],
-   "imdbRating": "",
+   "imdbRating": "6.3",
    "released": "2026-10-02T00:00:00.000Z",
    "year": "2026–",
    "trailers": [
@@ -917,7 +1004,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
+   "imdbRating": "6.0"
   },
   {
    "id": "tt36743307",
@@ -965,7 +1053,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36743307.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36743307.jpg",
+   "imdbRating": "5.3"
   },
   {
    "id": "tt35820654",
@@ -1146,7 +1235,7 @@
    "director": [],
    "language": "Japanese",
    "country": "Japan",
-   "imdbRating": "8.3",
+   "imdbRating": "8.5",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
@@ -1169,7 +1258,7 @@
     "Action",
     "Thriller"
    ],
-   "imdbRating": "",
+   "imdbRating": "6.7",
    "released": "2026-10-03T00:00:00.000Z",
    "writer": [
     "Brian Gatewood",
@@ -1266,7 +1355,7 @@
    "genre": [
     "Drama"
    ],
-   "imdbRating": "",
+   "imdbRating": "7.4",
    "released": null,
    "year": "2026–",
    "trailers": [
@@ -1347,7 +1436,7 @@
     "Animation",
     "Fantasy"
    ],
-   "imdbRating": "",
+   "imdbRating": "8.0",
    "released": null,
    "year": "2026–",
    "runtime": "24 min",
@@ -1415,7 +1504,7 @@
     "History",
     "Romance"
    ],
-   "imdbRating": "",
+   "imdbRating": "8.9",
    "released": null,
    "year": "2026–",
    "runtime": "23 min",
