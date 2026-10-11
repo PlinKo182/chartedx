@@ -187,8 +187,47 @@ async function jwProviderTop(f) {
   return { movie: chart.movie.length >= 10 ? chart.movie : trending.movie, series: chart.series.length >= 10 ? chart.series : trending.series, mix: trending.mix };
 }
 
+// ---------- details Stremio shows in rows and previews: summary (pt-PT), year, genres; poster when RPDB has none ----------
+// cache "meta|{id}": { n: name, ty: type, d: summary, y: year, g: genres, p: fallback poster, rpdb: RPDB has a poster, at: date }
+const META_RECHECK_DAYS = 7; // entries missing a summary or an RPDB poster are looked up again after this
+const rpdbUrl = id => `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${id}.jpg`;
+let tmdbGenres;
+async function genreNames() {
+  if (!tmdbGenres) {
+    const [m, t] = await Promise.all(['movie', 'tv'].map(k => tmdbGet(`/genre/${k}/list?language=pt-PT`).catch(() => ({}))));
+    tmdbGenres = Object.fromEntries([...(m.genres || []), ...(t.genres || [])].map(g => [g.id, g.name]));
+  }
+  return tmdbGenres;
+}
+async function details(r) {
+  const e = { n: r.name, ty: r.type, at: isoDay(0) };
+  e.rpdb = await fetch(rpdbUrl(r.id), { method: 'HEAD' }).then(x => x.ok, () => false);
+  if (process.env.TMDB_API_KEY) { // TMDB: Portuguese summary, year, genres, poster
+    const f = await tmdbGet(`/find/${r.id}?external_source=imdb_id&language=pt-PT`).catch(() => ({}));
+    const hit = (r.type === 'movie' ? f.movie_results : f.tv_results)?.[0] || f.movie_results?.[0] || f.tv_results?.[0];
+    if (hit) {
+      const names = await genreNames();
+      Object.assign(e, { d: hit.overview || undefined, y: (hit.release_date || hit.first_air_date || '').slice(0, 4) || undefined, g: (hit.genre_ids || []).map(g => names[g]).filter(Boolean).slice(0, 3) });
+      if (hit.poster_path) e.p = `https://image.tmdb.org/t/p/w500${hit.poster_path}`;
+    }
+  }
+  if (!e.d || !e.y) { // Cinemeta (English) fills what TMDB didn't
+    const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${r.type}/${r.id}.json`).then(x => x.json(), () => ({}))).meta;
+    if (m) Object.assign(e, { d: e.d || m.description, y: e.y || m.releaseInfo, g: e.g?.length ? e.g : (m.genres || []).slice(0, 3) });
+  }
+  return e;
+}
+// look up what the cache lacks (or lacked a summary / RPDB poster for a week), 8 at a time
+async function enrich(list, cache) {
+  const stale = e => !e || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
+  const todo = [...new Map(list.filter(r => stale(cache[`meta|${r.id}`])).map(r => [r.id, r])).values()];
+  for (let i = 0; i < todo.length; i += 8) {
+    await Promise.all(todo.slice(i, i + 8).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
+  }
+}
+
 // Stremio metas for one bucket; days → a separator poster before each day (the API makes "/sep/…" absolute)
-function toMetas(list, bucket, days) {
+function toMetas(list, bucket, days, cache = {}) {
   const metas = [];
   let prevDay;
   for (const r of list) {
@@ -197,7 +236,12 @@ function toMetas(list, bucket, days) {
       const { top, big, bottom } = sepLabel(r.day);
       metas.push({ id: `chartedx:sep:${r.day}`, type: bucket === 'mix' ? 'movie' : bucket, name: `${top} · ${big} ${bottom}`, poster: `/sep/${r.day}.png`, posterShape: 'poster' });
     }
-    metas.push({ id: r.id, type: r.type, name: r.name, poster: `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${r.id}.jpg`, posterShape: 'poster' });
+    const e = cache[`meta|${r.id}`] || {};
+    metas.push({
+      id: r.id, type: r.type, name: r.name, posterShape: 'poster',
+      poster: e.rpdb === false ? e.p || `https://images.metahub.space/poster/medium/${r.id}/img` : rpdbUrl(r.id),
+      description: e.d, releaseInfo: e.y, genres: e.g?.length ? e.g : undefined,
+    });
   }
   return metas;
 }
@@ -214,7 +258,8 @@ async function liveCatalog(id, bucket, packages) {
     const r = await resolve(item, bucket === 'mix' ? [item.kind === 'MOVIE' ? 'movie' : 'series'] : [bucket], cache).catch(() => null);
     if (r && !out.some(x => x.id === r.id)) out.push(item.day ? { ...r, day: item.day } : r);
   }
-  return toMetas(out, bucket, id === 'all-new');
+  await enrich(out, cache);
+  return toMetas(out, bucket, id === 'all-new', cache);
 }
 
 // ---------- FlixPatrol ----------
@@ -526,11 +571,12 @@ async function main() {
         else if (!r) st.missing.push(item.title);
       }
     }
+    await enrich([...out.movie, ...out.series, ...out.mix], cache);
     for (const bucket of ['movie', 'series', 'mix']) {
       if (bucket === 'mix' && !mixed) continue;
       const file = path.join(DOCS, 'catalog', bucket, `${id}.json`);
       if (out[bucket].length >= MIN_ITEMS) {
-        write(file, { metas: toMetas(out[bucket], bucket, days) });
+        write(file, { metas: toMetas(out[bucket], bucket, days, cache) });
         st[bucket] = { updated: st.date, count: out[bucket].length };
       } else {
         st[bucket] = { ...status[id]?.[bucket], error: `only ${out[bucket].length} resolved, kept previous file` };
@@ -554,7 +600,8 @@ async function main() {
     version: '1.0.0',
     name: 'ChartedX',
     description: 'Streaming em Portugal. "Top 10" das plataformas = FlixPatrol diário (igual à app). JustWatch = mais vistos, em alta, populares, novidades e géneros, só das tuas plataformas. Estreias = novos no mundo (TMDB).',
-    resources: ['catalog', { name: 'meta', types: ['movie', 'series'], idPrefixes: ['chartedx:'] }], // meta: separator posters
+    // meta: separator posters, and titles Cinemeta doesn't know (from the cache's details)
+    resources: ['catalog', { name: 'meta', types: ['movie', 'series'], idPrefixes: ['chartedx:', 'tt'] }],
     types: ['movie', 'series', MIX],
     catalogs,
   });

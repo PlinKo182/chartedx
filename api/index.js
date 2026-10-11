@@ -7,6 +7,7 @@
 //   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action; JustWatch-card lists are built
 //                                     live when the config has the user's platforms: my.nfx.mxx.sic
 //   /{config}/meta/{type}/chartedx:sep:{day}.json   the day separators in Novidades
+//   /{config}/meta/{type}/tt….json   titles Cinemeta lacks, from the cached details (Stremio asks Cinemeta first)
 //   /sep/{day}.png                    separator poster (logo if missing)
 //   {sn}-top                          a platform's Top 10: FlixPatrol from docs/, else JustWatch's, built live
 //   /dados                            page showing what was extracted (FlixPatrol, JustWatch, TMDB, status)
@@ -38,6 +39,17 @@ module.exports = async (req, res) => {
   if (parts[0] === 'sep' && /^\d{4}-\d\d-\d\d\.png$/.test(parts[1] || '')) {
     const file = path.join(ROOT, 'docs', 'sep', parts[1]);
     return send(res, 200, 'image/png', fs.readFileSync(fs.existsSync(file) ? file : path.join(ROOT, 'logo.png')), 'public, max-age=86400');
+  }
+
+  // a title Cinemeta doesn't know (very new / upcoming): its page from the details the daily run cached
+  const tt = parts[0] === 'meta' && (parts[2] || '').match(/^(tt\d+)\.json$/);
+  if (tt) {
+    const e = JSON.parse(fs.readFileSync(path.join(ROOT, 'cache.json'), 'utf8'))[`meta|${tt[1]}`];
+    if (!e?.n) return send(res, 404, 'application/json', '{"meta":null}', 'public, max-age=3600');
+    return send(res, 200, 'application/json', JSON.stringify({ meta: {
+      id: tt[1], type: parts[1], name: e.n, description: e.d, releaseInfo: e.y, genres: e.g,
+      poster: e.rpdb ? `https://api.ratingposterdb.com/${process.env.RPDB_KEY || 't0-free-rpdb'}/imdb/poster-default/${tt[1]}.jpg` : e.p,
+    } }), 'public, max-age=21600');
   }
 
   // opening a separator shows a small page instead of an error
