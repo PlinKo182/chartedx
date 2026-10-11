@@ -4,71 +4,133 @@
    "id": "tt31049299",
    "type": "movie",
    "name": "Animals",
+   "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt21097264",
-   "type": "series",
-   "name": "East of Eden",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt12042730",
-   "type": "movie",
-   "name": "Project Hail Mary",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt11540908",
-   "type": "series",
-   "name": "Carrie",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt22526100",
-   "type": "movie",
-   "name": "The Love Hypothesis",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt14688458",
-   "type": "series",
-   "name": "Silo",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg",
-   "posterShape": "poster"
-  },
-  {
-   "id": "tt28498219",
-   "type": "movie",
-   "name": "Matchbox the Movie",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg",
-   "posterShape": "poster"
+   "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ]
   },
   {
    "id": "tt31510819",
    "type": "series",
    "name": "MobLand",
+   "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg",
-   "posterShape": "poster"
+   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
+   "releaseInfo": "2025",
+   "genres": [
+    "Crime",
+    "Drama"
+   ]
   },
   {
-   "id": "tt36150957",
+   "id": "tt12042730",
    "type": "movie",
-   "name": "Oasis: Don't Look Back in Anger",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg",
-   "posterShape": "poster"
+   "name": "Project Hail Mary",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
+   "description": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Ficção científica",
+    "Aventura"
+   ]
   },
   {
-   "id": "tt26545992",
+   "id": "tt21097264",
    "type": "series",
-   "name": "Lanterns",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg",
-   "posterShape": "poster"
+   "name": "East of Eden",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama"
+   ]
+  },
+  {
+   "id": "tt8367814",
+   "type": "movie",
+   "name": "The Gentlemen",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg",
+   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
+   "releaseInfo": "2020",
+   "genres": [
+    "Ação",
+    "Comédia",
+    "Crime"
+   ]
+  },
+  {
+   "id": "tt11540908",
+   "type": "series",
+   "name": "Carrie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg",
+   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ]
+  },
+  {
+   "id": "tt22526100",
+   "type": "movie",
+   "name": "The Love Hypothesis",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
+   "description": "Olive é uma doutoranda que beija impulsivamente o professor mais intimidante do seu departamento, Adam Carlsen. A necessidade mútua de um relacionamento falso transforma-se numa experiência de química que poderá, na verdade, desvendar o segredo do amor.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Romance",
+    "Comédia"
+   ]
+  },
+  {
+   "id": "tt5875444",
+   "type": "series",
+   "name": "Slow Horses",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg",
+   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
+   "releaseInfo": "2022",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ]
+  },
+  {
+   "id": "tt0081505",
+   "type": "movie",
+   "name": "The Shining",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg",
+   "description": "O escritor Jack Torrance chega ao elegante e isolado Overlook Hotel, com a sua mulher e o filho pequeno. O seu objectivo é escrever um livro, ao mesmo tempo que serve de guarda de Inverno de um espaço que costuma ficar sem acessos nas estações frias. Torrance nunca tinha estado lá - ou será que tinha? A resposta vai ser encontrada num fantasmagórico turbilhão de loucura e de morte.",
+   "releaseInfo": "1980",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ]
+  },
+  {
+   "id": "tt35934755",
+   "type": "series",
+   "name": "Below",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg",
+   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ]
   }
  ]
 }
