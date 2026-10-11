@@ -1,137 +1,1200 @@
 {
  "metas": [
   {
-   "id": "tt31049299",
-   "type": "movie",
    "name": "Animals",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg",
+   "cast": [
+    "Gillian Anderson",
+    "Ben Affleck",
+    "Steven Yeun"
+   ],
+   "country": "United States",
    "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
-   "releaseInfo": "2026",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Connor O. McIntyre",
+    "Billy Ray",
+    "Ben Affleck"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "ZkN2M4ODdys",
+     "type": "Trailer"
+    },
+    {
+     "source": "mlBfQJ8oxB0",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
+   "background": "https://images.metahub.space/background/medium/tt31049299/img",
+   "id": "tt31049299",
    "genres": [
     "Thriller",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Animals",
+     "ytId": "ZkN2M4ODdys"
+    },
+    {
+     "title": "Animals",
+     "ytId": "mlBfQJ8oxB0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Animals",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/animals-31049299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gillian Anderson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gillian%20Anderson"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Steven Yeun",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steven%20Yeun"
+    },
+    {
+     "name": "Connor O. McIntyre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
+    },
+    {
+     "name": "Billy Ray",
+     "category": "Writers",
+     "url": "stremio:///search?search=Billy%20Ray"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31049299",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "id": "tt12042730",
-   "type": "movie",
    "name": "Project Hail Mary",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz"
+   ],
+   "country": "United States",
    "description": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão.",
-   "releaseInfo": "2026",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.2",
+   "released": "2026-03-20T00:00:00.000Z",
+   "writer": [
+    "Drew Goddard",
+    "Andy Weir"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "NKYea63tQmI",
+     "type": "Trailer"
+    },
+    {
+     "source": "P0XN3-n-2Lo",
+     "type": "Trailer"
+    },
+    {
+     "source": "tvd7UUHzdhA",
+     "type": "Trailer"
+    },
+    {
+     "source": "5VYsnngkS_U",
+     "type": "Trailer"
+    },
+    {
+     "source": "m08TxIsFTRI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12042730/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
+   "runtime": "157 min",
+   "awards": "10 wins & 10 nominations total",
+   "id": "tt12042730",
    "genres": [
     "Ficção científica",
     "Aventura"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Project Hail Mary",
+     "ytId": "NKYea63tQmI"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "P0XN3-n-2Lo"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "tvd7UUHzdhA"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "5VYsnngkS_U"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "m08TxIsFTRI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12042730"
+    },
+    {
+     "name": "Project Hail Mary",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/project-hail-mary-12042730"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Ryan Gosling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Gosling"
+    },
+    {
+     "name": "Sandra Hüller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+    },
+    {
+     "name": "James Ortiz",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Ortiz"
+    },
+    {
+     "name": "Drew Goddard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Drew%20Goddard"
+    },
+    {
+     "name": "Andy Weir",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andy%20Weir"
+    },
+    {
+     "name": "Phil Lord",
+     "category": "Directors",
+     "url": "stremio:///search?search=Phil%20Lord"
+    },
+    {
+     "name": "Christopher Miller",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christopher%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt12042730",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
   },
   {
-   "id": "tt8367814",
-   "type": "movie",
-   "name": "The Gentlemen",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg",
+   "cast": [
+    "Matthew McConaughey",
+    "Charlie Hunnam",
+    "Michelle Dockery"
+   ],
+   "country": "United States, United Kingdom",
    "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
-   "releaseInfo": "2020",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "7.8",
+   "name": "The Gentlemen",
+   "released": "2020-01-24T00:00:00.000Z",
+   "writer": [
+    "Guy Ritchie",
+    "Ivan Atkinson",
+    "Marn Davies"
+   ],
+   "year": "2020",
+   "trailers": [
+    {
+     "source": "KlXsguV9g0E",
+     "type": "Trailer"
+    },
+    {
+     "source": "2B0RpUGss2c",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8367814/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
+   "runtime": "113 min",
+   "awards": "1 win & 4 nominations total",
+   "dvdRelease": "2020-03-24T00:00:00.000Z",
+   "id": "tt8367814",
    "genres": [
     "Ação",
     "Comédia",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "The Gentlemen",
+     "ytId": "KlXsguV9g0E"
+    },
+    {
+     "title": "The Gentlemen",
+     "ytId": "2B0RpUGss2c"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8367814"
+    },
+    {
+     "name": "The Gentlemen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Matthew McConaughey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20McConaughey"
+    },
+    {
+     "name": "Charlie Hunnam",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charlie%20Hunnam"
+    },
+    {
+     "name": "Michelle Dockery",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Dockery"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    },
+    {
+     "name": "Ivan Atkinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ivan%20Atkinson"
+    },
+    {
+     "name": "Marn Davies",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marn%20Davies"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8367814",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
   },
   {
-   "id": "tt22526100",
-   "type": "movie",
    "name": "The Love Hypothesis",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
+   "cast": [
+    "Lili Reinhart",
+    "Tom Bateman",
+    "Rachel Marsh"
+   ],
+   "country": "United States",
    "description": "Olive é uma doutoranda que beija impulsivamente o professor mais intimidante do seu departamento, Adam Carlsen. A necessidade mútua de um relacionamento falso transforma-se numa experiência de química que poderá, na verdade, desvendar o segredo do amor.",
-   "releaseInfo": "2026",
+   "director": [
+    "Claire Scanlon"
+   ],
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "",
+   "released": "2026-09-23T00:00:00.000Z",
+   "writer": [
+    "Ali Hazelwood",
+    "Sarah Rothschild"
+   ],
+   "year": "2026",
+   "runtime": "112 min",
+   "trailers": [
+    {
+     "source": "xwdamnfS6IM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt22526100/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22526100/img",
+   "id": "tt22526100",
    "genres": [
     "Romance",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Love Hypothesis",
+     "ytId": "xwdamnfS6IM"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Love Hypothesis",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-love-hypothesis-22526100"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Lili Reinhart",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lili%20Reinhart"
+    },
+    {
+     "name": "Tom Bateman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Bateman"
+    },
+    {
+     "name": "Rachel Marsh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20Marsh"
+    },
+    {
+     "name": "Ali Hazelwood",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ali%20Hazelwood"
+    },
+    {
+     "name": "Sarah Rothschild",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sarah%20Rothschild"
+    },
+    {
+     "name": "Claire Scanlon",
+     "category": "Directors",
+     "url": "stremio:///search?search=Claire%20Scanlon"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt22526100",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg"
   },
   {
-   "id": "tt0081505",
-   "type": "movie",
-   "name": "The Shining",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg",
+   "awards": "6 wins & 9 nominations total",
+   "cast": [
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd"
+   ],
+   "country": "United Kingdom, United States",
    "description": "O escritor Jack Torrance chega ao elegante e isolado Overlook Hotel, com a sua mulher e o filho pequeno. O seu objectivo é escrever um livro, ao mesmo tempo que serve de guarda de Inverno de um espaço que costuma ficar sem acessos nas estações frias. Torrance nunca tinha estado lá - ou será que tinha? A resposta vai ser encontrada num fantasmagórico turbilhão de loucura e de morte.",
-   "releaseInfo": "1980",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "dvdRelease": "2008-08-15T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Horror"
+   ],
+   "imdbRating": "8.4",
+   "name": "The Shining",
+   "released": "1980-06-13T00:00:00.000Z",
+   "runtime": "144 min",
+   "trailers": [
+    {
+     "source": "jAE7dNurHR4",
+     "type": "Trailer"
+    },
+    {
+     "source": "FZQvIJxG9Xs",
+     "type": "Trailer"
+    },
+    {
+     "source": "ANKdpe4J2h0",
+     "type": "Trailer"
+    },
+    {
+     "source": "S014oGZiSdI",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Stephen King",
+    "Stanley Kubrick",
+    "Diane Johnson"
+   ],
+   "year": "1980",
+   "background": "https://images.metahub.space/background/medium/tt0081505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0081505/img",
+   "id": "tt0081505",
    "genres": [
     "Terror",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "1980",
+   "trailerStreams": [
+    {
+     "title": "The Shining",
+     "ytId": "jAE7dNurHR4"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "FZQvIJxG9Xs"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "ANKdpe4J2h0"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "S014oGZiSdI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0081505"
+    },
+    {
+     "name": "The Shining",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-shining-0081505"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Jack Nicholson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20Nicholson"
+    },
+    {
+     "name": "Shelley Duvall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shelley%20Duvall"
+    },
+    {
+     "name": "Danny Lloyd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Lloyd"
+    },
+    {
+     "name": "Stephen King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20King"
+    },
+    {
+     "name": "Stanley Kubrick",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stanley%20Kubrick"
+    },
+    {
+     "name": "Diane Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Diane%20Johnson"
+    },
+    {
+     "name": "Stanley Kubrick",
+     "category": "Directors",
+     "url": "stremio:///search?search=Stanley%20Kubrick"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0081505",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg"
   },
   {
-   "id": "tt29355505",
-   "type": "movie",
    "name": "Toy Story 5",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg",
+   "awards": "4 nominations total",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+   ],
+   "country": "United States",
    "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
-   "releaseInfo": "2026",
+   "director": [
+    "McKenna Harris",
+    "Andrew Stanton"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.4",
+   "released": "2026-06-19T00:00:00.000Z",
+   "writer": [
+    "Andrew Stanton",
+    "McKenna Harris"
+   ],
+   "year": "2026",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "QftAW9TTmuQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "c51ND9Hdbw0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt29355505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
+   "id": "tt29355505",
    "genres": [
     "Animação",
     "Família",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Toy Story 5",
+     "ytId": "QftAW9TTmuQ"
+    },
+    {
+     "title": "Toy Story 5",
+     "ytId": "c51ND9Hdbw0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt29355505"
+    },
+    {
+     "name": "Toy Story 5",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Tim Allen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Allen"
+    },
+    {
+     "name": "Joan Cusack",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joan%20Cusack"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Writers",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Directors",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29355505",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
    "id": "tt37284855",
-   "type": "movie",
-   "name": "Todo lo que nunca fuimos",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37284855.jpg",
+   "logo": "https://live.metahub.space/logo/medium/tt37284855/img",
+   "background": "https://live.metahub.space/background/medium/tt37284855/img",
+   "name": "All That We Never Were",
    "description": "Depois de perder os pais, a aspirante a pintora Leah tem dificuldade em lidar com a situação. Quando o irmão se muda, pede ao seu melhor amigo, Axel, para cuidar dela, sem saber dos sentimentos que ela nutre por ele há muito tempo.",
-   "releaseInfo": "2026",
    "genres": [
     "Drama",
     "Romance"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailers": [
+    {
+     "source": "bMM-vqUyO3w",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Margarida Corceiro",
+    "Maxi Iglesias",
+    "Natalia Rodríguez"
+   ],
+   "credits_cast": [
+    {
+     "character": "Leah Jones",
+     "name": "Margarida Corceiro",
+     "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg",
+     "id": 3372344
+    },
+    {
+     "character": "Axel Nguyen",
+     "name": "Maxi Iglesias",
+     "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg",
+     "id": 1248277
+    },
+    {
+     "character": "Elena",
+     "name": "Natalia Rodríguez",
+     "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg",
+     "id": 56245
+    },
+    {
+     "character": "Oliver",
+     "name": "Sebastián Zurita",
+     "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg",
+     "id": 970485
+    },
+    {
+     "character": "Belén",
+     "name": "Adriana Hormigos",
+     "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg",
+     "id": 4782295
+    },
+    {
+     "character": "Alejandro",
+     "name": "Javier Tolosa",
+     "profile_path": "/fSbMFLH2ykwcMnob4Y7hfOuljlh.jpg",
+     "id": 233279
+    },
+    {
+     "character": "Axel de niño",
+     "name": "Alan Miranda",
+     "profile_path": "/mxTDnXbcRvvQZKQ9TEklSJExEBu.jpg",
+     "id": 2814905
+    },
+    {
+     "character": "Pablo",
+     "name": "Joan Pedrola",
+     "profile_path": "/to8aXScmcOWfNucmqcKTJR8ijtb.jpg",
+     "id": 3492889
+    },
+    {
+     "character": "Douglas",
+     "name": "Armando del Río",
+     "profile_path": "/AuCppv180f27WZwwGnesEUrPpQr.jpg",
+     "id": 587099
+    },
+    {
+     "character": "Miriam",
+     "name": "Marta Solaz Cruz",
+     "profile_path": null,
+     "id": 5612031
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jorge Alonso",
+     "profile_path": null,
+     "id": 2086327
+    }
+   ],
+   "director": [
+    "Jorge Alonso"
+   ],
+   "imdbRating": "5.2",
+   "language": "Spanish",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": "tt37284855",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37284855.jpg"
   },
   {
-   "id": "tt4786282",
-   "type": "movie",
    "name": "Lights Out",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4786282.jpg",
+   "year": "2016",
+   "runtime": "81 min",
+   "genre": [
+    "Horror",
+    "Mystery"
+   ],
+   "released": "2016-07-22T00:00:00.000Z",
+   "director": [
+    "David F. Sandberg"
+   ],
+   "writer": [
+    "Eric Heisserer",
+    "David F. Sandberg"
+   ],
+   "cast": [
+    "Teresa Palmer",
+    "Gabriel Bateman",
+    "Maria Bello"
+   ],
+   "imdbRating": "6.3",
    "description": "Desde que era pequena, Rebecca tinha uma porção de medos, especialmente quando as luzes se apagavam. Ela acreditava ser perseguida pela figura de uma mulher e anos mais tarde seu irmão mais novo começa a sofrer do mesmo problema. Juntos eles descobrem que a aparição está ligada à mãe deles, Rebecca começa a investigar o caso e chega perto de conhecer a terrível verdade.",
-   "releaseInfo": "2016",
+   "country": "United States",
+   "awards": "3 wins & 9 nominations total",
+   "dvdRelease": "2016-10-11T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "H_nTMprod00",
+     "type": "Trailer"
+    },
+    {
+     "source": "6LiKKFZyhRU",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt4786282/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4786282/img",
+   "id": "tt4786282",
    "genres": [
     "Terror",
     "Mistério"
-   ]
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "Lights Out",
+     "ytId": "H_nTMprod00"
+    },
+    {
+     "title": "Lights Out",
+     "ytId": "6LiKKFZyhRU"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4786282"
+    },
+    {
+     "name": "Lights Out",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/lights-out-4786282"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Teresa Palmer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Teresa%20Palmer"
+    },
+    {
+     "name": "Gabriel Bateman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gabriel%20Bateman"
+    },
+    {
+     "name": "Maria Bello",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maria%20Bello"
+    },
+    {
+     "name": "Eric Heisserer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eric%20Heisserer"
+    },
+    {
+     "name": "David F. Sandberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20F.%20Sandberg"
+    },
+    {
+     "name": "David F. Sandberg",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20F.%20Sandberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt4786282",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4786282.jpg"
   },
   {
-   "id": "tt1682180",
-   "type": "movie",
-   "name": "Stoker",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1682180.jpg",
+   "awards": "7 wins & 42 nominations total",
+   "cast": [
+    "Mia Wasikowska",
+    "Nicole Kidman",
+    "Matthew Goode"
+   ],
+   "country": "United Kingdom, United States",
    "description": "No aniversário de 18 anos de India Stoker, o pai dela, Richard Stoker, morre num acidente de carro. Charlie Stoker, tio de India, que passou a vida viajando pelo mundo, resolve ir passar um tempo com a família de seu irmão para ajudar com o luto. India nunca soube da existência deste homem e sua subta presença traz à tona o segredos sombrios que haviam sido enterrados.",
-   "releaseInfo": "2013",
+   "director": [
+    "Park Chan-wook"
+   ],
+   "dvdRelease": "2015-12-12T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "6.7",
+   "name": "Stoker",
+   "released": "2013-03-01T00:00:00.000Z",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "sOyxxhuvAmo",
+     "type": "Trailer"
+    },
+    {
+     "source": "YJWrXKoTpL0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Wentworth Miller"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt1682180/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1682180/img",
+   "id": "tt1682180",
    "genres": [
     "Drama",
     "Terror",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "Stoker",
+     "ytId": "sOyxxhuvAmo"
+    },
+    {
+     "title": "Stoker",
+     "ytId": "YJWrXKoTpL0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1682180"
+    },
+    {
+     "name": "Stoker",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/stoker-1682180"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Mia Wasikowska",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mia%20Wasikowska"
+    },
+    {
+     "name": "Nicole Kidman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicole%20Kidman"
+    },
+    {
+     "name": "Matthew Goode",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Goode"
+    },
+    {
+     "name": "Wentworth Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Wentworth%20Miller"
+    },
+    {
+     "name": "Park Chan-wook",
+     "category": "Directors",
+     "url": "stremio:///search?search=Park%20Chan-wook"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1682180",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1682180.jpg"
   },
   {
-   "id": "tt27681354",
-   "type": "movie",
    "name": "In the Grey",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg",
+   "cast": [
+    "Henry Cavill",
+    "Jake Gyllenhaal",
+    "Eiza González"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
-   "releaseInfo": "2026",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "imdbRating": "6.3",
+   "released": "2026-05-15T00:00:00.000Z",
+   "writer": [
+    "Guy Ritchie"
+   ],
+   "year": "2026",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "nufP15iN4GE",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt27681354/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
+   "id": "tt27681354",
    "genres": [
     "Ação",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "In the Grey",
+     "ytId": "nufP15iN4GE"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27681354"
+    },
+    {
+     "name": "In the Grey",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Henry Cavill",
+     "category": "Cast",
+     "url": "stremio:///search?search=Henry%20Cavill"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Eiza González",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt27681354",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
   }
  ]
 }

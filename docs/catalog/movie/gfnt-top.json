@@ -1,143 +1,1251 @@
 {
  "metas": [
   {
-   "id": "tt29355505",
-   "type": "movie",
    "name": "Toy Story 5",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg",
+   "awards": "4 nominations total",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+   ],
+   "country": "United States",
    "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
-   "releaseInfo": "2026",
+   "director": [
+    "McKenna Harris",
+    "Andrew Stanton"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.4",
+   "released": "2026-06-19T00:00:00.000Z",
+   "writer": [
+    "Andrew Stanton",
+    "McKenna Harris"
+   ],
+   "year": "2026",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "QftAW9TTmuQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "c51ND9Hdbw0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt29355505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
+   "id": "tt29355505",
    "genres": [
     "Animação",
     "Família",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Toy Story 5",
+     "ytId": "QftAW9TTmuQ"
+    },
+    {
+     "title": "Toy Story 5",
+     "ytId": "c51ND9Hdbw0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt29355505"
+    },
+    {
+     "name": "Toy Story 5",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Tim Allen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Allen"
+    },
+    {
+     "name": "Joan Cusack",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joan%20Cusack"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Writers",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Directors",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29355505",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "id": "tt6320628",
-   "type": "movie",
    "name": "Spider-Man: Far from Home",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg",
+   "cast": [
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal"
+   ],
+   "country": "United States, Czech Republic, Australia, Canada, Italy",
    "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
-   "releaseInfo": "2019",
+   "director": [
+    "Jon Watts"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.3",
+   "released": "2019-07-02T00:00:00.000Z",
+   "writer": [
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "LFoz8ZJWmPs",
+     "type": "Trailer"
+    },
+    {
+     "source": "V38cLTYYXNw",
+     "type": "Trailer"
+    },
+    {
+     "source": "DYYtuKyMtY8",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt6320628/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "11 wins & 26 nominations total",
+   "id": "tt6320628",
    "genres": [
     "Ação",
     "Aventura",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "LFoz8ZJWmPs"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "V38cLTYYXNw"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "DYYtuKyMtY8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6320628"
+    },
+    {
+     "name": "Spider-Man: Far from Home",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Chris McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20McKenna"
+    },
+    {
+     "name": "Erik Sommers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erik%20Sommers"
+    },
+    {
+     "name": "Stan Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Lee"
+    },
+    {
+     "name": "Jon Watts",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jon%20Watts"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6320628",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
   },
   {
-   "id": "tt0359950",
-   "type": "movie",
-   "name": "The Secret Life of Walter Mitty",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0359950.jpg",
+   "awards": "5 wins & 18 nominations total",
+   "cast": [
+    "Ben Stiller",
+    "Kristen Wiig",
+    "Jon Daly"
+   ],
+   "country": "United States, United Kingdom",
    "description": "Walter Mitty é o responsável pelo departamento de arquivo e revelação de fotografias da tradicional revista Life. Ele é um homem tímido, levando uma vida simples, perdido em seus sonhos. Ao receber um pacote com negativos do importante fotógrafo Sean O'Connell, ele percebe que está faltando uma foto. O problema é que trata-se justamente da foto escolhida para ser a capa da última edição da revista. É quando, Walter, com o apoio de Cheryl é obrigado a embarcar em uma verdadeira aventura.",
-   "releaseInfo": "2013",
+   "director": [
+    "Ben Stiller"
+   ],
+   "dvdRelease": "2015-09-30T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.3",
+   "name": "The Secret Life of Walter Mitty",
+   "released": "2013-12-25T00:00:00.000Z",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "Bp_cxxqOaPM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Steve Conrad",
+    "James Thurber"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt0359950/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0359950/img",
+   "id": "tt0359950",
    "genres": [
     "Aventura",
     "Comédia",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "The Secret Life of Walter Mitty",
+     "ytId": "Bp_cxxqOaPM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0359950"
+    },
+    {
+     "name": "The Secret Life of Walter Mitty",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-secret-life-of-walter-mitty-0359950"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Ben Stiller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Stiller"
+    },
+    {
+     "name": "Kristen Wiig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristen%20Wiig"
+    },
+    {
+     "name": "Jon Daly",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jon%20Daly"
+    },
+    {
+     "name": "Steve Conrad",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Conrad"
+    },
+    {
+     "name": "James Thurber",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20Thurber"
+    },
+    {
+     "name": "Ben Stiller",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Stiller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0359950",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0359950.jpg"
   },
   {
-   "id": "tt1757678",
-   "type": "movie",
-   "name": "Avatar: Fire and Ash",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
+   "awards": "Won 1 Oscar. 42 wins & 62 nominations total",
+   "cast": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver"
+   ],
+   "country": "United States, Canada",
    "description": "Após a devastadora guerra contra a RDA e a perda do seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta de poder liderada pelo implacável Varang. A família de Jake deve lutar pela sua sobrevivência e pelo futuro de Pandora num conflito que os leva ao limite emocional e físico.",
-   "releaseInfo": "2025",
+   "director": [
+    "James Cameron"
+   ],
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "7.2",
+   "name": "Avatar: Fire and Ash",
+   "released": "2025-12-19T00:00:00.000Z",
+   "runtime": "198 min",
+   "trailers": [
+    {
+     "source": "Ma1x7ikpid8",
+     "type": "Trailer"
+    },
+    {
+     "source": "nb_fFj_0rq8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "James Cameron",
+    "Rick Jaffa",
+    "Amanda Silver"
+   ],
+   "year": "2025",
+   "background": "https://images.metahub.space/background/medium/tt1757678/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1757678/img",
+   "id": "tt1757678",
    "genres": [
     "Ficção científica",
     "Aventura",
     "Fantasia"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Avatar: Fire and Ash",
+     "ytId": "Ma1x7ikpid8"
+    },
+    {
+     "title": "Avatar: Fire and Ash",
+     "ytId": "nb_fFj_0rq8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1757678"
+    },
+    {
+     "name": "Avatar: Fire and Ash",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/avatar-fire-and-ash-1757678"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sam Worthington",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sam%20Worthington"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sigourney%20Weaver"
+    },
+    {
+     "name": "James Cameron",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20Cameron"
+    },
+    {
+     "name": "Rick Jaffa",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rick%20Jaffa"
+    },
+    {
+     "name": "Amanda Silver",
+     "category": "Writers",
+     "url": "stremio:///search?search=Amanda%20Silver"
+    },
+    {
+     "name": "James Cameron",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20Cameron"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1757678",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg"
   },
   {
-   "id": "tt0120737",
-   "type": "movie",
-   "name": "The Lord of the Rings: The Fellowship of the Ring",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120737.jpg",
+   "awards": "Won 4 Oscars. 126 wins & 127 nominations total",
+   "cast": [
+    "Elijah Wood",
+    "Ian McKellen",
+    "Orlando Bloom"
+   ],
+   "country": "New Zealand, United States",
    "description": "Em tempos remotos, Sauron tentou dominar toda a Terra-Média graças ao poder do seu anel. Após Sauron ser derrotado em batalha e durante muitas eras, o anel foi considerado perdido. Agora, através de um golpe de destino, o anel do poder foi encontrado e entregue a um hobbit chamado Frodo. Quando Gandalf confirma que este é o anel do Poder de Sauron, o Senhor das Trevas, Frodo tem de partir numa demanda até ao monte Doom para destruir o anel. Sob a liderança e sabedoria de Gandalf, a Irmandade do Anel atravessará as maravilhas e pesadelos da Terra-Média para levar a bom termo a sua missão.",
-   "releaseInfo": "2001",
+   "director": [
+    "Peter Jackson"
+   ],
+   "dvdRelease": "2011-06-28T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "8.9",
+   "name": "The Lord of the Rings: The Fellowship of the Ring",
+   "released": "2001-12-19T00:00:00.000Z",
+   "runtime": "179 min",
+   "trailers": [
+    {
+     "source": "_nZdmwHrcnw",
+     "type": "Trailer"
+    },
+    {
+     "source": "cKEGZ-CvWHk",
+     "type": "Trailer"
+    },
+    {
+     "source": "_e8QGuG50ro",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "J.R.R. Tolkien",
+    "Fran Walsh",
+    "Philippa Boyens"
+   ],
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0120737/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0120737/img",
+   "id": "tt0120737",
    "genres": [
     "Aventura",
     "Fantasia",
     "Ação"
-   ]
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [
+    {
+     "title": "The Lord of the Rings: The Fellowship of the Ring",
+     "ytId": "_nZdmwHrcnw"
+    },
+    {
+     "title": "The Lord of the Rings: The Fellowship of the Ring",
+     "ytId": "cKEGZ-CvWHk"
+    },
+    {
+     "title": "The Lord of the Rings: The Fellowship of the Ring",
+     "ytId": "_e8QGuG50ro"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0120737"
+    },
+    {
+     "name": "The Lord of the Rings: The Fellowship of the Ring",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-lord-of-the-rings-the-fellowship-of-the-ring-0120737"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Elijah Wood",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elijah%20Wood"
+    },
+    {
+     "name": "Ian McKellen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ian%20McKellen"
+    },
+    {
+     "name": "Orlando Bloom",
+     "category": "Cast",
+     "url": "stremio:///search?search=Orlando%20Bloom"
+    },
+    {
+     "name": "J.R.R. Tolkien",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.R.R.%20Tolkien"
+    },
+    {
+     "name": "Fran Walsh",
+     "category": "Writers",
+     "url": "stremio:///search?search=Fran%20Walsh"
+    },
+    {
+     "name": "Philippa Boyens",
+     "category": "Writers",
+     "url": "stremio:///search?search=Philippa%20Boyens"
+    },
+    {
+     "name": "Peter Jackson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Peter%20Jackson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0120737",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120737.jpg"
   },
   {
-   "id": "tt0102057",
-   "type": "movie",
-   "name": "Hook",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0102057.jpg",
+   "awards": "Nominated for 5 Oscars. 6 wins & 24 nominations total",
+   "cast": [
+    "Dustin Hoffman",
+    "Robin Williams",
+    "Julia Roberts"
+   ],
+   "country": "United States",
    "description": "Aos quarenta anos, Peter Banning, que um dia foi Peter Pan, é um homem tão envolvido no trabalho que deixou de dar atenção à família e esqueceu as suas origens. Mas quando o Capitão Gancho rapta os seus filhos, obriga-o a voltar à Terra do Nunca e confrontar o seu próprio passado.",
-   "releaseInfo": "1991",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "dvdRelease": "2012-04-16T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "imdbRating": "6.8",
+   "name": "Hook",
+   "released": "1991-12-11T00:00:00.000Z",
+   "runtime": "142 min",
+   "trailers": [
+    {
+     "source": "c-vwgt8cwEM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "J.M. Barrie",
+    "James V. Hart",
+    "Nick Castle"
+   ],
+   "year": "1991",
+   "background": "https://images.metahub.space/background/medium/tt0102057/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0102057/img",
+   "id": "tt0102057",
    "genres": [
     "Aventura",
     "Fantasia",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "1991",
+   "trailerStreams": [
+    {
+     "title": "Hook",
+     "ytId": "c-vwgt8cwEM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0102057"
+    },
+    {
+     "name": "Hook",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/hook-0102057"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Dustin Hoffman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dustin%20Hoffman"
+    },
+    {
+     "name": "Robin Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robin%20Williams"
+    },
+    {
+     "name": "Julia Roberts",
+     "category": "Cast",
+     "url": "stremio:///search?search=Julia%20Roberts"
+    },
+    {
+     "name": "J.M. Barrie",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.M.%20Barrie"
+    },
+    {
+     "name": "James V. Hart",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20V.%20Hart"
+    },
+    {
+     "name": "Nick Castle",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nick%20Castle"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Directors",
+     "url": "stremio:///search?search=Steven%20Spielberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0102057",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0102057.jpg"
   },
   {
-   "id": "tt0241527",
-   "type": "movie",
-   "name": "Harry Potter and the Philosopher's Stone",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0241527.jpg",
+   "awards": "Nominated for 3 Oscars. 20 wins & 75 nominations total",
+   "cast": [
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Harry Potter é um rapaz órfão que vive infeliz com a sua tia e o seu tio, os Dursley. Recebe uma carta a convidá-lo para frequentar Hogwarts, uma escola famosa especializada na formação de jovens feiticeiros. Inicialmente, o tio impede-o de ler a carta, mas pouco depois Harry recebe a visita de Hagrid, o guarda-caça de Hogwarts, que vem buscá-lo para o levar à escola. Harry entra num mundo mágico que nunca imaginou e vive muitas aventuras com os seus novos amigos, Ron Weasley e Hermione Granger.",
-   "releaseInfo": "2001",
+   "director": [
+    "Chris Columbus"
+   ],
+   "dvdRelease": "2012-12-16T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "imdbRating": "7.7",
+   "name": "Harry Potter and the Sorcerer's Stone",
+   "released": "2001-11-16T00:00:00.000Z",
+   "runtime": "152 min",
+   "trailers": [
+    {
+     "source": "l91Km49W9qI",
+     "type": "Trailer"
+    },
+    {
+     "source": "PbdM1db3JbY",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "J.K. Rowling",
+    "Steve Kloves"
+   ],
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0241527/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
+   "id": "tt0241527",
    "genres": [
     "Aventura",
     "Fantasia"
-   ]
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [
+    {
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "ytId": "l91Km49W9qI"
+    },
+    {
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "ytId": "PbdM1db3JbY"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0241527"
+    },
+    {
+     "name": "Harry Potter and the Sorcerer's Stone",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/harry-potter-and-the-sorcerers-stone-0241527"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Daniel Radcliffe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Radcliffe"
+    },
+    {
+     "name": "Rupert Grint",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rupert%20Grint"
+    },
+    {
+     "name": "Emma Watson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Watson"
+    },
+    {
+     "name": "J.K. Rowling",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.K.%20Rowling"
+    },
+    {
+     "name": "Steve Kloves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Kloves"
+    },
+    {
+     "name": "Chris Columbus",
+     "category": "Directors",
+     "url": "stremio:///search?search=Chris%20Columbus"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0241527",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0241527.jpg"
   },
   {
-   "id": "tt0367594",
-   "type": "movie",
-   "name": "Charlie and the Chocolate Factory",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0367594.jpg",
+   "awards": "Nominated for 1 Oscar. 15 wins & 52 nominations total",
+   "cast": [
+    "Johnny Depp",
+    "Freddie Highmore",
+    "David Kelly"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Willy Wonka é o excêntrico dono da maior fábrica de chocolates do mundo e decide escolher um herdeiro por via de um sorteio mundial: cinco crianças, entre elas Charlie Bucket, encontram um bilhete dourado nas embalagens de chocolate e ganham uma visita guiada à lendária fábrica, que quase ninguém havia visto por dentro. O que eles não sabem são as reais intenções por trás da visita.",
-   "releaseInfo": "2005",
+   "director": [
+    "Tim Burton"
+   ],
+   "dvdRelease": "2008-01-15T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "imdbRating": "6.7",
+   "name": "Charlie and the Chocolate Factory",
+   "released": "2005-07-15T00:00:00.000Z",
+   "runtime": "115 min",
+   "trailers": [
+    {
+     "source": "p6JAQ2aoXm0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Roald Dahl",
+    "John August"
+   ],
+   "year": "2005",
+   "background": "https://images.metahub.space/background/medium/tt0367594/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0367594/img",
+   "id": "tt0367594",
    "genres": [
     "Aventura",
     "Comédia",
     "Família"
-   ]
+   ],
+   "releaseInfo": "2005",
+   "trailerStreams": [
+    {
+     "title": "Charlie and the Chocolate Factory",
+     "ytId": "p6JAQ2aoXm0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0367594"
+    },
+    {
+     "name": "Charlie and the Chocolate Factory",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/charlie-and-the-chocolate-factory-0367594"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Johnny Depp",
+     "category": "Cast",
+     "url": "stremio:///search?search=Johnny%20Depp"
+    },
+    {
+     "name": "Freddie Highmore",
+     "category": "Cast",
+     "url": "stremio:///search?search=Freddie%20Highmore"
+    },
+    {
+     "name": "David Kelly",
+     "category": "Cast",
+     "url": "stremio:///search?search=David%20Kelly"
+    },
+    {
+     "name": "Roald Dahl",
+     "category": "Writers",
+     "url": "stremio:///search?search=Roald%20Dahl"
+    },
+    {
+     "name": "John August",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20August"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tim%20Burton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0367594",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0367594.jpg"
   },
   {
-   "id": "tt31434030",
-   "type": "movie",
-   "name": "Dracula: A Love Tale",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434030.jpg",
+   "name": "Dracula",
+   "cast": [
+    "Caleb Landry Jones",
+    "Christoph Waltz",
+    "Zoë Bleu"
+   ],
+   "country": "France",
    "description": "Quando um príncipe do século XV renega Deus após a devastadora perda da sua mulher, herda uma maldição eterna; torna-se Drácula. Condenado a vaguear pelos séculos, desafia o destino e a própria morte, guiado por uma única esperança; reencontrar o seu amor perdido.",
-   "releaseInfo": "2025",
+   "director": [
+    "Luc Besson"
+   ],
+   "genre": [
+    "Fantasy",
+    "Horror",
+    "Romance"
+   ],
+   "imdbRating": "6.2",
+   "released": "2026-02-06T00:00:00.000Z",
+   "writer": [
+    "Luc Besson",
+    "Bram Stoker"
+   ],
+   "year": "2026",
+   "runtime": "130 min",
+   "trailers": [
+    {
+     "source": "hverb7siYJ8",
+     "type": "Trailer"
+    },
+    {
+     "source": "3OBLPpuOM10",
+     "type": "Trailer"
+    },
+    {
+     "source": "iBKJCME9yvk",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31434030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31434030/img",
+   "awards": "1 win & 4 nominations total",
+   "id": "tt31434030",
    "genres": [
     "Terror",
     "Fantasia",
     "Romance"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Dracula",
+     "ytId": "hverb7siYJ8"
+    },
+    {
+     "title": "Dracula",
+     "ytId": "3OBLPpuOM10"
+    },
+    {
+     "title": "Dracula",
+     "ytId": "iBKJCME9yvk"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31434030"
+    },
+    {
+     "name": "Dracula",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dracula-31434030"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Caleb Landry Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Caleb%20Landry%20Jones"
+    },
+    {
+     "name": "Christoph Waltz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christoph%20Waltz"
+    },
+    {
+     "name": "Zoë Bleu",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zo%C3%AB%20Bleu"
+    },
+    {
+     "name": "Luc Besson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Luc%20Besson"
+    },
+    {
+     "name": "Bram Stoker",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bram%20Stoker"
+    },
+    {
+     "name": "Luc Besson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Luc%20Besson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31434030",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434030.jpg"
   },
   {
-   "id": "tt0113497",
-   "type": "movie",
-   "name": "Jumanji",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0113497.jpg",
+   "awards": "4 wins & 11 nominations total",
+   "cast": [
+    "Robin Williams",
+    "Kirsten Dunst",
+    "Bonnie Hunt"
+   ],
+   "country": "United States",
    "description": "Em 1969, Alan Parrish descobre um jogo chamado Jumanji. Ao começar a jogar com a sua amiga Sarah, é engolido pelo jogo e Sarah assusta-se, deixando o jogo como estava. Consequentemente, Alan fica preso por 26 anos na selva até que os irmãos Judy e Peter descobrem o jogo e começam a jogar. Alan acaba por ser libertado, juntamente com perigosos animais da selva. Agora, os três têm de convencer Sarah a terminar o jogo antes que tudo seja destruído.",
-   "releaseInfo": "1995",
+   "director": [
+    "Joe Johnston"
+   ],
+   "dvdRelease": "2003-09-02T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "imdbRating": "7.1",
+   "name": "Jumanji",
+   "released": "1995-12-15T00:00:00.000Z",
+   "runtime": "104 min",
+   "trailers": [
+    {
+     "source": "veszTagaXik",
+     "type": "Trailer"
+    },
+    {
+     "source": "bFPN23BktYA",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Jonathan Hensleigh",
+    "Greg Taylor",
+    "Jim Strain"
+   ],
+   "year": "1995",
+   "background": "https://images.metahub.space/background/medium/tt0113497/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0113497/img",
+   "id": "tt0113497",
    "genres": [
     "Aventura",
     "Fantasia",
     "Família"
-   ]
+   ],
+   "releaseInfo": "1995",
+   "trailerStreams": [
+    {
+     "title": "Jumanji",
+     "ytId": "veszTagaXik"
+    },
+    {
+     "title": "Jumanji",
+     "ytId": "bFPN23BktYA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0113497"
+    },
+    {
+     "name": "Jumanji",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/jumanji-0113497"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Robin Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robin%20Williams"
+    },
+    {
+     "name": "Kirsten Dunst",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kirsten%20Dunst"
+    },
+    {
+     "name": "Bonnie Hunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bonnie%20Hunt"
+    },
+    {
+     "name": "Jonathan Hensleigh",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jonathan%20Hensleigh"
+    },
+    {
+     "name": "Greg Taylor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Greg%20Taylor"
+    },
+    {
+     "name": "Jim Strain",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jim%20Strain"
+    },
+    {
+     "name": "Joe Johnston",
+     "category": "Directors",
+     "url": "stremio:///search?search=Joe%20Johnston"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0113497",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0113497.jpg"
   }
  ]
 }

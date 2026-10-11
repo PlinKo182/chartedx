@@ -1,140 +1,1211 @@
 {
  "metas": [
   {
-   "id": "tt29355505",
-   "type": "movie",
    "name": "Toy Story 5",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg",
+   "awards": "4 nominations total",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
+   ],
+   "country": "United States",
    "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
-   "releaseInfo": "2026",
+   "director": [
+    "McKenna Harris",
+    "Andrew Stanton"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.4",
+   "released": "2026-06-19T00:00:00.000Z",
+   "writer": [
+    "Andrew Stanton",
+    "McKenna Harris"
+   ],
+   "year": "2026",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "QftAW9TTmuQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "c51ND9Hdbw0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt29355505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
+   "id": "tt29355505",
    "genres": [
     "Animação",
     "Família",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Toy Story 5",
+     "ytId": "QftAW9TTmuQ"
+    },
+    {
+     "title": "Toy Story 5",
+     "ytId": "c51ND9Hdbw0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt29355505"
+    },
+    {
+     "name": "Toy Story 5",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Tim Allen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Allen"
+    },
+    {
+     "name": "Joan Cusack",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joan%20Cusack"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Writers",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "McKenna Harris",
+     "category": "Directors",
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29355505",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "id": "tt0463854",
-   "type": "movie",
-   "name": "28 Weeks Later",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0463854.jpg",
+   "awards": "3 wins & 16 nominations total",
+   "cast": [
+    "Jeremy Renner",
+    "Rose Byrne",
+    "Robert Carlyle"
+   ],
+   "country": "United Kingdom, Spain",
    "description": "Passaram 28 semanas desde os incidentes que causaram o caos em toda a Grã-Bretanha - um vírus infectou a sua população, transformando-os em criaturas moribundas e esfomeadas por carne humana, conhecidos por os infectados. A NATO, liderada pelos EUA, fez de tudo para extinguir o vírus e encarrega-se em repovoar o país. Mas este vê-se agora ameaçado por uma suposta infecção de uma mutação mais resistente do vírus dentro da área de reabilitação.",
-   "releaseInfo": "2007",
+   "director": [
+    "Juan Carlos Fresnadillo"
+   ],
+   "dvdRelease": "2015-11-19T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Sci-Fi"
+   ],
+   "imdbRating": "6.8",
+   "name": "28 Weeks Later",
+   "released": "2007-05-11T00:00:00.000Z",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "gPOt4mAEfBE",
+     "type": "Trailer"
+    },
+    {
+     "source": "cH-9OTWwjxM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Rowan Joffe",
+    "Juan Carlos Fresnadillo",
+    "Enrique López Lavigne"
+   ],
+   "year": "2007",
+   "background": "https://images.metahub.space/background/medium/tt0463854/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0463854/img",
+   "id": "tt0463854",
    "genres": [
     "Terror",
     "Thriller",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2007",
+   "trailerStreams": [
+    {
+     "title": "28 Weeks Later",
+     "ytId": "gPOt4mAEfBE"
+    },
+    {
+     "title": "28 Weeks Later",
+     "ytId": "cH-9OTWwjxM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0463854"
+    },
+    {
+     "name": "28 Weeks Later",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/28-weeks-later-0463854"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Jeremy Renner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Renner"
+    },
+    {
+     "name": "Rose Byrne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rose%20Byrne"
+    },
+    {
+     "name": "Robert Carlyle",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Carlyle"
+    },
+    {
+     "name": "Rowan Joffe",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rowan%20Joffe"
+    },
+    {
+     "name": "Juan Carlos Fresnadillo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Juan%20Carlos%20Fresnadillo"
+    },
+    {
+     "name": "Enrique López Lavigne",
+     "category": "Writers",
+     "url": "stremio:///search?search=Enrique%20L%C3%B3pez%20Lavigne"
+    },
+    {
+     "name": "Juan Carlos Fresnadillo",
+     "category": "Directors",
+     "url": "stremio:///search?search=Juan%20Carlos%20Fresnadillo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0463854",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0463854.jpg"
   },
   {
-   "id": "tt0268380",
-   "type": "movie",
-   "name": "Ice Age",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0268380.jpg",
+   "awards": "Nominated for 1 Oscar. 5 wins & 30 nominations total",
+   "cast": [
+    "Denis Leary",
+    "John Leguizamo",
+    "Ray Romano"
+   ],
+   "country": "United States",
    "description": "Durante a idade do gelo, um mamute lanudo solitário com um passado trágico junta-se a uma preguiça sabichona e a um tigre-de-dentes-de-sabre intriguista para devolver um menino de um ano ao seu pai caçador.",
-   "releaseInfo": "2002",
+   "director": [
+    "Chris Wedge",
+    "Carlos Saldanha"
+   ],
+   "dvdRelease": "2013-03-01T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.5",
+   "name": "Ice Age",
+   "released": "2002-03-15T00:00:00.000Z",
+   "runtime": "82 min",
+   "trailers": [
+    {
+     "source": "i4noiCRJRoE",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Michael Berg",
+    "Michael J. Wilson",
+    "Peter Ackerman"
+   ],
+   "year": "2002",
+   "background": "https://images.metahub.space/background/medium/tt0268380/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0268380/img",
+   "id": "tt0268380",
    "genres": [
     "Animação",
     "Comédia",
     "Família"
-   ]
+   ],
+   "releaseInfo": "2002",
+   "trailerStreams": [
+    {
+     "title": "Ice Age",
+     "ytId": "i4noiCRJRoE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0268380"
+    },
+    {
+     "name": "Ice Age",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/ice-age-0268380"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Denis Leary",
+     "category": "Cast",
+     "url": "stremio:///search?search=Denis%20Leary"
+    },
+    {
+     "name": "John Leguizamo",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Leguizamo"
+    },
+    {
+     "name": "Ray Romano",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ray%20Romano"
+    },
+    {
+     "name": "Michael Berg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Berg"
+    },
+    {
+     "name": "Michael J. Wilson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20J.%20Wilson"
+    },
+    {
+     "name": "Peter Ackerman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Ackerman"
+    },
+    {
+     "name": "Chris Wedge",
+     "category": "Directors",
+     "url": "stremio:///search?search=Chris%20Wedge"
+    },
+    {
+     "name": "Carlos Saldanha",
+     "category": "Directors",
+     "url": "stremio:///search?search=Carlos%20Saldanha"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0268380",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0268380.jpg"
   },
   {
-   "id": "tt6320628",
-   "type": "movie",
    "name": "Spider-Man: Far from Home",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg",
+   "cast": [
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal"
+   ],
+   "country": "United States, Czech Republic, Australia, Canada, Italy",
    "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
-   "releaseInfo": "2019",
+   "director": [
+    "Jon Watts"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.3",
+   "released": "2019-07-02T00:00:00.000Z",
+   "writer": [
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "LFoz8ZJWmPs",
+     "type": "Trailer"
+    },
+    {
+     "source": "V38cLTYYXNw",
+     "type": "Trailer"
+    },
+    {
+     "source": "DYYtuKyMtY8",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt6320628/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "11 wins & 26 nominations total",
+   "id": "tt6320628",
    "genres": [
     "Ação",
     "Aventura",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "LFoz8ZJWmPs"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "V38cLTYYXNw"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "DYYtuKyMtY8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6320628"
+    },
+    {
+     "name": "Spider-Man: Far from Home",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Chris McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20McKenna"
+    },
+    {
+     "name": "Erik Sommers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erik%20Sommers"
+    },
+    {
+     "name": "Stan Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Lee"
+    },
+    {
+     "name": "Jon Watts",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jon%20Watts"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6320628",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
   },
   {
-   "id": "tt36150957",
-   "type": "movie",
-   "name": "Oasis: Don't Look Back in Anger",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg",
+   "name": "Don't Look Back in Anger",
+   "cast": [
+    "Liam Gallagher",
+    "Anaïs Gallagher",
+    "Noel Gallagher"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-   "releaseInfo": "2026",
+   "director": [
+    "Will Lovelace",
+    "Dylan Southern"
+   ],
+   "genre": [
+    "Documentary",
+    "Music"
+   ],
+   "imdbRating": "8.6",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Steven Knight"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "X9sIYLtgc_s",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt36150957/img",
+   "background": "https://images.metahub.space/background/medium/tt36150957/img",
+   "id": "tt36150957",
    "genres": [
     "Documentário",
     "Música"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Don't Look Back in Anger",
+     "ytId": "X9sIYLtgc_s"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt36150957"
+    },
+    {
+     "name": "Don't Look Back in Anger",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dont-look-back-in-anger-36150957"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Liam Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Gallagher"
+    },
+    {
+     "name": "Anaïs Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%C3%AFs%20Gallagher"
+    },
+    {
+     "name": "Noel Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noel%20Gallagher"
+    },
+    {
+     "name": "Steven Knight",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Knight"
+    },
+    {
+     "name": "Will Lovelace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Will%20Lovelace"
+    },
+    {
+     "name": "Dylan Southern",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dylan%20Southern"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36150957",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
-   "id": "tt30825738",
-   "type": "movie",
-   "name": "The Mandalorian and Grogu",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg",
+   "name": "Star Wars: The Mandalorian and Grogu",
+   "cast": [
+    "Pedro Pascal",
+    "Brendan Wayne",
+    "Lateef Crowder"
+   ],
+   "country": "United States",
    "description": "O Império caiu e os senhores da guerra imperiais permanecem espalhados pela galáxia. Enquanto a incipiente Nova República trabalha para proteger tudo pelo que a Rebelião lutou, recrutam o lendário caçador de recompensas Mandaloriano Din Djarin e o seu jovem aprendiz Grogu.",
-   "releaseInfo": "2026",
+   "director": [
+    "Jon Favreau"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Family"
+   ],
+   "imdbRating": "6.7",
+   "released": "2026-05-22T00:00:00.000Z",
+   "writer": [
+    "George Lucas",
+    "Jon Favreau",
+    "Dave Filoni"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "uwild1rw7Aw",
+     "type": "Trailer"
+    },
+    {
+     "source": "IHWlvwu8t1w",
+     "type": "Trailer"
+    },
+    {
+     "source": "_pa1KLXuW0Y",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt30825738/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30825738/img",
+   "runtime": "132 min",
+   "awards": "3 nominations total",
+   "id": "tt30825738",
    "genres": [
     "Ação",
     "Aventura",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "uwild1rw7Aw"
+    },
+    {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "IHWlvwu8t1w"
+    },
+    {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "_pa1KLXuW0Y"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30825738"
+    },
+    {
+     "name": "Star Wars: The Mandalorian and Grogu",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/star-wars-the-mandalorian-and-grogu-30825738"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Pedro Pascal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pedro%20Pascal"
+    },
+    {
+     "name": "Brendan Wayne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brendan%20Wayne"
+    },
+    {
+     "name": "Lateef Crowder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lateef%20Crowder"
+    },
+    {
+     "name": "George Lucas",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20Lucas"
+    },
+    {
+     "name": "Jon Favreau",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jon%20Favreau"
+    },
+    {
+     "name": "Dave Filoni",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dave%20Filoni"
+    },
+    {
+     "name": "Jon Favreau",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jon%20Favreau"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt30825738",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
   },
   {
-   "id": "tt33612209",
-   "type": "movie",
    "name": "The Devil Wears Prada 2",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33612209.jpg",
+   "cast": [
+    "Meryl Streep",
+    "Anne Hathaway",
+    "Emily Blunt"
+   ],
+   "country": "United States",
    "description": "Vinte anos após interpretarem os seus papéis icónicos de Miranda, Andy, Emily e Nigel, Meryl Streep, Anne Hathaway, Emily Blunt e Stanley Tucci regressam às ruas da moda de Nova Iorque e aos escritórios sofisticados da revista Runway em “O Diabo Veste Prada 2”, da 20th Century Studios, a tão aguardada sequela do fenómeno de 2006 que marcou uma geração. O filme é realizado por David Frankel, escrito por Aline Brosh McKenna, produzido por Wendy Finerman e com produção executiva de Michael Bederman, Karen Rosenfelt e Aline Brosh McKenna.",
-   "releaseInfo": "2026",
+   "director": [
+    "David Frankel"
+   ],
+   "imdbRating": "6.3",
+   "released": "2026-05-01T00:00:00.000Z",
+   "writer": [
+    "Lauren Weisberger",
+    "Aline Brosh McKenna"
+   ],
+   "year": "2026",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33612209/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33612209/img",
+   "trailers": [
+    {
+     "source": "PMd1at7OwiE",
+     "type": "Trailer"
+    },
+    {
+     "source": "e9HXmMnUEdE",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "119 min",
+   "awards": "2 wins & 4 nominations total",
+   "id": "tt33612209",
    "genres": [
     "Comédia",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Devil Wears Prada 2",
+     "ytId": "PMd1at7OwiE"
+    },
+    {
+     "title": "The Devil Wears Prada 2",
+     "ytId": "e9HXmMnUEdE"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33612209"
+    },
+    {
+     "name": "The Devil Wears Prada 2",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-devil-wears-prada-2-33612209"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Meryl Streep",
+     "category": "Cast",
+     "url": "stremio:///search?search=Meryl%20Streep"
+    },
+    {
+     "name": "Anne Hathaway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anne%20Hathaway"
+    },
+    {
+     "name": "Emily Blunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Blunt"
+    },
+    {
+     "name": "Lauren Weisberger",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lauren%20Weisberger"
+    },
+    {
+     "name": "Aline Brosh McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Aline%20Brosh%20McKenna"
+    },
+    {
+     "name": "David Frankel",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Frankel"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33612209",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33612209.jpg"
   },
   {
-   "id": "tt0359950",
-   "type": "movie",
-   "name": "The Secret Life of Walter Mitty",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0359950.jpg",
+   "awards": "5 wins & 18 nominations total",
+   "cast": [
+    "Ben Stiller",
+    "Kristen Wiig",
+    "Jon Daly"
+   ],
+   "country": "United States, United Kingdom",
    "description": "Walter Mitty é o responsável pelo departamento de arquivo e revelação de fotografias da tradicional revista Life. Ele é um homem tímido, levando uma vida simples, perdido em seus sonhos. Ao receber um pacote com negativos do importante fotógrafo Sean O'Connell, ele percebe que está faltando uma foto. O problema é que trata-se justamente da foto escolhida para ser a capa da última edição da revista. É quando, Walter, com o apoio de Cheryl é obrigado a embarcar em uma verdadeira aventura.",
-   "releaseInfo": "2013",
+   "director": [
+    "Ben Stiller"
+   ],
+   "dvdRelease": "2015-09-30T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.3",
+   "name": "The Secret Life of Walter Mitty",
+   "released": "2013-12-25T00:00:00.000Z",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "Bp_cxxqOaPM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Steve Conrad",
+    "James Thurber"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt0359950/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0359950/img",
+   "id": "tt0359950",
    "genres": [
     "Aventura",
     "Comédia",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "The Secret Life of Walter Mitty",
+     "ytId": "Bp_cxxqOaPM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0359950"
+    },
+    {
+     "name": "The Secret Life of Walter Mitty",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-secret-life-of-walter-mitty-0359950"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Ben Stiller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Stiller"
+    },
+    {
+     "name": "Kristen Wiig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristen%20Wiig"
+    },
+    {
+     "name": "Jon Daly",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jon%20Daly"
+    },
+    {
+     "name": "Steve Conrad",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Conrad"
+    },
+    {
+     "name": "James Thurber",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20Thurber"
+    },
+    {
+     "name": "Ben Stiller",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Stiller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0359950",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0359950.jpg"
   },
   {
-   "id": "tt1757678",
-   "type": "movie",
-   "name": "Avatar: Fire and Ash",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
+   "awards": "Won 1 Oscar. 42 wins & 62 nominations total",
+   "cast": [
+    "Sam Worthington",
+    "Zoe Saldaña",
+    "Sigourney Weaver"
+   ],
+   "country": "United States, Canada",
    "description": "Após a devastadora guerra contra a RDA e a perda do seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta de poder liderada pelo implacável Varang. A família de Jake deve lutar pela sua sobrevivência e pelo futuro de Pandora num conflito que os leva ao limite emocional e físico.",
-   "releaseInfo": "2025",
+   "director": [
+    "James Cameron"
+   ],
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "7.2",
+   "name": "Avatar: Fire and Ash",
+   "released": "2025-12-19T00:00:00.000Z",
+   "runtime": "198 min",
+   "trailers": [
+    {
+     "source": "Ma1x7ikpid8",
+     "type": "Trailer"
+    },
+    {
+     "source": "nb_fFj_0rq8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "James Cameron",
+    "Rick Jaffa",
+    "Amanda Silver"
+   ],
+   "year": "2025",
+   "background": "https://images.metahub.space/background/medium/tt1757678/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1757678/img",
+   "id": "tt1757678",
    "genres": [
     "Ficção científica",
     "Aventura",
     "Fantasia"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Avatar: Fire and Ash",
+     "ytId": "Ma1x7ikpid8"
+    },
+    {
+     "title": "Avatar: Fire and Ash",
+     "ytId": "nb_fFj_0rq8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1757678"
+    },
+    {
+     "name": "Avatar: Fire and Ash",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/avatar-fire-and-ash-1757678"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sam Worthington",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sam%20Worthington"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sigourney%20Weaver"
+    },
+    {
+     "name": "James Cameron",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20Cameron"
+    },
+    {
+     "name": "Rick Jaffa",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rick%20Jaffa"
+    },
+    {
+     "name": "Amanda Silver",
+     "category": "Writers",
+     "url": "stremio:///search?search=Amanda%20Silver"
+    },
+    {
+     "name": "James Cameron",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20Cameron"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1757678",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg"
   },
   {
-   "id": "tt0112792",
-   "type": "movie",
-   "name": "Dangerous Minds",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0112792.jpg",
+   "awards": "6 wins & 8 nominations total",
+   "cast": [
+    "Michelle Pfeiffer",
+    "George Dzundza",
+    "Courtney B. Vance"
+   ],
+   "country": "United States",
    "description": "Uma ex-Marine decide ser professora de inglês. Concretizando o seu sonho de leccionar, LouAnne Johnson é colocada como professora de um grupo de rebeldes adolescentes que aceitam o insucesso como forma de vida. Determinada em ganhar-lhes a confiança e a fazer a diferença nas suas vidas, LouAnne não olha a meios para atingir fins aprendendo, no limite, algumas duras lições.",
-   "releaseInfo": "1995",
+   "director": [
+    "John N. Smith"
+   ],
+   "dvdRelease": "2016-08-10T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Drama"
+   ],
+   "imdbRating": "6.5",
+   "name": "Dangerous Minds",
+   "released": "1995-08-11T00:00:00.000Z",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "gA-5nLQCmW8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "LouAnne Johnson",
+    "Ron Bass"
+   ],
+   "year": "1995",
+   "background": "https://images.metahub.space/background/medium/tt0112792/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0112792/img",
+   "id": "tt0112792",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "1995",
+   "trailerStreams": [
+    {
+     "title": "Dangerous Minds",
+     "ytId": "gA-5nLQCmW8"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0112792"
+    },
+    {
+     "name": "Dangerous Minds",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dangerous-minds-0112792"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Michelle Pfeiffer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Pfeiffer"
+    },
+    {
+     "name": "George Dzundza",
+     "category": "Cast",
+     "url": "stremio:///search?search=George%20Dzundza"
+    },
+    {
+     "name": "Courtney B. Vance",
+     "category": "Cast",
+     "url": "stremio:///search?search=Courtney%20B.%20Vance"
+    },
+    {
+     "name": "LouAnne Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=LouAnne%20Johnson"
+    },
+    {
+     "name": "Ron Bass",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Bass"
+    },
+    {
+     "name": "John N. Smith",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20N.%20Smith"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0112792",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0112792.jpg"
   }
  ]
 }

@@ -2,123 +2,772 @@
  "metas": [
   {
    "id": "tt18225078",
-   "type": "movie",
+   "logo": "https://live.metahub.space/logo/medium/tt18225078/img",
+   "background": "https://live.metahub.space/background/medium/tt18225078/img",
    "name": "The 90s Club",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18225078.jpg",
    "description": "A charming documentary film that showcases the vibrant wisdom and life lessons from a dozen diverse individuals between 90- and 99-years-old.  “The 90s Club” hands the mic to people in their nineties to prove that empathizing with the well-aged is not just socially responsible, but hearing their voices can be inspiring, enriching, funny, and compelling. Over the course of this documentary, we meet and speak with a dozen individuals, who talk unflinchingly about death and loss, but also about love and connection, about accomplishment and meaning. Through the touching, humorous, and reflective stories and insights of the \"cast\" of \"The 90s Club\", we can all gain some perspective for our own lives as we grow older.",
+   "genres": [
+    "Documentário"
+   ],
    "releaseInfo": "2022",
-   "genres": [
-    "Documentário"
-   ]
+   "runtime": "85 min",
+   "trailers": [],
+   "cast": [
+    "Dick Van Dyke"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Dick Van Dyke",
+     "profile_path": "/jXAeNx7mYdirzMHcqPyj5VXxcXi.jpg",
+     "id": 61303
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Robert Darwell",
+     "profile_path": null,
+     "id": 3468429
+    }
+   ],
+   "director": [
+    "Robert Darwell"
+   ],
+   "imdbRating": "9.3",
+   "behaviorHints": {
+    "defaultVideoId": "tt18225078",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18225078.jpg"
   },
   {
-   "id": "tt8488126",
-   "type": "movie",
-   "name": "The Inventor: Out for Blood in Silicon Valley",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg",
+   "country": "United States",
    "description": "The story of Theranos, a multi-billion dollar tech company, its founder Elizabeth Holmes, the youngest self-made female billionaire, and the massive fraud that collapsed the company.",
-   "releaseInfo": "2019",
+   "director": [
+    "Alex Gibney"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Inventor: Out for Blood in Silicon Valley",
+   "released": "2019-03-18T00:00:00.000Z",
+   "writer": [
+    "Alex Gibney"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "wtDaP18OGfw",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Alex Gibney",
+    "Elizabeth Holmes",
+    "Dan Ariely"
+   ],
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8488126/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
+   "runtime": "119 min",
+   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 3 nominations total",
+   "dvdRelease": "2019-11-18T00:00:00.000Z",
+   "id": "tt8488126",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Inventor: Out for Blood in Silicon Valley",
+     "ytId": "wtDaP18OGfw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8488126"
+    },
+    {
+     "name": "The Inventor: Out for Blood in Silicon Valley",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-inventor-out-for-blood-in-silicon-valley-8488126"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Elizabeth Holmes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elizabeth%20Holmes"
+    },
+    {
+     "name": "Dan Ariely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Ariely"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8488126",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
   },
   {
-   "id": "tt36150957",
-   "type": "movie",
-   "name": "Oasis: Don't Look Back in Anger",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg",
+   "name": "Don't Look Back in Anger",
+   "cast": [
+    "Liam Gallagher",
+    "Anaïs Gallagher",
+    "Noel Gallagher"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-   "releaseInfo": "2026",
+   "director": [
+    "Will Lovelace",
+    "Dylan Southern"
+   ],
+   "genre": [
+    "Documentary",
+    "Music"
+   ],
+   "imdbRating": "8.6",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Steven Knight"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "X9sIYLtgc_s",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt36150957/img",
+   "background": "https://images.metahub.space/background/medium/tt36150957/img",
+   "id": "tt36150957",
    "genres": [
     "Documentário",
     "Música"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Don't Look Back in Anger",
+     "ytId": "X9sIYLtgc_s"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt36150957"
+    },
+    {
+     "name": "Don't Look Back in Anger",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dont-look-back-in-anger-36150957"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Liam Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Gallagher"
+    },
+    {
+     "name": "Anaïs Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%C3%AFs%20Gallagher"
+    },
+    {
+     "name": "Noel Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noel%20Gallagher"
+    },
+    {
+     "name": "Steven Knight",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Knight"
+    },
+    {
+     "name": "Will Lovelace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Will%20Lovelace"
+    },
+    {
+     "name": "Dylan Southern",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dylan%20Southern"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36150957",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
    "id": "tt31924746",
-   "type": "movie",
+   "logo": "https://live.metahub.space/logo/medium/tt31924746/img",
+   "background": "https://live.metahub.space/background/medium/tt31924746/img",
    "name": "The Bad Guy",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31924746.jpg",
    "description": "The gun epidemic has become so intense in the USA, that schools and community groups are now looking away from prevention and towards preparation – tolerating mass killing as part of the fabric of American life. Measures like active shooter drills and arming teachers seem an unsavoury but necessary response to keep our loved ones safe. What impact do these militarised approaches have on children’s mental wellbeing? What kind of society will they build in the future? Told through the perspective of a European new mother, who is deciding to make a life for her young family in America, this candid and urgent documentary asks what is at stake during these frightening times.",
-   "releaseInfo": "2024",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2024",
+   "runtime": "69 min",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Louise van Assche",
+     "profile_path": null,
+     "id": 2862118
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Kwinten Gernay",
+     "profile_path": null,
+     "id": 1821218
+    }
+   ],
+   "director": [
+    "Louise van Assche",
+    "Kwinten Gernay"
+   ],
+   "imdbRating": "7.8",
+   "language": "English",
+   "country": "Belgium",
+   "behaviorHints": {
+    "defaultVideoId": "tt31924746",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31924746.jpg"
   },
   {
    "id": "tt44568097",
-   "type": "movie",
+   "logo": "https://live.metahub.space/logo/medium/tt44568097/img",
+   "background": "https://live.metahub.space/background/medium/tt44568097/img",
    "name": "The Widower: 'Til Death Do Us Part",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44568097.jpg",
    "description": "A journalist and a detective uncover the truth about a killer whose charm masked a trail of failed marriages and suspicious deaths.",
-   "releaseInfo": "2026",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "runtime": "91 min",
+   "trailers": [
+    {
+     "source": "2Xn881UkR3s",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Chris Smith",
+     "profile_path": "/w7YxLmX6901brkneH06nxPBSmji.jpg",
+     "id": 31654
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Liam Epstein",
+     "profile_path": null,
+     "id": 6444762
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Kimberley Ferdinando",
+     "profile_path": null,
+     "id": 3874330
+    }
+   ],
+   "director": [
+    "Chris Smith"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt44568097",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44568097.jpg"
   },
   {
    "id": "tt45617366",
-   "type": "movie",
+   "behaviorHints": {
+    "defaultVideoId": "tt45617366",
+    "hasScheduledVideos": false
+   },
+   "links": [
+    {
+     "name": "Ring Road",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/ring-road-45617366"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    }
+   ],
    "name": "Ring Road",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45617366.jpg",
+   "year": "2026",
    "releaseInfo": "2026",
+   "genre": [
+    "Documentary"
+   ],
    "genres": [
     "Documentary"
-   ]
+   ],
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45617366.jpg"
   },
   {
-   "id": "tt39150288",
-   "type": "movie",
    "name": "The Last First: Winter K2",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150288.jpg",
+   "cast": [
+    "Nirmal Purja",
+    "Muhammad Ali Sadpara",
+    "Sajid Sadpara"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Uma corrida histórica pela primeira ascensão ao K2 no inverno acaba em tragédia e revela como a ambição, o ego e a sede de glória podem ser tão perigosos como a própria montanha.",
-   "releaseInfo": "2026",
+   "director": [
+    "Amir Bar-Lev"
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "imdbRating": "",
+   "released": "2026-01-22T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "zgGpyr5MFK8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt39150288/img",
+   "logo": "https://images.metahub.space/logo/medium/tt39150288/img",
+   "id": "tt39150288",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Last First: Winter K2",
+     "ytId": "zgGpyr5MFK8"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Last First: Winter K2",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-last-first-winter-k2-39150288"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Nirmal Purja",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nirmal%20Purja"
+    },
+    {
+     "name": "Muhammad Ali Sadpara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Muhammad%20Ali%20Sadpara"
+    },
+    {
+     "name": "Sajid Sadpara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sajid%20Sadpara"
+    },
+    {
+     "name": "Amir Bar-Lev",
+     "category": "Directors",
+     "url": "stremio:///search?search=Amir%20Bar-Lev"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39150288",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150288.jpg"
   },
   {
    "id": "tt33083414",
-   "type": "movie",
+   "logo": "https://live.metahub.space/logo/medium/tt33083414/img",
+   "background": "https://live.metahub.space/background/medium/tt33083414/img",
    "name": "Iron Winter",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33083414.jpg",
-   "description": "Iron Winter follows two young Mongolian horse herders who battle extreme winter cold to protect an ancient tradition that risks being lost forever. Set in the Tsakhir Valley of the Arkhangai province, one of the world's harshest human-inhabited environments, the film captures the herders' 150-day struggle to lead thousands of horses into the high country in search of edible grass hidden under the snow.",
-   "releaseInfo": "2025",
+   "description": "In Mongolia’s remote Tsakhir Valley, Batbold faces the greatest challenge of his young life: safeguarding 1,000 horses during the deadliest winter on record.",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "runtime": "89 min",
+   "trailers": [
+    {
+     "source": "MAJUht8sQEA",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Chadraa (Bayankhangai) Dondogsuren",
+    "Dondogsuren (Batbold) Batbold",
+    "Tsogtgerel (Tsagana) Tsagaan-Owgon"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Chadraa (Bayankhangai) Dondogsuren",
+     "profile_path": null,
+     "id": 6477689
+    },
+    {
+     "character": "Self",
+     "name": "Dondogsuren (Batbold) Batbold",
+     "profile_path": null,
+     "id": 6477692
+    },
+    {
+     "character": "Self",
+     "name": "Tsogtgerel (Tsagana) Tsagaan-Owgon",
+     "profile_path": null,
+     "id": 6477694
+    },
+    {
+     "character": "Self",
+     "name": "Chadraa (Jijray) Barsbold",
+     "profile_path": null,
+     "id": 6477695
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Kasimir Burgess",
+     "profile_path": "/6RzIX0bEkBkrI4HSJfbqL1vhaLa.jpg",
+     "id": 1325775
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Morgan Wright",
+     "profile_path": null,
+     "id": 3987745
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Ben Golotta",
+     "profile_path": null,
+     "id": 3935199
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Chris Kamen",
+     "profile_path": null,
+     "id": 1475751
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Samm Haillay",
+     "profile_path": null,
+     "id": 2088783
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Enebish Sengemugaa",
+     "profile_path": null,
+     "id": 5309189
+    }
+   ],
+   "director": [
+    "Kasimir Burgess"
+   ],
+   "imdbRating": "8.1",
+   "language": "Mongolian",
+   "country": "Australia",
+   "behaviorHints": {
+    "defaultVideoId": "tt33083414",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33083414.jpg"
   },
   {
    "id": "tt38516475",
-   "type": "movie",
+   "logo": "https://live.metahub.space/logo/medium/tt38516475/img",
+   "background": "https://live.metahub.space/background/medium/tt38516475/img",
    "name": "Siren: The Voices of Shelley Beattie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38516475.jpg",
    "description": "Shelley Beattie, uma mulher surda e culturista campeã, alcançou a fama na década de 1990 no programa de TV de sucesso American Gladiators, onde competiu sob o nome de \"Siren\" antes da sua morte prematura em 2008. Carismática, deslumbrante e uma concorrente feroz, Beattie também lutava contra demónios pessoais, enfrentando doenças mentais, vícios e questionamentos sobre a sua própria identidade. Com a perspetiva de outra mulher surda em Hollywood que também alcançou o estrelato na mesma altura, a atriz vencedora de um Óscar Marlee Matlin, o documentário desvenda a história de Shelley \"Siren\" Beattie e o seu complexo legado, entrelaçado com beleza, doença mental e amor.",
-   "releaseInfo": "2025",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "W0Bs0wE2hig",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Shelley Beattie",
+    "Marlee Matlin",
+    "John Romano"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self (archive footage)",
+     "name": "Shelley Beattie",
+     "profile_path": null,
+     "id": 3479856
+    },
+    {
+     "character": "Self",
+     "name": "Marlee Matlin",
+     "profile_path": "/1iV3yA07kdj7RFj2yyzwO2T6M8o.jpg",
+     "id": 19797
+    },
+    {
+     "character": "Self",
+     "name": "John Romano",
+     "profile_path": null,
+     "id": 6466061
+    },
+    {
+     "character": "Self",
+     "name": "Ed Connors",
+     "profile_path": null,
+     "id": 6466062
+    },
+    {
+     "character": "Self",
+     "name": "Bill Koch",
+     "profile_path": null,
+     "id": 3038532
+    },
+    {
+     "character": "Self",
+     "name": "Julie Moisa",
+     "profile_path": null,
+     "id": 6466063
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Irene Taylor",
+     "profile_path": "/lqisl9rsaWAlPp7vHQ2lzyZeInV.jpg",
+     "id": 589012
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Irene Taylor",
+     "profile_path": "/lqisl9rsaWAlPp7vHQ2lzyZeInV.jpg",
+     "id": 589012
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Marlee Matlin",
+     "profile_path": "/1iV3yA07kdj7RFj2yyzwO2T6M8o.jpg",
+     "id": 19797
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Stacy Lorts",
+     "profile_path": null,
+     "id": 4906882
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Lauren Mueller",
+     "profile_path": null,
+     "id": 6439340
+    }
+   ],
+   "director": [
+    "Irene Taylor"
+   ],
+   "imdbRating": "7.0",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": "tt38516475",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38516475.jpg"
   },
   {
-   "id": "tt39150120",
-   "type": "movie",
    "name": "The AI Doc: Or How I Became an Apocaloptimist",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150120.jpg",
+   "awards": "2 nominations total",
+   "cast": [
+    "Daniel Roher",
+    "Sam Altman",
+    "Daniela Amodei"
+   ],
+   "country": "United States",
    "description": "Um futuro pai tenta perceber o que se passa com toda esta loucura da IA ​​e explora a tecnologia mais poderosa que a humanidade já criou... e o que está em causa se errarmos a mão.",
-   "releaseInfo": "2026",
+   "director": [
+    "Daniel Roher",
+    "Charlie Tyrell"
+   ],
+   "genre": [
+    "Documentary",
+    "Animation"
+   ],
+   "imdbRating": "6.8",
+   "released": "2026-03-27T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "xkPbV3IRe4Y",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt39150120/img",
+   "logo": "https://images.metahub.space/logo/medium/tt39150120/img",
+   "id": "tt39150120",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The AI Doc: Or How I Became an Apocaloptimist",
+     "ytId": "xkPbV3IRe4Y"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt39150120"
+    },
+    {
+     "name": "The AI Doc: Or How I Became an Apocaloptimist",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-ai-doc-or-how-i-became-an-apocaloptimist-39150120"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Daniel Roher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Roher"
+    },
+    {
+     "name": "Sam Altman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sam%20Altman"
+    },
+    {
+     "name": "Daniela Amodei",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniela%20Amodei"
+    },
+    {
+     "name": "Daniel Roher",
+     "category": "Directors",
+     "url": "stremio:///search?search=Daniel%20Roher"
+    },
+    {
+     "name": "Charlie Tyrell",
+     "category": "Directors",
+     "url": "stremio:///search?search=Charlie%20Tyrell"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39150120",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150120.jpg"
   }
  ]
 }

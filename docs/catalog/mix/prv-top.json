@@ -1,132 +1,940 @@
 {
  "metas": [
   {
-   "id": "tt0074285",
-   "type": "movie",
-   "name": "Carrie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074285.jpg",
+   "awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
+   "cast": [
+    "Sissy Spacek",
+    "Piper Laurie",
+    "Amy Irving"
+   ],
+   "country": "United States",
    "description": "Carrie White é gentil mas ingénua: impopular na escola, onde é alvo constante de chacota, tem uma mãe fanática que exerce sobre ela autêntico terror psicológico. Para tornar tudo ainda mais difícil, descobre poderes telecinéticos que não sabe como controlar. Quando tudo parece melhorar, e ela começa a sentir-se mais integrada na escola, a inveja e ódio de uma das colegas vai levar a consequências terríveis para todos.",
-   "releaseInfo": "1976",
+   "director": [
+    "Brian De Palma"
+   ],
+   "dvdRelease": "2015-08-27T00:00:00.000Z",
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "7.4",
+   "name": "Carrie",
+   "released": "1976-11-16T00:00:00.000Z",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "zbdIXI1s3aU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Stephen King",
+    "Lawrence D. Cohen"
+   ],
+   "year": "1976",
+   "background": "https://images.metahub.space/background/medium/tt0074285/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
+   "id": "tt0074285",
    "genres": [
     "Terror",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "1976",
+   "trailerStreams": [
+    {
+     "title": "Carrie",
+     "ytId": "zbdIXI1s3aU"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0074285"
+    },
+    {
+     "name": "Carrie",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/carrie-0074285"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sissy Spacek",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sissy%20Spacek"
+    },
+    {
+     "name": "Piper Laurie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Piper%20Laurie"
+    },
+    {
+     "name": "Amy Irving",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amy%20Irving"
+    },
+    {
+     "name": "Stephen King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20King"
+    },
+    {
+     "name": "Lawrence D. Cohen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lawrence%20D.%20Cohen"
+    },
+    {
+     "name": "Brian De Palma",
+     "category": "Directors",
+     "url": "stremio:///search?search=Brian%20De%20Palma"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0074285",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074285.jpg"
   },
   {
    "id": "tt43095501",
-   "type": "series",
+   "logo": "https://live.metahub.space/logo/medium/tt43095501/img",
+   "background": "https://live.metahub.space/background/medium/tt43095501/img",
    "name": "Coração de Mãe",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43095501.jpg",
    "description": "«Coração de Mãe» é a história de Linda, uma mulher na casa dos quarenta, simples, tão bonita quanto guerreira, que desespera ao ver o seu filho ir preso depois de a salvar das mãos de um marido violento. Se aquela data inevitavelmente a transforma, há outra que nunca esquecerá: o dia em que um desconhecido milionário lhe faz uma proposta que virará o jogo para sempre.",
-   "releaseInfo": "2026",
    "genres": [
     "Soap"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "runtime": "45 min",
+   "trailers": [],
+   "cast": [
+    "Joana Solnado",
+    "Diogo Morgado",
+    "Fernanda Serrano"
+   ],
+   "credits_cast": [
+    {
+     "character": "Linda da Silva",
+     "name": "Joana Solnado",
+     "profile_path": "/k798mk0GXr0XLE6NPjPneww7UOJ.jpg",
+     "id": 1999573
+    },
+    {
+     "character": "João Costa",
+     "name": "Diogo Morgado",
+     "profile_path": "/KsnfgusybjgPfxGnwokID6Dqu5.jpg",
+     "id": 647347
+    },
+    {
+     "character": "Madalena Cazais de Almeida",
+     "name": "Fernanda Serrano",
+     "profile_path": "/3lbW3FFtb0SYIUAEb6thIDNv4Y4.jpg",
+     "id": 1037961
+    },
+    {
+     "character": "Bento Soler Toledo",
+     "name": "Paulo Rocha",
+     "profile_path": "/7b3KbMkDis3w2jy1GrssZEecGI6.jpg",
+     "id": 1215357
+    },
+    {
+     "character": "Frederico Cazais de Almeida",
+     "name": "Marco Delgado",
+     "profile_path": "/7vRSi9CkrBSw9lNJDZJEs9sln8B.jpg",
+     "id": 560276
+    },
+    {
+     "character": "Tó Carlos Acácio",
+     "name": "Frederico Barata",
+     "profile_path": "/zuXDP7w8kRMCvPWrqSNWZ2KKvY8.jpg",
+     "id": 1312010
+    },
+    {
+     "character": "Silvestre Soler Toledo",
+     "name": "Pedro Granger",
+     "profile_path": "/wkbMJChoTIouVqWxusXZaktVPl9.jpg",
+     "id": 1184328
+    },
+    {
+     "character": "Túlia Noronha",
+     "name": "Susana Arrais",
+     "profile_path": "/1fkzzI76idKGDYisJyeFlIZ16ky.jpg",
+     "id": 1271664
+    },
+    {
+     "character": "Dona Malu Costa",
+     "name": "Ana Bustorff",
+     "profile_path": "/8DCRwf1qBHjmXxEnWHwxWV3wIyA.jpg",
+     "id": 108454
+    },
+    {
+     "character": "Raimundo Soler Toledo",
+     "name": "Virgílio Castelo",
+     "profile_path": "/kWTwY3niuf9UrbDIAyFjcYp5M9c.jpg",
+     "id": 139035
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Rafael Rahal",
+     "profile_path": null,
+     "id": 1830763
+    }
+   ],
+   "director": [
+    "Rafael Rahal"
+   ],
+   "imdbRating": "7.0",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43095501.jpg"
   },
   {
-   "id": "tt0044981",
-   "type": "movie",
-   "name": "O. Henry's Full House",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0044981.jpg",
+   "awards": null,
+   "cast": [
+    "Fred Allen",
+    "Anne Baxter",
+    "Jeanne Crain"
+   ],
+   "country": "United States",
    "description": "Em \"O Policial e o Hino\" um sem-teto fica frustrado pelas inúmeras tentativas de ser preso e encarcerado por 90 dias em uma cela quente ao invés de enfrentar os rigores de um inverno de Nova York.\r Em \"O Toque do Clarim\" um detetive da Policia de NY tem uma crise de consciência quando fica dividido entre o dever de prender um amigo de infância por um crime que só ele sabe e a dívida de honra que ainda tem para com o amigo.\r Em \"A Última Folha\" uma jovem ingênua pega pneumonia depois de ser seduzida e abandonada por ator venal. Quando perde a vontade de viver, sua irmã e um excêntrico artista de Greenwich Village tentam ajudá-la a sobreviver.\r Em \"O Resgate do Chefe Vermelho\" 2 vigaristas trapalhões sequestram o filho de um xerife rural, mas começam a achar que pegaram mais do que podem lidar.\r Finalmente, em \"O Presente dos Magos\" um jovem casal pobre luta para pagar Presentes de Natal dignos de seu amor.",
-   "releaseInfo": "1952",
+   "director": [
+    "Henry Hathaway",
+    "Howard Hawks",
+    "Henry King"
+   ],
+   "dvdRelease": "2002-11-19T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.2",
+   "name": "O. Henry's Full House",
+   "released": "1952-10-16T00:00:00.000Z",
+   "runtime": "117 min",
+   "trailers": [
+    {
+     "source": "c7FInmLD_F8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Lamar Trotti",
+    "Richard L. Breen",
+    "Ivan Goff"
+   ],
+   "year": "1952",
+   "background": "https://images.metahub.space/background/medium/tt0044981/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0044981/img",
+   "id": "tt0044981",
    "genres": [
     "Comédia",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "1952",
+   "trailerStreams": [
+    {
+     "title": "O. Henry's Full House",
+     "ytId": "c7FInmLD_F8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0044981"
+    },
+    {
+     "name": "O. Henry's Full House",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/o-henrys-full-house-0044981"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Fred Allen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Fred%20Allen"
+    },
+    {
+     "name": "Anne Baxter",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anne%20Baxter"
+    },
+    {
+     "name": "Jeanne Crain",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeanne%20Crain"
+    },
+    {
+     "name": "Lamar Trotti",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lamar%20Trotti"
+    },
+    {
+     "name": "Richard L. Breen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Richard%20L.%20Breen"
+    },
+    {
+     "name": "Ivan Goff",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ivan%20Goff"
+    },
+    {
+     "name": "Henry Hathaway",
+     "category": "Directors",
+     "url": "stremio:///search?search=Henry%20Hathaway"
+    },
+    {
+     "name": "Howard Hawks",
+     "category": "Directors",
+     "url": "stremio:///search?search=Howard%20Hawks"
+    },
+    {
+     "name": "Henry King",
+     "category": "Directors",
+     "url": "stremio:///search?search=Henry%20King"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0044981",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0044981.jpg"
   },
   {
-   "id": "tt33539520",
-   "type": "series",
    "name": "Neagley",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33539520.jpg",
+   "cast": [
+    "Maria Sten",
+    "Greyston Holt",
+    "Adeline Rudolph"
+   ],
+   "country": "United States",
    "description": "Do universo de \"REACHER\", começa um novo capítulo. Frances Neagley é investigadora privada em Chicago e antiga colega militar de Jack Reacher na Unidade 110 de Investigações Especiais do Exército. Quando descobre que um amigo muito querido do seu passado morreu num acidente suspeito, fica determinada a fazer justiça.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "",
+   "released": "2026-09-16T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "49 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "BOzNaa_o9_g",
+     "type": "Trailer"
+    },
+    {
+     "source": "e4R4guZS0WU",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt33539520/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33539520/img",
+   "id": "tt33539520",
    "genres": [
     "Drama",
     "Mistério",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Neagley",
+     "ytId": "BOzNaa_o9_g"
+    },
+    {
+     "title": "Neagley",
+     "ytId": "e4R4guZS0WU"
+    }
+   ],
+   "links": [
+    {
+     "name": "Neagley",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/neagley-33539520"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Maria Sten",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maria%20Sten"
+    },
+    {
+     "name": "Greyston Holt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Greyston%20Holt"
+    },
+    {
+     "name": "Adeline Rudolph",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adeline%20Rudolph"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33539520.jpg"
   },
   {
-   "id": "tt22526100",
-   "type": "movie",
    "name": "The Love Hypothesis",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
+   "cast": [
+    "Lili Reinhart",
+    "Tom Bateman",
+    "Rachel Marsh"
+   ],
+   "country": "United States",
    "description": "Olive é uma doutoranda que beija impulsivamente o professor mais intimidante do seu departamento, Adam Carlsen. A necessidade mútua de um relacionamento falso transforma-se numa experiência de química que poderá, na verdade, desvendar o segredo do amor.",
-   "releaseInfo": "2026",
+   "director": [
+    "Claire Scanlon"
+   ],
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "",
+   "released": "2026-09-23T00:00:00.000Z",
+   "writer": [
+    "Ali Hazelwood",
+    "Sarah Rothschild"
+   ],
+   "year": "2026",
+   "runtime": "112 min",
+   "trailers": [
+    {
+     "source": "xwdamnfS6IM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt22526100/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22526100/img",
+   "id": "tt22526100",
    "genres": [
     "Romance",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Love Hypothesis",
+     "ytId": "xwdamnfS6IM"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Love Hypothesis",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-love-hypothesis-22526100"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Lili Reinhart",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lili%20Reinhart"
+    },
+    {
+     "name": "Tom Bateman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Bateman"
+    },
+    {
+     "name": "Rachel Marsh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20Marsh"
+    },
+    {
+     "name": "Ali Hazelwood",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ali%20Hazelwood"
+    },
+    {
+     "name": "Sarah Rothschild",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sarah%20Rothschild"
+    },
+    {
+     "name": "Claire Scanlon",
+     "category": "Directors",
+     "url": "stremio:///search?search=Claire%20Scanlon"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt22526100",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg"
   },
   {
-   "id": "tt33546863",
-   "type": "series",
    "name": "Off Campus",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg",
+   "cast": [
+    "Ella Bright",
+    "Belmont Cameli",
+    "Mika Abdalla"
+   ],
+   "country": "United States",
    "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Drama",
+    "Romance",
+    "Sport"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-05-13T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "wAozjf2frxw",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Louisa Levy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33546863/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
+   "awards": "1 win & 3 nominations total",
+   "id": "tt33546863",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Off Campus",
+     "ytId": "wAozjf2frxw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33546863"
+    },
+    {
+     "name": "Off Campus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/off-campus-33546863"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Ella Bright",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Bright"
+    },
+    {
+     "name": "Belmont Cameli",
+     "category": "Cast",
+     "url": "stremio:///search?search=Belmont%20Cameli"
+    },
+    {
+     "name": "Mika Abdalla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mika%20Abdalla"
+    },
+    {
+     "name": "Louisa Levy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Louisa%20Levy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
   },
   {
-   "id": "tt9288030",
-   "type": "series",
-   "name": "Reacher",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg",
+   "cast": [
+    "Alan Ritchson",
+    "Maria Sten",
+    "Malcolm Goodwin"
+   ],
+   "country": "United States",
    "description": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-   "releaseInfo": "2022",
+   "director": null,
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "name": "Reacher",
+   "released": "2022-02-04T00:00:00.000Z",
+   "writer": [
+    "Nick Santora"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt9288030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+   "awards": "3 wins & 13 nominations total",
+   "runtime": "49 min",
+   "trailers": [
+    {
+     "source": "GSycMV-_Csw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt9288030",
    "genres": [
     "Action & Adventure",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Reacher",
+     "ytId": "GSycMV-_Csw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9288030"
+    },
+    {
+     "name": "Reacher",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/reacher-9288030"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Alan Ritchson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alan%20Ritchson"
+    },
+    {
+     "name": "Maria Sten",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maria%20Sten"
+    },
+    {
+     "name": "Malcolm Goodwin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Malcolm%20Goodwin"
+    },
+    {
+     "name": "Nick Santora",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nick%20Santora"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg"
   },
   {
-   "id": "tt35618070",
-   "type": "series",
    "name": "Sterling Point",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35618070.jpg",
+   "cast": [
+    "Ella Rubin",
+    "Amélie Hoeferle",
+    "Keen Ruffalo"
+   ],
+   "country": "United States",
    "description": "Depois de descobrir que herdou uma ilha remota no Canadá do avô de quem estava afastada e que nunca lhe foi permitido conhecer, Annie Jacobson, de 17 anos, decide investigar, o que a leva a um mundo de segredos enterrados, a uma irmã inesperada e à complicada história familiar que nunca deveria ter descoberto.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "",
+   "released": "2026-08-05T00:00:00.000Z",
+   "writer": [
+    "Megan Park"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "bwwF3TuJQME",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "48 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt35618070/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35618070/img",
+   "id": "tt35618070",
    "genres": [
     "Mistério",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Sterling Point",
+     "ytId": "bwwF3TuJQME"
+    }
+   ],
+   "links": [
+    {
+     "name": "Sterling Point",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/sterling-point-35618070"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Ella Rubin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Rubin"
+    },
+    {
+     "name": "Amélie Hoeferle",
+     "category": "Cast",
+     "url": "stremio:///search?search=Am%C3%A9lie%20Hoeferle"
+    },
+    {
+     "name": "Keen Ruffalo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keen%20Ruffalo"
+    },
+    {
+     "name": "Megan Park",
+     "category": "Writers",
+     "url": "stremio:///search?search=Megan%20Park"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35618070.jpg"
   },
   {
    "id": "tt37077773",
-   "type": "series",
+   "logo": "https://live.metahub.space/logo/medium/tt37077773/img",
+   "background": "https://live.metahub.space/background/medium/tt37077773/img",
    "name": "Terra Forte",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37077773.jpg",
    "description": "Dada como morta no Brasil, Flor ressurge nos Açores quase vinte anos depois com uma revelação chocante: alguém tentou matá-la no mar. Um reencontro com Sammy, seu primeiro amor, agora casado com sua ex-melhor amiga, Maria de Fátima, força Flor a confrontar o passado que quase a destruiu e a buscar a verdade. Entre segredos, traições e alianças perigosas, ela deve enfrentar fantasmas para escolher entre amor, justiça e verdade. Algumas histórias não acabam com a morte — elas apenas recomeçam.",
-   "releaseInfo": "2025",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "status": "Continuing",
+   "runtime": "45 min",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "language": "Portuguese",
+   "country": "Portugal",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37077773.jpg"
   },
   {
-   "id": "tt43617372",
-   "type": "movie",
-   "name": "You+Me – Against the World",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43617372.jpg",
+   "name": "You+Me - Against the World",
+   "cast": [
+    "Adam Abdo",
+    "Maï Anh Le",
+    "Lucas Barski"
+   ],
+   "country": "France",
    "description": "Sem que os pais saibam, convencidos de que está a estudar Direito, Alma Lancaster, uma jovem de boas famílias, decidiu dedicar um ano a perseguir o sonho de estudar cinema. Quando é obrigada a trabalhar com Vadim Arcadi, um jovem sem grandes raízes, nasce entre os dois uma atração elétrica. Mas, nos bastidores, esconde-se uma ameaça invisível determinada a separá-los e a revelar toda a verdade…",
-   "releaseInfo": "2026",
+   "director": [
+    "Manon Gaurin"
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "",
+   "released": "2026-09-18T00:00:00.000Z",
+   "writer": [
+    "Manon Gaurin",
+    "Emma Green",
+    "Alix Letribot"
+   ],
+   "year": "2026",
+   "runtime": "94 min",
+   "trailers": [
+    {
+     "source": "z2Bw_nTXjG4",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt43617372/img",
+   "background": "https://images.metahub.space/background/medium/tt43617372/img",
+   "id": "tt43617372",
    "genres": [
     "Romance",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "You+Me - Against the World",
+     "ytId": "z2Bw_nTXjG4"
+    }
+   ],
+   "links": [
+    {
+     "name": "You+Me - Against the World",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/youme-against-the-world-43617372"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Adam Abdo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adam%20Abdo"
+    },
+    {
+     "name": "Maï Anh Le",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ma%C3%AF%20Anh%20Le"
+    },
+    {
+     "name": "Lucas Barski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lucas%20Barski"
+    },
+    {
+     "name": "Manon Gaurin",
+     "category": "Writers",
+     "url": "stremio:///search?search=Manon%20Gaurin"
+    },
+    {
+     "name": "Emma Green",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emma%20Green"
+    },
+    {
+     "name": "Alix Letribot",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alix%20Letribot"
+    },
+    {
+     "name": "Manon Gaurin",
+     "category": "Directors",
+     "url": "stremio:///search?search=Manon%20Gaurin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt43617372",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43617372.jpg"
   }
  ]
 }

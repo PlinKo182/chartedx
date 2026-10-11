@@ -1,141 +1,1251 @@
 {
  "metas": [
   {
-   "id": "tt36150957",
-   "type": "movie",
-   "name": "Oasis: Don't Look Back in Anger",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg",
+   "name": "Don't Look Back in Anger",
+   "cast": [
+    "Liam Gallagher",
+    "Anaïs Gallagher",
+    "Noel Gallagher"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25, chronicling their journey from Manchester streets to global rock stardom.",
-   "releaseInfo": "2026",
+   "director": [
+    "Will Lovelace",
+    "Dylan Southern"
+   ],
+   "genre": [
+    "Documentary",
+    "Music"
+   ],
+   "imdbRating": "8.6",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Steven Knight"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "X9sIYLtgc_s",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt36150957/img",
+   "background": "https://images.metahub.space/background/medium/tt36150957/img",
+   "id": "tt36150957",
    "genres": [
     "Documentário",
     "Música"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Don't Look Back in Anger",
+     "ytId": "X9sIYLtgc_s"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt36150957"
+    },
+    {
+     "name": "Don't Look Back in Anger",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dont-look-back-in-anger-36150957"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Liam Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Gallagher"
+    },
+    {
+     "name": "Anaïs Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%C3%AFs%20Gallagher"
+    },
+    {
+     "name": "Noel Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noel%20Gallagher"
+    },
+    {
+     "name": "Steven Knight",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Knight"
+    },
+    {
+     "name": "Will Lovelace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Will%20Lovelace"
+    },
+    {
+     "name": "Dylan Southern",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dylan%20Southern"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36150957",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
-   "id": "tt35524793",
-   "type": "movie",
    "name": "The Moment",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35524793.jpg",
+   "cast": [
+    "Charli XCX",
+    "Francesca Faridany",
+    "Errol Barnett"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Uma sensação pop em ascensão lida com a fama e as pressões da indústria enquanto se prepara para a sua estreia em digressão em arenas, revelando a transformação da cultura underground num sucesso mainstream.",
-   "releaseInfo": "2026",
+   "director": [
+    "Aidan Zamiri"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "6.1",
+   "released": "2026-02-06T00:00:00.000Z",
+   "writer": [
+    "Aidan Zamiri",
+    "Bertie Brandes",
+    "Charli XCX"
+   ],
+   "year": "2026",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "2oiLhpZp7sY",
+     "type": "Trailer"
+    },
+    {
+     "source": "Pxqhi7Sgvu8",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt35524793/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35524793/img",
+   "id": "tt35524793",
    "genres": [
     "Música",
     "Comédia",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Moment",
+     "ytId": "2oiLhpZp7sY"
+    },
+    {
+     "title": "The Moment",
+     "ytId": "Pxqhi7Sgvu8"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt35524793"
+    },
+    {
+     "name": "The Moment",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-moment-35524793"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Charli XCX",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charli%20XCX"
+    },
+    {
+     "name": "Francesca Faridany",
+     "category": "Cast",
+     "url": "stremio:///search?search=Francesca%20Faridany"
+    },
+    {
+     "name": "Errol Barnett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Errol%20Barnett"
+    },
+    {
+     "name": "Aidan Zamiri",
+     "category": "Writers",
+     "url": "stremio:///search?search=Aidan%20Zamiri"
+    },
+    {
+     "name": "Bertie Brandes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bertie%20Brandes"
+    },
+    {
+     "name": "Charli XCX",
+     "category": "Writers",
+     "url": "stremio:///search?search=Charli%20XCX"
+    },
+    {
+     "name": "Aidan Zamiri",
+     "category": "Directors",
+     "url": "stremio:///search?search=Aidan%20Zamiri"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt35524793",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35524793.jpg"
   },
   {
-   "id": "tt0088194",
-   "type": "movie",
-   "name": "Streets of Fire",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0088194.jpg",
+   "awards": "2 wins & 1 nomination total",
+   "cast": [
+    "Michael Paré",
+    "Diane Lane",
+    "Rick Moranis"
+   ],
+   "country": "United States",
    "description": "Durante um show, a cantora de rock Ellen Aim (Diane Lane) é sequestrada pela gangue de motoqueiros \"Os bombardeiros\", liderados por Raven Shaddock (Willem Dafoe). Quando ex-namorado de Ellen, o bad boy Tom Cody (Michael Paré), retorna à cidade e descobre o que aconteceu, ele parte em seu resgate. Para enfrentar essa violenta guerra de gangues rivais, ele vai contar com a ajuda de Billy Fish (Rick Moranis), o atual atual e empresário de Ellen, e McCoy (Amy Madigan), uma ex-soldada.",
-   "releaseInfo": "1984",
+   "director": [
+    "Walter Hill"
+   ],
+   "dvdRelease": "2015-09-11T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.7",
+   "name": "Streets of Fire",
+   "released": "1984-06-01T00:00:00.000Z",
+   "runtime": "93 min",
+   "trailers": [
+    {
+     "source": "eWB09th5cgw",
+     "type": "Trailer"
+    },
+    {
+     "source": "oJGo2rvfSuA",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Walter Hill",
+    "Larry Gross"
+   ],
+   "year": "1984",
+   "background": "https://images.metahub.space/background/medium/tt0088194/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0088194/img",
+   "id": "tt0088194",
    "genres": [
     "Ação"
-   ]
+   ],
+   "releaseInfo": "1984",
+   "trailerStreams": [
+    {
+     "title": "Streets of Fire",
+     "ytId": "eWB09th5cgw"
+    },
+    {
+     "title": "Streets of Fire",
+     "ytId": "oJGo2rvfSuA"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0088194"
+    },
+    {
+     "name": "Streets of Fire",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/streets-of-fire-0088194"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Michael Paré",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Par%C3%A9"
+    },
+    {
+     "name": "Diane Lane",
+     "category": "Cast",
+     "url": "stremio:///search?search=Diane%20Lane"
+    },
+    {
+     "name": "Rick Moranis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rick%20Moranis"
+    },
+    {
+     "name": "Walter Hill",
+     "category": "Writers",
+     "url": "stremio:///search?search=Walter%20Hill"
+    },
+    {
+     "name": "Larry Gross",
+     "category": "Writers",
+     "url": "stremio:///search?search=Larry%20Gross"
+    },
+    {
+     "name": "Walter Hill",
+     "category": "Directors",
+     "url": "stremio:///search?search=Walter%20Hill"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0088194",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0088194.jpg"
   },
   {
-   "id": "tt2582802",
-   "type": "movie",
-   "name": "Whiplash",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2582802.jpg",
+   "awards": "Won 3 Oscars. 100 wins & 144 nominations total",
+   "cast": [
+    "Miles Teller",
+    "J.K. Simmons",
+    "Melissa Benoist"
+   ],
+   "country": "United States",
    "description": "Sob a direção do impiedoso professor Terence Fletcher, Andrew Neiman, um jovem e talentoso baterista, procura a perfeição a qualquer custo, mesmo que isso signifique perder a sua humanidade.",
-   "releaseInfo": "2014",
+   "director": [
+    "Damien Chazelle"
+   ],
+   "dvdRelease": "2016-09-08T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Music"
+   ],
+   "imdbRating": "8.5",
+   "name": "Whiplash",
+   "released": "2014-10-15T00:00:00.000Z",
+   "runtime": "107 min",
+   "trailers": [
+    {
+     "source": "Q7kZy3T6vRM",
+     "type": "Trailer"
+    },
+    {
+     "source": "JeShKC6Alyk",
+     "type": "Trailer"
+    },
+    {
+     "source": "Df1xkYYbYrY",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Damien Chazelle"
+   ],
+   "year": "2014",
+   "background": "https://images.metahub.space/background/medium/tt2582802/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2582802/img",
+   "id": "tt2582802",
    "genres": [
     "Drama",
     "Música",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "Whiplash",
+     "ytId": "Q7kZy3T6vRM"
+    },
+    {
+     "title": "Whiplash",
+     "ytId": "JeShKC6Alyk"
+    },
+    {
+     "title": "Whiplash",
+     "ytId": "Df1xkYYbYrY"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2582802"
+    },
+    {
+     "name": "Whiplash",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/whiplash-2582802"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Miles Teller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Miles%20Teller"
+    },
+    {
+     "name": "J.K. Simmons",
+     "category": "Cast",
+     "url": "stremio:///search?search=J.K.%20Simmons"
+    },
+    {
+     "name": "Melissa Benoist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melissa%20Benoist"
+    },
+    {
+     "name": "Damien Chazelle",
+     "category": "Writers",
+     "url": "stremio:///search?search=Damien%20Chazelle"
+    },
+    {
+     "name": "Damien Chazelle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Damien%20Chazelle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2582802",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2582802.jpg"
   },
   {
-   "id": "tt9466114",
-   "type": "movie",
    "name": "The Idea of You",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9466114.jpg",
+   "cast": [
+    "Anne Hathaway",
+    "Nicholas Galitzine",
+    "Ella Rubin"
+   ],
+   "country": "United States",
    "description": "Solène, uma mãe solteira de 40 anos, inicia um romance inesperado com Hayes Campbell, de 24 anos, o vocalista dos August Moon, a boy band mais badalada do planeta.",
-   "releaseInfo": "2024",
+   "director": [
+    "Michael Showalter"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "imdbRating": "6.3",
+   "released": "2024-05-02T00:00:00.000Z",
+   "writer": [
+    "Robinne Lee",
+    "Michael Showalter",
+    "Jennifer Westfeldt"
+   ],
+   "year": "2024",
+   "runtime": "116 min",
+   "trailers": [
+    {
+     "source": "pz6qx4n2Ewc",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt9466114/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9466114/img",
+   "awards": "2 wins & 11 nominations total",
+   "id": "tt9466114",
    "genres": [
     "Música",
     "Comédia",
     "Romance"
-   ]
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "The Idea of You",
+     "ytId": "pz6qx4n2Ewc"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9466114"
+    },
+    {
+     "name": "The Idea of You",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-idea-of-you-9466114"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Anne Hathaway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anne%20Hathaway"
+    },
+    {
+     "name": "Nicholas Galitzine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicholas%20Galitzine"
+    },
+    {
+     "name": "Ella Rubin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Rubin"
+    },
+    {
+     "name": "Robinne Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robinne%20Lee"
+    },
+    {
+     "name": "Michael Showalter",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Showalter"
+    },
+    {
+     "name": "Jennifer Westfeldt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jennifer%20Westfeldt"
+    },
+    {
+     "name": "Michael Showalter",
+     "category": "Directors",
+     "url": "stremio:///search?search=Michael%20Showalter"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9466114",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9466114.jpg"
   },
   {
-   "id": "tt0121164",
-   "type": "movie",
-   "name": "Corpse Bride",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0121164.jpg",
+   "awards": "Nominated for 1 Oscar. 9 wins & 30 nominations total",
+   "cast": [
+    "Johnny Depp",
+    "Helena Bonham Carter",
+    "Emily Watson"
+   ],
+   "country": "United States, United Kingdom",
    "description": "Numa pequena vila vitoriana do século XIX prepara-se o casamento de dois jovens tímidos que não se conhecem. Victor, filho de Nell e William Dort, um casal que enriqueceu com a indústria das conservas de peixe e aspira à alta sociedade, e Victoria, filha de Mandeline e Finis Everglot, aristocratas sem dinheiro. Contra todas as expectativas, eles apaixonam-se. Victor embrenha-se na floresta enquanto vai ensaiando os votos e enfia a aliança numa raiz de árvore que, na verdade, era o dedo da Noiva Cadáver, que vem reclamar o seu noivo e arrasta Victor para a Terra dos Mortos.",
-   "releaseInfo": "2005",
+   "director": [
+    "Tim Burton",
+    "Mike Johnson"
+   ],
+   "dvdRelease": "2008-07-21T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.4",
+   "name": "Corpse Bride",
+   "released": "2005-09-23T00:00:00.000Z",
+   "runtime": "77 min",
+   "trailers": [
+    {
+     "source": "BgwJEpmPKk8",
+     "type": "Trailer"
+    },
+    {
+     "source": "EcrreL7Z98M",
+     "type": "Trailer"
+    },
+    {
+     "source": "IA2wo6ap1Wk",
+     "type": "Trailer"
+    },
+    {
+     "source": "OJW2lg2Ymoc",
+     "type": "Trailer"
+    },
+    {
+     "source": "AGACeWVdFqo",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Tim Burton",
+    "Carlos Grangel",
+    "John August"
+   ],
+   "year": "2005",
+   "background": "https://images.metahub.space/background/medium/tt0121164/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0121164/img",
+   "id": "tt0121164",
    "genres": [
     "Romance",
     "Fantasia",
     "Animação"
-   ]
+   ],
+   "releaseInfo": "2005",
+   "trailerStreams": [
+    {
+     "title": "Corpse Bride",
+     "ytId": "BgwJEpmPKk8"
+    },
+    {
+     "title": "Corpse Bride",
+     "ytId": "EcrreL7Z98M"
+    },
+    {
+     "title": "Corpse Bride",
+     "ytId": "IA2wo6ap1Wk"
+    },
+    {
+     "title": "Corpse Bride",
+     "ytId": "OJW2lg2Ymoc"
+    },
+    {
+     "title": "Corpse Bride",
+     "ytId": "AGACeWVdFqo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0121164"
+    },
+    {
+     "name": "Corpse Bride",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/corpse-bride-0121164"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Johnny Depp",
+     "category": "Cast",
+     "url": "stremio:///search?search=Johnny%20Depp"
+    },
+    {
+     "name": "Helena Bonham Carter",
+     "category": "Cast",
+     "url": "stremio:///search?search=Helena%20Bonham%20Carter"
+    },
+    {
+     "name": "Emily Watson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Watson"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Burton"
+    },
+    {
+     "name": "Carlos Grangel",
+     "category": "Writers",
+     "url": "stremio:///search?search=Carlos%20Grangel"
+    },
+    {
+     "name": "John August",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20August"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tim%20Burton"
+    },
+    {
+     "name": "Mike Johnson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Mike%20Johnson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0121164",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0121164.jpg"
   },
   {
-   "id": "tt3312830",
-   "type": "movie",
-   "name": "Youth",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3312830.jpg",
+   "awards": "Nominated for 1 Oscar. 24 wins & 65 nominations total",
+   "cast": [
+    "Michael Caine",
+    "Harvey Keitel",
+    "Rachel Weisz"
+   ],
+   "country": "Italy, France, United Kingdom, Switzerland",
    "description": "Fred e Mick são dois velhos amigos com quase oitenta anos que se encontram a desfrutar de um período de férias num hotel encantador, no sopé dos Alpes. Fred é um maestro e compositor aposentado, sem intenção de voltar à sua carreira musical que abandonou há muito tempo, enquanto Mick é um realizador, que ainda trabalha, empenhado em terminar o guião do seu mais recente filme. Ambos sabem que os seus dias estão contados e decidem enfrentar o seu futuro juntos. No entanto, mais ninguém para além deles parece preocupado com o passar do tempo...",
-   "releaseInfo": "2015",
+   "director": [
+    "Paolo Sorrentino"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "imdbRating": "7.3",
+   "name": "Youth",
+   "released": "2015-12-04T00:00:00.000Z",
+   "runtime": "125 min",
+   "writer": [
+    "Paolo Sorrentino"
+   ],
+   "year": "2015",
+   "trailers": [
+    {
+     "source": "pSvgKy90t4Y",
+     "type": "Trailer"
+    }
+   ],
+   "dvdRelease": "2016-08-10T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt3312830/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3312830/img",
+   "id": "tt3312830",
    "genres": [
     "Comédia",
     "Drama",
     "Romance"
-   ]
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Youth",
+     "ytId": "pSvgKy90t4Y"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3312830"
+    },
+    {
+     "name": "Youth",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/youth-3312830"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Michael Caine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Caine"
+    },
+    {
+     "name": "Harvey Keitel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harvey%20Keitel"
+    },
+    {
+     "name": "Rachel Weisz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20Weisz"
+    },
+    {
+     "name": "Paolo Sorrentino",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paolo%20Sorrentino"
+    },
+    {
+     "name": "Paolo Sorrentino",
+     "category": "Directors",
+     "url": "stremio:///search?search=Paolo%20Sorrentino"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3312830",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3312830.jpg"
   },
   {
-   "id": "tt32267691",
-   "type": "movie",
    "name": "Power Ballad",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32267691.jpg",
+   "cast": [
+    "Paul Rudd",
+    "Nick Jonas",
+    "Peter McDonald"
+   ],
+   "country": "Ireland, United States",
    "description": "Quando Rick, um cantor de casamentos cujo auge já passou, conhece Danny, uma estrela em declínio de uma boy band, durante um concerto, os dois criam laços através da música e de uma sessão improvisada de música a altas horas da noite. Mas quando Danny transforma uma das canções de Rick num sucesso que relança a sua carreira, Rick decide lutar para recuperar o reconhecimento que acredita merecer — mesmo que isso signifique arriscar tudo aquilo com que se preocupa.",
-   "releaseInfo": "2026",
+   "director": [
+    "John Carney"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "imdbRating": "6.7",
+   "released": "2026-06-05T00:00:00.000Z",
+   "writer": [
+    "John Carney",
+    "Peter McDonald"
+   ],
+   "year": "2026",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "-faiHUsbP_U",
+     "type": "Trailer"
+    },
+    {
+     "source": "Evvpx6oxRZ8",
+     "type": "Trailer"
+    },
+    {
+     "source": "Um_WWbB8Tm0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32267691/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32267691/img",
+   "awards": "3 wins total",
+   "id": "tt32267691",
    "genres": [
     "Comédia",
     "Música",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Power Ballad",
+     "ytId": "-faiHUsbP_U"
+    },
+    {
+     "title": "Power Ballad",
+     "ytId": "Evvpx6oxRZ8"
+    },
+    {
+     "title": "Power Ballad",
+     "ytId": "Um_WWbB8Tm0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32267691"
+    },
+    {
+     "name": "Power Ballad",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/power-ballad-32267691"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Paul Rudd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Rudd"
+    },
+    {
+     "name": "Nick Jonas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nick%20Jonas"
+    },
+    {
+     "name": "Peter McDonald",
+     "category": "Cast",
+     "url": "stremio:///search?search=Peter%20McDonald"
+    },
+    {
+     "name": "John Carney",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Carney"
+    },
+    {
+     "name": "Peter McDonald",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20McDonald"
+    },
+    {
+     "name": "John Carney",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20Carney"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32267691",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32267691.jpg"
   },
   {
-   "id": "tt0073629",
-   "type": "movie",
-   "name": "The Rocky Horror Picture Show",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0073629.jpg",
+   "awards": "4 wins & 4 nominations total",
+   "cast": [
+    "Tim Curry",
+    "Susan Sarandon",
+    "Barry Bostwick"
+   ],
+   "country": "United Kingdom, United States",
    "description": "\"Rocky Horror Picture Show\" é um pesadelo erótico muito além de qualquer medida. Saudação macabra de Richard O Brien ao horror, à ficção cientifica, aos filmes de segunda categoria e ao rock, estrelando Tim Curry (em sua clássica interpretação de um transexual), Barry Bostwick e a vencedora do Oscar, Susan Sarandon.",
-   "releaseInfo": "1975",
+   "director": [
+    "Jim Sharman"
+   ],
+   "dvdRelease": "2015-11-25T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Horror",
+    "Musical"
+   ],
+   "imdbRating": "7.4",
+   "name": "The Rocky Horror Picture Show",
+   "released": "1975-09-29T00:00:00.000Z",
+   "runtime": "100 min",
+   "trailers": [
+    {
+     "source": "LnYBwampG8U",
+     "type": "Trailer"
+    },
+    {
+     "source": "ldo_spDyLKc",
+     "type": "Trailer"
+    },
+    {
+     "source": "4plqh6obZW4",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Richard O'Brien",
+    "Jim Sharman"
+   ],
+   "year": "1975",
+   "background": "https://images.metahub.space/background/medium/tt0073629/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0073629/img",
+   "id": "tt0073629",
    "genres": [
     "Comédia",
     "Ficção científica",
     "Terror"
-   ]
+   ],
+   "releaseInfo": "1975",
+   "trailerStreams": [
+    {
+     "title": "The Rocky Horror Picture Show",
+     "ytId": "LnYBwampG8U"
+    },
+    {
+     "title": "The Rocky Horror Picture Show",
+     "ytId": "ldo_spDyLKc"
+    },
+    {
+     "title": "The Rocky Horror Picture Show",
+     "ytId": "4plqh6obZW4"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0073629"
+    },
+    {
+     "name": "The Rocky Horror Picture Show",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-rocky-horror-picture-show-0073629"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Musical",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Musical"
+    },
+    {
+     "name": "Tim Curry",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Curry"
+    },
+    {
+     "name": "Susan Sarandon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Susan%20Sarandon"
+    },
+    {
+     "name": "Barry Bostwick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Barry%20Bostwick"
+    },
+    {
+     "name": "Richard O'Brien",
+     "category": "Writers",
+     "url": "stremio:///search?search=Richard%20O'Brien"
+    },
+    {
+     "name": "Jim Sharman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jim%20Sharman"
+    },
+    {
+     "name": "Jim Sharman",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jim%20Sharman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0073629",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0073629.jpg"
   },
   {
-   "id": "tt0107688",
-   "type": "movie",
-   "name": "The Nightmare Before Christmas",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0107688.jpg",
+   "awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
+   "cast": [
+    "Danny Elfman",
+    "Chris Sarandon",
+    "Catherine O'Hara"
+   ],
+   "country": "United States",
    "description": "Jack Skellington é o Rei das Abóboras na cidade de Halloween, mas está entediado após anos a repetir sempre as mesmas coisas na Noite das Bruxas. Certo dia, por acaso, descobre a cidade do Natal e fica tão impressionado que decide trazer o espírito natalício para as festas do Halloween.",
-   "releaseInfo": "1993",
+   "director": [
+    "Henry Selick"
+   ],
+   "dvdRelease": "2014-01-01T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "imdbRating": "7.9",
+   "name": "The Nightmare Before Christmas",
+   "released": "1993-10-29T00:00:00.000Z",
+   "runtime": "76 min",
+   "trailers": [
+    {
+     "source": "IoYahD_xNR0",
+     "type": "Trailer"
+    },
+    {
+     "source": "lVtetOjX_vk",
+     "type": "Trailer"
+    },
+    {
+     "source": "U2BbPck-P3A",
+     "type": "Trailer"
+    },
+    {
+     "source": "jv8lGa_ZXao",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Caroline Thompson",
+    "Michael McDowell",
+    "Tim Burton"
+   ],
+   "year": "1993",
+   "background": "https://images.metahub.space/background/medium/tt0107688/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
+   "id": "tt0107688",
    "genres": [
     "Fantasia",
     "Animação",
     "Família"
-   ]
+   ],
+   "releaseInfo": "1993",
+   "trailerStreams": [
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "IoYahD_xNR0"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "lVtetOjX_vk"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "U2BbPck-P3A"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "jv8lGa_ZXao"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0107688"
+    },
+    {
+     "name": "The Nightmare Before Christmas",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-nightmare-before-christmas-0107688"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Danny Elfman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Elfman"
+    },
+    {
+     "name": "Chris Sarandon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Sarandon"
+    },
+    {
+     "name": "Catherine O'Hara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20O'Hara"
+    },
+    {
+     "name": "Caroline Thompson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Caroline%20Thompson"
+    },
+    {
+     "name": "Michael McDowell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20McDowell"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Burton"
+    },
+    {
+     "name": "Henry Selick",
+     "category": "Directors",
+     "url": "stremio:///search?search=Henry%20Selick"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0107688",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0107688.jpg"
   }
  ]
 }

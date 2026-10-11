@@ -1,138 +1,1139 @@
 {
  "metas": [
   {
-   "id": "tt31049299",
-   "type": "movie",
    "name": "Animals",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg",
+   "cast": [
+    "Gillian Anderson",
+    "Ben Affleck",
+    "Steven Yeun"
+   ],
+   "country": "United States",
    "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
-   "releaseInfo": "2026",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Connor O. McIntyre",
+    "Billy Ray",
+    "Ben Affleck"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "ZkN2M4ODdys",
+     "type": "Trailer"
+    },
+    {
+     "source": "mlBfQJ8oxB0",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
+   "background": "https://images.metahub.space/background/medium/tt31049299/img",
+   "id": "tt31049299",
    "genres": [
     "Thriller",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Animals",
+     "ytId": "ZkN2M4ODdys"
+    },
+    {
+     "title": "Animals",
+     "ytId": "mlBfQJ8oxB0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Animals",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/animals-31049299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gillian Anderson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gillian%20Anderson"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Steven Yeun",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steven%20Yeun"
+    },
+    {
+     "name": "Connor O. McIntyre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
+    },
+    {
+     "name": "Billy Ray",
+     "category": "Writers",
+     "url": "stremio:///search?search=Billy%20Ray"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31049299",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "id": "tt22048412",
-   "type": "movie",
    "name": "MaXXXine",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22048412.jpg",
+   "awards": "8 nominations total",
+   "cast": [
+    "Charley Rowan McCain",
+    "Simon Prast",
+    "Mia Goth"
+   ],
+   "country": "United States, United Kingdom, New Zealand",
    "description": "Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve a sua grande chance. Mas há um misterioso assassino que persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.",
-   "releaseInfo": "2024",
+   "director": [
+    "Ti West"
+   ],
+   "genre": [
+    "Crime",
+    "Horror"
+   ],
+   "imdbRating": "6.2",
+   "released": "2024-07-05T00:00:00.000Z",
+   "writer": [
+    "Ti West"
+   ],
+   "year": "2024",
+   "trailers": [
+    {
+     "source": "qGxKjwAnn5I",
+     "type": "Trailer"
+    },
+    {
+     "source": "adax3nfU6HU",
+     "type": "Trailer"
+    },
+    {
+     "source": "zzw__YmU8f0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt22048412/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22048412/img",
+   "runtime": "103 min",
+   "id": "tt22048412",
    "genres": [
     "Terror"
-   ]
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "MaXXXine",
+     "ytId": "qGxKjwAnn5I"
+    },
+    {
+     "title": "MaXXXine",
+     "ytId": "adax3nfU6HU"
+    },
+    {
+     "title": "MaXXXine",
+     "ytId": "zzw__YmU8f0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt22048412"
+    },
+    {
+     "name": "MaXXXine",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/maxxxine-22048412"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Charley Rowan McCain",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charley%20Rowan%20McCain"
+    },
+    {
+     "name": "Simon Prast",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simon%20Prast"
+    },
+    {
+     "name": "Mia Goth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mia%20Goth"
+    },
+    {
+     "name": "Ti West",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ti%20West"
+    },
+    {
+     "name": "Ti West",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ti%20West"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt22048412",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22048412.jpg"
   },
   {
-   "id": "tt8367814",
-   "type": "movie",
-   "name": "The Gentlemen",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg",
+   "cast": [
+    "Matthew McConaughey",
+    "Charlie Hunnam",
+    "Michelle Dockery"
+   ],
+   "country": "United States, United Kingdom",
    "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
-   "releaseInfo": "2020",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "7.8",
+   "name": "The Gentlemen",
+   "released": "2020-01-24T00:00:00.000Z",
+   "writer": [
+    "Guy Ritchie",
+    "Ivan Atkinson",
+    "Marn Davies"
+   ],
+   "year": "2020",
+   "trailers": [
+    {
+     "source": "KlXsguV9g0E",
+     "type": "Trailer"
+    },
+    {
+     "source": "2B0RpUGss2c",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8367814/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
+   "runtime": "113 min",
+   "awards": "1 win & 4 nominations total",
+   "dvdRelease": "2020-03-24T00:00:00.000Z",
+   "id": "tt8367814",
    "genres": [
     "Ação",
     "Comédia",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "The Gentlemen",
+     "ytId": "KlXsguV9g0E"
+    },
+    {
+     "title": "The Gentlemen",
+     "ytId": "2B0RpUGss2c"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8367814"
+    },
+    {
+     "name": "The Gentlemen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Matthew McConaughey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20McConaughey"
+    },
+    {
+     "name": "Charlie Hunnam",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charlie%20Hunnam"
+    },
+    {
+     "name": "Michelle Dockery",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Dockery"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    },
+    {
+     "name": "Ivan Atkinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ivan%20Atkinson"
+    },
+    {
+     "name": "Marn Davies",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marn%20Davies"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guy%20Ritchie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8367814",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
   },
   {
-   "id": "tt32261958",
-   "type": "movie",
    "name": "Verity",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg",
+   "cast": [
+    "Anne Hathaway",
+    "Dakota Johnson",
+    "Josh Hartnett"
+   ],
+   "country": "United States",
    "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
-   "releaseInfo": "2026",
+   "director": [
+    "Michael Showalter"
+   ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "",
+   "released": "2026-10-02T00:00:00.000Z",
+   "writer": [
+    "Nick Antosca",
+    "Colleen Hoover",
+    "Will Honley"
+   ],
+   "year": "2026",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "xdPMKhjMSFs",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32261958/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
+   "id": "tt32261958",
    "genres": [
     "Mistério",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Verity",
+     "ytId": "xdPMKhjMSFs"
+    }
+   ],
+   "links": [
+    {
+     "name": "Verity",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/verity-32261958"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Anne Hathaway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anne%20Hathaway"
+    },
+    {
+     "name": "Dakota Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dakota%20Johnson"
+    },
+    {
+     "name": "Josh Hartnett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hartnett"
+    },
+    {
+     "name": "Nick Antosca",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nick%20Antosca"
+    },
+    {
+     "name": "Colleen Hoover",
+     "category": "Writers",
+     "url": "stremio:///search?search=Colleen%20Hoover"
+    },
+    {
+     "name": "Will Honley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Will%20Honley"
+    },
+    {
+     "name": "Michael Showalter",
+     "category": "Directors",
+     "url": "stremio:///search?search=Michael%20Showalter"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32261958",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
-   "id": "tt11561116",
-   "type": "movie",
    "name": "The Whisper Man",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11561116.jpg",
+   "cast": [
+    "Robert De Niro",
+    "Michelle Monaghan",
+    "Adam Scott"
+   ],
+   "country": "United States",
    "description": "Quando o seu filho pequeno desaparece, um viúvo volta a aproximar-se do pai, um detetive reformado que prendeu o assassino em série ligado ao caso.",
-   "releaseInfo": "2026",
+   "director": [
+    "James Ashcroft"
+   ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "",
+   "released": null,
+   "writer": [
+    "Ben Jacoby",
+    "Alex North",
+    "Chase Palmer"
+   ],
+   "year": "2026",
+   "runtime": "111 min",
+   "trailers": [
+    {
+     "source": "ZHRR-1CKYIQ",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt11561116/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11561116/img",
+   "id": "tt11561116",
    "genres": [
     "Crime",
     "Drama",
     "Thriller"
-   ]
-  },
-  {
-   "id": "tt6933238",
-   "type": "movie",
-   "name": "Unabomber",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg",
-   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
+   ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Whisper Man",
+     "ytId": "ZHRR-1CKYIQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Whisper Man",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-whisper-man-11561116"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Robert De Niro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20De%20Niro"
+    },
+    {
+     "name": "Michelle Monaghan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Monaghan"
+    },
+    {
+     "name": "Adam Scott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adam%20Scott"
+    },
+    {
+     "name": "Ben Jacoby",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Jacoby"
+    },
+    {
+     "name": "Alex North",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20North"
+    },
+    {
+     "name": "Chase Palmer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chase%20Palmer"
+    },
+    {
+     "name": "James Ashcroft",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20Ashcroft"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11561116",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11561116.jpg"
+  },
+  {
+   "cast": [
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Jacob Tremblay"
+   ],
+   "country": "United States",
+   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
+   "director": [
+    "Janus Metz"
+   ],
+   "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.2",
+   "name": "Unabomber",
+   "released": "2026-09-25T00:00:00.000Z",
+   "writer": [
+    "Sam Chalsen",
+    "Nelson Greaves"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt6933238/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
+   "runtime": "101 min",
+   "trailers": [
+    {
+     "source": "B3tR6qQjbgI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt6933238",
    "genres": [
     "Thriller",
     "Drama",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Unabomber",
+     "ytId": "B3tR6qQjbgI"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6933238"
+    },
+    {
+     "name": "Unabomber",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/unabomber-6933238"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Russell Crowe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Russell%20Crowe"
+    },
+    {
+     "name": "Shailene Woodley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shailene%20Woodley"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jacob%20Tremblay"
+    },
+    {
+     "name": "Sam Chalsen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sam%20Chalsen"
+    },
+    {
+     "name": "Nelson Greaves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nelson%20Greaves"
+    },
+    {
+     "name": "Janus Metz",
+     "category": "Directors",
+     "url": "stremio:///search?search=Janus%20Metz"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6933238",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
   },
   {
-   "id": "tt27847051",
-   "type": "movie",
-   "name": "The Secret Agent",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27847051.jpg",
-   "description": "Em 1977, em Recife, Marcelo, um especialista em tecnologia com cerca de quarenta anos, regressa no meio do Carnaval para se reunir com o seu filho e planear uma fuga perigosa sob os olhos sempre vigilantes do regime militar repressivo do Brasil.",
-   "releaseInfo": "2025",
+   "name": "Hustlers",
+   "cast": [
+    "Constance Wu",
+    "Jennifer Lopez",
+    "Julia Stiles"
+   ],
+   "country": "United States",
+   "description": "Inspirado no artigo viral da revista New York Magazine, «Hustlers» acompanha um grupo de ex-funcionárias experientes de um clube de striptease que se unem para virar o jogo contra os seus clientes de Wall Street.",
+   "director": [
+    "Lorene Scafaria"
+   ],
+   "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.3",
+   "released": "2019-09-13T00:00:00.000Z",
+   "writer": [
+    "Lorene Scafaria",
+    "Jessica Pressler"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "_e67tHHEk5w",
+     "type": "Trailer"
+    },
+    {
+     "source": "P_dfc0iqmig",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "110 min",
+   "dvdRelease": "2019-09-13T00:00:00.000Z",
+   "awards": "25 wins & 79 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt5503686/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5503686/img",
+   "id": "tt5503686",
    "genres": [
-    "Thriller",
     "Drama",
+    "Comédia",
     "Crime"
-   ]
-  },
-  {
-   "id": "tt8488126",
-   "type": "movie",
-   "name": "The Inventor: Out for Blood in Silicon Valley",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg",
-   "description": "The story of Theranos, a multi-billion dollar tech company, its founder Elizabeth Holmes, the youngest self-made female billionaire, and the massive fraud that collapsed the company.",
+   ],
    "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Hustlers",
+     "ytId": "_e67tHHEk5w"
+    },
+    {
+     "title": "Hustlers",
+     "ytId": "P_dfc0iqmig"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5503686"
+    },
+    {
+     "name": "Hustlers",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/hustlers-5503686"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Constance Wu",
+     "category": "Cast",
+     "url": "stremio:///search?search=Constance%20Wu"
+    },
+    {
+     "name": "Jennifer Lopez",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Lopez"
+    },
+    {
+     "name": "Julia Stiles",
+     "category": "Cast",
+     "url": "stremio:///search?search=Julia%20Stiles"
+    },
+    {
+     "name": "Lorene Scafaria",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lorene%20Scafaria"
+    },
+    {
+     "name": "Jessica Pressler",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jessica%20Pressler"
+    },
+    {
+     "name": "Lorene Scafaria",
+     "category": "Directors",
+     "url": "stremio:///search?search=Lorene%20Scafaria"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt5503686",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5503686.jpg"
+  },
+  {
+   "name": "The Secret Agent",
+   "cast": [
+    "Robson Andrade",
+    "Rubens Santos",
+    "Licínio Januário"
+   ],
+   "country": "Brazil, France, Mexico, Germany, Netherlands",
+   "description": "Em 1977, em Recife, Marcelo, um especialista em tecnologia com cerca de quarenta anos, regressa no meio do Carnaval para se reunir com o seu filho e planear uma fuga perigosa sob os olhos sempre vigilantes do regime militar repressivo do Brasil.",
+   "director": [
+    "Kleber Mendonça Filho"
+   ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.2",
+   "released": "2025-11-06T00:00:00.000Z",
+   "writer": [
+    "Kleber Mendonça Filho"
+   ],
+   "year": "2025",
+   "runtime": "161 min",
+   "background": "https://images.metahub.space/background/medium/tt27847051/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27847051/img",
+   "trailers": [
+    {
+     "source": "9UfrzDKrhEc",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 4 Oscars. 108 wins & 173 nominations total",
+   "id": "tt27847051",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Secret Agent",
+     "ytId": "9UfrzDKrhEc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27847051"
+    },
+    {
+     "name": "The Secret Agent",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-secret-agent-27847051"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Robson Andrade",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robson%20Andrade"
+    },
+    {
+     "name": "Rubens Santos",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rubens%20Santos"
+    },
+    {
+     "name": "Licínio Januário",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lic%C3%ADnio%20Janu%C3%A1rio"
+    },
+    {
+     "name": "Kleber Mendonça Filho",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kleber%20Mendon%C3%A7a%20Filho"
+    },
+    {
+     "name": "Kleber Mendonça Filho",
+     "category": "Directors",
+     "url": "stremio:///search?search=Kleber%20Mendon%C3%A7a%20Filho"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt27847051",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27847051.jpg"
+  },
+  {
+   "country": "United States",
+   "description": "The story of Theranos, a multi-billion dollar tech company, its founder Elizabeth Holmes, the youngest self-made female billionaire, and the massive fraud that collapsed the company.",
+   "director": [
+    "Alex Gibney"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Inventor: Out for Blood in Silicon Valley",
+   "released": "2019-03-18T00:00:00.000Z",
+   "writer": [
+    "Alex Gibney"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "wtDaP18OGfw",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Alex Gibney",
+    "Elizabeth Holmes",
+    "Dan Ariely"
+   ],
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8488126/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
+   "runtime": "119 min",
+   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 3 nominations total",
+   "dvdRelease": "2019-11-18T00:00:00.000Z",
+   "id": "tt8488126",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Inventor: Out for Blood in Silicon Valley",
+     "ytId": "wtDaP18OGfw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8488126"
+    },
+    {
+     "name": "The Inventor: Out for Blood in Silicon Valley",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-inventor-out-for-blood-in-silicon-valley-8488126"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Elizabeth Holmes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elizabeth%20Holmes"
+    },
+    {
+     "name": "Dan Ariely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Ariely"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8488126",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
   },
   {
-   "id": "tt0086200",
-   "type": "movie",
-   "name": "Risky Business",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0086200.jpg",
+   "awards": "3 nominations total",
+   "cast": [
+    "Tom Cruise",
+    "Rebecca De Mornay",
+    "Joe Pantoliano"
+   ],
+   "country": "United States",
    "description": "Os pais de um adolescente dos subúrbios de Chicago partem de férias e ele aproveita para se divertir à grande. Uma viagem não autorizada no Porsche do pai faz com que precise, de repente, de muito dinheiro, que consegue angariar de uma forma criativa.",
-   "releaseInfo": "1983",
+   "director": [
+    "Paul Brickman"
+   ],
+   "dvdRelease": "2008-09-01T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.8",
+   "name": "Risky Business",
+   "released": "1983-08-05T00:00:00.000Z",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "zPZafey1fyk",
+     "type": "Trailer"
+    },
+    {
+     "source": "YSqlyrKilgo",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Paul Brickman"
+   ],
+   "year": "1983",
+   "background": "https://images.metahub.space/background/medium/tt0086200/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0086200/img",
+   "id": "tt0086200",
    "genres": [
     "Romance",
     "Comédia",
     "Drama"
-   ]
-  },
-  {
-   "id": "tt5503686",
+   ],
+   "releaseInfo": "1983",
+   "trailerStreams": [
+    {
+     "title": "Risky Business",
+     "ytId": "zPZafey1fyk"
+    },
+    {
+     "title": "Risky Business",
+     "ytId": "YSqlyrKilgo"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0086200"
+    },
+    {
+     "name": "Risky Business",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/risky-business-0086200"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Tom Cruise",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Cruise"
+    },
+    {
+     "name": "Rebecca De Mornay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20De%20Mornay"
+    },
+    {
+     "name": "Joe Pantoliano",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joe%20Pantoliano"
+    },
+    {
+     "name": "Paul Brickman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20Brickman"
+    },
+    {
+     "name": "Paul Brickman",
+     "category": "Directors",
+     "url": "stremio:///search?search=Paul%20Brickman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0086200",
+    "hasScheduledVideos": false
+   },
    "type": "movie",
-   "name": "Hustlers",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5503686.jpg",
-   "description": "Inspirado no artigo viral da revista New York Magazine, «Hustlers» acompanha um grupo de ex-funcionárias experientes de um clube de striptease que se unem para virar o jogo contra os seus clientes de Wall Street.",
-   "releaseInfo": "2019",
-   "genres": [
-    "Drama",
-    "Comédia",
-    "Crime"
-   ]
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0086200.jpg"
   }
  ]
 }

@@ -1,141 +1,1241 @@
 {
  "metas": [
   {
-   "id": "tt22084616",
-   "type": "movie",
    "name": "Spider-Man: Brand New Day",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22084616.jpg",
+   "cast": [
+    "Tom Holland",
+    "Zendaya",
+    "Mark Ruffalo"
+   ],
+   "country": "United States, Canada, United Kingdom, Germany",
    "description": "Passaram-se quatro anos desde os acontecimentos de «Sem Volta a Casa», e Peter é agora um adulto que vive totalmente sozinho, tendo-se apagado voluntariamente da vida e das memórias daqueles que ama. A combater o crime numa Nova Iorque que já não conhece o seu nome, dedicou-se inteiramente a proteger a sua cidade — um Homem-Aranha a tempo inteiro — mas, à medida que as exigências sobre ele se intensificam, a pressão desencadeia uma surpreendente evolução física que ameaça a sua existência, mesmo quando um novo e estranho padrão de crimes dá origem a uma das ameaças mais poderosas que alguma vez enfrentou.",
-   "releaseInfo": "2026",
+   "director": [
+    "Destin Daniel Cretton"
+   ],
+   "genre": [
+    "Action",
+    "Adventure"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-07-31T00:00:00.000Z",
+   "writer": [
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt22084616/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22084616/img",
+   "trailers": [
+    {
+     "source": "P3uI5sLosKU",
+     "type": "Trailer"
+    },
+    {
+     "source": "62bIsvRcPv0",
+     "type": "Trailer"
+    },
+    {
+     "source": "8TZMtslA3UY",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "145 min",
+   "awards": "1 nomination total",
+   "id": "tt22084616",
    "genres": [
     "Ficção científica",
     "Ação",
     "Aventura"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Spider-Man: Brand New Day",
+     "ytId": "P3uI5sLosKU"
+    },
+    {
+     "title": "Spider-Man: Brand New Day",
+     "ytId": "62bIsvRcPv0"
+    },
+    {
+     "title": "Spider-Man: Brand New Day",
+     "ytId": "8TZMtslA3UY"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt22084616"
+    },
+    {
+     "name": "Spider-Man: Brand New Day",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spider-man-brand-new-day-22084616"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Mark Ruffalo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mark%20Ruffalo"
+    },
+    {
+     "name": "Chris McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20McKenna"
+    },
+    {
+     "name": "Erik Sommers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erik%20Sommers"
+    },
+    {
+     "name": "Stan Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Lee"
+    },
+    {
+     "name": "Destin Daniel Cretton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Destin%20Daniel%20Cretton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt22084616",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22084616.jpg"
   },
   {
-   "id": "tt0463854",
-   "type": "movie",
-   "name": "28 Weeks Later",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0463854.jpg",
+   "awards": "3 wins & 16 nominations total",
+   "cast": [
+    "Jeremy Renner",
+    "Rose Byrne",
+    "Robert Carlyle"
+   ],
+   "country": "United Kingdom, Spain",
    "description": "Passaram 28 semanas desde os incidentes que causaram o caos em toda a Grã-Bretanha - um vírus infectou a sua população, transformando-os em criaturas moribundas e esfomeadas por carne humana, conhecidos por os infectados. A NATO, liderada pelos EUA, fez de tudo para extinguir o vírus e encarrega-se em repovoar o país. Mas este vê-se agora ameaçado por uma suposta infecção de uma mutação mais resistente do vírus dentro da área de reabilitação.",
-   "releaseInfo": "2007",
+   "director": [
+    "Juan Carlos Fresnadillo"
+   ],
+   "dvdRelease": "2015-11-19T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Sci-Fi"
+   ],
+   "imdbRating": "6.8",
+   "name": "28 Weeks Later",
+   "released": "2007-05-11T00:00:00.000Z",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "gPOt4mAEfBE",
+     "type": "Trailer"
+    },
+    {
+     "source": "cH-9OTWwjxM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Rowan Joffe",
+    "Juan Carlos Fresnadillo",
+    "Enrique López Lavigne"
+   ],
+   "year": "2007",
+   "background": "https://images.metahub.space/background/medium/tt0463854/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0463854/img",
+   "id": "tt0463854",
    "genres": [
     "Terror",
     "Thriller",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2007",
+   "trailerStreams": [
+    {
+     "title": "28 Weeks Later",
+     "ytId": "gPOt4mAEfBE"
+    },
+    {
+     "title": "28 Weeks Later",
+     "ytId": "cH-9OTWwjxM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0463854"
+    },
+    {
+     "name": "28 Weeks Later",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/28-weeks-later-0463854"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Jeremy Renner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Renner"
+    },
+    {
+     "name": "Rose Byrne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rose%20Byrne"
+    },
+    {
+     "name": "Robert Carlyle",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Carlyle"
+    },
+    {
+     "name": "Rowan Joffe",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rowan%20Joffe"
+    },
+    {
+     "name": "Juan Carlos Fresnadillo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Juan%20Carlos%20Fresnadillo"
+    },
+    {
+     "name": "Enrique López Lavigne",
+     "category": "Writers",
+     "url": "stremio:///search?search=Enrique%20L%C3%B3pez%20Lavigne"
+    },
+    {
+     "name": "Juan Carlos Fresnadillo",
+     "category": "Directors",
+     "url": "stremio:///search?search=Juan%20Carlos%20Fresnadillo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0463854",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0463854.jpg"
   },
   {
-   "id": "tt12042730",
-   "type": "movie",
    "name": "Project Hail Mary",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz"
+   ],
+   "country": "United States",
    "description": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão.",
-   "releaseInfo": "2026",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.2",
+   "released": "2026-03-20T00:00:00.000Z",
+   "writer": [
+    "Drew Goddard",
+    "Andy Weir"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "NKYea63tQmI",
+     "type": "Trailer"
+    },
+    {
+     "source": "P0XN3-n-2Lo",
+     "type": "Trailer"
+    },
+    {
+     "source": "tvd7UUHzdhA",
+     "type": "Trailer"
+    },
+    {
+     "source": "5VYsnngkS_U",
+     "type": "Trailer"
+    },
+    {
+     "source": "m08TxIsFTRI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12042730/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
+   "runtime": "157 min",
+   "awards": "10 wins & 10 nominations total",
+   "id": "tt12042730",
    "genres": [
     "Ficção científica",
     "Aventura"
-   ]
-  },
-  {
-   "id": "tt0289879",
-   "type": "movie",
-   "name": "The Butterfly Effect",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0289879.jpg",
-   "description": "Um jovem em luta com memórias perturbadoras da sua infância, descobre que é capaz de viajar no tempo e alterar acontecimentos no seu passado. Contudo, cada mudança que ele opera transforma a sua vida e a de todos os que o rodeiam, a maior parte das vezes com inesperadas e desastrosas consequências.",
-   "releaseInfo": "2004",
-   "genres": [
-    "Ficção científica",
-    "Thriller"
-   ]
-  },
-  {
-   "id": "tt0289043",
-   "type": "movie",
-   "name": "28 Days Later",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0289043.jpg",
-   "description": "Um vírus poderoso é solto. Transmissível numa gota de sangue e devastador em seguida, o vírus prende os infectados a um estado de fúria assassina. No espaço de 28 dias o país está dominado por completo e um punhado de sobreviventes inicia uma tentativa de salvarem o futuro, mal sabendo que o mortal vírus não é a única coisa que os ameaça.",
-   "releaseInfo": "2002",
-   "genres": [
-    "Terror",
-    "Thriller",
-    "Ficção científica"
-   ]
-  },
-  {
-   "id": "tt1951264",
-   "type": "movie",
-   "name": "The Hunger Games: Catching Fire",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951264.jpg",
-   "description": "Alguns meses após a 74.ª edição dos Jogos da Fome, que sagrou Katniss Everdeen e Peeta Mellark como vencedores, os jovens são obrigados a deixar família e amigos e percorrer os 12 Distritos, marcando presença em eventos oficiais. Nessas visitas, a jovem Katniss apercebe-se de um sentimento de revolta que lhe alimenta a esperança numa rebelião coletiva. Porém, o Capitólio está ainda sob o controlo do terrível Presidente Snow que, ao perceber o perigo que cada um dos vencedores representa enquanto símbolo de força e liberdade, decide preparar um novo evento: uma edição especial dos jogos, nos quais os vencedores dos anos anteriores terão de digladiar-se entre si, até à morte. Assim, percebendo que o objetivo do Governo é eliminá-los a todos, eles sabem que lhes resta uma última oportunidade de encontrar um meio de organizar uma revolta contra o poder instituído e, dessa forma, reconstruir uma sociedade justa em Panen.",
-   "releaseInfo": "2013",
-   "genres": [
-    "Aventura",
-    "Ação",
-    "Ficção científica"
-   ]
-  },
-  {
-   "id": "tt2184339",
-   "type": "movie",
-   "name": "The Purge",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2184339.jpg",
-   "description": "Se pudesse cometer qualquer crime sem consequências, o que faria? Numa América do futuro, o governo autoriza um período de 12 horas anualmente, durante o qual toda a atividade criminosa, incluindo assassinato, se torna legal: a purga. Quando um intruso invade o condomínio fechado de James Sandin, dá início a uma sequência de eventos que ameaça destruir a sua família. Agora, cabe a James, à sua mulher, Mary, e aos seus filhos sobreviverem à noite sem se transformarem nos monstros dos quais se escondem.",
-   "releaseInfo": "2013",
-   "genres": [
-    "Ficção científica",
-    "Terror",
-    "Thriller"
-   ]
-  },
-  {
-   "id": "tt15047880",
-   "type": "movie",
-   "name": "Disclosure Day",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15047880.jpg",
-   "description": "Se descobrisses que não estamos sozinhos, se alguém te mostrasse isso, te provasse, isso assustar-te-ia?",
+   ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Project Hail Mary",
+     "ytId": "NKYea63tQmI"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "P0XN3-n-2Lo"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "tvd7UUHzdhA"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "5VYsnngkS_U"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "m08TxIsFTRI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12042730"
+    },
+    {
+     "name": "Project Hail Mary",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/project-hail-mary-12042730"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Ryan Gosling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Gosling"
+    },
+    {
+     "name": "Sandra Hüller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+    },
+    {
+     "name": "James Ortiz",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Ortiz"
+    },
+    {
+     "name": "Drew Goddard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Drew%20Goddard"
+    },
+    {
+     "name": "Andy Weir",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andy%20Weir"
+    },
+    {
+     "name": "Phil Lord",
+     "category": "Directors",
+     "url": "stremio:///search?search=Phil%20Lord"
+    },
+    {
+     "name": "Christopher Miller",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christopher%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt12042730",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
+  },
+  {
+   "awards": "1 win & 8 nominations total",
+   "cast": [
+    "Ashton Kutcher",
+    "Amy Smart",
+    "Melora Walters"
+   ],
+   "country": "United States, Canada",
+   "description": "Um jovem em luta com memórias perturbadoras da sua infância, descobre que é capaz de viajar no tempo e alterar acontecimentos no seu passado. Contudo, cada mudança que ele opera transforma a sua vida e a de todos os que o rodeiam, a maior parte das vezes com inesperadas e desastrosas consequências.",
+   "director": [
+    "Eric Bress",
+    "J. Mackye Gruber"
+   ],
+   "dvdRelease": "2008-07-01T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "name": "The Butterfly Effect",
+   "released": "2004-01-23T00:00:00.000Z",
+   "runtime": "113 min",
+   "trailers": [
+    {
+     "source": "KctopagSGJE",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "J. Mackye Gruber",
+    "Eric Bress"
+   ],
+   "year": "2004",
+   "background": "https://images.metahub.space/background/medium/tt0289879/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0289879/img",
+   "id": "tt0289879",
    "genres": [
     "Ficção científica",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [
+    {
+     "title": "The Butterfly Effect",
+     "ytId": "KctopagSGJE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0289879"
+    },
+    {
+     "name": "The Butterfly Effect",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-butterfly-effect-0289879"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ashton Kutcher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ashton%20Kutcher"
+    },
+    {
+     "name": "Amy Smart",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amy%20Smart"
+    },
+    {
+     "name": "Melora Walters",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melora%20Walters"
+    },
+    {
+     "name": "J. Mackye Gruber",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.%20Mackye%20Gruber"
+    },
+    {
+     "name": "Eric Bress",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eric%20Bress"
+    },
+    {
+     "name": "Eric Bress",
+     "category": "Directors",
+     "url": "stremio:///search?search=Eric%20Bress"
+    },
+    {
+     "name": "J. Mackye Gruber",
+     "category": "Directors",
+     "url": "stremio:///search?search=J.%20Mackye%20Gruber"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0289879",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0289879.jpg"
   },
   {
-   "id": "tt6320628",
-   "type": "movie",
-   "name": "Spider-Man: Far from Home",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg",
-   "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
-   "releaseInfo": "2019",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Ficção científica"
-   ]
-  },
-  {
-   "id": "tt10548174",
-   "type": "movie",
-   "name": "28 Years Later",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10548174.jpg",
-   "description": "Quase três décadas após um vírus mortal escapar de um laboratório de armas biológicas, o mundo permanece sob uma quarentena rígida. Apesar das adversidades, um grupo de sobreviventes encontrou refúgio numa ilha isolada, ligada ao continente por uma única passagem altamente protegida. Quando um dos membros parte em busca de respostas numa missão arriscada, é confrontado com segredos e horrores que moldaram não só os infetados, mas também os poucos humanos que sobreviveram.",
-   "releaseInfo": "2025",
+   "awards": "10 wins & 32 nominations total",
+   "cast": [
+    "Cillian Murphy",
+    "Naomie Harris",
+    "Christopher Eccleston"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Um vírus poderoso é solto. Transmissível numa gota de sangue e devastador em seguida, o vírus prende os infectados a um estado de fúria assassina. No espaço de 28 dias o país está dominado por completo e um punhado de sobreviventes inicia uma tentativa de salvarem o futuro, mal sabendo que o mortal vírus não é a única coisa que os ameaça.",
+   "director": [
+    "Danny Boyle"
+   ],
+   "dvdRelease": "2014-05-10T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "imdbRating": "7.5",
+   "name": "28 Days Later",
+   "released": "2003-06-27T00:00:00.000Z",
+   "runtime": "113 min",
+   "trailers": [
+    {
+     "source": "mWEhfF27O0c",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Alex Garland"
+   ],
+   "year": "2002",
+   "background": "https://images.metahub.space/background/medium/tt0289043/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0289043/img",
+   "id": "tt0289043",
    "genres": [
     "Terror",
     "Thriller",
     "Ficção científica"
-   ]
+   ],
+   "releaseInfo": "2002",
+   "trailerStreams": [
+    {
+     "title": "28 Days Later",
+     "ytId": "mWEhfF27O0c"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0289043"
+    },
+    {
+     "name": "28 Days Later",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/28-days-later-0289043"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Cillian Murphy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cillian%20Murphy"
+    },
+    {
+     "name": "Naomie Harris",
+     "category": "Cast",
+     "url": "stremio:///search?search=Naomie%20Harris"
+    },
+    {
+     "name": "Christopher Eccleston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Eccleston"
+    },
+    {
+     "name": "Alex Garland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Danny Boyle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Danny%20Boyle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0289043",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0289043.jpg"
+  },
+  {
+   "awards": "22 wins & 68 nominations total",
+   "cast": [
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Liam Hemsworth"
+   ],
+   "country": "United States",
+   "description": "Alguns meses após a 74.ª edição dos Jogos da Fome, que sagrou Katniss Everdeen e Peeta Mellark como vencedores, os jovens são obrigados a deixar família e amigos e percorrer os 12 Distritos, marcando presença em eventos oficiais. Nessas visitas, a jovem Katniss apercebe-se de um sentimento de revolta que lhe alimenta a esperança numa rebelião coletiva. Porém, o Capitólio está ainda sob o controlo do terrível Presidente Snow que, ao perceber o perigo que cada um dos vencedores representa enquanto símbolo de força e liberdade, decide preparar um novo evento: uma edição especial dos jogos, nos quais os vencedores dos anos anteriores terão de digladiar-se entre si, até à morte. Assim, percebendo que o objetivo do Governo é eliminá-los a todos, eles sabem que lhes resta uma última oportunidade de encontrar um meio de organizar uma revolta contra o poder instituído e, dessa forma, reconstruir uma sociedade justa em Panen.",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "dvdRelease": "2016-08-26T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "imdbRating": "7.5",
+   "name": "The Hunger Games: Catching Fire",
+   "released": "2013-11-22T00:00:00.000Z",
+   "runtime": "146 min",
+   "trailers": [
+    {
+     "source": "zoKj7TdJk98",
+     "type": "Trailer"
+    },
+    {
+     "source": "MkvUNfySGQU",
+     "type": "Trailer"
+    },
+    {
+     "source": "jyPnQw_Lqds",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Simon Beaufoy",
+    "Michael Arndt",
+    "Suzanne Collins"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt1951264/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1951264/img",
+   "id": "tt1951264",
+   "genres": [
+    "Aventura",
+    "Ação",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "The Hunger Games: Catching Fire",
+     "ytId": "zoKj7TdJk98"
+    },
+    {
+     "title": "The Hunger Games: Catching Fire",
+     "ytId": "MkvUNfySGQU"
+    },
+    {
+     "title": "The Hunger Games: Catching Fire",
+     "ytId": "jyPnQw_Lqds"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1951264"
+    },
+    {
+     "name": "The Hunger Games: Catching Fire",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-hunger-games-catching-fire-1951264"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Jennifer Lawrence",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Lawrence"
+    },
+    {
+     "name": "Josh Hutcherson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hutcherson"
+    },
+    {
+     "name": "Liam Hemsworth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Hemsworth"
+    },
+    {
+     "name": "Simon Beaufoy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Simon%20Beaufoy"
+    },
+    {
+     "name": "Michael Arndt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Arndt"
+    },
+    {
+     "name": "Suzanne Collins",
+     "category": "Writers",
+     "url": "stremio:///search?search=Suzanne%20Collins"
+    },
+    {
+     "name": "Francis Lawrence",
+     "category": "Directors",
+     "url": "stremio:///search?search=Francis%20Lawrence"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1951264",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951264.jpg"
+  },
+  {
+   "awards": "2 wins & 6 nominations total",
+   "cast": [
+    "Ethan Hawke",
+    "Lena Headey",
+    "Max Burkholder"
+   ],
+   "country": "France, United States",
+   "description": "Se pudesse cometer qualquer crime sem consequências, o que faria? Numa América do futuro, o governo autoriza um período de 12 horas anualmente, durante o qual toda a atividade criminosa, incluindo assassinato, se torna legal: a purga. Quando um intruso invade o condomínio fechado de James Sandin, dá início a uma sequência de eventos que ameaça destruir a sua família. Agora, cabe a James, à sua mulher, Mary, e aos seus filhos sobreviverem à noite sem se transformarem nos monstros dos quais se escondem.",
+   "director": [
+    "James DeMonaco"
+   ],
+   "dvdRelease": "2013-09-24T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "5.8",
+   "name": "The Purge",
+   "released": "2013-06-07T00:00:00.000Z",
+   "runtime": "85 min",
+   "trailers": [
+    {
+     "source": "A2bVeqhzuSs",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "James DeMonaco"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt2184339/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2184339/img",
+   "id": "tt2184339",
+   "genres": [
+    "Ficção científica",
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "The Purge",
+     "ytId": "A2bVeqhzuSs"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2184339"
+    },
+    {
+     "name": "The Purge",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-purge-2184339"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ethan Hawke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ethan%20Hawke"
+    },
+    {
+     "name": "Lena Headey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lena%20Headey"
+    },
+    {
+     "name": "Max Burkholder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Max%20Burkholder"
+    },
+    {
+     "name": "James DeMonaco",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20DeMonaco"
+    },
+    {
+     "name": "James DeMonaco",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20DeMonaco"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2184339",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2184339.jpg"
+  },
+  {
+   "name": "Disclosure Day",
+   "cast": [
+    "Emily Blunt",
+    "Josh O&apos;Connor",
+    "Colin Firth"
+   ],
+   "country": "United States, Canada, New Zealand, Japan",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "imdbRating": "6.4",
+   "released": "2026-06-12T00:00:00.000Z",
+   "writer": [
+    "David Koepp",
+    "Steven Spielberg"
+   ],
+   "year": "2026",
+   "genre": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt15047880/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15047880/img",
+   "trailers": [
+    {
+     "source": "icDuEHSxE-w",
+     "type": "Trailer"
+    },
+    {
+     "source": "SCYT8vb2siQ",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "146 min",
+   "description": "Se descobrisses que não estamos sozinhos, se alguém te mostrasse isso, te provasse, isso assustar-te-ia?",
+   "awards": "3 wins & 7 nominations total",
+   "id": "tt15047880",
+   "genres": [
+    "Ficção científica",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Disclosure Day",
+     "ytId": "icDuEHSxE-w"
+    },
+    {
+     "title": "Disclosure Day",
+     "ytId": "SCYT8vb2siQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt15047880"
+    },
+    {
+     "name": "Disclosure Day",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/disclosure-day-15047880"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Emily Blunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Blunt"
+    },
+    {
+     "name": "Josh O&apos;Connor",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20O%26apos%3BConnor"
+    },
+    {
+     "name": "Colin Firth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Colin%20Firth"
+    },
+    {
+     "name": "David Koepp",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Koepp"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Spielberg"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Directors",
+     "url": "stremio:///search?search=Steven%20Spielberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt15047880",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15047880.jpg"
+  },
+  {
+   "name": "Spider-Man: Far from Home",
+   "cast": [
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal"
+   ],
+   "country": "United States, Czech Republic, Australia, Canada, Italy",
+   "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
+   "director": [
+    "Jon Watts"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.3",
+   "released": "2019-07-02T00:00:00.000Z",
+   "writer": [
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "LFoz8ZJWmPs",
+     "type": "Trailer"
+    },
+    {
+     "source": "V38cLTYYXNw",
+     "type": "Trailer"
+    },
+    {
+     "source": "DYYtuKyMtY8",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt6320628/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "11 wins & 26 nominations total",
+   "id": "tt6320628",
+   "genres": [
+    "Ação",
+    "Aventura",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "LFoz8ZJWmPs"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "V38cLTYYXNw"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "DYYtuKyMtY8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6320628"
+    },
+    {
+     "name": "Spider-Man: Far from Home",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Chris McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20McKenna"
+    },
+    {
+     "name": "Erik Sommers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erik%20Sommers"
+    },
+    {
+     "name": "Stan Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Lee"
+    },
+    {
+     "name": "Jon Watts",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jon%20Watts"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6320628",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
+  },
+  {
+   "name": "28 Years Later",
+   "cast": [
+    "Jodie Comer",
+    "Aaron Taylor-Johnson",
+    "Ralph Fiennes"
+   ],
+   "country": "United Kingdom, Canada, United States",
+   "description": "Quase três décadas após um vírus mortal escapar de um laboratório de armas biológicas, o mundo permanece sob uma quarentena rígida. Apesar das adversidades, um grupo de sobreviventes encontrou refúgio numa ilha isolada, ligada ao continente por uma única passagem altamente protegida. Quando um dos membros parte em busca de respostas numa missão arriscada, é confrontado com segredos e horrores que moldaram não só os infetados, mas também os poucos humanos que sobreviveram.",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "6.6",
+   "released": "2025-06-20T00:00:00.000Z",
+   "writer": [
+    "Alex Garland"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "IYGG55qwQZQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "mcvLKldPM08",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt10548174/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10548174/img",
+   "awards": "Nominated for 1 BAFTA Award. 7 wins & 63 nominations total",
+   "runtime": "115 min",
+   "id": "tt10548174",
+   "genres": [
+    "Terror",
+    "Thriller",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "28 Years Later",
+     "ytId": "IYGG55qwQZQ"
+    },
+    {
+     "title": "28 Years Later",
+     "ytId": "mcvLKldPM08"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10548174"
+    },
+    {
+     "name": "28 Years Later",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/28-years-later-10548174"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jodie Comer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jodie%20Comer"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Taylor-Johnson"
+    },
+    {
+     "name": "Ralph Fiennes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ralph%20Fiennes"
+    },
+    {
+     "name": "Alex Garland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Danny Boyle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Danny%20Boyle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt10548174",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10548174.jpg"
   }
  ]
 }

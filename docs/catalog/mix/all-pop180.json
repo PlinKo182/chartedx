@@ -1,271 +1,2133 @@
 {
  "metas": [
   {
-   "id": "tt12042730",
-   "type": "movie",
    "name": "Project Hail Mary",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
+   "cast": [
+    "Ryan Gosling",
+    "Sandra Hüller",
+    "James Ortiz"
+   ],
+   "country": "United States",
    "description": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão.",
-   "releaseInfo": "2026",
+   "director": [
+    "Phil Lord",
+    "Christopher Miller"
+   ],
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.2",
+   "released": "2026-03-20T00:00:00.000Z",
+   "writer": [
+    "Drew Goddard",
+    "Andy Weir"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "NKYea63tQmI",
+     "type": "Trailer"
+    },
+    {
+     "source": "P0XN3-n-2Lo",
+     "type": "Trailer"
+    },
+    {
+     "source": "tvd7UUHzdhA",
+     "type": "Trailer"
+    },
+    {
+     "source": "5VYsnngkS_U",
+     "type": "Trailer"
+    },
+    {
+     "source": "m08TxIsFTRI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12042730/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
+   "runtime": "157 min",
+   "awards": "10 wins & 10 nominations total",
+   "id": "tt12042730",
    "genres": [
     "Ficção científica",
     "Aventura"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Project Hail Mary",
+     "ytId": "NKYea63tQmI"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "P0XN3-n-2Lo"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "tvd7UUHzdhA"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "5VYsnngkS_U"
+    },
+    {
+     "title": "Project Hail Mary",
+     "ytId": "m08TxIsFTRI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12042730"
+    },
+    {
+     "name": "Project Hail Mary",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/project-hail-mary-12042730"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Ryan Gosling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Gosling"
+    },
+    {
+     "name": "Sandra Hüller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+    },
+    {
+     "name": "James Ortiz",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Ortiz"
+    },
+    {
+     "name": "Drew Goddard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Drew%20Goddard"
+    },
+    {
+     "name": "Andy Weir",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andy%20Weir"
+    },
+    {
+     "name": "Phil Lord",
+     "category": "Directors",
+     "url": "stremio:///search?search=Phil%20Lord"
+    },
+    {
+     "name": "Christopher Miller",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christopher%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt12042730",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
   },
   {
-   "id": "tt14688458",
-   "type": "series",
    "name": "Silo",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg",
+   "cast": [
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche"
+   ],
    "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
-   "releaseInfo": "2023",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.1",
+   "released": "2023-05-05T00:00:00.000Z",
+   "year": "2023–",
+   "runtime": "51 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Graham Yost"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt14688458/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+   "trailers": [
+    {
+     "source": "8ZYhuvIv1pA",
+     "type": "Trailer"
+    }
+   ],
+   "country": "United States",
+   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
+   "id": "tt14688458",
    "genres": [
     "Sci-Fi & Fantasy",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Silo",
+     "ytId": "8ZYhuvIv1pA"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt14688458"
+    },
+    {
+     "name": "Silo",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/silo-14688458"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
+    },
+    {
+     "name": "Common",
+     "category": "Cast",
+     "url": "stremio:///search?search=Common"
+    },
+    {
+     "name": "Chinaza Uche",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chinaza%20Uche"
+    },
+    {
+     "name": "Graham Yost",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Yost"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
   },
   {
-   "id": "tt33332385",
-   "type": "series",
    "name": "Widow's Bay",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg",
+   "cast": [
+    "Matthew Rhys",
+    "Kate O&apos;Flynn",
+    "Kevin Carroll"
+   ],
+   "country": "United States",
    "description": "O Presidente da Câmara de uma cidade de Nova Inglaterra resolve transformá-la no próximo grande destino turístico, apesar de os locais avisarem sobre uma maldição.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "8.1",
+   "released": "2026-04-29T00:00:00.000Z",
+   "writer": [
+    "Katie Dippold"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "VcpYPxKeGAc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "38 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt33332385/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+   "awards": "Won 14 Primetime Emmys. 24 wins & 15 nominations total",
+   "id": "tt33332385",
    "genres": [
     "Drama",
     "Comédia",
     "Mistério"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Widow's Bay",
+     "ytId": "VcpYPxKeGAc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33332385"
+    },
+    {
+     "name": "Widow's Bay",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/widows-bay-33332385"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Matthew Rhys",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Rhys"
+    },
+    {
+     "name": "Kate O&apos;Flynn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kate%20O%26apos%3BFlynn"
+    },
+    {
+     "name": "Kevin Carroll",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Carroll"
+    },
+    {
+     "name": "Katie Dippold",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katie%20Dippold"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
   },
   {
-   "id": "tt11198330",
-   "type": "series",
    "name": "House of the Dragon",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg",
+   "cast": [
+    "Matt Smith",
+    "Emma D&apos;Arcy",
+    "Olivia Cooke"
+   ],
+   "country": "United States",
    "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
-   "releaseInfo": "2022",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.3",
+   "released": "2022-08-21T00:00:00.000Z",
+   "writer": [
+    "Ryan J. Condal",
+    "George R.R. Martin"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11198330/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "DotnJ7tTA34",
+     "type": "Trailer"
+    },
+    {
+     "source": "Wg86eQkdudI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11198330",
    "genres": [
     "Sci-Fi & Fantasy",
     "Drama",
     "Action & Adventure"
-   ]
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "House of the Dragon",
+     "ytId": "DotnJ7tTA34"
+    },
+    {
+     "title": "House of the Dragon",
+     "ytId": "Wg86eQkdudI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11198330"
+    },
+    {
+     "name": "House of the Dragon",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Matt Smith",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Smith"
+    },
+    {
+     "name": "Emma D&apos;Arcy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+    },
+    {
+     "name": "Olivia Cooke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olivia%20Cooke"
+    },
+    {
+     "name": "Ryan J. Condal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20J.%20Condal"
+    },
+    {
+     "name": "George R.R. Martin",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
   },
   {
-   "id": "tt37287335",
-   "type": "movie",
    "name": "Obsession",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg",
+   "awards": "10 wins & 13 nominations total",
+   "cast": [
+    "Michael Johnston",
+    "Inde Navarrette",
+    "Cooper Tomlinson"
+   ],
+   "country": "United States",
    "description": "Um jovem apaixonado recorre a um misterioso objecto sobrenatural para fazer com que a sua melhor amiga se apaixone por ele. O desejo concretiza-se, mas rapidamente se transforma num pesadelo, quando a obsessão resultante assume contornos perigosos e violentos.",
-   "releaseInfo": "2026",
+   "director": [
+    "Curry Barker"
+   ],
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-05-15T00:00:00.000Z",
+   "writer": [
+    "Curry Barker"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "gMC8kkwbIQQ",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt37287335/img",
+   "logo": "https://images.metahub.space/logo/medium/tt37287335/img",
+   "id": "tt37287335",
    "genres": [
     "Terror",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Obsession",
+     "ytId": "gMC8kkwbIQQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt37287335"
+    },
+    {
+     "name": "Obsession",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/obsession-37287335"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Michael Johnston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Johnston"
+    },
+    {
+     "name": "Inde Navarrette",
+     "category": "Cast",
+     "url": "stremio:///search?search=Inde%20Navarrette"
+    },
+    {
+     "name": "Cooper Tomlinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cooper%20Tomlinson"
+    },
+    {
+     "name": "Curry Barker",
+     "category": "Writers",
+     "url": "stremio:///search?search=Curry%20Barker"
+    },
+    {
+     "name": "Curry Barker",
+     "category": "Directors",
+     "url": "stremio:///search?search=Curry%20Barker"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37287335",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
-   "id": "tt9813792",
-   "type": "series",
-   "name": "FROM",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9813792.jpg",
+   "name": "From",
+   "cast": [
+    "Harold Perrineau",
+    "Catalina Sandino Moreno",
+    "David Alpay"
+   ],
+   "country": "United States",
    "description": "Uma cidade pesadelo no centro dos Estados Unidos prende todos aqueles que lá entram. Os seus residentes lutam para manter uma sensação de normalidade e procurar uma saída, mas também têm de sobreviver às ameaças da floresta à sua volta, incluindo as criaturas aterradoras que saem com o pôr do sol.",
-   "releaseInfo": "2022",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.8",
+   "released": "2022-02-20T00:00:00.000Z",
+   "writer": [
+    "John Griffin"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt9813792/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9813792/img",
+   "awards": "3 wins & 35 nominations total",
+   "runtime": "51 min",
+   "trailers": [
+    {
+     "source": "pDHqAj4eJcM",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt9813792",
    "genres": [
     "Mistério",
     "Drama",
     "Sci-Fi & Fantasy"
-   ]
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "From",
+     "ytId": "pDHqAj4eJcM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9813792"
+    },
+    {
+     "name": "From",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/from-9813792"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Harold Perrineau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harold%20Perrineau"
+    },
+    {
+     "name": "Catalina Sandino Moreno",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catalina%20Sandino%20Moreno"
+    },
+    {
+     "name": "David Alpay",
+     "category": "Cast",
+     "url": "stremio:///search?search=David%20Alpay"
+    },
+    {
+     "name": "John Griffin",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Griffin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9813792.jpg"
   },
   {
-   "id": "tt1190634",
-   "type": "series",
-   "name": "The Boys",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1190634.jpg",
+   "cast": [
+    "Karl Urban",
+    "Jack Quaid",
+    "Antony Starr"
+   ],
+   "country": "United States",
    "description": "Num mundo onde os super-heróis abraçam o lado mais negro da sua fama e celebridade, um grupo de justiceiros conhecidos informalmente como \"Os Rapazes\", têm como objetivo acabar com os super-heróis corruptos com apenas a sua determinação e disposição para jogar sujo.",
-   "releaseInfo": "2019",
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "8.5",
+   "name": "The Boys",
+   "released": "2019-07-26T00:00:00.000Z",
+   "runtime": "64 min",
+   "writer": [
+    "Eric Kripke"
+   ],
+   "year": "2019–2026",
+   "director": [],
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt1190634/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
+   "awards": "Won 4 Primetime Emmys. 26 wins & 100 nominations total",
+   "trailers": [
+    {
+     "source": "tcrNsIaQkb4",
+     "type": "Trailer"
+    },
+    {
+     "source": "CD46c08MsHg",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1190634",
    "genres": [
     "Sci-Fi & Fantasy",
     "Action & Adventure"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Boys",
+     "ytId": "tcrNsIaQkb4"
+    },
+    {
+     "title": "The Boys",
+     "ytId": "CD46c08MsHg"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1190634"
+    },
+    {
+     "name": "The Boys",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-boys-1190634"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Karl Urban",
+     "category": "Cast",
+     "url": "stremio:///search?search=Karl%20Urban"
+    },
+    {
+     "name": "Jack Quaid",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20Quaid"
+    },
+    {
+     "name": "Antony Starr",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antony%20Starr"
+    },
+    {
+     "name": "Eric Kripke",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eric%20Kripke"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1190634.jpg"
   },
   {
-   "id": "tt8772296",
-   "type": "series",
-   "name": "Euphoria",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8772296.jpg",
+   "cast": [
+    "Zendaya",
+    "Hunter Schafer",
+    "Maude Apatow"
+   ],
+   "country": "United States",
    "description": "Protagonizada por Zendaya, esta série original HBO apresenta a visão crua e realista de um grupo de alunos do secundário. Atenção: Esta série contem uma linguagem forte e suscetível, com cenas de sexo explícito, uso de drogas e violência.",
-   "releaseInfo": "2019",
+   "imdbRating": "8.2",
+   "name": "Euphoria",
+   "released": "2019-06-16T00:00:00.000Z",
+   "writer": [
+    "Sam Levinson"
+   ],
+   "year": "2019–2026",
+   "status": "Ended",
+   "director": [],
+   "genre": [
+    "Drama"
+   ],
+   "runtime": "61 min",
+   "background": "https://images.metahub.space/background/medium/tt8772296/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+   "awards": "Won 9 Primetime Emmys. 42 wins & 105 nominations total",
+   "trailers": [
+    {
+     "source": "UR4Pxgnm-GA",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt8772296",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Euphoria",
+     "ytId": "UR4Pxgnm-GA"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8772296"
+    },
+    {
+     "name": "Euphoria",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/euphoria-8772296"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Hunter Schafer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hunter%20Schafer"
+    },
+    {
+     "name": "Maude Apatow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maude%20Apatow"
+    },
+    {
+     "name": "Sam Levinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sam%20Levinson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8772296.jpg"
   },
   {
-   "id": "tt9288030",
-   "type": "series",
-   "name": "Reacher",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg",
+   "cast": [
+    "Alan Ritchson",
+    "Maria Sten",
+    "Malcolm Goodwin"
+   ],
+   "country": "United States",
    "description": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-   "releaseInfo": "2022",
+   "director": null,
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "name": "Reacher",
+   "released": "2022-02-04T00:00:00.000Z",
+   "writer": [
+    "Nick Santora"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt9288030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+   "awards": "3 wins & 13 nominations total",
+   "runtime": "49 min",
+   "trailers": [
+    {
+     "source": "GSycMV-_Csw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt9288030",
    "genres": [
     "Action & Adventure",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Reacher",
+     "ytId": "GSycMV-_Csw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9288030"
+    },
+    {
+     "name": "Reacher",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/reacher-9288030"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Alan Ritchson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alan%20Ritchson"
+    },
+    {
+     "name": "Maria Sten",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maria%20Sten"
+    },
+    {
+     "name": "Malcolm Goodwin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Malcolm%20Goodwin"
+    },
+    {
+     "name": "Nick Santora",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nick%20Santora"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg"
   },
   {
-   "id": "tt31938062",
-   "type": "series",
    "name": "The Pitt",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31938062.jpg",
+   "imdbRating": "8.9",
+   "cast": [
+    "Noah Wyle",
+    "Patrick Ball",
+    "Katherine LaNasa"
+   ],
+   "country": "United States",
    "description": "O Centro Médico de Traumatologia de Pittsburgh trabalha 24 horas por dia para salvar vidas num serviço de urgências sobrelotado e com poucos fundos.",
-   "releaseInfo": "2025",
+   "director": null,
+   "genre": [
+    "Drama"
+   ],
+   "released": "2025-01-09T00:00:00.000Z",
+   "writer": [
+    "R. Scott Gemmill"
+   ],
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "ufR_08V38sQ",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "48 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt31938062/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31938062/img",
+   "awards": "Won 9 Primetime Emmys. 53 wins & 86 nominations total",
+   "id": "tt31938062",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Pitt",
+     "ytId": "ufR_08V38sQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31938062"
+    },
+    {
+     "name": "The Pitt",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-pitt-31938062"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Noah Wyle",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noah%20Wyle"
+    },
+    {
+     "name": "Patrick Ball",
+     "category": "Cast",
+     "url": "stremio:///search?search=Patrick%20Ball"
+    },
+    {
+     "name": "Katherine LaNasa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Katherine%20LaNasa"
+    },
+    {
+     "name": "R. Scott Gemmill",
+     "category": "Writers",
+     "url": "stremio:///search?search=R.%20Scott%20Gemmill"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31938062.jpg"
   },
   {
-   "id": "tt10986410",
-   "type": "series",
    "name": "Ted Lasso",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg",
+   "cast": [
+    "Jason Sudeikis",
+    "Hannah Waddingham",
+    "Jeremy Swift"
+   ],
+   "country": "United States, United Kingdom",
    "description": "Ted Lasso, um treinador de futebol americano, muda-se para a Inglaterra quando é contratado para comandar uma equipa de futebol – apesarde não ter experiência. Com jogadores cínicos e uma cidade duvidosa, ele vai levá-los a ver o Ted Lasso Way?",
-   "releaseInfo": "2020",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "8.7",
+   "released": "2020-08-14T00:00:00.000Z",
+   "writer": [
+    "Jason Sudeikis",
+    "Brendan Hunt",
+    "Joe Kelly"
+   ],
+   "year": "2020–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt10986410/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+   "runtime": "43 min",
+   "awards": "Won 13 Primetime Emmys. 75 wins & 213 nominations total",
+   "trailers": [
+    {
+     "source": "BwPcMIDFVKw",
+     "type": "Trailer"
+    },
+    {
+     "source": "3u7EIiohs6U",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt10986410",
    "genres": [
     "Drama",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "Ted Lasso",
+     "ytId": "BwPcMIDFVKw"
+    },
+    {
+     "title": "Ted Lasso",
+     "ytId": "3u7EIiohs6U"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10986410"
+    },
+    {
+     "name": "Ted Lasso",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/ted-lasso-10986410"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Jason Sudeikis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jason%20Sudeikis"
+    },
+    {
+     "name": "Hannah Waddingham",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hannah%20Waddingham"
+    },
+    {
+     "name": "Jeremy Swift",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Swift"
+    },
+    {
+     "name": "Jason Sudeikis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Sudeikis"
+    },
+    {
+     "name": "Brendan Hunt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brendan%20Hunt"
+    },
+    {
+     "name": "Joe Kelly",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joe%20Kelly"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
-   "id": "tt26545992",
-   "type": "series",
    "name": "Lanterns",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg",
+   "cast": [
+    "Aaron Pierre",
+    "Kyle Chandler",
+    "Kelly Macdonald"
+   ],
+   "country": "United States",
    "description": "Dois polícias intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, vêem-se envolvidos num mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "imdbRating": "8.4",
+   "released": "2026-08-16T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "53 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "7UIBOsuUwc4",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Tom King",
+    "Damon Lindelof",
+    "Chris Mundy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt26545992/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
+   "id": "tt26545992",
    "genres": [
     "Drama",
     "Mistério",
     "Sci-Fi & Fantasy"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Lanterns",
+     "ytId": "7UIBOsuUwc4"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26545992"
+    },
+    {
+     "name": "Lanterns",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lanterns-26545992"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Aaron Pierre",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Pierre"
+    },
+    {
+     "name": "Kyle Chandler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kyle%20Chandler"
+    },
+    {
+     "name": "Kelly Macdonald",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kelly%20Macdonald"
+    },
+    {
+     "name": "Tom King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tom%20King"
+    },
+    {
+     "name": "Damon Lindelof",
+     "category": "Writers",
+     "url": "stremio:///search?search=Damon%20Lindelof"
+    },
+    {
+     "name": "Chris Mundy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Mundy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
   },
   {
-   "id": "tt7587890",
-   "type": "series",
    "name": "The Rookie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7587890.jpg",
+   "cast": [
+    "Nathan Fillion",
+    "Alyssa Diaz",
+    "Richard T. Jones"
+   ],
+   "country": "United States",
    "description": "John Nolan, um homem na casa dos quarenta, decide sair da sua pequena cidade e seguir o sonho de ser polícia em Los Angeles. Além do ceticismo de quem acredita que tudo não passa de uma crise de meia-idade, John tem de acompanhar o ritmo dos colegas mais novos. Será que é tarde demais?",
-   "releaseInfo": "2018",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2018-10-16T00:00:00.000Z",
+   "runtime": "44 min",
+   "year": "2018–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Alexi Hawley"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt7587890/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7587890/img",
+   "awards": "Nominated for 5 Primetime Emmys. 3 wins & 8 nominations total",
+   "trailers": [
+    {
+     "source": "8BPlx6eK1vc",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7587890",
    "genres": [
     "Crime",
     "Drama",
     "Comédia"
-   ]
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "The Rookie",
+     "ytId": "8BPlx6eK1vc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7587890"
+    },
+    {
+     "name": "The Rookie",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rookie-7587890"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Nathan Fillion",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nathan%20Fillion"
+    },
+    {
+     "name": "Alyssa Diaz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alyssa%20Diaz"
+    },
+    {
+     "name": "Richard T. Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Richard%20T.%20Jones"
+    },
+    {
+     "name": "Alexi Hawley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alexi%20Hawley"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7587890.jpg"
   },
   {
-   "id": "tt33546863",
-   "type": "series",
    "name": "Off Campus",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg",
+   "cast": [
+    "Ella Bright",
+    "Belmont Cameli",
+    "Mika Abdalla"
+   ],
+   "country": "United States",
    "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Drama",
+    "Romance",
+    "Sport"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-05-13T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "wAozjf2frxw",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Louisa Levy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33546863/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
+   "awards": "1 win & 3 nominations total",
+   "id": "tt33546863",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Off Campus",
+     "ytId": "wAozjf2frxw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33546863"
+    },
+    {
+     "name": "Off Campus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/off-campus-33546863"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Ella Bright",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Bright"
+    },
+    {
+     "name": "Belmont Cameli",
+     "category": "Cast",
+     "url": "stremio:///search?search=Belmont%20Cameli"
+    },
+    {
+     "name": "Mika Abdalla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mika%20Abdalla"
+    },
+    {
+     "name": "Louisa Levy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Louisa%20Levy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
   },
   {
-   "id": "tt30460310",
-   "type": "series",
    "name": "Spider-Noir",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30460310.jpg",
+   "cast": [
+    "Nicolas Cage",
+    "Lamorne Morris",
+    "Li Jun Li"
+   ],
+   "country": "United States",
    "description": "O detetive privado Ben Reilly é contratado para alguns casos simples... até que mafiosos, monstros e uma misteriosa femme fatale o põem frente a frente com a sua antiga vida como único super-herói de Nova Iorque: o Aranha.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "imdbRating": "7.6",
+   "released": "2026-05-25T00:00:00.000Z",
+   "writer": [
+    "Oren Uziel"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "e5QW457407U",
+     "type": "Trailer"
+    },
+    {
+     "source": "IJ1j7hSU6aE",
+     "type": "Trailer"
+    },
+    {
+     "source": "LpN2RavI5C8",
+     "type": "Trailer"
+    },
+    {
+     "source": "DfowFyDxUXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "b-Blr0_koQA",
+     "type": "Trailer"
+    },
+    {
+     "source": "HgMbkitzhEM",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "44 min",
+   "status": "Ended",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt30460310/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30460310/img",
+   "awards": "Won 5 Primetime Emmys. 7 wins & 9 nominations total",
+   "id": "tt30460310",
    "genres": [
     "Drama",
     "Mistério",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Spider-Noir",
+     "ytId": "e5QW457407U"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "IJ1j7hSU6aE"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "LpN2RavI5C8"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "DfowFyDxUXo"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "b-Blr0_koQA"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "HgMbkitzhEM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30460310"
+    },
+    {
+     "name": "Spider-Noir",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/spider-noir-30460310"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Nicolas Cage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicolas%20Cage"
+    },
+    {
+     "name": "Lamorne Morris",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lamorne%20Morris"
+    },
+    {
+     "name": "Li Jun Li",
+     "category": "Cast",
+     "url": "stremio:///search?search=Li%20Jun%20Li"
+    },
+    {
+     "name": "Oren Uziel",
+     "category": "Writers",
+     "url": "stremio:///search?search=Oren%20Uziel"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30460310.jpg"
   },
   {
-   "id": "tt13111078",
-   "type": "series",
    "name": "Lioness",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg",
+   "cast": [
+    "Zoe Saldaña",
+    "Laysla De Oliveira",
+    "Dave Annable"
+   ],
+   "country": "United States",
    "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
-   "releaseInfo": "2023",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2023-07-23T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "uEjcXhW7CXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "KYoIoCOw-ac",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13111078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
+   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
+   "id": "tt13111078",
    "genres": [
     "Drama",
     "War & Politics"
-   ]
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Lioness",
+     "ytId": "uEjcXhW7CXo"
+    },
+    {
+     "title": "Lioness",
+     "ytId": "KYoIoCOw-ac"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13111078"
+    },
+    {
+     "name": "Lioness",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lioness-13111078"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+    },
+    {
+     "name": "Laysla De Oliveira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
+    },
+    {
+     "name": "Dave Annable",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Annable"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
   },
   {
-   "id": "tt34771210",
-   "type": "series",
    "name": "I Will Find You",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34771210.jpg",
+   "cast": [
+    "Sam Worthington",
+    "Britt Lower",
+    "Chi McBride"
+   ],
+   "country": "United States",
    "description": "Um pai condenado injustamente pelo homicídio do próprio filho embarca numa desesperada missão para o encontrar após descobrir que o rapaz pode, afinal, estar vivo.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.1",
+   "released": "2026-06-18T00:00:00.000Z",
+   "writer": [
+    "Robert Hull"
+   ],
+   "year": "2026",
+   "runtime": "41 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "mObRUsA7dPY",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt34771210/img",
+   "logo": "https://images.metahub.space/logo/medium/tt34771210/img",
+   "id": "tt34771210",
    "genres": [
     "Drama",
     "Mistério",
     "Crime"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "I Will Find You",
+     "ytId": "mObRUsA7dPY"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt34771210"
+    },
+    {
+     "name": "I Will Find You",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/i-will-find-you-34771210"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sam Worthington",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sam%20Worthington"
+    },
+    {
+     "name": "Britt Lower",
+     "category": "Cast",
+     "url": "stremio:///search?search=Britt%20Lower"
+    },
+    {
+     "name": "Chi McBride",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chi%20McBride"
+    },
+    {
+     "name": "Robert Hull",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Hull"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34771210.jpg"
   },
   {
-   "id": "tt5834204",
-   "type": "series",
    "name": "The Handmaid's Tale",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg",
+   "year": "2017–2025",
+   "runtime": "51 min",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "released": "2017-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Bruce Miller"
+   ],
+   "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Ann Dowd"
+   ],
+   "imdbRating": "8.3",
    "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
-   "releaseInfo": "2017",
+   "country": "United States",
+   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5834204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
+   "trailers": [
+    {
+     "source": "81PyH5TH-NQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5834204",
    "genres": [
     "Drama",
     "Sci-Fi & Fantasy",
     "Action & Adventure"
-   ]
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "The Handmaid's Tale",
+     "ytId": "81PyH5TH-NQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5834204"
+    },
+    {
+     "name": "The Handmaid's Tale",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Elisabeth Moss",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elisabeth%20Moss"
+    },
+    {
+     "name": "Yvonne Strahovski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Yvonne%20Strahovski"
+    },
+    {
+     "name": "Ann Dowd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ann%20Dowd"
+    },
+    {
+     "name": "Bruce Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bruce%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
   },
   {
-   "id": "tt33071426",
-   "type": "movie",
    "name": "The Drama",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg",
+   "country": "United States",
    "description": "Um casal apaixonado vê a sua relação ser posta à prova quando um acontecimento inesperado transforma a semana do casamento num verdadeiro caos.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "7.1",
+   "released": "2026-04-03T00:00:00.000Z",
+   "year": "2026",
+   "cast": [
+    "Zendaya",
+    "Robert Pattinson",
+    "Alana Haim"
+   ],
+   "director": [
+    "Kristoffer Borgli"
+   ],
+   "writer": [
+    "Kristoffer Borgli"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33071426/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33071426/img",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "0ZDzsH3XGFA",
+     "type": "Trailer"
+    },
+    {
+     "source": "6zmKcUa4Xxk",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "8 nominations total",
+   "id": "tt33071426",
    "genres": [
     "Romance",
     "Comédia",
     "Drama"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Drama",
+     "ytId": "0ZDzsH3XGFA"
+    },
+    {
+     "title": "The Drama",
+     "ytId": "6zmKcUa4Xxk"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33071426"
+    },
+    {
+     "name": "The Drama",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-drama-33071426"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Robert Pattinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Pattinson"
+    },
+    {
+     "name": "Alana Haim",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alana%20Haim"
+    },
+    {
+     "name": "Kristoffer Borgli",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kristoffer%20Borgli"
+    },
+    {
+     "name": "Kristoffer Borgli",
+     "category": "Directors",
+     "url": "stremio:///search?search=Kristoffer%20Borgli"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33071426",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
   },
   {
-   "id": "tt1196946",
-   "type": "series",
-   "name": "The Mentalist",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg",
+   "awards": "Nominated for 1 Primetime Emmy. 4 wins & 16 nominations total",
+   "cast": [
+    "Simon Baker",
+    "Robin Tunney",
+    "Tim Kang"
+   ],
+   "country": "United States",
    "description": "Patrick Jane é um consultor independente para o California Bureau of Investigation (CBI). Ex-golpista, antes disso ele fingia ser um psíquico e médium. Cinco anos antes dos eventos do episódio piloto, Jane foi à televisão e disse que suas habilidades ajudaram a polícia a fazer o perfil de um serial killer chamado Red John. Este, então, furioso com a mentira, vingou-se matando a mulher e a filha de Patrick. Ele, então, juntou-se à equipe da Agente Teresa Lisbon (Robin Tunney) e utiliza sua alta capacidade de observação para ajudar a encontrar o assassino de sua família. ",
-   "releaseInfo": "2008",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.2",
+   "name": "The Mentalist",
+   "released": "2008-09-23T00:00:00.000Z",
+   "runtime": "43 min",
+   "status": "Ended",
+   "writer": [
+    "Bruno Heller"
+   ],
+   "year": "2008–2015",
+   "background": "https://images.metahub.space/background/medium/tt1196946/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
+   "trailers": [
+    {
+     "source": "nn2Q69pSC_M",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1196946",
    "genres": [
     "Crime",
     "Drama",
     "Mistério"
-   ]
+   ],
+   "releaseInfo": "2008",
+   "trailerStreams": [
+    {
+     "title": "The Mentalist",
+     "ytId": "nn2Q69pSC_M"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1196946"
+    },
+    {
+     "name": "The Mentalist",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-mentalist-1196946"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Simon Baker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simon%20Baker"
+    },
+    {
+     "name": "Robin Tunney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robin%20Tunney"
+    },
+    {
+     "name": "Tim Kang",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Kang"
+    },
+    {
+     "name": "Bruno Heller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bruno%20Heller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg"
   }
  ]
 }

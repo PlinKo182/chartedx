@@ -1,132 +1,1086 @@
 {
  "metas": [
   {
-   "id": "tt11214558",
-   "type": "movie",
    "name": "The Smashing Machine",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg",
+   "cast": [
+    "Dwayne Johnson",
+    "Emily Blunt",
+    "Ryan Bader"
+   ],
+   "country": "United States, Japan, Canada",
    "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
-   "releaseInfo": "2025",
+   "director": [
+    "Benny Safdie"
+   ],
+   "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+   ],
+   "imdbRating": "6.3",
+   "released": "2025-10-03T00:00:00.000Z",
+   "writer": [
+    "Benny Safdie"
+   ],
+   "year": "2025",
+   "background": "https://images.metahub.space/background/medium/tt11214558/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "u4A8zfMClCM",
+     "type": "Trailer"
+    },
+    {
+     "source": "21OUFEZGXIk",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
+   "id": "tt11214558",
    "genres": [
     "Drama",
     "História",
     "Ação"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Smashing Machine",
+     "ytId": "u4A8zfMClCM"
+    },
+    {
+     "title": "The Smashing Machine",
+     "ytId": "21OUFEZGXIk"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11214558"
+    },
+    {
+     "name": "The Smashing Machine",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Dwayne Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dwayne%20Johnson"
+    },
+    {
+     "name": "Emily Blunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Blunt"
+    },
+    {
+     "name": "Ryan Bader",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Bader"
+    },
+    {
+     "name": "Benny Safdie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Benny%20Safdie"
+    },
+    {
+     "name": "Benny Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Benny%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11214558",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
   },
   {
-   "id": "tt32916440",
-   "type": "movie",
    "name": "Marty Supreme",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg",
+   "cast": [
+    "Timothée Chalamet",
+    "Gwyneth Paltrow",
+    "Odessa A&apos;zion"
+   ],
+   "country": "United States, Finland",
    "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
-   "releaseInfo": "2025",
+   "director": [
+    "Josh Safdie"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "7.5",
+   "released": "2025-12-25T00:00:00.000Z",
+   "writer": [
+    "Ronald Bronstein",
+    "Josh Safdie"
+   ],
+   "year": "2025",
+   "runtime": "150 min",
+   "background": "https://images.metahub.space/background/medium/tt32916440/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
+   "trailers": [
+    {
+     "source": "s9gSuKaKcqM",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
+   "id": "tt32916440",
    "genres": [
     "Drama",
     "Thriller"
-   ]
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Marty Supreme",
+     "ytId": "s9gSuKaKcqM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32916440"
+    },
+    {
+     "name": "Marty Supreme",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Timothée Chalamet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+    },
+    {
+     "name": "Gwyneth Paltrow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gwyneth%20Paltrow"
+    },
+    {
+     "name": "Odessa A&apos;zion",
+     "category": "Cast",
+     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
+    },
+    {
+     "name": "Ronald Bronstein",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ronald%20Bronstein"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32916440",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
   },
   {
-   "id": "tt39453404",
-   "type": "movie",
-   "name": "Schumacher '94 – The Birth of a Legend",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453404.jpg",
+   "name": "Schumacher '94: The Birth of a Legend",
+   "cast": [
+    "Lennart Betzgen"
+   ],
+   "country": "Germany",
    "description": "Follows 25-year-old Michael Schumacher's breakthrough 1994 Formula 1 season, featuring his first Grand Prix win in Brazil and the dramatic events of one of F1's most exciting racing seasons, including Ayrton Senna's accident.",
-   "releaseInfo": "2026",
+   "director": [
+    "Christin Freitag"
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "imdbRating": "",
+   "released": "2026-10-02T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "7fDrlNje1iU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39453404/img",
+   "background": "https://images.metahub.space/background/medium/tt39453404/img",
+   "id": "tt39453404",
    "genres": [
     "Documentário"
-   ]
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Schumacher '94: The Birth of a Legend",
+     "ytId": "7fDrlNje1iU"
+    }
+   ],
+   "links": [
+    {
+     "name": "Schumacher '94: The Birth of a Legend",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/schumacher-94-the-birth-of-a-legend-39453404"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Lennart Betzgen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lennart%20Betzgen"
+    },
+    {
+     "name": "Christin Freitag",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christin%20Freitag"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39453404",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453404.jpg"
   },
   {
-   "id": "tt3076658",
-   "type": "movie",
    "name": "Creed",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3076658.jpg",
+   "year": "2015",
+   "runtime": "133 min",
+   "genre": [
+    "Action",
+    "Drama",
+    "Sport"
+   ],
+   "released": "2015-11-25T00:00:00.000Z",
+   "director": [
+    "Ryan Coogler"
+   ],
+   "writer": [
+    "Ryan Coogler",
+    "Aaron Covington",
+    "Sylvester Stallone"
+   ],
+   "cast": [
+    "Michael B. Jordan",
+    "Sylvester Stallone",
+    "Tessa Thompson"
+   ],
+   "imdbRating": "7.6",
    "description": "O ex-campeão mundial dos pesos pesados Rocky Balboa é treinador e mentor de Adonis Johnson, filho do seu falecido amigo e antigo rival Apollo Creed.",
+   "country": "United States",
+   "awards": "Nominated for 1 Oscar. 45 wins & 66 nominations total",
+   "dvdRelease": "2016-08-21T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "JQ9OhBYjTds",
+     "type": "Trailer"
+    },
+    {
+     "source": "Uv554B7YHk4",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<a href=\"/creed_181117/movieoverview\">\n    <img src=\"http://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/181117/creed-ps-6.jpg\" alt=\"Creed poster\" />\n</a>\n<div>\n    <a href=\"/creed_181117/movieoverview\">Creed</a>\n    <time datetime=\"2015-11-25T00:00:00.000Z\">November 25, 2015</time>\n</div>\n",
+    "fandango_link": "/creed_181117/movieoverview"
+   },
+   "background": "https://images.metahub.space/background/medium/tt3076658/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3076658/img",
+   "id": "tt3076658",
+   "genres": [
+    "Drama"
+   ],
    "releaseInfo": "2015",
-   "genres": [
-    "Drama"
-   ]
+   "trailerStreams": [
+    {
+     "title": "Creed",
+     "ytId": "JQ9OhBYjTds"
+    },
+    {
+     "title": "Creed",
+     "ytId": "Uv554B7YHk4"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3076658"
+    },
+    {
+     "name": "Creed",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/creed-3076658"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Michael B. Jordan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20B.%20Jordan"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Tessa Thompson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tessa%20Thompson"
+    },
+    {
+     "name": "Ryan Coogler",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20Coogler"
+    },
+    {
+     "name": "Aaron Covington",
+     "category": "Writers",
+     "url": "stremio:///search?search=Aaron%20Covington"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Ryan Coogler",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ryan%20Coogler"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3076658",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3076658.jpg"
   },
   {
-   "id": "tt0479143",
-   "type": "movie",
-   "name": "Rocky Balboa",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0479143.jpg",
+   "awards": "4 nominations total",
+   "cast": [
+    "Sylvester Stallone",
+    "Antonio Tarver",
+    "Milo Ventimiglia"
+   ],
+   "country": "United States",
    "description": "Quando sai derrotado de um combate virtual, altamente publicitado, contra o ex-campeão Rocky Balboa, o actual campeão de pesos-pesados Mason Dixon retalia, desafiando o grande italiano para um combate de 10 rounds, transmitido a nível nacional. Para surpresa do seu filho e seus amigos, Rocky aceita sair da sua reforma e enfrentar um adversário mais rápido, mais forte e trinta anos mais novo. Com a estatística contra ele, Rocky acaba por levar Dixon até ao maior, mais violento e agressivo combate na história do boxing.",
+   "director": [
+    "Sylvester Stallone"
+   ],
+   "dvdRelease": "2015-10-31T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "7.1",
+   "name": "Rocky Balboa",
+   "released": "2006-12-20T00:00:00.000Z",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "K_z4bNupt1A",
+     "type": "Trailer"
+    },
+    {
+     "source": "8tab8fK2_3w",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Sylvester Stallone"
+   ],
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0479143/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0479143/img",
+   "id": "tt0479143",
+   "genres": [
+    "Drama",
+    "Ação"
+   ],
    "releaseInfo": "2006",
-   "genres": [
-    "Drama",
-    "Ação"
-   ]
+   "trailerStreams": [
+    {
+     "title": "Rocky Balboa",
+     "ytId": "K_z4bNupt1A"
+    },
+    {
+     "title": "Rocky Balboa",
+     "ytId": "8tab8fK2_3w"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0479143"
+    },
+    {
+     "name": "Rocky Balboa",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/rocky-balboa-0479143"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Antonio Tarver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Tarver"
+    },
+    {
+     "name": "Milo Ventimiglia",
+     "category": "Cast",
+     "url": "stremio:///search?search=Milo%20Ventimiglia"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0479143",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0479143.jpg"
   },
   {
-   "id": "tt1979320",
-   "type": "movie",
-   "name": "Rush",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1979320.jpg",
+   "awards": "Won 1 BAFTA Award6 wins & 66 nominations total",
+   "cast": [
+    "Daniel Brühl",
+    "Chris Hemsworth",
+    "Olivia Wilde"
+   ],
+   "country": "United Kingdom, United States",
    "description": "Durante a época dourada e sexy das corridas de Formula 1, dois corredores são aclamados como os melhores: o inglês talentoso e playboy James Hunt e o seu metódico e brilhante rival, o austríaco Niki Lauda. À medida que os dois se provocam dentro e fora das pistas do Grande Prémio, os dois pilotos chegam aos limites da sua resistência física e psicológica, onde não existem atalhos para a vitória nem qualquer margem para erro.",
-   "releaseInfo": "2013",
+   "director": [
+    "Ron Howard"
+   ],
+   "dvdRelease": "2014-01-14T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "8.1",
+   "name": "Rush",
+   "released": "2013-09-27T00:00:00.000Z",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "QKAr42gxjhM",
+     "type": "Trailer"
+    },
+    {
+     "source": "sjp58RDeeIg",
+     "type": "Trailer"
+    },
+    {
+     "source": "9ZJqxgR-5Xc",
+     "type": "Trailer"
+    },
+    {
+     "source": "-URkBFAVZqc",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Peter Morgan"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt1979320/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1979320/img",
+   "id": "tt1979320",
    "genres": [
     "Drama",
     "Ação"
-   ]
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "Rush",
+     "ytId": "QKAr42gxjhM"
+    },
+    {
+     "title": "Rush",
+     "ytId": "sjp58RDeeIg"
+    },
+    {
+     "title": "Rush",
+     "ytId": "9ZJqxgR-5Xc"
+    },
+    {
+     "title": "Rush",
+     "ytId": "-URkBFAVZqc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1979320"
+    },
+    {
+     "name": "Rush",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/rush-1979320"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Daniel Brühl",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Br%C3%BChl"
+    },
+    {
+     "name": "Chris Hemsworth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Hemsworth"
+    },
+    {
+     "name": "Olivia Wilde",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olivia%20Wilde"
+    },
+    {
+     "name": "Peter Morgan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Morgan"
+    },
+    {
+     "name": "Ron Howard",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ron%20Howard"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1979320",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1979320.jpg"
   },
   {
-   "id": "tt0090863",
-   "type": "movie",
-   "name": "The Color of Money",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0090863.jpg",
+   "awards": "Won 1 Oscar. 3 wins & 10 nominations total",
+   "cast": [
+    "Paul Newman",
+    "Tom Cruise",
+    "Mary Elizabeth Mastrantonio"
+   ],
+   "country": "United States",
    "description": "Newman volta a interpretar \"Fast\" Eddie Felson (personagem que fez em 'Desafio à Corrupção'), um campeão de snooker que, depois de apanhar muito na vida, conseguiu fazer seu pé-de-meia e comprar um bar. Agora maduro e experiente, Eddie decide ensinar os segredos e as manhas das mesas de bilhar para um jovem e talentoso jogador.",
-   "releaseInfo": "1986",
+   "director": [
+    "Martin Scorsese"
+   ],
+   "dvdRelease": "2016-08-10T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "7.0",
+   "name": "The Color of Money",
+   "released": "1986-10-17T00:00:00.000Z",
+   "runtime": "119 min",
+   "trailers": [
+    {
+     "source": "HgLvznCiNUo",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Walter Tevis",
+    "Richard Price"
+   ],
+   "year": "1986",
+   "background": "https://images.metahub.space/background/medium/tt0090863/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0090863/img",
+   "id": "tt0090863",
    "genres": [
     "Drama"
-   ]
+   ],
+   "releaseInfo": "1986",
+   "trailerStreams": [
+    {
+     "title": "The Color of Money",
+     "ytId": "HgLvznCiNUo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0090863"
+    },
+    {
+     "name": "The Color of Money",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-color-of-money-0090863"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Paul Newman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Newman"
+    },
+    {
+     "name": "Tom Cruise",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Cruise"
+    },
+    {
+     "name": "Mary Elizabeth Mastrantonio",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mary%20Elizabeth%20Mastrantonio"
+    },
+    {
+     "name": "Walter Tevis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Walter%20Tevis"
+    },
+    {
+     "name": "Richard Price",
+     "category": "Writers",
+     "url": "stremio:///search?search=Richard%20Price"
+    },
+    {
+     "name": "Martin Scorsese",
+     "category": "Directors",
+     "url": "stremio:///search?search=Martin%20Scorsese"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0090863",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0090863.jpg"
   },
   {
-   "id": "tt0079817",
-   "type": "movie",
-   "name": "Rocky II",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0079817.jpg",
+   "awards": "2 wins & 2 nominations total",
+   "cast": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young"
+   ],
+   "country": "United States",
    "description": "Após vencer o campeão Apollo Creed, os fãs pedem uma desforra. Mas Rocky sofreu graves ferimentos e afastou-se dos ringues. Agora a sua concentração está toda virada para Adrian, com quem acabou por casar e leva uma vida estável. Porém, o chamamento do ringue é mais forte, e quando Apollo o pressiona para um combate, Rocky retoma os treinos. Será que Rocky vai sair mais uma vez vitorioso?",
+   "director": [
+    "Sylvester Stallone"
+   ],
+   "dvdRelease": "2015-10-31T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "7.3",
+   "name": "Rocky II",
+   "released": "1979-06-15T00:00:00.000Z",
+   "runtime": "119 min",
+   "trailers": [
+    {
+     "source": "yZrmRBj1r_E",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Sylvester Stallone"
+   ],
+   "year": "1979",
+   "background": "https://images.metahub.space/background/medium/tt0079817/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0079817/img",
+   "id": "tt0079817",
+   "genres": [
+    "Drama",
+    "Ação"
+   ],
    "releaseInfo": "1979",
-   "genres": [
-    "Drama",
-    "Ação"
-   ]
+   "trailerStreams": [
+    {
+     "title": "Rocky II",
+     "ytId": "yZrmRBj1r_E"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0079817"
+    },
+    {
+     "name": "Rocky II",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/rocky-ii-0079817"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Talia Shire",
+     "category": "Cast",
+     "url": "stremio:///search?search=Talia%20Shire"
+    },
+    {
+     "name": "Burt Young",
+     "category": "Cast",
+     "url": "stremio:///search?search=Burt%20Young"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0079817",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0079817.jpg"
   },
   {
-   "id": "tt0084602",
-   "type": "movie",
-   "name": "Rocky III",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0084602.jpg",
+   "awards": "Nominated for 1 Oscar. 3 wins & 9 nominations total",
+   "cast": [
+    "Sylvester Stallone",
+    "Talia Shire",
+    "Burt Young"
+   ],
+   "country": "United States",
    "description": "Três anos depois e vencedor de dez combates consecutivos após a derrota de Apollo Creed, do qual se tornou amigo, Rocky Balboa é adorado por milhões de fãs. Porém, no combate pelo título mundial com o poderoso Clubber Lang, que acidentalmente provoca a morte do seu treinador, Rocky sofre um humilhante knockout e decide abandonar as luvas. Mas Apollo Creed encoraja-o e começa a treiná-lo para um acerto de contas com Lang e recuperar o título de volta.",
-   "releaseInfo": "1982",
+   "director": [
+    "Sylvester Stallone"
+   ],
+   "dvdRelease": "2015-10-31T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "6.9",
+   "name": "Rocky III",
+   "released": "1982-05-28T00:00:00.000Z",
+   "runtime": "100 min",
+   "trailers": [
+    {
+     "source": "o7vbDPUMWDc",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Sylvester Stallone"
+   ],
+   "year": "1982",
+   "background": "https://images.metahub.space/background/medium/tt0084602/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0084602/img",
+   "id": "tt0084602",
    "genres": [
     "Drama",
     "Ação"
-   ]
+   ],
+   "releaseInfo": "1982",
+   "trailerStreams": [
+    {
+     "title": "Rocky III",
+     "ytId": "o7vbDPUMWDc"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0084602"
+    },
+    {
+     "name": "Rocky III",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/rocky-iii-0084602"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Talia Shire",
+     "category": "Cast",
+     "url": "stremio:///search?search=Talia%20Shire"
+    },
+    {
+     "name": "Burt Young",
+     "category": "Cast",
+     "url": "stremio:///search?search=Burt%20Young"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0084602",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0084602.jpg"
   },
   {
-   "id": "tt1291584",
-   "type": "movie",
-   "name": "Warrior",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1291584.jpg",
+   "awards": "Nominated for 1 Oscar. 6 wins & 22 nominations total",
+   "cast": [
+    "Tom Hardy",
+    "Nick Nolte",
+    "Joel Edgerton"
+   ],
+   "country": "United States",
    "description": "O filho mais novo dum ex-pugilista regressa á sua terra natal, para que o pai o treine de forma a combater num torneio de MMA (Mixed Martial Arts). Uma situação que o vai colocar em rota de colisão com o seu irmão mais velho, que também participa no torneio.",
-   "releaseInfo": "2011",
+   "director": [
+    "Gavin O'Connor"
+   ],
+   "dvdRelease": "2013-09-10T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "8.1",
+   "name": "Warrior",
+   "released": "2011-09-09T00:00:00.000Z",
+   "runtime": "140 min",
+   "trailers": [
+    {
+     "source": "I5kzcwcQA1Q",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Gavin O'Connor",
+    "Anthony Tambakis",
+    "Cliff Dorfman"
+   ],
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt1291584/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1291584/img",
+   "id": "tt1291584",
    "genres": [
     "Drama",
     "Ação"
-   ]
+   ],
+   "releaseInfo": "2011",
+   "trailerStreams": [
+    {
+     "title": "Warrior",
+     "ytId": "I5kzcwcQA1Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1291584"
+    },
+    {
+     "name": "Warrior",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/warrior-1291584"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Tom Hardy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hardy"
+    },
+    {
+     "name": "Nick Nolte",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nick%20Nolte"
+    },
+    {
+     "name": "Joel Edgerton",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joel%20Edgerton"
+    },
+    {
+     "name": "Gavin O'Connor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Gavin%20O'Connor"
+    },
+    {
+     "name": "Anthony Tambakis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Anthony%20Tambakis"
+    },
+    {
+     "name": "Cliff Dorfman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Cliff%20Dorfman"
+    },
+    {
+     "name": "Gavin O'Connor",
+     "category": "Directors",
+     "url": "stremio:///search?search=Gavin%20O'Connor"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1291584",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1291584.jpg"
   }
  ]
 }
