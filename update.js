@@ -59,22 +59,12 @@ async function packages() {
     .map(p => ({ shortName: p.shortName, name: p.clearName, monetization: p.monetizationTypes, channelOf: p.addonParent?.clearName || null, flixpatrol: FLIXPATROL[p.shortName] || null, icon: `https://images.justwatch.com${p.icon.replace('{format}', 'png')}` }));
 }
 
-const toItem = ({ node: { objectType, content: c } }) => ({ slug: `jw:${c.title}:${c.originalReleaseYear}`, title: c.title, year: c.originalReleaseYear, imdbId: c.externalIds?.imdbId, kind: objectType });
-const CONTENT = 'objectType content(country: $country, language: $language) { title originalReleaseYear externalIds { imdbId } }';
+const toItem = ({ node: { objectType, content: c } }) => ({ slug: `jw:${c.title}:${c.originalReleaseYear}`, title: c.title, year: c.originalReleaseYear, imdbId: c.externalIds?.imdbId, kind: objectType, g: c.genres?.map(g => g.shortName) });
+const CONTENT = 'objectType content(country: $country, language: $language) { title originalReleaseYear externalIds { imdbId } genres { shortName } }';
+const OFFERS = 'offers(country: $country, platform: WEB) { package { shortName } }';
+const pkOf = offers => [...new Set((offers || []).map(o => o.package?.shortName).filter(Boolean))];
 
-// popularTitles for movies and series separately. packages / genres: [] = no filter.
-// TRENDING with no package = the "Top 10 … esta semana" rows on justwatch.com (checked 2026-10-03).
-async function justwatchList({ packages = [], genres = [] }, sort, size) {
-  const lists = {};
-  for (const [objectType, type] of [['MOVIE', 'movie'], ['SHOW', 'series']]) {
-    lists[type] = (await jw(`query L($country: Country!, $language: Language!, $obj: ObjectType!, $pk: [String!], $g: [String!], $sort: PopularTitlesSorting!) {
-      popularTitles(country: $country, first: ${size}, sortBy: $sort, filter: {packages: $pk, genres: $g, objectTypes: [$obj]}) {
-        edges { node { ${CONTENT} } } } }`, { country: 'PT', language: 'en', obj: objectType, pk: packages, g: genres, sort })).popularTitles.edges.map(toItem);
-  }
-  return lists;
-}
-
-// What arrived on the platforms in Portugal over the last NEW_DAYS days (justwatch.com/pt/novo).
+// What arrived on the platforms in Portugal over the last NEW_DAYS days (justwatch.com/pt/novo), with the platform it arrived on.
 // One paged query per day; a new season counts as its show. → [item + day], newest day first, JustWatch's order within a day
 async function justwatchNew(packages = []) {
   const items = [];
@@ -85,9 +75,9 @@ async function justwatchNew(packages = []) {
       const { newTitles } = await jw(`query N($country: Country!, $language: Language!, $date: Date!, $after: String, $pk: [String!]) {
         newTitles(country: $country, date: $date, first: 100, after: $after, pageType: NEW, filter: {packages: $pk}) {
           pageInfo { hasNextPage endCursor }
-          edges { node { ${CONTENT} ... on Season { show { ${CONTENT} } } } } } }`,
+          edges { newOffer(platform: WEB) { package { shortName } } node { ${CONTENT} ... on Season { show { ${CONTENT} } } } } } }`,
       { country: 'PT', language: 'en', date: day, after, pk: packages });
-      for (const e of newTitles.edges) items.push({ ...toItem({ node: e.node.show || e.node }), day });
+      for (const e of newTitles.edges) items.push({ ...toItem({ node: e.node.show || e.node }), pk: pkOf([e.newOffer]), day });
       after = newTitles.pageInfo.hasNextPage ? newTitles.pageInfo.endCursor : null;
     } while (after);
   }
@@ -109,82 +99,109 @@ async function genres() {
 }
 
 // ---------- JustWatch card: the justwatch.com lists for Portugal, limited to the user's platforms ----------
-// Each list: get({ packages }) → { movie, series, mix } items; packages [] = all platforms.
-// The daily Action builds them for all platforms (docs/); the API builds them live for a user's platforms.
+// Pools: the long JustWatch lists for all platforms, each title with the platforms it's on (pk). The daily Action fetches
+// them once (docs/pools.json); a user's lists are cut from them by keeping their platforms' titles — the same lists
+// JustWatch gives when asked with a platform filter (checked 2026-10-11: trending, charts, upcoming).
+// Platforms too small to fill a list from the pools get it from JustWatch directly (live = true: one page, filtered).
 
-const byKind = items => ({ movie: items.filter(i => i.kind === 'MOVIE'), series: items.filter(i => i.kind !== 'MOVIE') });
+// streamingCharts, movies and series by rank (each type ranked on its own), with the trend
+async function chartPool(period, { packages = [] }) {
+  const out = [];
+  for (const obj of ['MOVIE', 'SHOW']) {
+    out.push(...(await jw(`query C($country: Country!, $language: Language!, $obj: StreamingChartObjectType!, $pk: [String!]) {
+      streamingCharts(country: $country, first: 100, filter: {category: ${period}_POPULARITY_SAME_CONTENT_TYPE, objectType: $obj, packages: $pk}) {
+        edges { streamingChartInfo { rank trend trendDifference } node { ${CONTENT} ${OFFERS} } } } }`, { country: 'PT', language: 'en', obj, pk: packages }))
+      .streamingCharts.edges.map(e => ({ ...toItem(e), pk: pkOf(e.node.offers), rank: e.streamingChartInfo.rank, rise: e.streamingChartInfo.trend === 'UP' ? e.streamingChartInfo.trendDifference : 0 })));
+  }
+  return out.sort((a, b) => a.rank - b.rank);
+}
+// popularTitles, movies and series together: TRENDING (= the "Top 10 … esta semana" rows), POPULAR_7_DAYS, POPULAR_180_DAYS
+async function popularPool(sort, { packages = [], genres = [] }, size) {
+  const out = [];
+  let after = null;
+  do {
+    const { popularTitles: p } = await jw(`query L($country: Country!, $language: Language!, $pk: [String!], $g: [String!], $sort: PopularTitlesSorting!, $after: String) {
+      popularTitles(country: $country, first: ${Math.min(100, size - out.length)}, after: $after, sortBy: $sort, filter: {packages: $pk, genres: $g, objectTypes: [MOVIE, SHOW]}) {
+        pageInfo { hasNextPage endCursor } edges { node { ${CONTENT} ${OFFERS} } } } }`, { country: 'PT', language: 'en', pk: packages, g: genres, sort, after });
+    out.push(...p.edges.map(e => ({ ...toItem(e), pk: pkOf(e.node.offers) })));
+    after = p.pageInfo.hasNextPage && out.length < size ? p.pageInfo.endCursor : null;
+  } while (after);
+  return out;
+}
+// "Em breve": coming to the platforms (justwatch.com/pt/novo, upcoming)
+async function soonPool({ packages = [] }, size) {
+  const UP = 'content(country: $country, language: $language) { upcomingReleases(releaseTypes: [DIGITAL]) { package { shortName } } }';
+  const out = [];
+  let after = null;
+  do {
+    const { newTitles: p } = await jw(`query U($country: Country!, $language: Language!, $pk: [String!], $after: String) {
+      newTitles(country: $country, first: 100, after: $after, pageType: UPCOMING, filter: {packages: $pk}) {
+        pageInfo { hasNextPage endCursor } edges { node { ${CONTENT} ... on MovieOrShow { ${UP} } ... on Season { ${UP} show { ${CONTENT} } } } } } }`,
+    { country: 'PT', language: 'en', pk: packages, after });
+    out.push(...p.edges.map(e => ({ ...toItem({ node: e.node.show || e.node }), pk: pkOf(e.node.content?.upcomingReleases) })));
+    after = p.pageInfo.hasNextPage && out.length < size ? p.pageInfo.endCursor : null;
+  } while (after);
+  return out;
+}
+// pool name → fetch(filter, live)
+const POOLS = {
+  DAILY: f => chartPool('DAILY', f),
+  WEEKLY: f => chartPool('WEEKLY', f),
+  MONTHLY: f => chartPool('MONTHLY', f),
+  TRENDING: (f, live) => popularPool('TRENDING', f, live ? 100 : 500),
+  POPULAR_7_DAYS: (f, live) => popularPool('POPULAR_7_DAYS', f, live ? 100 : 300),
+  POPULAR_180_DAYS: (f, live) => popularPool('POPULAR_180_DAYS', f, live ? 100 : 300),
+  NEW: f => justwatchNew(f.packages),
+  UPCOMING: (f, live) => soonPool(f, live ? 100 : 200),
+};
+// a genre's own pool, "G:{code}": its trending titles (rare genres hardly show in the overall TRENDING pool)
+const poolGet = (name, f, live) => (name.startsWith('G:') ? popularPool('TRENDING', { ...f, genres: [name.slice(2)] }, 100) : POOLS[name](f, live));
+
+const isMovie = i => i.kind === 'MOVIE';
+const top = (l, n = 10) => ({ movie: l.filter(isMovie).slice(0, n), series: l.filter(i => !isMovie(i)).slice(0, n), mix: l.slice(0, n) });
 // Novidades: 60–600 titles a day for all platforms, so the first NEW_PER_DAY of each day;
 // a title landing on several platforms the same week counts once, on its newest day
 const firstPerDay = items => {
   const perDay = {}, seen = new Set();
-  return items.filter(it => !seen.has(it.slug) && seen.add(it.slug) && (perDay[it.day] = (perDay[it.day] || 0) + 1) <= NEW_PER_DAY);
+  return items.filter(it => !seen.has(it.imdbId) && seen.add(it.imdbId) && (perDay[it.day] = (perDay[it.day] || 0) + 1) <= NEW_PER_DAY);
 };
-
-// "Mais vistos": JustWatch streamingCharts (DAILY / WEEKLY / MONTHLY), with the trend
-async function jwChart(period, { packages = [] }, size = 10) {
-  const out = {};
-  for (const [obj, type] of [['MOVIE', 'movie'], ['SHOW', 'series']]) {
-    out[type] = (await jw(`query C($country: Country!, $language: Language!, $obj: StreamingChartObjectType!, $pk: [String!]) {
-      streamingCharts(country: $country, first: ${size}, filter: {category: ${period}_POPULARITY_SAME_CONTENT_TYPE, objectType: $obj, packages: $pk}) {
-        edges { streamingChartInfo { rank trend trendDifference } node { ${CONTENT} } } } }`, { country: 'PT', language: 'en', obj, pk: packages }))
-      .streamingCharts.edges.map(e => ({ ...toItem(e), rank: e.streamingChartInfo.rank, rise: e.streamingChartInfo.trend === 'UP' ? e.streamingChartInfo.trendDifference : 0 }));
+// catalog id → [Stremio row name, pools it's cut from, build(...pools) → { movie, series, mix }]
+const JW_CARD = {
+  'all-daily': ['Mais vistos hoje', ['DAILY'], l => top(l)],
+  'all-weekly': ['Mais vistos da semana', ['WEEKLY'], l => top(l)],
+  'all-monthly': ['Mais vistos do mês', ['MONTHLY'], l => top(l)],
+  'all-top': ['Em alta', ['TRENDING'], l => top(l)],
+  // biggest climbers in today's chart (≈ JustWatch "Going viral")
+  'all-rising': ['A subir hoje', ['DAILY'], l => top(l.filter(i => i.rise > 0).sort((a, b) => b.rise - a.rise))],
+  'all-pop7': ['Populares 7 dias', ['POPULAR_7_DAYS'], l => top(l, 20)],
+  'all-pop180': ['Populares 180 dias', ['POPULAR_180_DAYS'], l => top(l, 20)],
+  'all-new': ['Novidades', ['NEW'], l => ({ movie: firstPerDay(l.filter(isMovie)), series: firstPerDay(l.filter(i => !isMovie(i))), mix: firstPerDay(l) })],
+  'all-soon': ['Em breve', ['UPCOMING'], l => ({ ...top(l, 40), mix: l.slice(0, 30) })],
+  // a platform's "Top 10 filmes e séries" as on justwatch.com/pt/provedor/{x}: the weekly chart per type, or the platform's
+  // trending when the chart has fewer than 10 (the site's fallback); together = trending of both
+  'provider-top': [null, ['WEEKLY', 'TRENDING'], (chart, trending) => {
+    const c = top(chart), t = top(trending);
+    return { movie: c.movie.length >= 10 ? c.movie : t.movie, series: c.series.length >= 10 ? c.series : t.series, mix: t.mix };
+  }],
+};
+// genres: g{code}-top (Top 10 em alta do género)
+const cardList = id => JW_CARD[id] || (/^g[a-z]{3}-top$/.test(id) ? [null, [`G:${id.slice(1, 4)}`], l => top(l)] : null);
+// one card list for some platforms ([] = all), from resolved pools (items with an imdbId, each once per pool)
+function cardLists(id, pools, packages) {
+  const [, need, build] = cardList(id);
+  return build(...need.map(p => (pools[p] || []).filter(i => !packages.length || i.pk?.some(sn => packages.includes(sn)))));
+}
+// pool items JustWatch gave no IMDb id get one from the cache / Cinemeta; unresolved ones and repeats (a show's
+// seasons) are dropped. quick: cache only (live requests)
+async function resolvePool(items, cache, quick) {
+  const out = [], seen = new Set();
+  for (const item of items) {
+    const types = [isMovie(item) ? 'movie' : 'series'];
+    const id = item.imdbId || (quick ? cache[`${types[0]}|${item.slug}`]?.id : (await resolve(item, types, cache).catch(() => null))?.id);
+    const key = `${id}|${item.day || ''}`;
+    if (id && !seen.has(key) && seen.add(key)) out.push({ ...item, imdbId: id, slug: undefined, year: undefined, g: undefined });
   }
   return out;
-}
-async function jwCharts(period, f) {
-  const l = await jwChart(period, f);
-  return { ...l, mix: [...l.movie, ...l.series].sort((a, b) => a.rank - b.rank).slice(0, 10) };
-}
-// "A subir hoje": biggest climbers in today's chart (≈ JustWatch "Going viral")
-async function jwRising(f) {
-  const l = await jwChart('DAILY', f, 100);
-  const up = list => list.filter(i => i.rise > 0).sort((a, b) => b.rise - a.rise).slice(0, 10);
-  return { movie: up(l.movie), series: up(l.series), mix: up([...l.movie, ...l.series]) };
-}
-// popularTitles ordering: TRENDING (= the "Top 10 … esta semana" rows), POPULAR_7_DAYS, POPULAR_180_DAYS
-async function jwPopular(sort, { packages = [], genres = [] }, size) {
-  const l = await justwatchList({ packages, genres }, sort, size);
-  const mix = (await jw(`query M($country: Country!, $language: Language!, $pk: [String!], $g: [String!], $sort: PopularTitlesSorting!) {
-    popularTitles(country: $country, first: ${size}, sortBy: $sort, filter: {packages: $pk, genres: $g, objectTypes: [MOVIE, SHOW]}) {
-      edges { node { ${CONTENT} } } } }`, { country: 'PT', language: 'en', pk: packages, g: genres, sort })).popularTitles.edges.map(toItem);
-  return { ...l, mix };
-}
-// "Em breve": coming to the platforms (justwatch.com/pt/novo, upcoming)
-async function jwSoon({ packages = [] }) {
-  const seen = new Set();
-  const items = (await jw(`query U($country: Country!, $language: Language!, $pk: [String!]) {
-    newTitles(country: $country, first: 40, pageType: UPCOMING, filter: {packages: $pk}) {
-      edges { node { ${CONTENT} ... on Season { show { ${CONTENT} } } } } } }`, { country: 'PT', language: 'en', pk: packages }))
-    .newTitles.edges.map(e => toItem({ node: e.node.show || e.node })).filter(i => !seen.has(i.slug) && seen.add(i.slug));
-  return { ...byKind(items), mix: items.slice(0, 30) };
-}
-// "Novidades": by day (separator posters); all = the daily run's already-fetched list for all platforms
-async function jwNew({ packages = [] }, all) {
-  const items = all || await justwatchNew(packages);
-  const { movie, series } = byKind(items);
-  return { movie: firstPerDay(movie), series: firstPerDay(series), mix: firstPerDay(items) };
-}
-
-// catalog id → [Stremio row name, get]; genres: g{code}-top (Top 10 em alta do género)
-const JW_CARD = {
-  'all-daily': ['Mais vistos hoje', f => jwCharts('DAILY', f)],
-  'all-weekly': ['Mais vistos da semana', f => jwCharts('WEEKLY', f)],
-  'all-monthly': ['Mais vistos do mês', f => jwCharts('MONTHLY', f)],
-  'all-top': ['Em alta', f => jwPopular('TRENDING', f, 10)],
-  'all-rising': ['A subir hoje', jwRising],
-  'all-pop7': ['Populares 7 dias', f => jwPopular('POPULAR_7_DAYS', f, 20)],
-  'all-pop180': ['Populares 180 dias', f => jwPopular('POPULAR_180_DAYS', f, 20)],
-  'all-new': ['Novidades', jwNew],
-  'all-soon': ['Em breve', jwSoon],
-};
-const jwCardGet = id => JW_CARD[id]?.[1] || (/^g[a-z]{3}-top$/.test(id) ? f => jwPopular('TRENDING', { ...f, genres: [id.slice(1, 4)] }, 10) : null);
-
-// A platform's "Top 10 filmes e séries" as on justwatch.com/pt/provedor/{x}: the weekly chart per type, or the platform's
-// trending when the chart has fewer than 10 (the site's fallback); together = trending of both
-async function jwProviderTop(f) {
-  const chart = await jwChart('WEEKLY', f);
-  const trending = await jwPopular('TRENDING', f, 10);
-  return { movie: chart.movie.length >= 10 ? chart.movie : trending.movie, series: chart.series.length >= 10 ? chart.series : trending.series, mix: trending.mix };
 }
 
 // ---------- details Stremio shows in rows and previews, like Cinemeta's own catalogs ----------
@@ -262,20 +279,29 @@ function toMetas(list, bucket, days, cache = {}) {
   return metas;
 }
 
-// API: one JustWatch-card catalog for the user's platforms, built on request (Vercel's CDN caches the answer)
-async function liveCatalog(id, bucket, packages) {
-  const get = id === 'provider-top' ? jwProviderTop : jwCardGet(id); // provider-top: one platform's Top 10
-  if (!get) return null;
-  pause = 0;
-  const lists = await get({ packages });
-  const cache = read(CACHE_FILE, {});
-  const out = [];
-  for (const item of lists[bucket] || []) {
-    const r = await resolve(item, bucket === 'mix' ? [item.kind === 'MOVIE' ? 'movie' : 'series'] : [bucket], cache).catch(() => null);
-    if (r && !out.some(x => x.id === r.id)) out.push(item.day ? { ...r, day: item.day } : r);
+// Upstash Redis (Vercel Storage) over REST: the configs saved behind fixed links ("u:{id}" → config). Off without the env.
+const KV = [process.env.KV_REST_API_URL || process.env.UPSTASH_REDIS_REST_URL, process.env.KV_REST_API_TOKEN || process.env.UPSTASH_REDIS_REST_TOKEN];
+const kv = KV[0] && KV[1] ? (...cmd) => fetch(KV[0], { method: 'POST', headers: { Authorization: `Bearer ${KV[1]}` }, body: JSON.stringify(cmd) })
+  .then(r => r.json()).then(j => { if (j.error) throw new Error(j.error); return j.result; }) : null;
+
+// API: one JustWatch-card catalog for the user's platforms, cut from the pools (Vercel's CDN caches the answer).
+// A list the pools can't fill (small platforms, rare genres) is asked to JustWatch with the platform filter.
+const toR = i => ({ id: i.imdbId, type: isMovie(i) ? 'movie' : 'series', name: i.title, day: i.day });
+let pools, metaCache; // read once per server instance
+async function userCatalog(id, bucket, packages) {
+  const card = cardList(id); // provider-top: one platform's Top 10
+  if (!card) return null;
+  pools ||= read(path.join(DOCS, 'pools.json'), {});
+  metaCache ||= read(CACHE_FILE, {});
+  let list = cardLists(id, pools, packages)[bucket] || [];
+  if (list.length < 10 && !['all-new', 'all-soon'].includes(id)) {
+    pause = 0;
+    const live = Object.fromEntries(await Promise.all(card[1].map(async p => [p, await resolvePool(await poolGet(p, { packages }, true), metaCache, true)])));
+    list = cardLists(id, live, packages)[bucket] || [];
   }
-  await enrich(out, cache);
-  return toMetas(out, bucket, id === 'all-new', cache);
+  const out = list.map(toR);
+  await enrich(out, metaCache);
+  return toMetas(out, bucket, id === 'all-new', metaCache);
 }
 
 // ---------- FlixPatrol ----------
@@ -496,10 +522,16 @@ async function main() {
 
   // One job per catalog id: { id, name, source, plan() -> [[items, types they may resolve to], …] (+ sets st.date) }
   const jw2plan = lists => [[lists.movie, ['movie']], [lists.series, ['series']]];
-  const novidades = await justwatchNew().catch(e => (console.error('novidades', e.message), null));
+  // JustWatch pools, all platforms (a pool that fails keeps the previous run's)
+  const genreList = await genres();
+  const pools = read(path.join(DOCS, 'pools.json'), {});
+  for (const name of [...Object.keys(POOLS), ...genreList.map(g => `G:${g.shortName}`)]) {
+    try { pools[name] = await resolvePool(await poolGet(name, {}), cache); console.log('pool', name, pools[name].length); } catch (e) { console.error('pool', name, e.message); }
+  }
+  write(path.join(DOCS, 'pools.json'), pools);
   const jobs = [];
-  // Platforms with FlixPatrol: its daily Top 10 (= the app). Every other platform's Top 10 is JustWatch's, built live
-  // by the API ({sn}-top); their other lists ({sn}-jw-…) too.
+  // Platforms with FlixPatrol: its daily Top 10 (= the app). Every other platform's Top 10 is JustWatch's, cut from
+  // the pools by the API ({sn}-top).
   for (const sn of providers.filter(sn => FLIXPATROL[sn])) {
     const fp = FLIXPATROL[sn];
     jobs.push({
@@ -512,8 +544,7 @@ async function main() {
         st.date = pageDate(pages[fp] || '');
         // FlixPatrol doesn't fill a row (Disney+ PT only has an Overall list, often 1–2 movies): that row uses the
         // platform's JustWatch Top 10 instead (fetched only when needed)
-        let jwTop;
-        const fallback = type => [null, [type], type, async () => (jwTop ||= await jwProviderTop({ packages: [sn] }))[type]];
+        const fallback = type => [null, [type], type, async () => cardLists('provider-top', pools, [sn])[type]];
         // Overall list (filmes e séries juntos): look each title up on the platform to know its type
         const overall = lists.Overall && await Promise.all(lists.Overall.map(i => onPlatform(sn, i).catch(() => i)));
         if (overall && !lists.Movies && !lists['TV Shows']) return [[overall, null], [overall, null, 'mix'], fallback('movie'), fallback('series')];
@@ -525,10 +556,9 @@ async function main() {
       },
     });
   }
-  // JustWatch card, all platforms (a user's own selection is built live by the API)
-  const genreList = await genres();
+  // JustWatch card, all platforms (a user's own selection is cut from the pools by the API)
   const general = [{ shortName: 'all', name: 'Todas as plataformas' }, ...genreList.map(g => ({ shortName: `g${g.shortName}`, name: g.translation, genre: g.shortName }))];
-  const card = [...Object.entries(JW_CARD).map(([id, [label]]) => [id, label]), ...genreList.map(g => [`g${g.shortName}-top`, g.translation])];
+  const card = [...Object.entries(JW_CARD).filter(([, [label]]) => label).map(([id, [label]]) => [id, label]), ...genreList.map(g => [`g${g.shortName}-top`, g.translation])];
   for (const [id, label] of card) {
     jobs.push({
       id,
@@ -537,7 +567,7 @@ async function main() {
       mixed: true,
       days: id === 'all-new',
       plan: async () => {
-        const l = await jwCardGet(id)({}, novidades);
+        const l = cardLists(id, pools, []);
         return [[l.movie, ['movie']], [l.series, ['series']], [l.mix, null, 'mix']];
       },
     });
@@ -552,6 +582,14 @@ async function main() {
     });
   }
   await separatorImages().catch(e => console.error('separators', e.message));
+  // every platform's Top 10 is cut from the pools when asked; their details are looked up now
+  await enrich(providers.flatMap(sn => Object.values(cardLists('provider-top', pools, [sn])).flat()).map(toR), cache);
+  // and the JustWatch-card lists of the configs saved behind fixed links
+  for (const config of kv ? await kv('KEYS', 'u:*').then(keys => keys.length ? kv('MGET', ...keys) : []).catch(() => []) : []) {
+    const entries = (config || '').split(',');
+    const mine = entries.find(e => e.startsWith('my.'))?.split('.').slice(1) || [];
+    if (mine.length) await enrich(entries.map(e => e.split('.')[0]).filter(cardList).flatMap(id => Object.values(cardLists(id, pools, mine)).flat()).map(toR), cache);
+  }
 
   const catalogs = [];
   for (const { id, name, source, mixed, days, plan: getPlan } of jobs) {
@@ -628,5 +666,5 @@ async function main() {
   write(CACHE_FILE, cache);
 }
 
-module.exports = { parse, resolve, yearOf, scrape, packages, liveCatalog, ptSummary };
+module.exports = { parse, resolve, yearOf, scrape, packages, userCatalog, ptSummary, kv };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });

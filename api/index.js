@@ -4,13 +4,15 @@
 //   /{config}/manifest.json           only the picked catalogs; config = comma list of catalog ids, optionally
 //                                     limited to some types: nfx-top (movies + series), sic-popular.m (movies), all-top.x (mixed),
 //                                     gcmy-top.msx (all three)
-//   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action; JustWatch-card lists are built
-//                                     live when the config has the user's platforms: my.nfx.mxx.sic
+//   /{config}/catalog/{type}/{id}.json   from docs/, written daily by the GitHub Action; JustWatch-card lists are cut
+//                                     from the daily pools for the user's platforms: my.nfx.mxx.sic
 //   /{config}/meta/{type}/chartedx:sep:{day}.json   the day separators in Novidades
 //   /{config}/meta/{type}/tt….json   titles Cinemeta lacks, from the cached details (Stremio asks Cinemeta first)
 //   /sep/{day}.png                    separator poster (logo if missing)
-//   {sn}-top                          a platform's Top 10: FlixPatrol from docs/, else JustWatch's, built live
+//   {sn}-top                          a platform's Top 10: FlixPatrol from docs/, else JustWatch's, from the pools
 //   /dados                            page showing what was extracted (FlixPatrol, JustWatch, TMDB, status)
+//   /u-{id}/…                         fixed link: the config saved in Upstash Redis (POST /save {id?, config} → {id}),
+//                                     so changing it needs no reinstall; /u-{id}/config.json gives it back to /configure
 //   /providers.json, /general.json, /status.json, /logo.png, /logo.svg   for the pages and Stremio
 const fs = require('fs');
 const path = require('path');
@@ -23,10 +25,39 @@ const send = (res, code, type, body, cache = 'public, max-age=3600') => {
   res.writeHead(code, { 'Content-Type': type, 'Access-Control-Allow-Origin': '*', 'Cache-Control': cache });
   res.end(body);
 };
+const CONFIG = /^[a-z0-9,.-]+$/;
+const users = new Map(); // saved config id → [config, read at]: kept a minute per server instance
+async function savedConfig(id) {
+  const hit = users.get(id);
+  if (hit && Date.now() - hit[1] < 60e3) return hit[0];
+  const config = (await require('../update.js').kv?.('GET', `u:${id}`).catch(() => null)) || '';
+  users.set(id, [config, Date.now()]);
+  return config;
+}
+const body = async req => {
+  if (req.body !== undefined) return typeof req.body === 'string' ? JSON.parse(req.body) : req.body; // Vercel parses it
+  let s = '';
+  for await (const c of req) s += c;
+  return JSON.parse(s);
+};
 
 module.exports = async (req, res) => {
   const parts = new URL(req.url, 'http://x').pathname.split('/').filter(Boolean).map(decodeURIComponent);
-  const config = parts.length > 1 && !['catalog', 'meta', 'sep'].includes(parts[0]) && /^[a-z0-9,.-]+$/.test(parts[0]) ? parts.shift() : '';
+  let config = parts.length > 1 && !['catalog', 'meta', 'sep'].includes(parts[0]) && CONFIG.test(parts[0]) ? parts.shift() : '';
+  const user = config.match(/^u-([a-z0-9]{12})$/)?.[1];
+  if (user) config = await savedConfig(user);
+
+  if (parts[0] === 'save' && req.method === 'POST') {
+    const { kv } = require('../update.js');
+    const { id, config: c } = await body(req).catch(() => ({}));
+    if (!kv) return send(res, 503, 'application/json', '{"error":"no storage"}', 'no-store');
+    if (typeof c !== 'string' || !CONFIG.test(c) || c.length > 3000) return send(res, 400, 'application/json', '{"error":"bad config"}', 'no-store');
+    const key = /^[a-z0-9]{12}$/.test(id || '') ? id : require('crypto').randomBytes(16).toString('hex').slice(0, 12);
+    await kv('SET', `u:${key}`, c);
+    users.set(key, [c, Date.now()]);
+    return send(res, 200, 'application/json', JSON.stringify({ id: key }), 'no-store');
+  }
+  if (user && parts[0] === 'config.json') return send(res, 200, 'application/json', JSON.stringify({ config }), 'no-store');
 
   if (!parts.length || parts[0] === 'configure') {
     return send(res, 200, 'text/html; charset=utf-8', fs.readFileSync(path.join(ROOT, 'configure.html')), 'no-cache');
@@ -91,25 +122,25 @@ module.exports = async (req, res) => {
       });
     }
     manifest.behaviorHints = { configurable: true, configurationRequired: !config };
-    return send(res, 200, 'application/json', JSON.stringify(manifest));
+    return send(res, 200, 'application/json', JSON.stringify(manifest), user ? 'no-cache' : undefined); // a saved config changes
   }
 
   // /catalog/{type}/{id}.json, or /catalog/{type}/{id}/skip=30.json (Stremio paging): lists end before that
   if (parts[0] === 'catalog' && ['movie', 'series', MIX].includes(parts[1])) {
     if (parts.length > 3) return send(res, 200, 'application/json', '{"metas":[]}');
     const bucket = parts[1] === MIX ? 'mix' : parts[1];
-    // JustWatch card lists for the user's platforms ("my.nfx.mxx" in the config): built live, cached 6 h by Vercel's CDN
+    // JustWatch card lists for the user's platforms ("my.nfx.mxx" in the config): cut from the pools, cached 6 h by Vercel's CDN
     const id = (parts[2] || '').replace(/\.json$/, '');
     const file = path.join(ROOT, 'docs', 'catalog', bucket, parts[2] || '');
     const top = !fs.existsSync(file) && id.match(/^([a-z0-9]+)-top$/); // Top 10 of a platform without FlixPatrol
     const mine = top ? [top[1]] : config.split(',').find(e => e.startsWith('my.'))?.split('.').slice(1) || [];
     if (mine.length) {
-      const metas = await require('../update.js').liveCatalog(top ? 'provider-top' : id, bucket, mine).catch(() => null);
-      if (metas) return send(res, 200, 'application/json', JSON.stringify({ metas }).replaceAll('"poster":"/sep/', `"poster":"${origin(req)}/sep/`), 'public, max-age=3600, s-maxage=21600');
+      const metas = await require('../update.js').userCatalog(top ? 'provider-top' : id, bucket, mine).catch(() => null);
+      if (metas) return send(res, 200, 'application/json', JSON.stringify({ metas }).replaceAll('"poster":"/sep/', `"poster":"${origin(req)}/sep/`), `public, max-age=${user ? 600 : 3600}, s-maxage=${user ? 600 : 21600}`); // a saved config changes
     }
     // separator posters are stored relative ("/sep/…"): make them absolute for this host
     if (/^[a-z0-9-]+\.json$/.test(parts[2] || '') && fs.existsSync(file)) {
-      return send(res, 200, 'application/json', fs.readFileSync(file, 'utf8').replaceAll('"poster": "/sep/', `"poster": "${origin(req)}/sep/`));
+      return send(res, 200, 'application/json', fs.readFileSync(file, 'utf8').replaceAll('"poster": "/sep/', `"poster": "${origin(req)}/sep/`), 'public, max-age=3600, s-maxage=21600');
     }
   }
 

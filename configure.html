@@ -225,16 +225,19 @@ Promise.all([get('/providers.json'), get('/manifest.json'), get('/general.json')
   const genres = gen.filter(g => g.genre && lists[g.shortName]).sort((a, b) => a.name.localeCompare(b.name, 'pt'));
   jw = { shortName: 'jw', name: 'JustWatch', lists: [...JW_LISTS.filter(l => lists.all?.has(l[2].slice(4))), ...genres.map(g => [g.shortName.slice(1), g.name, `${g.shortName}-top`, 'Géneros'])] };
   tmdb = lists.tmdb ? { shortName: 'tmdb', name: 'Estreias', lists: [['new', 'Estreias', 'tmdb-new']] } : null;
-  restore();
-  render();
+  // a fixed link (/u-{id}/configure) brings its saved config
+  const first = location.pathname.split('/').filter(Boolean)[0] || '';
+  const saved = first.match(/^u-([a-z0-9]{12})$/)?.[1];
+  if (saved) myId = saved, installed = true;
+  return (saved ? get(`/${first}/config.json`).then(j => j.config) : Promise.resolve(first === 'configure' ? '' : decodeURIComponent(first)))
+    .catch(() => '').then(config => { restore(config); render(); });
 });
 
-// "/{config}/configure": all-top.x, gcmy-top.x → JustWatch card; nfx-top, sic-popular.m → platforms
-function restore() {
-  const first = location.pathname.split('/').filter(Boolean)[0];
-  if (!first || first === 'configure') return;
+// config "all-top.x,gcmy-top.x,my.nfx": all-top.x, gcmy-top.x → JustWatch card; nfx-top, sic-popular.m → platforms
+function restore(config) {
+  if (!config) return;
   const filterOnly = []; // platforms picked only to limit the JustWatch card (no rows of their own)
-  for (const entry of decodeURIComponent(first).split(',')) {
+  for (const entry of config.split(',')) {
     const [id, ...rest] = entry.split('.');
     const t = id === 'my' ? rest.join('.') : rest.join('');
     if (id === 'my') { filterOnly.push(...(t.match(/[a-z0-9]+/g) || [])); continue; }
@@ -336,7 +339,20 @@ const entries = () => {
   const mine = picked.filter(x => !special(info(x.sn))).map(x => x.sn);
   return picked.some(x => x.sn === 'jw') && mine.length ? [`my.${mine.join('.')}`, ...rows] : rows;
 };
-const url = () => `${location.host}/${entries().join(',')}/manifest.json`;
+// The link: fixed (/u-{id}/) when the server can save configs — changing it later needs no reinstall —
+// else the config itself. The id is kept in this browser; opening /configure from Stremio brings it in the path.
+let myId;
+try { myId = localStorage.getItem('chartedx-id') || undefined; } catch {}
+let installed = !!myId;
+async function url() {
+  const config = entries().join(',');
+  const saved = await fetch('/save', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ id: myId, config }) })
+    .then(r => (r.ok ? r.json() : null), () => null);
+  if (!saved) return `${location.host}/${config}/manifest.json`;
+  myId = saved.id;
+  try { localStorage.setItem('chartedx-id', myId); } catch {}
+  return `${location.host}/u-${myId}/manifest.json`;
+}
 
 function render() {
   renderGrid();
@@ -345,6 +361,7 @@ function render() {
   $('summary').textContent = rows ? `${rows} fila${rows === 1 ? '' : 's'}` : '';
   $('see').textContent = `As tuas filas (${rows})`;
   $('install').disabled = $('copy').disabled = !rows;
+  setLabel();
 }
 
 $('grid').addEventListener('click', e => {
@@ -406,13 +423,20 @@ function flash(btn, text) {
   label.textContent = text;
   setTimeout(() => { label.textContent = old; }, 3000);
 }
-$('copy').onclick = async () => { await navigator.clipboard.writeText(`${location.protocol}//${url()}`).catch(() => {}); flash($('install'), 'Link copiado'); };
+$('copy').onclick = async () => { const u = await url(); await navigator.clipboard.writeText(`${location.protocol}//${u}`).catch(() => {}); flash($('install'), 'Link copiado'); };
 $('install').onclick = async e => {
-  if (location.protocol === 'https:') return void (location.href = `stremio://${url()}`);
+  const btn = e.currentTarget;
+  const u = await url();
+  // already in Stremio with this fixed link: saving is enough
+  if (installed && u.includes('/u-')) return flash(btn, 'Guardado: reabre o Stremio');
+  installed = u.includes('/u-');
+  if (location.protocol === 'https:') return void (location.href = `stremio://${u}`);
   // stremio:// always becomes https:// (and drops the port): a local http server has to be pasted in Stremio → Add-ons
-  await navigator.clipboard.writeText(`http://${url()}`).catch(() => {});
-  flash(e.currentTarget, 'Copiado: cola em Add-ons no Stremio');
+  await navigator.clipboard.writeText(`http://${u}`).catch(() => {});
+  flash(btn, 'Copiado: cola em Add-ons no Stremio');
 };
+// the button says what it will do
+const setLabel = () => { const s = $('install').querySelector('span'); if (s) s.textContent = installed ? 'Guardar' : 'Instalar no Stremio'; };
 </script>
 </body>
 </html>

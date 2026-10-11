@@ -18,6 +18,8 @@ jobs:
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           FIRECRAWL_API_KEY: ${{ secrets.FIRECRAWL_API_KEY }}
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          KV_REST_API_URL: ${{ secrets.KV_REST_API_URL }}
+          KV_REST_API_TOKEN: ${{ secrets.KV_REST_API_TOKEN }}
       - run: |
           # commits as the repo owner: Vercel (free plan) blocks deploys of commits by other authors, like github-actions
           git config user.name PlinKo182
