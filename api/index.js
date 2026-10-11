@@ -79,12 +79,17 @@ module.exports = async (req, res) => {
     const e = JSON.parse(fs.readFileSync(path.join(ROOT, 'cache.json'), 'utf8'))[`meta|${tt[1]}`] || {};
     const poster = e.rpdb === false ? e.p : `https://api.ratingposterdb.com/${process.env.RPDB_KEY || 't0-free-rpdb'}/imdb/poster-default/${tt[1]}.jpg`;
     const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${parts[1]}/${tt[1]}.json`).then(r => r.json(), () => ({}))).meta;
-    // Portuguese summary: cached, else asked to TMDB now (titles outside the lists, e.g. in Continuar a ver)
-    const d = e.d || (await require('../update.js').ptSummary(tt[1], parts[1]).catch(() => ({}))).d;
-    if (m) return send(res, 200, 'application/json', JSON.stringify({ meta: { ...m, description: d || m.description, poster: poster || m.poster } }), 'public, max-age=3600, s-maxage=21600');
+    // Portuguese summary: cached, else asked to TMDB now (titles outside the lists, e.g. in Continuar a ver); episodes too
+    const { ptSummary, ptEpisodes } = require('../update.js');
+    const [d, videos] = await Promise.all([
+      e.d || ptSummary(tt[1], parts[1]).then(x => x.d, () => undefined),
+      m?.videos?.length && ptEpisodes(tt[1], m.videos).catch(() => m.videos),
+    ]);
+    if (m) return send(res, 200, 'application/json', JSON.stringify({ meta: { ...m, description: d || m.description, poster: poster || m.poster,
+      imdbRating: e.r || m.imdbRating, cast: m.cast?.length ? m.cast : e.cm?.cast, ...(videos && { videos }) } }), 'public, max-age=3600, s-maxage=21600');
     if (!e.n) return send(res, 404, 'application/json', '{"meta":null}', 'public, max-age=3600');
     return send(res, 200, 'application/json', JSON.stringify({ meta: {
-      ...e.cm, id: tt[1], type: parts[1], name: e.n, description: e.d, releaseInfo: e.y, genres: e.g, poster,
+      ...e.cm, id: tt[1], type: parts[1], name: e.n, description: e.d, releaseInfo: e.y, genres: e.g, poster, imdbRating: e.r || e.cm?.imdbRating,
     } }), 'public, max-age=3600, s-maxage=21600');
   }
 

@@ -206,7 +206,8 @@ async function resolvePool(items, cache, quick) {
 
 // ---------- details Stremio shows in rows and previews, like Cinemeta's own catalogs ----------
 // cache "meta|{id}": { cm: Cinemeta's meta (IMDb rating, cast, background, logo, runtime, trailer, links) without episodes,
-//   d: summary (pt-PT from TMDB, else Cinemeta's), y: year, g: genres (pt), p: fallback poster, rpdb: RPDB has a poster, n, ty, at, v }
+//   d: summary (pt-PT from TMDB, else Cinemeta's), y: year, g: genres (pt), p: fallback poster, rpdb: RPDB has a poster,
+//   r: IMDb rating (IMDb's daily file), n, ty, at, v }
 const META_RECHECK_DAYS = 7; // entries missing a summary or an RPDB poster are looked up again after this
 const rpdbUrl = id => `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${id}.jpg`;
 let tmdbGenres;
@@ -229,9 +230,44 @@ async function ptSummary(id, type) {
   return { hit, d: br.overview || undefined };
 }
 
+// Episode names and summaries in Portuguese from TMDB: pt-PT, else pt-BR, else Cinemeta's (TMDB says "Episódio 3" when it has no name)
+async function ptEpisodes(id, videos) {
+  if (!process.env.TMDB_API_KEY) return videos;
+  const tv = (await tmdbGet(`/find/${id}?external_source=imdb_id`)).tv_results?.[0];
+  if (!tv) return videos;
+  const seasons = [...new Set(videos.map(v => v.season))].filter(n => n >= 0);
+  const lang = async l => {
+    const eps = {};
+    for (let i = 0; i < seasons.length; i += 20) { // TMDB appends at most 20 seasons to one answer
+      const j = await tmdbGet(`/tv/${tv.id}?language=${l}&append_to_response=${seasons.slice(i, i + 20).map(n => `season/${n}`).join(',')}`);
+      for (const n of seasons.slice(i, i + 20)) for (const ep of j[`season/${n}`]?.episodes || []) eps[`${n}:${ep.episode_number}`] = ep;
+    }
+    return eps;
+  };
+  const [pt, br] = await Promise.all([lang('pt-PT'), lang('pt-BR')]);
+  const named = ep => (ep?.name && !/^Epis[oó]dio \d+$/i.test(ep.name) ? ep.name : undefined);
+  return videos.map(v => {
+    const k = `${v.season}:${v.episode}`, d = pt[k]?.overview || br[k]?.overview;
+    return { ...v, name: named(pt[k]) || named(br[k]) || v.name, ...(d && { overview: d, description: d }) };
+  });
+}
+
+// IMDb's own ratings (datasets.imdbws.com, daily, personal non-commercial use): Cinemeta lacks them for new titles
+async function imdbRatings() {
+  const r = await fetch('https://datasets.imdbws.com/title.ratings.tsv.gz');
+  if (!r.ok) throw new Error(`IMDb ratings ${r.status}`);
+  const out = new Map();
+  for (const line of require('zlib').gunzipSync(Buffer.from(await r.arrayBuffer())).toString().split('\n')) {
+    const [id, rating] = line.split('\t', 2);
+    if (id.startsWith('tt')) out.set(id, rating);
+  }
+  return out;
+}
+let ratings = new Map(); // filled by the daily run
+
 const CINEMETA_DROP = ['videos', 'popularities', 'popularity', 'slug', 'imdb_id', 'moviedb_id', 'tvdb_id', 'poster', 'type'];
 async function details(r) {
-  const e = { n: r.name, ty: r.type, at: isoDay(0), v: 3 };
+  const e = { n: r.name, ty: r.type, at: isoDay(0), v: 4 };
   // RPDB poster?, Cinemeta's meta, TMDB's Portuguese summary: asked together
   const [rpdb, cm, { hit, d }] = await Promise.all([
     fetch(rpdbUrl(r.id), { method: 'HEAD' }).then(x => x.ok, () => false),
@@ -244,6 +280,11 @@ async function details(r) {
     e.cm = Object.fromEntries(Object.entries(m).filter(([k]) => !CINEMETA_DROP.includes(k)));
     for (const [k, n] of [['cast', 8], ['director', 3], ['writer', 3]]) if (Array.isArray(e.cm[k])) e.cm[k] = e.cm[k].slice(0, n);
   }
+  // new titles Cinemeta has no cast for yet: TMDB's
+  if (hit && !e.cm?.cast?.length) {
+    const c = await tmdbGet(`/${hit.media_type === 'movie' ? 'movie' : 'tv'}/${hit.id}/credits`).catch(() => ({}));
+    if (c.cast?.length) e.cm = { ...e.cm, cast: c.cast.slice(0, 8).map(x => x.name) };
+  }
   if (hit) { // TMDB: Portuguese summary, year, genres, poster
     const names = await genreNames();
     Object.assign(e, { d, y: (hit.release_date || hit.first_air_date || '').slice(0, 4) || undefined, g: (hit.genre_ids || []).map(g => names[g]).filter(Boolean).slice(0, 3) });
@@ -255,8 +296,8 @@ async function details(r) {
 }
 // look up what the cache lacks (older format, or no summary / RPDB poster for a week), 16 at a time
 async function enrich(list, cache) {
-  // v3: pt-BR fallback — entries still carrying Cinemeta's English summary get one more look
-  const stale = e => !e || e.v < 2 || (e.v < 3 && e.d === e.cm?.description) || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
+  // v3: pt-BR fallback — entries still carrying Cinemeta's English summary get one more look; v4: TMDB cast
+  const stale = e => !e || e.v < 2 || (e.v < 3 && e.d === e.cm?.description) || (e.v < 4 && !e.cm?.cast?.length) || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
   const todo = [...new Map(list.filter(r => stale(cache[`meta|${r.id}`])).map(r => [r.id, r])).values()];
   for (let i = 0; i < todo.length; i += 16) {
     await Promise.all(todo.slice(i, i + 16).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
@@ -278,7 +319,7 @@ function toMetas(list, bucket, days, cache = {}) {
       ...e.cm,
       id: r.id, type: r.type, name: e.cm?.name || r.name, posterShape: 'poster',
       poster: e.rpdb === false ? e.p || `https://images.metahub.space/poster/medium/${r.id}/img` : rpdbUrl(r.id),
-      description: e.d, releaseInfo: e.y, genres: e.g?.length ? e.g : undefined,
+      description: e.d, releaseInfo: e.y, genres: e.g?.length ? e.g : undefined, imdbRating: ratings.get(r.id) || e.r || e.cm?.imdbRating,
     });
   }
   return metas;
@@ -517,6 +558,7 @@ async function main() {
   const providers = read(path.join(__dirname, 'providers.json'), null) || all.map(p => p.shortName);
   const names = Object.fromEntries(all.map(p => [p.shortName, p.name]));
   const cache = read(CACHE_FILE, {});
+  ratings = await imdbRatings().catch(e => (console.error(e.message), new Map()));
   const status = read(path.join(DOCS, 'status.json'), {});
   const fixtureDir = process.argv[2];
   const fpSlugs = providers.map(sn => FLIXPATROL[sn]).filter(Boolean);
@@ -668,8 +710,9 @@ async function main() {
   // for the configure page: names, logos, source
   write(path.join(DOCS, 'providers.json'), all.map(({ shortName, name, icon, flixpatrol }) => ({ shortName, name, icon, flixpatrol: !!flixpatrol })));
   write(path.join(DOCS, 'general.json'), general.map(({ shortName, name, genre }) => ({ shortName, name, genre: !!genre })));
+  for (const [k, e] of Object.entries(cache)) if (k.startsWith('meta|') && ratings.has(k.slice(5))) e.r = ratings.get(k.slice(5));
   write(CACHE_FILE, cache);
 }
 
-module.exports = { parse, resolve, yearOf, scrape, packages, userCatalog, ptSummary, kv };
+module.exports = { parse, resolve, yearOf, scrape, packages, userCatalog, ptSummary, ptEpisodes, kv };
 if (require.main === module) main().catch(e => { console.error(e); process.exit(1); });
