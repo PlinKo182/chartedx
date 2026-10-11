@@ -187,8 +187,9 @@ async function jwProviderTop(f) {
   return { movie: chart.movie.length >= 10 ? chart.movie : trending.movie, series: chart.series.length >= 10 ? chart.series : trending.series, mix: trending.mix };
 }
 
-// ---------- details Stremio shows in rows and previews: summary (pt-PT), year, genres; poster when RPDB has none ----------
-// cache "meta|{id}": { n: name, ty: type, d: summary, y: year, g: genres, p: fallback poster, rpdb: RPDB has a poster, at: date }
+// ---------- details Stremio shows in rows and previews, like Cinemeta's own catalogs ----------
+// cache "meta|{id}": { cm: Cinemeta's meta (IMDb rating, cast, background, logo, runtime, trailer, links) without episodes,
+//   d: summary (pt-PT from TMDB, else Cinemeta's), y: year, g: genres (pt), p: fallback poster, rpdb: RPDB has a poster, n, ty, at, v }
 const META_RECHECK_DAYS = 7; // entries missing a summary or an RPDB poster are looked up again after this
 const rpdbUrl = id => `https://api.ratingposterdb.com/${RPDB_KEY}/imdb/poster-default/${id}.jpg`;
 let tmdbGenres;
@@ -199,9 +200,15 @@ async function genreNames() {
   }
   return tmdbGenres;
 }
+const CINEMETA_DROP = ['videos', 'popularities', 'popularity', 'slug', 'imdb_id', 'moviedb_id', 'tvdb_id', 'poster', 'type'];
 async function details(r) {
-  const e = { n: r.name, ty: r.type, at: isoDay(0) };
+  const e = { n: r.name, ty: r.type, at: isoDay(0), v: 2 };
   e.rpdb = await fetch(rpdbUrl(r.id), { method: 'HEAD' }).then(x => x.ok, () => false);
+  const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${r.type}/${r.id}.json`).then(x => x.json(), () => ({}))).meta;
+  if (m) {
+    e.cm = Object.fromEntries(Object.entries(m).filter(([k]) => !CINEMETA_DROP.includes(k)));
+    for (const [k, n] of [['cast', 8], ['director', 3], ['writer', 3]]) if (Array.isArray(e.cm[k])) e.cm[k] = e.cm[k].slice(0, n);
+  }
   if (process.env.TMDB_API_KEY) { // TMDB: Portuguese summary, year, genres, poster
     const f = await tmdbGet(`/find/${r.id}?external_source=imdb_id&language=pt-PT`).catch(() => ({}));
     const hit = (r.type === 'movie' ? f.movie_results : f.tv_results)?.[0] || f.movie_results?.[0] || f.tv_results?.[0];
@@ -211,15 +218,13 @@ async function details(r) {
       if (hit.poster_path) e.p = `https://image.tmdb.org/t/p/w500${hit.poster_path}`;
     }
   }
-  if (!e.d || !e.y) { // Cinemeta (English) fills what TMDB didn't
-    const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${r.type}/${r.id}.json`).then(x => x.json(), () => ({}))).meta;
-    if (m) Object.assign(e, { d: e.d || m.description, y: e.y || m.releaseInfo, g: e.g?.length ? e.g : (m.genres || []).slice(0, 3) });
-  }
+  // Cinemeta (English) fills what TMDB didn't
+  if (m) Object.assign(e, { d: e.d || m.description, y: e.y || m.releaseInfo, g: e.g?.length ? e.g : (m.genres || []).slice(0, 3) });
   return e;
 }
-// look up what the cache lacks (or lacked a summary / RPDB poster for a week), 8 at a time
+// look up what the cache lacks (older format, or no summary / RPDB poster for a week), 8 at a time
 async function enrich(list, cache) {
-  const stale = e => !e || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
+  const stale = e => !e || e.v !== 2 || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
   const todo = [...new Map(list.filter(r => stale(cache[`meta|${r.id}`])).map(r => [r.id, r])).values()];
   for (let i = 0; i < todo.length; i += 8) {
     await Promise.all(todo.slice(i, i + 8).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
@@ -238,7 +243,8 @@ function toMetas(list, bucket, days, cache = {}) {
     }
     const e = cache[`meta|${r.id}`] || {};
     metas.push({
-      id: r.id, type: r.type, name: r.name, posterShape: 'poster',
+      ...e.cm,
+      id: r.id, type: r.type, name: e.cm?.name || r.name, posterShape: 'poster',
       poster: e.rpdb === false ? e.p || `https://images.metahub.space/poster/medium/${r.id}/img` : rpdbUrl(r.id),
       description: e.d, releaseInfo: e.y, genres: e.g?.length ? e.g : undefined,
     });

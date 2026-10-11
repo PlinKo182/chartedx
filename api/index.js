@@ -41,15 +41,18 @@ module.exports = async (req, res) => {
     return send(res, 200, 'image/png', fs.readFileSync(fs.existsSync(file) ? file : path.join(ROOT, 'logo.png')), 'public, max-age=86400');
   }
 
-  // a title Cinemeta doesn't know (very new / upcoming): its page from the details the daily run cached
+  // a title's page: Cinemeta's full meta (episodes included) with the Portuguese summary and the RPDB poster;
+  // titles Cinemeta doesn't know (very new / upcoming) get what the daily run cached
   const tt = parts[0] === 'meta' && (parts[2] || '').match(/^(tt\d+)\.json$/);
   if (tt) {
-    const e = JSON.parse(fs.readFileSync(path.join(ROOT, 'cache.json'), 'utf8'))[`meta|${tt[1]}`];
-    if (!e?.n) return send(res, 404, 'application/json', '{"meta":null}', 'public, max-age=3600');
+    const e = JSON.parse(fs.readFileSync(path.join(ROOT, 'cache.json'), 'utf8'))[`meta|${tt[1]}`] || {};
+    const poster = e.rpdb === false ? e.p : `https://api.ratingposterdb.com/${process.env.RPDB_KEY || 't0-free-rpdb'}/imdb/poster-default/${tt[1]}.jpg`;
+    const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${parts[1]}/${tt[1]}.json`).then(r => r.json(), () => ({}))).meta;
+    if (m) return send(res, 200, 'application/json', JSON.stringify({ meta: { ...m, description: e.d || m.description, poster: poster || m.poster } }), 'public, max-age=3600, s-maxage=21600');
+    if (!e.n) return send(res, 404, 'application/json', '{"meta":null}', 'public, max-age=3600');
     return send(res, 200, 'application/json', JSON.stringify({ meta: {
-      id: tt[1], type: parts[1], name: e.n, description: e.d, releaseInfo: e.y, genres: e.g,
-      poster: e.rpdb ? `https://api.ratingposterdb.com/${process.env.RPDB_KEY || 't0-free-rpdb'}/imdb/poster-default/${tt[1]}.jpg` : e.p,
-    } }), 'public, max-age=21600');
+      ...e.cm, id: tt[1], type: parts[1], name: e.n, description: e.d, releaseInfo: e.y, genres: e.g, poster,
+    } }), 'public, max-age=3600, s-maxage=21600');
   }
 
   // opening a separator shows a small page instead of an error
