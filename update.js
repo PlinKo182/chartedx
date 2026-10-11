@@ -232,14 +232,19 @@ async function ptSummary(id, type) {
 const CINEMETA_DROP = ['videos', 'popularities', 'popularity', 'slug', 'imdb_id', 'moviedb_id', 'tvdb_id', 'poster', 'type'];
 async function details(r) {
   const e = { n: r.name, ty: r.type, at: isoDay(0), v: 3 };
-  e.rpdb = await fetch(rpdbUrl(r.id), { method: 'HEAD' }).then(x => x.ok, () => false);
-  const m = (await fetch(`https://v3-cinemeta.strem.io/meta/${r.type}/${r.id}.json`).then(x => x.json(), () => ({}))).meta;
+  // RPDB poster?, Cinemeta's meta, TMDB's Portuguese summary: asked together
+  const [rpdb, cm, { hit, d }] = await Promise.all([
+    fetch(rpdbUrl(r.id), { method: 'HEAD' }).then(x => x.ok, () => false),
+    fetch(`https://v3-cinemeta.strem.io/meta/${r.type}/${r.id}.json`).then(x => x.json(), () => ({})),
+    ptSummary(r.id, r.type).catch(() => ({})),
+  ]);
+  e.rpdb = rpdb;
+  const m = cm.meta;
   if (m) {
     e.cm = Object.fromEntries(Object.entries(m).filter(([k]) => !CINEMETA_DROP.includes(k)));
     for (const [k, n] of [['cast', 8], ['director', 3], ['writer', 3]]) if (Array.isArray(e.cm[k])) e.cm[k] = e.cm[k].slice(0, n);
   }
-  const { hit, d } = await ptSummary(r.id, r.type); // TMDB: Portuguese summary, year, genres, poster
-  if (hit) {
+  if (hit) { // TMDB: Portuguese summary, year, genres, poster
     const names = await genreNames();
     Object.assign(e, { d, y: (hit.release_date || hit.first_air_date || '').slice(0, 4) || undefined, g: (hit.genre_ids || []).map(g => names[g]).filter(Boolean).slice(0, 3) });
     if (hit.poster_path) e.p = `https://image.tmdb.org/t/p/w500${hit.poster_path}`;
@@ -248,13 +253,13 @@ async function details(r) {
   if (m) Object.assign(e, { d: e.d || m.description, y: e.y || m.releaseInfo, g: e.g?.length ? e.g : (m.genres || []).slice(0, 3) });
   return e;
 }
-// look up what the cache lacks (older format, or no summary / RPDB poster for a week), 8 at a time
+// look up what the cache lacks (older format, or no summary / RPDB poster for a week), 16 at a time
 async function enrich(list, cache) {
   // v3: pt-BR fallback — entries still carrying Cinemeta's English summary get one more look
   const stale = e => !e || e.v < 2 || (e.v < 3 && e.d === e.cm?.description) || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
   const todo = [...new Map(list.filter(r => stale(cache[`meta|${r.id}`])).map(r => [r.id, r])).values()];
-  for (let i = 0; i < todo.length; i += 8) {
-    await Promise.all(todo.slice(i, i + 8).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
+  for (let i = 0; i < todo.length; i += 16) {
+    await Promise.all(todo.slice(i, i + 16).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
   }
 }
 
