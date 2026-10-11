@@ -1,6 +1,62 @@
 {
  "metas": [
   {
+   "id": "tt43738050",
+   "behaviorHints": {
+    "defaultVideoId": "tt43738050",
+    "hasScheduledVideos": false
+   },
+   "links": [
+    {
+     "name": "AlMahaitiya",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/almahaitiya-43738050"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Rashid Al Shamrani",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rashid%20Al%20Shamrani"
+    },
+    {
+     "name": "Fahad Albutairi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Fahad%20Albutairi"
+    },
+    {
+     "name": "Ahmed al-Gendy",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ahmed%20al-Gendy"
+    }
+   ],
+   "name": "AlMahaitiya",
+   "year": "2026",
+   "releaseInfo": "2026",
+   "genre": [
+    "Comedy"
+   ],
+   "genres": [
+    "Comédia",
+    "Drama"
+   ],
+   "cast": [
+    "Rashid Al Shamrani",
+    "Fahad Albutairi"
+   ],
+   "director": [
+    "Ahmed al-Gendy"
+   ],
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43738050.jpg",
+   "description": "Quando a pretensiosa e abastada família AlThahabi descobre que as finanças não correm tão bem como pensavam, vê-se forçada a fingir a opulência para sobreviver.",
+   "imdbRating": "4.2"
+  },
+  {
    "name": "The First Purge",
    "year": "2018",
    "genre": [
@@ -208,67 +264,82 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6468322.jpg"
   },
   {
-   "cast": [
-    "Tom Hiddleston",
-    "Owen Wilson",
-    "Sophia Di Martino"
-   ],
-   "description": "Depois de roubar o Tesseract durante os eventos de \"Vingadores: Endgame\", uma versão alternativa de Loki é levada à misteriosa Autoridade de Variação Temporal (AVT), uma organização burocrática que existe fora do tempo e do espaço e monitoriza a linha do tempo. Dão a Loki uma escolha: ser apagado da existência por ser uma \"variante temporal\" ou ajudar a corrigir a linha do tempo e parar uma ameaça maior.",
+   "name": "My Hero Academia",
+   "year": "2016–2026",
+   "runtime": "23 min",
    "genre": [
+    "Animation",
     "Action",
-    "Adventure",
-    "Fantasy"
+    "Adventure"
+   ],
+   "released": "2018-05-05T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Kôhei Horikoshi"
+   ],
+   "cast": [
+    "Daiki Yamashita",
+    "Justin Briner",
+    "Nobuhiko Okamoto"
    ],
    "imdbRating": "8.2",
-   "name": "Loki",
-   "released": "2021-06-09T00:00:00.000Z",
-   "year": "2021–2023",
+   "description": "Por toda a sua vida, Izuku sonhou ser um heroi, um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.",
+   "country": "Japan",
+   "awards": "41 wins & 70 nominations total",
+   "dvdRelease": null,
    "status": "Ended",
-   "director": [],
-   "writer": [
-    "Michael Waldron"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt9140554/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-   "country": "United States",
-   "awards": "Nominated for 9 Primetime Emmys. 16 wins & 97 nominations total",
-   "runtime": "49 min",
+   "background": "https://images.metahub.space/background/medium/tt5626028/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5626028/img",
    "trailers": [
     {
-     "source": "nW948Va-l10",
+     "source": "TRr_dS2REo4",
      "type": "Trailer"
     },
     {
-     "source": "G4JuopziR3Q",
+     "source": "broyogKLs2Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "wIb3nnOeves",
      "type": "Trailer"
     }
    ],
-   "id": "tt9140554",
+   "id": "tt5626028",
    "genres": [
-    "Drama",
+    "Action & Adventure",
+    "Animação",
     "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2021",
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "Loki",
-     "ytId": "nW948Va-l10"
+     "title": "My Hero Academia",
+     "ytId": "TRr_dS2REo4"
     },
     {
-     "title": "Loki",
-     "ytId": "G4JuopziR3Q"
+     "title": "My Hero Academia",
+     "ytId": "broyogKLs2Y"
+    },
+    {
+     "title": "My Hero Academia",
+     "ytId": "wIb3nnOeves"
     }
    ],
    "links": [
     {
      "name": "8.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9140554"
+     "url": "https://imdb.com/title/tt5626028"
     },
     {
-     "name": "Loki",
+     "name": "My Hero Academia",
      "category": "share",
-     "url": "https://www.strem.io/s/series/loki-9140554"
+     "url": "https://www.strem.io/s/series/my-hero-academia-5626028"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Action",
@@ -281,29 +352,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Tom Hiddleston",
+     "name": "Daiki Yamashita",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hiddleston"
+     "url": "stremio:///search?search=Daiki%20Yamashita"
     },
     {
-     "name": "Owen Wilson",
+     "name": "Justin Briner",
      "category": "Cast",
-     "url": "stremio:///search?search=Owen%20Wilson"
+     "url": "stremio:///search?search=Justin%20Briner"
     },
     {
-     "name": "Sophia Di Martino",
+     "name": "Nobuhiko Okamoto",
      "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Di%20Martino"
+     "url": "stremio:///search?search=Nobuhiko%20Okamoto"
     },
     {
-     "name": "Michael Waldron",
+     "name": "Kôhei Horikoshi",
      "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Waldron"
+     "url": "stremio:///search?search=K%C3%B4hei%20Horikoshi"
     }
    ],
    "behaviorHints": {
@@ -312,7 +378,121 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9140554.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5626028.jpg"
+  },
+  {
+   "name": "The Smashing Machine",
+   "cast": [
+    "Dwayne Johnson",
+    "Emily Blunt",
+    "Ryan Bader"
+   ],
+   "country": "United States, Japan, Canada",
+   "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
+   "director": [
+    "Benny Safdie"
+   ],
+   "genre": [
+    "Action",
+    "Biography",
+    "Drama"
+   ],
+   "imdbRating": "6.3",
+   "released": "2025-10-03T00:00:00.000Z",
+   "writer": [
+    "Benny Safdie"
+   ],
+   "year": "2025",
+   "background": "https://images.metahub.space/background/medium/tt11214558/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "u4A8zfMClCM",
+     "type": "Trailer"
+    },
+    {
+     "source": "21OUFEZGXIk",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
+   "id": "tt11214558",
+   "genres": [
+    "Drama",
+    "História",
+    "Ação"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Smashing Machine",
+     "ytId": "u4A8zfMClCM"
+    },
+    {
+     "title": "The Smashing Machine",
+     "ytId": "21OUFEZGXIk"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11214558"
+    },
+    {
+     "name": "The Smashing Machine",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Dwayne Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dwayne%20Johnson"
+    },
+    {
+     "name": "Emily Blunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Blunt"
+    },
+    {
+     "name": "Ryan Bader",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Bader"
+    },
+    {
+     "name": "Benny Safdie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Benny%20Safdie"
+    },
+    {
+     "name": "Benny Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Benny%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11214558",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
   },
   {
    "name": "Materialists",
@@ -460,59 +640,67 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30253473.jpg"
   },
   {
-   "name": "Get Jiro!",
    "cast": [
-    "Titus Welliver",
-    "Brian Tee",
-    "Alison Pill"
+    "Tom Hiddleston",
+    "Owen Wilson",
+    "Sophia Di Martino"
    ],
-   "country": "United States",
-   "description": "Num futuro em que Los Angeles é controlada por chefs de elite, um mestre de sushi chamado Jiro vê-se envolvido num conflito culinário feroz, procurando vingança através das suas habilidades culinárias no meio do competitivo mundo da restauração.",
+   "description": "Depois de roubar o Tesseract durante os eventos de \"Vingadores: Endgame\", uma versão alternativa de Loki é levada à misteriosa Autoridade de Variação Temporal (AVT), uma organização burocrática que existe fora do tempo e do espaço e monitoriza a linha do tempo. Dão a Loki uma escolha: ser apagado da existência por ser uma \"variante temporal\" ou ajudar a corrigir a linha do tempo e parar uma ameaça maior.",
    "genre": [
-    "Animation",
     "Action",
-    "Thriller"
+    "Adventure",
+    "Fantasy"
    ],
-   "imdbRating": "6.7",
-   "released": "2026-10-03T00:00:00.000Z",
+   "imdbRating": "8.2",
+   "name": "Loki",
+   "released": "2021-06-09T00:00:00.000Z",
+   "year": "2021–2023",
+   "status": "Ended",
+   "director": [],
    "writer": [
-    "Brian Gatewood",
-    "Alessandro Tanaka"
+    "Michael Waldron"
    ],
-   "year": "2026–",
+   "background": "https://images.metahub.space/background/medium/tt9140554/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+   "country": "United States",
+   "awards": "Nominated for 9 Primetime Emmys. 16 wins & 97 nominations total",
+   "runtime": "49 min",
    "trailers": [
     {
-     "source": "i8WDv3J7das",
+     "source": "nW948Va-l10",
+     "type": "Trailer"
+    },
+    {
+     "source": "G4JuopziR3Q",
      "type": "Trailer"
     }
    ],
-   "runtime": "23 min",
-   "status": "Continuing",
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt33406999/img",
-   "background": "https://images.metahub.space/background/medium/tt33406999/img",
-   "id": "tt33406999",
+   "id": "tt9140554",
    "genres": [
-    "Animação",
-    "Action & Adventure"
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2021",
    "trailerStreams": [
     {
-     "title": "Get Jiro!",
-     "ytId": "i8WDv3J7das"
+     "title": "Loki",
+     "ytId": "nW948Va-l10"
+    },
+    {
+     "title": "Loki",
+     "ytId": "G4JuopziR3Q"
     }
    ],
    "links": [
     {
-     "name": "Get Jiro!",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/get-jiro-33406999"
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9140554"
     },
     {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+     "name": "Loki",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/loki-9140554"
     },
     {
      "name": "Action",
@@ -520,34 +708,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Thriller",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Titus Welliver",
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Tom Hiddleston",
      "category": "Cast",
-     "url": "stremio:///search?search=Titus%20Welliver"
+     "url": "stremio:///search?search=Tom%20Hiddleston"
     },
     {
-     "name": "Brian Tee",
+     "name": "Owen Wilson",
      "category": "Cast",
-     "url": "stremio:///search?search=Brian%20Tee"
+     "url": "stremio:///search?search=Owen%20Wilson"
     },
     {
-     "name": "Alison Pill",
+     "name": "Sophia Di Martino",
      "category": "Cast",
-     "url": "stremio:///search?search=Alison%20Pill"
+     "url": "stremio:///search?search=Sophia%20Di%20Martino"
     },
     {
-     "name": "Brian Gatewood",
+     "name": "Michael Waldron",
      "category": "Writers",
-     "url": "stremio:///search?search=Brian%20Gatewood"
-    },
-    {
-     "name": "Alessandro Tanaka",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Tanaka"
+     "url": "stremio:///search?search=Michael%20Waldron"
     }
    ],
    "behaviorHints": {
@@ -556,121 +744,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg"
-  },
-  {
-   "name": "The Smashing Machine",
-   "cast": [
-    "Dwayne Johnson",
-    "Emily Blunt",
-    "Ryan Bader"
-   ],
-   "country": "United States, Japan, Canada",
-   "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
-   "director": [
-    "Benny Safdie"
-   ],
-   "genre": [
-    "Action",
-    "Biography",
-    "Drama"
-   ],
-   "imdbRating": "6.3",
-   "released": "2025-10-03T00:00:00.000Z",
-   "writer": [
-    "Benny Safdie"
-   ],
-   "year": "2025",
-   "background": "https://images.metahub.space/background/medium/tt11214558/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
-   "runtime": "123 min",
-   "trailers": [
-    {
-     "source": "u4A8zfMClCM",
-     "type": "Trailer"
-    },
-    {
-     "source": "21OUFEZGXIk",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
-   "id": "tt11214558",
-   "genres": [
-    "Drama",
-    "História",
-    "Ação"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Smashing Machine",
-     "ytId": "u4A8zfMClCM"
-    },
-    {
-     "title": "The Smashing Machine",
-     "ytId": "21OUFEZGXIk"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11214558"
-    },
-    {
-     "name": "The Smashing Machine",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Dwayne Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "Ryan Bader",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Bader"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11214558",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9140554.jpg"
   },
   {
    "name": "Anyone But You",
@@ -795,305 +869,167 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26047818.jpg"
   },
   {
+   "name": "Get Jiro!",
    "cast": [
-    "Daniel Zolghadri",
-    "Paul Schneider",
-    "Rebecca Hall"
+    "Titus Welliver",
+    "Brian Tee",
+    "Alison Pill"
    ],
    "country": "United States",
-   "description": "Contos do Loop explora as aventuras alucinantes de pessoas que vivem acima do Loop, uma máquina construída para abrir e explorar os mistérios do universo, tornando realidade coisas anteriormente relegadas à ficção científica.",
+   "description": "Num futuro em que Los Angeles é controlada por chefs de elite, um mestre de sushi chamado Jiro vê-se envolvido num conflito culinário feroz, procurando vingança através das suas habilidades culinárias no meio do competitivo mundo da restauração.",
    "genre": [
-    "Drama",
-    "Sci-Fi"
+    "Animation",
+    "Action",
+    "Thriller"
    ],
-   "imdbRating": "7.4",
-   "name": "Tales from the Loop",
-   "released": "2020-04-03T00:00:00.000Z",
+   "imdbRating": "6.7",
+   "released": "2026-10-03T00:00:00.000Z",
    "writer": [
-    "Nathaniel Halpern"
+    "Brian Gatewood",
+    "Alessandro Tanaka"
    ],
-   "year": "2020",
-   "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt8741290/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8741290/img",
-   "runtime": "53 min",
-   "awards": "Nominated for 2 Primetime Emmys. 10 nominations total",
+   "year": "2026–",
    "trailers": [
     {
-     "source": "1htuNZp82Ck",
+     "source": "i8WDv3J7das",
      "type": "Trailer"
     }
    ],
-   "id": "tt8741290",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt33406999/img",
+   "background": "https://images.metahub.space/background/medium/tt33406999/img",
+   "id": "tt33406999",
    "genres": [
-    "Sci-Fi & Fantasy",
-    "Mistério",
-    "Drama"
+    "Animação",
+    "Action & Adventure"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Tales from the Loop",
-     "ytId": "1htuNZp82Ck"
+     "title": "Get Jiro!",
+     "ytId": "i8WDv3J7das"
+    }
+   ],
+   "links": [
+    {
+     "name": "Get Jiro!",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/get-jiro-33406999"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Titus Welliver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Titus%20Welliver"
+    },
+    {
+     "name": "Brian Tee",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brian%20Tee"
+    },
+    {
+     "name": "Alison Pill",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alison%20Pill"
+    },
+    {
+     "name": "Brian Gatewood",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brian%20Gatewood"
+    },
+    {
+     "name": "Alessandro Tanaka",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alessandro%20Tanaka"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg"
+  },
+  {
+   "name": "Conclave",
+   "awards": "Won 1 Oscar. 95 wins & 326 nominations total",
+   "cast": [
+    "Ralph Fiennes",
+    "Stanley Tucci",
+    "John Lithgow"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Quando o Cardeal Lawrence é incumbido de liderar um dos eventos mais secretos e antigos do mundo, a seleção de um novo Papa, ele vê-se no centro de uma conspiração que pode abalar os próprios alicerces da Igreja Católica.",
+   "director": [
+    "Edward Berger"
+   ],
+   "genre": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.4",
+   "released": "2024-10-25T00:00:00.000Z",
+   "writer": [
+    "Peter Straughan",
+    "Robert Harris"
+   ],
+   "year": "2024",
+   "runtime": "120 min",
+   "trailers": [
+    {
+     "source": "t915aZmyEBg",
+     "type": "Trailer"
+    },
+    {
+     "source": "JX9jasdi3ic",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt20215234/img",
+   "logo": "https://images.metahub.space/logo/medium/tt20215234/img",
+   "id": "tt20215234",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Conclave",
+     "ytId": "t915aZmyEBg"
+    },
+    {
+     "title": "Conclave",
+     "ytId": "JX9jasdi3ic"
     }
    ],
    "links": [
     {
      "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt8741290"
+     "url": "https://imdb.com/title/tt20215234"
     },
     {
-     "name": "Tales from the Loop",
+     "name": "Conclave",
      "category": "share",
-     "url": "https://www.strem.io/s/series/tales-from-the-loop-8741290"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Daniel Zolghadri",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Zolghadri"
-    },
-    {
-     "name": "Paul Schneider",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Schneider"
-    },
-    {
-     "name": "Rebecca Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Hall"
-    },
-    {
-     "name": "Nathaniel Halpern",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nathaniel%20Halpern"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8741290.jpg"
-  },
-  {
-   "name": "The Expanse",
-   "year": "2015–2022",
-   "runtime": "46 min",
-   "genre": [
-    "Drama",
-    "Mystery",
-    "Sci-Fi"
-   ],
-   "released": "2015-11-23T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Daniel Abraham",
-    "Mark Fergus",
-    "Ty Franck"
-   ],
-   "cast": [
-    "Steven Strait",
-    "Dominique Tipper",
-    "Wes Chatham"
-   ],
-   "imdbRating": "8.5",
-   "description": "Situada 200 anos no futuro, The Expanse narra a história de um tempo em que a humanidade já colonizou o sistema solar. A história começa quando o desaparecimento de uma mulher leva um detective (Thomas Jane) e o capitão de uma nave espacial (Steven Strait) a trabalharem juntos, mas eles acabam entrando em uma corrida para revelar uma conspiração que pode ser a maior e mais perigosa da história da humanidade.",
-   "country": "United States",
-   "awards": "7 wins & 32 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt3230854/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3230854/img",
-   "trailers": [
-    {
-     "source": "M0QwBp_da28",
-     "type": "Trailer"
-    },
-    {
-     "source": "ydKmedH336Q",
-     "type": "Trailer"
-    },
-    {
-     "source": "8X5gXIQmY-E",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt3230854",
-   "genres": [
-    "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "The Expanse",
-     "ytId": "M0QwBp_da28"
-    },
-    {
-     "title": "The Expanse",
-     "ytId": "ydKmedH336Q"
-    },
-    {
-     "title": "The Expanse",
-     "ytId": "8X5gXIQmY-E"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt3230854"
-    },
-    {
-     "name": "The Expanse",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-expanse-3230854"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Steven Strait",
-     "category": "Cast",
-     "url": "stremio:///search?search=Steven%20Strait"
-    },
-    {
-     "name": "Dominique Tipper",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dominique%20Tipper"
-    },
-    {
-     "name": "Wes Chatham",
-     "category": "Cast",
-     "url": "stremio:///search?search=Wes%20Chatham"
-    },
-    {
-     "name": "Daniel Abraham",
-     "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20Abraham"
-    },
-    {
-     "name": "Mark Fergus",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mark%20Fergus"
-    },
-    {
-     "name": "Ty Franck",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ty%20Franck"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3230854.jpg"
-  },
-  {
-   "awards": "Won 1 Oscar. 42 wins & 62 nominations total",
-   "cast": [
-    "Sam Worthington",
-    "Zoe Saldaña",
-    "Sigourney Weaver"
-   ],
-   "country": "United States, Canada",
-   "description": "Após a devastadora guerra contra a RDA e a perda do seu filho mais velho, Jake Sully e Neytiri enfrentam uma nova ameaça em Pandora: o Povo das Cinzas, uma tribo Na'vi violenta e sedenta de poder liderada pelo implacável Varang. A família de Jake deve lutar pela sua sobrevivência e pelo futuro de Pandora num conflito que os leva ao limite emocional e físico.",
-   "director": [
-    "James Cameron"
-   ],
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "7.2",
-   "name": "Avatar: Fire and Ash",
-   "released": "2025-12-19T00:00:00.000Z",
-   "runtime": "198 min",
-   "trailers": [
-    {
-     "source": "Ma1x7ikpid8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nb_fFj_0rq8",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "James Cameron",
-    "Rick Jaffa",
-    "Amanda Silver"
-   ],
-   "year": "2025",
-   "background": "https://images.metahub.space/background/medium/tt1757678/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1757678/img",
-   "id": "tt1757678",
-   "genres": [
-    "Ficção científica",
-    "Aventura",
-    "Fantasia"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Avatar: Fire and Ash",
-     "ytId": "Ma1x7ikpid8"
-    },
-    {
-     "title": "Avatar: Fire and Ash",
-     "ytId": "nb_fFj_0rq8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1757678"
-    },
-    {
-     "name": "Avatar: Fire and Ash",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/avatar-fire-and-ash-1757678"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "https://www.strem.io/s/movie/conclave-20215234"
     },
     {
      "name": "Drama",
@@ -1101,48 +1037,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Sam Worthington",
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ralph Fiennes",
      "category": "Cast",
-     "url": "stremio:///search?search=Sam%20Worthington"
+     "url": "stremio:///search?search=Ralph%20Fiennes"
     },
     {
-     "name": "Zoe Saldaña",
+     "name": "Stanley Tucci",
      "category": "Cast",
-     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+     "url": "stremio:///search?search=Stanley%20Tucci"
     },
     {
-     "name": "Sigourney Weaver",
+     "name": "John Lithgow",
      "category": "Cast",
-     "url": "stremio:///search?search=Sigourney%20Weaver"
+     "url": "stremio:///search?search=John%20Lithgow"
     },
     {
-     "name": "James Cameron",
+     "name": "Peter Straughan",
      "category": "Writers",
-     "url": "stremio:///search?search=James%20Cameron"
+     "url": "stremio:///search?search=Peter%20Straughan"
     },
     {
-     "name": "Rick Jaffa",
+     "name": "Robert Harris",
      "category": "Writers",
-     "url": "stremio:///search?search=Rick%20Jaffa"
+     "url": "stremio:///search?search=Robert%20Harris"
     },
     {
-     "name": "Amanda Silver",
-     "category": "Writers",
-     "url": "stremio:///search?search=Amanda%20Silver"
-    },
-    {
-     "name": "James Cameron",
+     "name": "Edward Berger",
      "category": "Directors",
-     "url": "stremio:///search?search=James%20Cameron"
+     "url": "stremio:///search?search=Edward%20Berger"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1757678",
+    "defaultVideoId": "tt20215234",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20215234.jpg"
   }
  ]
 }
