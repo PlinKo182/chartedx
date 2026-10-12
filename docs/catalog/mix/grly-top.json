@@ -85,104 +85,53 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44877899.jpg"
   },
   {
-   "id": "tt1281973",
-   "logo": "https://live.metahub.space/logo/medium/tt1281973/img",
-   "background": "https://live.metahub.space/background/medium/tt1281973/img",
-   "name": "Bigg Boss",
-   "description": "Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all unfiltered!",
-   "genres": [
-    "Reality",
-    "Família"
-   ],
-   "releaseInfo": "2006",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "suuK8cYi69o",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "3.6",
-   "runtime": "42 min",
-   "language": "Hindi, Malayalam, Kannada, Telugu, Tamil",
-   "country": "India",
-   "awards": "38 wins & 20 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1281973.jpg"
-  },
-  {
-   "name": "Taskmaster",
-   "year": "2015–",
-   "runtime": "46 min",
-   "genre": [
-    "Comedy",
-    "Game-Show"
-   ],
-   "released": "2018-04-26T00:00:00.000Z",
-   "director": null,
-   "writer": null,
+   "name": "The Golden Ticket",
    "cast": [
-    "Greg Davies",
-    "Alex Horne",
-    "Ed Gamble"
+    "Gerard Dunning"
    ],
-   "imdbRating": "9.0",
-   "description": "Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word.",
-   "country": "United Kingdom",
-   "awards": "Won 2 BAFTA Awards. 4 wins & 17 nominations total",
-   "dvdRelease": null,
+   "country": "United States",
+   "description": "Nesta original competição, os jogadores entram na fábrica de chocolate de Wonka, onde enfrentam tentações, provas e jogos imprevisíveis.",
+   "genre": [
+    "Adventure",
+    "Game-Show",
+    "Reality-TV"
+   ],
+   "imdbRating": "5.1",
+   "released": null,
+   "year": "2026–",
+   "runtime": "52 min",
    "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt4934214/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4934214/img",
    "trailers": [
     {
-     "source": "Ahhr6gHoVp0",
-     "type": "Trailer"
-    },
-    {
-     "source": "hiutY6RDZHg",
+     "source": "kGVuOT6h11c",
      "type": "Trailer"
     }
    ],
-   "id": "tt4934214",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt36258621/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36258621/img",
+   "id": "tt36258621",
    "genres": [
-    "Comédia"
+    "Reality"
    ],
-   "releaseInfo": "2015",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Taskmaster",
-     "ytId": "Ahhr6gHoVp0"
-    },
-    {
-     "title": "Taskmaster",
-     "ytId": "hiutY6RDZHg"
+     "title": "The Golden Ticket",
+     "ytId": "kGVuOT6h11c"
     }
    ],
    "links": [
     {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4934214"
-    },
-    {
-     "name": "Taskmaster",
+     "name": "The Golden Ticket",
      "category": "share",
-     "url": "https://www.strem.io/s/series/taskmaster-4934214"
+     "url": "https://www.strem.io/s/series/the-golden-ticket-36258621"
     },
     {
-     "name": "Comedy",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
      "name": "Game-Show",
@@ -190,19 +139,14 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
     },
     {
-     "name": "Greg Davies",
-     "category": "Cast",
-     "url": "stremio:///search?search=Greg%20Davies"
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
     },
     {
-     "name": "Alex Horne",
+     "name": "Gerard Dunning",
      "category": "Cast",
-     "url": "stremio:///search?search=Alex%20Horne"
-    },
-    {
-     "name": "Ed Gamble",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ed%20Gamble"
+     "url": "stremio:///search?search=Gerard%20Dunning"
     }
    ],
    "behaviorHints": {
@@ -211,90 +155,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4934214.jpg"
-  },
-  {
-   "name": "The Grand Tour",
-   "cast": [
-    "James Engelsman",
-    "Thomas Holland",
-    "Francis Bourgeois"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "Bem-vindos ao The Grand Tour. O melhor programa automobilístico do mundo está de volta com novos apresentadores - Thomas Holland, James Engelsman e Francis Bourgeois - e com a sua mistura inconfundível de aventuras pelo mundo, veículos incríveis, acrobacias épicas e opiniões fortes.",
-   "genre": [
-    "Talk-Show",
-    "Sport"
-   ],
-   "imdbRating": "8.2",
-   "released": "2026-09-03T00:00:00.000Z",
-   "year": "2026–",
-   "trailers": [
-    {
-     "source": "oihKWzSkXjc",
-     "type": "Trailer"
-    }
-   ],
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt44974627/img",
-   "background": "https://images.metahub.space/background/medium/tt44974627/img",
-   "id": "tt44974627",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Grand Tour",
-     "ytId": "oihKWzSkXjc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt44974627"
-    },
-    {
-     "name": "The Grand Tour",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-grand-tour-44974627"
-    },
-    {
-     "name": "Talk-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Talk-Show"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "James Engelsman",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20Engelsman"
-    },
-    {
-     "name": "Thomas Holland",
-     "category": "Cast",
-     "url": "stremio:///search?search=Thomas%20Holland"
-    },
-    {
-     "name": "Francis Bourgeois",
-     "category": "Cast",
-     "url": "stremio:///search?search=Francis%20Bourgeois"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44974627.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36258621.jpg"
   },
   {
    "name": "The Grand Tour",
@@ -398,77 +259,39 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5712554.jpg"
   },
   {
-   "name": "The Golden Ticket",
-   "cast": [
-    "Gerard Dunning"
+   "id": "tt1281973",
+   "logo": "https://live.metahub.space/logo/medium/tt1281973/img",
+   "background": "https://live.metahub.space/background/medium/tt1281973/img",
+   "name": "Bigg Boss",
+   "description": "Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all unfiltered!",
+   "genres": [
+    "Reality",
+    "Família"
    ],
-   "country": "United States",
-   "description": "Nesta original competição, os jogadores entram na fábrica de chocolate de Wonka, onde enfrentam tentações, provas e jogos imprevisíveis.",
-   "genre": [
-    "Adventure",
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "5.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "52 min",
+   "releaseInfo": "2006",
    "status": "Continuing",
    "trailers": [
     {
-     "source": "kGVuOT6h11c",
+     "source": "suuK8cYi69o",
      "type": "Trailer"
     }
    ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
    "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt36258621/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36258621/img",
-   "id": "tt36258621",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Golden Ticket",
-     "ytId": "kGVuOT6h11c"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Golden Ticket",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-golden-ticket-36258621"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Gerard Dunning",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Dunning"
-    }
-   ],
+   "imdbRating": "3.6",
+   "runtime": "42 min",
+   "language": "Hindi, Malayalam, Kannada, Telugu, Tamil",
+   "country": "India",
+   "awards": "38 wins & 20 nominations total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36258621.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1281973.jpg"
   },
   {
    "name": "The Traitors",
@@ -556,64 +379,57 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15557874.jpg"
   },
   {
-   "awards": null,
+   "awards": "2 nominations total",
    "cast": [
-    "Eric Drummond",
-    "Jesse Feldman",
-    "Chad Watkins"
+    "Meri Brown",
+    "Kody Brown",
+    "Janelle Brown"
    ],
    "country": "United States",
-   "description": "Oito mineiros deixam para trás suas famílias, amigos e país, buscando fazer fortuna. Entretanto, terão que lutar para sobreviver em condições adversas na gelada Groenlândia.",
+   "description": "O marido Kody Brown, junto com suas quatro esposas (apenas uma das quais é legalmente casada com Kody) e seus 18 filhos combinados, tenta viver a vida como uma família \"normal\" em uma sociedade que evita seu estilo de vida.",
    "director": null,
    "dvdRelease": null,
    "genre": [
     "Reality-TV"
    ],
-   "imdbRating": "5.4",
-   "name": "Ice Cold Gold",
-   "released": "2013-04-21T00:00:00.000Z",
-   "runtime": "59 min",
-   "status": "Ended",
+   "imdbRating": "4.6",
+   "name": "Sister Wives",
+   "released": "2010-09-26T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Continuing",
    "writer": null,
-   "year": "2013–2015",
+   "year": "2010–",
+   "logo": "https://images.metahub.space/logo/medium/tt1721666/img",
+   "background": "https://images.metahub.space/background/medium/tt1721666/img",
    "trailers": [
     {
-     "source": "KXr495Yf6uA",
-     "type": "Trailer"
-    },
-    {
-     "source": "2MmFI562oo4",
+     "source": "vY14odcyaBk",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt2812850/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2812850/img",
-   "id": "tt2812850",
+   "id": "tt1721666",
    "genres": [
-    "Documentário",
-    "Reality"
+    "Reality",
+    "Drama",
+    "Família"
    ],
-   "releaseInfo": "2013",
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "Ice Cold Gold",
-     "ytId": "KXr495Yf6uA"
-    },
-    {
-     "title": "Ice Cold Gold",
-     "ytId": "2MmFI562oo4"
+     "title": "Sister Wives",
+     "ytId": "vY14odcyaBk"
     }
    ],
    "links": [
     {
-     "name": "5.5",
+     "name": "4.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2812850"
+     "url": "https://imdb.com/title/tt1721666"
     },
     {
-     "name": "Ice Cold Gold",
+     "name": "Sister Wives",
      "category": "share",
-     "url": "https://www.strem.io/s/series/ice-cold-gold-2812850"
+     "url": "https://www.strem.io/s/series/sister-wives-1721666"
     },
     {
      "name": "Reality-TV",
@@ -621,19 +437,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
     },
     {
-     "name": "Eric Drummond",
+     "name": "Meri Brown",
      "category": "Cast",
-     "url": "stremio:///search?search=Eric%20Drummond"
+     "url": "stremio:///search?search=Meri%20Brown"
     },
     {
-     "name": "Jesse Feldman",
+     "name": "Kody Brown",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Feldman"
+     "url": "stremio:///search?search=Kody%20Brown"
     },
     {
-     "name": "Chad Watkins",
+     "name": "Janelle Brown",
      "category": "Cast",
-     "url": "stremio:///search?search=Chad%20Watkins"
+     "url": "stremio:///search?search=Janelle%20Brown"
     }
    ],
    "behaviorHints": {
@@ -642,7 +458,50 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2812850.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1721666.jpg"
+  },
+  {
+   "id": "tt19106798",
+   "logo": "https://live.metahub.space/logo/medium/tt19106798/img",
+   "background": "https://live.metahub.space/background/medium/tt19106798/img",
+   "name": "Love Village",
+   "description": "Em busca de um novo amor, solteiros e solteiras com 35 anos ou mais se mudam para uma casa de campo. Será que vão encontrar sua alma gêmea ou voltar para casa sozinhos?",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2023",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Atsushi Tamura",
+    "Becky"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Atsushi Tamura",
+     "profile_path": "/5czRdtrFK6sKexPOeohprtakowG.jpg",
+     "id": 1249685
+    },
+    {
+     "character": "Self",
+     "name": "Becky",
+     "profile_path": "/gEfrZfn9QHSBFVnBazKvMNfmij2.jpg",
+     "id": 1229893
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.4",
+   "language": "Japanese",
+   "country": "United States, Japan",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19106798.jpg"
   },
   {
    "awards": "1 win & 5 nominations",
@@ -797,6 +656,52 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15791630.jpg"
+  },
+  {
+   "id": "tt28224610",
+   "logo": "https://live.metahub.space/logo/medium/tt28224610/img",
+   "background": "https://live.metahub.space/background/medium/tt28224610/img",
+   "name": "Sam & Colby",
+   "description": "Join Sam and Colby as they explore and document the creepiest haunted sites. Maintaining their infectious humor in even the darkest of situations, paranormal investigation has never been more fun.",
+   "genres": [
+    "Reality",
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2023",
+   "status": "Continuing",
+   "runtime": "55 min",
+   "trailers": [],
+   "cast": [
+    "Sam Golbach",
+    "Colby Brock"
+   ],
+   "credits_cast": [
+    {
+     "character": "Sam",
+     "name": "Sam Golbach",
+     "profile_path": null,
+     "id": 1908920
+    },
+    {
+     "character": "Colby",
+     "name": "Colby Brock",
+     "profile_path": null,
+     "id": 4333959
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "6.0",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28224610.jpg"
   }
  ]
 }

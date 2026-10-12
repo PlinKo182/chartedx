@@ -16,7 +16,7 @@
     "Action",
     "Adventure"
    ],
-   "imdbRating": "8.0",
+   "imdbRating": "7.9",
    "released": "2026-07-31T00:00:00.000Z",
    "writer": [
     "Chris McKenna",
@@ -253,6 +253,163 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32393988.jpg"
   },
   {
+   "name": "Matchbox",
+   "country": "United States",
+   "description": "O reencontro de um grupo de antigos amigos de infância sofre uma reviravolta quando se deparam com uma perigosa conspiração internacional – e têm de salvar o mundo.",
+   "genre": [
+    "Action"
+   ],
+   "imdbRating": "5.7",
+   "released": null,
+   "year": "2026",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "7xfqITrMDcI",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "John Cena",
+    "Jessica Biel",
+    "Arturo Castro",
+    "Sam Richardson",
+    "Teyonah Parris",
+    "Danai Gurira",
+    "Golshifteh Farahani",
+    "Corey Stoll"
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt28498219/img",
+   "background": "https://images.metahub.space/background/medium/tt28498219/img",
+   "id": "tt28498219",
+   "genres": [
+    "Ação",
+    "Comédia",
+    "Aventura"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Matchbox",
+     "ytId": "7xfqITrMDcI"
+    }
+   ],
+   "links": [
+    {
+     "name": "Matchbox",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/matchbox-28498219"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt28498219",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg"
+  },
+  {
+   "name": "Carrie",
+   "cast": [
+    "Summer H. Howell",
+    "Matthew Lillard",
+    "Amber Midthunder"
+   ],
+   "country": "Canada, United States",
+   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
+   "genre": [
+    "Drama",
+    "Horror"
+   ],
+   "imdbRating": "7.9",
+   "released": "2026-10-07T00:00:00.000Z",
+   "writer": [
+    "Mike Flanagan"
+   ],
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "jkUw2nh6fT0",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
+   "background": "https://images.metahub.space/background/medium/tt11540908/img",
+   "id": "tt11540908",
+   "genres": [
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Carrie",
+     "ytId": "jkUw2nh6fT0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11540908"
+    },
+    {
+     "name": "Carrie",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/carrie-11540908"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Summer H. Howell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Summer%20H.%20Howell"
+    },
+    {
+     "name": "Matthew Lillard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Lillard"
+    },
+    {
+     "name": "Amber Midthunder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amber%20Midthunder"
+    },
+    {
+     "name": "Mike Flanagan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mike%20Flanagan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
    "name": "Fall 2: Deadpoint",
    "cast": [
     "Harriet Slater",
@@ -374,99 +531,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31192372.jpg"
-  },
-  {
-   "name": "Carrie",
-   "cast": [
-    "Summer H. Howell",
-    "Matthew Lillard",
-    "Amber Midthunder"
-   ],
-   "country": "Canada, United States",
-   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
-   "genre": [
-    "Drama",
-    "Horror"
-   ],
-   "imdbRating": "7.9",
-   "released": "2026-10-07T00:00:00.000Z",
-   "writer": [
-    "Mike Flanagan"
-   ],
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "jkUw2nh6fT0",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
-   "background": "https://images.metahub.space/background/medium/tt11540908/img",
-   "id": "tt11540908",
-   "genres": [
-    "Mistério",
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Carrie",
-     "ytId": "jkUw2nh6fT0"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11540908"
-    },
-    {
-     "name": "Carrie",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/carrie-11540908"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Summer H. Howell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Summer%20H.%20Howell"
-    },
-    {
-     "name": "Matthew Lillard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Lillard"
-    },
-    {
-     "name": "Amber Midthunder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amber%20Midthunder"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
   },
   {
    "name": "Animals",
@@ -835,70 +899,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27165187.jpg"
   },
   {
-   "name": "Matchbox",
-   "country": "United States",
-   "description": "O reencontro de um grupo de antigos amigos de infância sofre uma reviravolta quando se deparam com uma perigosa conspiração internacional – e têm de salvar o mundo.",
-   "genre": [
-    "Action"
-   ],
-   "imdbRating": "5.7",
-   "released": null,
-   "year": "2026",
-   "runtime": "127 min",
-   "trailers": [
-    {
-     "source": "7xfqITrMDcI",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "John Cena",
-    "Jessica Biel",
-    "Arturo Castro",
-    "Sam Richardson",
-    "Teyonah Parris",
-    "Danai Gurira",
-    "Golshifteh Farahani",
-    "Corey Stoll"
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt28498219/img",
-   "background": "https://images.metahub.space/background/medium/tt28498219/img",
-   "id": "tt28498219",
-   "genres": [
-    "Ação",
-    "Comédia",
-    "Aventura"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Matchbox",
-     "ytId": "7xfqITrMDcI"
-    }
-   ],
-   "links": [
-    {
-     "name": "Matchbox",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/matchbox-28498219"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt28498219",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg"
-  },
-  {
    "name": "Toy Story 5",
    "awards": "4 nominations total",
    "cast": [
@@ -1023,106 +1023,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
-  },
-  {
-   "name": "Avatar: Seven Havens",
-   "cast": [
-    "Dee Bradley Baker",
-    "Darren Barnet",
-    "Sakina Jaffrey"
-   ],
-   "country": "United States",
-   "description": "Num mundo devastado por um cataclismo catastrófico, uma jovem dobradora de terra descobre que é a nova Avatar, sucessora de Korra. Mas, nesta era perigosa, este título marca-a como a destruidora da humanidade, e não a sua salvadora. Caçada por inimigos humanos e espirituais, ela e a sua irmã gémea, há muito perdida, têm de desvendar as suas misteriosas origens e salvar os Sete Refúgios antes que os últimos bastiões da civilização se desmoronem.",
-   "genre": [
-    "Animation",
-    "Action",
-    "Adventure"
-   ],
-   "imdbRating": "8.4",
-   "released": "2026-10-09T00:00:00.000Z",
-   "writer": [
-    "Michael Dante DiMartino",
-    "Bryan Konietzko"
-   ],
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "nhdh962_ee0",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt35854736/img",
-   "background": "https://images.metahub.space/background/medium/tt35854736/img",
-   "id": "tt35854736",
-   "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Avatar: Seven Havens",
-     "ytId": "nhdh962_ee0"
-    }
-   ],
-   "links": [
-    {
-     "name": "Avatar: Seven Havens",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/avatar-seven-havens-35854736"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Dee Bradley Baker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dee%20Bradley%20Baker"
-    },
-    {
-     "name": "Darren Barnet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Darren%20Barnet"
-    },
-    {
-     "name": "Sakina Jaffrey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sakina%20Jaffrey"
-    },
-    {
-     "name": "Michael Dante DiMartino",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Dante%20DiMartino"
-    },
-    {
-     "name": "Bryan Konietzko",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Konietzko"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg"
   },
   {
    "name": "Below",
@@ -1339,6 +1239,106 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30887701.jpg"
   },
   {
+   "name": "Avatar: Seven Havens",
+   "cast": [
+    "Dee Bradley Baker",
+    "Darren Barnet",
+    "Sakina Jaffrey"
+   ],
+   "country": "United States",
+   "description": "Num mundo devastado por um cataclismo catastrófico, uma jovem dobradora de terra descobre que é a nova Avatar, sucessora de Korra. Mas, nesta era perigosa, este título marca-a como a destruidora da humanidade, e não a sua salvadora. Caçada por inimigos humanos e espirituais, ela e a sua irmã gémea, há muito perdida, têm de desvendar as suas misteriosas origens e salvar os Sete Refúgios antes que os últimos bastiões da civilização se desmoronem.",
+   "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ],
+   "imdbRating": "8.3",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Michael Dante DiMartino",
+    "Bryan Konietzko"
+   ],
+   "year": "2026–",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "nhdh962_ee0",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt35854736/img",
+   "background": "https://images.metahub.space/background/medium/tt35854736/img",
+   "id": "tt35854736",
+   "genres": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Avatar: Seven Havens",
+     "ytId": "nhdh962_ee0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Avatar: Seven Havens",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/avatar-seven-havens-35854736"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Dee Bradley Baker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dee%20Bradley%20Baker"
+    },
+    {
+     "name": "Darren Barnet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Darren%20Barnet"
+    },
+    {
+     "name": "Sakina Jaffrey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sakina%20Jaffrey"
+    },
+    {
+     "name": "Michael Dante DiMartino",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Dante%20DiMartino"
+    },
+    {
+     "name": "Bryan Konietzko",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bryan%20Konietzko"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg"
+  },
+  {
    "name": "Onslaught",
    "cast": [
     "Adria Arjona",
@@ -1479,7 +1479,7 @@
     "Fantasy",
     "Romance"
    ],
-   "imdbRating": "7.7",
+   "imdbRating": "7.6",
    "released": "2026-10-09T00:00:00.000Z",
    "year": "2026–",
    "runtime": "63 min",
@@ -1672,7 +1672,7 @@
     "Mystery",
     "Thriller"
    ],
-   "imdbRating": "8.8",
+   "imdbRating": "8.0",
    "released": "2026-10-09T00:00:00.000Z",
    "year": "2026–",
    "trailers": [
@@ -1741,77 +1741,236 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg"
   },
   {
-   "name": "East of Eden",
+   "id": "tt47657999",
+   "logo": "https://live.metahub.space/logo/medium/tt47657999/img",
+   "background": "https://live.metahub.space/background/medium/tt47657999/img",
+   "name": "Reporting Live",
+   "description": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "115 min",
+   "trailers": [],
    "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
+    "Parineeti Chopra",
+    "Deven Bhojani",
+    "Adil Hussain"
+   ],
+   "credits_cast": [
+    {
+     "character": "Sandhya",
+     "name": "Parineeti Chopra",
+     "profile_path": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
+     "id": 1034471
+    },
+    {
+     "character": "Vinod",
+     "name": "Deven Bhojani",
+     "profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+     "id": 110292
+    },
+    {
+     "character": "",
+     "name": "Adil Hussain",
+     "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+     "id": 227849
+    },
+    {
+     "character": "",
+     "name": "Shekhar Suman",
+     "profile_path": "/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg",
+     "id": 1235143
+    },
+    {
+     "character": "",
+     "name": "Amol Palekar",
+     "profile_path": "/kUnejDjArzNVxouIaIj3WxxC83G.jpg",
+     "id": 105650
+    },
+    {
+     "character": "",
+     "name": "Nassar",
+     "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+     "id": 130111
+    },
+    {
+     "character": "",
+     "name": "Geeta Agrawal Sharma",
+     "profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
+     "id": 1197127
+    },
+    {
+     "character": "",
+     "name": "Saswata Chatterjee",
+     "profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
+     "id": 1093644
+    },
+    {
+     "character": "",
+     "name": "Prachee Shah",
+     "profile_path": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg",
+     "id": 1239665
+    },
+    {
+     "character": "",
+     "name": "Pitobash",
+     "profile_path": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg",
+     "id": 225163
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Joshua Shirsath",
+     "profile_path": null,
+     "id": 3244921
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Dhruv Tripathi",
+     "profile_path": null,
+     "id": 6511882
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Partha Thakur",
+     "profile_path": null,
+     "id": 2320818
+    }
+   ],
+   "director": [
+    "Dhruv Tripathi"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt47657999",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657999.jpg",
+   "imdbRating": "6.0"
+  },
+  {
+   "name": "V/H/S/Mixtape",
+   "cast": [
+    "Omar Mustafa Adem",
+    "Sarah Berman",
+    "Jihad Brent"
    ],
    "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
-   "genre": [
-    "Drama"
+   "description": "V/H/S/MIXTAPE eleva o volume do terror com uma coleção ensanguentada de videoclipes amaldiçoados, atuações aterradoras e imagens de arquivo. Carrega no play. Reza para que acabe.",
+   "director": [
+    "Ernest Dickerson",
+    "Flying Lotus",
+    "Tobias Forge"
    ],
-   "imdbRating": "8.1",
-   "released": "2026-10-01T00:00:00.000Z",
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "4.6",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Zoe Cooper",
+    "Ernest Dickerson",
+    "Matt Landsman"
+   ],
    "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
+   "runtime": "98 min",
    "trailers": [
     {
-     "source": "M9NWvGZViCg",
+     "source": "GrIouRKyPDw",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
+   "logo": "https://images.metahub.space/logo/medium/tt43739386/img",
+   "background": "https://images.metahub.space/background/medium/tt43739386/img",
+   "id": "tt43739386",
    "genres": [
-    "Drama"
+    "Terror",
+    "Música",
+    "Thriller"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
+     "title": "V/H/S/Mixtape",
+     "ytId": "GrIouRKyPDw"
     }
    ],
    "links": [
     {
-     "name": "East of Eden",
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt43739386"
+    },
+    {
+     "name": "V/H/S/Mixtape",
      "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+     "url": "https://www.strem.io/s/movie/vhsmixtape-43739386"
     },
     {
-     "name": "Drama",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Florence Pugh",
+     "name": "Omar Mustafa Adem",
      "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "url": "stremio:///search?search=Omar%20Mustafa%20Adem"
     },
     {
-     "name": "Mike Faist",
+     "name": "Sarah Berman",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
+     "url": "stremio:///search?search=Sarah%20Berman"
     },
     {
-     "name": "Christopher Abbott",
+     "name": "Jihad Brent",
      "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
+     "url": "stremio:///search?search=Jihad%20Brent"
+    },
+    {
+     "name": "Zoe Cooper",
+     "category": "Writers",
+     "url": "stremio:///search?search=Zoe%20Cooper"
+    },
+    {
+     "name": "Ernest Dickerson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ernest%20Dickerson"
+    },
+    {
+     "name": "Matt Landsman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Landsman"
+    },
+    {
+     "name": "Ernest Dickerson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ernest%20Dickerson"
+    },
+    {
+     "name": "Flying Lotus",
+     "category": "Directors",
+     "url": "stremio:///search?search=Flying%20Lotus"
+    },
+    {
+     "name": "Tobias Forge",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tobias%20Forge"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt43739386",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43739386.jpg"
   },
   {
    "name": "Disclosure Day",
@@ -1933,59 +2092,48 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15047880.jpg"
   },
   {
-   "name": "Coven Academy",
+   "name": "East of Eden",
    "cast": [
-    "Lucia Morris",
-    "Saylor McPherson",
-    "Everett Andres"
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
    ],
    "country": "United States",
-   "description": "A série acompanha três bruxas adolescentes e os seus companheiros bruxos perigosamente charmosos num exclusivo colégio interno de magia, onde o poder é moeda corrente, os segredos são mortais e a atração é uma desvantagem. Entaladas entre antigas guerras sobrenaturais e amores proibidos, o clã tem de decidir até onde estão dispostos a ir para proteger a sua cidade e a si próprios.",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
    "genre": [
-    "Comedy",
-    "Drama",
-    "Family"
+    "Drama"
    ],
-   "imdbRating": "6.3",
-   "released": null,
-   "writer": [
-    "Tim Federle"
-   ],
-   "year": "2026–",
-   "runtime": "16 min",
-   "status": "Continuing",
+   "imdbRating": "8.1",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
    "trailers": [
     {
-     "source": "zz9nAM9qa3c",
+     "source": "M9NWvGZViCg",
      "type": "Trailer"
     }
    ],
    "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt36064406/img",
-   "background": "https://images.metahub.space/background/medium/tt36064406/img",
-   "id": "tt36064406",
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
    "genres": [
-    "Mistério",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Drama"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Coven Academy",
-     "ytId": "zz9nAM9qa3c"
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
     }
    ],
    "links": [
     {
-     "name": "Coven Academy",
+     "name": "East of Eden",
      "category": "share",
-     "url": "https://www.strem.io/s/series/coven-academy-36064406"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
     },
     {
      "name": "Drama",
@@ -1993,29 +2141,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
-    },
-    {
-     "name": "Lucia Morris",
+     "name": "Florence Pugh",
      "category": "Cast",
-     "url": "stremio:///search?search=Lucia%20Morris"
+     "url": "stremio:///search?search=Florence%20Pugh"
     },
     {
-     "name": "Saylor McPherson",
+     "name": "Mike Faist",
      "category": "Cast",
-     "url": "stremio:///search?search=Saylor%20McPherson"
+     "url": "stremio:///search?search=Mike%20Faist"
     },
     {
-     "name": "Everett Andres",
+     "name": "Christopher Abbott",
      "category": "Cast",
-     "url": "stremio:///search?search=Everett%20Andres"
-    },
-    {
-     "name": "Tim Federle",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Federle"
+     "url": "stremio:///search?search=Christopher%20Abbott"
     }
    ],
    "behaviorHints": {
@@ -2024,142 +2162,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36064406.jpg"
-  },
-  {
-   "name": "Ice Cream Man",
-   "cast": [
-    "Eli Roth",
-    "Dylan Hawco",
-    "Benjamin Byron Davis"
-   ],
-   "country": "United States, Canada, United Kingdom, France, Japan",
-   "description": "Durante o verão, a tranquilidade de uma pacata vila suburbana é abalada pela chegada de um misterioso vendedor de gelados. As suas doces tentações depressa revelam efeitos aterradores, sobretudo entre as crianças. À medida que os habitantes descobrem que algo monstruoso se esconde por detrás da aparência inocente do camião de gelados, a comunidade mergulha numa espiral de loucura, violência e terror.",
-   "director": [
-    "Eli Roth"
-   ],
-   "genre": [
-    "Comedy",
-    "Horror",
-    "Thriller"
-   ],
-   "imdbRating": "4.0",
-   "released": "2026-08-07T00:00:00.000Z",
-   "writer": [
-    "Noah Belson",
-    "Eli Roth"
-   ],
-   "year": "2026",
-   "runtime": "86 min",
-   "trailers": [
-    {
-     "source": "Cgw3zNmFtRo",
-     "type": "Trailer"
-    },
-    {
-     "source": "BjtVXWa3tWI",
-     "type": "Trailer"
-    },
-    {
-     "source": "SHxqHdBNm-w",
-     "type": "Trailer"
-    },
-    {
-     "source": "vw6owu-U7wU",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt36893729/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36893729/img",
-   "id": "tt36893729",
-   "genres": [
-    "Comédia",
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Ice Cream Man",
-     "ytId": "Cgw3zNmFtRo"
-    },
-    {
-     "title": "Ice Cream Man",
-     "ytId": "BjtVXWa3tWI"
-    },
-    {
-     "title": "Ice Cream Man",
-     "ytId": "SHxqHdBNm-w"
-    },
-    {
-     "title": "Ice Cream Man",
-     "ytId": "vw6owu-U7wU"
-    }
-   ],
-   "links": [
-    {
-     "name": "3.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt36893729"
-    },
-    {
-     "name": "Ice Cream Man",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/ice-cream-man-36893729"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Eli Roth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eli%20Roth"
-    },
-    {
-     "name": "Dylan Hawco",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dylan%20Hawco"
-    },
-    {
-     "name": "Benjamin Byron Davis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benjamin%20Byron%20Davis"
-    },
-    {
-     "name": "Noah Belson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Noah%20Belson"
-    },
-    {
-     "name": "Eli Roth",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eli%20Roth"
-    },
-    {
-     "name": "Eli Roth",
-     "category": "Directors",
-     "url": "stremio:///search?search=Eli%20Roth"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt36893729",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36893729.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   }
  ]
 }
