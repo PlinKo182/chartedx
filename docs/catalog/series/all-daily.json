@@ -882,62 +882,69 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13207736.jpg"
   },
   {
-   "awards": "Won 7 Primetime Emmys. 19 wins & 36 nominations total",
+   "name": "House of the Dragon",
    "cast": [
-    "Kevin McKidd",
-    "Ray Stevenson",
-    "Polly Walker"
+    "Matt Smith",
+    "Emma D&apos;Arcy",
+    "Olivia Cooke"
    ],
-   "country": "United Kingdom, United States",
-   "description": "A saga de dois soldados romanos normais que se veem involuntariamente envolvidos nos eventos históricos da Roma antiga. Relata os eventos históricos frenéticos que viram a morte de uma república e o nascimento de um império.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "United States",
+   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
    "genre": [
     "Action",
-    "Drama",
-    "Romance"
+    "Adventure",
+    "Drama"
    ],
-   "imdbRating": "8.7",
-   "name": "Rome",
-   "released": "2005-08-28T00:00:00.000Z",
-   "runtime": "52 min",
-   "status": "Ended",
+   "imdbRating": "8.2",
+   "released": "2022-08-21T00:00:00.000Z",
    "writer": [
-    "Bruno Heller",
-    "William J. MacDonald",
-    "John Milius"
+    "Ryan J. Condal",
+    "George R.R. Martin"
    ],
-   "year": "2005–2007",
-   "background": "https://images.metahub.space/background/medium/tt0384766/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0384766/img",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11198330/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
+   "runtime": "60 min",
    "trailers": [
     {
-     "source": "rtUQqiIa0oI",
+     "source": "DotnJ7tTA34",
+     "type": "Trailer"
+    },
+    {
+     "source": "Wg86eQkdudI",
      "type": "Trailer"
     }
    ],
-   "id": "tt0384766",
+   "id": "tt11198330",
    "genres": [
-    "Action & Adventure",
-    "Drama"
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
    ],
-   "releaseInfo": "2005",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Rome",
-     "ytId": "rtUQqiIa0oI"
+     "title": "House of the Dragon",
+     "ytId": "DotnJ7tTA34"
+    },
+    {
+     "title": "House of the Dragon",
+     "ytId": "Wg86eQkdudI"
     }
    ],
    "links": [
     {
-     "name": "8.7",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0384766"
+     "url": "https://imdb.com/title/tt11198330"
     },
     {
-     "name": "Rome",
+     "name": "House of the Dragon",
      "category": "share",
-     "url": "https://www.strem.io/s/series/rome-0384766"
+     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
     },
     {
      "name": "Action",
@@ -945,44 +952,39 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Kevin McKidd",
+     "name": "Matt Smith",
      "category": "Cast",
-     "url": "stremio:///search?search=Kevin%20McKidd"
+     "url": "stremio:///search?search=Matt%20Smith"
     },
     {
-     "name": "Ray Stevenson",
+     "name": "Emma D&apos;Arcy",
      "category": "Cast",
-     "url": "stremio:///search?search=Ray%20Stevenson"
+     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
     },
     {
-     "name": "Polly Walker",
+     "name": "Olivia Cooke",
      "category": "Cast",
-     "url": "stremio:///search?search=Polly%20Walker"
+     "url": "stremio:///search?search=Olivia%20Cooke"
     },
     {
-     "name": "Bruno Heller",
+     "name": "Ryan J. Condal",
      "category": "Writers",
-     "url": "stremio:///search?search=Bruno%20Heller"
+     "url": "stremio:///search?search=Ryan%20J.%20Condal"
     },
     {
-     "name": "William J. MacDonald",
+     "name": "George R.R. Martin",
      "category": "Writers",
-     "url": "stremio:///search?search=William%20J.%20MacDonald"
-    },
-    {
-     "name": "John Milius",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Milius"
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
     }
    ],
    "behaviorHints": {
@@ -991,7 +993,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0384766.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
   }
  ]
 }
