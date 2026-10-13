@@ -920,72 +920,66 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743760.jpg"
   },
   {
-   "name": "The Crown",
-   "status": "Ended",
+   "awards": "Won 8 Primetime Emmys. 28 wins & 85 nominations total",
    "cast": [
-    "Claire Foy",
-    "Olivia Colman",
-    "Imelda Staunton"
+    "Timothy Olyphant",
+    "Ian McShane",
+    "Molly Parker"
    ],
+   "country": "United States",
+   "description": "Decorrendo nas Black Hills na segunda metade do século XIX, esta série centra-se na evolução de uma cidade de fronteira americana e na implacável luta pelo poder entre os seus habitantes.",
    "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Biography",
+    "Crime",
     "Drama",
     "History"
    ],
-   "writer": [
-    "Peter Morgan"
-   ],
-   "year": "2016–2023",
-   "runtime": "55 min",
-   "released": "2016-11-04T00:00:00.000Z",
    "imdbRating": "8.6",
-   "description": "Este drama segue as rivalidades políticas e intrigas românticas do reinado da Rainha Elizabeth II, e os eventos que moldaram a segunda metade do século XX.",
-   "country": "United Kingdom, United States",
-   "awards": "Won 24 Primetime Emmys. 158 wins & 431 nominations total",
-   "dvdRelease": null,
-   "background": "https://images.metahub.space/background/medium/tt4786824/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4786824/img",
+   "name": "Deadwood",
+   "released": "2004-03-21T00:00:00.000Z",
+   "runtime": "31S min",
+   "status": "Ended",
+   "writer": [
+    "David Milch"
+   ],
+   "year": "2004–2006",
+   "background": "https://images.metahub.space/background/medium/tt0348914/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0348914/img",
    "trailers": [
     {
-     "source": "JWtnJjn6ng0",
-     "type": "Trailer"
-    },
-    {
-     "source": "n8Q0bJ_zO7w",
+     "source": "mFIojradr4Y",
      "type": "Trailer"
     }
    ],
-   "id": "tt4786824",
+   "id": "tt0348914",
    "genres": [
+    "Faroeste",
+    "Crime",
     "Drama"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2004",
    "trailerStreams": [
     {
-     "title": "The Crown",
-     "ytId": "JWtnJjn6ng0"
-    },
-    {
-     "title": "The Crown",
-     "ytId": "n8Q0bJ_zO7w"
+     "title": "Deadwood",
+     "ytId": "mFIojradr4Y"
     }
    ],
    "links": [
     {
      "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4786824"
+     "url": "https://imdb.com/title/tt0348914"
     },
     {
-     "name": "The Crown",
+     "name": "Deadwood",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-crown-4786824"
+     "url": "https://www.strem.io/s/series/deadwood-0348914"
     },
     {
-     "name": "Biography",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -998,24 +992,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Claire Foy",
+     "name": "Timothy Olyphant",
      "category": "Cast",
-     "url": "stremio:///search?search=Claire%20Foy"
+     "url": "stremio:///search?search=Timothy%20Olyphant"
     },
     {
-     "name": "Olivia Colman",
+     "name": "Ian McShane",
      "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Colman"
+     "url": "stremio:///search?search=Ian%20McShane"
     },
     {
-     "name": "Imelda Staunton",
+     "name": "Molly Parker",
      "category": "Cast",
-     "url": "stremio:///search?search=Imelda%20Staunton"
+     "url": "stremio:///search?search=Molly%20Parker"
     },
     {
-     "name": "Peter Morgan",
+     "name": "David Milch",
      "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Morgan"
+     "url": "stremio:///search?search=David%20Milch"
     }
    ],
    "behaviorHints": {
@@ -1024,7 +1018,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4786824.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0348914.jpg"
   },
   {
    "awards": "3 wins & 6 nominations total",
@@ -1149,57 +1143,72 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2975578.jpg"
   },
   {
-   "name": "One Hundred Years of Solitude",
+   "name": "The Crown",
+   "status": "Ended",
    "cast": [
-    "Viña Machado",
-    "Jesus Reyes",
-    "Claudio Cataño"
+    "Claire Foy",
+    "Olivia Colman",
+    "Imelda Staunton"
    ],
-   "country": "Colombia",
-   "description": "Na cidade intemporal de Macondo, sete gerações da família Buendía lidam com o amor, o esquecimento e a inevitabilidade do passado... e do destino.",
+   "director": null,
    "genre": [
+    "Biography",
     "Drama",
-    "Fantasy",
     "History"
    ],
-   "imdbRating": "8.3",
-   "released": "2024-12-11T00:00:00.000Z",
-   "year": "2024–2026",
+   "writer": [
+    "Peter Morgan"
+   ],
+   "year": "2016–2023",
+   "runtime": "55 min",
+   "released": "2016-11-04T00:00:00.000Z",
+   "imdbRating": "8.6",
+   "description": "Este drama segue as rivalidades políticas e intrigas românticas do reinado da Rainha Elizabeth II, e os eventos que moldaram a segunda metade do século XX.",
+   "country": "United Kingdom, United States",
+   "awards": "Won 24 Primetime Emmys. 158 wins & 431 nominations total",
+   "dvdRelease": null,
+   "background": "https://images.metahub.space/background/medium/tt4786824/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4786824/img",
    "trailers": [
     {
-     "source": "4oQeQR1DEjw",
+     "source": "JWtnJjn6ng0",
+     "type": "Trailer"
+    },
+    {
+     "source": "n8Q0bJ_zO7w",
      "type": "Trailer"
     }
    ],
-   "runtime": "67 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt9892936/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9892936/img",
-   "awards": "13 wins & 14 nominations total",
-   "id": "tt9892936",
+   "id": "tt4786824",
    "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Drama"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "One Hundred Years of Solitude",
-     "ytId": "4oQeQR1DEjw"
+     "title": "The Crown",
+     "ytId": "JWtnJjn6ng0"
+    },
+    {
+     "title": "The Crown",
+     "ytId": "n8Q0bJ_zO7w"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9892936"
+     "url": "https://imdb.com/title/tt4786824"
     },
     {
-     "name": "One Hundred Years of Solitude",
+     "name": "The Crown",
      "category": "share",
-     "url": "https://www.strem.io/s/series/one-hundred-years-of-solitude-9892936"
+     "url": "https://www.strem.io/s/series/the-crown-4786824"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
     },
     {
      "name": "Drama",
@@ -1207,29 +1216,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
      "name": "History",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Viña Machado",
+     "name": "Claire Foy",
      "category": "Cast",
-     "url": "stremio:///search?search=Vi%C3%B1a%20Machado"
+     "url": "stremio:///search?search=Claire%20Foy"
     },
     {
-     "name": "Jesus Reyes",
+     "name": "Olivia Colman",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesus%20Reyes"
+     "url": "stremio:///search?search=Olivia%20Colman"
     },
     {
-     "name": "Claudio Cataño",
+     "name": "Imelda Staunton",
      "category": "Cast",
-     "url": "stremio:///search?search=Claudio%20Cata%C3%B1o"
+     "url": "stremio:///search?search=Imelda%20Staunton"
+    },
+    {
+     "name": "Peter Morgan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Morgan"
     }
    ],
    "behaviorHints": {
@@ -1238,7 +1247,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9892936.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4786824.jpg"
   }
  ]
 }

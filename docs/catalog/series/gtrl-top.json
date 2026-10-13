@@ -492,61 +492,69 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
   },
   {
-   "name": "The Handmaid's Tale",
-   "year": "2017–2025",
-   "runtime": "51 min",
-   "genre": [
-    "Drama",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "released": "2017-04-26T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Bruce Miller"
-   ],
    "cast": [
-    "Elisabeth Moss",
-    "Yvonne Strahovski",
-    "Ann Dowd"
+    "Alan Ritchson",
+    "Maria Sten",
+    "Malcolm Goodwin"
    ],
-   "imdbRating": "8.3",
-   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
    "country": "United States",
-   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt5834204/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
+   "description": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
+   "director": null,
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "name": "Reacher",
+   "released": "2022-02-04T00:00:00.000Z",
+   "writer": [
+    "Nick Santora"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt9288030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+   "awards": "3 wins & 13 nominations total",
+   "runtime": "49 min",
    "trailers": [
     {
-     "source": "81PyH5TH-NQ",
+     "source": "GSycMV-_Csw",
      "type": "Trailer"
     }
    ],
-   "id": "tt5834204",
+   "id": "tt9288030",
    "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy",
-    "Action & Adventure"
+    "Action & Adventure",
+    "Crime"
    ],
-   "releaseInfo": "2017",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "The Handmaid's Tale",
-     "ytId": "81PyH5TH-NQ"
+     "title": "Reacher",
+     "ytId": "GSycMV-_Csw"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt5834204"
+     "url": "https://imdb.com/title/tt9288030"
     },
     {
-     "name": "The Handmaid's Tale",
+     "name": "Reacher",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
+     "url": "https://www.strem.io/s/series/reacher-9288030"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -554,34 +562,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Elisabeth Moss",
+     "name": "Alan Ritchson",
      "category": "Cast",
-     "url": "stremio:///search?search=Elisabeth%20Moss"
+     "url": "stremio:///search?search=Alan%20Ritchson"
     },
     {
-     "name": "Yvonne Strahovski",
+     "name": "Maria Sten",
      "category": "Cast",
-     "url": "stremio:///search?search=Yvonne%20Strahovski"
+     "url": "stremio:///search?search=Maria%20Sten"
     },
     {
-     "name": "Ann Dowd",
+     "name": "Malcolm Goodwin",
      "category": "Cast",
-     "url": "stremio:///search?search=Ann%20Dowd"
+     "url": "stremio:///search?search=Malcolm%20Goodwin"
     },
     {
-     "name": "Bruce Miller",
+     "name": "Nick Santora",
      "category": "Writers",
-     "url": "stremio:///search?search=Bruce%20Miller"
+     "url": "stremio:///search?search=Nick%20Santora"
     }
    ],
    "behaviorHints": {
@@ -590,7 +588,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg"
   },
   {
    "name": "Neagley",
@@ -795,106 +793,96 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
   },
   {
-   "name": "Outer Banks",
-   "cast": [
-    "Chase Stokes",
-    "Madelyn Cline",
-    "Madison Bailey"
-   ],
-   "country": "United States",
-   "description": "Numa ilha de ricos e pobres da Carolina do Norte, John B e o seu grupo coeso de amigos encontram mistério e aventura numa caça ao tesouro perdido.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Crime"
-   ],
-   "imdbRating": "7.5",
-   "released": "2020-04-15T00:00:00.000Z",
-   "writer": [
-    "Shannon Burke",
-    "Jonas Pate",
-    "Josh Pate"
-   ],
-   "year": "2020–2026",
-   "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt10293938/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10293938/img",
+   "name": "The Handmaid's Tale",
+   "year": "2017–2025",
    "runtime": "51 min",
-   "awards": "5 wins & 11 nominations total",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "released": "2017-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Bruce Miller"
+   ],
+   "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Ann Dowd"
+   ],
+   "imdbRating": "8.3",
+   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
+   "country": "United States",
+   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5834204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
    "trailers": [
     {
-     "source": "pfY3j-3uQhk",
+     "source": "81PyH5TH-NQ",
      "type": "Trailer"
     }
    ],
-   "id": "tt10293938",
+   "id": "tt5834204",
    "genres": [
-    "Action & Adventure",
-    "Mistério"
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Outer Banks",
-     "ytId": "pfY3j-3uQhk"
+     "title": "The Handmaid's Tale",
+     "ytId": "81PyH5TH-NQ"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10293938"
+     "url": "https://imdb.com/title/tt5834204"
     },
     {
-     "name": "Outer Banks",
+     "name": "The Handmaid's Tale",
      "category": "share",
-     "url": "https://www.strem.io/s/series/outer-banks-10293938"
+     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
     },
     {
-     "name": "Action",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Adventure",
+     "name": "Sci-Fi",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
     },
     {
-     "name": "Crime",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Chase Stokes",
+     "name": "Elisabeth Moss",
      "category": "Cast",
-     "url": "stremio:///search?search=Chase%20Stokes"
+     "url": "stremio:///search?search=Elisabeth%20Moss"
     },
     {
-     "name": "Madelyn Cline",
+     "name": "Yvonne Strahovski",
      "category": "Cast",
-     "url": "stremio:///search?search=Madelyn%20Cline"
+     "url": "stremio:///search?search=Yvonne%20Strahovski"
     },
     {
-     "name": "Madison Bailey",
+     "name": "Ann Dowd",
      "category": "Cast",
-     "url": "stremio:///search?search=Madison%20Bailey"
+     "url": "stremio:///search?search=Ann%20Dowd"
     },
     {
-     "name": "Shannon Burke",
+     "name": "Bruce Miller",
      "category": "Writers",
-     "url": "stremio:///search?search=Shannon%20Burke"
-    },
-    {
-     "name": "Jonas Pate",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonas%20Pate"
-    },
-    {
-     "name": "Josh Pate",
-     "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Pate"
+     "url": "stremio:///search?search=Bruce%20Miller"
     }
    ],
    "behaviorHints": {
@@ -903,67 +891,60 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10293938.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
   },
   {
+   "name": "Cape Fear",
    "cast": [
-    "Alan Ritchson",
-    "Maria Sten",
-    "Malcolm Goodwin"
+    "Amy Adams",
+    "Javier Bardem",
+    "Patrick Wilson"
    ],
    "country": "United States",
-   "description": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
-   "director": null,
+   "description": "Uma tempestade atinge dois advogados casados e felizes, quando um assassino famoso do passado deles sai da prisão.",
    "genre": [
-    "Action",
     "Crime",
-    "Drama"
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "8.0",
-   "name": "Reacher",
-   "released": "2022-02-04T00:00:00.000Z",
-   "writer": [
-    "Nick Santora"
-   ],
-   "year": "2022–",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt9288030/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
-   "awards": "3 wins & 13 nominations total",
-   "runtime": "49 min",
+   "imdbRating": "6.7",
+   "released": "2026-06-05T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "51 min",
+   "status": "Ended",
    "trailers": [
     {
-     "source": "GSycMV-_Csw",
+     "source": "FZ3sN5E-mBU",
      "type": "Trailer"
     }
    ],
-   "id": "tt9288030",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt34675596/img",
+   "logo": "https://images.metahub.space/logo/medium/tt34675596/img",
+   "awards": "2 nominations total",
+   "id": "tt34675596",
    "genres": [
-    "Action & Adventure",
-    "Crime"
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Reacher",
-     "ytId": "GSycMV-_Csw"
+     "title": "Cape Fear",
+     "ytId": "FZ3sN5E-mBU"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "6.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9288030"
+     "url": "https://imdb.com/title/tt34675596"
     },
     {
-     "name": "Reacher",
+     "name": "Cape Fear",
      "category": "share",
-     "url": "https://www.strem.io/s/series/reacher-9288030"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "https://www.strem.io/s/series/cape-fear-34675596"
     },
     {
      "name": "Crime",
@@ -976,24 +957,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Alan Ritchson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alan%20Ritchson"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Maria Sten",
+     "name": "Amy Adams",
      "category": "Cast",
-     "url": "stremio:///search?search=Maria%20Sten"
+     "url": "stremio:///search?search=Amy%20Adams"
     },
     {
-     "name": "Malcolm Goodwin",
+     "name": "Javier Bardem",
      "category": "Cast",
-     "url": "stremio:///search?search=Malcolm%20Goodwin"
+     "url": "stremio:///search?search=Javier%20Bardem"
     },
     {
-     "name": "Nick Santora",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Santora"
+     "name": "Patrick Wilson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Patrick%20Wilson"
     }
    ],
    "behaviorHints": {
@@ -1002,7 +983,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34675596.jpg"
   }
  ]
 }

@@ -1079,108 +1079,140 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0463854.jpg"
   },
   {
-   "name": "In the Grey",
+   "awards": "6 wins & 9 nominations total",
    "cast": [
-    "Henry Cavill",
-    "Jake Gyllenhaal",
-    "Eiza González"
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd"
    ],
    "country": "United Kingdom, United States",
-   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
+   "description": "O escritor Jack Torrance chega ao elegante e isolado Overlook Hotel, com a sua mulher e o filho pequeno. O seu objectivo é escrever um livro, ao mesmo tempo que serve de guarda de Inverno de um espaço que costuma ficar sem acessos nas estações frias. Torrance nunca tinha estado lá - ou será que tinha? A resposta vai ser encontrada num fantasmagórico turbilhão de loucura e de morte.",
    "director": [
-    "Guy Ritchie"
+    "Stanley Kubrick"
    ],
+   "dvdRelease": "2008-08-15T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Crime",
-    "Thriller"
+    "Drama",
+    "Horror"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-05-15T00:00:00.000Z",
-   "writer": [
-    "Guy Ritchie"
-   ],
-   "year": "2026",
-   "runtime": "97 min",
+   "imdbRating": "8.4",
+   "name": "The Shining",
+   "released": "1980-06-13T00:00:00.000Z",
+   "runtime": "144 min",
    "trailers": [
     {
-     "source": "nufP15iN4GE",
+     "source": "jAE7dNurHR4",
+     "type": "Trailer"
+    },
+    {
+     "source": "FZQvIJxG9Xs",
+     "type": "Trailer"
+    },
+    {
+     "source": "ANKdpe4J2h0",
+     "type": "Trailer"
+    },
+    {
+     "source": "S014oGZiSdI",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt27681354/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
-   "id": "tt27681354",
+   "writer": [
+    "Stephen King",
+    "Stanley Kubrick",
+    "Diane Johnson"
+   ],
+   "year": "1980",
+   "background": "https://images.metahub.space/background/medium/tt0081505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0081505/img",
+   "id": "tt0081505",
    "genres": [
-    "Ação",
+    "Terror",
     "Thriller"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "1980",
    "trailerStreams": [
     {
-     "title": "In the Grey",
-     "ytId": "nufP15iN4GE"
+     "title": "The Shining",
+     "ytId": "jAE7dNurHR4"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "FZQvIJxG9Xs"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "ANKdpe4J2h0"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "S014oGZiSdI"
     }
    ],
    "links": [
     {
-     "name": "6.3",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt27681354"
+     "url": "https://imdb.com/title/tt0081505"
     },
     {
-     "name": "In the Grey",
+     "name": "The Shining",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
+     "url": "https://www.strem.io/s/movie/the-shining-0081505"
     },
     {
-     "name": "Action",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Crime",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Henry Cavill",
+     "name": "Jack Nicholson",
      "category": "Cast",
-     "url": "stremio:///search?search=Henry%20Cavill"
+     "url": "stremio:///search?search=Jack%20Nicholson"
     },
     {
-     "name": "Jake Gyllenhaal",
+     "name": "Shelley Duvall",
      "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+     "url": "stremio:///search?search=Shelley%20Duvall"
     },
     {
-     "name": "Eiza González",
+     "name": "Danny Lloyd",
      "category": "Cast",
-     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
+     "url": "stremio:///search?search=Danny%20Lloyd"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Stephen King",
      "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Stephen%20King"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Stanley Kubrick",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stanley%20Kubrick"
+    },
+    {
+     "name": "Diane Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Diane%20Johnson"
+    },
+    {
+     "name": "Stanley Kubrick",
      "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Stanley%20Kubrick"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27681354",
+    "defaultVideoId": "tt0081505",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg"
   }
  ]
 }
