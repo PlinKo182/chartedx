@@ -300,7 +300,8 @@ async function enrich(list, cache) {
   const stale = e => !e || e.v < 2 || (e.v < 3 && e.d === e.cm?.description) || (e.v < 4 && !e.cm?.cast?.length) || ((!e.d || !e.rpdb) && (Date.parse(isoDay(0)) - Date.parse(e.at)) / 864e5 >= META_RECHECK_DAYS);
   const todo = [...new Map(list.filter(r => stale(cache[`meta|${r.id}`])).map(r => [r.id, r])).values()];
   for (let i = 0; i < todo.length; i += 16) {
-    await Promise.all(todo.slice(i, i + 16).map(async r => { cache[`meta|${r.id}`] = await details(r).catch(() => cache[`meta|${r.id}`]); }));
+    // a failed lookup keeps what the cache had (nothing for a new title: it's tried again next run)
+    await Promise.all(todo.slice(i, i + 16).map(async r => { const e = await details(r).catch(() => null); if (e) cache[`meta|${r.id}`] = e; }));
   }
 }
 
