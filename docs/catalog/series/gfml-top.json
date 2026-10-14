@@ -656,79 +656,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4644488.jpg"
   },
   {
-   "name": "The Golden Ticket",
-   "cast": [
-    "Gerard Dunning"
-   ],
-   "country": "United States",
-   "description": "Nesta original competição, os jogadores entram na fábrica de chocolate de Wonka, onde enfrentam tentações, provas e jogos imprevisíveis.",
-   "genre": [
-    "Adventure",
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "5.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "kGVuOT6h11c",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt36258621/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36258621/img",
-   "id": "tt36258621",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Golden Ticket",
-     "ytId": "kGVuOT6h11c"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Golden Ticket",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-golden-ticket-36258621"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Gerard Dunning",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Dunning"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36258621.jpg"
-  },
-  {
    "name": "Wednesday",
    "cast": [
     "Jenna Ortega",
@@ -1169,6 +1096,82 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2580046.jpg"
+  },
+  {
+   "name": "Lego One Piece",
+   "country": "United States, Canada, Japan, Denmark",
+   "description": "Os Chapéus de Palha fazem-se ao mar num especial LEGO de dois episódios! Junta-te a Luffy, Nami, Usopp e à tripulação numa viagem épica, recriada tijolo a tijolo.",
+   "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ],
+   "imdbRating": "6.8",
+   "released": "2026-09-29T00:00:00.000Z",
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "5Z8oBbmkgXo",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Iñaki Godoy",
+    "Emily Rudd",
+    "Mackenyu",
+    "Jacob Gibson",
+    "Taz Skylar",
+    "Mikaela Hoover",
+    "Jeff Ward"
+   ],
+   "director": [],
+   "writer": [],
+   "runtime": "34 min",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt41538904/img",
+   "logo": "https://images.metahub.space/logo/medium/tt41538904/img",
+   "id": "tt41538904",
+   "genres": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Lego One Piece",
+     "ytId": "5Z8oBbmkgXo"
+    }
+   ],
+   "links": [
+    {
+     "name": "Lego One Piece",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lego-one-piece-41538904"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41538904.jpg"
   }
  ]
 }

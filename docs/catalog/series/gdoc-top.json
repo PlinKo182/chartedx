@@ -55,7 +55,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "5.9"
+   "imdbRating": "5.3"
   },
   {
    "name": "Clarkson's Farm",
@@ -599,93 +599,40 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13592494.jpg"
   },
   {
-   "awards": null,
-   "cast": [
-    "Eric Drummond",
-    "Jesse Feldman",
-    "Chad Watkins"
-   ],
-   "country": "United States",
-   "description": "Oito mineiros deixam para trás suas famílias, amigos e país, buscando fazer fortuna. Entretanto, terão que lutar para sobreviver em condições adversas na gelada Groenlândia.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Reality-TV"
-   ],
-   "imdbRating": "5.4",
-   "name": "Ice Cold Gold",
-   "released": "2013-04-21T00:00:00.000Z",
-   "runtime": "59 min",
-   "status": "Ended",
-   "writer": null,
-   "year": "2013–2015",
-   "trailers": [
-    {
-     "source": "KXr495Yf6uA",
-     "type": "Trailer"
-    },
-    {
-     "source": "2MmFI562oo4",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt2812850/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2812850/img",
-   "id": "tt2812850",
+   "id": "tt38876692",
+   "logo": "https://live.metahub.space/logo/medium/tt38876692/img",
+   "background": "https://live.metahub.space/background/medium/tt38876692/img",
+   "name": "The Infinite Explorer with Hannah Fry",
+   "description": "Professor Hannah Fry sets off on a global adventure, not just to see the world but to decode it. With curiosity, wit and insight she peels back the layers in six iconic locations: Spain, Vietnam, Greece, South Korea, Ireland, and Iceland. Through stunning landscapes, vibrant cities and off the beaten track treasures, Hannah seeks out extraordinary local voices and unexpected quirks of history and geography that reveal what makes each place truly unique. Always seeking patterns and hidden connections, she uncovers how Spain’s destiny was shaped by mountains, analyses traffic etiquette in Ho Chi Minh City, reveals secrets hidden in the geometry at the Parthenon and how Irish syntax builds a world view. This is much more than a travelogue—it’s a journey into the forces that shape nations and define cultures.",
    "genres": [
-    "Documentário",
-    "Reality"
+    "Documentário"
    ],
-   "releaseInfo": "2013",
-   "trailerStreams": [
+   "releaseInfo": "2025",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Hannah Fry"
+   ],
+   "credits_cast": [
     {
-     "title": "Ice Cold Gold",
-     "ytId": "KXr495Yf6uA"
-    },
-    {
-     "title": "Ice Cold Gold",
-     "ytId": "2MmFI562oo4"
+     "character": "Presenter",
+     "name": "Hannah Fry",
+     "profile_path": "/rWbrOdtlxGhX1C22hyVYiVqwoqI.jpg",
+     "id": 1573208
     }
    ],
-   "links": [
-    {
-     "name": "5.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2812850"
-    },
-    {
-     "name": "Ice Cold Gold",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/ice-cold-gold-2812850"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Eric Drummond",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eric%20Drummond"
-    },
-    {
-     "name": "Jesse Feldman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Feldman"
-    },
-    {
-     "name": "Chad Watkins",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chad%20Watkins"
-    }
-   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.8",
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2812850.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38876692.jpg"
   }
  ]
 }
