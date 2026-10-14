@@ -233,64 +233,323 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0384766.jpg"
   },
   {
-   "awards": "Nominated for 1 Oscar. 41 wins & 20 nominations total",
+   "awards": "Nominated for 1 Primetime Emmy. 8 wins & 32 nominations total",
    "cast": [
-    "Lubna Azabal",
-    "Mélissa Désormeaux-Poulin",
-    "Maxim Gaudette"
+    "Dominic Purcell",
+    "Wentworth Miller",
+    "Amaury Nolasco"
    ],
-   "country": "Canada, France",
-   "description": "Quando a mãe de Jeanne e Simon Marwan morre, começam as surpresas para este casal de gémeos. No testamento recebem dois envelopes inesperados: um dirigido ao pai que eles julgavam morto, o outro a um irmão de quem nunca tinham ouvido falar. Jeanne decide imediatamente partir para o Médio Oriente em busca do passado e da história da mãe, uma mulher que sempre fora algo distante e secreta. Mais tarde Simon acaba por se lhe juntar nessa viagem a um país dilacerado por lutas intestinas.",
-   "director": [
-    "Denis Villeneuve"
-   ],
-   "dvdRelease": "2014-06-10T00:00:00.000Z",
+   "country": "United States",
+   "description": "Quando o seu irmão é condenado por um assassinato que não cometeu, Michael Scofield decide tirá-lo da prisão. Mas não pela porta de frente.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Drama",
-    "Mystery",
-    "War"
+    "Action",
+    "Crime",
+    "Drama"
    ],
    "imdbRating": "8.3",
-   "name": "Incendies",
-   "released": "2011-04-22T00:00:00.000Z",
-   "runtime": "131 min",
+   "name": "Prison Break",
+   "released": "2005-08-29T00:00:00.000Z",
+   "runtime": "45 min",
+   "status": "Ended",
+   "writer": [
+    "Paul T. Scheuring"
+   ],
+   "year": "2005–2017",
+   "background": "https://images.metahub.space/background/medium/tt0455275/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
    "trailers": [
     {
-     "source": "XJ69WnwvZhE",
+     "source": "AL9zLctDJaU",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Wajdi Mouawad",
-    "Denis Villeneuve",
-    "Valérie Beaugrand-Champagne"
-   ],
-   "year": "2011",
-   "background": "https://images.metahub.space/background/medium/tt1255953/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1255953/img",
-   "id": "tt1255953",
+   "id": "tt0455275",
    "genres": [
-    "Drama",
-    "Guerra",
-    "Mistério"
+    "Action & Adventure",
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "2005",
    "trailerStreams": [
     {
-     "title": "Incendies",
-     "ytId": "XJ69WnwvZhE"
+     "title": "Prison Break",
+     "ytId": "AL9zLctDJaU"
     }
    ],
    "links": [
     {
      "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1255953"
+     "url": "https://imdb.com/title/tt0455275"
     },
     {
-     "name": "Incendies",
+     "name": "Prison Break",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/incendies-1255953"
+     "url": "https://www.strem.io/s/series/prison-break-0455275"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Dominic Purcell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dominic%20Purcell"
+    },
+    {
+     "name": "Wentworth Miller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Wentworth%20Miller"
+    },
+    {
+     "name": "Amaury Nolasco",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amaury%20Nolasco"
+    },
+    {
+     "name": "Paul T. Scheuring",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20T.%20Scheuring"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0455275.jpg"
+  },
+  {
+   "awards": "15 wins & 34 nominations total",
+   "cast": [
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Liam Hemsworth"
+   ],
+   "country": "United States, Germany, Canada, France",
+   "description": "Com a nação de Panem em guerra total, Katniss Everdeen reúne uma equipa constituída pelos seus amigos mais próximos, Gale, Finnick, e Peeta, e embarca numa missão destinada a assassinar o Presidente Snow. As armadilhas mortais, os inimigos e as opções morais que aguardam Katniss vão desafiá-la mais do que qualquer arena que alguma vez enfrentou nos Jogos da Fome.",
+   "director": [
+    "Francis Lawrence"
+   ],
+   "dvdRelease": "2016-03-08T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+   ],
+   "imdbRating": "6.6",
+   "name": "The Hunger Games: Mockingjay - Part 2",
+   "released": "2015-11-20T00:00:00.000Z",
+   "runtime": "137 min",
+   "trailers": [
+    {
+     "source": "SoKIqLEGhI0",
+     "type": "Trailer"
+    },
+    {
+     "source": "YddkQoxkZMQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "3zVaD7t39w8",
+     "type": "Trailer"
+    },
+    {
+     "source": "n-7K_OjsDCQ",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Peter Craig",
+    "Danny Strong",
+    "Suzanne Collins"
+   ],
+   "year": "2015",
+   "background": "https://images.metahub.space/background/medium/tt1951266/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1951266/img",
+   "affiliates": {
+    "fandango_embed": "<a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">\n    <img src=\"http://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/159276/FIN06_Seashore2_Payoff_25x38.jpg\" alt=\"The Hunger Games: Mockingjay - Part 2 poster\" />\n</a>\n<div>\n    <a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">The Hunger Games: Mockingjay - Part 2</a>\n    <time datetime=\"2015-11-20T00:00:00.000Z\">November 20, 2015</time>\n</div>\n",
+    "fandango_link": "/the-hunger-games-mockingjay-part-2_159276/movieoverview"
+   },
+   "id": "tt1951266",
+   "genres": [
+    "Ação",
+    "Aventura",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "SoKIqLEGhI0"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "YddkQoxkZMQ"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "3zVaD7t39w8"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "n-7K_OjsDCQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1951266"
+    },
+    {
+     "name": "The Hunger Games: Mockingjay - Part 2",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-hunger-games-mockingjay-part-2-1951266"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Jennifer Lawrence",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Lawrence"
+    },
+    {
+     "name": "Josh Hutcherson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hutcherson"
+    },
+    {
+     "name": "Liam Hemsworth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Hemsworth"
+    },
+    {
+     "name": "Peter Craig",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Craig"
+    },
+    {
+     "name": "Danny Strong",
+     "category": "Writers",
+     "url": "stremio:///search?search=Danny%20Strong"
+    },
+    {
+     "name": "Suzanne Collins",
+     "category": "Writers",
+     "url": "stremio:///search?search=Suzanne%20Collins"
+    },
+    {
+     "name": "Francis Lawrence",
+     "category": "Directors",
+     "url": "stremio:///search?search=Francis%20Lawrence"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1951266",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951266.jpg"
+  },
+  {
+   "awards": "3 wins & 9 nominations total",
+   "cast": [
+    "Domhnall Gleeson",
+    "Rachel McAdams",
+    "Bill Nighy"
+   ],
+   "country": "United Kingdom",
+   "description": "Aos 21 anos, Tim Lake descobre que consegue viajar no tempo… Após mais uma insatisfatória festa de Ano Novo, o pai de Tim revela-lhe que os homens da sua família sempre tiveram a capacidade de viajar no tempo. Tim não pode mudar a história, mas consegue alterar o que acontece ou aconteceu na sua própria vida - então, decide tornar o seu mundo um lugar melhor… arranjando uma namorada. Infelizmente, esse feito tornou-se mais complicado do que previa. Ao mudar-se de Cornwall para Londres, para estudar advocacia, Tim finalmente conhece a belíssima, mas insegura, Mary. Apaixonam-se, mas um lamentável incidente nas viagens pelo tempo faz com que ele nunca a tenha conhecido. Assim, voltam a encontrar-se pela primeira vez, várias vezes, até que, finalmente, depois de muita astúcia a viajar no tempo, ele conquista o seu coração.",
+   "director": [
+    "Richard Curtis"
+   ],
+   "dvdRelease": "2015-10-01T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "7.8",
+   "name": "About Time",
+   "released": "2013-11-08T00:00:00.000Z",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "7OIFdWk83no",
+     "type": "Trailer"
+    },
+    {
+     "source": "u2PUMA6nFWk",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Richard Curtis"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt2194499/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2194499/img",
+   "id": "tt2194499",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Fantasia"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "About Time",
+     "ytId": "7OIFdWk83no"
+    },
+    {
+     "title": "About Time",
+     "ytId": "u2PUMA6nFWk"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2194499"
+    },
+    {
+     "name": "About Time",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/about-time-2194499"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
      "name": "Drama",
@@ -298,58 +557,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "Fantasy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
-    },
-    {
-     "name": "Lubna Azabal",
+     "name": "Domhnall Gleeson",
      "category": "Cast",
-     "url": "stremio:///search?search=Lubna%20Azabal"
+     "url": "stremio:///search?search=Domhnall%20Gleeson"
     },
     {
-     "name": "Mélissa Désormeaux-Poulin",
+     "name": "Rachel McAdams",
      "category": "Cast",
-     "url": "stremio:///search?search=M%C3%A9lissa%20D%C3%A9sormeaux-Poulin"
+     "url": "stremio:///search?search=Rachel%20McAdams"
     },
     {
-     "name": "Maxim Gaudette",
+     "name": "Bill Nighy",
      "category": "Cast",
-     "url": "stremio:///search?search=Maxim%20Gaudette"
+     "url": "stremio:///search?search=Bill%20Nighy"
     },
     {
-     "name": "Wajdi Mouawad",
+     "name": "Richard Curtis",
      "category": "Writers",
-     "url": "stremio:///search?search=Wajdi%20Mouawad"
+     "url": "stremio:///search?search=Richard%20Curtis"
     },
     {
-     "name": "Denis Villeneuve",
-     "category": "Writers",
-     "url": "stremio:///search?search=Denis%20Villeneuve"
-    },
-    {
-     "name": "Valérie Beaugrand-Champagne",
-     "category": "Writers",
-     "url": "stremio:///search?search=Val%C3%A9rie%20Beaugrand-Champagne"
-    },
-    {
-     "name": "Denis Villeneuve",
+     "name": "Richard Curtis",
      "category": "Directors",
-     "url": "stremio:///search?search=Denis%20Villeneuve"
+     "url": "stremio:///search?search=Richard%20Curtis"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1255953",
+    "defaultVideoId": "tt2194499",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1255953.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2194499.jpg"
   },
   {
    "awards": "8 wins & 8 nominations total",
@@ -576,532 +820,165 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5754602.jpg"
   },
   {
-   "cast": [
-    "Johan Norberg"
-   ],
-   "country": "Sweden, United States, Germany",
-   "description": "In times of crisis people seek strong leaders and simple solutions. But what happens when their solutions are identical to the mistakes that caused the very crisis?",
-   "director": [
-    "Martin Borgs"
-   ],
+   "name": "The Grand Tour",
+   "status": "Continuing",
+   "year": "2016–2024",
+   "runtime": "68 min",
    "genre": [
-    "Documentary",
-    "News"
+    "Adventure",
+    "Comedy",
+    "Sport"
    ],
-   "imdbRating": "7.6",
-   "name": "Overdos",
-   "released": "2010-08-31T00:00:00.000Z",
-   "runtime": "47 min",
+   "released": "2016-11-18T00:00:00.000Z",
+   "director": null,
    "writer": [
-    "Martin Borgs",
-    "Johan Norberg"
+    "Andy Wilman"
    ],
-   "year": "2010",
-   "trailers": [],
-   "dvdRelease": "2017-10-02T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt1634833/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1634833/img",
-   "id": "tt1634833",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1634833"
-    },
-    {
-     "name": "Overdos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/overdos-1634833"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "News",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=News"
-    },
-    {
-     "name": "Johan Norberg",
-     "category": "Cast",
-     "url": "stremio:///search?search=Johan%20Norberg"
-    },
-    {
-     "name": "Martin Borgs",
-     "category": "Writers",
-     "url": "stremio:///search?search=Martin%20Borgs"
-    },
-    {
-     "name": "Johan Norberg",
-     "category": "Writers",
-     "url": "stremio:///search?search=Johan%20Norberg"
-    },
-    {
-     "name": "Martin Borgs",
-     "category": "Directors",
-     "url": "stremio:///search?search=Martin%20Borgs"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1634833",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1634833.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Oscar. 3 wins & 10 nominations total",
    "cast": [
-    "Robert Downey Jr.",
-    "Robert Duvall",
-    "Vera Farmiga"
+    "Jeremy Clarkson",
+    "James May",
+    "Richard Hammond"
    ],
-   "country": "United States",
-   "description": "Hank Palmer, um advogado de sucesso, volta à cidade em que cresceu para o velório da sua mãe, que há muito não via. É recebido de forma hostil pela família mas resolve ficar quando o seu pai, o juíz da cidade, é apontado pela polícia como responsável pela morte de um homem que condenou há vinte anos. Hank debruça-se sobre o caso mas os dois não conseguem conviver amigavelmente e a possibilidade de condenação aumenta a cada revelação.",
-   "director": [
-    "David Dobkin"
-   ],
-   "dvdRelease": "2015-11-05T00:00:00.000Z",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.4",
-   "name": "The Judge",
-   "released": "2014-10-10T00:00:00.000Z",
-   "runtime": "141 min",
+   "imdbRating": "8.7",
+   "description": "Siga Jeremy, Richard e James numa aventura em todo o mundo. A conduzir automóveis novos e excitantes de fabricantes de todo o mundo.",
+   "country": "United Kingdom, United States",
+   "awards": "2 nominations total",
+   "dvdRelease": null,
+   "background": "https://images.metahub.space/background/medium/tt5712554/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5712554/img",
    "trailers": [
     {
-     "source": "ZBvK6ni97W8",
+     "source": "kLtpcxtk4HI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Nick Schenk",
-    "Bill Dubuque",
-    "David Dobkin"
-   ],
-   "year": "2014",
-   "background": "https://images.metahub.space/background/medium/tt1872194/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1872194/img",
-   "id": "tt1872194",
+   "id": "tt5712554",
    "genres": [
-    "Drama"
+    "Reality",
+    "Comédia",
+    "Talk"
    ],
-   "releaseInfo": "2014",
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "The Judge",
-     "ytId": "ZBvK6ni97W8"
+     "title": "The Grand Tour",
+     "ytId": "kLtpcxtk4HI"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "8.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1872194"
+     "url": "https://imdb.com/title/tt5712554"
     },
     {
-     "name": "The Judge",
+     "name": "The Grand Tour",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-judge-1872194"
+     "url": "https://www.strem.io/s/series/the-grand-tour-5712554"
     },
     {
-     "name": "Crime",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Drama",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Mystery",
+     "name": "Sport",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Robert Downey Jr.",
+     "name": "Jeremy Clarkson",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Downey%20Jr."
+     "url": "stremio:///search?search=Jeremy%20Clarkson"
     },
     {
-     "name": "Robert Duvall",
+     "name": "James May",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Duvall"
+     "url": "stremio:///search?search=James%20May"
     },
     {
-     "name": "Vera Farmiga",
+     "name": "Richard Hammond",
      "category": "Cast",
-     "url": "stremio:///search?search=Vera%20Farmiga"
+     "url": "stremio:///search?search=Richard%20Hammond"
     },
     {
-     "name": "Nick Schenk",
+     "name": "Andy Wilman",
      "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Schenk"
-    },
-    {
-     "name": "Bill Dubuque",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bill%20Dubuque"
-    },
-    {
-     "name": "David Dobkin",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Dobkin"
-    },
-    {
-     "name": "David Dobkin",
-     "category": "Directors",
-     "url": "stremio:///search?search=David%20Dobkin"
+     "url": "stremio:///search?search=Andy%20Wilman"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1872194",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1872194.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5712554.jpg"
   },
   {
-   "awards": "Nominated for 1 BAFTA Award4 wins & 44 nominations total",
+   "awards": "Nominated for 1 Oscar. 12 wins & 26 nominations total",
    "cast": [
-    "Tobey Maguire",
-    "Kirsten Dunst",
-    "Topher Grace"
+    "Will Smith",
+    "Thandiwe Newton",
+    "Jaden Smith"
    ],
    "country": "United States",
-   "description": "Peter Parker conseguiu finalmente atingir o equilíbrio entre a sua devoção a Mary Jane e os seus deveres de super-herói. Mas uma tempestade está a desenvolver-se no horizonte. Quando o seu fato escurece de repente e os seus poderes são reforçados, a personalidade de Peter muda também, trazendo à superfície o lado mais negro e vingativo da sua personalidade que luta por assumir o controlo. Debaixo desta estranha influência, Peter começa e exprimir um excesso de confiança que o leva a desprezar aqueles que mais o amam. Forçado a escolher entre o poder sedutor proporcionado pelo seu novo fato e o herói que costumava ser, Peter tem de vencer os seus demónios pessoais enquanto dois dos mais temíveis vilões que até agora encontrou, Sandman e Venom, juntam forças e uma sede imparável de vingança para ameaçar Peter e tudo o que ele mais preza.",
+   "description": "Chris Gardner é um vendedor, que apesar do seu talento, luta desesperadamente por conseguir sustentar a família. A mulher acaba por deixá-lo sozinho com o filho de cinco anos e Chris decide aceitar um estágio não remunerado numa conceituada empresa, na esperança de conseguir emprego no final. No entanto, as suas dívidas levam a que os dois sejam despejados do apartamento onde vivem e tenham de recorrer a todos os refúgios possíveis para passar a noite...",
    "director": [
-    "Sam Raimi"
+    "Gabriele Muccino"
    ],
    "dvdRelease": "2012-04-16T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-   ],
-   "imdbRating": "6.3",
-   "name": "Spider-Man 3",
-   "released": "2007-05-04T00:00:00.000Z",
-   "runtime": "139 min",
-   "trailers": [
-    {
-     "source": "e5wUilOeOmg",
-     "type": "Trailer"
-    },
-    {
-     "source": "wPosLpgMtTY",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Sam Raimi",
-    "Ivan Raimi",
-    "Alvin Sargent"
-   ],
-   "year": "2007",
-   "background": "https://images.metahub.space/background/medium/tt0413300/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0413300/img",
-   "id": "tt0413300",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Ficção científica"
-   ],
-   "releaseInfo": "2007",
-   "trailerStreams": [
-    {
-     "title": "Spider-Man 3",
-     "ytId": "e5wUilOeOmg"
-    },
-    {
-     "title": "Spider-Man 3",
-     "ytId": "wPosLpgMtTY"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0413300"
-    },
-    {
-     "name": "Spider-Man 3",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/spider-man-3-0413300"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Tobey Maguire",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tobey%20Maguire"
-    },
-    {
-     "name": "Kirsten Dunst",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kirsten%20Dunst"
-    },
-    {
-     "name": "Topher Grace",
-     "category": "Cast",
-     "url": "stremio:///search?search=Topher%20Grace"
-    },
-    {
-     "name": "Sam Raimi",
-     "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Raimi"
-    },
-    {
-     "name": "Ivan Raimi",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ivan%20Raimi"
-    },
-    {
-     "name": "Alvin Sargent",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alvin%20Sargent"
-    },
-    {
-     "name": "Sam Raimi",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sam%20Raimi"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0413300",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0413300.jpg"
-  },
-  {
-   "awards": "15 wins & 34 nominations total",
-   "cast": [
-    "Jennifer Lawrence",
-    "Josh Hutcherson",
-    "Liam Hemsworth"
-   ],
-   "country": "United States, Germany, Canada, France",
-   "description": "Com a nação de Panem em guerra total, Katniss Everdeen reúne uma equipa constituída pelos seus amigos mais próximos, Gale, Finnick, e Peeta, e embarca numa missão destinada a assassinar o Presidente Snow. As armadilhas mortais, os inimigos e as opções morais que aguardam Katniss vão desafiá-la mais do que qualquer arena que alguma vez enfrentou nos Jogos da Fome.",
-   "director": [
-    "Francis Lawrence"
-   ],
-   "dvdRelease": "2016-03-08T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-   ],
-   "imdbRating": "6.6",
-   "name": "The Hunger Games: Mockingjay - Part 2",
-   "released": "2015-11-20T00:00:00.000Z",
-   "runtime": "137 min",
-   "trailers": [
-    {
-     "source": "SoKIqLEGhI0",
-     "type": "Trailer"
-    },
-    {
-     "source": "YddkQoxkZMQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "3zVaD7t39w8",
-     "type": "Trailer"
-    },
-    {
-     "source": "n-7K_OjsDCQ",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Peter Craig",
-    "Danny Strong",
-    "Suzanne Collins"
-   ],
-   "year": "2015",
-   "background": "https://images.metahub.space/background/medium/tt1951266/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1951266/img",
-   "affiliates": {
-    "fandango_embed": "<a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">\n    <img src=\"http://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/159276/FIN06_Seashore2_Payoff_25x38.jpg\" alt=\"The Hunger Games: Mockingjay - Part 2 poster\" />\n</a>\n<div>\n    <a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">The Hunger Games: Mockingjay - Part 2</a>\n    <time datetime=\"2015-11-20T00:00:00.000Z\">November 20, 2015</time>\n</div>\n",
-    "fandango_link": "/the-hunger-games-mockingjay-part-2_159276/movieoverview"
-   },
-   "id": "tt1951266",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Ficção científica"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "The Hunger Games: Mockingjay - Part 2",
-     "ytId": "SoKIqLEGhI0"
-    },
-    {
-     "title": "The Hunger Games: Mockingjay - Part 2",
-     "ytId": "YddkQoxkZMQ"
-    },
-    {
-     "title": "The Hunger Games: Mockingjay - Part 2",
-     "ytId": "3zVaD7t39w8"
-    },
-    {
-     "title": "The Hunger Games: Mockingjay - Part 2",
-     "ytId": "n-7K_OjsDCQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1951266"
-    },
-    {
-     "name": "The Hunger Games: Mockingjay - Part 2",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-hunger-games-mockingjay-part-2-1951266"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Jennifer Lawrence",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jennifer%20Lawrence"
-    },
-    {
-     "name": "Josh Hutcherson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hutcherson"
-    },
-    {
-     "name": "Liam Hemsworth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Hemsworth"
-    },
-    {
-     "name": "Peter Craig",
-     "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Craig"
-    },
-    {
-     "name": "Danny Strong",
-     "category": "Writers",
-     "url": "stremio:///search?search=Danny%20Strong"
-    },
-    {
-     "name": "Suzanne Collins",
-     "category": "Writers",
-     "url": "stremio:///search?search=Suzanne%20Collins"
-    },
-    {
-     "name": "Francis Lawrence",
-     "category": "Directors",
-     "url": "stremio:///search?search=Francis%20Lawrence"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1951266",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951266.jpg"
-  },
-  {
-   "awards": "Won 1 Oscar. 14 wins & 11 nominations total",
-   "cast": [
-    "James Dean",
-    "Raymond Massey",
-    "Julie Harris"
-   ],
-   "country": "United States",
-   "description": "Na Califórnia da década de 1910, dois irmãos lutam para manter a confiança do seu pai, um homem carinhoso mas rigoroso e sempre com a Bíblia na mão, à medida que um antigo segredo sobre a sua mãe, há muito ausente, vem à tona.",
-   "director": [
-    "Elia Kazan"
-   ],
-   "dvdRelease": "2007-12-31T00:00:00.000Z",
-   "genre": [
+    "Biography",
     "Drama"
    ],
-   "imdbRating": "7.8",
-   "name": "East of Eden",
-   "released": "1955-04-10T00:00:00.000Z",
-   "runtime": "115 min",
+   "imdbRating": "8.0",
+   "name": "The Pursuit of Happyness",
+   "released": "2006-12-15T00:00:00.000Z",
+   "runtime": "117 min",
    "trailers": [
     {
-     "source": "Yi_wwgJOEwk",
+     "source": "DMOBlEcRuw8",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "John Steinbeck",
-    "Paul Osborn"
+    "Steve Conrad"
    ],
-   "year": "1955",
-   "background": "https://images.metahub.space/background/medium/tt0048028/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0048028/img",
-   "id": "tt0048028",
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0454921/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0454921/img",
+   "id": "tt0454921",
    "genres": [
     "Drama"
    ],
-   "releaseInfo": "1955",
+   "releaseInfo": "2006",
    "trailerStreams": [
     {
-     "title": "East of Eden",
-     "ytId": "Yi_wwgJOEwk"
+     "title": "The Pursuit of Happyness",
+     "ytId": "DMOBlEcRuw8"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0048028"
+     "url": "https://imdb.com/title/tt0454921"
     },
     {
-     "name": "East of Eden",
+     "name": "The Pursuit of Happyness",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/east-of-eden-0048028"
+     "url": "https://www.strem.io/s/movie/the-pursuit-of-happyness-0454921"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
      "name": "Drama",
@@ -1109,43 +986,151 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "James Dean",
+     "name": "Will Smith",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Dean"
+     "url": "stremio:///search?search=Will%20Smith"
     },
     {
-     "name": "Raymond Massey",
+     "name": "Thandiwe Newton",
      "category": "Cast",
-     "url": "stremio:///search?search=Raymond%20Massey"
+     "url": "stremio:///search?search=Thandiwe%20Newton"
     },
     {
-     "name": "Julie Harris",
+     "name": "Jaden Smith",
      "category": "Cast",
-     "url": "stremio:///search?search=Julie%20Harris"
+     "url": "stremio:///search?search=Jaden%20Smith"
     },
     {
-     "name": "John Steinbeck",
+     "name": "Steve Conrad",
      "category": "Writers",
-     "url": "stremio:///search?search=John%20Steinbeck"
+     "url": "stremio:///search?search=Steve%20Conrad"
     },
     {
-     "name": "Paul Osborn",
-     "category": "Writers",
-     "url": "stremio:///search?search=Paul%20Osborn"
-    },
-    {
-     "name": "Elia Kazan",
+     "name": "Gabriele Muccino",
      "category": "Directors",
-     "url": "stremio:///search?search=Elia%20Kazan"
+     "url": "stremio:///search?search=Gabriele%20Muccino"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0048028",
+    "defaultVideoId": "tt0454921",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0048028.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0454921.jpg"
+  },
+  {
+   "awards": "Won 1 BAFTA Award4 wins & 25 nominations total",
+   "cast": [
+    "John Hurt",
+    "Colin Morgan",
+    "Bradley James"
+   ],
+   "country": "United Kingdom",
+   "description": "A lenda do rei Arthur é recontada a partir da chegada de Merlin a Camelot, onde ele aperfeiçoa seus dotes mágicos com a ajuda do médico da corte.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "7.9",
+   "name": "Merlin",
+   "released": "2009-06-21T00:00:00.000Z",
+   "runtime": "45 min",
+   "status": "Ended",
+   "writer": [
+    "Johnny Capps",
+    "Julian Jones",
+    "Jake Michie"
+   ],
+   "year": "2008–2012",
+   "background": "https://images.metahub.space/background/medium/tt1199099/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1199099/img",
+   "trailers": [
+    {
+     "source": "iPxq3myiQF0",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1199099",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2008",
+   "trailerStreams": [
+    {
+     "title": "Merlin",
+     "ytId": "iPxq3myiQF0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1199099"
+    },
+    {
+     "name": "Merlin",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/merlin-1199099"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "John Hurt",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Hurt"
+    },
+    {
+     "name": "Colin Morgan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Colin%20Morgan"
+    },
+    {
+     "name": "Bradley James",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bradley%20James"
+    },
+    {
+     "name": "Johnny Capps",
+     "category": "Writers",
+     "url": "stremio:///search?search=Johnny%20Capps"
+    },
+    {
+     "name": "Julian Jones",
+     "category": "Writers",
+     "url": "stremio:///search?search=Julian%20Jones"
+    },
+    {
+     "name": "Jake Michie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jake%20Michie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1199099.jpg"
   }
  ]
 }

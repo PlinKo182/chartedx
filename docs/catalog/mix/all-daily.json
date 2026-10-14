@@ -120,48 +120,74 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "East of Eden",
+   "name": "Ted Lasso",
    "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
+    "Jason Sudeikis",
+    "Hannah Waddingham",
+    "Jeremy Swift"
    ],
-   "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "country": "United States, United Kingdom",
+   "description": "Ted Lasso, um treinador de futebol americano, muda-se para a Inglaterra quando é contratado para comandar uma equipa de futebol – apesarde não ter experiência. Com jogadores cínicos e uma cidade duvidosa, ele vai levá-los a ver o Ted Lasso Way?",
    "genre": [
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Sport"
    ],
-   "imdbRating": "8.1",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
+   "imdbRating": "8.7",
+   "released": "2020-08-14T00:00:00.000Z",
+   "writer": [
+    "Jason Sudeikis",
+    "Brendan Hunt",
+    "Joe Kelly"
+   ],
+   "year": "2020–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt10986410/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
+   "runtime": "43 min",
+   "awards": "Won 13 Primetime Emmys. 75 wins & 213 nominations total",
    "trailers": [
     {
-     "source": "M9NWvGZViCg",
+     "source": "BwPcMIDFVKw",
+     "type": "Trailer"
+    },
+    {
+     "source": "3u7EIiohs6U",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
+   "id": "tt10986410",
    "genres": [
-    "Drama"
+    "Drama",
+    "Comédia"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
+     "title": "Ted Lasso",
+     "ytId": "BwPcMIDFVKw"
+    },
+    {
+     "title": "Ted Lasso",
+     "ytId": "3u7EIiohs6U"
     }
    ],
    "links": [
     {
-     "name": "East of Eden",
+     "name": "8.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10986410"
+    },
+    {
+     "name": "Ted Lasso",
      "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+     "url": "https://www.strem.io/s/series/ted-lasso-10986410"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
      "name": "Drama",
@@ -169,19 +195,39 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Mike Faist",
+     "name": "Jason Sudeikis",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
+     "url": "stremio:///search?search=Jason%20Sudeikis"
     },
     {
-     "name": "Christopher Abbott",
+     "name": "Hannah Waddingham",
      "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
+     "url": "stremio:///search?search=Hannah%20Waddingham"
+    },
+    {
+     "name": "Jeremy Swift",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Swift"
+    },
+    {
+     "name": "Jason Sudeikis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Sudeikis"
+    },
+    {
+     "name": "Brendan Hunt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brendan%20Hunt"
+    },
+    {
+     "name": "Joe Kelly",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joe%20Kelly"
     }
    ],
    "behaviorHints": {
@@ -190,7 +236,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
    "name": "Project Hail Mary",
@@ -342,226 +388,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
   },
   {
-   "name": "MobLand",
-   "imdbRating": "8.3",
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "released": "2025-03-30T00:00:00.000Z",
-   "writer": [
-    "Ronan Bennett"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "qKGgw7Ob5f4",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
-    },
-    {
-     "name": "MobLand",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "Pierce Brosnan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
-    },
-    {
-     "name": "Paddy Considine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
-  },
-  {
-   "cast": [
-    "Matthew McConaughey",
-    "Charlie Hunnam",
-    "Michelle Dockery"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
-   "director": [
-    "Guy Ritchie"
-   ],
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "7.8",
-   "name": "The Gentlemen",
-   "released": "2020-01-24T00:00:00.000Z",
-   "writer": [
-    "Guy Ritchie",
-    "Ivan Atkinson",
-    "Marn Davies"
-   ],
-   "year": "2020",
-   "trailers": [
-    {
-     "source": "KlXsguV9g0E",
-     "type": "Trailer"
-    },
-    {
-     "source": "2B0RpUGss2c",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt8367814/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
-   "runtime": "113 min",
-   "awards": "1 win & 4 nominations total",
-   "dvdRelease": "2020-03-24T00:00:00.000Z",
-   "id": "tt8367814",
-   "genres": [
-    "Ação",
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2020",
-   "trailerStreams": [
-    {
-     "title": "The Gentlemen",
-     "ytId": "KlXsguV9g0E"
-    },
-    {
-     "title": "The Gentlemen",
-     "ytId": "2B0RpUGss2c"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8367814"
-    },
-    {
-     "name": "The Gentlemen",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Matthew McConaughey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20McConaughey"
-    },
-    {
-     "name": "Charlie Hunnam",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Hunnam"
-    },
-    {
-     "name": "Michelle Dockery",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Dockery"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    },
-    {
-     "name": "Ivan Atkinson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ivan%20Atkinson"
-    },
-    {
-     "name": "Marn Davies",
-     "category": "Writers",
-     "url": "stremio:///search?search=Marn%20Davies"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt8367814",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
-  },
-  {
    "name": "Carrie",
    "cast": [
     "Summer H. Howell",
@@ -653,6 +479,179 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
+   "awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
+   "cast": [
+    "Sissy Spacek",
+    "Piper Laurie",
+    "Amy Irving"
+   ],
+   "country": "United States",
+   "description": "Carrie White é gentil mas ingénua: impopular na escola, onde é alvo constante de chacota, tem uma mãe fanática que exerce sobre ela autêntico terror psicológico. Para tornar tudo ainda mais difícil, descobre poderes telecinéticos que não sabe como controlar. Quando tudo parece melhorar, e ela começa a sentir-se mais integrada na escola, a inveja e ódio de uma das colegas vai levar a consequências terríveis para todos.",
+   "director": [
+    "Brian De Palma"
+   ],
+   "dvdRelease": "2015-08-27T00:00:00.000Z",
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "7.4",
+   "name": "Carrie",
+   "released": "1976-11-16T00:00:00.000Z",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "zbdIXI1s3aU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Stephen King",
+    "Lawrence D. Cohen"
+   ],
+   "year": "1976",
+   "background": "https://images.metahub.space/background/medium/tt0074285/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
+   "id": "tt0074285",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "trailerStreams": [
+    {
+     "title": "Carrie",
+     "ytId": "zbdIXI1s3aU"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0074285"
+    },
+    {
+     "name": "Carrie",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/carrie-0074285"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sissy Spacek",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sissy%20Spacek"
+    },
+    {
+     "name": "Piper Laurie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Piper%20Laurie"
+    },
+    {
+     "name": "Amy Irving",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amy%20Irving"
+    },
+    {
+     "name": "Stephen King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20King"
+    },
+    {
+     "name": "Lawrence D. Cohen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lawrence%20D.%20Cohen"
+    },
+    {
+     "name": "Brian De Palma",
+     "category": "Directors",
+     "url": "stremio:///search?search=Brian%20De%20Palma"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0074285",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074285.jpg"
+  },
+  {
+   "name": "East of Eden",
+   "cast": [
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
+   ],
+   "country": "United States",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.1",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "M9NWvGZViCg",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
+    }
+   ],
+   "links": [
+    {
+     "name": "East of Eden",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Florence Pugh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Florence%20Pugh"
+    },
+    {
+     "name": "Mike Faist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mike%20Faist"
+    },
+    {
+     "name": "Christopher Abbott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Abbott"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
    "name": "In the Grey",
@@ -759,304 +758,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
   },
   {
-   "name": "Lanterns",
+   "name": "Slow Horses",
    "cast": [
-    "Aaron Pierre",
-    "Kyle Chandler",
-    "Kelly Macdonald"
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas"
    ],
-   "country": "United States",
-   "description": "Dois polícias intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, vêem-se envolvidos num mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
+   "country": "United Kingdom, United States",
+   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
    "genre": [
-    "Action",
-    "Adventure",
-    "Crime"
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "7.8",
-   "released": "2026-08-16T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "53 min",
+   "imdbRating": "8.4",
+   "released": "2022-04-01T00:00:00.000Z",
+   "year": "2022–",
    "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Mick Herron"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5875444/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
+   "runtime": "46 min",
    "trailers": [
     {
-     "source": "7UIBOsuUwc4",
+     "source": "O9ZJChzPn0U",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [
-    "Tom King",
-    "Damon Lindelof",
-    "Chris Mundy"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt26545992/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
-   "id": "tt26545992",
+   "id": "tt5875444",
    "genres": [
+    "Crime",
     "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Lanterns",
-     "ytId": "7UIBOsuUwc4"
+     "title": "Slow Horses",
+     "ytId": "O9ZJChzPn0U"
     }
    ],
    "links": [
     {
      "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt26545992"
+     "url": "https://imdb.com/title/tt5875444"
     },
     {
-     "name": "Lanterns",
+     "name": "Slow Horses",
      "category": "share",
-     "url": "https://www.strem.io/s/series/lanterns-26545992"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Aaron Pierre",
-     "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Pierre"
-    },
-    {
-     "name": "Kyle Chandler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kyle%20Chandler"
-    },
-    {
-     "name": "Kelly Macdonald",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kelly%20Macdonald"
-    },
-    {
-     "name": "Tom King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20King"
-    },
-    {
-     "name": "Damon Lindelof",
-     "category": "Writers",
-     "url": "stremio:///search?search=Damon%20Lindelof"
-    },
-    {
-     "name": "Chris Mundy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Mundy"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
-  },
-  {
-   "name": "Teenage Sex and Death at Camp Miasma",
-   "cast": [
-    "Jack Haven",
-    "Hannah Einbinder",
-    "Jasmin Savoy Brown"
-   ],
-   "country": "Canada, United Kingdom, United States",
-   "description": "Após anos de sequelas mal feitas e de um declínio na popularidade entre os fãs, a série de filmes de terror \"Camp Miasma\" é entregue a uma jovem realizadora entusiasta para que esta lhe dê uma nova vida. Mas quando ela visita a protagonista do filme original, uma atriz agora reclusa e envolta em mistério, as duas mulheres mergulham num mundo ensanguentado de desejo, medo e delírio.",
-   "director": [
-    "Jane Schoenbrun"
-   ],
-   "genre": [
-    "Comedy",
-    "Horror",
-    "Romance"
-   ],
-   "imdbRating": "6.5",
-   "released": "2026-08-07T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "112 min",
-   "trailers": [
-    {
-     "source": "j9TsiTgYZGw",
-     "type": "Trailer"
-    },
-    {
-     "source": "dimCiC_hdoA",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Jane Schoenbrun"
-   ],
-   "awards": "2 wins & 5 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt35298123/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35298123/img",
-   "id": "tt35298123",
-   "genres": [
-    "Comédia",
-    "Terror",
-    "Romance"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Teenage Sex and Death at Camp Miasma",
-     "ytId": "j9TsiTgYZGw"
-    },
-    {
-     "title": "Teenage Sex and Death at Camp Miasma",
-     "ytId": "dimCiC_hdoA"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt35298123"
-    },
-    {
-     "name": "Teenage Sex and Death at Camp Miasma",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/teenage-sex-and-death-at-camp-miasma-35298123"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Jack Haven",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jack%20Haven"
-    },
-    {
-     "name": "Hannah Einbinder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hannah%20Einbinder"
-    },
-    {
-     "name": "Jasmin Savoy Brown",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jasmin%20Savoy%20Brown"
-    },
-    {
-     "name": "Jane Schoenbrun",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jane%20Schoenbrun"
-    },
-    {
-     "name": "Jane Schoenbrun",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jane%20Schoenbrun"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt35298123",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35298123.jpg"
-  },
-  {
-   "name": "House of the Dragon",
-   "cast": [
-    "Matt Smith",
-    "Emma D&apos;Arcy",
-    "Olivia Cooke"
-   ],
-   "country": "United States",
-   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "8.2",
-   "released": "2022-08-21T00:00:00.000Z",
-   "writer": [
-    "Ryan J. Condal",
-    "George R.R. Martin"
-   ],
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt11198330/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
-   "runtime": "60 min",
-   "trailers": [
-    {
-     "source": "DotnJ7tTA34",
-     "type": "Trailer"
-    },
-    {
-     "source": "Wg86eQkdudI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt11198330",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "House of the Dragon",
-     "ytId": "DotnJ7tTA34"
-    },
-    {
-     "title": "House of the Dragon",
-     "ytId": "Wg86eQkdudI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11198330"
-    },
-    {
-     "name": "House of the Dragon",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "https://www.strem.io/s/series/slow-horses-5875444"
     },
     {
      "name": "Drama",
@@ -1064,29 +818,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Matt Smith",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Smith"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Emma D&apos;Arcy",
+     "name": "Gary Oldman",
      "category": "Cast",
-     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+     "url": "stremio:///search?search=Gary%20Oldman"
     },
     {
-     "name": "Olivia Cooke",
+     "name": "Jack Lowden",
      "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Cooke"
+     "url": "stremio:///search?search=Jack%20Lowden"
     },
     {
-     "name": "Ryan J. Condal",
+     "name": "Kristin Scott Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
+    },
+    {
+     "name": "Mick Herron",
      "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20J.%20Condal"
-    },
-    {
-     "name": "George R.R. Martin",
-     "category": "Writers",
-     "url": "stremio:///search?search=George%20R.R.%20Martin"
+     "url": "stremio:///search?search=Mick%20Herron"
     }
    ],
    "behaviorHints": {
@@ -1095,7 +849,242 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
+  },
+  {
+   "id": "tt3166500",
+   "logo": "https://live.metahub.space/logo/medium/tt3166500/img",
+   "background": "https://live.metahub.space/background/medium/tt3166500/img",
+   "name": "Homesick",
+   "description": "Charlotte (Ine Marie Wilmann), 27 anos, encontra seu irmão Henrik (Simon J. Berger), 35 anos, pela primeira vez. Os dois não sabem o que é ter uma família normal e começam uma relação sem fronteiras, manifestando um amor entre irmãos nunca experimentado antes.  Classificação indicativa a definir por",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2015",
+   "runtime": "106 min",
+   "trailers": [
+    {
+     "source": "WoX3ozn_5n0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Ine Marie Wilmann",
+    "Simon J. Berger",
+    "Silje Storstein"
+   ],
+   "credits_cast": [
+    {
+     "character": "Charlotte",
+     "name": "Ine Marie Wilmann",
+     "profile_path": "/6uQlF0RdwLGaWezFsn9429HE6zu.jpg",
+     "id": 1394758
+    },
+    {
+     "character": "Henrik",
+     "name": "Simon J. Berger",
+     "profile_path": "/njrbGetxp48znoyte8jHcR5wkgx.jpg",
+     "id": 135726
+    },
+    {
+     "character": "Marte",
+     "name": "Silje Storstein",
+     "profile_path": "/7fOKZUgJjVf2HhT2He1SmR0mVWT.jpg",
+     "id": 63768
+    },
+    {
+     "character": "Anna",
+     "name": "Anneke von der Lippe",
+     "profile_path": "/wAvLqJqsBAVMLanBTfvs4AJm5nL.jpg",
+     "id": 67004
+    },
+    {
+     "character": "Dag",
+     "name": "Oddgeir Thune",
+     "profile_path": "/dcZW2eXvTgnXlPn7HXWIpGx9laT.jpg",
+     "id": 1880562
+    },
+    {
+     "character": "Kirsten",
+     "name": "Kari Onstad Winge",
+     "profile_path": "/l6PPLRSbtgjr9KmBcWJJuLJunSN.jpg",
+     "id": 1143356
+    },
+    {
+     "character": "Bjørn",
+     "name": "Terje Strømdahl",
+     "profile_path": "/a1u5wYlnGXq4LhBCvgJt61wMMhP.jpg",
+     "id": 79333
+    },
+    {
+     "character": "Elin",
+     "name": "Ida Marianne Vassbotn Klasson",
+     "profile_path": "/zBSvHcnQezJCSlr3k6ogg1WNgYt.jpg",
+     "id": 1196070
+    },
+    {
+     "character": "Oscar",
+     "name": "Oscar Ducasse",
+     "profile_path": null,
+     "id": 1904876
+    },
+    {
+     "character": "Marco",
+     "name": "Arturo Tovar",
+     "profile_path": null,
+     "id": 1904877
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Anne Sewitsky",
+     "profile_path": "/gC0980ExTiCOjV0u5wwBsQGAFOF.jpg",
+     "id": 135114
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Åshild Ramborg",
+     "profile_path": null,
+     "id": 1398246
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Anne Sewitsky",
+     "profile_path": "/gC0980ExTiCOjV0u5wwBsQGAFOF.jpg",
+     "id": 135114
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Ragnhild Tronvoll",
+     "profile_path": null,
+     "id": 135115
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Synnøve Hørsdal",
+     "profile_path": "/xXGQ0WJuaUr960yYEodXFwOwM28.jpg",
+     "id": 135118
+    }
+   ],
+   "director": [
+    "Anne Sewitsky"
+   ],
+   "imdbRating": "5.5",
+   "language": "Norwegian, English",
+   "country": "Norway",
+   "awards": "2 wins & 6 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": "tt3166500",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3166500.jpg"
+  },
+  {
+   "name": "Silo",
+   "cast": [
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche"
+   ],
+   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.1",
+   "released": "2023-05-05T00:00:00.000Z",
+   "year": "2023–",
+   "runtime": "51 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Graham Yost"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt14688458/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+   "trailers": [
+    {
+     "source": "8ZYhuvIv1pA",
+     "type": "Trailer"
+    }
+   ],
+   "country": "United States",
+   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
+   "id": "tt14688458",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Silo",
+     "ytId": "8ZYhuvIv1pA"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt14688458"
+    },
+    {
+     "name": "Silo",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/silo-14688458"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
+    },
+    {
+     "name": "Common",
+     "category": "Cast",
+     "url": "stremio:///search?search=Common"
+    },
+    {
+     "name": "Chinaza Uche",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chinaza%20Uche"
+    },
+    {
+     "name": "Graham Yost",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Yost"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
   }
  ]
 }
