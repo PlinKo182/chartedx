@@ -120,79 +120,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "MaXXXine",
-   "awards": "8 nominations total",
+   "awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
    "cast": [
-    "Charley Rowan McCain",
-    "Simon Prast",
-    "Mia Goth"
+    "Sissy Spacek",
+    "Piper Laurie",
+    "Amy Irving"
    ],
-   "country": "United States, United Kingdom, New Zealand",
-   "description": "Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve a sua grande chance. Mas há um misterioso assassino que persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.",
+   "country": "United States",
+   "description": "Carrie White é gentil mas ingénua: impopular na escola, onde é alvo constante de chacota, tem uma mãe fanática que exerce sobre ela autêntico terror psicológico. Para tornar tudo ainda mais difícil, descobre poderes telecinéticos que não sabe como controlar. Quando tudo parece melhorar, e ela começa a sentir-se mais integrada na escola, a inveja e ódio de uma das colegas vai levar a consequências terríveis para todos.",
    "director": [
-    "Ti West"
+    "Brian De Palma"
    ],
+   "dvdRelease": "2015-08-27T00:00:00.000Z",
    "genre": [
-    "Crime",
     "Horror"
    ],
-   "imdbRating": "6.2",
-   "released": "2024-07-05T00:00:00.000Z",
-   "writer": [
-    "Ti West"
-   ],
-   "year": "2024",
+   "imdbRating": "7.4",
+   "name": "Carrie",
+   "released": "1976-11-16T00:00:00.000Z",
+   "runtime": "98 min",
    "trailers": [
     {
-     "source": "qGxKjwAnn5I",
-     "type": "Trailer"
-    },
-    {
-     "source": "adax3nfU6HU",
-     "type": "Trailer"
-    },
-    {
-     "source": "zzw__YmU8f0",
+     "source": "zbdIXI1s3aU",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt22048412/img",
-   "logo": "https://images.metahub.space/logo/medium/tt22048412/img",
-   "runtime": "103 min",
-   "id": "tt22048412",
-   "genres": [
-    "Terror"
+   "writer": [
+    "Stephen King",
+    "Lawrence D. Cohen"
    ],
-   "releaseInfo": "2024",
+   "year": "1976",
+   "background": "https://images.metahub.space/background/medium/tt0074285/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
+   "id": "tt0074285",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
    "trailerStreams": [
     {
-     "title": "MaXXXine",
-     "ytId": "qGxKjwAnn5I"
-    },
-    {
-     "title": "MaXXXine",
-     "ytId": "adax3nfU6HU"
-    },
-    {
-     "title": "MaXXXine",
-     "ytId": "zzw__YmU8f0"
+     "title": "Carrie",
+     "ytId": "zbdIXI1s3aU"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt22048412"
+     "url": "https://imdb.com/title/tt0074285"
     },
     {
-     "name": "MaXXXine",
+     "name": "Carrie",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/maxxxine-22048412"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "https://www.strem.io/s/movie/carrie-0074285"
     },
     {
      "name": "Horror",
@@ -200,38 +181,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Charley Rowan McCain",
+     "name": "Sissy Spacek",
      "category": "Cast",
-     "url": "stremio:///search?search=Charley%20Rowan%20McCain"
+     "url": "stremio:///search?search=Sissy%20Spacek"
     },
     {
-     "name": "Simon Prast",
+     "name": "Piper Laurie",
      "category": "Cast",
-     "url": "stremio:///search?search=Simon%20Prast"
+     "url": "stremio:///search?search=Piper%20Laurie"
     },
     {
-     "name": "Mia Goth",
+     "name": "Amy Irving",
      "category": "Cast",
-     "url": "stremio:///search?search=Mia%20Goth"
+     "url": "stremio:///search?search=Amy%20Irving"
     },
     {
-     "name": "Ti West",
+     "name": "Stephen King",
      "category": "Writers",
-     "url": "stremio:///search?search=Ti%20West"
+     "url": "stremio:///search?search=Stephen%20King"
     },
     {
-     "name": "Ti West",
+     "name": "Lawrence D. Cohen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lawrence%20D.%20Cohen"
+    },
+    {
+     "name": "Brian De Palma",
      "category": "Directors",
-     "url": "stremio:///search?search=Ti%20West"
+     "url": "stremio:///search?search=Brian%20De%20Palma"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt22048412",
+    "defaultVideoId": "tt0074285",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22048412.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074285.jpg"
   },
   {
    "awards": "6 wins & 9 nominations total",
@@ -370,321 +356,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg"
   },
   {
-   "awards": "Nominated for 2 Oscars. 6 wins & 9 nominations total",
-   "cast": [
-    "Sissy Spacek",
-    "Piper Laurie",
-    "Amy Irving"
-   ],
-   "country": "United States",
-   "description": "Carrie White é gentil mas ingénua: impopular na escola, onde é alvo constante de chacota, tem uma mãe fanática que exerce sobre ela autêntico terror psicológico. Para tornar tudo ainda mais difícil, descobre poderes telecinéticos que não sabe como controlar. Quando tudo parece melhorar, e ela começa a sentir-se mais integrada na escola, a inveja e ódio de uma das colegas vai levar a consequências terríveis para todos.",
-   "director": [
-    "Brian De Palma"
-   ],
-   "dvdRelease": "2015-08-27T00:00:00.000Z",
-   "genre": [
-    "Horror"
-   ],
-   "imdbRating": "7.4",
-   "name": "Carrie",
-   "released": "1976-11-16T00:00:00.000Z",
-   "runtime": "98 min",
-   "trailers": [
-    {
-     "source": "zbdIXI1s3aU",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Stephen King",
-    "Lawrence D. Cohen"
-   ],
-   "year": "1976",
-   "background": "https://images.metahub.space/background/medium/tt0074285/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0074285/img",
-   "id": "tt0074285",
-   "genres": [
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "1976",
-   "trailerStreams": [
-    {
-     "title": "Carrie",
-     "ytId": "zbdIXI1s3aU"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0074285"
-    },
-    {
-     "name": "Carrie",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/carrie-0074285"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Sissy Spacek",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sissy%20Spacek"
-    },
-    {
-     "name": "Piper Laurie",
-     "category": "Cast",
-     "url": "stremio:///search?search=Piper%20Laurie"
-    },
-    {
-     "name": "Amy Irving",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amy%20Irving"
-    },
-    {
-     "name": "Stephen King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Stephen%20King"
-    },
-    {
-     "name": "Lawrence D. Cohen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lawrence%20D.%20Cohen"
-    },
-    {
-     "name": "Brian De Palma",
-     "category": "Directors",
-     "url": "stremio:///search?search=Brian%20De%20Palma"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0074285",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074285.jpg"
-  },
-  {
-   "cast": [
-    "Russell Crowe",
-    "Shailene Woodley",
-    "Jacob Tremblay"
-   ],
-   "country": "United States",
-   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
-   "director": [
-    "Janus Metz"
-   ],
-   "genre": [
-    "Biography",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "6.2",
-   "name": "Unabomber",
-   "released": "2026-09-25T00:00:00.000Z",
-   "writer": [
-    "Sam Chalsen",
-    "Nelson Greaves"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt6933238/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
-   "runtime": "101 min",
-   "trailers": [
-    {
-     "source": "B3tR6qQjbgI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt6933238",
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Unabomber",
-     "ytId": "B3tR6qQjbgI"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6933238"
-    },
-    {
-     "name": "Unabomber",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/unabomber-6933238"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Russell Crowe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Russell%20Crowe"
-    },
-    {
-     "name": "Shailene Woodley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shailene%20Woodley"
-    },
-    {
-     "name": "Jacob Tremblay",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jacob%20Tremblay"
-    },
-    {
-     "name": "Sam Chalsen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Chalsen"
-    },
-    {
-     "name": "Nelson Greaves",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nelson%20Greaves"
-    },
-    {
-     "name": "Janus Metz",
-     "category": "Directors",
-     "url": "stremio:///search?search=Janus%20Metz"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt6933238",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
-  },
-  {
-   "name": "In the Grey",
-   "cast": [
-    "Henry Cavill",
-    "Jake Gyllenhaal",
-    "Eiza González"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
-   "director": [
-    "Guy Ritchie"
-   ],
-   "genre": [
-    "Action",
-    "Crime",
-    "Thriller"
-   ],
-   "imdbRating": "6.3",
-   "released": "2026-05-15T00:00:00.000Z",
-   "writer": [
-    "Guy Ritchie"
-   ],
-   "year": "2026",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "nufP15iN4GE",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt27681354/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
-   "id": "tt27681354",
-   "genres": [
-    "Ação",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "In the Grey",
-     "ytId": "nufP15iN4GE"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27681354"
-    },
-    {
-     "name": "In the Grey",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Henry Cavill",
-     "category": "Cast",
-     "url": "stremio:///search?search=Henry%20Cavill"
-    },
-    {
-     "name": "Jake Gyllenhaal",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
-    },
-    {
-     "name": "Eiza González",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt27681354",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
-  },
-  {
    "name": "Obsession",
    "awards": "10 wins & 13 nominations total",
    "cast": [
@@ -782,117 +453,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
-  },
-  {
-   "name": "Verity",
-   "cast": [
-    "Anne Hathaway",
-    "Dakota Johnson",
-    "Josh Hartnett"
-   ],
-   "country": "United States",
-   "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
-   "director": [
-    "Michael Showalter"
-   ],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "6.0",
-   "released": "2026-10-02T00:00:00.000Z",
-   "writer": [
-    "Nick Antosca",
-    "Colleen Hoover",
-    "Will Honley"
-   ],
-   "year": "2026",
-   "runtime": "114 min",
-   "trailers": [
-    {
-     "source": "xdPMKhjMSFs",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt32261958/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
-   "id": "tt32261958",
-   "genres": [
-    "Mistério",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Verity",
-     "ytId": "xdPMKhjMSFs"
-    }
-   ],
-   "links": [
-    {
-     "name": "Verity",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/verity-32261958"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Anne Hathaway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Hathaway"
-    },
-    {
-     "name": "Dakota Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dakota%20Johnson"
-    },
-    {
-     "name": "Josh Hartnett",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
-    },
-    {
-     "name": "Nick Antosca",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Antosca"
-    },
-    {
-     "name": "Colleen Hoover",
-     "category": "Writers",
-     "url": "stremio:///search?search=Colleen%20Hoover"
-    },
-    {
-     "name": "Will Honley",
-     "category": "Writers",
-     "url": "stremio:///search?search=Will%20Honley"
-    },
-    {
-     "name": "Michael Showalter",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Showalter"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32261958",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
    "name": "Backrooms",
@@ -1007,74 +567,69 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26657236.jpg"
   },
   {
-   "name": "Breath",
+   "name": "In the Grey",
    "cast": [
-    "James Cosmo",
-    "Neb Chupin",
-    "Rachel Daigh"
+    "Henry Cavill",
+    "Jake Gyllenhaal",
+    "Eiza González"
    ],
-   "country": "Italy",
-   "description": "Lara Winslet, a volcanologist, gets trapped in a hole while working alone on a volcano site. Isolated, she reflects on her life and relationship with her daughter as she awaits rescue.",
+   "country": "United Kingdom, United States",
+   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
    "director": [
-    "John Real"
+    "Guy Ritchie"
    ],
-   "dvdRelease": "2022-05-03T00:00:00.000Z",
    "genre": [
-    "Drama",
+    "Action",
+    "Crime",
     "Thriller"
    ],
-   "imdbRating": "4.8",
-   "released": "2022-01-10T00:00:00.000Z",
-   "runtime": "106 min",
+   "imdbRating": "6.3",
+   "released": "2026-05-15T00:00:00.000Z",
    "writer": [
-    "Adriana Marzagalli",
-    "John Real"
+    "Guy Ritchie"
    ],
-   "year": "2022",
+   "year": "2026",
+   "runtime": "97 min",
    "trailers": [
     {
-     "source": "SOi9NTqkvVk",
-     "type": "Trailer"
-    },
-    {
-     "source": "N_ptMbzHcRM",
+     "source": "nufP15iN4GE",
      "type": "Trailer"
     }
    ],
-   "awards": "4 wins total",
-   "background": "https://images.metahub.space/background/medium/tt8347960/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8347960/img",
-   "id": "tt8347960",
+   "background": "https://images.metahub.space/background/medium/tt27681354/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
+   "id": "tt27681354",
    "genres": [
-    "Drama",
+    "Ação",
     "Thriller"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Breath",
-     "ytId": "SOi9NTqkvVk"
-    },
-    {
-     "title": "Breath",
-     "ytId": "N_ptMbzHcRM"
+     "title": "In the Grey",
+     "ytId": "nufP15iN4GE"
     }
    ],
    "links": [
     {
-     "name": "4.9",
+     "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt8347960"
+     "url": "https://imdb.com/title/tt27681354"
     },
     {
-     "name": "Breath",
+     "name": "In the Grey",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/breath-8347960"
+     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
     },
     {
-     "name": "Drama",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
      "name": "Thriller",
@@ -1082,43 +637,495 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "James Cosmo",
+     "name": "Henry Cavill",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Cosmo"
+     "url": "stremio:///search?search=Henry%20Cavill"
     },
     {
-     "name": "Neb Chupin",
+     "name": "Jake Gyllenhaal",
      "category": "Cast",
-     "url": "stremio:///search?search=Neb%20Chupin"
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
     },
     {
-     "name": "Rachel Daigh",
+     "name": "Eiza González",
      "category": "Cast",
-     "url": "stremio:///search?search=Rachel%20Daigh"
+     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
     },
     {
-     "name": "Adriana Marzagalli",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Adriana%20Marzagalli"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     },
     {
-     "name": "John Real",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Real"
-    },
-    {
-     "name": "John Real",
+     "name": "Guy Ritchie",
      "category": "Directors",
-     "url": "stremio:///search?search=John%20Real"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt8347960",
+    "defaultVideoId": "tt27681354",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8347960.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
+  },
+  {
+   "name": "Weapons",
+   "cast": [
+    "Julia Garner",
+    "Josh Brolin",
+    "Alden Ehrenreich"
+   ],
+   "country": "United States",
+   "description": "Na noite passada, às 2h17, todas as crianças da turma da Professora Gandy deixaram os respetivos quartos, abriram as portas de casa e desapareceram misteriosamente na escuridão. Todas, exceto uma.  A tragédia leva os habitantes da pequena cidade a questionar quem, ou o que estará por trás do desaparecimento.",
+   "director": [
+    "Zach Cregger"
+   ],
+   "genre": [
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.4",
+   "released": "2025-08-08T00:00:00.000Z",
+   "writer": [
+    "Zach Cregger"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "QKHySfXqN0I",
+     "type": "Trailer"
+    },
+    {
+     "source": "OpThntO9ixc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt26581740/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
+   "awards": "Won 1 Oscar. 64 wins & 131 nominations total",
+   "id": "tt26581740",
+   "genres": [
+    "Terror",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Weapons",
+     "ytId": "QKHySfXqN0I"
+    },
+    {
+     "title": "Weapons",
+     "ytId": "OpThntO9ixc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26581740"
+    },
+    {
+     "name": "Weapons",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/weapons-26581740"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Julia Garner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Julia%20Garner"
+    },
+    {
+     "name": "Josh Brolin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Brolin"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alden%20Ehrenreich"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Writers",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Directors",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt26581740",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg"
+  },
+  {
+   "name": "Marty Supreme",
+   "cast": [
+    "Timothée Chalamet",
+    "Gwyneth Paltrow",
+    "Odessa A&apos;zion"
+   ],
+   "country": "United States, Finland",
+   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
+   "director": [
+    "Josh Safdie"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Sport"
+   ],
+   "imdbRating": "7.5",
+   "released": "2025-12-25T00:00:00.000Z",
+   "writer": [
+    "Ronald Bronstein",
+    "Josh Safdie"
+   ],
+   "year": "2025",
+   "runtime": "150 min",
+   "background": "https://images.metahub.space/background/medium/tt32916440/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
+   "trailers": [
+    {
+     "source": "s9gSuKaKcqM",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
+   "id": "tt32916440",
+   "genres": [
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Marty Supreme",
+     "ytId": "s9gSuKaKcqM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32916440"
+    },
+    {
+     "name": "Marty Supreme",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Timothée Chalamet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+    },
+    {
+     "name": "Gwyneth Paltrow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gwyneth%20Paltrow"
+    },
+    {
+     "name": "Odessa A&apos;zion",
+     "category": "Cast",
+     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
+    },
+    {
+     "name": "Ronald Bronstein",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ronald%20Bronstein"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32916440",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
+  },
+  {
+   "name": "28 Years Later",
+   "cast": [
+    "Jodie Comer",
+    "Aaron Taylor-Johnson",
+    "Ralph Fiennes"
+   ],
+   "country": "United Kingdom, Canada, United States",
+   "description": "Quase três décadas após um vírus mortal escapar de um laboratório de armas biológicas, o mundo permanece sob uma quarentena rígida. Apesar das adversidades, um grupo de sobreviventes encontrou refúgio numa ilha isolada, ligada ao continente por uma única passagem altamente protegida. Quando um dos membros parte em busca de respostas numa missão arriscada, é confrontado com segredos e horrores que moldaram não só os infetados, mas também os poucos humanos que sobreviveram.",
+   "director": [
+    "Danny Boyle"
+   ],
+   "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "6.6",
+   "released": "2025-06-20T00:00:00.000Z",
+   "writer": [
+    "Alex Garland"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "IYGG55qwQZQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "mcvLKldPM08",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt10548174/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10548174/img",
+   "awards": "Nominated for 1 BAFTA Award. 7 wins & 63 nominations total",
+   "runtime": "115 min",
+   "id": "tt10548174",
+   "genres": [
+    "Terror",
+    "Thriller",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "28 Years Later",
+     "ytId": "IYGG55qwQZQ"
+    },
+    {
+     "title": "28 Years Later",
+     "ytId": "mcvLKldPM08"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10548174"
+    },
+    {
+     "name": "28 Years Later",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/28-years-later-10548174"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jodie Comer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jodie%20Comer"
+    },
+    {
+     "name": "Aaron Taylor-Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Taylor-Johnson"
+    },
+    {
+     "name": "Ralph Fiennes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ralph%20Fiennes"
+    },
+    {
+     "name": "Alex Garland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Danny Boyle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Danny%20Boyle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt10548174",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10548174.jpg"
+  },
+  {
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2farrival_194802%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2farrival_194802%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/194802/images/masterrepository/fandango/194802/arrivalposterart.jpg\" alt=\"Arrival\" title=\"Arrival\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2farrival_194802%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2farrival-trailer%2f194802%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
+   "name": "Arrival",
+   "trailers": [
+    {
+     "source": "7W1m5ER3I1Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "tFMo3UJ4B4g",
+     "type": "Trailer"
+    }
+   ],
+   "year": "2016",
+   "runtime": "116 min",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "released": "2016-11-11T00:00:00.000Z",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "writer": [
+    "Eric Heisserer",
+    "Ted Chiang"
+   ],
+   "cast": [
+    "Amy Adams",
+    "Jeremy Renner",
+    "Forest Whitaker"
+   ],
+   "imdbRating": "7.9",
+   "description": "Quando misteriosas naves espaciais aterram em vários pontos do globo, uma equipa de elite – liderada pela especialista em linguística Louise Banks –reúne-se para investigar. Enquanto a Humanidade está à beira de uma guerra mundial, Banks e a sua equipa lutam contra o tempo em busca de respostas – e para as encontrar, ela irá correr o risco que pode ameaçar a sua vida, e possivelmente da Humanidade.",
+   "country": "Canada, United States",
+   "awards": "Won 1 Oscar. 73 wins & 276 nominations total",
+   "dvdRelease": "2017-01-31T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt2543164/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2543164/img",
+   "id": "tt2543164",
+   "genres": [
+    "Drama",
+    "Ficção científica",
+    "Mistério"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "Arrival",
+     "ytId": "7W1m5ER3I1Y"
+    },
+    {
+     "title": "Arrival",
+     "ytId": "tFMo3UJ4B4g"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2543164"
+    },
+    {
+     "name": "Arrival",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/arrival-2543164"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Amy Adams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amy%20Adams"
+    },
+    {
+     "name": "Jeremy Renner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Renner"
+    },
+    {
+     "name": "Forest Whitaker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Forest%20Whitaker"
+    },
+    {
+     "name": "Eric Heisserer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eric%20Heisserer"
+    },
+    {
+     "name": "Ted Chiang",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ted%20Chiang"
+    },
+    {
+     "name": "Denis Villeneuve",
+     "category": "Directors",
+     "url": "stremio:///search?search=Denis%20Villeneuve"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2543164",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2543164.jpg"
   }
  ]
 }

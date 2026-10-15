@@ -1953,65 +1953,63 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34675596.jpg"
   },
   {
-   "name": "Dutton Ranch",
+   "name": "MobLand",
+   "imdbRating": "8.3",
    "cast": [
-    "Kelly Reilly",
-    "Cole Hauser",
-    "Finn Little"
+    "Tom Hardy",
+    "Pierce Brosnan",
+    "Paddy Considine"
    ],
-   "country": "United States",
-   "description": "Beth Dutton e Rip Wheeler lutam para sobreviver na sua querida fazenda de 7 000 acres, em tempos difíceis e perante uma concorrência acirrada, ao mesmo tempo que se certificam de que o jovem Carter se torne o homem que está destinado a ser.",
+   "country": "United Kingdom, United States",
+   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
+   "director": null,
    "genre": [
-    "Drama",
-    "Western"
+    "Crime",
+    "Drama"
    ],
-   "imdbRating": "8.2",
-   "released": "2026-05-15T00:00:00.000Z",
+   "released": "2025-03-30T00:00:00.000Z",
    "writer": [
-    "Chad Feehan"
+    "Ronan Bennett"
    ],
-   "year": "2026–",
-   "runtime": "49 min",
-   "status": "Continuing",
+   "year": "2025–",
    "trailers": [
     {
-     "source": "k6cjKNZBQ1M",
-     "type": "Trailer"
-    },
-    {
-     "source": "19I5a1tRt98",
+     "source": "qKGgw7Ob5f4",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt34991493/img",
-   "logo": "https://images.metahub.space/logo/medium/tt34991493/img",
-   "id": "tt34991493",
+   "runtime": "47 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
+   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
+   "id": "tt31510819",
    "genres": [
-    "Faroeste",
+    "Crime",
     "Drama"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Dutton Ranch",
-     "ytId": "k6cjKNZBQ1M"
-    },
-    {
-     "title": "Dutton Ranch",
-     "ytId": "19I5a1tRt98"
+     "title": "MobLand",
+     "ytId": "qKGgw7Ob5f4"
     }
    ],
    "links": [
     {
-     "name": "8.2",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt34991493"
+     "url": "https://imdb.com/title/tt31510819"
     },
     {
-     "name": "Dutton Ranch",
+     "name": "MobLand",
      "category": "share",
-     "url": "https://www.strem.io/s/series/dutton-ranch-34991493"
+     "url": "https://www.strem.io/s/series/mobland-31510819"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -2019,29 +2017,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Western",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Western"
-    },
-    {
-     "name": "Kelly Reilly",
+     "name": "Tom Hardy",
      "category": "Cast",
-     "url": "stremio:///search?search=Kelly%20Reilly"
+     "url": "stremio:///search?search=Tom%20Hardy"
     },
     {
-     "name": "Cole Hauser",
+     "name": "Pierce Brosnan",
      "category": "Cast",
-     "url": "stremio:///search?search=Cole%20Hauser"
+     "url": "stremio:///search?search=Pierce%20Brosnan"
     },
     {
-     "name": "Finn Little",
+     "name": "Paddy Considine",
      "category": "Cast",
-     "url": "stremio:///search?search=Finn%20Little"
+     "url": "stremio:///search?search=Paddy%20Considine"
     },
     {
-     "name": "Chad Feehan",
+     "name": "Ronan Bennett",
      "category": "Writers",
-     "url": "stremio:///search?search=Chad%20Feehan"
+     "url": "stremio:///search?search=Ronan%20Bennett"
     }
    ],
    "behaviorHints": {
@@ -2050,7 +2043,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34991493.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   }
  ]
 }
