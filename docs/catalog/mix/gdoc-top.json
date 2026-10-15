@@ -492,30 +492,85 @@
    "imdbRating": "7.5"
   },
   {
-   "id": "tt43707370",
-   "logo": "https://live.metahub.space/logo/medium/tt43707370/img",
-   "background": "https://live.metahub.space/background/medium/tt43707370/img",
-   "name": "Game Day Murders",
-   "description": "Veteran sportscaster Lindsay Czarniak explores the deadly intersection of sports and crime through six murder investigations involving athletes. Each episode blends a gripping whodunit with the culture surrounding the game.",
+   "id": "tt34966036",
+   "logo": "https://live.metahub.space/logo/medium/tt34966036/img",
+   "background": "https://live.metahub.space/background/medium/tt34966036/img",
+   "name": "Free Leonard Peltier",
+   "description": "Leonard Peltier, one of the surviving leaders of the American Indian Movement, has been in prison for 50 years following a contentious conviction. A new generation of Native activists is committed to winning his freedom before he dies.",
    "genres": [
-    "Documentário",
-    "Crime"
+    "Documentário"
    ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
+   "releaseInfo": "2025",
+   "runtime": "110 min",
    "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.3",
+   "cast": [
+    "Leonard Peltier"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Leonard Peltier",
+     "profile_path": "/pDQQFriFGp46nE8DKIOTtGaXHLO.jpg",
+     "id": 1379842
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jesse Short Bull",
+     "profile_path": null,
+     "id": 3515663
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "David France",
+     "profile_path": "/zXUMQBNIGQBup8CalQ67XlAfXRx.jpg",
+     "id": 930684
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "David France",
+     "profile_path": "/zXUMQBNIGQBup8CalQ67XlAfXRx.jpg",
+     "id": 930684
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jhane Myers",
+     "profile_path": null,
+     "id": 2019984
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Paul McGuire",
+     "profile_path": null,
+     "id": 2228993
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Bird Runningwater",
+     "profile_path": "/t8LEqdROTWfIbBODG2bSHUmxzMh.jpg",
+     "id": 2568401
+    }
+   ],
+   "director": [
+    "Jesse Short Bull",
+    "David France"
+   ],
+   "imdbRating": "6.5",
+   "country": "United States",
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt34966036",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43707370.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34966036.jpg"
   }
  ]
 }

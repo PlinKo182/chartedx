@@ -632,18 +632,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0103584.jpg"
   },
   {
-   "status": "Continuing",
-   "id": "tt47052712",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "name": "Disney Sidekick Adventures",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47052712.jpg"
-  },
-  {
    "id": "tt41153966",
    "logo": "https://live.metahub.space/logo/medium/tt41153966/img",
    "background": "https://live.metahub.space/background/medium/tt41153966/img",
@@ -947,6 +935,18 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14476236.jpg"
+  },
+  {
+   "status": "Continuing",
+   "id": "tt47052712",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "name": "Disney Sidekick Adventures",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47052712.jpg"
   }
  ]
 }
