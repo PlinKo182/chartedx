@@ -329,66 +329,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33504891.jpg"
   },
   {
-   "id": "tt27788353",
-   "logo": "https://live.metahub.space/logo/medium/tt27788353/img",
-   "background": "https://live.metahub.space/background/medium/tt27788353/img",
-   "name": "Under Deadly Skies: Ukraine's Eastern Front",
-   "description": "Veteran war reporter John Sweeney and Byline TV filmmaker Caolan Robertson hit the road with war photographer Paul Conroy and journalist Zarina Zabrisky to gather compelling evidence for the use of illegal weapons and the torture of civilians in Ukraine, as well as examining the reality of life and conditions faced by ordinary people on Ukraine's eastern front.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2023",
-   "runtime": "57 min",
-   "trailers": [],
-   "cast": [
-    "Paul Conroy",
-    "John Sweeney",
-    "Zarina Zabrisky"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Paul Conroy",
-     "profile_path": null,
-     "id": 2969665
-    },
-    {
-     "character": "",
-     "name": "John Sweeney",
-     "profile_path": "/6LCWjm9JkStJW0tbsL42LoqMpN6.jpg",
-     "id": 1150525
-    },
-    {
-     "character": "",
-     "name": "Zarina Zabrisky",
-     "profile_path": "/dm6UtYXo1oc1kAEpBtonOsCxFjE.jpg",
-     "id": 5548211
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Caolan Robertson",
-     "profile_path": null,
-     "id": 2090523
-    }
-   ],
-   "director": [
-    "Caolan Robertson"
-   ],
-   "imdbRating": "7.7",
-   "language": "English",
-   "country": "United Kingdom",
-   "behaviorHints": {
-    "defaultVideoId": "tt27788353",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27788353.jpg"
-  },
-  {
    "id": "tt18225078",
    "logo": "https://live.metahub.space/logo/medium/tt18225078/img",
    "background": "https://live.metahub.space/background/medium/tt18225078/img",
@@ -544,6 +484,105 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31719701.jpg"
+  },
+  {
+   "country": "United States",
+   "description": "Com uma nova invenção mágica que prometia revolucionar os testes de sangue, Elizabeth Holmes tornou-se a bilionária mais jovem do mundo, anunciada como o próximo Steve Jobs. Então, durante a noite, sua empresa de US $ 10 bilhões se dissolveu. A ascensão e queda de Theranos é uma janela para a psicologia da fraude.",
+   "director": [
+    "Alex Gibney"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Inventor: Out for Blood in Silicon Valley",
+   "released": "2019-03-18T00:00:00.000Z",
+   "writer": [
+    "Alex Gibney"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "wtDaP18OGfw",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Alex Gibney",
+    "Elizabeth Holmes",
+    "Dan Ariely"
+   ],
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8488126/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
+   "runtime": "119 min",
+   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 3 nominations total",
+   "dvdRelease": "2019-11-18T00:00:00.000Z",
+   "id": "tt8488126",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Inventor: Out for Blood in Silicon Valley",
+     "ytId": "wtDaP18OGfw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8488126"
+    },
+    {
+     "name": "The Inventor: Out for Blood in Silicon Valley",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-inventor-out-for-blood-in-silicon-valley-8488126"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Elizabeth Holmes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elizabeth%20Holmes"
+    },
+    {
+     "name": "Dan Ariely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Ariely"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8488126",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
   }
  ]
 }

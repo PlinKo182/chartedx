@@ -777,77 +777,97 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40029087.jpg"
   },
   {
-   "id": "tt34385400",
-   "logo": "https://live.metahub.space/logo/medium/tt34385400/img",
-   "background": "https://live.metahub.space/background/medium/tt34385400/img",
-   "name": "Vampirina: Teenage Vampire",
-   "description": "Vee deixa a Transilvânia e vai para um internato em busca de seus sonhos musicais. Enquanto mantém sua identidade de vampira em segredo, obstáculos inesperados ameaçam levá-la de volta às sombras.",
+   "awards": "Nominated for 3 Primetime Emmys. 8 wins & 51 nominations total",
+   "cast": [
+    "Terry Crews",
+    "Tichina Arnold",
+    "Tequan Richmond"
+   ],
+   "country": "United States",
+   "description": "Em 1982, Chris completa 13 anos e muda-se com a sua família para Bedford-Stuyvesant. Lá, Chris vive situações corriqueiras da vida de um adolescente, tanto nas histórias que realmente acontecem quanto nos pensamentos que são expostos de uma forma humorística.Ele estuda em um colégio onde é o único aluno negro, situação que o vitimiza durante todo seu tempo lá. Mas ele faz um amigo, Greg), que vai estar sempre junto de Chris, passando por suas situações tragicamente cómicas.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Music"
+   ],
+   "imdbRating": "7.6",
+   "name": "Everybody Hates Chris",
+   "released": "2005-09-22T00:00:00.000Z",
+   "runtime": "1 min",
+   "status": "Ended",
+   "writer": [
+    "Ali LeRoi",
+    "Chris Rock"
+   ],
+   "year": "2005–2009",
+   "logo": "https://images.metahub.space/logo/medium/tt0460637/img",
+   "background": "https://images.metahub.space/background/medium/tt0460637/img",
+   "id": "tt0460637",
    "genres": [
-    "Sci-Fi & Fantasy",
     "Comédia"
    ],
-   "releaseInfo": "2025",
-   "status": "Continuing",
-   "runtime": "25 min",
-   "trailers": [
+   "releaseInfo": "2005",
+   "links": [
     {
-     "source": "A28sq3j6KAo",
-     "type": "Trailer"
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0460637"
     },
     {
-     "source": "JkwbCG-G2MA",
-     "type": "Trailer"
+     "name": "Everybody Hates Chris",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/everybody-hates-chris-0460637"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
+    },
+    {
+     "name": "Terry Crews",
+     "category": "Cast",
+     "url": "stremio:///search?search=Terry%20Crews"
+    },
+    {
+     "name": "Tichina Arnold",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tichina%20Arnold"
+    },
+    {
+     "name": "Tequan Richmond",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tequan%20Richmond"
+    },
+    {
+     "name": "Ali LeRoi",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ali%20LeRoi"
+    },
+    {
+     "name": "Chris Rock",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Rock"
     }
    ],
-   "cast": [
-    "Kenzi Richardson",
-    "Jiwon Lee",
-    "Faith Hedley"
-   ],
-   "credits_cast": [
-    {
-     "character": "Vee",
-     "name": "Kenzi Richardson",
-     "profile_path": "/jlZWoPz2iXTI1GS7YUOQd2PdFNe.jpg",
-     "id": 2775764
-    },
-    {
-     "character": "Sophie",
-     "name": "Jiwon Lee",
-     "profile_path": "/4yEHqiKtx97c67klgVfnJuliM5h.jpg",
-     "id": 5610791
-    },
-    {
-     "character": "Britney",
-     "name": "Faith Hedley",
-     "profile_path": "/cwTJqvXv99lGtzr5jIz16Sx2zH8.jpg",
-     "id": 5035608
-    },
-    {
-     "character": "Elijah",
-     "name": "Shaun Dixon",
-     "profile_path": "/ltYinkTJlBli4oHfzhE5orK2zvl.jpg",
-     "id": 3227332
-    },
-    {
-     "character": "Demi",
-     "name": "Milo Maharlika",
-     "profile_path": "/aCaitDn8XqSz7eCwwFe2tEI3gg0.jpg",
-     "id": 5035607
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "6.2",
-   "language": "English",
-   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34385400.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0460637.jpg"
   }
  ]
 }
