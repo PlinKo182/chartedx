@@ -16,7 +16,7 @@
     "Drama",
     "Romance"
    ],
-   "imdbRating": "6.3",
+   "imdbRating": "6.4",
    "released": "2026-10-14T00:00:00.000Z",
    "writer": [
     "Julia Cox"
@@ -180,60 +180,69 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg"
   },
   {
-   "name": "Dead of Winter",
-   "awards": "3 nominations total",
+   "name": "Fight or Flight",
    "cast": [
-    "Emma Thompson",
-    "Judy Greer",
-    "Marc Menchaca"
+    "Josh Hartnett",
+    "Charithra Chandran",
+    "Katee Sackhoff"
    ],
-   "country": "Canada, Germany, United States",
-   "description": "Sozinha numa tempestade de neve em Minnesota, uma viúva procura cumprir o último desejo do marido. Ao parar numa cabana remota, descobre uma rapariga raptada e torna-se na sua única esperança de sobrevivência numa luta contra o tempo.",
+   "country": "United States, United Kingdom",
+   "description": "Um mercenário aceita a missão de localizar um alvo num avião, mas vê-se obrigado a protegê-lo quando ambos são cercados por pessoas que tentam matá-los.",
    "director": [
-    "Brian Kirk"
+    "James Madigan"
    ],
    "genre": [
     "Action",
-    "Thriller"
+    "Comedy"
    ],
-   "imdbRating": "6.1",
-   "released": "2025-10-21T00:00:00.000Z",
+   "imdbRating": "6.4",
+   "released": "2025-05-09T00:00:00.000Z",
    "writer": [
-    "Nicholas Jacobson-Larson",
-    "Dalton Leeb"
+    "Brooks McLaren",
+    "D.J. Cotrona"
    ],
-   "year": "2025",
-   "runtime": "98 min",
+   "year": "2024",
+   "runtime": "102 min",
    "trailers": [
     {
-     "source": "klGRM4Qs-gk",
+     "source": "SdsHRpjfqEI",
+     "type": "Trailer"
+    },
+    {
+     "source": "Cd-4wfnn8bc",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt7574556/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7574556/img",
-   "id": "tt7574556",
+   "background": "https://images.metahub.space/background/medium/tt13652286/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13652286/img",
+   "awards": "1 nomination total",
+   "id": "tt13652286",
    "genres": [
-    "Thriller",
-    "Ação"
+    "Ação",
+    "Comédia",
+    "Thriller"
    ],
    "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Dead of Winter",
-     "ytId": "klGRM4Qs-gk"
+     "title": "Fight or Flight",
+     "ytId": "SdsHRpjfqEI"
+    },
+    {
+     "title": "Fight or Flight",
+     "ytId": "Cd-4wfnn8bc"
     }
    ],
    "links": [
     {
-     "name": "6.1",
+     "name": "6.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7574556"
+     "url": "https://imdb.com/title/tt13652286"
     },
     {
-     "name": "Dead of Winter",
+     "name": "Fight or Flight",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/dead-of-winter-7574556"
+     "url": "https://www.strem.io/s/movie/fight-or-flight-13652286"
     },
     {
      "name": "Action",
@@ -241,48 +250,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Thriller",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Emma Thompson",
+     "name": "Josh Hartnett",
      "category": "Cast",
-     "url": "stremio:///search?search=Emma%20Thompson"
+     "url": "stremio:///search?search=Josh%20Hartnett"
     },
     {
-     "name": "Judy Greer",
+     "name": "Charithra Chandran",
      "category": "Cast",
-     "url": "stremio:///search?search=Judy%20Greer"
+     "url": "stremio:///search?search=Charithra%20Chandran"
     },
     {
-     "name": "Marc Menchaca",
+     "name": "Katee Sackhoff",
      "category": "Cast",
-     "url": "stremio:///search?search=Marc%20Menchaca"
+     "url": "stremio:///search?search=Katee%20Sackhoff"
     },
     {
-     "name": "Nicholas Jacobson-Larson",
+     "name": "Brooks McLaren",
      "category": "Writers",
-     "url": "stremio:///search?search=Nicholas%20Jacobson-Larson"
+     "url": "stremio:///search?search=Brooks%20McLaren"
     },
     {
-     "name": "Dalton Leeb",
+     "name": "D.J. Cotrona",
      "category": "Writers",
-     "url": "stremio:///search?search=Dalton%20Leeb"
+     "url": "stremio:///search?search=D.J.%20Cotrona"
     },
     {
-     "name": "Brian Kirk",
+     "name": "James Madigan",
      "category": "Directors",
-     "url": "stremio:///search?search=Brian%20Kirk"
+     "url": "stremio:///search?search=James%20Madigan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt7574556",
+    "defaultVideoId": "tt13652286",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7574556.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13652286.jpg"
   },
   {
    "name": "In the Grey",
@@ -387,111 +396,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
-  },
-  {
-   "name": "You+Me - Against the World",
-   "cast": [
-    "Adam Abdo",
-    "Maï Anh Le",
-    "Lucas Barski"
-   ],
-   "country": "France",
-   "description": "Sem que os pais saibam, convencidos de que está a estudar Direito, Alma Lancaster, uma jovem de boas famílias, decidiu dedicar um ano a perseguir o sonho de estudar cinema. Quando é obrigada a trabalhar com Vadim Arcadi, um jovem sem grandes raízes, nasce entre os dois uma atração elétrica. Mas, nos bastidores, esconde-se uma ameaça invisível determinada a separá-los e a revelar toda a verdade…",
-   "director": [
-    "Manon Gaurin"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "4.8",
-   "released": "2026-09-18T00:00:00.000Z",
-   "writer": [
-    "Manon Gaurin",
-    "Emma Green",
-    "Alix Letribot"
-   ],
-   "year": "2026",
-   "runtime": "94 min",
-   "trailers": [
-    {
-     "source": "z2Bw_nTXjG4",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt43617372/img",
-   "background": "https://images.metahub.space/background/medium/tt43617372/img",
-   "id": "tt43617372",
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "You+Me - Against the World",
-     "ytId": "z2Bw_nTXjG4"
-    }
-   ],
-   "links": [
-    {
-     "name": "You+Me - Against the World",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/youme-against-the-world-43617372"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Adam Abdo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adam%20Abdo"
-    },
-    {
-     "name": "Maï Anh Le",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ma%C3%AF%20Anh%20Le"
-    },
-    {
-     "name": "Lucas Barski",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lucas%20Barski"
-    },
-    {
-     "name": "Manon Gaurin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Manon%20Gaurin"
-    },
-    {
-     "name": "Emma Green",
-     "category": "Writers",
-     "url": "stremio:///search?search=Emma%20Green"
-    },
-    {
-     "name": "Alix Letribot",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alix%20Letribot"
-    },
-    {
-     "name": "Manon Gaurin",
-     "category": "Directors",
-     "url": "stremio:///search?search=Manon%20Gaurin"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt43617372",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43617372.jpg"
   },
   {
    "name": "Drawn Together",
@@ -610,6 +514,216 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36073210.jpg"
+  },
+  {
+   "name": "Dead of Winter",
+   "awards": "3 nominations total",
+   "cast": [
+    "Emma Thompson",
+    "Judy Greer",
+    "Marc Menchaca"
+   ],
+   "country": "Canada, Germany, United States",
+   "description": "Sozinha numa tempestade de neve em Minnesota, uma viúva procura cumprir o último desejo do marido. Ao parar numa cabana remota, descobre uma rapariga raptada e torna-se na sua única esperança de sobrevivência numa luta contra o tempo.",
+   "director": [
+    "Brian Kirk"
+   ],
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "6.1",
+   "released": "2025-10-21T00:00:00.000Z",
+   "writer": [
+    "Nicholas Jacobson-Larson",
+    "Dalton Leeb"
+   ],
+   "year": "2025",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "klGRM4Qs-gk",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt7574556/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7574556/img",
+   "id": "tt7574556",
+   "genres": [
+    "Thriller",
+    "Ação"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Dead of Winter",
+     "ytId": "klGRM4Qs-gk"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7574556"
+    },
+    {
+     "name": "Dead of Winter",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dead-of-winter-7574556"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Emma Thompson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Thompson"
+    },
+    {
+     "name": "Judy Greer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Judy%20Greer"
+    },
+    {
+     "name": "Marc Menchaca",
+     "category": "Cast",
+     "url": "stremio:///search?search=Marc%20Menchaca"
+    },
+    {
+     "name": "Nicholas Jacobson-Larson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nicholas%20Jacobson-Larson"
+    },
+    {
+     "name": "Dalton Leeb",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dalton%20Leeb"
+    },
+    {
+     "name": "Brian Kirk",
+     "category": "Directors",
+     "url": "stremio:///search?search=Brian%20Kirk"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7574556",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7574556.jpg"
+  },
+  {
+   "name": "You+Me - Against the World",
+   "cast": [
+    "Adam Abdo",
+    "Maï Anh Le",
+    "Lucas Barski"
+   ],
+   "country": "France",
+   "description": "Sem que os pais saibam, convencidos de que está a estudar Direito, Alma Lancaster, uma jovem de boas famílias, decidiu dedicar um ano a perseguir o sonho de estudar cinema. Quando é obrigada a trabalhar com Vadim Arcadi, um jovem sem grandes raízes, nasce entre os dois uma atração elétrica. Mas, nos bastidores, esconde-se uma ameaça invisível determinada a separá-los e a revelar toda a verdade…",
+   "director": [
+    "Manon Gaurin"
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "4.8",
+   "released": "2026-09-18T00:00:00.000Z",
+   "writer": [
+    "Manon Gaurin",
+    "Emma Green",
+    "Alix Letribot"
+   ],
+   "year": "2026",
+   "runtime": "94 min",
+   "trailers": [
+    {
+     "source": "z2Bw_nTXjG4",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt43617372/img",
+   "background": "https://images.metahub.space/background/medium/tt43617372/img",
+   "id": "tt43617372",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "You+Me - Against the World",
+     "ytId": "z2Bw_nTXjG4"
+    }
+   ],
+   "links": [
+    {
+     "name": "You+Me - Against the World",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/youme-against-the-world-43617372"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Adam Abdo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adam%20Abdo"
+    },
+    {
+     "name": "Maï Anh Le",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ma%C3%AF%20Anh%20Le"
+    },
+    {
+     "name": "Lucas Barski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lucas%20Barski"
+    },
+    {
+     "name": "Manon Gaurin",
+     "category": "Writers",
+     "url": "stremio:///search?search=Manon%20Gaurin"
+    },
+    {
+     "name": "Emma Green",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emma%20Green"
+    },
+    {
+     "name": "Alix Letribot",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alix%20Letribot"
+    },
+    {
+     "name": "Manon Gaurin",
+     "category": "Directors",
+     "url": "stremio:///search?search=Manon%20Gaurin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt43617372",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43617372.jpg"
   },
   {
    "name": "From Italy with Amore",
@@ -920,118 +1034,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37654096.jpg"
-  },
-  {
-   "id": "tt45978291",
-   "logo": "https://live.metahub.space/logo/medium/tt45978291/img",
-   "background": "https://live.metahub.space/background/medium/tt45978291/img",
-   "name": "Joana Marques: Guilty or Indecent",
-   "description": "Este documentário de um episódio revisita a batalha judicial e mediática entre a humorista Joana Marques e a dupla Anjos. Através de imagens de arquivo e depoimentos de figuras públicas, reflete sobre os limites do humor, a liberdade de expressão, a reputação e o impacto das redes sociais. Onde termina o humor e começam os direitos individuais? Poderá uma piada destruir uma carreira?",
-   "releaseInfo": "2026",
-   "runtime": "76 min",
-   "trailers": [],
-   "cast": [
-    "Joana Marques",
-    "Daniel Leitão",
-    "Inês Lopes Gonçalves"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Joana Marques",
-     "profile_path": "/lOxkYGCQusQxASbS5XhFu2vOBR6.jpg",
-     "id": 1892761
-    },
-    {
-     "character": "Self",
-     "name": "Daniel Leitão",
-     "profile_path": "/gNx8BhA6UEatAJ5vNNhA81I6hVq.jpg",
-     "id": 2147806
-    },
-    {
-     "character": "Self",
-     "name": "Inês Lopes Gonçalves",
-     "profile_path": "/fStxgygODG1MA8maETWnrrTuimq.jpg",
-     "id": 3645334
-    },
-    {
-     "character": "Self",
-     "name": "Ana Galvão",
-     "profile_path": "/hOwTxzNklGfAw8e8ItYL6XFBsmD.jpg",
-     "id": 1625819
-    },
-    {
-     "character": "Self",
-     "name": "Luana Piovani",
-     "profile_path": "/bycpzLDHJ2QljzhUko1EPQtLt4y.jpg",
-     "id": 135746
-    },
-    {
-     "character": "Self",
-     "name": "Sónia Tavares",
-     "profile_path": "/85YeojmY0NakIfCybE4fhSq4B8v.jpg",
-     "id": 2492549
-    },
-    {
-     "character": "Self",
-     "name": "Ricardo Araújo Pereira",
-     "profile_path": "/k3i5AWX2VKbJUX6Vp9KgU6kLOCU.jpg",
-     "id": 2027320
-    },
-    {
-     "character": "Self",
-     "name": "Guilherme Fonseca",
-     "profile_path": "/jdl1nZpOGwFvHbQHrqW3UQX94Lr.jpg",
-     "id": 2027128
-    },
-    {
-     "character": "Self - archive footage",
-     "name": "Nelson Rosado",
-     "profile_path": "/kznlhrlDw10ziWCLtwR9LRu2O9v.jpg",
-     "id": 3699879
-    },
-    {
-     "character": "Self - archive footage",
-     "name": "Sérgio Rosado",
-     "profile_path": "/4xvZsp9ezCGDLz7ekyPBVFLmwSq.jpg",
-     "id": 3691374
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Elza Cordeiro",
-     "profile_path": null,
-     "id": 6476834
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Juampi Cofré",
-     "profile_path": null,
-     "id": 3411696
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Nuria Becerro",
-     "profile_path": null,
-     "id": 6476835
-    }
-   ],
-   "director": [
-    "Elza Cordeiro",
-    "Juampi Cofré"
-   ],
-   "imdbRating": "7.2",
-   "behaviorHints": {
-    "defaultVideoId": "tt45978291",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45978291.jpg"
   }
  ]
 }
