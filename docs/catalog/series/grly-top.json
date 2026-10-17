@@ -650,6 +650,49 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15791630.jpg"
   },
   {
+   "id": "tt19106798",
+   "logo": "https://live.metahub.space/logo/medium/tt19106798/img",
+   "background": "https://live.metahub.space/background/medium/tt19106798/img",
+   "name": "Love Village",
+   "description": "Em busca de um novo amor, solteiros e solteiras com 35 anos ou mais se mudam para uma casa de campo. Será que vão encontrar sua alma gêmea ou voltar para casa sozinhos?",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2023",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Atsushi Tamura",
+    "Becky"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Atsushi Tamura",
+     "profile_path": "/5czRdtrFK6sKexPOeohprtakowG.jpg",
+     "id": 1249685
+    },
+    {
+     "character": "Self",
+     "name": "Becky",
+     "profile_path": "/gEfrZfn9QHSBFVnBazKvMNfmij2.jpg",
+     "id": 1229893
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.4",
+   "language": "Japanese",
+   "country": "United States, Japan",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19106798.jpg"
+  },
+  {
    "id": "tt28224610",
    "logo": "https://live.metahub.space/logo/medium/tt28224610/img",
    "background": "https://live.metahub.space/background/medium/tt28224610/img",
@@ -684,7 +727,7 @@
    ],
    "credits_crew": [],
    "director": [],
-   "imdbRating": "5.6",
+   "imdbRating": "5.7",
    "language": "English",
    "country": "United States",
    "behaviorHints": {
@@ -694,88 +737,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28224610.jpg"
-  },
-  {
-   "awards": "2 nominations total",
-   "cast": [
-    "Meri Brown",
-    "Kody Brown",
-    "Janelle Brown"
-   ],
-   "country": "United States",
-   "description": "O marido Kody Brown, junto com suas quatro esposas (apenas uma das quais é legalmente casada com Kody) e seus 18 filhos combinados, tenta viver a vida como uma família \"normal\" em uma sociedade que evita seu estilo de vida.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Reality-TV"
-   ],
-   "imdbRating": "4.6",
-   "name": "Sister Wives",
-   "released": "2010-09-26T00:00:00.000Z",
-   "runtime": "46 min",
-   "status": "Continuing",
-   "writer": null,
-   "year": "2010–",
-   "logo": "https://images.metahub.space/logo/medium/tt1721666/img",
-   "background": "https://images.metahub.space/background/medium/tt1721666/img",
-   "trailers": [
-    {
-     "source": "vY14odcyaBk",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1721666",
-   "genres": [
-    "Reality",
-    "Drama",
-    "Família"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [
-    {
-     "title": "Sister Wives",
-     "ytId": "vY14odcyaBk"
-    }
-   ],
-   "links": [
-    {
-     "name": "4.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1721666"
-    },
-    {
-     "name": "Sister Wives",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/sister-wives-1721666"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Meri Brown",
-     "category": "Cast",
-     "url": "stremio:///search?search=Meri%20Brown"
-    },
-    {
-     "name": "Kody Brown",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kody%20Brown"
-    },
-    {
-     "name": "Janelle Brown",
-     "category": "Cast",
-     "url": "stremio:///search?search=Janelle%20Brown"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1721666.jpg"
   }
  ]
 }

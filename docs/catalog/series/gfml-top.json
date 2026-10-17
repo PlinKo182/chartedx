@@ -293,7 +293,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
-   "imdbRating": "5.9"
+   "imdbRating": "7.0"
   },
   {
    "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -978,79 +978,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1281973.jpg"
   },
   {
-   "name": "The Golden Ticket",
-   "cast": [
-    "Gerard Dunning"
-   ],
-   "country": "United States",
-   "description": "Nesta original competição, os jogadores entram na fábrica de chocolate de Wonka, onde enfrentam tentações, provas e jogos imprevisíveis.",
-   "genre": [
-    "Adventure",
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "5.2",
-   "released": null,
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "kGVuOT6h11c",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt36258621/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36258621/img",
-   "id": "tt36258621",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Golden Ticket",
-     "ytId": "kGVuOT6h11c"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Golden Ticket",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-golden-ticket-36258621"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Gerard Dunning",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Dunning"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36258621.jpg"
-  },
-  {
    "awards": "1 win total",
    "cast": [
     "Cedric Smith",
@@ -1162,6 +1089,79 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0103584.jpg"
+  },
+  {
+   "name": "The Golden Ticket",
+   "cast": [
+    "Gerard Dunning"
+   ],
+   "country": "United States",
+   "description": "Nesta original competição, os jogadores entram na fábrica de chocolate de Wonka, onde enfrentam tentações, provas e jogos imprevisíveis.",
+   "genre": [
+    "Adventure",
+    "Game-Show",
+    "Reality-TV"
+   ],
+   "imdbRating": "5.2",
+   "released": null,
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "kGVuOT6h11c",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt36258621/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36258621/img",
+   "id": "tt36258621",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Golden Ticket",
+     "ytId": "kGVuOT6h11c"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Golden Ticket",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-golden-ticket-36258621"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Game-Show",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "Gerard Dunning",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gerard%20Dunning"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36258621.jpg"
   }
  ]
 }
