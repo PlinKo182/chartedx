@@ -1,68 +1,137 @@
 {
  "metas": [
   {
-   "name": "Matchbox",
-   "country": "United States",
-   "description": "O reencontro de um grupo de antigos amigos de infância sofre uma reviravolta quando se deparam com uma perigosa conspiração internacional – e têm de salvar o mundo.",
-   "genre": [
-    "Action"
+   "id": "tt6262770",
+   "logo": "https://live.metahub.space/logo/medium/tt6262770/img",
+   "background": "https://live.metahub.space/background/medium/tt6262770/img",
+   "name": "Tenzing",
+   "description": "Um homem determinado vai numa missão de alto-risco e enfrenta probabilidades aparentemente impossíveis para realizar o seu sonho de ser o primeiro a chegar ao cume do Monte Evereste.",
+   "genres": [
+    "Drama",
+    "História"
    ],
-   "imdbRating": "5.7",
-   "released": null,
-   "year": "2026",
-   "runtime": "127 min",
+   "releaseInfo": "2026",
+   "runtime": "126 min",
    "trailers": [
     {
-     "source": "7xfqITrMDcI",
+     "source": "KkYCY5YR12U",
      "type": "Trailer"
     }
    ],
    "cast": [
-    "John Cena",
-    "Jessica Biel",
-    "Arturo Castro",
-    "Sam Richardson",
-    "Teyonah Parris",
-    "Danai Gurira",
-    "Golshifteh Farahani",
-    "Corey Stoll"
+    "Genden Phuntsok",
+    "Tom Hiddleston",
+    "Willem Dafoe"
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt28498219/img",
-   "background": "https://images.metahub.space/background/medium/tt28498219/img",
-   "id": "tt28498219",
-   "genres": [
-    "Ação",
-    "Comédia",
-    "Aventura"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
+   "credits_cast": [
     {
-     "title": "Matchbox",
-     "ytId": "7xfqITrMDcI"
-    }
-   ],
-   "links": [
-    {
-     "name": "Matchbox",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/matchbox-28498219"
+     "character": "Tenzing Norgay",
+     "name": "Genden Phuntsok",
+     "profile_path": "/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg",
+     "id": 2091969
     },
     {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "character": "Sir Edmund Hillary",
+     "name": "Tom Hiddleston",
+     "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+     "id": 91606
+    },
+    {
+     "character": "Colonel John Hunt",
+     "name": "Willem Dafoe",
+     "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+     "id": 5293
+    },
+    {
+     "character": "Jill Henderson",
+     "name": "Caitríona Balfe",
+     "profile_path": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg",
+     "id": 147056
+    },
+    {
+     "character": "Dawa Norgay",
+     "name": "Thinley Lhamo",
+     "profile_path": "/3GKt64WBoYR7qGPhRxtatfelGYd.jpg",
+     "id": 1945900
+    },
+    {
+     "character": "Young Tenzing",
+     "name": "Tenzing Dalha",
+     "profile_path": "/73C5LeD05D4ElTb4h8PY5zzBBdn.jpg",
+     "id": 2116932
     }
    ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Iain Canning",
+     "profile_path": "/fZXdp3v9Df2ePyFseLYCKZKQ31x.jpg",
+     "id": 37276
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Emile Sherman",
+     "profile_path": "/sq1o0F5rvjzhE5JKleiBJc71SJ3.jpg",
+     "id": 37270
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Liz Watts",
+     "profile_path": "/9G3XEW8tNVhKxMwq4fvzP3eVxv8.jpg",
+     "id": 61625
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Desray Armstrong",
+     "profile_path": "/bUtDWmARmR0M8T9ksKOOBsk532u.jpg",
+     "id": 1671910
+    }
+   ],
+   "director": [
+    "Jennifer Peedom"
+   ],
+   "imdbRating": "7.5",
+   "language": "English",
+   "country": "Australia, United States",
    "behaviorHints": {
-    "defaultVideoId": "tt28498219",
+    "defaultVideoId": "tt6262770",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg"
   },
   {
    "name": "Slow Horses",
@@ -159,120 +228,68 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   },
   {
-   "name": "Mayday",
-   "cast": [
-    "Ryan Reynolds",
-    "Kenneth Branagh",
-    "Marcin Dorocinski"
-   ],
+   "name": "Matchbox",
    "country": "United States",
-   "description": "Quando um piloto da Marinha dos EUA numa missão ultrassecreta, durante a Guerra Fria, fica retido atrás das linhas inimigas, a sua única hipótese de sobrevivência é formar uma aliança com um excêntrico ex-agente do KGB.",
-   "director": [
-    "John Francis Daley",
-    "Jonathan Goldstein"
-   ],
+   "description": "O reencontro de um grupo de antigos amigos de infância sofre uma reviravolta quando se deparam com uma perigosa conspiração internacional – e têm de salvar o mundo.",
    "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
+    "Action"
    ],
-   "imdbRating": "6.8",
-   "released": "2026-09-04T00:00:00.000Z",
-   "writer": [
-    "John Francis Daley",
-    "Jonathan Goldstein"
-   ],
+   "imdbRating": "5.7",
+   "released": null,
    "year": "2026",
-   "runtime": "111 min",
+   "runtime": "127 min",
    "trailers": [
     {
-     "source": "om5Un9X720M",
+     "source": "7xfqITrMDcI",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt28014327/img",
-   "logo": "https://images.metahub.space/logo/medium/tt28014327/img",
-   "id": "tt28014327",
+   "cast": [
+    "John Cena",
+    "Jessica Biel",
+    "Arturo Castro",
+    "Sam Richardson",
+    "Teyonah Parris",
+    "Danai Gurira",
+    "Golshifteh Farahani",
+    "Corey Stoll"
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt28498219/img",
+   "background": "https://images.metahub.space/background/medium/tt28498219/img",
+   "id": "tt28498219",
    "genres": [
     "Ação",
-    "Comédia"
+    "Comédia",
+    "Aventura"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Mayday",
-     "ytId": "om5Un9X720M"
+     "title": "Matchbox",
+     "ytId": "7xfqITrMDcI"
     }
    ],
    "links": [
     {
-     "name": "6.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt28014327"
-    },
-    {
-     "name": "Mayday",
+     "name": "Matchbox",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/mayday-28014327"
+     "url": "https://www.strem.io/s/movie/matchbox-28498219"
     },
     {
      "name": "Action",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Ryan Reynolds",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Reynolds"
-    },
-    {
-     "name": "Kenneth Branagh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kenneth%20Branagh"
-    },
-    {
-     "name": "Marcin Dorocinski",
-     "category": "Cast",
-     "url": "stremio:///search?search=Marcin%20Dorocinski"
-    },
-    {
-     "name": "John Francis Daley",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Francis%20Daley"
-    },
-    {
-     "name": "Jonathan Goldstein",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Goldstein"
-    },
-    {
-     "name": "John Francis Daley",
-     "category": "Directors",
-     "url": "stremio:///search?search=John%20Francis%20Daley"
-    },
-    {
-     "name": "Jonathan Goldstein",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Goldstein"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt28014327",
+    "defaultVideoId": "tt28498219",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28014327.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg"
   },
   {
    "name": "Ted Lasso",
@@ -394,262 +411,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
-   "name": "The Last First: Winter K2",
+   "name": "Mayday",
    "cast": [
-    "Nirmal Purja",
-    "Muhammad Ali Sadpara",
-    "Sajid Sadpara"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Uma corrida histórica pela primeira ascensão ao K2 no inverno acaba em tragédia e revela como a ambição, o ego e a sede de glória podem ser tão perigosos como a própria montanha.",
-   "director": [
-    "Amir Bar-Lev"
-   ],
-   "genre": [
-    "Documentary"
-   ],
-   "imdbRating": "7.2",
-   "released": "2026-01-22T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "98 min",
-   "trailers": [
-    {
-     "source": "zgGpyr5MFK8",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt39150288/img",
-   "logo": "https://images.metahub.space/logo/medium/tt39150288/img",
-   "id": "tt39150288",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Last First: Winter K2",
-     "ytId": "zgGpyr5MFK8"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Last First: Winter K2",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-last-first-winter-k2-39150288"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Nirmal Purja",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nirmal%20Purja"
-    },
-    {
-     "name": "Muhammad Ali Sadpara",
-     "category": "Cast",
-     "url": "stremio:///search?search=Muhammad%20Ali%20Sadpara"
-    },
-    {
-     "name": "Sajid Sadpara",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sajid%20Sadpara"
-    },
-    {
-     "name": "Amir Bar-Lev",
-     "category": "Directors",
-     "url": "stremio:///search?search=Amir%20Bar-Lev"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt39150288",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150288.jpg"
-  },
-  {
-   "name": "Silo",
-   "cast": [
-    "Rebecca Ferguson",
-    "Common",
-    "Chinaza Uche"
-   ],
-   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
-   "genre": [
-    "Drama",
-    "Mystery",
-    "Sci-Fi"
-   ],
-   "imdbRating": "8.1",
-   "released": "2023-05-05T00:00:00.000Z",
-   "year": "2023–",
-   "runtime": "51 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Graham Yost"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt14688458/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
-   "trailers": [
-    {
-     "source": "8ZYhuvIv1pA",
-     "type": "Trailer"
-    }
+    "Ryan Reynolds",
+    "Kenneth Branagh",
+    "Marcin Dorocinski"
    ],
    "country": "United States",
-   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
-   "id": "tt14688458",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "Silo",
-     "ytId": "8ZYhuvIv1pA"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14688458"
-    },
-    {
-     "name": "Silo",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/silo-14688458"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Rebecca Ferguson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Ferguson"
-    },
-    {
-     "name": "Common",
-     "category": "Cast",
-     "url": "stremio:///search?search=Common"
-    },
-    {
-     "name": "Chinaza Uche",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chinaza%20Uche"
-    },
-    {
-     "name": "Graham Yost",
-     "category": "Writers",
-     "url": "stremio:///search?search=Graham%20Yost"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
-  },
-  {
-   "name": "Spider-Man: Far from Home",
-   "cast": [
-    "Tom Holland",
-    "Samuel L. Jackson",
-    "Jake Gyllenhaal"
-   ],
-   "country": "United States, Czech Republic, Australia, Canada, Italy",
-   "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
+   "description": "Quando um piloto da Marinha dos EUA numa missão ultrassecreta, durante a Guerra Fria, fica retido atrás das linhas inimigas, a sua única hipótese de sobrevivência é formar uma aliança com um excêntrico ex-agente do KGB.",
    "director": [
-    "Jon Watts"
+    "John Francis Daley",
+    "Jonathan Goldstein"
    ],
    "genre": [
     "Action",
     "Adventure",
     "Comedy"
    ],
-   "imdbRating": "7.3",
-   "released": "2019-07-02T00:00:00.000Z",
+   "imdbRating": "6.8",
+   "released": "2026-09-04T00:00:00.000Z",
    "writer": [
-    "Chris McKenna",
-    "Erik Sommers",
-    "Stan Lee"
+    "John Francis Daley",
+    "Jonathan Goldstein"
    ],
-   "year": "2019",
+   "year": "2026",
+   "runtime": "111 min",
    "trailers": [
     {
-     "source": "LFoz8ZJWmPs",
-     "type": "Trailer"
-    },
-    {
-     "source": "V38cLTYYXNw",
-     "type": "Trailer"
-    },
-    {
-     "source": "DYYtuKyMtY8",
+     "source": "om5Un9X720M",
      "type": "Trailer"
     }
    ],
-   "affiliates": {
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
-    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
-   },
-   "runtime": "129 min",
-   "background": "https://images.metahub.space/background/medium/tt6320628/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
-   "dvdRelease": "2019-08-27T00:00:00.000Z",
-   "awards": "11 wins & 26 nominations total",
-   "id": "tt6320628",
+   "background": "https://images.metahub.space/background/medium/tt28014327/img",
+   "logo": "https://images.metahub.space/logo/medium/tt28014327/img",
+   "id": "tt28014327",
    "genres": [
     "Ação",
-    "Aventura",
-    "Ficção científica"
+    "Comédia"
    ],
-   "releaseInfo": "2019",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Spider-Man: Far from Home",
-     "ytId": "LFoz8ZJWmPs"
-    },
-    {
-     "title": "Spider-Man: Far from Home",
-     "ytId": "V38cLTYYXNw"
-    },
-    {
-     "title": "Spider-Man: Far from Home",
-     "ytId": "DYYtuKyMtY8"
+     "title": "Mayday",
+     "ytId": "om5Un9X720M"
     }
    ],
    "links": [
     {
-     "name": "7.3",
+     "name": "6.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt6320628"
+     "url": "https://imdb.com/title/tt28014327"
     },
     {
-     "name": "Spider-Man: Far from Home",
+     "name": "Mayday",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
+     "url": "https://www.strem.io/s/movie/mayday-28014327"
     },
     {
      "name": "Action",
@@ -667,48 +483,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Tom Holland",
+     "name": "Ryan Reynolds",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Holland"
+     "url": "stremio:///search?search=Ryan%20Reynolds"
     },
     {
-     "name": "Samuel L. Jackson",
+     "name": "Kenneth Branagh",
      "category": "Cast",
-     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+     "url": "stremio:///search?search=Kenneth%20Branagh"
     },
     {
-     "name": "Jake Gyllenhaal",
+     "name": "Marcin Dorocinski",
      "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+     "url": "stremio:///search?search=Marcin%20Dorocinski"
     },
     {
-     "name": "Chris McKenna",
+     "name": "John Francis Daley",
      "category": "Writers",
-     "url": "stremio:///search?search=Chris%20McKenna"
+     "url": "stremio:///search?search=John%20Francis%20Daley"
     },
     {
-     "name": "Erik Sommers",
+     "name": "Jonathan Goldstein",
      "category": "Writers",
-     "url": "stremio:///search?search=Erik%20Sommers"
+     "url": "stremio:///search?search=Jonathan%20Goldstein"
     },
     {
-     "name": "Stan Lee",
-     "category": "Writers",
-     "url": "stremio:///search?search=Stan%20Lee"
-    },
-    {
-     "name": "Jon Watts",
+     "name": "John Francis Daley",
      "category": "Directors",
-     "url": "stremio:///search?search=Jon%20Watts"
+     "url": "stremio:///search?search=John%20Francis%20Daley"
+    },
+    {
+     "name": "Jonathan Goldstein",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jonathan%20Goldstein"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt6320628",
+    "defaultVideoId": "tt28014327",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28014327.jpg"
   },
   {
    "name": "Dark Matter",
@@ -963,6 +779,184 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16311594.jpg"
   },
   {
+   "name": "Silo",
+   "cast": [
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche"
+   ],
+   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.1",
+   "released": "2023-05-05T00:00:00.000Z",
+   "year": "2023–",
+   "runtime": "51 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Graham Yost"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt14688458/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+   "trailers": [
+    {
+     "source": "8ZYhuvIv1pA",
+     "type": "Trailer"
+    }
+   ],
+   "country": "United States",
+   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
+   "id": "tt14688458",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Silo",
+     "ytId": "8ZYhuvIv1pA"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt14688458"
+    },
+    {
+     "name": "Silo",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/silo-14688458"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
+    },
+    {
+     "name": "Common",
+     "category": "Cast",
+     "url": "stremio:///search?search=Common"
+    },
+    {
+     "name": "Chinaza Uche",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chinaza%20Uche"
+    },
+    {
+     "name": "Graham Yost",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Yost"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
+  },
+  {
+   "name": "The Last First: Winter K2",
+   "cast": [
+    "Nirmal Purja",
+    "Muhammad Ali Sadpara",
+    "Sajid Sadpara"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Uma corrida histórica pela primeira ascensão ao K2 no inverno acaba em tragédia e revela como a ambição, o ego e a sede de glória podem ser tão perigosos como a própria montanha.",
+   "director": [
+    "Amir Bar-Lev"
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "imdbRating": "7.2",
+   "released": "2026-01-22T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "zgGpyr5MFK8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt39150288/img",
+   "logo": "https://images.metahub.space/logo/medium/tt39150288/img",
+   "id": "tt39150288",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Last First: Winter K2",
+     "ytId": "zgGpyr5MFK8"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Last First: Winter K2",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-last-first-winter-k2-39150288"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Nirmal Purja",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nirmal%20Purja"
+    },
+    {
+     "name": "Muhammad Ali Sadpara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Muhammad%20Ali%20Sadpara"
+    },
+    {
+     "name": "Sajid Sadpara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sajid%20Sadpara"
+    },
+    {
+     "name": "Amir Bar-Lev",
+     "category": "Directors",
+     "url": "stremio:///search?search=Amir%20Bar-Lev"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39150288",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39150288.jpg"
+  },
+  {
    "name": "Brothers",
    "cast": [
     "Matthew McConaughey",
@@ -1160,6 +1154,245 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1041829.jpg"
+  },
+  {
+   "name": "Widow's Bay",
+   "cast": [
+    "Matthew Rhys",
+    "Kate O&apos;Flynn",
+    "Kevin Carroll"
+   ],
+   "country": "United States",
+   "description": "O Presidente da Câmara de uma cidade de Nova Inglaterra resolve transformá-la no próximo grande destino turístico, apesar de os locais avisarem sobre uma maldição.",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "8.1",
+   "released": "2026-04-29T00:00:00.000Z",
+   "writer": [
+    "Katie Dippold"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "VcpYPxKeGAc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "38 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt33332385/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+   "awards": "Won 14 Primetime Emmys. 24 wins & 15 nominations total",
+   "id": "tt33332385",
+   "genres": [
+    "Drama",
+    "Comédia",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Widow's Bay",
+     "ytId": "VcpYPxKeGAc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33332385"
+    },
+    {
+     "name": "Widow's Bay",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/widows-bay-33332385"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Matthew Rhys",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Rhys"
+    },
+    {
+     "name": "Kate O&apos;Flynn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kate%20O%26apos%3BFlynn"
+    },
+    {
+     "name": "Kevin Carroll",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Carroll"
+    },
+    {
+     "name": "Katie Dippold",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katie%20Dippold"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
+  },
+  {
+   "name": "Spider-Man: Far from Home",
+   "cast": [
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal"
+   ],
+   "country": "United States, Czech Republic, Australia, Canada, Italy",
+   "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
+   "director": [
+    "Jon Watts"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.3",
+   "released": "2019-07-02T00:00:00.000Z",
+   "writer": [
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "LFoz8ZJWmPs",
+     "type": "Trailer"
+    },
+    {
+     "source": "V38cLTYYXNw",
+     "type": "Trailer"
+    },
+    {
+     "source": "DYYtuKyMtY8",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt6320628/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "11 wins & 26 nominations total",
+   "id": "tt6320628",
+   "genres": [
+    "Ação",
+    "Aventura",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "LFoz8ZJWmPs"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "V38cLTYYXNw"
+    },
+    {
+     "title": "Spider-Man: Far from Home",
+     "ytId": "DYYtuKyMtY8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6320628"
+    },
+    {
+     "name": "Spider-Man: Far from Home",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Chris McKenna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20McKenna"
+    },
+    {
+     "name": "Erik Sommers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erik%20Sommers"
+    },
+    {
+     "name": "Stan Lee",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Lee"
+    },
+    {
+     "name": "Jon Watts",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jon%20Watts"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6320628",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
   },
   {
    "name": "Shrinking",
@@ -1396,174 +1629,127 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1677720.jpg"
   },
   {
-   "name": "Widow's Bay",
-   "cast": [
-    "Matthew Rhys",
-    "Kate O&apos;Flynn",
-    "Kevin Carroll"
+   "id": "tt36935784",
+   "logo": "https://live.metahub.space/logo/medium/tt36935784/img",
+   "background": "https://live.metahub.space/background/medium/tt36935784/img",
+   "name": "Knife Edge: Chasing Michelin Stars",
+   "description": "Triunfos e desilusões marcam a luta dos melhores chefs pela maior distinção da culinária: uma Estrela Michelin. Pela primeira vez, inspetores anónimos abrem o jogo sobre um processo envolto em mistério.",
+   "genres": [
+    "Documentário"
    ],
-   "country": "United States",
-   "description": "O Presidente da Câmara de uma cidade de Nova Inglaterra resolve transformá-la no próximo grande destino turístico, apesar de os locais avisarem sobre uma maldição.",
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "8.1",
-   "released": "2026-04-29T00:00:00.000Z",
-   "writer": [
-    "Katie Dippold"
-   ],
-   "year": "2026–",
+   "releaseInfo": "2025",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "VcpYPxKeGAc",
+     "source": "X23W_8uJHjk",
      "type": "Trailer"
     }
    ],
-   "runtime": "38 min",
-   "status": "Continuing",
+   "cast": [
+    "Jesse Burgess"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self - Host",
+     "name": "Jesse Burgess",
+     "profile_path": "/a6i2evOrFIHjinR6lhp1BtOvMhZ.jpg",
+     "id": 5370506
+    }
+   ],
+   "credits_crew": [],
    "director": [],
-   "background": "https://images.metahub.space/background/medium/tt33332385/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
-   "awards": "Won 14 Primetime Emmys. 24 wins & 15 nominations total",
-   "id": "tt33332385",
-   "genres": [
-    "Drama",
-    "Comédia",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Widow's Bay",
-     "ytId": "VcpYPxKeGAc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33332385"
-    },
-    {
-     "name": "Widow's Bay",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/widows-bay-33332385"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Matthew Rhys",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Rhys"
-    },
-    {
-     "name": "Kate O&apos;Flynn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kate%20O%26apos%3BFlynn"
-    },
-    {
-     "name": "Kevin Carroll",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kevin%20Carroll"
-    },
-    {
-     "name": "Katie Dippold",
-     "category": "Writers",
-     "url": "stremio:///search?search=Katie%20Dippold"
-    }
-   ],
+   "imdbRating": "7.5",
+   "country": "United Kingdom",
+   "awards": "Nominated for 1 BAFTA Award. 1 nomination total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36935784.jpg"
   },
   {
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ftheaccountant_188521%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ftheaccountant_188521%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.4/ImageRenderer/111/168/images/no_image_111x168.jpg/188521/images/masterrepository/fandango/188521/the-accountant_poster.jpg\" alt=\"The Accountant\" title=\"The Accountant\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ftheaccountant_188521%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.4//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ftheaccountant-trailer%2f188521%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "name": "The Accountant",
+   "name": "Napoleon",
+   "cast": [
+    "Joaquin Phoenix",
+    "Vanessa Kirby",
+    "Tahar Rahim"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Um olhar próximo sobre as origens de Napoleão Bonaparte que acompanha a sua ascensão meteórica e impiedosa de líder militar a Imperador, através do ponto de vista da relação volátil com a sua esposa, Joséphine.",
+   "director": [
+    "Ridley Scott"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Biography"
+   ],
+   "imdbRating": "6.3",
+   "released": "2023-11-22T00:00:00.000Z",
+   "writer": [
+    "David Scarpa"
+   ],
+   "year": "2023",
+   "runtime": "158 min",
    "trailers": [
     {
-     "source": "0KHOVlEpMyY",
+     "source": "KPr42qEdhnU",
      "type": "Trailer"
     },
     {
-     "source": "aNGhnNMSopI",
+     "source": "1DJYiG6wh0w",
+     "type": "Trailer"
+    },
+    {
+     "source": "LIsfMO5Jd_w",
+     "type": "Trailer"
+    },
+    {
+     "source": "CBmWztLPp9c",
      "type": "Trailer"
     }
    ],
-   "year": "2016",
-   "runtime": "128 min",
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "released": "2016-10-14T00:00:00.000Z",
-   "director": [
-    "Gavin O'Connor"
-   ],
-   "writer": [
-    "Bill Dubuque"
-   ],
-   "cast": [
-    "Ben Affleck",
-    "Anna Kendrick",
-    "J.K. Simmons"
-   ],
-   "imdbRating": "7.3",
-   "description": "Christian Wolff é um génio matemático que trabalha como contabilista para organizações criminosas. Mas quando o Departamento do Tesouro começa a investigá-lo, Christian aceita um cliente legítimo que se revela uma ameaça mortal.",
-   "country": "United States",
-   "awards": "3 wins & 5 nominations total",
-   "dvdRelease": "2016-12-27T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt2140479/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2140479/img",
-   "id": "tt2140479",
+   "background": "https://images.metahub.space/background/medium/tt13287846/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13287846/img",
+   "awards": "Nominated for 3 Oscars. 6 wins & 47 nominations total",
+   "dvdRelease": "2024-01-09T00:00:00.000Z",
+   "id": "tt13287846",
    "genres": [
-    "Crime",
-    "Thriller",
+    "História",
+    "Guerra",
     "Drama"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "The Accountant",
-     "ytId": "0KHOVlEpMyY"
+     "title": "Napoleon",
+     "ytId": "KPr42qEdhnU"
     },
     {
-     "title": "The Accountant",
-     "ytId": "aNGhnNMSopI"
+     "title": "Napoleon",
+     "ytId": "1DJYiG6wh0w"
+    },
+    {
+     "title": "Napoleon",
+     "ytId": "LIsfMO5Jd_w"
+    },
+    {
+     "title": "Napoleon",
+     "ytId": "CBmWztLPp9c"
     }
    ],
    "links": [
     {
-     "name": "7.3",
+     "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2140479"
+     "url": "https://imdb.com/title/tt13287846"
     },
     {
-     "name": "The Accountant",
+     "name": "Napoleon",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-accountant-2140479"
+     "url": "https://www.strem.io/s/movie/napoleon-13287846"
     },
     {
      "name": "Action",
@@ -1571,48 +1757,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Crime",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Drama",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
-     "name": "Ben Affleck",
+     "name": "Joaquin Phoenix",
      "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Affleck"
+     "url": "stremio:///search?search=Joaquin%20Phoenix"
     },
     {
-     "name": "Anna Kendrick",
+     "name": "Vanessa Kirby",
      "category": "Cast",
-     "url": "stremio:///search?search=Anna%20Kendrick"
+     "url": "stremio:///search?search=Vanessa%20Kirby"
     },
     {
-     "name": "J.K. Simmons",
+     "name": "Tahar Rahim",
      "category": "Cast",
-     "url": "stremio:///search?search=J.K.%20Simmons"
+     "url": "stremio:///search?search=Tahar%20Rahim"
     },
     {
-     "name": "Bill Dubuque",
+     "name": "David Scarpa",
      "category": "Writers",
-     "url": "stremio:///search?search=Bill%20Dubuque"
+     "url": "stremio:///search?search=David%20Scarpa"
     },
     {
-     "name": "Gavin O'Connor",
+     "name": "Ridley Scott",
      "category": "Directors",
-     "url": "stremio:///search?search=Gavin%20O'Connor"
+     "url": "stremio:///search?search=Ridley%20Scott"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt2140479",
+    "defaultVideoId": "tt13287846",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2140479.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13287846.jpg"
   },
   {
    "name": "Small Prophets",
@@ -1826,212 +2012,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13654226.jpg"
-  },
-  {
-   "cast": [
-    "Patrick Brammall",
-    "Maxine Peake",
-    "Daniel Henshall"
-   ],
-   "country": "United States, Australia",
-   "description": "Quando o técnico de emergências Ian Ridley recebe uma chamada agitada de uma adolescente que ele acha poder ser a sua filha há muito desaparecida, nada o impedirá de a procurar.",
-   "genre": [
-    "Thriller"
-   ],
-   "imdbRating": "7.1",
-   "name": "Last Seen",
-   "released": "2026-09-09T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "49 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "trailers": [
-    {
-     "source": "M8nHySkLb64",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt6037988/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6037988/img",
-   "id": "tt6037988",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Last Seen",
-     "ytId": "M8nHySkLb64"
-    }
-   ],
-   "links": [
-    {
-     "name": "Last Seen",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/last-seen-6037988"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Patrick Brammall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Patrick%20Brammall"
-    },
-    {
-     "name": "Maxine Peake",
-     "category": "Cast",
-     "url": "stremio:///search?search=Maxine%20Peake"
-    },
-    {
-     "name": "Daniel Henshall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Henshall"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6037988.jpg"
-  },
-  {
-   "name": "Napoleon",
-   "cast": [
-    "Joaquin Phoenix",
-    "Vanessa Kirby",
-    "Tahar Rahim"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Um olhar próximo sobre as origens de Napoleão Bonaparte que acompanha a sua ascensão meteórica e impiedosa de líder militar a Imperador, através do ponto de vista da relação volátil com a sua esposa, Joséphine.",
-   "director": [
-    "Ridley Scott"
-   ],
-   "genre": [
-    "Action",
-    "Adventure",
-    "Biography"
-   ],
-   "imdbRating": "6.3",
-   "released": "2023-11-22T00:00:00.000Z",
-   "writer": [
-    "David Scarpa"
-   ],
-   "year": "2023",
-   "runtime": "158 min",
-   "trailers": [
-    {
-     "source": "KPr42qEdhnU",
-     "type": "Trailer"
-    },
-    {
-     "source": "1DJYiG6wh0w",
-     "type": "Trailer"
-    },
-    {
-     "source": "LIsfMO5Jd_w",
-     "type": "Trailer"
-    },
-    {
-     "source": "CBmWztLPp9c",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt13287846/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13287846/img",
-   "awards": "Nominated for 3 Oscars. 6 wins & 47 nominations total",
-   "dvdRelease": "2024-01-09T00:00:00.000Z",
-   "id": "tt13287846",
-   "genres": [
-    "História",
-    "Guerra",
-    "Drama"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "Napoleon",
-     "ytId": "KPr42qEdhnU"
-    },
-    {
-     "title": "Napoleon",
-     "ytId": "1DJYiG6wh0w"
-    },
-    {
-     "title": "Napoleon",
-     "ytId": "LIsfMO5Jd_w"
-    },
-    {
-     "title": "Napoleon",
-     "ytId": "CBmWztLPp9c"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13287846"
-    },
-    {
-     "name": "Napoleon",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/napoleon-13287846"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Joaquin Phoenix",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joaquin%20Phoenix"
-    },
-    {
-     "name": "Vanessa Kirby",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vanessa%20Kirby"
-    },
-    {
-     "name": "Tahar Rahim",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tahar%20Rahim"
-    },
-    {
-     "name": "David Scarpa",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Scarpa"
-    },
-    {
-     "name": "Ridley Scott",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ridley%20Scott"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt13287846",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13287846.jpg"
   },
   {
    "name": "Severance",

@@ -1,111 +1,244 @@
 {
  "metas": [
   {
-   "name": "The Crown",
-   "status": "Ended",
-   "cast": [
-    "Claire Foy",
-    "Olivia Colman",
-    "Imelda Staunton"
-   ],
-   "director": null,
-   "genre": [
-    "Biography",
+   "id": "tt6262770",
+   "logo": "https://live.metahub.space/logo/medium/tt6262770/img",
+   "background": "https://live.metahub.space/background/medium/tt6262770/img",
+   "name": "Tenzing",
+   "description": "Um homem determinado vai numa missão de alto-risco e enfrenta probabilidades aparentemente impossíveis para realizar o seu sonho de ser o primeiro a chegar ao cume do Monte Evereste.",
+   "genres": [
     "Drama",
-    "History"
+    "História"
    ],
-   "writer": [
-    "Peter Morgan"
-   ],
-   "year": "2016–2023",
-   "runtime": "55 min",
-   "released": "2016-11-04T00:00:00.000Z",
-   "imdbRating": "8.6",
-   "description": "Este drama segue as rivalidades políticas e intrigas românticas do reinado da Rainha Elizabeth II, e os eventos que moldaram a segunda metade do século XX.",
-   "country": "United Kingdom, United States",
-   "awards": "Won 24 Primetime Emmys. 158 wins & 431 nominations total",
-   "dvdRelease": null,
-   "background": "https://images.metahub.space/background/medium/tt4786824/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4786824/img",
+   "releaseInfo": "2026",
+   "runtime": "126 min",
    "trailers": [
     {
-     "source": "JWtnJjn6ng0",
-     "type": "Trailer"
-    },
-    {
-     "source": "n8Q0bJ_zO7w",
+     "source": "KkYCY5YR12U",
      "type": "Trailer"
     }
    ],
-   "id": "tt4786824",
+   "cast": [
+    "Genden Phuntsok",
+    "Tom Hiddleston",
+    "Willem Dafoe"
+   ],
+   "credits_cast": [
+    {
+     "character": "Tenzing Norgay",
+     "name": "Genden Phuntsok",
+     "profile_path": "/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg",
+     "id": 2091969
+    },
+    {
+     "character": "Sir Edmund Hillary",
+     "name": "Tom Hiddleston",
+     "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+     "id": 91606
+    },
+    {
+     "character": "Colonel John Hunt",
+     "name": "Willem Dafoe",
+     "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+     "id": 5293
+    },
+    {
+     "character": "Jill Henderson",
+     "name": "Caitríona Balfe",
+     "profile_path": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg",
+     "id": 147056
+    },
+    {
+     "character": "Dawa Norgay",
+     "name": "Thinley Lhamo",
+     "profile_path": "/3GKt64WBoYR7qGPhRxtatfelGYd.jpg",
+     "id": 1945900
+    },
+    {
+     "character": "Young Tenzing",
+     "name": "Tenzing Dalha",
+     "profile_path": "/73C5LeD05D4ElTb4h8PY5zzBBdn.jpg",
+     "id": 2116932
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Iain Canning",
+     "profile_path": "/fZXdp3v9Df2ePyFseLYCKZKQ31x.jpg",
+     "id": 37276
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Emile Sherman",
+     "profile_path": "/sq1o0F5rvjzhE5JKleiBJc71SJ3.jpg",
+     "id": 37270
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Liz Watts",
+     "profile_path": "/9G3XEW8tNVhKxMwq4fvzP3eVxv8.jpg",
+     "id": 61625
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Desray Armstrong",
+     "profile_path": "/bUtDWmARmR0M8T9ksKOOBsk532u.jpg",
+     "id": 1671910
+    }
+   ],
+   "director": [
+    "Jennifer Peedom"
+   ],
+   "imdbRating": "7.5",
+   "language": "English",
+   "country": "Australia, United States",
+   "behaviorHints": {
+    "defaultVideoId": "tt6262770",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg"
+  },
+  {
+   "id": "tt39201866",
+   "logo": "https://live.metahub.space/logo/medium/tt39201866/img",
+   "background": "https://live.metahub.space/background/medium/tt39201866/img",
+   "name": "100 Days of Deception",
+   "description": "Em busca de liberdade, a maior batedora de carteiras de Gyeongseong se infiltra no governo colonial japonês para roubar segredos. Mas se apaixona pelo filho do seu alvo.",
    "genres": [
-    "Drama"
+    "Action & Adventure"
    ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
     {
-     "title": "The Crown",
-     "ytId": "JWtnJjn6ng0"
-    },
-    {
-     "title": "The Crown",
-     "ytId": "n8Q0bJ_zO7w"
+     "source": "P0ElxnFyfXY",
+     "type": "Trailer"
     }
    ],
-   "links": [
+   "cast": [
+    "Kim You-jung",
+    "Jinyoung",
+    "Kim Hyun-joo"
+   ],
+   "credits_cast": [
     {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4786824"
+     "character": "Lee Ga-kyeong",
+     "name": "Kim You-jung",
+     "profile_path": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg",
+     "id": 140335
     },
     {
-     "name": "The Crown",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-crown-4786824"
+     "character": "Kim Tae-woong / Hideo Sato",
+     "name": "Jinyoung",
+     "profile_path": "/e2U4M1vkwvFjwj834ttERQva61E.jpg",
+     "id": 1473841
     },
     {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+     "character": "Yu So-ran",
+     "name": "Kim Hyun-joo",
+     "profile_path": "/AeYZSlVauG1BMJdzfyaw3u5jcyA.jpg",
+     "id": 232599
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "character": "Yu Philip",
+     "name": "Lee Mu-saeng",
+     "profile_path": "/xokzuuLDfVzassk0bmje2fvdMcM.jpg",
+     "id": 1346897
     },
     {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+     "character": "Shinichi Sato",
+     "name": "Jin Sun-kyu",
+     "profile_path": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg",
+     "id": 1989290
     },
     {
-     "name": "Claire Foy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Claire%20Foy"
+     "character": "Ryu Gwan-sil / Yanagi",
+     "name": "Seo Jeong-yeon",
+     "profile_path": "/za1tTtSULKsZPN0u1oTs2Iival0.jpg",
+     "id": 1737904
     },
     {
-     "name": "Olivia Colman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Colman"
+     "character": "Kwak Woon-hak",
+     "name": "Choi Deok-moon",
+     "profile_path": "/2yNTH3Dm1tmN795ExtNsIE1IaNA.jpg",
+     "id": 141857
     },
     {
-     "name": "Imelda Staunton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Imelda%20Staunton"
+     "character": "Kim Myeong-nam",
+     "name": "Park Jung-yeon",
+     "profile_path": "/oOhehakBlkUMCP5xBpFWf5yIVxf.jpg",
+     "id": 2623773
     },
     {
-     "name": "Peter Morgan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Morgan"
+     "character": "Lee Young-bok",
+     "name": "Lee Sun",
+     "profile_path": "/4o4ePbPt0t56MF5SudnsBC8IQdM.jpg",
+     "id": 4776019
+    },
+    {
+     "character": "Han Cheol-ryong",
+     "name": "Kim In-kwon",
+     "profile_path": "/vMPHVFE0FhItp2uMMgGRYq5z5Bj.jpg",
+     "id": 115904
     }
    ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Yoo In-sik",
+     "profile_path": "/6zbLpK1wRWySvpNx0KimiH1KNN6.jpg",
+     "id": 1920791
+    }
+   ],
+   "director": [
+    "Yoo In-sik"
+   ],
+   "language": "Korean",
+   "country": "South Korea",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4786824.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
+   "imdbRating": "8.3"
   },
   {
    "id": "tt36048621",
@@ -181,94 +314,96 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36048621.jpg"
   },
   {
-   "name": "The Lowdown",
+   "awards": "Won 1 Primetime Emmy. 46 wins & 133 nominations total",
    "cast": [
-    "Ethan Hawke",
-    "Keith David",
-    "Ryan Kiera Armstrong"
+    "Katheryn Winnick",
+    "Gustaf Skarsgård",
+    "Alexander Ludwig"
    ],
-   "country": "United States",
-   "description": "O Lee Raybon, jornalista independente e \"historiador da verdade de Tulsa\", vive obcecado pela verdade. E essa obsessão traz-lhe constantemente sarilhos.",
+   "country": "Ireland, Canada, United States",
+   "description": "Inspirada na história e nas lendas da Escandinávia medieval, “Vikings” acompanha Ragnar Lothbrok, um jovem que se considera descendente de Odin, guerreiro e agricultor, guiado pela ambição e coragem até um destino grandioso.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Biography",
-    "Comedy",
-    "Crime"
+    "Action",
+    "Adventure",
+    "Drama"
    ],
-   "imdbRating": "7.3",
-   "released": "2025-09-23T00:00:00.000Z",
-   "year": "2025–",
+   "imdbRating": "8.5",
+   "name": "Vikings",
+   "released": "2013-03-03T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Ended",
+   "writer": [
+    "Michael Hirst"
+   ],
+   "year": "2013–2020",
+   "background": "https://images.metahub.space/background/medium/tt2306299/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
    "trailers": [
     {
-     "source": "cE9bq37W3Qo",
+     "source": "7rcozIVtujw",
      "type": "Trailer"
     }
    ],
-   "runtime": "50 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Sterlin Harjo"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt31289994/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31289994/img",
-   "awards": "2 wins & 11 nominations total",
-   "id": "tt31289994",
+   "id": "tt2306299",
    "genres": [
-    "Crime",
-    "Drama"
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2013",
    "trailerStreams": [
     {
-     "title": "The Lowdown",
-     "ytId": "cE9bq37W3Qo"
+     "title": "Vikings",
+     "ytId": "7rcozIVtujw"
     }
    ],
    "links": [
     {
-     "name": "7.3",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt31289994"
+     "url": "https://imdb.com/title/tt2306299"
     },
     {
-     "name": "The Lowdown",
+     "name": "Vikings",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-lowdown-31289994"
+     "url": "https://www.strem.io/s/series/vikings-2306299"
     },
     {
-     "name": "Biography",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Comedy",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Crime",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Ethan Hawke",
+     "name": "Katheryn Winnick",
      "category": "Cast",
-     "url": "stremio:///search?search=Ethan%20Hawke"
+     "url": "stremio:///search?search=Katheryn%20Winnick"
     },
     {
-     "name": "Keith David",
+     "name": "Gustaf Skarsgård",
      "category": "Cast",
-     "url": "stremio:///search?search=Keith%20David"
+     "url": "stremio:///search?search=Gustaf%20Skarsg%C3%A5rd"
     },
     {
-     "name": "Ryan Kiera Armstrong",
+     "name": "Alexander Ludwig",
      "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Kiera%20Armstrong"
+     "url": "stremio:///search?search=Alexander%20Ludwig"
     },
     {
-     "name": "Sterlin Harjo",
+     "name": "Michael Hirst",
      "category": "Writers",
-     "url": "stremio:///search?search=Sterlin%20Harjo"
+     "url": "stremio:///search?search=Michael%20Hirst"
     }
    ],
    "behaviorHints": {
@@ -277,7 +412,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31289994.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2306299.jpg"
   },
   {
    "name": "The Last Kingdom",
@@ -413,232 +548,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4179452.jpg"
   },
   {
-   "id": "tt39201866",
-   "logo": "https://live.metahub.space/logo/medium/tt39201866/img",
-   "background": "https://live.metahub.space/background/medium/tt39201866/img",
-   "name": "100 Days of Deception",
-   "description": "Em busca de liberdade, a maior batedora de carteiras de Gyeongseong se infiltra no governo colonial japonês para roubar segredos. Mas se apaixona pelo filho do seu alvo.",
-   "genres": [
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "P0ElxnFyfXY",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Kim You-jung",
-    "Jinyoung",
-    "Kim Hyun-joo"
-   ],
-   "credits_cast": [
-    {
-     "character": "Lee Ga-kyeong",
-     "name": "Kim You-jung",
-     "profile_path": "/eFcMTDIgzSGLHZYXcsf1M42cvFt.jpg",
-     "id": 140335
-    },
-    {
-     "character": "Kim Tae-woong / Hideo Sato",
-     "name": "Jinyoung",
-     "profile_path": "/e2U4M1vkwvFjwj834ttERQva61E.jpg",
-     "id": 1473841
-    },
-    {
-     "character": "Yu So-ran",
-     "name": "Kim Hyun-joo",
-     "profile_path": "/AeYZSlVauG1BMJdzfyaw3u5jcyA.jpg",
-     "id": 232599
-    },
-    {
-     "character": "Yu Philip",
-     "name": "Lee Mu-saeng",
-     "profile_path": "/xokzuuLDfVzassk0bmje2fvdMcM.jpg",
-     "id": 1346897
-    },
-    {
-     "character": "Shinichi Sato",
-     "name": "Jin Sun-kyu",
-     "profile_path": "/toFCyPac5rSpN58p0fsZ7lbogYc.jpg",
-     "id": 1989290
-    },
-    {
-     "character": "Ryu Gwan-sil / Yanagi",
-     "name": "Seo Jeong-yeon",
-     "profile_path": "/za1tTtSULKsZPN0u1oTs2Iival0.jpg",
-     "id": 1737904
-    },
-    {
-     "character": "Kwak Woon-hak",
-     "name": "Choi Deok-moon",
-     "profile_path": "/2yNTH3Dm1tmN795ExtNsIE1IaNA.jpg",
-     "id": 141857
-    },
-    {
-     "character": "Kim Myeong-nam",
-     "name": "Park Jung-yeon",
-     "profile_path": "/oOhehakBlkUMCP5xBpFWf5yIVxf.jpg",
-     "id": 2623773
-    },
-    {
-     "character": "Lee Young-bok",
-     "name": "Lee Sun",
-     "profile_path": "/4o4ePbPt0t56MF5SudnsBC8IQdM.jpg",
-     "id": 4776019
-    },
-    {
-     "character": "Han Cheol-ryong",
-     "name": "Kim In-kwon",
-     "profile_path": "/vMPHVFE0FhItp2uMMgGRYq5z5Bj.jpg",
-     "id": 115904
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Yoo In-sik",
-     "profile_path": "/6zbLpK1wRWySvpNx0KimiH1KNN6.jpg",
-     "id": 1920791
-    }
-   ],
-   "director": [
-    "Yoo In-sik"
-   ],
-   "language": "Korean",
-   "country": "South Korea",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
-   "imdbRating": "8.3"
-  },
-  {
-   "name": "Hamnet",
-   "cast": [
-    "Jessie Buckley",
-    "Paul Mescal",
-    "Zac Wishart"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Agnes, a esposa de William Shakespeare, tenta ganhar coragem para aceitar a perda do seu único filho, Hamnet – um luto que cria um abismo entre o casal. Ao mesmo tempo, Shakespeare canaliza a tragédia, e a dor individual, para a sua obra, dando origem à célebre peça Hamlet. Baseada no romance de Maggie O’Farrell, esta adaptação confere uma intensidade e sinceridade únicas a um retrato profundo sobre o amor, o luto e o poder de contar histórias.",
-   "director": [
-    "Chloé Zhao"
-   ],
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "imdbRating": "7.8",
-   "released": "2025-12-05T00:00:00.000Z",
-   "writer": [
-    "Chloé Zhao",
-    "Maggie O&apos;Farrell"
-   ],
-   "year": "2025",
-   "runtime": "125 min",
-   "trailers": [
-    {
-     "source": "xYcgQMxQwmk",
-     "type": "Trailer"
-    },
-    {
-     "source": "E2xtmPkuksA",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt14905854/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14905854/img",
-   "awards": "Won 1 Oscar. 99 wins & 328 nominations total",
-   "id": "tt14905854",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Hamnet",
-     "ytId": "xYcgQMxQwmk"
-    },
-    {
-     "title": "Hamnet",
-     "ytId": "E2xtmPkuksA"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14905854"
-    },
-    {
-     "name": "Hamnet",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hamnet-14905854"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Jessie Buckley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessie%20Buckley"
-    },
-    {
-     "name": "Paul Mescal",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Mescal"
-    },
-    {
-     "name": "Zac Wishart",
-     "category": "Cast",
-     "url": "stremio:///search?search=Zac%20Wishart"
-    },
-    {
-     "name": "Chloé Zhao",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chlo%C3%A9%20Zhao"
-    },
-    {
-     "name": "Maggie O&apos;Farrell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Maggie%20O%26apos%3BFarrell"
-    },
-    {
-     "name": "Chloé Zhao",
-     "category": "Directors",
-     "url": "stremio:///search?search=Chlo%C3%A9%20Zhao"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt14905854",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14905854.jpg"
-  },
-  {
    "name": "Spotlight",
    "year": "2015",
    "runtime": "129 min",
@@ -759,121 +668,475 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1895587.jpg"
   },
   {
-   "name": "Hacksaw Ridge",
-   "trailers": [
-    {
-     "source": "s2-1hz1juBI",
-     "type": "Trailer"
-    }
-   ],
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/194560/images/masterrepository/fandango/194560/hacksawridge-posterart.jpg\" alt=\"Hacksaw Ridge\" title=\"Hacksaw Ridge\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fhacksawridge-trailer%2f194560%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "year": "2016",
-   "runtime": "139 min",
+   "country": "Canada, United States",
+   "description": "Com seus ensinamentos e milagres, Jesus de Nazaré atrai seguidores e discípulos de todas as origens. E as autoridades romanas estão em estado de alerta.",
    "genre": [
     "Biography",
     "Drama",
     "History"
    ],
-   "released": "2016-11-04T00:00:00.000Z",
-   "director": [
-    "Mel Gibson"
-   ],
-   "writer": [
-    "Robert Schenkkan",
-    "Andrew Knight"
-   ],
+   "imdbRating": "9.1",
+   "name": "The Chosen",
+   "released": "2019-04-21T00:00:00.000Z",
+   "year": "2017–",
+   "status": "Continuing",
+   "runtime": "58 min",
    "cast": [
-    "Andrew Garfield",
-    "Sam Worthington",
-    "Luke Bracey"
+    "Elizabeth Tabish",
+    "George H. Xanthis",
+    "Shahar Isaac"
    ],
-   "imdbRating": "8.1",
-   "description": "O sonho do jovem Desmond T. Doss de se tornar médico é adiado devido aos escassos meios financeiros da família. Empenhado em salvar vidas, alista-se no Exército norte-americano para cumprir o que considera ser sua obrigação: ajudar os combatentes da Segunda Grande Guerra, mesmo sabendo que as suas convicções pessoais e religiosas o impossibilitam de possuir uma arma ou matar um inimigo. Como pode um soldado lutar pelo seu país sem protecção? Doss tenciona dar o seu contributo integrando a unidade médica e salvando as vidas dos soldados feridos em combate. Apesar do desdém e preconceito de alguns dos seus colegas, que vêem a sua atitude como um acto de cobardia, será durante a batalha de Okinawa (no Japão), sem pegar em armas ou disparar um tiro, que mostrará a sua bravura.",
-   "country": "United States",
-   "awards": "Won 2 Oscars. 57 wins & 115 nominations total",
-   "dvdRelease": "2017-02-07T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt2119532/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2119532/img",
-   "id": "tt2119532",
+   "director": [],
+   "writer": [
+    "Dallas Jenkins"
+   ],
+   "trailers": [
+    {
+     "source": "5CVj41dtkIA",
+     "type": "Trailer"
+    },
+    {
+     "source": "NrMNBwq9BX4",
+     "type": "Trailer"
+    },
+    {
+     "source": "Ppdy563SahA",
+     "type": "Trailer"
+    },
+    {
+     "source": "HtrtlP7WPX8",
+     "type": "Trailer"
+    },
+    {
+     "source": "h3rdKJ34ofc",
+     "type": "Trailer"
+    },
+    {
+     "source": "rzW33vJGslo",
+     "type": "Trailer"
+    },
+    {
+     "source": "XeOcSAGyUHs",
+     "type": "Trailer"
+    },
+    {
+     "source": "8wQd0z4_QKA",
+     "type": "Trailer"
+    },
+    {
+     "source": "QSHhJpG2-Xg",
+     "type": "Trailer"
+    },
+    {
+     "source": "3NgjDVItTVQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "Bn_5uH5kUAU",
+     "type": "Trailer"
+    },
+    {
+     "source": "sepQGPzT7Kw",
+     "type": "Trailer"
+    },
+    {
+     "source": "mkobAqU1OUk",
+     "type": "Trailer"
+    },
+    {
+     "source": "wisX-CEjoxc",
+     "type": "Trailer"
+    },
+    {
+     "source": "OzbnoMVQAzg",
+     "type": "Trailer"
+    },
+    {
+     "source": "377bA3KAcF8",
+     "type": "Trailer"
+    },
+    {
+     "source": "nheJmQ6uYQY",
+     "type": "Trailer"
+    },
+    {
+     "source": "Y7z868kEl5s",
+     "type": "Trailer"
+    },
+    {
+     "source": "FzwUnb5l0WI",
+     "type": "Trailer"
+    },
+    {
+     "source": "X-AJdKty74M",
+     "type": "Trailer"
+    },
+    {
+     "source": "J_8JGUa64Gc",
+     "type": "Trailer"
+    },
+    {
+     "source": "cZQn-LHGQSc",
+     "type": "Trailer"
+    },
+    {
+     "source": "K1-FoFj8Jbo",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "7 wins & 6 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt5622316/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5622316/img",
+   "id": "tt5622316",
    "genres": [
-    "Drama",
-    "História",
-    "Guerra"
+    "Action & Adventure",
+    "Família",
+    "Drama"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "Hacksaw Ridge",
-     "ytId": "s2-1hz1juBI"
+     "title": "The Chosen",
+     "ytId": "5CVj41dtkIA"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "NrMNBwq9BX4"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "Ppdy563SahA"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "HtrtlP7WPX8"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "h3rdKJ34ofc"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "rzW33vJGslo"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "XeOcSAGyUHs"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "8wQd0z4_QKA"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "QSHhJpG2-Xg"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "3NgjDVItTVQ"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "Bn_5uH5kUAU"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "sepQGPzT7Kw"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "mkobAqU1OUk"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "wisX-CEjoxc"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "OzbnoMVQAzg"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "377bA3KAcF8"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "nheJmQ6uYQY"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "Y7z868kEl5s"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "FzwUnb5l0WI"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "X-AJdKty74M"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "J_8JGUa64Gc"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "cZQn-LHGQSc"
+    },
+    {
+     "title": "The Chosen",
+     "ytId": "K1-FoFj8Jbo"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "9.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2119532"
+     "url": "https://imdb.com/title/tt5622316"
     },
     {
-     "name": "Hacksaw Ridge",
+     "name": "The Chosen",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/hacksaw-ridge-2119532"
+     "url": "https://www.strem.io/s/series/the-chosen-5622316"
     },
     {
      "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
      "name": "History",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Andrew Garfield",
+     "name": "Elizabeth Tabish",
      "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Garfield"
+     "url": "stremio:///search?search=Elizabeth%20Tabish"
     },
     {
-     "name": "Sam Worthington",
+     "name": "George H. Xanthis",
      "category": "Cast",
-     "url": "stremio:///search?search=Sam%20Worthington"
+     "url": "stremio:///search?search=George%20H.%20Xanthis"
     },
     {
-     "name": "Luke Bracey",
+     "name": "Shahar Isaac",
      "category": "Cast",
-     "url": "stremio:///search?search=Luke%20Bracey"
+     "url": "stremio:///search?search=Shahar%20Isaac"
     },
     {
-     "name": "Robert Schenkkan",
+     "name": "Dallas Jenkins",
      "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Schenkkan"
-    },
-    {
-     "name": "Andrew Knight",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Knight"
-    },
-    {
-     "name": "Mel Gibson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mel%20Gibson"
+     "url": "stremio:///search?search=Dallas%20Jenkins"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt2119532",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2119532.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5622316.jpg"
+  },
+  {
+   "name": "The Lowdown",
+   "cast": [
+    "Ethan Hawke",
+    "Keith David",
+    "Ryan Kiera Armstrong"
+   ],
+   "country": "United States",
+   "description": "O Lee Raybon, jornalista independente e \"historiador da verdade de Tulsa\", vive obcecado pela verdade. E essa obsessão traz-lhe constantemente sarilhos.",
+   "genre": [
+    "Biography",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "7.3",
+   "released": "2025-09-23T00:00:00.000Z",
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "cE9bq37W3Qo",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "50 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Sterlin Harjo"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31289994/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31289994/img",
+   "awards": "2 wins & 11 nominations total",
+   "id": "tt31289994",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Lowdown",
+     "ytId": "cE9bq37W3Qo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31289994"
+    },
+    {
+     "name": "The Lowdown",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-lowdown-31289994"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Ethan Hawke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ethan%20Hawke"
+    },
+    {
+     "name": "Keith David",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keith%20David"
+    },
+    {
+     "name": "Ryan Kiera Armstrong",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Kiera%20Armstrong"
+    },
+    {
+     "name": "Sterlin Harjo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sterlin%20Harjo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31289994.jpg"
+  },
+  {
+   "awards": "Won 6 Primetime Emmys. 34 wins & 26 nominations total",
+   "cast": [
+    "Scott Grimes",
+    "Damian Lewis",
+    "Ron Livingston"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Baseado no best-seller de relatos verídicos de Stephen E. Ambrose, Irmãos de Armas conta-nos a história do 506º Regimento da 101ª Divisão Aero-transportada do Exército Americano. Começando com o seu rigoroso treino na Geórgia em 1942, mostra-nos os feitos desta companhia de elite desde o Dia D até à queda da Alemanha Nazi e à sua rendição. Concebida a partir de horas de entrevistas com sobreviventes, bem como de diários e cartas de soldados.",
+   "director": null,
+   "dvdRelease": "2009-03-17T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "imdbRating": "9.4",
+   "name": "Band of Brothers",
+   "released": "2001-09-09T00:00:00.000Z",
+   "runtime": "594 min",
+   "trailers": [],
+   "writer": [
+    "Tom Hanks",
+    "Steven Spielberg"
+   ],
+   "year": "2001",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt0185906/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0185906/img",
+   "id": "tt0185906",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "9.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0185906"
+    },
+    {
+     "name": "Band of Brothers",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/band-of-brothers-0185906"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Scott Grimes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Scott%20Grimes"
+    },
+    {
+     "name": "Damian Lewis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Damian%20Lewis"
+    },
+    {
+     "name": "Ron Livingston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ron%20Livingston"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Spielberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185906.jpg"
   },
   {
    "awards": "Won 6 Primetime Emmys. 49 wins & 82 nominations total",
@@ -982,120 +1245,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0758790.jpg"
-  },
-  {
-   "name": "The Smashing Machine",
-   "cast": [
-    "Dwayne Johnson",
-    "Emily Blunt",
-    "Ryan Bader"
-   ],
-   "country": "United States, Japan, Canada",
-   "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
-   "director": [
-    "Benny Safdie"
-   ],
-   "genre": [
-    "Action",
-    "Biography",
-    "Drama"
-   ],
-   "imdbRating": "6.3",
-   "released": "2025-10-03T00:00:00.000Z",
-   "writer": [
-    "Benny Safdie"
-   ],
-   "year": "2025",
-   "background": "https://images.metahub.space/background/medium/tt11214558/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
-   "runtime": "123 min",
-   "trailers": [
-    {
-     "source": "u4A8zfMClCM",
-     "type": "Trailer"
-    },
-    {
-     "source": "21OUFEZGXIk",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
-   "id": "tt11214558",
-   "genres": [
-    "Drama",
-    "História",
-    "Ação"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Smashing Machine",
-     "ytId": "u4A8zfMClCM"
-    },
-    {
-     "title": "The Smashing Machine",
-     "ytId": "21OUFEZGXIk"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11214558"
-    },
-    {
-     "name": "The Smashing Machine",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Dwayne Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "Ryan Bader",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Bader"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11214558",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
   }
  ]
 }
