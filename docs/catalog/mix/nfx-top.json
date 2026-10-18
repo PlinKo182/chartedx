@@ -419,104 +419,242 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
-   "name": "Within",
+   "cast": [
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Jacob Tremblay"
+   ],
+   "country": "United States",
+   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
+   "director": [
+    "Janus Metz"
+   ],
+   "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.2",
+   "name": "Unabomber",
+   "released": "2026-09-25T00:00:00.000Z",
+   "writer": [
+    "Sam Chalsen",
+    "Nelson Greaves"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt6933238/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
+   "runtime": "101 min",
    "trailers": [
     {
-     "source": "KHg90WBsrGo",
+     "source": "B3tR6qQjbgI",
      "type": "Trailer"
     }
    ],
-   "year": "2016",
-   "runtime": "88 min",
-   "genre": [
-    "Horror",
-    "Thriller"
-   ],
-   "released": "2016-10-18T00:00:00.000Z",
-   "director": [
-    "Phil Claydon"
-   ],
-   "writer": [
-    "Gary Dauberman"
-   ],
-   "cast": [
-    "Michael Vartan",
-    "Erin Moriarty",
-    "Nadine Velazquez"
-   ],
-   "imdbRating": "5.1",
-   "description": "Crawlspace conta a história de uma família que se muda para uma nova casa onde os antigos moradores foram misteriosamente assassinados. Vartan é um viúvo casado pela segunda vez e com uma filha. Após passar por uma fase de desemprego, ele encontra uma oportunidade em uma casa nova no subúrbio.",
-   "country": "United States",
-   "awards": null,
-   "dvdRelease": null,
-   "background": "https://images.metahub.space/background/medium/tt3612320/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3612320/img",
-   "id": "tt3612320",
+   "id": "tt6933238",
    "genres": [
-    "Terror",
-    "Thriller"
+    "Thriller",
+    "Drama",
+    "Crime"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Within",
-     "ytId": "KHg90WBsrGo"
+     "title": "Unabomber",
+     "ytId": "B3tR6qQjbgI"
     }
    ],
    "links": [
     {
-     "name": "5.1",
+     "name": "6.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3612320"
+     "url": "https://imdb.com/title/tt6933238"
     },
     {
-     "name": "Within",
+     "name": "Unabomber",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/within-3612320"
+     "url": "https://www.strem.io/s/movie/unabomber-6933238"
     },
     {
-     "name": "Horror",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
-     "name": "Thriller",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Michael Vartan",
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Russell Crowe",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Vartan"
+     "url": "stremio:///search?search=Russell%20Crowe"
     },
     {
-     "name": "Erin Moriarty",
+     "name": "Shailene Woodley",
      "category": "Cast",
-     "url": "stremio:///search?search=Erin%20Moriarty"
+     "url": "stremio:///search?search=Shailene%20Woodley"
     },
     {
-     "name": "Nadine Velazquez",
+     "name": "Jacob Tremblay",
      "category": "Cast",
-     "url": "stremio:///search?search=Nadine%20Velazquez"
+     "url": "stremio:///search?search=Jacob%20Tremblay"
     },
     {
-     "name": "Gary Dauberman",
+     "name": "Sam Chalsen",
      "category": "Writers",
-     "url": "stremio:///search?search=Gary%20Dauberman"
+     "url": "stremio:///search?search=Sam%20Chalsen"
     },
     {
-     "name": "Phil Claydon",
+     "name": "Nelson Greaves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nelson%20Greaves"
+    },
+    {
+     "name": "Janus Metz",
      "category": "Directors",
-     "url": "stremio:///search?search=Phil%20Claydon"
+     "url": "stremio:///search?search=Janus%20Metz"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt3612320",
+    "defaultVideoId": "tt6933238",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3612320.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
+  },
+  {
+   "id": "tt48437216",
+   "logo": "https://live.metahub.space/logo/medium/tt48437216/img",
+   "background": "https://live.metahub.space/background/medium/tt48437216/img",
+   "name": "Instadocs: AI Gone Wild",
+   "description": "A IA cometeu um crime? Uma investigação do incidente Hugging Face, explorando como esse ataque cibernético pode ser um sinal de alerta para o futuro da humanidade.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "27 min",
+   "trailers": [],
+   "cast": [
+    "Clément Delangue",
+    "Daniel Kokotajlo"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Clément Delangue",
+     "profile_path": null,
+     "id": 6532807
+    },
+    {
+     "character": "Self",
+     "name": "Daniel Kokotajlo",
+     "profile_path": null,
+     "id": 6532810
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": "tt48437216",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48437216.jpg",
+   "imdbRating": "6.7"
+  },
+  {
+   "name": "Doing Life",
+   "cast": [
+    "Naomi Baker",
+    "Jay Reeves",
+    "Tamberla Perry"
+   ],
+   "description": "Uma mãe solteira cria uma relação improvável com um recluso através de cartas comoventes que conduzem à redenção, à esperança e ao amor, contra todas as probabilidades.",
+   "director": [
+    "Tyler Perry"
+   ],
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "6.6",
+   "released": "2026-10-02T00:00:00.000Z",
+   "writer": [
+    "Tyler Perry"
+   ],
+   "year": "2026",
+   "runtime": "112 min",
+   "trailers": [
+    {
+     "source": "zrOtmDQawas",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt36429458/img",
+   "background": "https://images.metahub.space/background/medium/tt36429458/img",
+   "id": "tt36429458",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Doing Life",
+     "ytId": "zrOtmDQawas"
+    }
+   ],
+   "links": [
+    {
+     "name": "Doing Life",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/doing-life-36429458"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Naomi Baker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Naomi%20Baker"
+    },
+    {
+     "name": "Jay Reeves",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jay%20Reeves"
+    },
+    {
+     "name": "Tamberla Perry",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tamberla%20Perry"
+    },
+    {
+     "name": "Tyler Perry",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tyler%20Perry"
+    },
+    {
+     "name": "Tyler Perry",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tyler%20Perry"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36429458",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36429458.jpg"
   },
   {
    "id": "tt35051210",
@@ -691,7 +829,7 @@
    "director": [
     "Josephine Bornebusch"
    ],
-   "imdbRating": "5.2",
+   "imdbRating": "5.1",
    "language": "Swedish",
    "country": "Sweden",
    "behaviorHints": {
@@ -701,92 +839,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37070354.jpg"
-  },
-  {
-   "name": "Doing Life",
-   "cast": [
-    "Naomi Baker",
-    "Jay Reeves",
-    "Tamberla Perry"
-   ],
-   "description": "Uma mãe solteira cria uma relação improvável com um recluso através de cartas comoventes que conduzem à redenção, à esperança e ao amor, contra todas as probabilidades.",
-   "director": [
-    "Tyler Perry"
-   ],
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "6.6",
-   "released": "2026-10-02T00:00:00.000Z",
-   "writer": [
-    "Tyler Perry"
-   ],
-   "year": "2026",
-   "runtime": "112 min",
-   "trailers": [
-    {
-     "source": "zrOtmDQawas",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt36429458/img",
-   "background": "https://images.metahub.space/background/medium/tt36429458/img",
-   "id": "tt36429458",
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Doing Life",
-     "ytId": "zrOtmDQawas"
-    }
-   ],
-   "links": [
-    {
-     "name": "Doing Life",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/doing-life-36429458"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Naomi Baker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Naomi%20Baker"
-    },
-    {
-     "name": "Jay Reeves",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jay%20Reeves"
-    },
-    {
-     "name": "Tamberla Perry",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tamberla%20Perry"
-    },
-    {
-     "name": "Tyler Perry",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tyler%20Perry"
-    },
-    {
-     "name": "Tyler Perry",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tyler%20Perry"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt36429458",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36429458.jpg"
   },
   {
    "name": "East of Eden",
@@ -862,115 +914,104 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
-   "cast": [
-    "Russell Crowe",
-    "Shailene Woodley",
-    "Jacob Tremblay"
-   ],
-   "country": "United States",
-   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
-   "director": [
-    "Janus Metz"
-   ],
-   "genre": [
-    "Biography",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "6.2",
-   "name": "Unabomber",
-   "released": "2026-09-25T00:00:00.000Z",
-   "writer": [
-    "Sam Chalsen",
-    "Nelson Greaves"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt6933238/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
-   "runtime": "101 min",
+   "name": "Within",
    "trailers": [
     {
-     "source": "B3tR6qQjbgI",
+     "source": "KHg90WBsrGo",
      "type": "Trailer"
     }
    ],
-   "id": "tt6933238",
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
+   "year": "2016",
+   "runtime": "88 min",
+   "genre": [
+    "Horror",
+    "Thriller"
    ],
-   "releaseInfo": "2026",
+   "released": "2016-10-18T00:00:00.000Z",
+   "director": [
+    "Phil Claydon"
+   ],
+   "writer": [
+    "Gary Dauberman"
+   ],
+   "cast": [
+    "Michael Vartan",
+    "Erin Moriarty",
+    "Nadine Velazquez"
+   ],
+   "imdbRating": "5.1",
+   "description": "Crawlspace conta a história de uma família que se muda para uma nova casa onde os antigos moradores foram misteriosamente assassinados. Vartan é um viúvo casado pela segunda vez e com uma filha. Após passar por uma fase de desemprego, ele encontra uma oportunidade em uma casa nova no subúrbio.",
+   "country": "United States",
+   "awards": null,
+   "dvdRelease": null,
+   "background": "https://images.metahub.space/background/medium/tt3612320/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3612320/img",
+   "id": "tt3612320",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "Unabomber",
-     "ytId": "B3tR6qQjbgI"
+     "title": "Within",
+     "ytId": "KHg90WBsrGo"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "5.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt6933238"
+     "url": "https://imdb.com/title/tt3612320"
     },
     {
-     "name": "Unabomber",
+     "name": "Within",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/unabomber-6933238"
+     "url": "https://www.strem.io/s/movie/within-3612320"
     },
     {
-     "name": "Biography",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Crime",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Russell Crowe",
+     "name": "Michael Vartan",
      "category": "Cast",
-     "url": "stremio:///search?search=Russell%20Crowe"
+     "url": "stremio:///search?search=Michael%20Vartan"
     },
     {
-     "name": "Shailene Woodley",
+     "name": "Erin Moriarty",
      "category": "Cast",
-     "url": "stremio:///search?search=Shailene%20Woodley"
+     "url": "stremio:///search?search=Erin%20Moriarty"
     },
     {
-     "name": "Jacob Tremblay",
+     "name": "Nadine Velazquez",
      "category": "Cast",
-     "url": "stremio:///search?search=Jacob%20Tremblay"
+     "url": "stremio:///search?search=Nadine%20Velazquez"
     },
     {
-     "name": "Sam Chalsen",
+     "name": "Gary Dauberman",
      "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Chalsen"
+     "url": "stremio:///search?search=Gary%20Dauberman"
     },
     {
-     "name": "Nelson Greaves",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nelson%20Greaves"
-    },
-    {
-     "name": "Janus Metz",
+     "name": "Phil Claydon",
      "category": "Directors",
-     "url": "stremio:///search?search=Janus%20Metz"
+     "url": "stremio:///search?search=Phil%20Claydon"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt6933238",
+    "defaultVideoId": "tt3612320",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3612320.jpg"
   },
   {
    "id": "tt36470958",
@@ -1068,7 +1109,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "5.6"
+   "imdbRating": "5.7"
   },
   {
    "id": "tt45858039",
@@ -1171,7 +1212,8 @@
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45858039.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45858039.jpg",
+   "imdbRating": "2.4"
   },
   {
    "cast": [
@@ -1264,6 +1306,180 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2349912.jpg"
+  },
+  {
+   "name": "Lo dejamos acá",
+   "cast": [
+    "Ricardo Darín",
+    "Diego Peretti",
+    "Eugenia Alonso"
+   ],
+   "country": "Argentina",
+   "description": "Um psicanalista que perdeu a fé na terapia tradicional ultrapassa todos os limites para ajudar um romancista bloqueado nesta mordaz comédia negra argentina.",
+   "director": [
+    "Hernán Goldfrid"
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-10-08T00:00:00.000Z",
+   "writer": [
+    "Emanuel Diez"
+   ],
+   "year": "2026",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "DgZQwmjdcp8",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt37027309/img",
+   "background": "https://images.metahub.space/background/medium/tt37027309/img",
+   "id": "tt37027309",
+   "genres": [
+    "Comédia",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Lo dejamos acá",
+     "ytId": "DgZQwmjdcp8"
+    }
+   ],
+   "links": [
+    {
+     "name": "Lo dejamos acá",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/lo-dejamos-ac-37027309"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Ricardo Darín",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricardo%20Dar%C3%ADn"
+    },
+    {
+     "name": "Diego Peretti",
+     "category": "Cast",
+     "url": "stremio:///search?search=Diego%20Peretti"
+    },
+    {
+     "name": "Eugenia Alonso",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eugenia%20Alonso"
+    },
+    {
+     "name": "Emanuel Diez",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emanuel%20Diez"
+    },
+    {
+     "name": "Hernán Goldfrid",
+     "category": "Directors",
+     "url": "stremio:///search?search=Hern%C3%A1n%20Goldfrid"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37027309",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37027309.jpg"
+  },
+  {
+   "awards": null,
+   "cast": [
+    "Michael Coulthard",
+    "Charles Robinson",
+    "John Layfield"
+   ],
+   "country": "United States",
+   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Sport"
+   ],
+   "imdbRating": "7.3",
+   "name": "WWE Smackdown!",
+   "released": "1999-04-27T00:00:00.000Z",
+   "runtime": "87 min",
+   "status": "Continuing",
+   "writer": [
+    "Vince McMahon",
+    "Dusty Rhodes"
+   ],
+   "year": "1999–",
+   "background": "https://images.metahub.space/background/medium/tt0227972/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
+   "id": "tt0227972",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "1999",
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0227972"
+    },
+    {
+     "name": "WWE Smackdown!",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Michael Coulthard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Coulthard"
+    },
+    {
+     "name": "Charles Robinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charles%20Robinson"
+    },
+    {
+     "name": "John Layfield",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Layfield"
+    },
+    {
+     "name": "Vince McMahon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20McMahon"
+    },
+    {
+     "name": "Dusty Rhodes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dusty%20Rhodes"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
   },
   {
    "awards": "2 wins total",
@@ -1395,6 +1611,213 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3416828.jpg"
   },
   {
+   "id": "tt35673115",
+   "logo": "https://live.metahub.space/logo/medium/tt35673115/img",
+   "background": "https://live.metahub.space/background/medium/tt35673115/img",
+   "name": "Hollywood Arts",
+   "description": "Nesta nova série, a atriz Trina Vega volta a sua antiga escola, a Hollywood Arts, como professora substituta não qualificada. Lá, ela enfrenta conflitos e acaba inspirando uma nova geração de alunos ambiciosos e talentosos, que aprendem a encontrar seu verdadeiro caminho na melhor escola de artes cênicas de Hollywood.",
+   "genres": [
+    "Comédia",
+    "Drama",
+    "Família"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "IXQP43JjY4Q",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Daniella Monet",
+    "Yvette Nicole Brown",
+    "Alyssa Miles"
+   ],
+   "credits_cast": [
+    {
+     "character": "Trina Vega",
+     "name": "Daniella Monet",
+     "profile_path": "/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg",
+     "id": 76313
+    },
+    {
+     "character": "Helen",
+     "name": "Yvette Nicole Brown",
+     "profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
+     "id": 111513
+    },
+    {
+     "character": "Emmy",
+     "name": "Alyssa Miles",
+     "profile_path": "/tY3NUk8EpXSyyRIdqTRVliwangK.jpg",
+     "id": 5770990
+    },
+    {
+     "character": "Pepper",
+     "name": "Emmy Liu-Wang",
+     "profile_path": "/2tGqKiwu42XhnUsZDBPXo8LI5l5.jpg",
+     "id": 3271005
+    },
+    {
+     "character": "Qwest",
+     "name": "Peyton Jackson",
+     "profile_path": "/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg",
+     "id": 2170322
+    },
+    {
+     "character": "Jen Z",
+     "name": "Erika Swayze",
+     "profile_path": "/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg",
+     "id": 2151239
+    },
+    {
+     "character": "Oscar",
+     "name": "Martin Kamm",
+     "profile_path": "/coGQzDXWcCS35oJFVCNU3Ah9mgo.jpg",
+     "id": 5770991
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
+   "imdbRating": "6.0"
+  },
+  {
+   "country": "United States",
+   "director": [
+    "Chris Renaud",
+    "Patrick Delage"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "6.2",
+   "name": "Despicable Me 4",
+   "released": "2024-07-03T00:00:00.000Z",
+   "year": "2024",
+   "trailers": [
+    {
+     "source": "LtNYaH61dXY",
+     "type": "Trailer"
+    },
+    {
+     "source": "qQlr9-rF32A",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Steve Carell",
+    "Kristen Wiig",
+    "Pierre Coffin"
+   ],
+   "writer": [
+    "Mike White",
+    "Ken Daurio"
+   ],
+   "description": "Vários anos se passaram desde que Gru deixou as suas malfeitorias e se tornou agente da Liga Anti-Vilões. Agora, com a família ao seu lado, ele sente-se realizado como nunca imaginara possível, especialmente desde a chegada do pequeno Gru Jr., um bebé tão adorável quanto maldisposto. Mas tudo se complica quando vem a saber que Maxime Le Mau, seu inimigo mortal, acabou de escapar da prisão e que, com a namorada Valentina como cúmplice, tenciona acabar com Gru e com toda a sua família.",
+   "runtime": "94 min",
+   "background": "https://images.metahub.space/background/medium/tt7510222/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7510222/img",
+   "awards": "2 wins & 6 nominations total",
+   "id": "tt7510222",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Ação"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Despicable Me 4",
+     "ytId": "LtNYaH61dXY"
+    },
+    {
+     "title": "Despicable Me 4",
+     "ytId": "qQlr9-rF32A"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7510222"
+    },
+    {
+     "name": "Despicable Me 4",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/despicable-me-4-7510222"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Steve Carell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steve%20Carell"
+    },
+    {
+     "name": "Kristen Wiig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristen%20Wiig"
+    },
+    {
+     "name": "Pierre Coffin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pierre%20Coffin"
+    },
+    {
+     "name": "Mike White",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mike%20White"
+    },
+    {
+     "name": "Ken Daurio",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ken%20Daurio"
+    },
+    {
+     "name": "Chris Renaud",
+     "category": "Directors",
+     "url": "stremio:///search?search=Chris%20Renaud"
+    },
+    {
+     "name": "Patrick Delage",
+     "category": "Directors",
+     "url": "stremio:///search?search=Patrick%20Delage"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7510222",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7510222.jpg"
+  },
+  {
    "name": "Take Charge of My Heart",
    "cast": [
     "Kim Young-kwang",
@@ -1479,377 +1902,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg"
-  },
-  {
-   "name": "Lo dejamos acá",
-   "cast": [
-    "Ricardo Darín",
-    "Diego Peretti",
-    "Eugenia Alonso"
-   ],
-   "country": "Argentina",
-   "description": "Um psicanalista que perdeu a fé na terapia tradicional ultrapassa todos os limites para ajudar um romancista bloqueado nesta mordaz comédia negra argentina.",
-   "director": [
-    "Hernán Goldfrid"
-   ],
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "9.1",
-   "released": "2026-10-08T00:00:00.000Z",
-   "writer": [
-    "Emanuel Diez"
-   ],
-   "year": "2026",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "DgZQwmjdcp8",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt37027309/img",
-   "background": "https://images.metahub.space/background/medium/tt37027309/img",
-   "id": "tt37027309",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Lo dejamos acá",
-     "ytId": "DgZQwmjdcp8"
-    }
-   ],
-   "links": [
-    {
-     "name": "Lo dejamos acá",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/lo-dejamos-ac-37027309"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Ricardo Darín",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ricardo%20Dar%C3%ADn"
-    },
-    {
-     "name": "Diego Peretti",
-     "category": "Cast",
-     "url": "stremio:///search?search=Diego%20Peretti"
-    },
-    {
-     "name": "Eugenia Alonso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eugenia%20Alonso"
-    },
-    {
-     "name": "Emanuel Diez",
-     "category": "Writers",
-     "url": "stremio:///search?search=Emanuel%20Diez"
-    },
-    {
-     "name": "Hernán Goldfrid",
-     "category": "Directors",
-     "url": "stremio:///search?search=Hern%C3%A1n%20Goldfrid"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37027309",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37027309.jpg"
-  },
-  {
-   "id": "tt42576855",
-   "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
-   "background": "https://live.metahub.space/background/medium/tt42576855/img",
-   "name": "Where the Mask Ends",
-   "description": "Chou era uma jovem humilde que catava lixo nas ruas. Todos podiam humilhá-la à vontade. Mas, por ter um rosto idêntico ao de Wei Rao, a filha de uma família nobre, acabou se tornando, por acidente, a noiva de Lu Zhuo, o herdeiro do Duque, com a esperança de trazer boa sorte a ele. Ambidiosa, Chou viu nisso uma chance de subir de vida. Mas, quando o marido, que estava à beira da morte, acordou de repente, ocupar o lugar de outra pessoa desencadeou uma série de desgraças. Wei Rao, furiosa por Chou ter tomado seu lugar, queria se livrar dela o quanto antes. Lu Zhuo a considerava uma mulher cruel, então vivia em alerta com ela. À primeira vista, a Mansão do Duque parecia um lugar harmonioso, mas na realidade era cheia de armadilhas e perigos mortais. No meio das intrigas, Chou lutou para contornar os interesses de todos e traçar o próprio caminho. Assim, conseguiu se libertar das correntes do destino, descobrir o segredo de sua origem e, por fim, se reunir com sua verdadeira família.",
-   "genres": [
-    "Drama"
-   ],
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "Q5vhvNyFph4",
-     "type": "Trailer"
-    },
-    {
-     "source": "lYrduDAiUSU",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Tian Xiwei",
-    "Yan An",
-    "Liu Xiaobei"
-   ],
-   "credits_cast": [
-    {
-     "character": "Wei Rao / Jun Dai",
-     "name": "Tian Xiwei",
-     "profile_path": "/i5lXDkbCTSD3Y7Vcy00iUtCoalX.jpg",
-     "id": 2430198
-    },
-    {
-     "character": "Lu Zhuo",
-     "name": "Yan An",
-     "profile_path": "/3reZJbOH8VT2A0xzRSJNp8sM6rv.jpg",
-     "id": 2040132
-    },
-    {
-     "character": "Qi Zhongkai",
-     "name": "Liu Xiaobei",
-     "profile_path": "/t7ORvESrEq0K2n1ognceKdeAorQ.jpg",
-     "id": 4515680
-    },
-    {
-     "character": "Bi Tao",
-     "name": "Pan Junya",
-     "profile_path": "/4mtfAodTxD2yG4lMOmuFHD7dmjM.jpg",
-     "id": 3983697
-    },
-    {
-     "character": "Han Liao",
-     "name": "Dai Gaozheng",
-     "profile_path": "/yku8OmgfaJDVkEKH8laynjU54um.jpg",
-     "id": 3693678
-    },
-    {
-     "character": "A Man",
-     "name": "Yin Wenxuan",
-     "profile_path": "/f6g2L9XePKypgB0dMbPo5OwojJg.jpg",
-     "id": 5456336
-    },
-    {
-     "character": "Crown Prince",
-     "name": "Zheng Hao",
-     "profile_path": null,
-     "id": 2878649
-    },
-    {
-     "character": "Zhou Fu",
-     "name": "Nikita Mao Linlin",
-     "profile_path": "/3dAutF22fOmde3BZag3VbRWTodi.jpg",
-     "id": 1518223
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Yang Long",
-     "profile_path": "/eb9oDuCifKNNkjxD3MYOGQsxvZC.jpg",
-     "id": 2192226
-    }
-   ],
-   "director": [
-    "Yang Long"
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-   "releaseInfo": "2026"
-  },
-  {
-   "name": "The Forever Purge",
-   "country": "China, United States",
-   "description": "Não satisfeito com o tempo anual de anarquia e assassinatos sem punição, um gangue de assassinos mascarados decide quebrar as regras e dominar a América por meio de uma campanha interminável de caos e massacre, para uma Purga Eterna.  Adela e o seu marido Juan, tentam começar uma nova vida num rancho do Texas depois de fugirem de um cartel no México.  Mas na manhã seguinte à Purga, a fazenda da rica família Carter, onde Juan trabalha, é atacada pelo grupo de criminosos, forçando as duas famílias a unirem-se e a lutarem, enquanto o país se transforma em caos.",
-   "director": [
-    "Everardo Gout"
-   ],
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "5.4",
-   "released": "2021-07-02T00:00:00.000Z",
-   "writer": [
-    "James DeMonaco"
-   ],
-   "year": "2021",
-   "trailers": [
-    {
-     "source": "xOrXpK-rUaI",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Ana de la Reguera",
-    "Tenoch Huerta",
-    "Josh Lucas"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt10327252/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10327252/img",
-   "runtime": "103 min",
-   "dvdRelease": "2021-09-14T00:00:00.000Z",
-   "awards": "1 win total",
-   "id": "tt10327252",
-   "genres": [
-    "Ação",
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "2021",
-   "trailerStreams": [
-    {
-     "title": "The Forever Purge",
-     "ytId": "xOrXpK-rUaI"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10327252"
-    },
-    {
-     "name": "The Forever Purge",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-forever-purge-10327252"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Ana de la Reguera",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ana%20de%20la%20Reguera"
-    },
-    {
-     "name": "Tenoch Huerta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tenoch%20Huerta"
-    },
-    {
-     "name": "Josh Lucas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Lucas"
-    },
-    {
-     "name": "James DeMonaco",
-     "category": "Writers",
-     "url": "stremio:///search?search=James%20DeMonaco"
-    },
-    {
-     "name": "Everardo Gout",
-     "category": "Directors",
-     "url": "stremio:///search?search=Everardo%20Gout"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt10327252",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10327252.jpg"
-  },
-  {
-   "id": "tt35673115",
-   "logo": "https://live.metahub.space/logo/medium/tt35673115/img",
-   "background": "https://live.metahub.space/background/medium/tt35673115/img",
-   "name": "Hollywood Arts",
-   "description": "Nesta nova série, a atriz Trina Vega volta a sua antiga escola, a Hollywood Arts, como professora substituta não qualificada. Lá, ela enfrenta conflitos e acaba inspirando uma nova geração de alunos ambiciosos e talentosos, que aprendem a encontrar seu verdadeiro caminho na melhor escola de artes cênicas de Hollywood.",
-   "genres": [
-    "Comédia",
-    "Drama",
-    "Família"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "IXQP43JjY4Q",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Daniella Monet",
-    "Yvette Nicole Brown",
-    "Alyssa Miles"
-   ],
-   "credits_cast": [
-    {
-     "character": "Trina Vega",
-     "name": "Daniella Monet",
-     "profile_path": "/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg",
-     "id": 76313
-    },
-    {
-     "character": "Helen",
-     "name": "Yvette Nicole Brown",
-     "profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
-     "id": 111513
-    },
-    {
-     "character": "Emmy",
-     "name": "Alyssa Miles",
-     "profile_path": "/tY3NUk8EpXSyyRIdqTRVliwangK.jpg",
-     "id": 5770990
-    },
-    {
-     "character": "Pepper",
-     "name": "Emmy Liu-Wang",
-     "profile_path": "/2tGqKiwu42XhnUsZDBPXo8LI5l5.jpg",
-     "id": 3271005
-    },
-    {
-     "character": "Qwest",
-     "name": "Peyton Jackson",
-     "profile_path": "/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg",
-     "id": 2170322
-    },
-    {
-     "character": "Jen Z",
-     "name": "Erika Swayze",
-     "profile_path": "/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg",
-     "id": 2151239
-    },
-    {
-     "character": "Oscar",
-     "name": "Martin Kamm",
-     "profile_path": "/coGQzDXWcCS35oJFVCNU3Ah9mgo.jpg",
-     "id": 5770991
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
-   "imdbRating": "7.0"
   }
  ]
 }

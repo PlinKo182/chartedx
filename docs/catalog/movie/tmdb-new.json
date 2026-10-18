@@ -209,7 +209,7 @@
     "Mystery",
     "Thriller"
    ],
-   "imdbRating": "6.1",
+   "imdbRating": "6.0",
    "released": "2026-08-21T00:00:00.000Z",
    "writer": [
     "Jacob Chase",
@@ -315,125 +315,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32393988.jpg"
-  },
-  {
-   "name": "Animals",
-   "cast": [
-    "Gillian Anderson",
-    "Ben Affleck",
-    "Steven Yeun"
-   ],
-   "country": "United States",
-   "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
-   "director": [
-    "Ben Affleck"
-   ],
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "5.7",
-   "released": "2026-10-09T00:00:00.000Z",
-   "writer": [
-    "Connor O. McIntyre",
-    "Billy Ray",
-    "Ben Affleck"
-   ],
-   "year": "2026",
-   "runtime": "109 min",
-   "trailers": [
-    {
-     "source": "ZkN2M4ODdys",
-     "type": "Trailer"
-    },
-    {
-     "source": "mlBfQJ8oxB0",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
-   "background": "https://images.metahub.space/background/medium/tt31049299/img",
-   "id": "tt31049299",
-   "genres": [
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Animals",
-     "ytId": "ZkN2M4ODdys"
-    },
-    {
-     "title": "Animals",
-     "ytId": "mlBfQJ8oxB0"
-    }
-   ],
-   "links": [
-    {
-     "name": "Animals",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/animals-31049299"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Gillian Anderson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gillian%20Anderson"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    },
-    {
-     "name": "Steven Yeun",
-     "category": "Cast",
-     "url": "stremio:///search?search=Steven%20Yeun"
-    },
-    {
-     "name": "Connor O. McIntyre",
-     "category": "Writers",
-     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
-    },
-    {
-     "name": "Billy Ray",
-     "category": "Writers",
-     "url": "stremio:///search?search=Billy%20Ray"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt31049299",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
    "name": "Hope",
@@ -558,6 +439,238 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27369017.jpg"
   },
   {
+   "name": "Animals",
+   "cast": [
+    "Gillian Anderson",
+    "Ben Affleck",
+    "Steven Yeun"
+   ],
+   "country": "United States",
+   "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "5.7",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Connor O. McIntyre",
+    "Billy Ray",
+    "Ben Affleck"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "ZkN2M4ODdys",
+     "type": "Trailer"
+    },
+    {
+     "source": "mlBfQJ8oxB0",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
+   "background": "https://images.metahub.space/background/medium/tt31049299/img",
+   "id": "tt31049299",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Animals",
+     "ytId": "ZkN2M4ODdys"
+    },
+    {
+     "title": "Animals",
+     "ytId": "mlBfQJ8oxB0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Animals",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/animals-31049299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gillian Anderson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gillian%20Anderson"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Steven Yeun",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steven%20Yeun"
+    },
+    {
+     "name": "Connor O. McIntyre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
+    },
+    {
+     "name": "Billy Ray",
+     "category": "Writers",
+     "url": "stremio:///search?search=Billy%20Ray"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31049299",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
+  },
+  {
+   "name": "Hotel Tehran",
+   "cast": [
+    "Liam Neeson",
+    "Wes Chatham",
+    "Titus Welliver"
+   ],
+   "country": "United States",
+   "description": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, partiu para Teerão com o objetivo de realizar um golpe que lhes mudaria a vida.",
+   "director": [
+    "Guy Moshe"
+   ],
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "4.8",
+   "released": null,
+   "writer": [
+    "Mark Bacci",
+    "Baz",
+    "Ron Hutchinson"
+   ],
+   "year": "2026",
+   "runtime": "142 min",
+   "trailers": [
+    {
+     "source": "l5Luvr9TRRc",
+     "type": "Trailer"
+    },
+    {
+     "source": "NYC0v8xqQdM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt9601292/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9601292/img",
+   "id": "tt9601292",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Hotel Tehran",
+     "ytId": "l5Luvr9TRRc"
+    },
+    {
+     "title": "Hotel Tehran",
+     "ytId": "NYC0v8xqQdM"
+    }
+   ],
+   "links": [
+    {
+     "name": "Hotel Tehran",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/hotel-tehran-9601292"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Liam Neeson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Neeson"
+    },
+    {
+     "name": "Wes Chatham",
+     "category": "Cast",
+     "url": "stremio:///search?search=Wes%20Chatham"
+    },
+    {
+     "name": "Titus Welliver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Titus%20Welliver"
+    },
+    {
+     "name": "Mark Bacci",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mark%20Bacci"
+    },
+    {
+     "name": "Baz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Baz"
+    },
+    {
+     "name": "Ron Hutchinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Hutchinson"
+    },
+    {
+     "name": "Guy Moshe",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guy%20Moshe"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9601292",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9601292.jpg"
+  },
+  {
    "name": "Runner",
    "cast": [
     "Alan Ritchson",
@@ -674,119 +787,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31349844.jpg"
-  },
-  {
-   "name": "Hotel Tehran",
-   "cast": [
-    "Liam Neeson",
-    "Wes Chatham",
-    "Titus Welliver"
-   ],
-   "country": "United States",
-   "description": "Desiludidos com o fim da guerra no Afeganistão, um grupo de ex-agentes da CIA, em desgraça e marcados pela guerra, partiu para Teerão com o objetivo de realizar um golpe que lhes mudaria a vida.",
-   "director": [
-    "Guy Moshe"
-   ],
-   "genre": [
-    "Action",
-    "Thriller"
-   ],
-   "imdbRating": "4.8",
-   "released": null,
-   "writer": [
-    "Mark Bacci",
-    "Baz",
-    "Ron Hutchinson"
-   ],
-   "year": "2026",
-   "runtime": "142 min",
-   "trailers": [
-    {
-     "source": "l5Luvr9TRRc",
-     "type": "Trailer"
-    },
-    {
-     "source": "NYC0v8xqQdM",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt9601292/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9601292/img",
-   "id": "tt9601292",
-   "genres": [
-    "Ação",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Hotel Tehran",
-     "ytId": "l5Luvr9TRRc"
-    },
-    {
-     "title": "Hotel Tehran",
-     "ytId": "NYC0v8xqQdM"
-    }
-   ],
-   "links": [
-    {
-     "name": "Hotel Tehran",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hotel-tehran-9601292"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Liam Neeson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Neeson"
-    },
-    {
-     "name": "Wes Chatham",
-     "category": "Cast",
-     "url": "stremio:///search?search=Wes%20Chatham"
-    },
-    {
-     "name": "Titus Welliver",
-     "category": "Cast",
-     "url": "stremio:///search?search=Titus%20Welliver"
-    },
-    {
-     "name": "Mark Bacci",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mark%20Bacci"
-    },
-    {
-     "name": "Baz",
-     "category": "Writers",
-     "url": "stremio:///search?search=Baz"
-    },
-    {
-     "name": "Ron Hutchinson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Hutchinson"
-    },
-    {
-     "name": "Guy Moshe",
-     "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Moshe"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt9601292",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9601292.jpg"
   },
   {
    "name": "Fall 2: Deadpoint",
@@ -912,6 +912,104 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31192372.jpg"
   },
   {
+   "name": "Masterplan",
+   "cast": [
+    "Stanley Tucci",
+    "Victor Belmondo",
+    "Simona Tabasco"
+   ],
+   "country": "France, Italy",
+   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+   "director": [
+    "Thomas Vincent"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "5.4",
+   "released": "2026-10-16T00:00:00.000Z",
+   "writer": [
+    "Giacomo Durzi",
+    "Alessandro Fabbri",
+    "Alberto Vignati"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt38672588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
+   "id": "tt38672588",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Masterplan",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/masterplan-38672588"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Stanley Tucci",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stanley%20Tucci"
+    },
+    {
+     "name": "Victor Belmondo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Victor%20Belmondo"
+    },
+    {
+     "name": "Simona Tabasco",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simona%20Tabasco"
+    },
+    {
+     "name": "Giacomo Durzi",
+     "category": "Writers",
+     "url": "stremio:///search?search=Giacomo%20Durzi"
+    },
+    {
+     "name": "Alessandro Fabbri",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alessandro%20Fabbri"
+    },
+    {
+     "name": "Alberto Vignati",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alberto%20Vignati"
+    },
+    {
+     "name": "Thomas Vincent",
+     "category": "Directors",
+     "url": "stremio:///search?search=Thomas%20Vincent"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38672588",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+  },
+  {
    "name": "Practical Magic 2",
    "cast": [
     "Lee Pace",
@@ -928,7 +1026,7 @@
     "Drama",
     "Fantasy"
    ],
-   "imdbRating": "6.2",
+   "imdbRating": "6.1",
    "released": "2026-09-11T00:00:00.000Z",
    "writer": [
     "Akiva Goldsman",
@@ -1150,6 +1248,229 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
+   "name": "Buddy",
+   "awards": "1 nomination total",
+   "cast": [
+    "Cristin Milioti",
+    "Delaney Quinn",
+    "Topher Grace"
+   ],
+   "country": "United States",
+   "description": "Lembras-te do BUDDY? O unicórnio laranja brilhante e protagonista daquele clássico programa de televisão infantil que trazia alegria e lições de vida para a tua sala de estar? No mundo colorido de \"It's Buddy!\", um grupo de crianças passa os dias a cantar, a dançar e a ajudar o Buddy a espalhar felicidade. Mas quando uma criança se recusa a entrar no jogo, o Buddy fica descontente e começam a surgir fissuras neste mundo aparentemente perfeito.",
+   "director": [
+    "Casper Kelly"
+   ],
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "6.8",
+   "released": "2026-08-28T00:00:00.000Z",
+   "writer": [
+    "Casper Kelly",
+    "Jamie King"
+   ],
+   "year": "2026",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "udPBHzBnXKA",
+     "type": "Trailer"
+    },
+    {
+     "source": "O1fNEHX9tSM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt37281055/img",
+   "logo": "https://images.metahub.space/logo/medium/tt37281055/img",
+   "id": "tt37281055",
+   "genres": [
+    "Terror",
+    "Comédia",
+    "Fantasia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Buddy",
+     "ytId": "udPBHzBnXKA"
+    },
+    {
+     "title": "Buddy",
+     "ytId": "O1fNEHX9tSM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt37281055"
+    },
+    {
+     "name": "Buddy",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/buddy-37281055"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Cristin Milioti",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cristin%20Milioti"
+    },
+    {
+     "name": "Delaney Quinn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Delaney%20Quinn"
+    },
+    {
+     "name": "Topher Grace",
+     "category": "Cast",
+     "url": "stremio:///search?search=Topher%20Grace"
+    },
+    {
+     "name": "Casper Kelly",
+     "category": "Writers",
+     "url": "stremio:///search?search=Casper%20Kelly"
+    },
+    {
+     "name": "Jamie King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jamie%20King"
+    },
+    {
+     "name": "Casper Kelly",
+     "category": "Directors",
+     "url": "stremio:///search?search=Casper%20Kelly"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37281055",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37281055.jpg"
+  },
+  {
+   "id": "tt47657999",
+   "logo": "https://live.metahub.space/logo/medium/tt47657999/img",
+   "background": "https://live.metahub.space/background/medium/tt47657999/img",
+   "name": "Reporting Live",
+   "description": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "115 min",
+   "trailers": [],
+   "cast": [
+    "Parineeti Chopra",
+    "Deven Bhojani",
+    "Adil Hussain"
+   ],
+   "credits_cast": [
+    {
+     "character": "Sandhya",
+     "name": "Parineeti Chopra",
+     "profile_path": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
+     "id": 1034471
+    },
+    {
+     "character": "Vinod",
+     "name": "Deven Bhojani",
+     "profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
+     "id": 110292
+    },
+    {
+     "character": "",
+     "name": "Adil Hussain",
+     "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
+     "id": 227849
+    },
+    {
+     "character": "",
+     "name": "Shekhar Suman",
+     "profile_path": "/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg",
+     "id": 1235143
+    },
+    {
+     "character": "",
+     "name": "Amol Palekar",
+     "profile_path": "/kUnejDjArzNVxouIaIj3WxxC83G.jpg",
+     "id": 105650
+    },
+    {
+     "character": "",
+     "name": "Nassar",
+     "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
+     "id": 130111
+    },
+    {
+     "character": "",
+     "name": "Geeta Agrawal Sharma",
+     "profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
+     "id": 1197127
+    },
+    {
+     "character": "",
+     "name": "Saswata Chatterjee",
+     "profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
+     "id": 1093644
+    },
+    {
+     "character": "",
+     "name": "Prachee Shah",
+     "profile_path": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg",
+     "id": 1239665
+    },
+    {
+     "character": "",
+     "name": "Pitobash",
+     "profile_path": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg",
+     "id": 225163
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Joshua Shirsath",
+     "profile_path": null,
+     "id": 3244921
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Dhruv Tripathi",
+     "profile_path": null,
+     "id": 6511882
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Partha Thakur",
+     "profile_path": null,
+     "id": 2320818
+    }
+   ],
+   "director": [
+    "Dhruv Tripathi"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt47657999",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657999.jpg",
+   "imdbRating": "5.8"
+  },
+  {
    "name": "Coyote vs. Acme",
    "awards": "1 win total",
    "cast": [
@@ -1276,266 +1597,69 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1756855.jpg"
   },
   {
-   "id": "tt47657999",
-   "logo": "https://live.metahub.space/logo/medium/tt47657999/img",
-   "background": "https://live.metahub.space/background/medium/tt47657999/img",
-   "name": "Reporting Live",
-   "description": "Parineeti Chopra e Deven Bhojani estrelam este suspense policial em que um protesto local leva dois repórteres a investigar a fundo um esquema de mineração ilegal.",
-   "genres": [
-    "Crime",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "115 min",
-   "trailers": [],
+   "name": "Disclosure Day",
    "cast": [
-    "Parineeti Chopra",
-    "Deven Bhojani",
-    "Adil Hussain"
+    "Emily Blunt",
+    "Josh O&apos;Connor",
+    "Colin Firth"
    ],
-   "credits_cast": [
-    {
-     "character": "Sandhya",
-     "name": "Parineeti Chopra",
-     "profile_path": "/DDBuGxqPZOcb2o9bk3ihPQdBn8.jpg",
-     "id": 1034471
-    },
-    {
-     "character": "Vinod",
-     "name": "Deven Bhojani",
-     "profile_path": "/4gKlQ8QD6BtfachIRAXOxB5vidB.jpg",
-     "id": 110292
-    },
-    {
-     "character": "",
-     "name": "Adil Hussain",
-     "profile_path": "/eCWVa1pH7mmz0i9Q0l4VEKs7g6m.jpg",
-     "id": 227849
-    },
-    {
-     "character": "",
-     "name": "Shekhar Suman",
-     "profile_path": "/u6rcpRPOuqV4ONOMt6NGSgyR1w2.jpg",
-     "id": 1235143
-    },
-    {
-     "character": "",
-     "name": "Amol Palekar",
-     "profile_path": "/kUnejDjArzNVxouIaIj3WxxC83G.jpg",
-     "id": 105650
-    },
-    {
-     "character": "",
-     "name": "Nassar",
-     "profile_path": "/p3I0tSQY3C5qZW3NzFfbpjKPNL6.jpg",
-     "id": 130111
-    },
-    {
-     "character": "",
-     "name": "Geeta Agrawal Sharma",
-     "profile_path": "/5Jrwb9zWG2Hjmf8PQLuDmCKnMHG.jpg",
-     "id": 1197127
-    },
-    {
-     "character": "",
-     "name": "Saswata Chatterjee",
-     "profile_path": "/cVJVLDy7BNzIbFMcJBPOWeN0Kb.jpg",
-     "id": 1093644
-    },
-    {
-     "character": "",
-     "name": "Prachee Shah",
-     "profile_path": "/nCiNfb8VCtQ0PcYzIzzdVI5GlRl.jpg",
-     "id": 1239665
-    },
-    {
-     "character": "",
-     "name": "Pitobash",
-     "profile_path": "/p6BMCwXziu3tiqOfXYbHaS3ZZX1.jpg",
-     "id": 225163
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Joshua Shirsath",
-     "profile_path": null,
-     "id": 3244921
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Dhruv Tripathi",
-     "profile_path": null,
-     "id": 6511882
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Partha Thakur",
-     "profile_path": null,
-     "id": 2320818
-    }
-   ],
+   "country": "United States, Canada, New Zealand, Japan",
    "director": [
-    "Dhruv Tripathi"
+    "Steven Spielberg"
    ],
-   "behaviorHints": {
-    "defaultVideoId": "tt47657999",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657999.jpg",
-   "imdbRating": "5.8"
-  },
-  {
-   "name": "Buddy",
-   "awards": "1 nomination total",
-   "cast": [
-    "Cristin Milioti",
-    "Delaney Quinn",
-    "Topher Grace"
-   ],
-   "country": "United States",
-   "description": "Lembras-te do BUDDY? O unicórnio laranja brilhante e protagonista daquele clássico programa de televisão infantil que trazia alegria e lições de vida para a tua sala de estar? No mundo colorido de \"It's Buddy!\", um grupo de crianças passa os dias a cantar, a dançar e a ajudar o Buddy a espalhar felicidade. Mas quando uma criança se recusa a entrar no jogo, o Buddy fica descontente e começam a surgir fissuras neste mundo aparentemente perfeito.",
-   "director": [
-    "Casper Kelly"
-   ],
-   "genre": [
-    "Horror"
-   ],
-   "imdbRating": "6.8",
-   "released": "2026-08-28T00:00:00.000Z",
+   "imdbRating": "6.4",
+   "released": "2026-06-12T00:00:00.000Z",
    "writer": [
-    "Casper Kelly",
-    "Jamie King"
+    "David Koepp",
+    "Steven Spielberg"
    ],
    "year": "2026",
-   "runtime": "95 min",
+   "genre": [
+    "Action",
+    "Mystery",
+    "Sci-Fi"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt15047880/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15047880/img",
    "trailers": [
     {
-     "source": "udPBHzBnXKA",
+     "source": "icDuEHSxE-w",
      "type": "Trailer"
     },
     {
-     "source": "O1fNEHX9tSM",
+     "source": "SCYT8vb2siQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt37281055/img",
-   "logo": "https://images.metahub.space/logo/medium/tt37281055/img",
-   "id": "tt37281055",
+   "runtime": "146 min",
+   "description": "Se descobrisses que não estamos sozinhos, se alguém te mostrasse isso, te provasse, isso assustar-te-ia?",
+   "awards": "3 wins & 7 nominations total",
+   "id": "tt15047880",
    "genres": [
-    "Terror",
-    "Comédia",
-    "Fantasia"
+    "Ficção científica",
+    "Thriller"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Buddy",
-     "ytId": "udPBHzBnXKA"
+     "title": "Disclosure Day",
+     "ytId": "icDuEHSxE-w"
     },
     {
-     "title": "Buddy",
-     "ytId": "O1fNEHX9tSM"
+     "title": "Disclosure Day",
+     "ytId": "SCYT8vb2siQ"
     }
    ],
    "links": [
     {
-     "name": "7.1",
+     "name": "6.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt37281055"
+     "url": "https://imdb.com/title/tt15047880"
     },
     {
-     "name": "Buddy",
+     "name": "Disclosure Day",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/buddy-37281055"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Cristin Milioti",
-     "category": "Cast",
-     "url": "stremio:///search?search=Cristin%20Milioti"
-    },
-    {
-     "name": "Delaney Quinn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Delaney%20Quinn"
-    },
-    {
-     "name": "Topher Grace",
-     "category": "Cast",
-     "url": "stremio:///search?search=Topher%20Grace"
-    },
-    {
-     "name": "Casper Kelly",
-     "category": "Writers",
-     "url": "stremio:///search?search=Casper%20Kelly"
-    },
-    {
-     "name": "Jamie King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jamie%20King"
-    },
-    {
-     "name": "Casper Kelly",
-     "category": "Directors",
-     "url": "stremio:///search?search=Casper%20Kelly"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37281055",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37281055.jpg"
-  },
-  {
-   "name": "Masterplan",
-   "cast": [
-    "Stanley Tucci",
-    "Victor Belmondo",
-    "Simona Tabasco"
-   ],
-   "country": "France, Italy",
-   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
-   "director": [
-    "Thomas Vincent"
-   ],
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "",
-   "released": "2026-10-16T00:00:00.000Z",
-   "writer": [
-    "Giacomo Durzi",
-    "Alessandro Fabbri",
-    "Alberto Vignati"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt38672588/img",
-   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
-   "id": "tt38672588",
-   "genres": [
-    "Ação",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Masterplan",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/masterplan-38672588"
+     "url": "https://www.strem.io/s/movie/disclosure-day-15047880"
     },
     {
      "name": "Action",
@@ -1543,58 +1667,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Comedy",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Crime",
+     "name": "Sci-Fi",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
     },
     {
-     "name": "Stanley Tucci",
+     "name": "Emily Blunt",
      "category": "Cast",
-     "url": "stremio:///search?search=Stanley%20Tucci"
+     "url": "stremio:///search?search=Emily%20Blunt"
     },
     {
-     "name": "Victor Belmondo",
+     "name": "Josh O&apos;Connor",
      "category": "Cast",
-     "url": "stremio:///search?search=Victor%20Belmondo"
+     "url": "stremio:///search?search=Josh%20O%26apos%3BConnor"
     },
     {
-     "name": "Simona Tabasco",
+     "name": "Colin Firth",
      "category": "Cast",
-     "url": "stremio:///search?search=Simona%20Tabasco"
+     "url": "stremio:///search?search=Colin%20Firth"
     },
     {
-     "name": "Giacomo Durzi",
+     "name": "David Koepp",
      "category": "Writers",
-     "url": "stremio:///search?search=Giacomo%20Durzi"
+     "url": "stremio:///search?search=David%20Koepp"
     },
     {
-     "name": "Alessandro Fabbri",
+     "name": "Steven Spielberg",
      "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Fabbri"
+     "url": "stremio:///search?search=Steven%20Spielberg"
     },
     {
-     "name": "Alberto Vignati",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alberto%20Vignati"
-    },
-    {
-     "name": "Thomas Vincent",
+     "name": "Steven Spielberg",
      "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Vincent"
+     "url": "stremio:///search?search=Steven%20Spielberg"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt38672588",
+    "defaultVideoId": "tt15047880",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15047880.jpg"
   },
   {
    "name": "Onslaught",
@@ -1722,125 +1841,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32268691.jpg"
-  },
-  {
-   "name": "Disclosure Day",
-   "cast": [
-    "Emily Blunt",
-    "Josh O&apos;Connor",
-    "Colin Firth"
-   ],
-   "country": "United States, Canada, New Zealand, Japan",
-   "director": [
-    "Steven Spielberg"
-   ],
-   "imdbRating": "6.4",
-   "released": "2026-06-12T00:00:00.000Z",
-   "writer": [
-    "David Koepp",
-    "Steven Spielberg"
-   ],
-   "year": "2026",
-   "genre": [
-    "Action",
-    "Mystery",
-    "Sci-Fi"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15047880/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15047880/img",
-   "trailers": [
-    {
-     "source": "icDuEHSxE-w",
-     "type": "Trailer"
-    },
-    {
-     "source": "SCYT8vb2siQ",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "146 min",
-   "description": "Se descobrisses que não estamos sozinhos, se alguém te mostrasse isso, te provasse, isso assustar-te-ia?",
-   "awards": "3 wins & 7 nominations total",
-   "id": "tt15047880",
-   "genres": [
-    "Ficção científica",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Disclosure Day",
-     "ytId": "icDuEHSxE-w"
-    },
-    {
-     "title": "Disclosure Day",
-     "ytId": "SCYT8vb2siQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15047880"
-    },
-    {
-     "name": "Disclosure Day",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/disclosure-day-15047880"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "Josh O&apos;Connor",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20O%26apos%3BConnor"
-    },
-    {
-     "name": "Colin Firth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Colin%20Firth"
-    },
-    {
-     "name": "David Koepp",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Koepp"
-    },
-    {
-     "name": "Steven Spielberg",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Spielberg"
-    },
-    {
-     "name": "Steven Spielberg",
-     "category": "Directors",
-     "url": "stremio:///search?search=Steven%20Spielberg"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt15047880",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15047880.jpg"
   },
   {
    "name": "V/H/S/Mixtape",
@@ -2266,7 +2266,7 @@
    "director": [
     "Jennifer Peedom"
    ],
-   "imdbRating": "7.7",
+   "imdbRating": "7.5",
    "language": "English",
    "country": "Australia, United States",
    "behaviorHints": {

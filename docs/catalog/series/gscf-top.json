@@ -205,7 +205,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "8.2"
+   "imdbRating": "8.1"
   },
   {
    "name": "Dragon Ball Super: Beerus",
@@ -219,7 +219,7 @@
    "genre": [
     "Animation"
    ],
-   "imdbRating": "9.2",
+   "imdbRating": "9.1",
    "released": null,
    "year": "2026–",
    "runtime": "23 min",
@@ -620,81 +620,108 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2560140.jpg"
   },
   {
-   "name": "Take Charge of My Heart",
+   "awards": "Won 17 Primetime Emmys. 132 wins & 413 nominations total",
    "cast": [
-    "Kim Young-kwang",
-    "Chae Soo-bin",
-    "Cha Woo-min"
+    "Lady Gaga",
+    "Kathy Bates",
+    "Angela Bassett"
    ],
-   "country": "South Korea",
-   "description": "O herdeiro de uma empresa com um coração artificial conhece uma mulher verdadeiramente elétrica com quem faz um contrato que lhe faz bater o coração — em vários sentidos.",
+   "country": "United States",
+   "description": "É uma série de televisão norte-americana de terror-drama. Descrita como uma série antológica, cada temporada é concebida como uma mini-série independente, seguindo um conjunto de personagens e ambientes distintos e com enredo único por temporada.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Comedy",
-    "Fantasy",
-    "Romance"
+    "Drama",
+    "Horror",
+    "Sci-Fi"
    ],
-   "imdbRating": "7.6",
-   "released": "2026-10-09T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "63 min",
-   "status": "Ended",
+   "imdbRating": "7.9",
+   "name": "American Horror Story",
+   "released": "2011-10-05T00:00:00.000Z",
+   "runtime": "44 min",
+   "status": "Continuing",
+   "writer": [
+    "Brad Falchuk",
+    "Ryan Murphy",
+    "Halley Feiffer"
+   ],
+   "year": "2011–",
+   "background": "https://images.metahub.space/background/medium/tt1844624/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1844624/img",
    "trailers": [
     {
-     "source": "z_D5uXaDsVU",
+     "source": "nLJR2twdK00",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt37737331/img",
-   "background": "https://images.metahub.space/background/medium/tt37737331/img",
-   "id": "tt37737331",
+   "id": "tt1844624",
    "genres": [
-    "Sci-Fi & Fantasy",
-    "Comédia"
+    "Drama",
+    "Mistério",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2011",
    "trailerStreams": [
     {
-     "title": "Take Charge of My Heart",
-     "ytId": "z_D5uXaDsVU"
+     "title": "American Horror Story",
+     "ytId": "nLJR2twdK00"
     }
    ],
    "links": [
     {
-     "name": "Take Charge of My Heart",
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1844624"
+    },
+    {
+     "name": "American Horror Story",
      "category": "share",
-     "url": "https://www.strem.io/s/series/take-charge-of-my-heart-37737331"
+     "url": "https://www.strem.io/s/series/american-horror-story-1844624"
     },
     {
-     "name": "Comedy",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
     },
     {
-     "name": "Romance",
+     "name": "Sci-Fi",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
     },
     {
-     "name": "Kim Young-kwang",
+     "name": "Lady Gaga",
      "category": "Cast",
-     "url": "stremio:///search?search=Kim%20Young-kwang"
+     "url": "stremio:///search?search=Lady%20Gaga"
     },
     {
-     "name": "Chae Soo-bin",
+     "name": "Kathy Bates",
      "category": "Cast",
-     "url": "stremio:///search?search=Chae%20Soo-bin"
+     "url": "stremio:///search?search=Kathy%20Bates"
     },
     {
-     "name": "Cha Woo-min",
+     "name": "Angela Bassett",
      "category": "Cast",
-     "url": "stremio:///search?search=Cha%20Woo-min"
+     "url": "stremio:///search?search=Angela%20Bassett"
+    },
+    {
+     "name": "Brad Falchuk",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brad%20Falchuk"
+    },
+    {
+     "name": "Ryan Murphy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20Murphy"
+    },
+    {
+     "name": "Halley Feiffer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Halley%20Feiffer"
     }
    ],
    "behaviorHints": {
@@ -703,7 +730,121 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg"
+  },
+  {
+   "name": "House of the Dragon",
+   "cast": [
+    "Matt Smith",
+    "Emma D&apos;Arcy",
+    "Olivia Cooke"
+   ],
+   "country": "United States",
+   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.2",
+   "released": "2022-08-21T00:00:00.000Z",
+   "writer": [
+    "Ryan J. Condal",
+    "George R.R. Martin"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11198330/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "DotnJ7tTA34",
+     "type": "Trailer"
+    },
+    {
+     "source": "Wg86eQkdudI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11198330",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "House of the Dragon",
+     "ytId": "DotnJ7tTA34"
+    },
+    {
+     "title": "House of the Dragon",
+     "ytId": "Wg86eQkdudI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11198330"
+    },
+    {
+     "name": "House of the Dragon",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Matt Smith",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Smith"
+    },
+    {
+     "name": "Emma D&apos;Arcy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+    },
+    {
+     "name": "Olivia Cooke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olivia%20Cooke"
+    },
+    {
+     "name": "Ryan J. Condal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20J.%20Condal"
+    },
+    {
+     "name": "George R.R. Martin",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
   },
   {
    "name": "Avatar: Seven Havens",
@@ -911,108 +1052,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10691770.jpg"
-  },
-  {
-   "name": "Years and Years",
-   "cast": [
-    "Anne Reid",
-    "Rory Kinnear",
-    "Jessica Hynes"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "“Years and Years” segue os Lyon, uma atarefada família de Manchester.",
-   "imdbRating": "8.2",
-   "released": "2019-06-24T00:00:00.000Z",
-   "year": "2019",
-   "status": "Ended",
-   "director": [],
-   "genre": [
-    "Drama",
-    "Sci-Fi"
-   ],
-   "writer": [
-    "Russell T. Davies"
-   ],
-   "runtime": "60 min",
-   "background": "https://images.metahub.space/background/medium/tt8694364/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8694364/img",
-   "awards": "1 win & 17 nominations total",
-   "trailers": [
-    {
-     "source": "SY41jhIP_xI",
-     "type": "Trailer"
-    },
-    {
-     "source": "lSOo4_7Pccg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt8694364",
-   "genres": [
-    "Drama",
-    "War & Politics",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
-    {
-     "title": "Years and Years",
-     "ytId": "SY41jhIP_xI"
-    },
-    {
-     "title": "Years and Years",
-     "ytId": "lSOo4_7Pccg"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8694364"
-    },
-    {
-     "name": "Years and Years",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/years-and-years-8694364"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Anne Reid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Reid"
-    },
-    {
-     "name": "Rory Kinnear",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rory%20Kinnear"
-    },
-    {
-     "name": "Jessica Hynes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessica%20Hynes"
-    },
-    {
-     "name": "Russell T. Davies",
-     "category": "Writers",
-     "url": "stremio:///search?search=Russell%20T.%20Davies"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8694364.jpg"
   }
  ]
 }

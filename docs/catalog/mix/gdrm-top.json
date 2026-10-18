@@ -205,100 +205,75 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "8.2"
+   "imdbRating": "8.1"
   },
   {
-   "name": "MobLand",
-   "imdbRating": "8.3",
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
-   "genre": [
-    "Crime",
+   "id": "tt23148340",
+   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
+   "background": "https://live.metahub.space/background/medium/tt23148340/img",
+   "name": "Crystal Lake",
+   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
+   "genres": [
+    "Mistério",
     "Drama"
    ],
-   "released": "2025-03-30T00:00:00.000Z",
-   "writer": [
-    "Ronan Bennett"
-   ],
-   "year": "2025–",
+   "releaseInfo": "2026",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "qKGgw7Ob5f4",
+     "source": "Rs49eRHFD9c",
      "type": "Trailer"
     }
    ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
-   "genres": [
-    "Crime",
-    "Drama"
+   "cast": [
+    "Linda Cardellini",
+    "William Catlett",
+    "Devin Kessler"
    ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
+   "credits_cast": [
     {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
+     "character": "Pamela Voorhees",
+     "name": "Linda Cardellini",
+     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
+     "id": 1817
+    },
+    {
+     "character": "Levon Brooks",
+     "name": "William Catlett",
+     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
+     "id": 1962720
+    },
+    {
+     "character": "Briana Brooks",
+     "name": "Devin Kessler",
+     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
+     "id": 5399431
+    },
+    {
+     "character": "Dorf",
+     "name": "Cameron Scoggins",
+     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
+     "id": 1098958
+    },
+    {
+     "character": "Grace Snell",
+     "name": "Gwendolyn Sundstrom",
+     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
+     "id": 5503263
     }
    ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
-    },
-    {
-     "name": "MobLand",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "Pierce Brosnan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
-    },
-    {
-     "name": "Paddy Considine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
-    }
-   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.7",
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
   },
   {
    "name": "Slow Horses",
@@ -488,6 +463,172 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
   },
   {
+   "name": "MobLand",
+   "imdbRating": "8.3",
+   "cast": [
+    "Tom Hardy",
+    "Pierce Brosnan",
+    "Paddy Considine"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
+   "director": null,
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "released": "2025-03-30T00:00:00.000Z",
+   "writer": [
+    "Ronan Bennett"
+   ],
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "qKGgw7Ob5f4",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "47 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
+   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
+   "id": "tt31510819",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "MobLand",
+     "ytId": "qKGgw7Ob5f4"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31510819"
+    },
+    {
+     "name": "MobLand",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/mobland-31510819"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Tom Hardy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hardy"
+    },
+    {
+     "name": "Pierce Brosnan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pierce%20Brosnan"
+    },
+    {
+     "name": "Paddy Considine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paddy%20Considine"
+    },
+    {
+     "name": "Ronan Bennett",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ronan%20Bennett"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+  },
+  {
+   "name": "East of Eden",
+   "cast": [
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
+   ],
+   "country": "United States",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "M9NWvGZViCg",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
+    }
+   ],
+   "links": [
+    {
+     "name": "East of Eden",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Florence Pugh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Florence%20Pugh"
+    },
+    {
+     "name": "Mike Faist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mike%20Faist"
+    },
+    {
+     "name": "Christopher Abbott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Abbott"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+  },
+  {
    "name": "Animals",
    "cast": [
     "Gillian Anderson",
@@ -607,145 +748,84 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "East of Eden",
+   "name": "Love of Your Life",
    "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
+    "Margaret Qualley",
+    "Gabriel Basso",
+    "Catherine Keener"
    ],
    "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "description": "Realizado por Rachel Morrison, LOVE OF YOUR LIFE segue Maya, cujo encontro fortuito com Charlie desencadeia um romance arrebatador e um futuro para além do que ela tinha imaginado. Quando esse futuro é virado do avesso, Maya é lançada para uma nova e inesperada vida que a vai obrigar a perceber quem é, o que quer e como voltar a amar.",
+   "director": [
+    "Rachel Morrison"
+   ],
    "genre": [
-    "Drama"
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
+   "imdbRating": "6.5",
+   "released": "2026-10-14T00:00:00.000Z",
+   "writer": [
+    "Julia Cox"
+   ],
    "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "M9NWvGZViCg",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
+   "logo": "https://images.metahub.space/logo/medium/tt34384900/img",
+   "background": "https://images.metahub.space/background/medium/tt34384900/img",
+   "id": "tt34384900",
    "genres": [
+    "Romance",
     "Drama"
    ],
    "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
-    }
-   ],
    "links": [
     {
-     "name": "East of Eden",
+     "name": "Love of Your Life",
      "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+     "url": "https://www.strem.io/s/movie/love-of-your-life-34384900"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Mike Faist",
+     "name": "Margaret Qualley",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
+     "url": "stremio:///search?search=Margaret%20Qualley"
     },
     {
-     "name": "Christopher Abbott",
+     "name": "Gabriel Basso",
      "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
+     "url": "stremio:///search?search=Gabriel%20Basso"
+    },
+    {
+     "name": "Catherine Keener",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20Keener"
+    },
+    {
+     "name": "Julia Cox",
+     "category": "Writers",
+     "url": "stremio:///search?search=Julia%20Cox"
+    },
+    {
+     "name": "Rachel Morrison",
+     "category": "Directors",
+     "url": "stremio:///search?search=Rachel%20Morrison"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt34384900",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
-  },
-  {
-   "id": "tt23148340",
-   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
-   "background": "https://live.metahub.space/background/medium/tt23148340/img",
-   "name": "Crystal Lake",
-   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
-   "genres": [
-    "Mistério",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "Rs49eRHFD9c",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Linda Cardellini",
-    "William Catlett",
-    "Devin Kessler"
-   ],
-   "credits_cast": [
-    {
-     "character": "Pamela Voorhees",
-     "name": "Linda Cardellini",
-     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
-     "id": 1817
-    },
-    {
-     "character": "Levon Brooks",
-     "name": "William Catlett",
-     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
-     "id": 1962720
-    },
-    {
-     "character": "Briana Brooks",
-     "name": "Devin Kessler",
-     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
-     "id": 5399431
-    },
-    {
-     "character": "Dorf",
-     "name": "Cameron Scoggins",
-     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
-     "id": 1098958
-    },
-    {
-     "character": "Grace Snell",
-     "name": "Gwendolyn Sundstrom",
-     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
-     "id": 5503263
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.7",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34384900.jpg"
   },
   {
    "id": "tt36470958",
@@ -843,126 +923,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "5.6"
-  },
-  {
-   "name": "Ted Lasso",
-   "cast": [
-    "Jason Sudeikis",
-    "Hannah Waddingham",
-    "Jeremy Swift"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "Ted Lasso, um treinador de futebol americano, muda-se para a Inglaterra quando é contratado para comandar uma equipa de futebol – apesarde não ter experiência. Com jogadores cínicos e uma cidade duvidosa, ele vai levá-los a ver o Ted Lasso Way?",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Sport"
-   ],
-   "imdbRating": "8.7",
-   "released": "2020-08-14T00:00:00.000Z",
-   "writer": [
-    "Jason Sudeikis",
-    "Brendan Hunt",
-    "Joe Kelly"
-   ],
-   "year": "2020–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt10986410/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-   "runtime": "43 min",
-   "awards": "Won 13 Primetime Emmys. 75 wins & 213 nominations total",
-   "trailers": [
-    {
-     "source": "BwPcMIDFVKw",
-     "type": "Trailer"
-    },
-    {
-     "source": "3u7EIiohs6U",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10986410",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2020",
-   "trailerStreams": [
-    {
-     "title": "Ted Lasso",
-     "ytId": "BwPcMIDFVKw"
-    },
-    {
-     "title": "Ted Lasso",
-     "ytId": "3u7EIiohs6U"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10986410"
-    },
-    {
-     "name": "Ted Lasso",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/ted-lasso-10986410"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Jason Sudeikis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jason%20Sudeikis"
-    },
-    {
-     "name": "Hannah Waddingham",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hannah%20Waddingham"
-    },
-    {
-     "name": "Jeremy Swift",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Swift"
-    },
-    {
-     "name": "Jason Sudeikis",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Sudeikis"
-    },
-    {
-     "name": "Brendan Hunt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brendan%20Hunt"
-    },
-    {
-     "name": "Joe Kelly",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joe%20Kelly"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
+   "imdbRating": "5.7"
   }
  ]
 }

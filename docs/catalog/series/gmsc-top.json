@@ -108,61 +108,110 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10691770.jpg"
   },
   {
-   "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
-   "cast": [
-    "Elia Nuzzolo",
-    "Matteo Oscar Giuggioli",
-    "Davide Calgaro"
-   ],
-   "country": "Italy",
+   "name": "Over the Garden Wall",
+   "year": "2014",
+   "runtime": "11 min",
    "genre": [
-    "Comedy"
+    "Animation",
+    "Short",
+    "Adventure"
    ],
-   "imdbRating": "8.1",
-   "released": "2024-10-11T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "50 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "description": "Max Pezzali and Mauro Repetto create a beloved band in the 1990s.",
-   "background": "https://images.metahub.space/background/medium/tt26545971/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26545971/img",
-   "id": "tt26545971",
+   "released": "2014-11-03T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Katie Krentz",
+    "Patrick McHale"
+   ],
+   "cast": [
+    "Elijah Wood",
+    "Collin Dean",
+    "Melanie Lynskey"
+   ],
+   "imdbRating": "8.7",
+   "description": "Algures, perdido nos escuros anais da história, existe um lugar que quase ninguém conhece. Um lugar misterioso, chamado \"O Desconhecido\", onde histórias esquecidas há muito tempo são reveladas àqueles que passeiam pelo bosque. Dois irmãos chamados Wirt e Greg perdem-se no Desconhecido, uma estranha floresta à deriva no tempo. Com a ajuda do Lenhador, um homem muito sombrio, e de Beatriz, um pássaro fêmea de cor azul.",
+   "country": "United States",
+   "awards": "Won 2 Primetime Emmys. 4 wins & 9 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt3718778/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3718778/img",
+   "trailers": [
+    {
+     "source": "36mAsVSH_-s",
+     "type": "Trailer"
+    },
+    {
+     "source": "oAQZB98wewY",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt3718778",
    "genres": [
-    "Comédia"
+    "Mistério",
+    "Sci-Fi & Fantasy",
+    "Animação"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "Over the Garden Wall",
+     "ytId": "36mAsVSH_-s"
+    },
+    {
+     "title": "Over the Garden Wall",
+     "ytId": "oAQZB98wewY"
+    }
+   ],
    "links": [
     {
-     "name": "8.2",
+     "name": "8.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt26545971"
+     "url": "https://imdb.com/title/tt3718778"
     },
     {
-     "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
+     "name": "Over the Garden Wall",
      "category": "share",
-     "url": "https://www.strem.io/s/series/hanno-ucciso-luomo-ragno-la-leggendaria-storia-degli-883-26545971"
+     "url": "https://www.strem.io/s/series/over-the-garden-wall-3718778"
     },
     {
-     "name": "Comedy",
+     "name": "Animation",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
-     "name": "Elia Nuzzolo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elia%20Nuzzolo"
+     "name": "Short",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Short"
     },
     {
-     "name": "Matteo Oscar Giuggioli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matteo%20Oscar%20Giuggioli"
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Davide Calgaro",
+     "name": "Elijah Wood",
      "category": "Cast",
-     "url": "stremio:///search?search=Davide%20Calgaro"
+     "url": "stremio:///search?search=Elijah%20Wood"
+    },
+    {
+     "name": "Collin Dean",
+     "category": "Cast",
+     "url": "stremio:///search?search=Collin%20Dean"
+    },
+    {
+     "name": "Melanie Lynskey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melanie%20Lynskey"
+    },
+    {
+     "name": "Katie Krentz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katie%20Krentz"
+    },
+    {
+     "name": "Patrick McHale",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20McHale"
     }
    ],
    "behaviorHints": {
@@ -171,7 +220,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3718778.jpg"
   },
   {
    "name": "Untitled Snowfall Spinoff",
@@ -340,110 +389,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072562.jpg"
   },
   {
-   "name": "Over the Garden Wall",
-   "year": "2014",
-   "runtime": "11 min",
-   "genre": [
-    "Animation",
-    "Short",
-    "Adventure"
-   ],
-   "released": "2014-11-03T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Katie Krentz",
-    "Patrick McHale"
-   ],
+   "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
    "cast": [
-    "Elijah Wood",
-    "Collin Dean",
-    "Melanie Lynskey"
+    "Elia Nuzzolo",
+    "Matteo Oscar Giuggioli",
+    "Davide Calgaro"
    ],
-   "imdbRating": "8.7",
-   "description": "Algures, perdido nos escuros anais da história, existe um lugar que quase ninguém conhece. Um lugar misterioso, chamado \"O Desconhecido\", onde histórias esquecidas há muito tempo são reveladas àqueles que passeiam pelo bosque. Dois irmãos chamados Wirt e Greg perdem-se no Desconhecido, uma estranha floresta à deriva no tempo. Com a ajuda do Lenhador, um homem muito sombrio, e de Beatriz, um pássaro fêmea de cor azul.",
-   "country": "United States",
-   "awards": "Won 2 Primetime Emmys. 4 wins & 9 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt3718778/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3718778/img",
-   "trailers": [
-    {
-     "source": "36mAsVSH_-s",
-     "type": "Trailer"
-    },
-    {
-     "source": "oAQZB98wewY",
-     "type": "Trailer"
-    }
+   "country": "Italy",
+   "genre": [
+    "Comedy"
    ],
-   "id": "tt3718778",
+   "imdbRating": "8.1",
+   "released": "2024-10-11T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "50 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "description": "Max Pezzali and Mauro Repetto create a beloved band in the 1990s.",
+   "background": "https://images.metahub.space/background/medium/tt26545971/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26545971/img",
+   "id": "tt26545971",
    "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy",
-    "Animação"
+    "Comédia"
    ],
-   "releaseInfo": "2014",
-   "trailerStreams": [
-    {
-     "title": "Over the Garden Wall",
-     "ytId": "36mAsVSH_-s"
-    },
-    {
-     "title": "Over the Garden Wall",
-     "ytId": "oAQZB98wewY"
-    }
-   ],
+   "releaseInfo": "2024",
    "links": [
     {
-     "name": "8.7",
+     "name": "8.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3718778"
+     "url": "https://imdb.com/title/tt26545971"
     },
     {
-     "name": "Over the Garden Wall",
+     "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
      "category": "share",
-     "url": "https://www.strem.io/s/series/over-the-garden-wall-3718778"
+     "url": "https://www.strem.io/s/series/hanno-ucciso-luomo-ragno-la-leggendaria-storia-degli-883-26545971"
     },
     {
-     "name": "Animation",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Short",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Short"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Elijah Wood",
+     "name": "Elia Nuzzolo",
      "category": "Cast",
-     "url": "stremio:///search?search=Elijah%20Wood"
+     "url": "stremio:///search?search=Elia%20Nuzzolo"
     },
     {
-     "name": "Collin Dean",
+     "name": "Matteo Oscar Giuggioli",
      "category": "Cast",
-     "url": "stremio:///search?search=Collin%20Dean"
+     "url": "stremio:///search?search=Matteo%20Oscar%20Giuggioli"
     },
     {
-     "name": "Melanie Lynskey",
+     "name": "Davide Calgaro",
      "category": "Cast",
-     "url": "stremio:///search?search=Melanie%20Lynskey"
-    },
-    {
-     "name": "Katie Krentz",
-     "category": "Writers",
-     "url": "stremio:///search?search=Katie%20Krentz"
-    },
-    {
-     "name": "Patrick McHale",
-     "category": "Writers",
-     "url": "stremio:///search?search=Patrick%20McHale"
+     "url": "stremio:///search?search=Davide%20Calgaro"
     }
    ],
    "behaviorHints": {
@@ -452,7 +452,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3718778.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
   },
   {
    "awards": "4 nominations",
@@ -786,86 +786,32 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0460637.jpg"
   },
   {
-   "awards": "2 wins & 1 nomination",
-   "cast": [
-    "Vítor Fonseca",
-    "Camila Marques",
-    "Tiago Aldeia"
-   ],
-   "country": "Portugal",
-   "description": "Ao longo de várias gerações, grupos de jovens portugueses vivem o quotidiano escolar e as férias de verão enquanto enfrentam amizades, primeiros amores, rivalidades, conflitos familiares e decisões que influenciam o seu futuro. Cada temporada apresenta novos protagonistas, escolas e desafios, explorando temas ligados à adolescência, à identidade, à responsabilidade e à integração. O desporto, a música, a dança e outras formas de expressão acompanham estes percursos de crescimento, marcados por sonhos, escolhas e relações em constante mudança.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Music"
-   ],
-   "imdbRating": "4.0",
-   "name": "Morangos com Açúcar",
-   "released": "2003-08-30T00:00:00.000Z",
-   "runtime": "50 min",
-   "writer": null,
-   "year": "2003–2012",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt0391666/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0391666/img",
-   "id": "tt0391666",
+   "id": "tt12180726",
+   "logo": "https://live.metahub.space/logo/medium/tt12180726/img",
+   "background": "https://live.metahub.space/background/medium/tt12180726/img",
+   "name": "Galinha Pintadinha Mini",
+   "description": "Com o Pintinho Amarelinho, o Galo Carijó e toda sua turma, a Galinha Pintadinha vai participar de diversas atividades educativas com muita música e diversão.",
    "genres": [
-    "Drama",
-    "Comédia",
-    "Soap"
+    "Animação",
+    "Kids"
    ],
-   "releaseInfo": "2003",
-   "links": [
-    {
-     "name": "3.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0391666"
-    },
-    {
-     "name": "Morangos com Açúcar",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/morangos-com-acar-0391666"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Music",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
-    },
-    {
-     "name": "Vítor Fonseca",
-     "category": "Cast",
-     "url": "stremio:///search?search=V%C3%ADtor%20Fonseca"
-    },
-    {
-     "name": "Camila Marques",
-     "category": "Cast",
-     "url": "stremio:///search?search=Camila%20Marques"
-    },
-    {
-     "name": "Tiago Aldeia",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tiago%20Aldeia"
-    }
-   ],
+   "releaseInfo": "2017",
+   "status": "Continuing",
+   "runtime": "12 min",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.4",
+   "country": "Brazil",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0391666.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12180726.jpg"
   }
  ]
 }

@@ -418,7 +418,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "5.6"
+   "imdbRating": "5.7"
   },
   {
    "cast": [
@@ -513,6 +513,174 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2349912.jpg"
   },
   {
+   "awards": null,
+   "cast": [
+    "Michael Coulthard",
+    "Charles Robinson",
+    "John Layfield"
+   ],
+   "country": "United States",
+   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Sport"
+   ],
+   "imdbRating": "7.3",
+   "name": "WWE Smackdown!",
+   "released": "1999-04-27T00:00:00.000Z",
+   "runtime": "87 min",
+   "status": "Continuing",
+   "writer": [
+    "Vince McMahon",
+    "Dusty Rhodes"
+   ],
+   "year": "1999–",
+   "background": "https://images.metahub.space/background/medium/tt0227972/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
+   "id": "tt0227972",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "1999",
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0227972"
+    },
+    {
+     "name": "WWE Smackdown!",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Michael Coulthard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Coulthard"
+    },
+    {
+     "name": "Charles Robinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charles%20Robinson"
+    },
+    {
+     "name": "John Layfield",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Layfield"
+    },
+    {
+     "name": "Vince McMahon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20McMahon"
+    },
+    {
+     "name": "Dusty Rhodes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dusty%20Rhodes"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
+  },
+  {
+   "id": "tt35673115",
+   "logo": "https://live.metahub.space/logo/medium/tt35673115/img",
+   "background": "https://live.metahub.space/background/medium/tt35673115/img",
+   "name": "Hollywood Arts",
+   "description": "Nesta nova série, a atriz Trina Vega volta a sua antiga escola, a Hollywood Arts, como professora substituta não qualificada. Lá, ela enfrenta conflitos e acaba inspirando uma nova geração de alunos ambiciosos e talentosos, que aprendem a encontrar seu verdadeiro caminho na melhor escola de artes cênicas de Hollywood.",
+   "genres": [
+    "Comédia",
+    "Drama",
+    "Família"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "IXQP43JjY4Q",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Daniella Monet",
+    "Yvette Nicole Brown",
+    "Alyssa Miles"
+   ],
+   "credits_cast": [
+    {
+     "character": "Trina Vega",
+     "name": "Daniella Monet",
+     "profile_path": "/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg",
+     "id": 76313
+    },
+    {
+     "character": "Helen",
+     "name": "Yvette Nicole Brown",
+     "profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
+     "id": 111513
+    },
+    {
+     "character": "Emmy",
+     "name": "Alyssa Miles",
+     "profile_path": "/tY3NUk8EpXSyyRIdqTRVliwangK.jpg",
+     "id": 5770990
+    },
+    {
+     "character": "Pepper",
+     "name": "Emmy Liu-Wang",
+     "profile_path": "/2tGqKiwu42XhnUsZDBPXo8LI5l5.jpg",
+     "id": 3271005
+    },
+    {
+     "character": "Qwest",
+     "name": "Peyton Jackson",
+     "profile_path": "/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg",
+     "id": 2170322
+    },
+    {
+     "character": "Jen Z",
+     "name": "Erika Swayze",
+     "profile_path": "/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg",
+     "id": 2151239
+    },
+    {
+     "character": "Oscar",
+     "name": "Martin Kamm",
+     "profile_path": "/coGQzDXWcCS35oJFVCNU3Ah9mgo.jpg",
+     "id": 5770991
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
+   "imdbRating": "6.0"
+  },
+  {
    "name": "Take Charge of My Heart",
    "cast": [
     "Kim Young-kwang",
@@ -597,183 +765,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg"
-  },
-  {
-   "id": "tt42576855",
-   "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
-   "background": "https://live.metahub.space/background/medium/tt42576855/img",
-   "name": "Where the Mask Ends",
-   "description": "Chou era uma jovem humilde que catava lixo nas ruas. Todos podiam humilhá-la à vontade. Mas, por ter um rosto idêntico ao de Wei Rao, a filha de uma família nobre, acabou se tornando, por acidente, a noiva de Lu Zhuo, o herdeiro do Duque, com a esperança de trazer boa sorte a ele. Ambidiosa, Chou viu nisso uma chance de subir de vida. Mas, quando o marido, que estava à beira da morte, acordou de repente, ocupar o lugar de outra pessoa desencadeou uma série de desgraças. Wei Rao, furiosa por Chou ter tomado seu lugar, queria se livrar dela o quanto antes. Lu Zhuo a considerava uma mulher cruel, então vivia em alerta com ela. À primeira vista, a Mansão do Duque parecia um lugar harmonioso, mas na realidade era cheia de armadilhas e perigos mortais. No meio das intrigas, Chou lutou para contornar os interesses de todos e traçar o próprio caminho. Assim, conseguiu se libertar das correntes do destino, descobrir o segredo de sua origem e, por fim, se reunir com sua verdadeira família.",
-   "genres": [
-    "Drama"
-   ],
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "Q5vhvNyFph4",
-     "type": "Trailer"
-    },
-    {
-     "source": "lYrduDAiUSU",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Tian Xiwei",
-    "Yan An",
-    "Liu Xiaobei"
-   ],
-   "credits_cast": [
-    {
-     "character": "Wei Rao / Jun Dai",
-     "name": "Tian Xiwei",
-     "profile_path": "/i5lXDkbCTSD3Y7Vcy00iUtCoalX.jpg",
-     "id": 2430198
-    },
-    {
-     "character": "Lu Zhuo",
-     "name": "Yan An",
-     "profile_path": "/3reZJbOH8VT2A0xzRSJNp8sM6rv.jpg",
-     "id": 2040132
-    },
-    {
-     "character": "Qi Zhongkai",
-     "name": "Liu Xiaobei",
-     "profile_path": "/t7ORvESrEq0K2n1ognceKdeAorQ.jpg",
-     "id": 4515680
-    },
-    {
-     "character": "Bi Tao",
-     "name": "Pan Junya",
-     "profile_path": "/4mtfAodTxD2yG4lMOmuFHD7dmjM.jpg",
-     "id": 3983697
-    },
-    {
-     "character": "Han Liao",
-     "name": "Dai Gaozheng",
-     "profile_path": "/yku8OmgfaJDVkEKH8laynjU54um.jpg",
-     "id": 3693678
-    },
-    {
-     "character": "A Man",
-     "name": "Yin Wenxuan",
-     "profile_path": "/f6g2L9XePKypgB0dMbPo5OwojJg.jpg",
-     "id": 5456336
-    },
-    {
-     "character": "Crown Prince",
-     "name": "Zheng Hao",
-     "profile_path": null,
-     "id": 2878649
-    },
-    {
-     "character": "Zhou Fu",
-     "name": "Nikita Mao Linlin",
-     "profile_path": "/3dAutF22fOmde3BZag3VbRWTodi.jpg",
-     "id": 1518223
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Yang Long",
-     "profile_path": "/eb9oDuCifKNNkjxD3MYOGQsxvZC.jpg",
-     "id": 2192226
-    }
-   ],
-   "director": [
-    "Yang Long"
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "tt35673115",
-   "logo": "https://live.metahub.space/logo/medium/tt35673115/img",
-   "background": "https://live.metahub.space/background/medium/tt35673115/img",
-   "name": "Hollywood Arts",
-   "description": "Nesta nova série, a atriz Trina Vega volta a sua antiga escola, a Hollywood Arts, como professora substituta não qualificada. Lá, ela enfrenta conflitos e acaba inspirando uma nova geração de alunos ambiciosos e talentosos, que aprendem a encontrar seu verdadeiro caminho na melhor escola de artes cênicas de Hollywood.",
-   "genres": [
-    "Comédia",
-    "Drama",
-    "Família"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "IXQP43JjY4Q",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Daniella Monet",
-    "Yvette Nicole Brown",
-    "Alyssa Miles"
-   ],
-   "credits_cast": [
-    {
-     "character": "Trina Vega",
-     "name": "Daniella Monet",
-     "profile_path": "/5QW1c5SUch81C5KIpfJgclJ4ct5.jpg",
-     "id": 76313
-    },
-    {
-     "character": "Helen",
-     "name": "Yvette Nicole Brown",
-     "profile_path": "/7cJowCcDPnyXqHJ46GgSNHomUGo.jpg",
-     "id": 111513
-    },
-    {
-     "character": "Emmy",
-     "name": "Alyssa Miles",
-     "profile_path": "/tY3NUk8EpXSyyRIdqTRVliwangK.jpg",
-     "id": 5770990
-    },
-    {
-     "character": "Pepper",
-     "name": "Emmy Liu-Wang",
-     "profile_path": "/2tGqKiwu42XhnUsZDBPXo8LI5l5.jpg",
-     "id": 3271005
-    },
-    {
-     "character": "Qwest",
-     "name": "Peyton Jackson",
-     "profile_path": "/lS1aBK2F2uTnM7HqejSQsCnYWBo.jpg",
-     "id": 2170322
-    },
-    {
-     "character": "Jen Z",
-     "name": "Erika Swayze",
-     "profile_path": "/phn3vAg06wA9aJHPVqJ7mbEMGn2.jpg",
-     "id": 2151239
-    },
-    {
-     "character": "Oscar",
-     "name": "Martin Kamm",
-     "profile_path": "/coGQzDXWcCS35oJFVCNU3Ah9mgo.jpg",
-     "id": 5770991
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
-   "imdbRating": "7.0"
   }
  ]
 }
