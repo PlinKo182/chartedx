@@ -444,6 +444,47 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34966036.jpg"
   },
   {
+   "id": "tt48437216",
+   "logo": "https://live.metahub.space/logo/medium/tt48437216/img",
+   "background": "https://live.metahub.space/background/medium/tt48437216/img",
+   "name": "Instadocs: AI Gone Wild",
+   "description": "A IA cometeu um crime? Uma investigação do incidente Hugging Face, explorando como esse ataque cibernético pode ser um sinal de alerta para o futuro da humanidade.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "27 min",
+   "trailers": [],
+   "cast": [
+    "Clément Delangue",
+    "Daniel Kokotajlo"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Clément Delangue",
+     "profile_path": null,
+     "id": 6532807
+    },
+    {
+     "character": "Self",
+     "name": "Daniel Kokotajlo",
+     "profile_path": null,
+     "id": 6532810
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": "tt48437216",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48437216.jpg",
+   "imdbRating": "6.7"
+  },
+  {
    "id": "tt6963278",
    "logo": "https://live.metahub.space/logo/medium/tt6963278/img",
    "background": "https://live.metahub.space/background/medium/tt6963278/img",
@@ -564,79 +605,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45617366.jpg"
-  },
-  {
-   "name": "Norm: The Tale of Norm MacDonald",
-   "cast": [
-    "Norm MacDonald"
-   ],
-   "country": "United States",
-   "description": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-   "director": [
-    "Judd Apatow"
-   ],
-   "genre": [
-    "Documentary",
-    "Biography"
-   ],
-   "imdbRating": "8.1",
-   "released": "2026-10-16T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "127 min",
-   "trailers": [
-    {
-     "source": "dIBNCBAzBos",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt44822485/img",
-   "background": "https://images.metahub.space/background/medium/tt44822485/img",
-   "id": "tt44822485",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Norm: The Tale of Norm MacDonald",
-     "ytId": "dIBNCBAzBos"
-    }
-   ],
-   "links": [
-    {
-     "name": "Norm: The Tale of Norm MacDonald",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/norm-the-tale-of-norm-macdonald-44822485"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Norm MacDonald",
-     "category": "Cast",
-     "url": "stremio:///search?search=Norm%20MacDonald"
-    },
-    {
-     "name": "Judd Apatow",
-     "category": "Directors",
-     "url": "stremio:///search?search=Judd%20Apatow"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt44822485",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg"
   }
  ]
 }
