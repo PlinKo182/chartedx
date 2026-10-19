@@ -624,6 +624,52 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1721666.jpg"
   },
   {
+   "id": "tt28224610",
+   "logo": "https://live.metahub.space/logo/medium/tt28224610/img",
+   "background": "https://live.metahub.space/background/medium/tt28224610/img",
+   "name": "Sam & Colby",
+   "description": "Join Sam and Colby as they explore and document the creepiest haunted sites. Maintaining their infectious humor in even the darkest of situations, paranormal investigation has never been more fun.",
+   "genres": [
+    "Reality",
+    "Comédia",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2023",
+   "status": "Continuing",
+   "runtime": "55 min",
+   "trailers": [],
+   "cast": [
+    "Sam Golbach",
+    "Colby Brock"
+   ],
+   "credits_cast": [
+    {
+     "character": "Sam",
+     "name": "Sam Golbach",
+     "profile_path": null,
+     "id": 1908920
+    },
+    {
+     "character": "Colby",
+     "name": "Colby Brock",
+     "profile_path": null,
+     "id": 4333959
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "5.6",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28224610.jpg"
+  },
+  {
    "name": "Love Is Blind: Netherlands",
    "cast": [
     "Nicolette van Dam",
@@ -634,7 +680,7 @@
     "Reality-TV",
     "Romance"
    ],
-   "imdbRating": "5.8",
+   "imdbRating": "5.7",
    "released": "2026-09-30T00:00:00.000Z",
    "year": "2026–",
    "runtime": "66 min",
@@ -730,100 +776,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1281973.jpg"
-  },
-  {
-   "name": "Taskmaster",
-   "year": "2015–",
-   "runtime": "46 min",
-   "genre": [
-    "Comedy",
-    "Game-Show"
-   ],
-   "released": "2018-04-26T00:00:00.000Z",
-   "director": null,
-   "writer": null,
-   "cast": [
-    "Greg Davies",
-    "Alex Horne",
-    "Ed Gamble"
-   ],
-   "imdbRating": "9.0",
-   "description": "Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word.",
-   "country": "United Kingdom",
-   "awards": "Won 2 BAFTA Awards. 4 wins & 17 nominations total",
-   "dvdRelease": null,
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt4934214/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4934214/img",
-   "trailers": [
-    {
-     "source": "Ahhr6gHoVp0",
-     "type": "Trailer"
-    },
-    {
-     "source": "hiutY6RDZHg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt4934214",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "Taskmaster",
-     "ytId": "Ahhr6gHoVp0"
-    },
-    {
-     "title": "Taskmaster",
-     "ytId": "hiutY6RDZHg"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4934214"
-    },
-    {
-     "name": "Taskmaster",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/taskmaster-4934214"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Greg Davies",
-     "category": "Cast",
-     "url": "stremio:///search?search=Greg%20Davies"
-    },
-    {
-     "name": "Alex Horne",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alex%20Horne"
-    },
-    {
-     "name": "Ed Gamble",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ed%20Gamble"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4934214.jpg"
   }
  ]
 }

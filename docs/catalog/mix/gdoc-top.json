@@ -124,7 +124,7 @@
    "director": [
     "Benjamin Forman"
    ],
-   "imdbRating": "9.1",
+   "imdbRating": "8.7",
    "language": "English",
    "country": "United States",
    "behaviorHints": {
@@ -158,7 +158,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "6.5"
+   "imdbRating": "6.4"
   },
   {
    "cast": [
@@ -281,7 +281,7 @@
     "Documentary",
     "Biography"
    ],
-   "imdbRating": "8.1",
+   "imdbRating": "8.0",
    "released": "2026-10-16T00:00:00.000Z",
    "year": "2026",
    "runtime": "127 min",
@@ -428,38 +428,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1800308.jpg"
   },
   {
-   "id": "tt31719701",
-   "logo": "https://live.metahub.space/logo/medium/tt31719701/img",
-   "background": "https://live.metahub.space/background/medium/tt31719701/img",
-   "name": "Drink: A Look Inside the Glass",
-   "description": "An epic adventure into the stories of the world's most renowned alcohol producers. Each episode focuses on a single drink and its premier maker as they reveal the history, process, and craft that goes into every bottle.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2024",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "7J_X2HIrg7M",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "8.5",
-   "language": "English",
-   "country": "Canada",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31719701.jpg"
-  },
-  {
    "name": "The Rehearsal",
    "genre": [
     "Documentary",
@@ -551,6 +519,94 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
+  },
+  {
+   "awards": "3 wins & 7 nominations total",
+   "cast": [
+    "Nathan Fielder",
+    "Anthony Filosa",
+    "Salomon Flores"
+   ],
+   "country": "United States",
+   "description": "Nathan For You é uma série documental de comédia americana, em que o protagonista, Nathan Fieldier, usa a sua licenciatura em Gestão de Negócios para aconselhar pequenas empresas a ganharem lucro, muitas vezes através de meios excêntricos e pouco habituais. A personagem de Nathan é baseada na vida real do próprio Nathan Fielder e da sua luta interior contra a ansiedade social.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Documentary",
+    "Comedy"
+   ],
+   "imdbRating": "8.9",
+   "name": "Nathan for You",
+   "released": "2013-02-28T00:00:00.000Z",
+   "runtime": "27 min",
+   "status": "Ended",
+   "writer": [
+    "Nathan Fielder",
+    "Michael Koman"
+   ],
+   "year": "2013–2017",
+   "background": "https://images.metahub.space/background/medium/tt2297757/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2297757/img",
+   "id": "tt2297757",
+   "genres": [
+    "Comédia",
+    "Documentário"
+   ],
+   "releaseInfo": "2013",
+   "links": [
+    {
+     "name": "8.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2297757"
+    },
+    {
+     "name": "Nathan for You",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/nathan-for-you-2297757"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    },
+    {
+     "name": "Anthony Filosa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anthony%20Filosa"
+    },
+    {
+     "name": "Salomon Flores",
+     "category": "Cast",
+     "url": "stremio:///search?search=Salomon%20Flores"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    },
+    {
+     "name": "Michael Koman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Koman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2297757.jpg"
   }
  ]
 }
