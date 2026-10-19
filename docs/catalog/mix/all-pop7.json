@@ -167,99 +167,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
-   "name": "MobLand",
-   "imdbRating": "8.3",
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "released": "2025-03-30T00:00:00.000Z",
-   "writer": [
-    "Ronan Bennett"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "qKGgw7Ob5f4",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
-    },
-    {
-     "name": "MobLand",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "Pierce Brosnan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
-    },
-    {
-     "name": "Paddy Considine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
-  },
-  {
    "id": "tt23112594",
    "logo": "https://live.metahub.space/logo/medium/tt23112594/img",
    "background": "https://live.metahub.space/background/medium/tt23112594/img",
@@ -374,6 +281,74 @@
    "imdbRating": "8.1"
   },
   {
+   "id": "tt23148340",
+   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
+   "background": "https://live.metahub.space/background/medium/tt23148340/img",
+   "name": "Crystal Lake",
+   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
+   "genres": [
+    "Mistério",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "Rs49eRHFD9c",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Linda Cardellini",
+    "William Catlett",
+    "Devin Kessler"
+   ],
+   "credits_cast": [
+    {
+     "character": "Pamela Voorhees",
+     "name": "Linda Cardellini",
+     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
+     "id": 1817
+    },
+    {
+     "character": "Levon Brooks",
+     "name": "William Catlett",
+     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
+     "id": 1962720
+    },
+    {
+     "character": "Briana Brooks",
+     "name": "Devin Kessler",
+     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
+     "id": 5399431
+    },
+    {
+     "character": "Dorf",
+     "name": "Cameron Scoggins",
+     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
+     "id": 1098958
+    },
+    {
+     "character": "Grace Snell",
+     "name": "Gwendolyn Sundstrom",
+     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
+     "id": 5503263
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.8",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
+  },
+  {
    "name": "Slow Horses",
    "cast": [
     "Gary Oldman",
@@ -466,6 +441,192 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
+  },
+  {
+   "name": "MobLand",
+   "imdbRating": "8.3",
+   "cast": [
+    "Tom Hardy",
+    "Pierce Brosnan",
+    "Paddy Considine"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
+   "director": null,
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "released": "2025-03-30T00:00:00.000Z",
+   "writer": [
+    "Ronan Bennett"
+   ],
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "qKGgw7Ob5f4",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "47 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
+   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
+   "id": "tt31510819",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "MobLand",
+     "ytId": "qKGgw7Ob5f4"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31510819"
+    },
+    {
+     "name": "MobLand",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/mobland-31510819"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Tom Hardy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hardy"
+    },
+    {
+     "name": "Pierce Brosnan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pierce%20Brosnan"
+    },
+    {
+     "name": "Paddy Considine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paddy%20Considine"
+    },
+    {
+     "name": "Ronan Bennett",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ronan%20Bennett"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+  },
+  {
+   "name": "Below",
+   "cast": [
+    "Josh Hartnett",
+    "Stephen Oates",
+    "Josh Cruddas"
+   ],
+   "country": "Canada",
+   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "6.3",
+   "released": "2026-10-08T00:00:00.000Z",
+   "writer": [
+    "Jesse McKeown"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "U57CNxSgoss",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "runtime": null,
+   "status": "Ended",
+   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
+   "background": "https://images.metahub.space/background/medium/tt35934755/img",
+   "id": "tt35934755",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Below",
+     "ytId": "U57CNxSgoss"
+    }
+   ],
+   "links": [
+    {
+     "name": "Below",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/below-35934755"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Josh Hartnett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hartnett"
+    },
+    {
+     "name": "Stephen Oates",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stephen%20Oates"
+    },
+    {
+     "name": "Josh Cruddas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Cruddas"
+    },
+    {
+     "name": "Jesse McKeown",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jesse%20McKeown"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
   },
   {
    "name": "Ted Lasso",
@@ -587,53 +748,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
-   "name": "Below",
+   "name": "Silo",
    "cast": [
-    "Josh Hartnett",
-    "Stephen Oates",
-    "Josh Cruddas"
+    "Rebecca Ferguson",
+    "Common",
+    "Chinaza Uche"
    ],
-   "country": "Canada",
-   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
    "genre": [
     "Drama",
-    "Horror",
-    "Thriller"
+    "Mystery",
+    "Sci-Fi"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-10-08T00:00:00.000Z",
+   "imdbRating": "8.1",
+   "released": "2023-05-05T00:00:00.000Z",
+   "year": "2023–",
+   "runtime": "51 min",
+   "status": "Continuing",
+   "director": [],
    "writer": [
-    "Jesse McKeown"
+    "Graham Yost"
    ],
-   "year": "2026–",
+   "background": "https://images.metahub.space/background/medium/tt14688458/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
    "trailers": [
     {
-     "source": "U57CNxSgoss",
+     "source": "8ZYhuvIv1pA",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "runtime": null,
-   "status": "Ended",
-   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
-   "background": "https://images.metahub.space/background/medium/tt35934755/img",
-   "id": "tt35934755",
+   "country": "United States",
+   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
+   "id": "tt14688458",
    "genres": [
-    "Drama",
-    "Mistério"
+    "Sci-Fi & Fantasy",
+    "Drama"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Below",
-     "ytId": "U57CNxSgoss"
+     "title": "Silo",
+     "ytId": "8ZYhuvIv1pA"
     }
    ],
    "links": [
     {
-     "name": "Below",
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt14688458"
+    },
+    {
+     "name": "Silo",
      "category": "share",
-     "url": "https://www.strem.io/s/series/below-35934755"
+     "url": "https://www.strem.io/s/series/silo-14688458"
     },
     {
      "name": "Drama",
@@ -641,9 +808,116 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Horror",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
+    },
+    {
+     "name": "Common",
+     "category": "Cast",
+     "url": "stremio:///search?search=Common"
+    },
+    {
+     "name": "Chinaza Uche",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chinaza%20Uche"
+    },
+    {
+     "name": "Graham Yost",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Yost"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
+  },
+  {
+   "name": "Dark Matter",
+   "cast": [
+    "Joel Edgerton",
+    "Jennifer Connelly",
+    "Alice Braga"
+   ],
+   "country": "United States",
+   "description": "Um homem é raptado e levado para uma versão alternativa da sua vida. No meio da paisagem alucinante das vidas que poderia ter vivido, embarca numa viagem angustiante para reencontrar a sua verdadeira família e salvá-la de um inimigo terrível: ele próprio.",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "released": "2024-05-08T00:00:00.000Z",
+   "writer": [
+    "Blake Crouch"
+   ],
+   "year": "2024–",
+   "trailers": [
+    {
+     "source": "g8p9o-qAdKQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "j6ucGt_Xp14",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "54 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt19231492/img",
+   "logo": "https://images.metahub.space/logo/medium/tt19231492/img",
+   "awards": "Nominated for 1 Primetime Emmy. 5 nominations total",
+   "id": "tt19231492",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Dark Matter",
+     "ytId": "g8p9o-qAdKQ"
+    },
+    {
+     "title": "Dark Matter",
+     "ytId": "j6ucGt_Xp14"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt19231492"
+    },
+    {
+     "name": "Dark Matter",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dark-matter-19231492"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
     },
     {
      "name": "Thriller",
@@ -651,24 +925,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Josh Hartnett",
+     "name": "Joel Edgerton",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
+     "url": "stremio:///search?search=Joel%20Edgerton"
     },
     {
-     "name": "Stephen Oates",
+     "name": "Jennifer Connelly",
      "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Oates"
+     "url": "stremio:///search?search=Jennifer%20Connelly"
     },
     {
-     "name": "Josh Cruddas",
+     "name": "Alice Braga",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Cruddas"
+     "url": "stremio:///search?search=Alice%20Braga"
     },
     {
-     "name": "Jesse McKeown",
+     "name": "Blake Crouch",
      "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20McKeown"
+     "url": "stremio:///search?search=Blake%20Crouch"
     }
    ],
    "behaviorHints": {
@@ -677,75 +951,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
-  },
-  {
-   "id": "tt23148340",
-   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
-   "background": "https://live.metahub.space/background/medium/tt23148340/img",
-   "name": "Crystal Lake",
-   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
-   "genres": [
-    "Mistério",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "Rs49eRHFD9c",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Linda Cardellini",
-    "William Catlett",
-    "Devin Kessler"
-   ],
-   "credits_cast": [
-    {
-     "character": "Pamela Voorhees",
-     "name": "Linda Cardellini",
-     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
-     "id": 1817
-    },
-    {
-     "character": "Levon Brooks",
-     "name": "William Catlett",
-     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
-     "id": 1962720
-    },
-    {
-     "character": "Briana Brooks",
-     "name": "Devin Kessler",
-     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
-     "id": 5399431
-    },
-    {
-     "character": "Dorf",
-     "name": "Cameron Scoggins",
-     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
-     "id": 1098958
-    },
-    {
-     "character": "Grace Snell",
-     "name": "Gwendolyn Sundstrom",
-     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
-     "id": 5503263
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.7",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
   },
   {
    "name": "Animals",
@@ -867,59 +1073,66 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "Silo",
+   "awards": "Nominated for 1 Primetime Emmy. 4 wins & 16 nominations total",
    "cast": [
-    "Rebecca Ferguson",
-    "Common",
-    "Chinaza Uche"
+    "Simon Baker",
+    "Robin Tunney",
+    "Tim Kang"
    ],
-   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
+   "country": "United States",
+   "description": "Patrick Jane é um consultor independente para o California Bureau of Investigation (CBI). Ex-golpista, antes disso ele fingia ser um psíquico e médium. Cinco anos antes dos eventos do episódio piloto, Jane foi à televisão e disse que suas habilidades ajudaram a polícia a fazer o perfil de um serial killer chamado Red John. Este, então, furioso com a mentira, vingou-se matando a mulher e a filha de Patrick. Ele, então, juntou-se à equipe da Agente Teresa Lisbon (Robin Tunney) e utiliza sua alta capacidade de observação para ajudar a encontrar o assassino de sua família. ",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
+    "Crime",
     "Drama",
-    "Mystery",
-    "Sci-Fi"
+    "Mystery"
    ],
-   "imdbRating": "8.1",
-   "released": "2023-05-05T00:00:00.000Z",
-   "year": "2023–",
-   "runtime": "51 min",
-   "status": "Continuing",
-   "director": [],
+   "imdbRating": "8.2",
+   "name": "The Mentalist",
+   "released": "2008-09-23T00:00:00.000Z",
+   "runtime": "43 min",
+   "status": "Ended",
    "writer": [
-    "Graham Yost"
+    "Bruno Heller"
    ],
-   "background": "https://images.metahub.space/background/medium/tt14688458/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+   "year": "2008–2015",
+   "background": "https://images.metahub.space/background/medium/tt1196946/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
    "trailers": [
     {
-     "source": "8ZYhuvIv1pA",
+     "source": "nn2Q69pSC_M",
      "type": "Trailer"
     }
    ],
-   "country": "United States",
-   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
-   "id": "tt14688458",
+   "id": "tt1196946",
    "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
+    "Crime",
+    "Drama",
+    "Mistério"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2008",
    "trailerStreams": [
     {
-     "title": "Silo",
-     "ytId": "8ZYhuvIv1pA"
+     "title": "The Mentalist",
+     "ytId": "nn2Q69pSC_M"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "8.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt14688458"
+     "url": "https://imdb.com/title/tt1196946"
     },
     {
-     "name": "Silo",
+     "name": "The Mentalist",
      "category": "share",
-     "url": "https://www.strem.io/s/series/silo-14688458"
+     "url": "https://www.strem.io/s/series/the-mentalist-1196946"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -932,29 +1145,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Rebecca Ferguson",
+     "name": "Simon Baker",
      "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Ferguson"
+     "url": "stremio:///search?search=Simon%20Baker"
     },
     {
-     "name": "Common",
+     "name": "Robin Tunney",
      "category": "Cast",
-     "url": "stremio:///search?search=Common"
+     "url": "stremio:///search?search=Robin%20Tunney"
     },
     {
-     "name": "Chinaza Uche",
+     "name": "Tim Kang",
      "category": "Cast",
-     "url": "stremio:///search?search=Chinaza%20Uche"
+     "url": "stremio:///search?search=Tim%20Kang"
     },
     {
-     "name": "Graham Yost",
+     "name": "Bruno Heller",
      "category": "Writers",
-     "url": "stremio:///search?search=Graham%20Yost"
+     "url": "stremio:///search?search=Bruno%20Heller"
     }
    ],
    "behaviorHints": {
@@ -963,7 +1171,87 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg"
+  },
+  {
+   "name": "Love of Your Life",
+   "cast": [
+    "Margaret Qualley",
+    "Gabriel Basso",
+    "Catherine Keener"
+   ],
+   "country": "United States",
+   "description": "Realizado por Rachel Morrison, LOVE OF YOUR LIFE segue Maya, cujo encontro fortuito com Charlie desencadeia um romance arrebatador e um futuro para além do que ela tinha imaginado. Quando esse futuro é virado do avesso, Maya é lançada para uma nova e inesperada vida que a vai obrigar a perceber quem é, o que quer e como voltar a amar.",
+   "director": [
+    "Rachel Morrison"
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-10-14T00:00:00.000Z",
+   "writer": [
+    "Julia Cox"
+   ],
+   "year": "2026",
+   "logo": "https://images.metahub.space/logo/medium/tt34384900/img",
+   "background": "https://images.metahub.space/background/medium/tt34384900/img",
+   "id": "tt34384900",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Love of Your Life",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/love-of-your-life-34384900"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Margaret Qualley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Margaret%20Qualley"
+    },
+    {
+     "name": "Gabriel Basso",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gabriel%20Basso"
+    },
+    {
+     "name": "Catherine Keener",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20Keener"
+    },
+    {
+     "name": "Julia Cox",
+     "category": "Writers",
+     "url": "stremio:///search?search=Julia%20Cox"
+    },
+    {
+     "name": "Rachel Morrison",
+     "category": "Directors",
+     "url": "stremio:///search?search=Rachel%20Morrison"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt34384900",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34384900.jpg"
   },
   {
    "name": "Lanterns",
@@ -1075,214 +1363,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
-  },
-  {
-   "name": "Dark Matter",
-   "cast": [
-    "Joel Edgerton",
-    "Jennifer Connelly",
-    "Alice Braga"
-   ],
-   "country": "United States",
-   "description": "Um homem é raptado e levado para uma versão alternativa da sua vida. No meio da paisagem alucinante das vidas que poderia ter vivido, embarca numa viagem angustiante para reencontrar a sua verdadeira família e salvá-la de um inimigo terrível: ele próprio.",
-   "genre": [
-    "Drama",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "imdbRating": "7.6",
-   "released": "2024-05-08T00:00:00.000Z",
-   "writer": [
-    "Blake Crouch"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "g8p9o-qAdKQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "j6ucGt_Xp14",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "54 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt19231492/img",
-   "logo": "https://images.metahub.space/logo/medium/tt19231492/img",
-   "awards": "Nominated for 1 Primetime Emmy. 5 nominations total",
-   "id": "tt19231492",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Dark Matter",
-     "ytId": "g8p9o-qAdKQ"
-    },
-    {
-     "title": "Dark Matter",
-     "ytId": "j6ucGt_Xp14"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt19231492"
-    },
-    {
-     "name": "Dark Matter",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dark-matter-19231492"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Joel Edgerton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joel%20Edgerton"
-    },
-    {
-     "name": "Jennifer Connelly",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jennifer%20Connelly"
-    },
-    {
-     "name": "Alice Braga",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alice%20Braga"
-    },
-    {
-     "name": "Blake Crouch",
-     "category": "Writers",
-     "url": "stremio:///search?search=Blake%20Crouch"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Primetime Emmy. 4 wins & 16 nominations total",
-   "cast": [
-    "Simon Baker",
-    "Robin Tunney",
-    "Tim Kang"
-   ],
-   "country": "United States",
-   "description": "Patrick Jane é um consultor independente para o California Bureau of Investigation (CBI). Ex-golpista, antes disso ele fingia ser um psíquico e médium. Cinco anos antes dos eventos do episódio piloto, Jane foi à televisão e disse que suas habilidades ajudaram a polícia a fazer o perfil de um serial killer chamado Red John. Este, então, furioso com a mentira, vingou-se matando a mulher e a filha de Patrick. Ele, então, juntou-se à equipe da Agente Teresa Lisbon (Robin Tunney) e utiliza sua alta capacidade de observação para ajudar a encontrar o assassino de sua família. ",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "8.2",
-   "name": "The Mentalist",
-   "released": "2008-09-23T00:00:00.000Z",
-   "runtime": "43 min",
-   "status": "Ended",
-   "writer": [
-    "Bruno Heller"
-   ],
-   "year": "2008–2015",
-   "background": "https://images.metahub.space/background/medium/tt1196946/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1196946/img",
-   "trailers": [
-    {
-     "source": "nn2Q69pSC_M",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1196946",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2008",
-   "trailerStreams": [
-    {
-     "title": "The Mentalist",
-     "ytId": "nn2Q69pSC_M"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1196946"
-    },
-    {
-     "name": "The Mentalist",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-mentalist-1196946"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Simon Baker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Simon%20Baker"
-    },
-    {
-     "name": "Robin Tunney",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robin%20Tunney"
-    },
-    {
-     "name": "Tim Kang",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Kang"
-    },
-    {
-     "name": "Bruno Heller",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bruno%20Heller"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg"
   },
   {
    "name": "Spider-Man: Brand New Day",
@@ -1413,84 +1493,97 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22084616.jpg"
   },
   {
-   "name": "Love of Your Life",
+   "name": "The Diplomat",
    "cast": [
-    "Margaret Qualley",
-    "Gabriel Basso",
-    "Catherine Keener"
+    "Keri Russell",
+    "Rufus Sewell",
+    "David Gyasi"
    ],
-   "country": "United States",
-   "description": "Realizado por Rachel Morrison, LOVE OF YOUR LIFE segue Maya, cujo encontro fortuito com Charlie desencadeia um romance arrebatador e um futuro para além do que ela tinha imaginado. Quando esse futuro é virado do avesso, Maya é lançada para uma nova e inesperada vida que a vai obrigar a perceber quem é, o que quer e como voltar a amar.",
-   "director": [
-    "Rachel Morrison"
-   ],
+   "country": "United Kingdom, United States",
+   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
    "genre": [
     "Drama",
-    "Romance"
+    "Thriller"
    ],
-   "imdbRating": "6.5",
-   "released": "2026-10-14T00:00:00.000Z",
+   "imdbRating": "8.0",
+   "released": "2023-04-20T00:00:00.000Z",
    "writer": [
-    "Julia Cox"
+    "Debora Cahn"
    ],
-   "year": "2026",
-   "logo": "https://images.metahub.space/logo/medium/tt34384900/img",
-   "background": "https://images.metahub.space/background/medium/tt34384900/img",
-   "id": "tt34384900",
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "lV6sJlBbhPs",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt17491088/img",
+   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
+   "id": "tt17491088",
    "genres": [
-    "Romance",
-    "Drama"
+    "Drama",
+    "War & Politics"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "The Diplomat",
+     "ytId": "lV6sJlBbhPs"
+    }
+   ],
    "links": [
     {
-     "name": "Love of Your Life",
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt17491088"
+    },
+    {
+     "name": "The Diplomat",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/love-of-your-life-34384900"
+     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Margaret Qualley",
+     "name": "Keri Russell",
      "category": "Cast",
-     "url": "stremio:///search?search=Margaret%20Qualley"
+     "url": "stremio:///search?search=Keri%20Russell"
     },
     {
-     "name": "Gabriel Basso",
+     "name": "Rufus Sewell",
      "category": "Cast",
-     "url": "stremio:///search?search=Gabriel%20Basso"
+     "url": "stremio:///search?search=Rufus%20Sewell"
     },
     {
-     "name": "Catherine Keener",
+     "name": "David Gyasi",
      "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Keener"
+     "url": "stremio:///search?search=David%20Gyasi"
     },
     {
-     "name": "Julia Cox",
+     "name": "Debora Cahn",
      "category": "Writers",
-     "url": "stremio:///search?search=Julia%20Cox"
-    },
-    {
-     "name": "Rachel Morrison",
-     "category": "Directors",
-     "url": "stremio:///search?search=Rachel%20Morrison"
+     "url": "stremio:///search?search=Debora%20Cahn"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt34384900",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34384900.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
    "cast": [
@@ -1687,7 +1780,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "5.7"
+   "imdbRating": "5.8"
   },
   {
    "name": "Neagley",
@@ -1785,179 +1878,95 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33539520.jpg"
   },
   {
-   "name": "Dragon Ball Super: Beerus",
+   "name": "The Gentlemen",
    "cast": [
-    "Kôichi Yamadera",
-    "Masako Nozawa",
-    "Ryô Horikawa"
-   ],
-   "country": "Japan",
-   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
-   "genre": [
-    "Animation"
-   ],
-   "imdbRating": "9.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "iCD3Lf7Jf9o",
-     "type": "Trailer"
-    },
-    {
-     "source": "Tf4wBaSj7SE",
-     "type": "Trailer"
-    },
-    {
-     "source": "Plp6IJ9utjU",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
-   "background": "https://images.metahub.space/background/medium/tt39395275/img",
-   "id": "tt39395275",
-   "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "iCD3Lf7Jf9o"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Tf4wBaSj7SE"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Plp6IJ9utjU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Dragon Ball Super: Beerus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Kôichi Yamadera",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
-    },
-    {
-     "name": "Masako Nozawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Masako%20Nozawa"
-    },
-    {
-     "name": "Ryô Horikawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
-  },
-  {
-   "name": "The Diplomat",
-   "cast": [
-    "Keri Russell",
-    "Rufus Sewell",
-    "David Gyasi"
+    "Theo James",
+    "Kaya Scodelario",
+    "Joely Richardson"
    ],
    "country": "United Kingdom, United States",
-   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
+   "description": "Quando o aristocrata Eddie herda a propriedade da família, nem imagina que esta alberga um enorme império de erva... e que os proprietários estão lá para ficar.",
    "genre": [
-    "Drama",
-    "Thriller"
+    "Action",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "8.0",
-   "released": "2023-04-20T00:00:00.000Z",
+   "imdbRating": "8.1",
+   "released": "2024-03-07T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "53 min",
+   "status": "Continuing",
+   "director": [],
    "writer": [
-    "Debora Cahn"
+    "Guy Ritchie"
    ],
-   "year": "2023–",
    "trailers": [
     {
-     "source": "lV6sJlBbhPs",
+     "source": "wyEOwHrpZH4",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "runtime": "49 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt17491088/img",
-   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
-   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
-   "id": "tt17491088",
+   "background": "https://images.metahub.space/background/medium/tt13210838/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
+   "awards": "Won 1 Primetime Emmy. 4 wins & 30 nominations total",
+   "id": "tt13210838",
    "genres": [
+    "Comédia",
     "Drama",
-    "War & Politics"
+    "Crime"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "The Diplomat",
-     "ytId": "lV6sJlBbhPs"
+     "title": "The Gentlemen",
+     "ytId": "wyEOwHrpZH4"
     }
    ],
    "links": [
     {
      "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt17491088"
+     "url": "https://imdb.com/title/tt13210838"
     },
     {
-     "name": "The Diplomat",
+     "name": "The Gentlemen",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
+     "url": "https://www.strem.io/s/series/the-gentlemen-13210838"
     },
     {
-     "name": "Drama",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Thriller",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Keri Russell",
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Theo James",
      "category": "Cast",
-     "url": "stremio:///search?search=Keri%20Russell"
+     "url": "stremio:///search?search=Theo%20James"
     },
     {
-     "name": "Rufus Sewell",
+     "name": "Kaya Scodelario",
      "category": "Cast",
-     "url": "stremio:///search?search=Rufus%20Sewell"
+     "url": "stremio:///search?search=Kaya%20Scodelario"
     },
     {
-     "name": "David Gyasi",
+     "name": "Joely Richardson",
      "category": "Cast",
-     "url": "stremio:///search?search=David%20Gyasi"
+     "url": "stremio:///search?search=Joely%20Richardson"
     },
     {
-     "name": "Debora Cahn",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Debora%20Cahn"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
@@ -1966,7 +1975,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13210838.jpg"
   }
  ]
 }

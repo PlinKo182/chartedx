@@ -124,7 +124,7 @@
    "director": [
     "Benjamin Forman"
    ],
-   "imdbRating": "9.3",
+   "imdbRating": "9.1",
    "language": "English",
    "country": "United States",
    "behaviorHints": {
@@ -134,25 +134,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33504891.jpg"
-  },
-  {
-   "cast": [
-    "Bonnie Lou Gower⁩",
-    "Kara Robinson Chamberlain",
-    "Richard Evonitz⁩⁩"
-   ],
-   "id": "tt46066662",
-   "type": "series",
-   "name": "The Serial Killer Connection",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
-   "description": "Bonnie Lou descobriu que o ex-marido, Richard Evonitz, era um serial killer. Ela se une a Kara Robinson, que escapou dele e ajudou a revelar os crimes do assassino. Juntas, investigam assassinatos ainda sem solução para descobrir se ele fez mais vítimas.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "imdbRating": "7.5"
   },
   {
    "id": "tt46683025",
@@ -177,7 +158,26 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "6.4"
+   "imdbRating": "6.5"
+  },
+  {
+   "cast": [
+    "Bonnie Lou Gower⁩",
+    "Kara Robinson Chamberlain",
+    "Richard Evonitz⁩⁩"
+   ],
+   "id": "tt46066662",
+   "type": "series",
+   "name": "The Serial Killer Connection",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
+   "description": "Bonnie Lou descobriu que o ex-marido, Richard Evonitz, era um serial killer. Ela se une a Kara Robinson, que escapou dele e ajudou a revelar os crimes do assassino. Juntas, investigam assassinatos ainda sem solução para descobrir se ele fez mais vítimas.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "imdbRating": "7.3"
   },
   {
    "id": "tt18225078",
@@ -224,36 +224,121 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18225078.jpg"
   },
   {
-   "id": "tt31719701",
-   "logo": "https://live.metahub.space/logo/medium/tt31719701/img",
-   "background": "https://live.metahub.space/background/medium/tt31719701/img",
-   "name": "Drink: A Look Inside the Glass",
-   "description": "An epic adventure into the stories of the world's most renowned alcohol producers. Each episode focuses on a single drink and its premier maker as they reveal the history, process, and craft that goes into every bottle.",
+   "id": "tt43702035",
+   "logo": "https://live.metahub.space/logo/medium/tt43702035/img",
+   "background": "https://live.metahub.space/background/medium/tt43702035/img",
+   "name": "Marília Mendonça: All the Feels",
+   "description": "A produção retratará a trajetória de vida e a carreira meteórica de uma das maiores vozes do sertanejo brasileiro: Marília Mendonça — a artista feminina mais ouvida do país. O projeto revisita os passos de uma cantora que marcou uma geração e transformou, para sempre, o cenário da música nacional. Com acesso exclusivo a arquivos pessoais e depoimentos de amigos, familiares e parceiros de estrada, a produção revela os bastidores de uma carreira construída com verdade, talento e emoção. Marília conquistou uma legião de fãs com seu carisma e seu amor incondicional pela música.",
    "genres": [
     "Documentário"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2026",
    "status": "Continuing",
-   "trailers": [
+   "trailers": [],
+   "cast": [
+    "Marília Mendonça"
+   ],
+   "credits_cast": [
     {
-     "source": "7J_X2HIrg7M",
-     "type": "Trailer"
+     "character": "Self (archive footage)",
+     "name": "Marília Mendonça",
+     "profile_path": "/kIzf2eHErDmEoQUDFCZhNohQaeE.jpg",
+     "id": 2319763
     }
    ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "8.5",
-   "language": "English",
-   "country": "Canada",
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Susanna Lira",
+     "profile_path": "/atnfLvfcUx7PaBXLzyHUb4e5GjF.jpg",
+     "id": 1454889
+    }
+   ],
+   "director": [
+    "Susanna Lira"
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31719701.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43702035.jpg",
+   "imdbRating": "9.2"
+  },
+  {
+   "name": "Norm: The Tale of Norm MacDonald",
+   "cast": [
+    "Norm MacDonald"
+   ],
+   "country": "United States",
+   "description": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+   "director": [
+    "Judd Apatow"
+   ],
+   "genre": [
+    "Documentary",
+    "Biography"
+   ],
+   "imdbRating": "8.1",
+   "released": "2026-10-16T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "dIBNCBAzBos",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt44822485/img",
+   "background": "https://images.metahub.space/background/medium/tt44822485/img",
+   "id": "tt44822485",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Norm: The Tale of Norm MacDonald",
+     "ytId": "dIBNCBAzBos"
+    }
+   ],
+   "links": [
+    {
+     "name": "Norm: The Tale of Norm MacDonald",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/norm-the-tale-of-norm-macdonald-44822485"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Norm MacDonald",
+     "category": "Cast",
+     "url": "stremio:///search?search=Norm%20MacDonald"
+    },
+    {
+     "name": "Judd Apatow",
+     "category": "Directors",
+     "url": "stremio:///search?search=Judd%20Apatow"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt44822485",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg"
   },
   {
    "awards": "2 nominations",
@@ -341,6 +426,38 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1800308.jpg"
+  },
+  {
+   "id": "tt31719701",
+   "logo": "https://live.metahub.space/logo/medium/tt31719701/img",
+   "background": "https://live.metahub.space/background/medium/tt31719701/img",
+   "name": "Drink: A Look Inside the Glass",
+   "description": "An epic adventure into the stories of the world's most renowned alcohol producers. Each episode focuses on a single drink and its premier maker as they reveal the history, process, and craft that goes into every bottle.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2024",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "7J_X2HIrg7M",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "8.5",
+   "language": "English",
+   "country": "Canada",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31719701.jpg"
   },
   {
    "name": "The Rehearsal",
@@ -434,112 +551,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
-  },
-  {
-   "id": "tt28224610",
-   "logo": "https://live.metahub.space/logo/medium/tt28224610/img",
-   "background": "https://live.metahub.space/background/medium/tt28224610/img",
-   "name": "Sam & Colby",
-   "description": "Join Sam and Colby as they explore and document the creepiest haunted sites. Maintaining their infectious humor in even the darkest of situations, paranormal investigation has never been more fun.",
-   "genres": [
-    "Reality",
-    "Comédia",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2023",
-   "status": "Continuing",
-   "runtime": "55 min",
-   "trailers": [],
-   "cast": [
-    "Sam Golbach",
-    "Colby Brock"
-   ],
-   "credits_cast": [
-    {
-     "character": "Sam",
-     "name": "Sam Golbach",
-     "profile_path": null,
-     "id": 1908920
-    },
-    {
-     "character": "Colby",
-     "name": "Colby Brock",
-     "profile_path": null,
-     "id": 4333959
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "5.6",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28224610.jpg"
-  },
-  {
-   "id": "tt27788353",
-   "logo": "https://live.metahub.space/logo/medium/tt27788353/img",
-   "background": "https://live.metahub.space/background/medium/tt27788353/img",
-   "name": "Under Deadly Skies: Ukraine's Eastern Front",
-   "description": "Veteran war reporter John Sweeney and Byline TV filmmaker Caolan Robertson hit the road with war photographer Paul Conroy and journalist Zarina Zabrisky to gather compelling evidence for the use of illegal weapons and the torture of civilians in Ukraine, as well as examining the reality of life and conditions faced by ordinary people on Ukraine's eastern front.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2023",
-   "runtime": "57 min",
-   "trailers": [],
-   "cast": [
-    "Paul Conroy",
-    "John Sweeney",
-    "Zarina Zabrisky"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Paul Conroy",
-     "profile_path": null,
-     "id": 2969665
-    },
-    {
-     "character": "",
-     "name": "John Sweeney",
-     "profile_path": "/6LCWjm9JkStJW0tbsL42LoqMpN6.jpg",
-     "id": 1150525
-    },
-    {
-     "character": "",
-     "name": "Zarina Zabrisky",
-     "profile_path": "/dm6UtYXo1oc1kAEpBtonOsCxFjE.jpg",
-     "id": 5548211
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Caolan Robertson",
-     "profile_path": null,
-     "id": 2090523
-    }
-   ],
-   "director": [
-    "Caolan Robertson"
-   ],
-   "imdbRating": "7.7",
-   "language": "English",
-   "country": "United Kingdom",
-   "behaviorHints": {
-    "defaultVideoId": "tt27788353",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27788353.jpg"
   }
  ]
 }

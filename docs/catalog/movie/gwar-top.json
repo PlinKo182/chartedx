@@ -270,104 +270,121 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2119532.jpg"
   },
   {
-   "name": "Legend of Destruction",
-   "awards": "4 wins & 3 nominations",
+   "awards": "Won 5 Oscars. 79 wins & 75 nominations total",
    "cast": [
-    "Evangeline Lilly",
-    "Elliott Gould",
-    "Oscar Isaac"
+    "Tom Hanks",
+    "Matt Damon",
+    "Tom Sizemore"
    ],
-   "country": "Israel",
-   "description": "The story of the Jewish revolt against Rome, which ended with the destruction of the Temple in the year 70.",
+   "country": "United States",
+   "description": "6 de Junho de 1944. Dia D. Nas praias da Normandia, poderosas forças militares confrontam-se numa batalha que vai decidir o curso da guerra. Soldados americanos, liderados pelo capitão John Miller, cumprem uma arriscada missão para encontrar o soldado James Ryan. Por que razão se arriscam as vidas de oito... para salvar um só homem?!",
    "director": [
-    "Gidi Dar"
+    "Steven Spielberg"
    ],
+   "dvdRelease": "2016-05-27T00:00:00.000Z",
    "genre": [
-    "Animation"
+    "Drama",
+    "War"
    ],
-   "imdbRating": "7.8",
-   "released": "2024-06-04T00:00:00.000Z",
-   "runtime": "93 min",
-   "writer": [
-    "Gidi Dar",
-    "Shuli Rand"
-   ],
-   "year": "2021",
+   "imdbRating": "8.6",
+   "name": "Saving Private Ryan",
+   "released": "1998-07-24T00:00:00.000Z",
+   "runtime": "169 min",
    "trailers": [
     {
-     "source": "DIvPLLijae0",
+     "source": "y4SA9yUDgW8",
+     "type": "Trailer"
+    },
+    {
+     "source": "PrthROm6ocY",
+     "type": "Trailer"
+    },
+    {
+     "source": "RYExstiQlLc",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt4534598/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4534598/img",
-   "id": "tt4534598",
-   "genres": [
-    "Animação",
-    "História",
-    "Guerra"
+   "writer": [
+    "Robert Rodat"
    ],
-   "releaseInfo": "2021",
+   "year": "1998",
+   "background": "https://images.metahub.space/background/medium/tt0120815/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0120815/img",
+   "id": "tt0120815",
+   "genres": [
+    "Guerra",
+    "Drama",
+    "História"
+   ],
+   "releaseInfo": "1998",
    "trailerStreams": [
     {
-     "title": "Legend of Destruction",
-     "ytId": "DIvPLLijae0"
+     "title": "Saving Private Ryan",
+     "ytId": "y4SA9yUDgW8"
+    },
+    {
+     "title": "Saving Private Ryan",
+     "ytId": "PrthROm6ocY"
+    },
+    {
+     "title": "Saving Private Ryan",
+     "ytId": "RYExstiQlLc"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4534598"
+     "url": "https://imdb.com/title/tt0120815"
     },
     {
-     "name": "Legend of Destruction",
+     "name": "Saving Private Ryan",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/legend-of-destruction-4534598"
+     "url": "https://www.strem.io/s/movie/saving-private-ryan-0120815"
     },
     {
-     "name": "Animation",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Evangeline Lilly",
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Tom Hanks",
      "category": "Cast",
-     "url": "stremio:///search?search=Evangeline%20Lilly"
+     "url": "stremio:///search?search=Tom%20Hanks"
     },
     {
-     "name": "Elliott Gould",
+     "name": "Matt Damon",
      "category": "Cast",
-     "url": "stremio:///search?search=Elliott%20Gould"
+     "url": "stremio:///search?search=Matt%20Damon"
     },
     {
-     "name": "Oscar Isaac",
+     "name": "Tom Sizemore",
      "category": "Cast",
-     "url": "stremio:///search?search=Oscar%20Isaac"
+     "url": "stremio:///search?search=Tom%20Sizemore"
     },
     {
-     "name": "Gidi Dar",
+     "name": "Robert Rodat",
      "category": "Writers",
-     "url": "stremio:///search?search=Gidi%20Dar"
+     "url": "stremio:///search?search=Robert%20Rodat"
     },
     {
-     "name": "Shuli Rand",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shuli%20Rand"
-    },
-    {
-     "name": "Gidi Dar",
+     "name": "Steven Spielberg",
      "category": "Directors",
-     "url": "stremio:///search?search=Gidi%20Dar"
+     "url": "stremio:///search?search=Steven%20Spielberg"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4534598",
+    "defaultVideoId": "tt0120815",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4534598.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120815.jpg"
   },
   {
    "name": "Oppenheimer",
@@ -504,70 +521,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15398776.jpg"
   },
   {
-   "awards": "Won 3 Oscars. 109 wins & 115 nominations total",
-   "cast": [
-    "Ivana Baquero",
-    "Ariadna Gil",
-    "Sergi López"
-   ],
-   "country": "Mexico, Spain",
-   "description": "Ofélia, uma sonhadora com 10 anos, muda-se para Navarra com a sua mãe, grávida e frágil para conhecer pessoalmente o seu novo padrasto, Capitão Vidal, um oficial fascista com ordens para eliminar os rebeldes do território remoto. Capitão Vidal instala-se numa velha fábrica. Arrogante e intimidador, não faz qualquer esforço para se aproximar da enteada. Sozinha, a criança, em busca de companhia, recorre a Mercedes, uma jovem cozinheira que trabalha para as tropas de Vidal. Ofélia, fascinada por contos de fadas, descobre um grandioso labirinto a desmoronar-se atrás da fábrica. No centro do labirinto ela conhece Pan, um velho brincalhão que diz saber a verdadeira identidade e o destino secreto de Ofélia. Ela é uma princesa, a filha desaparecida do Rei das Fadas. Pan oferece-lhe a oportunidade de voltar ao subterrâneo e governar o reino mágico do pai. Mas primeiro, ela deve executar três tarefas antes da lua cheia.",
-   "director": [
-    "Guillermo del Toro"
-   ],
-   "dvdRelease": "2010-08-01T00:00:00.000Z",
+   "name": "The Last Face",
+   "year": "2016",
+   "runtime": "130 min",
    "genre": [
-    "Drama",
-    "Fantasy",
-    "War"
+    "Action",
+    "Adventure",
+    "Drama"
    ],
-   "imdbRating": "8.2",
-   "name": "Pan's Labyrinth",
-   "released": "2007-01-19T00:00:00.000Z",
-   "runtime": "118 min",
+   "released": "2017-07-28T00:00:00.000Z",
+   "director": [
+    "Sean Penn"
+   ],
+   "writer": [
+    "Erin Dignam"
+   ],
+   "cast": [
+    "Charlize Theron",
+    "Javier Bardem",
+    "Brandon Phillips"
+   ],
+   "imdbRating": "5.1",
+   "description": "Um caso de amor entre o Dr. Miguel Leon, um médico socorrista, e a Dra. Wren Petersen, a diretora de uma agência humanitária de ajuda internacional. Contra o devastado pano de fundo provocado pela guerra na Libéria, Miguel e Wren devem encontrar uma maneira de manter a sua relação viva em condições extraordinariamente difíceis lutando a sua paixão mútua pelo valor da vida combinada com a intensidade das suas opiniões diametralmente opostas e sobre a melhor maneira de resolver as atrocidades que os rodeia.",
+   "country": "United States",
+   "awards": "1 win & 1 nomination total",
+   "dvdRelease": "2017-07-28T00:00:00.000Z",
    "trailers": [
     {
-     "source": "6tYUOAMsydg",
-     "type": "Trailer"
-    },
-    {
-     "source": "jVZRnnVSQ8k",
+     "source": "7Ln9yRHVshQ",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Guillermo del Toro"
-   ],
-   "year": "2007",
-   "background": "https://images.metahub.space/background/medium/tt0457430/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0457430/img",
-   "id": "tt0457430",
+   "background": "https://images.metahub.space/background/medium/tt3286560/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3286560/img",
+   "id": "tt3286560",
    "genres": [
-    "Fantasia",
-    "Drama",
-    "Guerra"
+    "Drama"
    ],
-   "releaseInfo": "2006",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Pan's Labyrinth",
-     "ytId": "6tYUOAMsydg"
-    },
-    {
-     "title": "Pan's Labyrinth",
-     "ytId": "jVZRnnVSQ8k"
+     "title": "The Last Face",
+     "ytId": "7Ln9yRHVshQ"
     }
    ],
    "links": [
     {
-     "name": "8.2",
+     "name": "5.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0457430"
+     "url": "https://imdb.com/title/tt3286560"
     },
     {
-     "name": "Pan's Labyrinth",
+     "name": "The Last Face",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/pans-labyrinth-0457430"
+     "url": "https://www.strem.io/s/movie/the-last-face-3286560"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
      "name": "Drama",
@@ -575,48 +592,38 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
-    },
-    {
-     "name": "Ivana Baquero",
+     "name": "Charlize Theron",
      "category": "Cast",
-     "url": "stremio:///search?search=Ivana%20Baquero"
+     "url": "stremio:///search?search=Charlize%20Theron"
     },
     {
-     "name": "Ariadna Gil",
+     "name": "Javier Bardem",
      "category": "Cast",
-     "url": "stremio:///search?search=Ariadna%20Gil"
+     "url": "stremio:///search?search=Javier%20Bardem"
     },
     {
-     "name": "Sergi López",
+     "name": "Brandon Phillips",
      "category": "Cast",
-     "url": "stremio:///search?search=Sergi%20L%C3%B3pez"
+     "url": "stremio:///search?search=Brandon%20Phillips"
     },
     {
-     "name": "Guillermo del Toro",
+     "name": "Erin Dignam",
      "category": "Writers",
-     "url": "stremio:///search?search=Guillermo%20del%20Toro"
+     "url": "stremio:///search?search=Erin%20Dignam"
     },
     {
-     "name": "Guillermo del Toro",
+     "name": "Sean Penn",
      "category": "Directors",
-     "url": "stremio:///search?search=Guillermo%20del%20Toro"
+     "url": "stremio:///search?search=Sean%20Penn"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0457430",
+    "defaultVideoId": "tt3286560",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0457430.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3286560.jpg"
   },
   {
    "awards": "Won 2 Oscars. 21 wins & 33 nominations total",
@@ -753,262 +760,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0078788.jpg"
   },
   {
-   "name": "Band of Brothers: Legacy",
+   "awards": "37 wins & 76 nominations total",
    "cast": [
-    "Nicholas Aaron",
-    "Christian Black",
-    "Michael Cudlitz"
+    "Gal Gadot",
+    "Chris Pine",
+    "Robin Wright"
    ],
-   "country": "United States",
-   "description": "Uma homenagem documental à série que ajudou a preservar a história da Easy Company, em consonância com o 25º aniversário da série limitada original da HBO.",
+   "country": "United States, China, Hong Kong",
+   "description": "Antes de ser a Mulher-Maravilha, era Diana, a princesa das Amazonas, treinada para ser uma guerreira invencível. Criada numa ilha paradisíaca protegida do mundo exterior, é quando um piloto americano que cai nas suas águas e fala sobre o enorme conflito que acontece no mundo, Diana deixa a sua casa, convencida que pode parar essa ameaça. A combater ao lado de homens numa guerra para acabar todas as guerras, Diana irá descobrir a capacidade máxima dos seus poderes… e o seu verdadeiro destino.",
    "director": [
-    "Chase Millsap"
+    "Patty Jenkins"
    ],
-   "genre": [
-    "Documentary"
-   ],
-   "imdbRating": "8.3",
-   "released": "2026-09-09T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "60 min",
-   "trailers": [
-    {
-     "source": "IjLg0X59fMA",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt33510831/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33510831/img",
-   "id": "tt33510831",
-   "genres": [
-    "Documentário",
-    "Guerra"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Band of Brothers: Legacy",
-     "ytId": "IjLg0X59fMA"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33510831"
-    },
-    {
-     "name": "Band of Brothers: Legacy",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/band-of-brothers-legacy-33510831"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Nicholas Aaron",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicholas%20Aaron"
-    },
-    {
-     "name": "Christian Black",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Black"
-    },
-    {
-     "name": "Michael Cudlitz",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Cudlitz"
-    },
-    {
-     "name": "Chase Millsap",
-     "category": "Directors",
-     "url": "stremio:///search?search=Chase%20Millsap"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt33510831",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33510831.jpg"
-  },
-  {
-   "awards": "Won 5 Oscars. 79 wins & 75 nominations total",
-   "cast": [
-    "Tom Hanks",
-    "Matt Damon",
-    "Tom Sizemore"
-   ],
-   "country": "United States",
-   "description": "6 de Junho de 1944. Dia D. Nas praias da Normandia, poderosas forças militares confrontam-se numa batalha que vai decidir o curso da guerra. Soldados americanos, liderados pelo capitão John Miller, cumprem uma arriscada missão para encontrar o soldado James Ryan. Por que razão se arriscam as vidas de oito... para salvar um só homem?!",
-   "director": [
-    "Steven Spielberg"
-   ],
-   "dvdRelease": "2016-05-27T00:00:00.000Z",
-   "genre": [
-    "Drama",
-    "War"
-   ],
-   "imdbRating": "8.6",
-   "name": "Saving Private Ryan",
-   "released": "1998-07-24T00:00:00.000Z",
-   "runtime": "169 min",
-   "trailers": [
-    {
-     "source": "y4SA9yUDgW8",
-     "type": "Trailer"
-    },
-    {
-     "source": "PrthROm6ocY",
-     "type": "Trailer"
-    },
-    {
-     "source": "RYExstiQlLc",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Robert Rodat"
-   ],
-   "year": "1998",
-   "background": "https://images.metahub.space/background/medium/tt0120815/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0120815/img",
-   "id": "tt0120815",
-   "genres": [
-    "Guerra",
-    "Drama",
-    "História"
-   ],
-   "releaseInfo": "1998",
-   "trailerStreams": [
-    {
-     "title": "Saving Private Ryan",
-     "ytId": "y4SA9yUDgW8"
-    },
-    {
-     "title": "Saving Private Ryan",
-     "ytId": "PrthROm6ocY"
-    },
-    {
-     "title": "Saving Private Ryan",
-     "ytId": "RYExstiQlLc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0120815"
-    },
-    {
-     "name": "Saving Private Ryan",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/saving-private-ryan-0120815"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
-    },
-    {
-     "name": "Tom Hanks",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
-    },
-    {
-     "name": "Matt Damon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Damon"
-    },
-    {
-     "name": "Tom Sizemore",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Sizemore"
-    },
-    {
-     "name": "Robert Rodat",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Rodat"
-    },
-    {
-     "name": "Steven Spielberg",
-     "category": "Directors",
-     "url": "stremio:///search?search=Steven%20Spielberg"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0120815",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120815.jpg"
-  },
-  {
-   "name": "The Last Face",
-   "year": "2016",
-   "runtime": "130 min",
+   "dvdRelease": "2017-07-10T00:00:00.000Z",
    "genre": [
     "Action",
     "Adventure",
-    "Drama"
+    "Fantasy"
    ],
-   "released": "2017-07-28T00:00:00.000Z",
-   "director": [
-    "Sean Penn"
-   ],
-   "writer": [
-    "Erin Dignam"
-   ],
-   "cast": [
-    "Charlize Theron",
-    "Javier Bardem",
-    "Brandon Phillips"
-   ],
-   "imdbRating": "5.1",
-   "description": "Um caso de amor entre o Dr. Miguel Leon, um médico socorrista, e a Dra. Wren Petersen, a diretora de uma agência humanitária de ajuda internacional. Contra o devastado pano de fundo provocado pela guerra na Libéria, Miguel e Wren devem encontrar uma maneira de manter a sua relação viva em condições extraordinariamente difíceis lutando a sua paixão mútua pelo valor da vida combinada com a intensidade das suas opiniões diametralmente opostas e sobre a melhor maneira de resolver as atrocidades que os rodeia.",
-   "country": "United States",
-   "awards": "1 win & 1 nomination total",
-   "dvdRelease": "2017-07-28T00:00:00.000Z",
+   "imdbRating": "7.3",
+   "name": "Wonder Woman",
+   "released": "2017-06-02T00:00:00.000Z",
+   "runtime": "141 min",
    "trailers": [
     {
-     "source": "7Ln9yRHVshQ",
+     "source": "VSB4wGIdDwo",
+     "type": "Trailer"
+    },
+    {
+     "source": "INLzqh7rZ-U",
+     "type": "Trailer"
+    },
+    {
+     "source": "1Q8fG0TtVAY",
+     "type": "Trailer"
+    },
+    {
+     "source": "5lGoQhFb4NM",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt3286560/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3286560/img",
-   "id": "tt3286560",
+   "writer": [
+    "Allan Heinberg",
+    "Zack Snyder",
+    "Jason Fuchs"
+   ],
+   "year": "2017",
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fwonderwoman_191725%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fwonderwoman_191725%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.40/ImageRenderer/111/168/images/no_image_111x168.jpg/191725/images/masterrepository/fandango/191725/wonderwoman-posterart.jpg\" alt=\"Wonder Woman\" title=\"Wonder Woman\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fwonderwoman_191725%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.40//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fwonderwoman-trailer%2f191725%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
+   "background": "https://images.metahub.space/background/medium/tt0451279/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0451279/img",
+   "id": "tt0451279",
    "genres": [
-    "Drama"
+    "Ação",
+    "Aventura",
+    "Fantasia"
    ],
    "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "The Last Face",
-     "ytId": "7Ln9yRHVshQ"
+     "title": "Wonder Woman",
+     "ytId": "VSB4wGIdDwo"
+    },
+    {
+     "title": "Wonder Woman",
+     "ytId": "INLzqh7rZ-U"
+    },
+    {
+     "title": "Wonder Woman",
+     "ytId": "1Q8fG0TtVAY"
+    },
+    {
+     "title": "Wonder Woman",
+     "ytId": "5lGoQhFb4NM"
     }
    ],
    "links": [
     {
-     "name": "5.0",
+     "name": "7.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3286560"
+     "url": "https://imdb.com/title/tt0451279"
     },
     {
-     "name": "The Last Face",
+     "name": "Wonder Woman",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-last-face-3286560"
+     "url": "https://www.strem.io/s/movie/wonder-woman-0451279"
     },
     {
      "name": "Action",
@@ -1021,150 +858,407 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Gal Gadot",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gal%20Gadot"
+    },
+    {
+     "name": "Chris Pine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Pine"
+    },
+    {
+     "name": "Robin Wright",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robin%20Wright"
+    },
+    {
+     "name": "Allan Heinberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Allan%20Heinberg"
+    },
+    {
+     "name": "Zack Snyder",
+     "category": "Writers",
+     "url": "stremio:///search?search=Zack%20Snyder"
+    },
+    {
+     "name": "Jason Fuchs",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Fuchs"
+    },
+    {
+     "name": "Patty Jenkins",
+     "category": "Directors",
+     "url": "stremio:///search?search=Patty%20Jenkins"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0451279",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0451279.jpg"
+  },
+  {
+   "name": "The Covenant",
+   "cast": [
+    "Jake Gyllenhaal",
+    "Dar Salim",
+    "Sean Sagar"
+   ],
+   "country": "United Kingdom, Spain, United States",
+   "description": "Um sargento do Exército é resgatado de uma missão no Afeganistão pelo seu intérprete. Naquela que seria a sua última missão no estrangeiro, Kinley fica à beira da morte mas sobrevive graças a Ahmed, que o protege e o carrega durante quilómetros a fim de garantir a sua segurança. E vida. Sem se lembrar muito bem do que aconteceu, o sargento apenas sabe que quando o homem se encontra em risco de vida, como a sua família, é a sua verdadeira missão retribuir o favor e ajudá-lo a sobreviver.",
+   "director": [
+    "Guy Ritchie"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.5",
+   "released": "2023-04-21T00:00:00.000Z",
+   "writer": [
+    "Guy Ritchie",
+    "Ivan Atkinson",
+    "Marn Davies"
+   ],
+   "year": "2023",
+   "trailers": [
+    {
+     "source": "02PPMPArNEQ",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt4873118/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4873118/img",
+   "runtime": "123 min",
+   "awards": "1 win & 3 nominations total",
+   "id": "tt4873118",
+   "genres": [
+    "Guerra",
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "The Covenant",
+     "ytId": "02PPMPArNEQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4873118"
+    },
+    {
+     "name": "The Covenant",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-covenant-4873118"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Charlize Theron",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlize%20Theron"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Javier Bardem",
+     "name": "Jake Gyllenhaal",
      "category": "Cast",
-     "url": "stremio:///search?search=Javier%20Bardem"
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
     },
     {
-     "name": "Brandon Phillips",
+     "name": "Dar Salim",
      "category": "Cast",
-     "url": "stremio:///search?search=Brandon%20Phillips"
+     "url": "stremio:///search?search=Dar%20Salim"
     },
     {
-     "name": "Erin Dignam",
+     "name": "Sean Sagar",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sean%20Sagar"
+    },
+    {
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Erin%20Dignam"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     },
     {
-     "name": "Sean Penn",
+     "name": "Ivan Atkinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ivan%20Atkinson"
+    },
+    {
+     "name": "Marn Davies",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marn%20Davies"
+    },
+    {
+     "name": "Guy Ritchie",
      "category": "Directors",
-     "url": "stremio:///search?search=Sean%20Penn"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt3286560",
+    "defaultVideoId": "tt4873118",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3286560.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4873118.jpg"
   },
   {
-   "id": "tt3839906",
-   "logo": "https://live.metahub.space/logo/medium/tt3839906/img",
-   "background": "https://live.metahub.space/background/medium/tt3839906/img",
-   "name": "Track 143",
-   "description": "Olfat is raising her children in hardship. She has one daughter and one son called Yonos who works in Kerman copper mine. One day, she finds a note at home with this massage \"My friends and I are going to enter the war as soldiers\". After reading this note, Olfat and his friend's parents got worried about their sons. When operation Valfajr failed, they received news about Yonos's friend. Olfat is waiting for her son too. As she finds out that the Iraqi radio announces the Iranian captives' names, she ties a radio on her back and carries it everywhere.",
+   "awards": "Won 3 Oscars. 109 wins & 115 nominations total",
+   "cast": [
+    "Ivana Baquero",
+    "Ariadna Gil",
+    "Sergi López"
+   ],
+   "country": "Mexico, Spain",
+   "description": "Ofélia, uma sonhadora com 10 anos, muda-se para Navarra com a sua mãe, grávida e frágil para conhecer pessoalmente o seu novo padrasto, Capitão Vidal, um oficial fascista com ordens para eliminar os rebeldes do território remoto. Capitão Vidal instala-se numa velha fábrica. Arrogante e intimidador, não faz qualquer esforço para se aproximar da enteada. Sozinha, a criança, em busca de companhia, recorre a Mercedes, uma jovem cozinheira que trabalha para as tropas de Vidal. Ofélia, fascinada por contos de fadas, descobre um grandioso labirinto a desmoronar-se atrás da fábrica. No centro do labirinto ela conhece Pan, um velho brincalhão que diz saber a verdadeira identidade e o destino secreto de Ofélia. Ela é uma princesa, a filha desaparecida do Rei das Fadas. Pan oferece-lhe a oportunidade de voltar ao subterrâneo e governar o reino mágico do pai. Mas primeiro, ela deve executar três tarefas antes da lua cheia.",
+   "director": [
+    "Guillermo del Toro"
+   ],
+   "dvdRelease": "2010-08-01T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Fantasy",
+    "War"
+   ],
+   "imdbRating": "8.2",
+   "name": "Pan's Labyrinth",
+   "released": "2007-01-19T00:00:00.000Z",
+   "runtime": "118 min",
+   "trailers": [
+    {
+     "source": "6tYUOAMsydg",
+     "type": "Trailer"
+    },
+    {
+     "source": "jVZRnnVSQ8k",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Guillermo del Toro"
+   ],
+   "year": "2007",
+   "background": "https://images.metahub.space/background/medium/tt0457430/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0457430/img",
+   "id": "tt0457430",
    "genres": [
+    "Fantasia",
     "Drama",
     "Guerra"
    ],
-   "releaseInfo": "2014",
-   "runtime": "94 min",
-   "trailers": [],
-   "cast": [
-    "Merila Zarei",
-    "Gelare Abbasi",
-    "Mehran Ahmadi"
-   ],
-   "credits_cast": [
+   "releaseInfo": "2006",
+   "trailerStreams": [
     {
-     "character": "Olfat",
-     "name": "Merila Zarei",
-     "profile_path": "/cdQ7pLnZw3OpnorL9muH5m1RQ9k.jpg",
-     "id": 240243
+     "title": "Pan's Labyrinth",
+     "ytId": "6tYUOAMsydg"
     },
     {
-     "character": "Ferdows",
-     "name": "Gelare Abbasi",
-     "profile_path": "/tQr6ilbhAiukwGJNUUQWLVQDJFg.jpg",
-     "id": 1836556
-    },
-    {
-     "character": "Seyyed Kermani",
-     "name": "Mehran Ahmadi",
-     "profile_path": "/wTIj8VwBeXcwLhdG5tF1qdKVC3F.jpg",
-     "id": 1297980
-    },
-    {
-     "character": "Soldier",
-     "name": "Javad Ezzati",
-     "profile_path": "/76owVoHT6PIyawiPl1OejExXPhK.jpg",
-     "id": 1589321
-    },
-    {
-     "character": "Maryam",
-     "name": "Mahya Dehghani",
-     "profile_path": "/6g1stxYxnciFXo7VhoXkkOtXyug.jpg",
-     "id": 2517582
-    },
-    {
-     "character": "",
-     "name": "Javad Ezzati",
-     "profile_path": "/76owVoHT6PIyawiPl1OejExXPhK.jpg",
-     "id": 1589321
-    },
-    {
-     "character": "",
-     "name": "Saman Safari",
-     "profile_path": "/zg1qTgmNkwmjQ7WifmmlSmHnYkl.jpg",
-     "id": 2201612
+     "title": "Pan's Labyrinth",
+     "ytId": "jVZRnnVSQ8k"
     }
    ],
-   "credits_crew": [
+   "links": [
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Narges Abyar",
-     "profile_path": "/vRrasA5rOTsavkaT2OKsYlYs75W.jpg",
-     "id": 1396848
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0457430"
     },
     {
-     "department": "Writing",
-     "job": "Screenplay",
-     "name": "Narges Abyar",
-     "profile_path": "/vRrasA5rOTsavkaT2OKsYlYs75W.jpg",
-     "id": 1396848
+     "name": "Pan's Labyrinth",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/pans-labyrinth-0457430"
     },
     {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Mohammad Hossein Ghasemi",
-     "profile_path": null,
-     "id": 1819049
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Abouzar Pour Mohammadi",
-     "profile_path": null,
-     "id": 2517553
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Ivana Baquero",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ivana%20Baquero"
+    },
+    {
+     "name": "Ariadna Gil",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ariadna%20Gil"
+    },
+    {
+     "name": "Sergi López",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sergi%20L%C3%B3pez"
+    },
+    {
+     "name": "Guillermo del Toro",
+     "category": "Writers",
+     "url": "stremio:///search?search=Guillermo%20del%20Toro"
+    },
+    {
+     "name": "Guillermo del Toro",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guillermo%20del%20Toro"
     }
    ],
-   "director": [
-    "Narges Abyar"
-   ],
-   "imdbRating": "7.0",
-   "language": "Persian",
-   "country": "Iran",
-   "awards": "3 wins & 4 nominations total",
    "behaviorHints": {
-    "defaultVideoId": "tt3839906",
+    "defaultVideoId": "tt0457430",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3839906.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0457430.jpg"
+  },
+  {
+   "awards": "Won 1 Oscar. 49 wins & 167 nominations total",
+   "cast": [
+    "Benedict Cumberbatch",
+    "Keira Knightley",
+    "Matthew Goode"
+   ],
+   "country": "United States",
+   "description": "Durante o inverno de 1952, as autoridades britânicas entraram na casa do matemático, criptoanalista e herói de guerra Alan Turing para investigar um assalto. Em vez disso, prenderam Turing por ‘atentado ao pudor’, uma acusação que levaria à sua devastadora sentença pela ofensa criminal de homossexualidade — mal sabiam as autoridades que estavam a incriminar o pioneiro da computação moderna.\r Na liderança de um grupo de académicos, linguistas, campeões de xadrez e analistas, Turing foi reconhecido por quebrar o até aí indecifrável código da Enigma, a máquina utilizada pelos alemães na 2.ª Guerra Mundial.",
+   "director": [
+    "Morten Tyldum"
+   ],
+   "dvdRelease": "2016-11-30T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "8.0",
+   "name": "The Imitation Game",
+   "released": "2014-12-25T00:00:00.000Z",
+   "runtime": "113 min",
+   "trailers": [
+    {
+     "source": "j2jRs4EAvWM",
+     "type": "Trailer"
+    },
+    {
+     "source": "Fg85ggZSHMw",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Graham Moore",
+    "Andrew Hodges"
+   ],
+   "year": "2014",
+   "background": "https://images.metahub.space/background/medium/tt2084970/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2084970/img",
+   "id": "tt2084970",
+   "genres": [
+    "História",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "The Imitation Game",
+     "ytId": "j2jRs4EAvWM"
+    },
+    {
+     "title": "The Imitation Game",
+     "ytId": "Fg85ggZSHMw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2084970"
+    },
+    {
+     "name": "The Imitation Game",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-imitation-game-2084970"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benedict%20Cumberbatch"
+    },
+    {
+     "name": "Keira Knightley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keira%20Knightley"
+    },
+    {
+     "name": "Matthew Goode",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Goode"
+    },
+    {
+     "name": "Graham Moore",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Moore"
+    },
+    {
+     "name": "Andrew Hodges",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Hodges"
+    },
+    {
+     "name": "Morten Tyldum",
+     "category": "Directors",
+     "url": "stremio:///search?search=Morten%20Tyldum"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2084970",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2084970.jpg"
   }
  ]
 }
