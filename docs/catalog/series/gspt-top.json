@@ -180,7 +180,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-   "imdbRating": "8.0"
+   "imdbRating": "8.1"
   },
   {
    "awards": "Won 3 Primetime Emmys. 22 wins & 122 nominations total",
@@ -563,75 +563,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15792808.jpg"
   },
   {
-   "id": "tt21056976",
-   "logo": "https://live.metahub.space/logo/medium/tt21056976/img",
-   "background": "https://live.metahub.space/background/medium/tt21056976/img",
-   "name": "Dragon Striker",
-   "description": "Num mundo onde esporte e magia se combinam, o jovem fazendeiro Key descobre seu talento natural extremamente poderoso e aprende que pode se tornar o lendário Dragon Striker.",
-   "genres": [
-    "Animação",
-    "Sci-Fi & Fantasy",
-    "Família"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "qVeikhEKaY0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Akshay Kumar",
-    "Rebecca LaChance",
-    "Yeukayi Ushe"
-   ],
-   "credits_cast": [
-    {
-     "character": "Key (voice)",
-     "name": "Akshay Kumar",
-     "profile_path": "/ynbrjFIC9jRKUL2xw4G3HvvFSIH.jpg",
-     "id": 1812314
-    },
-    {
-     "character": "Ssyelle (voice)",
-     "name": "Rebecca LaChance",
-     "profile_path": null,
-     "id": 6195343
-    },
-    {
-     "character": "Milo (voice)",
-     "name": "Yeukayi Ushe",
-     "profile_path": null,
-     "id": 5695035
-    },
-    {
-     "character": "Odward (voice)",
-     "name": "Waylon Jacobs",
-     "profile_path": "/2kNU24pjrowveySPRgKe1CHtoMk.jpg",
-     "id": 2918838
-    },
-    {
-     "character": "Ameline (voice)",
-     "name": "Evanna Lynch",
-     "profile_path": "/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg",
-     "id": 140367
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.7",
-   "language": "English",
-   "country": "France, United States, United Kingdom",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21056976.jpg"
-  },
-  {
    "name": "Chad Powers",
    "cast": [
     "Glen Powell",
@@ -907,6 +838,75 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32639706.jpg"
+  },
+  {
+   "id": "tt21056976",
+   "logo": "https://live.metahub.space/logo/medium/tt21056976/img",
+   "background": "https://live.metahub.space/background/medium/tt21056976/img",
+   "name": "Dragon Striker",
+   "description": "Num mundo onde esporte e magia se combinam, o jovem fazendeiro Key descobre seu talento natural extremamente poderoso e aprende que pode se tornar o lendário Dragon Striker.",
+   "genres": [
+    "Animação",
+    "Sci-Fi & Fantasy",
+    "Família"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "qVeikhEKaY0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Akshay Kumar",
+    "Rebecca LaChance",
+    "Yeukayi Ushe"
+   ],
+   "credits_cast": [
+    {
+     "character": "Key (voice)",
+     "name": "Akshay Kumar",
+     "profile_path": "/ynbrjFIC9jRKUL2xw4G3HvvFSIH.jpg",
+     "id": 1812314
+    },
+    {
+     "character": "Ssyelle (voice)",
+     "name": "Rebecca LaChance",
+     "profile_path": null,
+     "id": 6195343
+    },
+    {
+     "character": "Milo (voice)",
+     "name": "Yeukayi Ushe",
+     "profile_path": null,
+     "id": 5695035
+    },
+    {
+     "character": "Odward (voice)",
+     "name": "Waylon Jacobs",
+     "profile_path": "/2kNU24pjrowveySPRgKe1CHtoMk.jpg",
+     "id": 2918838
+    },
+    {
+     "character": "Ameline (voice)",
+     "name": "Evanna Lynch",
+     "profile_path": "/mebDQC5FnPVYYRxqmhCVVdl8fVM.jpg",
+     "id": 140367
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.7",
+   "language": "English",
+   "country": "France, United States, United Kingdom",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21056976.jpg"
   }
  ]
 }
