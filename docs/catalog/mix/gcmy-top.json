@@ -120,58 +120,65 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
-   "name": "The Bear",
+   "name": "The Gentlemen",
    "cast": [
-    "Jeremy Allen White",
-    "Ebon Moss-Bachrach",
-    "Ayo Edebiri"
+    "Theo James",
+    "Kaya Scodelario",
+    "Joely Richardson"
    ],
-   "country": "United States",
-   "description": "Um jovem chef tenta transformar uma loja de sandes com uma equipa de cozinha destreinada.",
+   "country": "United Kingdom, United States",
+   "description": "Quando o aristocrata Eddie herda a propriedade da família, nem imagina que esta alberga um enorme império de erva... e que os proprietários estão lá para ficar.",
    "genre": [
+    "Action",
     "Comedy",
-    "Drama"
+    "Crime"
    ],
-   "imdbRating": "8.5",
-   "released": "2022-06-23T00:00:00.000Z",
-   "writer": [
-    "Christopher Storer"
-   ],
-   "year": "2022–2026",
-   "status": "Ended",
+   "imdbRating": "8.1",
+   "released": "2024-03-07T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "53 min",
+   "status": "Continuing",
    "director": [],
-   "background": "https://images.metahub.space/background/medium/tt14452776/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14452776/img",
-   "awards": "Won 21 Primetime Emmys. 116 wins & 212 nominations total",
-   "runtime": "35 min",
+   "writer": [
+    "Guy Ritchie"
+   ],
    "trailers": [
     {
-     "source": "WBlIUsFEnsw",
+     "source": "wyEOwHrpZH4",
      "type": "Trailer"
     }
    ],
-   "id": "tt14452776",
+   "background": "https://images.metahub.space/background/medium/tt13210838/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
+   "awards": "Won 1 Primetime Emmy. 4 wins & 30 nominations total",
+   "id": "tt13210838",
    "genres": [
+    "Comédia",
     "Drama",
-    "Comédia"
+    "Crime"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "The Bear",
-     "ytId": "WBlIUsFEnsw"
+     "title": "The Gentlemen",
+     "ytId": "wyEOwHrpZH4"
     }
    ],
    "links": [
     {
-     "name": "8.5",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt14452776"
+     "url": "https://imdb.com/title/tt13210838"
     },
     {
-     "name": "The Bear",
+     "name": "The Gentlemen",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-bear-14452776"
+     "url": "https://www.strem.io/s/series/the-gentlemen-13210838"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Comedy",
@@ -179,29 +186,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Drama",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Jeremy Allen White",
+     "name": "Theo James",
      "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Allen%20White"
+     "url": "stremio:///search?search=Theo%20James"
     },
     {
-     "name": "Ebon Moss-Bachrach",
+     "name": "Kaya Scodelario",
      "category": "Cast",
-     "url": "stremio:///search?search=Ebon%20Moss-Bachrach"
+     "url": "stremio:///search?search=Kaya%20Scodelario"
     },
     {
-     "name": "Ayo Edebiri",
+     "name": "Joely Richardson",
      "category": "Cast",
-     "url": "stremio:///search?search=Ayo%20Edebiri"
+     "url": "stremio:///search?search=Joely%20Richardson"
     },
     {
-     "name": "Christopher Storer",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20Storer"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
@@ -210,7 +217,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14452776.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13210838.jpg"
   },
   {
    "name": "The Rookie",
@@ -311,6 +318,35 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7587890.jpg"
+  },
+  {
+   "id": "tt36601237",
+   "logo": "https://live.metahub.space/logo/medium/tt36601237/img",
+   "background": "https://live.metahub.space/background/medium/tt36601237/img",
+   "name": "Ruído",
+   "description": "Num tempo distópico, onde foi aprovada uma lei que proíbe o riso, vive-se um ambiente de medo e desconfiança. Foi retirada a liberdade para expressar qualquer tipo de alegria em público. Como forma de resistência, um grupo de atores e argumentistas decide criar um movimento clandestino para que as pessoas possam rir em segredo. O resto é ruído.",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "status": "Continuing",
+   "runtime": "30 min",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.9",
+   "language": "Portuguese",
+   "country": "Portugal",
+   "awards": "1 win & 1 nomination total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36601237.jpg"
   },
   {
    "name": "Masterplan",
@@ -518,65 +554,58 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10691770.jpg"
   },
   {
-   "name": "The Gentlemen",
+   "name": "The Bear",
    "cast": [
-    "Theo James",
-    "Kaya Scodelario",
-    "Joely Richardson"
+    "Jeremy Allen White",
+    "Ebon Moss-Bachrach",
+    "Ayo Edebiri"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Quando o aristocrata Eddie herda a propriedade da família, nem imagina que esta alberga um enorme império de erva... e que os proprietários estão lá para ficar.",
+   "country": "United States",
+   "description": "Um jovem chef tenta transformar uma loja de sandes com uma equipa de cozinha destreinada.",
    "genre": [
-    "Action",
     "Comedy",
-    "Crime"
+    "Drama"
    ],
-   "imdbRating": "8.1",
-   "released": "2024-03-07T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "53 min",
-   "status": "Continuing",
-   "director": [],
+   "imdbRating": "8.5",
+   "released": "2022-06-23T00:00:00.000Z",
    "writer": [
-    "Guy Ritchie"
+    "Christopher Storer"
    ],
+   "year": "2022–2026",
+   "status": "Ended",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt14452776/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14452776/img",
+   "awards": "Won 21 Primetime Emmys. 116 wins & 212 nominations total",
+   "runtime": "35 min",
    "trailers": [
     {
-     "source": "wyEOwHrpZH4",
+     "source": "WBlIUsFEnsw",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt13210838/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
-   "awards": "Won 1 Primetime Emmy. 4 wins & 30 nominations total",
-   "id": "tt13210838",
+   "id": "tt14452776",
    "genres": [
-    "Comédia",
     "Drama",
-    "Crime"
+    "Comédia"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "The Gentlemen",
-     "ytId": "wyEOwHrpZH4"
+     "title": "The Bear",
+     "ytId": "WBlIUsFEnsw"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt13210838"
+     "url": "https://imdb.com/title/tt14452776"
     },
     {
-     "name": "The Gentlemen",
+     "name": "The Bear",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-gentlemen-13210838"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "https://www.strem.io/s/series/the-bear-14452776"
     },
     {
      "name": "Comedy",
@@ -584,29 +613,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Crime",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Theo James",
+     "name": "Jeremy Allen White",
      "category": "Cast",
-     "url": "stremio:///search?search=Theo%20James"
+     "url": "stremio:///search?search=Jeremy%20Allen%20White"
     },
     {
-     "name": "Kaya Scodelario",
+     "name": "Ebon Moss-Bachrach",
      "category": "Cast",
-     "url": "stremio:///search?search=Kaya%20Scodelario"
+     "url": "stremio:///search?search=Ebon%20Moss-Bachrach"
     },
     {
-     "name": "Joely Richardson",
+     "name": "Ayo Edebiri",
      "category": "Cast",
-     "url": "stremio:///search?search=Joely%20Richardson"
+     "url": "stremio:///search?search=Ayo%20Edebiri"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Christopher Storer",
      "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Christopher%20Storer"
     }
    ],
    "behaviorHints": {
@@ -615,7 +644,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13210838.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14452776.jpg"
   },
   {
    "id": "tt27517632",
@@ -727,236 +756,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27517632.jpg"
   },
   {
-   "name": "The Unbearable Weight of Massive Talent",
-   "cast": [
-    "Nicolas Cage",
-    "Pedro Pascal",
-    "Tiffany Haddish"
-   ],
-   "country": "Croatia, United States, Hungary",
-   "description": "Criativamente insatisfeito e enfrentando uma ruína financeira, Nicolas Cage deve aceitar a oferta de 1 milhão de dólares para marcar presença na festa de aniversário de um fã, muito fanático e perigoso. As coisas tomam um rumo inesperado quando Cage é recrutado por uma agente da CIA e forçado a viver de acordo com a sua própria lenda, canalizando os seus personagens mais icónicos e amados do cinema para salvar-se a si mesmo e aos que ama. Com uma carreira construída para este momento, o premiado ator deve assumir o papel de uma vida: o de Nicolas Cage.",
-   "director": [
-    "Tom Gormican"
-   ],
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "7.0",
-   "released": "2022-04-22T00:00:00.000Z",
-   "runtime": "107 min",
-   "writer": [
-    "Tom Gormican",
-    "Kevin Etten"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "CKTRbKch2K4",
-     "type": "Trailer"
-    },
-    {
-     "source": "x2YHPZMj8r4",
-     "type": "Trailer"
-    },
-    {
-     "source": "fGXSPW0kAuE",
-     "type": "Trailer"
-    },
-    {
-     "source": "I8VuWhvk87o",
-     "type": "Trailer"
-    },
-    {
-     "source": "OT_aDZc3vXY",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt11291274/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11291274/img",
-   "awards": "3 wins & 23 nominations total",
-   "id": "tt11291274",
-   "genres": [
-    "Ação",
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "CKTRbKch2K4"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "x2YHPZMj8r4"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "fGXSPW0kAuE"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "I8VuWhvk87o"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "OT_aDZc3vXY"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11291274"
-    },
-    {
-     "name": "The Unbearable Weight of Massive Talent",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-unbearable-weight-of-massive-talent-11291274"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Nicolas Cage",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicolas%20Cage"
-    },
-    {
-     "name": "Pedro Pascal",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Pascal"
-    },
-    {
-     "name": "Tiffany Haddish",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tiffany%20Haddish"
-    },
-    {
-     "name": "Tom Gormican",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Gormican"
-    },
-    {
-     "name": "Kevin Etten",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kevin%20Etten"
-    },
-    {
-     "name": "Tom Gormican",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tom%20Gormican"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11291274",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11291274.jpg"
-  },
-  {
-   "name": "Abbott Elementary",
-   "cast": [
-    "Quinta Brunson",
-    "Tyler James Williams",
-    "Janelle James"
-   ],
-   "country": "United States",
-   "description": "Nesta comédia sobre o ambiente de trabalho, um grupo de professores dedicados e apaixonados — e um diretor um pouco desajustado — reúnem-se numa escola pública de Filadélfia onde, apesar de todas as adversidades, estão determinados a ajudar os seus alunos a ter sucesso na vida. Embora estes incríveis funcionários públicos possam estar em menor número e com poucos recursos, adoram o que fazem — mesmo que não apreciem a atitude pouco exemplar do distrito escolar em relação à educação das crianças.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "8.2",
-   "released": "2021-12-07T00:00:00.000Z",
-   "writer": [
-    "Quinta Brunson"
-   ],
-   "year": "2021–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt14218830/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14218830/img",
-   "awards": "Won 4 Primetime Emmys. 96 wins & 308 nominations total",
-   "runtime": "21 min",
-   "trailers": [
-    {
-     "source": "l4lP8roLz3I",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt14218830",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2021",
-   "trailerStreams": [
-    {
-     "title": "Abbott Elementary",
-     "ytId": "l4lP8roLz3I"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14218830"
-    },
-    {
-     "name": "Abbott Elementary",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/abbott-elementary-14218830"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Quinta Brunson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Quinta%20Brunson"
-    },
-    {
-     "name": "Tyler James Williams",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tyler%20James%20Williams"
-    },
-    {
-     "name": "Janelle James",
-     "category": "Cast",
-     "url": "stremio:///search?search=Janelle%20James"
-    },
-    {
-     "name": "Quinta Brunson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Quinta%20Brunson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14218830.jpg"
-  },
-  {
    "id": "tt35673115",
    "logo": "https://live.metahub.space/logo/medium/tt35673115/img",
    "background": "https://live.metahub.space/background/medium/tt35673115/img",
@@ -1036,6 +835,95 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
    "imdbRating": "6.2"
+  },
+  {
+   "awards": "Won 7 Primetime Emmys. 35 wins & 81 nominations total",
+   "cast": [
+    "Lee Pace",
+    "Anna Friel",
+    "Chi McBride"
+   ],
+   "country": "United States",
+   "description": "Série divertida que conta a história do jovem Ned, um rapaz com um dom muito especial: com um toque pode fazer os mortos reviverem. Ned é um pasteleiro bem-sucedido que usa muito bem o seu dom, pois com um leve toque, as frutas, o ingrediente principal das suas tortas, enchem-se de vida e sabor, o que faz com que a \"The Pie Hole\" seja o lugar ideal para se apreciar uma boa sobremesa. Ned partilha o seu segredo com Emerson, um detective particular que o convence a utilizar o seu dom para resolver casos de homicídios.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "8.4",
+   "name": "Pushing Daisies",
+   "released": "2007-10-03T00:00:00.000Z",
+   "runtime": "44 min",
+   "status": "Ended",
+   "writer": [
+    "Bryan Fuller"
+   ],
+   "year": "2007–2009",
+   "logo": "https://images.metahub.space/logo/medium/tt0925266/img",
+   "background": "https://images.metahub.space/background/medium/tt0925266/img",
+   "id": "tt0925266",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Crime"
+   ],
+   "releaseInfo": "2007",
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0925266"
+    },
+    {
+     "name": "Pushing Daisies",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/pushing-daisies-0925266"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Lee Pace",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lee%20Pace"
+    },
+    {
+     "name": "Anna Friel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anna%20Friel"
+    },
+    {
+     "name": "Chi McBride",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chi%20McBride"
+    },
+    {
+     "name": "Bryan Fuller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bryan%20Fuller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0925266.jpg"
   }
  ]
 }

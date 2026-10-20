@@ -277,53 +277,58 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   },
   {
-   "name": "Below",
+   "name": "The Diplomat",
    "cast": [
-    "Josh Hartnett",
-    "Stephen Oates",
-    "Josh Cruddas"
+    "Keri Russell",
+    "Rufus Sewell",
+    "David Gyasi"
    ],
-   "country": "Canada",
-   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "country": "United Kingdom, United States",
+   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
    "genre": [
     "Drama",
-    "Horror",
     "Thriller"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-10-08T00:00:00.000Z",
+   "imdbRating": "8.1",
+   "released": "2023-04-20T00:00:00.000Z",
    "writer": [
-    "Jesse McKeown"
+    "Debora Cahn"
    ],
-   "year": "2026–",
+   "year": "2023–",
    "trailers": [
     {
-     "source": "U57CNxSgoss",
+     "source": "lV6sJlBbhPs",
      "type": "Trailer"
     }
    ],
    "director": [],
-   "runtime": null,
-   "status": "Ended",
-   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
-   "background": "https://images.metahub.space/background/medium/tt35934755/img",
-   "id": "tt35934755",
+   "runtime": "49 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt17491088/img",
+   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
+   "id": "tt17491088",
    "genres": [
     "Drama",
-    "Mistério"
+    "War & Politics"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Below",
-     "ytId": "U57CNxSgoss"
+     "title": "The Diplomat",
+     "ytId": "lV6sJlBbhPs"
     }
    ],
    "links": [
     {
-     "name": "Below",
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt17491088"
+    },
+    {
+     "name": "The Diplomat",
      "category": "share",
-     "url": "https://www.strem.io/s/series/below-35934755"
+     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
     },
     {
      "name": "Drama",
@@ -331,34 +336,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
      "name": "Thriller",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Josh Hartnett",
+     "name": "Keri Russell",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
+     "url": "stremio:///search?search=Keri%20Russell"
     },
     {
-     "name": "Stephen Oates",
+     "name": "Rufus Sewell",
      "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Oates"
+     "url": "stremio:///search?search=Rufus%20Sewell"
     },
     {
-     "name": "Josh Cruddas",
+     "name": "David Gyasi",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Cruddas"
+     "url": "stremio:///search?search=David%20Gyasi"
     },
     {
-     "name": "Jesse McKeown",
+     "name": "Debora Cahn",
      "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20McKeown"
+     "url": "stremio:///search?search=Debora%20Cahn"
     }
    ],
    "behaviorHints": {
@@ -367,7 +367,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
    "id": "tt36470958",
@@ -465,7 +465,100 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "5.8"
+   "imdbRating": "5.9"
+  },
+  {
+   "name": "Below",
+   "cast": [
+    "Josh Hartnett",
+    "Stephen Oates",
+    "Josh Cruddas"
+   ],
+   "country": "Canada",
+   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "6.3",
+   "released": "2026-10-08T00:00:00.000Z",
+   "writer": [
+    "Jesse McKeown"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "U57CNxSgoss",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "runtime": null,
+   "status": "Ended",
+   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
+   "background": "https://images.metahub.space/background/medium/tt35934755/img",
+   "id": "tt35934755",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Below",
+     "ytId": "U57CNxSgoss"
+    }
+   ],
+   "links": [
+    {
+     "name": "Below",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/below-35934755"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Josh Hartnett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hartnett"
+    },
+    {
+     "name": "Stephen Oates",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stephen%20Oates"
+    },
+    {
+     "name": "Josh Cruddas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Cruddas"
+    },
+    {
+     "name": "Jesse McKeown",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jesse%20McKeown"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
   },
   {
    "awards": "Nominated for 1 Primetime Emmy. 4 wins & 16 nominations total",
@@ -567,99 +660,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg"
-  },
-  {
-   "name": "The Diplomat",
-   "cast": [
-    "Keri Russell",
-    "Rufus Sewell",
-    "David Gyasi"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
-   "genre": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "8.0",
-   "released": "2023-04-20T00:00:00.000Z",
-   "writer": [
-    "Debora Cahn"
-   ],
-   "year": "2023–",
-   "trailers": [
-    {
-     "source": "lV6sJlBbhPs",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "runtime": "49 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt17491088/img",
-   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
-   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
-   "id": "tt17491088",
-   "genres": [
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "The Diplomat",
-     "ytId": "lV6sJlBbhPs"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt17491088"
-    },
-    {
-     "name": "The Diplomat",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Keri Russell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Keri%20Russell"
-    },
-    {
-     "name": "Rufus Sewell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rufus%20Sewell"
-    },
-    {
-     "name": "David Gyasi",
-     "category": "Cast",
-     "url": "stremio:///search?search=David%20Gyasi"
-    },
-    {
-     "name": "Debora Cahn",
-     "category": "Writers",
-     "url": "stremio:///search?search=Debora%20Cahn"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
    "name": "Dark Matter",
@@ -869,65 +869,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2802850.jpg"
   },
   {
-   "name": "Neagley",
+   "awards": "Won 6 Primetime Emmys. 48 wins & 171 nominations total",
    "cast": [
-    "Maria Sten",
-    "Greyston Holt",
-    "Adeline Rudolph"
+    "Vince Vaughn",
+    "Colin Farrell",
+    "Rachel McAdams"
    ],
    "country": "United States",
-   "description": "Do universo de \"REACHER\", começa um novo capítulo. Frances Neagley é investigadora privada em Chicago e antiga colega militar de Jack Reacher na Unidade 110 de Investigações Especiais do Exército. Quando descobre que um amigo muito querido do seu passado morreu num acidente suspeito, fica determinada a fazer justiça.",
+   "description": "Durante dezessete anos, as vidas de dois detetives, Rust Cohle e Martin Hart, entrelaçam-se para dar conta da caçada a um serial killer no estado de Louisiana.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Action",
     "Crime",
-    "Drama"
+    "Drama",
+    "Mystery"
    ],
-   "imdbRating": "7.6",
-   "released": "2026-09-16T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "49 min",
+   "imdbRating": "8.8",
+   "name": "True Detective",
+   "released": "2014-01-12T00:00:00.000Z",
+   "runtime": "61 min",
    "status": "Continuing",
+   "writer": [
+    "Nic Pizzolatto",
+    "Issa López"
+   ],
+   "year": "2014–",
+   "background": "https://images.metahub.space/background/medium/tt2356777/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2356777/img",
    "trailers": [
     {
-     "source": "BOzNaa_o9_g",
-     "type": "Trailer"
-    },
-    {
-     "source": "e4R4guZS0WU",
+     "source": "fVQUcaO4AvE",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt33539520/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33539520/img",
-   "id": "tt33539520",
+   "id": "tt2356777",
    "genres": [
     "Drama",
-    "Mistério",
-    "Crime"
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2014",
    "trailerStreams": [
     {
-     "title": "Neagley",
-     "ytId": "BOzNaa_o9_g"
-    },
-    {
-     "title": "Neagley",
-     "ytId": "e4R4guZS0WU"
+     "title": "True Detective",
+     "ytId": "fVQUcaO4AvE"
     }
    ],
    "links": [
     {
-     "name": "Neagley",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/neagley-33539520"
+     "name": "8.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2356777"
     },
     {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "name": "True Detective",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/true-detective-2356777"
     },
     {
      "name": "Crime",
@@ -940,19 +936,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Maria Sten",
-     "category": "Cast",
-     "url": "stremio:///search?search=Maria%20Sten"
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Greyston Holt",
+     "name": "Vince Vaughn",
      "category": "Cast",
-     "url": "stremio:///search?search=Greyston%20Holt"
+     "url": "stremio:///search?search=Vince%20Vaughn"
     },
     {
-     "name": "Adeline Rudolph",
+     "name": "Colin Farrell",
      "category": "Cast",
-     "url": "stremio:///search?search=Adeline%20Rudolph"
+     "url": "stremio:///search?search=Colin%20Farrell"
+    },
+    {
+     "name": "Rachel McAdams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20McAdams"
+    },
+    {
+     "name": "Nic Pizzolatto",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nic%20Pizzolatto"
+    },
+    {
+     "name": "Issa López",
+     "category": "Writers",
+     "url": "stremio:///search?search=Issa%20L%C3%B3pez"
     }
    ],
    "behaviorHints": {
@@ -961,7 +972,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33539520.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2356777.jpg"
   }
  ]
 }

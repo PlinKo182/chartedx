@@ -295,41 +295,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3718778.jpg"
   },
   {
-   "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
+   "awards": "Nominated for 4 Primetime Emmys. 6 wins & 39 nominations total",
    "cast": [
-    "Elia Nuzzolo",
-    "Matteo Oscar Giuggioli",
-    "Davide Calgaro"
+    "Victoria Justice",
+    "Leon Thomas III",
+    "Matt Bennett"
    ],
-   "country": "Italy",
+   "country": "United States",
+   "description": "Quando a aspirante a cantora Tori Vega entra para o excêntrico Liceu Artístico de Hollywood, tem dificuldade em integrar-se com os outros estudantes muito talentosos.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Comedy"
+    "Comedy",
+    "Drama",
+    "Family"
    ],
-   "imdbRating": "8.1",
-   "released": "2024-10-11T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "50 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "description": "Max Pezzali and Mauro Repetto create a beloved band in the 1990s.",
-   "background": "https://images.metahub.space/background/medium/tt26545971/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26545971/img",
-   "id": "tt26545971",
+   "imdbRating": "7.0",
+   "name": "Victorious",
+   "released": "2010-03-27T00:00:00.000Z",
+   "runtime": "30 min",
+   "status": "Ended",
+   "writer": [
+    "Dan Schneider"
+   ],
+   "year": "2010–2013",
+   "background": "https://images.metahub.space/background/medium/tt1604099/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1604099/img",
+   "trailers": [
+    {
+     "source": "XwoSe9OfM9Y",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1604099",
    "genres": [
-    "Comédia"
+    "Comédia",
+    "Kids"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2010",
+   "trailerStreams": [
+    {
+     "title": "Victorious",
+     "ytId": "XwoSe9OfM9Y"
+    }
+   ],
    "links": [
     {
-     "name": "8.2",
+     "name": "7.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt26545971"
+     "url": "https://imdb.com/title/tt1604099"
     },
     {
-     "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
+     "name": "Victorious",
      "category": "share",
-     "url": "https://www.strem.io/s/series/hanno-ucciso-luomo-ragno-la-leggendaria-storia-degli-883-26545971"
+     "url": "https://www.strem.io/s/series/victorious-1604099"
     },
     {
      "name": "Comedy",
@@ -337,19 +356,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Elia Nuzzolo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elia%20Nuzzolo"
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Matteo Oscar Giuggioli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matteo%20Oscar%20Giuggioli"
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
     },
     {
-     "name": "Davide Calgaro",
+     "name": "Victoria Justice",
      "category": "Cast",
-     "url": "stremio:///search?search=Davide%20Calgaro"
+     "url": "stremio:///search?search=Victoria%20Justice"
+    },
+    {
+     "name": "Leon Thomas III",
+     "category": "Cast",
+     "url": "stremio:///search?search=Leon%20Thomas%20III"
+    },
+    {
+     "name": "Matt Bennett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Bennett"
+    },
+    {
+     "name": "Dan Schneider",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dan%20Schneider"
     }
    ],
    "behaviorHints": {
@@ -358,7 +392,111 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1604099.jpg"
+  },
+  {
+   "name": "Daisy Jones & The Six",
+   "cast": [
+    "Riley Keough",
+    "Sam Claflin",
+    "Camila Morrone"
+   ],
+   "country": "United States",
+   "description": "Em 1977, os Daisy Jones The Six estavam no seu apogeu. Liderados por duas forças da natureza, Daisy Jones e Billy Dunne, a banda passou do anonimato à fama. No entanto, após esgotarem um concerto no Soldier Field, em Chicago, separaram-se. Agora, décadas depois, os membros da banda finalmente aceitaram contar a verdade. Esta é a história de como uma banda icónica se separou no auge da carreira.",
+   "genre": [
+    "Drama",
+    "Music",
+    "Romance"
+   ],
+   "imdbRating": "8.1",
+   "released": "2023-03-03T00:00:00.000Z",
+   "writer": [
+    "Scott Neustadter",
+    "Michael H. Weber"
+   ],
+   "year": "2023",
+   "director": [],
+   "runtime": "50 min",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt8749198/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8749198/img",
+   "trailers": [
+    {
+     "source": "kSrcNCGMrLc",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Won 2 Primetime Emmys. 10 wins & 47 nominations total",
+   "id": "tt8749198",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Daisy Jones & The Six",
+     "ytId": "kSrcNCGMrLc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8749198"
+    },
+    {
+     "name": "Daisy Jones & The Six",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/daisy-jones-the-six-8749198"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Riley Keough",
+     "category": "Cast",
+     "url": "stremio:///search?search=Riley%20Keough"
+    },
+    {
+     "name": "Sam Claflin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sam%20Claflin"
+    },
+    {
+     "name": "Camila Morrone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Camila%20Morrone"
+    },
+    {
+     "name": "Scott Neustadter",
+     "category": "Writers",
+     "url": "stremio:///search?search=Scott%20Neustadter"
+    },
+    {
+     "name": "Michael H. Weber",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20H.%20Weber"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8749198.jpg"
   },
   {
    "awards": "Won 98 Primetime Emmys. 244 wins & 647 nominations total",
@@ -536,80 +674,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414766.jpg"
   },
   {
-   "id": "tt40029087",
-   "logo": "https://live.metahub.space/logo/medium/tt40029087/img",
-   "background": "https://live.metahub.space/background/medium/tt40029087/img",
-   "name": "Unicorn Academy: Secrets Revealed",
-   "description": "Acompanha Sophia e os Safiras enquanto enfrentam reviravoltas mágicas para desvendar os segredos mais profundos da Ilha Unicórnio e derrotar de vez as forças do mal.",
-   "genres": [
-    "Animação",
-    "Kids",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "runtime": "25 min",
-   "trailers": [
-    {
-     "source": "uVpBzPNHf74",
-     "type": "Trailer"
-    }
-   ],
+   "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
    "cast": [
-    "Sara Alicia Garcia",
-    "Sadie Laflamme-Snow",
-    "Kamaia Fairburn"
+    "Elia Nuzzolo",
+    "Matteo Oscar Giuggioli",
+    "Davide Calgaro"
    ],
-   "credits_cast": [
+   "country": "Italy",
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "8.1",
+   "released": "2024-10-11T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "50 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "description": "Max Pezzali and Mauro Repetto create a beloved band in the 1990s.",
+   "background": "https://images.metahub.space/background/medium/tt26545971/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26545971/img",
+   "id": "tt26545971",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2024",
+   "links": [
     {
-     "character": "Sophia Mendoza",
-     "name": "Sara Alicia Garcia",
-     "profile_path": "/xvba7U9Rp7yCgSiR2oJ1SssMmw0.jpg",
-     "id": 1700048
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26545971"
     },
     {
-     "character": "Ava Banji",
-     "name": "Sadie Laflamme-Snow",
-     "profile_path": "/hfY0po02Q9hTXvwS7LzxZS2wWwY.jpg",
-     "id": 3154283
+     "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/hanno-ucciso-luomo-ragno-la-leggendaria-storia-degli-883-26545971"
     },
     {
-     "character": "Layla Fletcher",
-     "name": "Kamaia Fairburn",
-     "profile_path": "/tfwLOmrueNAebxRxJEZKX3l46l7.jpg",
-     "id": 2135419
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "character": "Isabel Armstrong",
-     "name": "Gabriella Kosmidis",
-     "profile_path": "/tqqhZokKtKWARWyrgkyxuIB2wkv.jpg",
-     "id": 3623134
+     "name": "Elia Nuzzolo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elia%20Nuzzolo"
     },
     {
-     "character": "Valentina Furi",
-     "name": "Kari Wong",
-     "profile_path": "/1chq79p6ZzEhMdhhgWCFMLM7fLk.jpg",
-     "id": 3934942
+     "name": "Matteo Oscar Giuggioli",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matteo%20Oscar%20Giuggioli"
     },
     {
-     "character": "Rory Carmichael",
-     "name": "Kolton Stewart",
-     "profile_path": "/kHbd0AdFRzcSYhv0StO89RINDdx.jpg",
-     "id": 1094134
+     "name": "Davide Calgaro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Davide%20Calgaro"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "8.3",
-   "language": "English",
-   "country": "Canada",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40029087.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
   },
   {
    "awards": "Nominated for 3 Primetime Emmys. 8 wins & 51 nominations total",
@@ -784,97 +912,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3060016.jpg"
-  },
-  {
-   "name": "Kaulitz & Kaulitz",
-   "cast": [
-    "Bill Kaulitz",
-    "Tom Kaulitz",
-    "David Goldstein"
-   ],
-   "country": "Germany",
-   "description": "Neste reality show divertido e íntimo, os gémeos e estrelas da música Tom e Bill Kaulitz partilham um vislumbre das suas vidas privadas em Los Angeles e na Alemanha.",
-   "genre": [
-    "Documentary",
-    "Biography",
-    "Music"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-06-25T00:00:00.000Z",
-   "year": "2024–2026",
-   "trailers": [
-    {
-     "source": "zEX0buw7VAQ",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "46 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "awards": "2 wins & 2 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt31806050/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31806050/img",
-   "id": "tt31806050",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Kaulitz & Kaulitz",
-     "ytId": "zEX0buw7VAQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31806050"
-    },
-    {
-     "name": "Kaulitz & Kaulitz",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/kaulitz-kaulitz-31806050"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
-    },
-    {
-     "name": "Music",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
-    },
-    {
-     "name": "Bill Kaulitz",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bill%20Kaulitz"
-    },
-    {
-     "name": "Tom Kaulitz",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Kaulitz"
-    },
-    {
-     "name": "David Goldstein",
-     "category": "Cast",
-     "url": "stremio:///search?search=David%20Goldstein"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31806050.jpg"
   }
  ]
 }
