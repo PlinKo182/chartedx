@@ -188,63 +188,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
   },
   {
-   "name": "Dirty Angels",
+   "name": "Moana",
    "cast": [
-    "Eva Green",
-    "Maria Bakalova",
-    "Ruby Rose"
+    "Dwayne Johnson",
+    "Catherine Laga&apos;aia",
+    "Rena Owen"
    ],
-   "country": "United States, Bulgaria",
-   "description": "A história fictícia gira em torno da retirada das tropas norte-americanas do Afeganistão em 2021. Um grupo de soldados mulheres fingem ser pessoal de resgate médico, vão tentar resgatar adolescentes raptadas, presas no conflito entre o ISIS e os talibãs.",
+   "country": "United States, New Zealand, Canada, Hungary",
+   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
    "director": [
-    "Martin Campbell"
+    "Thomas Kail"
    ],
    "genre": [
     "Action",
-    "Drama",
-    "Thriller"
+    "Adventure",
+    "Comedy"
    ],
-   "imdbRating": "4.6",
-   "released": "2024-12-11T00:00:00.000Z",
+   "imdbRating": "5.8",
+   "released": "2026-07-10T00:00:00.000Z",
    "writer": [
-    "Alissa Sullivan Haggis",
-    "Jonas McCord",
-    "Martin Campbell"
+    "Jared Bush",
+    "Dana Ledoux Miller",
+    "Ron Clements"
    ],
-   "year": "2024",
-   "runtime": "104 min",
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt27419466/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
    "trailers": [
     {
-     "source": "YBwoSa3n8Yc",
+     "source": "EEz5xbzYPKI",
+     "type": "Trailer"
+    },
+    {
+     "source": "n7f6hlKsxxo",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt23872640/img",
-   "logo": "https://images.metahub.space/logo/medium/tt23872640/img",
-   "awards": "1 nomination total",
-   "id": "tt23872640",
+   "runtime": "115 min",
+   "id": "tt27419466",
    "genres": [
-    "Drama",
-    "Thriller",
-    "Guerra"
+    "Família",
+    "Fantasia",
+    "Comédia"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Dirty Angels",
-     "ytId": "YBwoSa3n8Yc"
+     "title": "Moana",
+     "ytId": "EEz5xbzYPKI"
+    },
+    {
+     "title": "Moana",
+     "ytId": "n7f6hlKsxxo"
     }
    ],
    "links": [
     {
-     "name": "4.5",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt23872640"
+     "url": "https://imdb.com/title/tt27419466"
     },
     {
-     "name": "Dirty Angels",
+     "name": "Moana",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/dirty-angels-23872640"
+     "url": "https://www.strem.io/s/movie/moana-27419466"
     },
     {
      "name": "Action",
@@ -252,142 +259,402 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Dwayne Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dwayne%20Johnson"
+    },
+    {
+     "name": "Catherine Laga&apos;aia",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
+    },
+    {
+     "name": "Rena Owen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rena%20Owen"
+    },
+    {
+     "name": "Jared Bush",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jared%20Bush"
+    },
+    {
+     "name": "Dana Ledoux Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
+    },
+    {
+     "name": "Ron Clements",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Clements"
+    },
+    {
+     "name": "Thomas Kail",
+     "category": "Directors",
+     "url": "stremio:///search?search=Thomas%20Kail"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt27419466",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
+  },
+  {
+   "id": "tt23112594",
+   "logo": "https://live.metahub.space/logo/medium/tt23112594/img",
+   "background": "https://live.metahub.space/background/medium/tt23112594/img",
+   "name": "VisionQuest",
+   "description": "Um Vision renovado tem-se escondido daqueles que procuram transformá-lo numa arma. Enquanto mantém um perfil discreto, consulta as personalidades de IA incorporadas na sua programação, incluindo o infame Ultron, para descobrir o seu verdadeiro propósito.  Esta vida tranquila de autorreflexão termina quando uma recompensa pela sua captura o obriga a fugir ao lado de Thomas Shepard, um rapaz misterioso que poderá ser a reencarnação do filho de Vision.",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "sXKnmgmbkoE",
+     "type": "Trailer"
+    },
+    {
+     "source": "pM9HZ8Ovjdw",
+     "type": "Trailer"
+    },
+    {
+     "source": "oSVTAUKyrL8",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Paul Bettany",
+    "James Spader",
+    "Ruaridh Mollica"
+   ],
+   "credits_cast": [
+    {
+     "character": "Vision",
+     "name": "Paul Bettany",
+     "profile_path": "/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg",
+     "id": 6162
+    },
+    {
+     "character": "Ultron",
+     "name": "James Spader",
+     "profile_path": "/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg",
+     "id": 13548
+    },
+    {
+     "character": "Thomas Shepard",
+     "name": "Ruaridh Mollica",
+     "profile_path": "/wiSim6nG9TSY4AO8KOwsaaPJ0EH.jpg",
+     "id": 2307679
+    },
+    {
+     "character": "Paladin",
+     "name": "Todd Stashwick",
+     "profile_path": "/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg",
+     "id": 19277
+    },
+    {
+     "character": "Jocasta",
+     "name": "T'Nia Miller",
+     "profile_path": "/rNsPJGkQz2yMbqcrWQCdGxq7t20.jpg",
+     "id": 109325
+    },
+    {
+     "character": "Lisa Molinari",
+     "name": "Lauren Morais",
+     "profile_path": "/7Eur3EddzlvXTYzKAGkRmo87xcS.jpg",
+     "id": 5089882
+    },
+    {
+     "character": "F.R.I.D.A.Y.",
+     "name": "Orla Brady",
+     "profile_path": "/wjo8xposTE0HenFopy6KELCWoD0.jpg",
+     "id": 107734
+    },
+    {
+     "character": "",
+     "name": "Diane Morgan",
+     "profile_path": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg",
+     "id": 1543364
+    },
+    {
+     "character": "",
+     "name": "Polly Frame",
+     "profile_path": null,
+     "id": 58917
+    },
+    {
+     "character": "D.U.M.-E",
+     "name": "Henry Lewis",
+     "profile_path": "/sMDsMyLYhmI1N1amPPmd6Lrh7UK.jpg",
+     "id": 1730562
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Roopesh Parekh",
+     "profile_path": "/ldfC0xTcYVztjjr7TDaWfiEOGwO.jpg",
+     "id": 107726
+    }
+   ],
+   "director": [],
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
+   "imdbRating": "8.1"
+  },
+  {
+   "name": "Dune",
+   "cast": [
+    "Timothée Chalamet",
+    "Rebecca Ferguson",
+    "Zendaya"
+   ],
+   "country": "Canada, United States",
+   "description": "Nesta viagem mítica e emocional, “Dune -Duna” conta a história de Paul Adreides, um jovem brilhante e talentoso com um grande destino para além da sua compreensão, que tem de viajar para o planeta mais perigoso do universo para garantir o futuro da sua família e do seu povo. Quando forças malévolas entram em conflito para obter uma quantidade exclusiva do recurso mais precioso do planeta –uma substância capaz de desbloquear o maior potencial da humanidade – apenas os que conquistam os seus medos conseguiram sobreviver.",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2021-10-22T00:00:00.000Z",
+   "writer": [
+    "Jon Spaihts",
+    "Denis Villeneuve",
+    "Eric Roth"
+   ],
+   "year": "2021",
+   "trailers": [
+    {
+     "source": "w0HgHet0sxg",
+     "type": "Trailer"
+    },
+    {
+     "source": "8g18jFHCLXk",
+     "type": "Trailer"
+    },
+    {
+     "source": "n9xhJrPXop4",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt1160419/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1160419/img",
+   "runtime": "155 min",
+   "awards": "Won 6 Oscars. 177 wins & 299 nominations total",
+   "dvdRelease": "2021-10-22T00:00:00.000Z",
+   "id": "tt1160419",
+   "genres": [
+    "Ficção científica",
+    "Aventura"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "Dune",
+     "ytId": "w0HgHet0sxg"
+    },
+    {
+     "title": "Dune",
+     "ytId": "8g18jFHCLXk"
+    },
+    {
+     "title": "Dune",
+     "ytId": "n9xhJrPXop4"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1160419"
+    },
+    {
+     "name": "Dune",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dune-1160419"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Timothée Chalamet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+    },
+    {
+     "name": "Rebecca Ferguson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Jon Spaihts",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jon%20Spaihts"
+    },
+    {
+     "name": "Denis Villeneuve",
+     "category": "Writers",
+     "url": "stremio:///search?search=Denis%20Villeneuve"
+    },
+    {
+     "name": "Eric Roth",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eric%20Roth"
+    },
+    {
+     "name": "Denis Villeneuve",
+     "category": "Directors",
+     "url": "stremio:///search?search=Denis%20Villeneuve"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1160419",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1160419.jpg"
+  },
+  {
+   "name": "The Terminal List",
+   "cast": [
+    "Chris Pratt",
+    "Constance Wu",
+    "Taylor Kitsch"
+   ],
+   "country": "United States",
+   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.9",
+   "released": "2022-07-01T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Jack Carr",
+    "David DiGilio"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt11743610/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
+   "awards": "3 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "x9FvvsC0B5Q",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11743610",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Terminal List",
+     "ytId": "x9FvvsC0B5Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11743610"
+    },
+    {
+     "name": "The Terminal List",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
      "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Eva Green",
+     "name": "Chris Pratt",
      "category": "Cast",
-     "url": "stremio:///search?search=Eva%20Green"
+     "url": "stremio:///search?search=Chris%20Pratt"
     },
     {
-     "name": "Maria Bakalova",
+     "name": "Constance Wu",
      "category": "Cast",
-     "url": "stremio:///search?search=Maria%20Bakalova"
+     "url": "stremio:///search?search=Constance%20Wu"
     },
     {
-     "name": "Ruby Rose",
+     "name": "Taylor Kitsch",
      "category": "Cast",
-     "url": "stremio:///search?search=Ruby%20Rose"
+     "url": "stremio:///search?search=Taylor%20Kitsch"
     },
     {
-     "name": "Alissa Sullivan Haggis",
+     "name": "Jack Carr",
      "category": "Writers",
-     "url": "stremio:///search?search=Alissa%20Sullivan%20Haggis"
+     "url": "stremio:///search?search=Jack%20Carr"
     },
     {
-     "name": "Jonas McCord",
+     "name": "David DiGilio",
      "category": "Writers",
-     "url": "stremio:///search?search=Jonas%20McCord"
-    },
-    {
-     "name": "Martin Campbell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Martin%20Campbell"
-    },
-    {
-     "name": "Martin Campbell",
-     "category": "Directors",
-     "url": "stremio:///search?search=Martin%20Campbell"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt23872640",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23872640.jpg"
-  },
-  {
-   "name": "MobLand",
-   "imdbRating": "8.3",
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "released": "2025-03-30T00:00:00.000Z",
-   "writer": [
-    "Ronan Bennett"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "qKGgw7Ob5f4",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
-    },
-    {
-     "name": "MobLand",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "Pierce Brosnan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
-    },
-    {
-     "name": "Paddy Considine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
+     "url": "stremio:///search?search=David%20DiGilio"
     }
    ],
    "behaviorHints": {
@@ -396,198 +663,126 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
   },
   {
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3/ImageRenderer/111/168/images/no_image_111x168.jpg/188528/images/masterrepository/fandango/188528/ouija2.jpg\" alt=\"Ouija: Origin of Evil\" title=\"Ouija: Origin of Evil\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fouija%3aoriginofevil-trailer%2f188528%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "name": "Ouija: Origin of Evil",
-   "trailers": [
-    {
-     "source": "uVXGLbhozK8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nDyOftZyVeA",
-     "type": "Trailer"
-    },
-    {
-     "source": "MJIcZGEjjwo",
-     "type": "Trailer"
-    }
-   ],
-   "year": "2016",
-   "runtime": "99 min",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Mystery"
-   ],
-   "released": "2016-10-21T00:00:00.000Z",
-   "director": [
-    "Mike Flanagan"
-   ],
-   "writer": [
-    "Mike Flanagan",
-    "Jeff Howard",
-    "Juliet Snowden"
-   ],
-   "cast": [
-    "Elizabeth Reaser",
-    "Lulu Wilson",
-    "Annalise Basso"
-   ],
-   "imdbRating": "6.2",
-   "description": "Uma mãe viúva que vive com as suas duas filhas, é especialista em enganar clientes com sessões falsas, fingindo comunicar com os espíritos.\r Mas quando Doris, uma das filhas, começa a utilizar o tabuleiro de Ouija para estabelecer comunicação com o falecido pai, acaba por libertar uma série de seres malignos que se apoderam do seu corpo e ameaçam todos que a rodeiam.",
+   "name": "Matchbox",
    "country": "United States",
-   "awards": "2 wins & 7 nominations total",
-   "dvdRelease": "2017-01-11T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4361050/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4361050/img",
-   "id": "tt4361050",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "uVXGLbhozK8"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "nDyOftZyVeA"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "MJIcZGEjjwo"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4361050"
-    },
-    {
-     "name": "Ouija: Origin of Evil",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/ouija-origin-of-evil-4361050"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Elizabeth Reaser",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Reaser"
-    },
-    {
-     "name": "Lulu Wilson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lulu%20Wilson"
-    },
-    {
-     "name": "Annalise Basso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Annalise%20Basso"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    },
-    {
-     "name": "Jeff Howard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Howard"
-    },
-    {
-     "name": "Juliet Snowden",
-     "category": "Writers",
-     "url": "stremio:///search?search=Juliet%20Snowden"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt4361050",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4361050.jpg"
-  },
-  {
-   "name": "Carrie",
-   "cast": [
-    "Summer H. Howell",
-    "Matthew Lillard",
-    "Amber Midthunder"
-   ],
-   "country": "Canada, United States",
-   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
+   "description": "O reencontro de um grupo de antigos amigos de infância sofre uma reviravolta quando se deparam com uma perigosa conspiração internacional – e têm de salvar o mundo.",
    "genre": [
-    "Drama",
-    "Horror"
+    "Action"
    ],
-   "imdbRating": "7.9",
-   "released": "2026-10-07T00:00:00.000Z",
-   "writer": [
-    "Mike Flanagan"
-   ],
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
+   "imdbRating": "5.7",
+   "released": null,
+   "year": "2026",
+   "runtime": "127 min",
    "trailers": [
     {
-     "source": "jkUw2nh6fT0",
+     "source": "7xfqITrMDcI",
      "type": "Trailer"
     }
+   ],
+   "cast": [
+    "John Cena",
+    "Jessica Biel",
+    "Arturo Castro",
+    "Sam Richardson",
+    "Teyonah Parris",
+    "Danai Gurira",
+    "Golshifteh Farahani",
+    "Corey Stoll"
    ],
    "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
-   "background": "https://images.metahub.space/background/medium/tt11540908/img",
-   "id": "tt11540908",
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt28498219/img",
+   "background": "https://images.metahub.space/background/medium/tt28498219/img",
+   "id": "tt28498219",
    "genres": [
-    "Mistério",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Ação",
+    "Comédia",
+    "Aventura"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Carrie",
-     "ytId": "jkUw2nh6fT0"
+     "title": "Matchbox",
+     "ytId": "7xfqITrMDcI"
     }
    ],
    "links": [
     {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11540908"
+     "name": "Matchbox",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/matchbox-28498219"
     },
     {
-     "name": "Carrie",
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt28498219",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg"
+  },
+  {
+   "name": "Slow Horses",
+   "cast": [
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
+   "genre": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "8.4",
+   "released": "2022-04-01T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Mick Herron"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5875444/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
+   "runtime": "46 min",
+   "trailers": [
+    {
+     "source": "O9ZJChzPn0U",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5875444",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Slow Horses",
+     "ytId": "O9ZJChzPn0U"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5875444"
+    },
+    {
+     "name": "Slow Horses",
      "category": "share",
-     "url": "https://www.strem.io/s/series/carrie-11540908"
+     "url": "https://www.strem.io/s/series/slow-horses-5875444"
     },
     {
      "name": "Drama",
@@ -595,29 +790,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Horror",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Summer H. Howell",
+     "name": "Gary Oldman",
      "category": "Cast",
-     "url": "stremio:///search?search=Summer%20H.%20Howell"
+     "url": "stremio:///search?search=Gary%20Oldman"
     },
     {
-     "name": "Matthew Lillard",
+     "name": "Jack Lowden",
      "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Lillard"
+     "url": "stremio:///search?search=Jack%20Lowden"
     },
     {
-     "name": "Amber Midthunder",
+     "name": "Kristin Scott Thomas",
      "category": "Cast",
-     "url": "stremio:///search?search=Amber%20Midthunder"
+     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
     },
     {
-     "name": "Mike Flanagan",
+     "name": "Mick Herron",
      "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
+     "url": "stremio:///search?search=Mick%20Herron"
     }
    ],
    "behaviorHints": {
@@ -626,7 +821,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   },
   {
    "id": "tt6262770",
@@ -762,253 +957,58 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg"
   },
   {
-   "id": "tt23112594",
-   "logo": "https://live.metahub.space/logo/medium/tt23112594/img",
-   "background": "https://live.metahub.space/background/medium/tt23112594/img",
-   "name": "VisionQuest",
-   "description": "Um Vision renovado tem-se escondido daqueles que procuram transformá-lo numa arma. Enquanto mantém um perfil discreto, consulta as personalidades de IA incorporadas na sua programação, incluindo o infame Ultron, para descobrir o seu verdadeiro propósito.  Esta vida tranquila de autorreflexão termina quando uma recompensa pela sua captura o obriga a fugir ao lado de Thomas Shepard, um rapaz misterioso que poderá ser a reencarnação do filho de Vision.",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "sXKnmgmbkoE",
-     "type": "Trailer"
-    },
-    {
-     "source": "pM9HZ8Ovjdw",
-     "type": "Trailer"
-    },
-    {
-     "source": "oSVTAUKyrL8",
-     "type": "Trailer"
-    }
-   ],
+   "name": "The Diplomat",
    "cast": [
-    "Paul Bettany",
-    "James Spader",
-    "Ruaridh Mollica"
-   ],
-   "credits_cast": [
-    {
-     "character": "Vision",
-     "name": "Paul Bettany",
-     "profile_path": "/oNrDowF5cRtK5lJJuCAh0KeFizy.jpg",
-     "id": 6162
-    },
-    {
-     "character": "Ultron",
-     "name": "James Spader",
-     "profile_path": "/3gurW3OgDOD4hcqDfgcqUnoNg34.jpg",
-     "id": 13548
-    },
-    {
-     "character": "Thomas Shepard",
-     "name": "Ruaridh Mollica",
-     "profile_path": "/wiSim6nG9TSY4AO8KOwsaaPJ0EH.jpg",
-     "id": 2307679
-    },
-    {
-     "character": "Paladin",
-     "name": "Todd Stashwick",
-     "profile_path": "/seKRXV2HMS36ip4SfQq6PLRiLL2.jpg",
-     "id": 19277
-    },
-    {
-     "character": "Jocasta",
-     "name": "T'Nia Miller",
-     "profile_path": "/rNsPJGkQz2yMbqcrWQCdGxq7t20.jpg",
-     "id": 109325
-    },
-    {
-     "character": "Lisa Molinari",
-     "name": "Lauren Morais",
-     "profile_path": "/7Eur3EddzlvXTYzKAGkRmo87xcS.jpg",
-     "id": 5089882
-    },
-    {
-     "character": "F.R.I.D.A.Y.",
-     "name": "Orla Brady",
-     "profile_path": "/wjo8xposTE0HenFopy6KELCWoD0.jpg",
-     "id": 107734
-    },
-    {
-     "character": "",
-     "name": "Diane Morgan",
-     "profile_path": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg",
-     "id": 1543364
-    },
-    {
-     "character": "",
-     "name": "Polly Frame",
-     "profile_path": null,
-     "id": 58917
-    },
-    {
-     "character": "D.U.M.-E",
-     "name": "Henry Lewis",
-     "profile_path": "/sMDsMyLYhmI1N1amPPmd6Lrh7UK.jpg",
-     "id": 1730562
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Roopesh Parekh",
-     "profile_path": "/ldfC0xTcYVztjjr7TDaWfiEOGwO.jpg",
-     "id": 107726
-    }
-   ],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "8.1"
-  },
-  {
-   "name": "Love of Your Life",
-   "cast": [
-    "Margaret Qualley",
-    "Gabriel Basso",
-    "Catherine Keener"
-   ],
-   "country": "United States",
-   "description": "Realizado por Rachel Morrison, LOVE OF YOUR LIFE segue Maya, cujo encontro fortuito com Charlie desencadeia um romance arrebatador e um futuro para além do que ela tinha imaginado. Quando esse futuro é virado do avesso, Maya é lançada para uma nova e inesperada vida que a vai obrigar a perceber quem é, o que quer e como voltar a amar.",
-   "director": [
-    "Rachel Morrison"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "6.5",
-   "released": "2026-10-14T00:00:00.000Z",
-   "writer": [
-    "Julia Cox"
-   ],
-   "year": "2026",
-   "logo": "https://images.metahub.space/logo/medium/tt34384900/img",
-   "background": "https://images.metahub.space/background/medium/tt34384900/img",
-   "id": "tt34384900",
-   "genres": [
-    "Romance",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Love of Your Life",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/love-of-your-life-34384900"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Margaret Qualley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Margaret%20Qualley"
-    },
-    {
-     "name": "Gabriel Basso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gabriel%20Basso"
-    },
-    {
-     "name": "Catherine Keener",
-     "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Keener"
-    },
-    {
-     "name": "Julia Cox",
-     "category": "Writers",
-     "url": "stremio:///search?search=Julia%20Cox"
-    },
-    {
-     "name": "Rachel Morrison",
-     "category": "Directors",
-     "url": "stremio:///search?search=Rachel%20Morrison"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt34384900",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34384900.jpg"
-  },
-  {
-   "name": "Slow Horses",
-   "cast": [
-    "Gary Oldman",
-    "Jack Lowden",
-    "Kristin Scott Thomas"
+    "Keri Russell",
+    "Rufus Sewell",
+    "David Gyasi"
    ],
    "country": "United Kingdom, United States",
-   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
+   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
    "genre": [
     "Drama",
     "Thriller"
    ],
-   "imdbRating": "8.4",
-   "released": "2022-04-01T00:00:00.000Z",
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
+   "imdbRating": "8.1",
+   "released": "2023-04-20T00:00:00.000Z",
    "writer": [
-    "Mick Herron"
+    "Debora Cahn"
    ],
-   "background": "https://images.metahub.space/background/medium/tt5875444/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
-   "runtime": "46 min",
+   "year": "2023–",
    "trailers": [
     {
-     "source": "O9ZJChzPn0U",
+     "source": "lV6sJlBbhPs",
      "type": "Trailer"
     }
    ],
-   "id": "tt5875444",
+   "director": [],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt17491088/img",
+   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
+   "id": "tt17491088",
    "genres": [
-    "Crime",
     "Drama",
-    "Mistério"
+    "War & Politics"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Slow Horses",
-     "ytId": "O9ZJChzPn0U"
+     "title": "The Diplomat",
+     "ytId": "lV6sJlBbhPs"
     }
    ],
    "links": [
     {
-     "name": "8.4",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt5875444"
+     "url": "https://imdb.com/title/tt17491088"
     },
     {
-     "name": "Slow Horses",
+     "name": "The Diplomat",
      "category": "share",
-     "url": "https://www.strem.io/s/series/slow-horses-5875444"
+     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
     },
     {
      "name": "Drama",
@@ -1021,24 +1021,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Gary Oldman",
+     "name": "Keri Russell",
      "category": "Cast",
-     "url": "stremio:///search?search=Gary%20Oldman"
+     "url": "stremio:///search?search=Keri%20Russell"
     },
     {
-     "name": "Jack Lowden",
+     "name": "Rufus Sewell",
      "category": "Cast",
-     "url": "stremio:///search?search=Jack%20Lowden"
+     "url": "stremio:///search?search=Rufus%20Sewell"
     },
     {
-     "name": "Kristin Scott Thomas",
+     "name": "David Gyasi",
      "category": "Cast",
-     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
+     "url": "stremio:///search?search=David%20Gyasi"
     },
     {
-     "name": "Mick Herron",
+     "name": "Debora Cahn",
      "category": "Writers",
-     "url": "stremio:///search?search=Mick%20Herron"
+     "url": "stremio:///search?search=Debora%20Cahn"
     }
    ],
    "behaviorHints": {
@@ -1047,7 +1047,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   }
  ]
 }
