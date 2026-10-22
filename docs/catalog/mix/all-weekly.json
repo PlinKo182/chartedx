@@ -379,7 +379,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "8.1"
+   "imdbRating": "8.0"
   },
   {
    "id": "tt6262770",
@@ -814,64 +814,53 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   },
   {
-   "awards": "15 wins & 20 nominations total",
+   "name": "Masterplan",
    "cast": [
-    "Ben Whishaw",
-    "Dustin Hoffman",
-    "Alan Rickman"
+    "Stanley Tucci",
+    "Victor Belmondo",
+    "Simona Tabasco"
    ],
-   "country": "Germany, France, Spain, Belgium, United States",
-   "description": "Jean-Baptiste Grenouille nasceu com o olfacto mais apurado do mundo e encontrou a carreira certa para o usar ao tornar-se perfumista. Mas o que poderia ter sido uma história de sucesso toma contornos macabros quando a sua busca incessante para captar o aroma mais perfeito e fugaz o leva a cometer as maiores atrocidades.",
+   "country": "France, Italy",
+   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
    "director": [
-    "Tom Tykwer"
+    "Thomas Vincent"
    ],
-   "dvdRelease": "2016-03-22T00:00:00.000Z",
    "genre": [
-    "Crime",
-    "Drama",
-    "Fantasy"
+    "Action",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "7.5",
-   "name": "Perfume: The Story of a Murderer",
-   "released": "2007-01-05T00:00:00.000Z",
-   "runtime": "147 min",
-   "trailers": [
-    {
-     "source": "zutiIw_2e2g",
-     "type": "Trailer"
-    }
-   ],
+   "imdbRating": "5.4",
+   "released": "2026-10-16T00:00:00.000Z",
    "writer": [
-    "Andrew Birkin",
-    "Bernd Eichinger",
-    "Tom Tykwer"
+    "Giacomo Durzi",
+    "Alessandro Fabbri",
+    "Alberto Vignati"
    ],
-   "year": "2006",
-   "background": "https://images.metahub.space/background/medium/tt0396171/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0396171/img",
-   "id": "tt0396171",
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt38672588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
+   "id": "tt38672588",
    "genres": [
-    "Crime",
-    "Fantasia",
-    "Drama"
+    "Ação",
+    "Thriller"
    ],
-   "releaseInfo": "2006",
-   "trailerStreams": [
-    {
-     "title": "Perfume: The Story of a Murderer",
-     "ytId": "zutiIw_2e2g"
-    }
-   ],
+   "releaseInfo": "2026",
    "links": [
     {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0396171"
+     "name": "Masterplan",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/masterplan-38672588"
     },
     {
-     "name": "Perfume: The Story of a Murderer",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/perfume-the-story-of-a-murderer-0396171"
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
      "name": "Crime",
@@ -879,102 +868,103 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Ben Whishaw",
+     "name": "Stanley Tucci",
      "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Whishaw"
+     "url": "stremio:///search?search=Stanley%20Tucci"
     },
     {
-     "name": "Dustin Hoffman",
+     "name": "Victor Belmondo",
      "category": "Cast",
-     "url": "stremio:///search?search=Dustin%20Hoffman"
+     "url": "stremio:///search?search=Victor%20Belmondo"
     },
     {
-     "name": "Alan Rickman",
+     "name": "Simona Tabasco",
      "category": "Cast",
-     "url": "stremio:///search?search=Alan%20Rickman"
+     "url": "stremio:///search?search=Simona%20Tabasco"
     },
     {
-     "name": "Andrew Birkin",
+     "name": "Giacomo Durzi",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Birkin"
+     "url": "stremio:///search?search=Giacomo%20Durzi"
     },
     {
-     "name": "Bernd Eichinger",
+     "name": "Alessandro Fabbri",
      "category": "Writers",
-     "url": "stremio:///search?search=Bernd%20Eichinger"
+     "url": "stremio:///search?search=Alessandro%20Fabbri"
     },
     {
-     "name": "Tom Tykwer",
+     "name": "Alberto Vignati",
      "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Tykwer"
+     "url": "stremio:///search?search=Alberto%20Vignati"
     },
     {
-     "name": "Tom Tykwer",
+     "name": "Thomas Vincent",
      "category": "Directors",
-     "url": "stremio:///search?search=Tom%20Tykwer"
+     "url": "stremio:///search?search=Thomas%20Vincent"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0396171",
+    "defaultVideoId": "tt38672588",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0396171.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
   },
   {
-   "name": "East of Eden",
+   "name": "Slow Horses",
    "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas"
    ],
-   "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "country": "United Kingdom, United States",
+   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
    "genre": [
-    "Drama"
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
+   "imdbRating": "8.4",
+   "released": "2022-04-01T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Mick Herron"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5875444/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
+   "runtime": "46 min",
    "trailers": [
     {
-     "source": "M9NWvGZViCg",
+     "source": "O9ZJChzPn0U",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
+   "id": "tt5875444",
    "genres": [
-    "Drama"
+    "Crime",
+    "Drama",
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
+     "title": "Slow Horses",
+     "ytId": "O9ZJChzPn0U"
     }
    ],
    "links": [
     {
-     "name": "East of Eden",
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5875444"
+    },
+    {
+     "name": "Slow Horses",
      "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+     "url": "https://www.strem.io/s/series/slow-horses-5875444"
     },
     {
      "name": "Drama",
@@ -982,19 +972,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Mike Faist",
+     "name": "Gary Oldman",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
+     "url": "stremio:///search?search=Gary%20Oldman"
     },
     {
-     "name": "Christopher Abbott",
+     "name": "Jack Lowden",
      "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
+     "url": "stremio:///search?search=Jack%20Lowden"
+    },
+    {
+     "name": "Kristin Scott Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
+    },
+    {
+     "name": "Mick Herron",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mick%20Herron"
     }
    ],
    "behaviorHints": {
@@ -1003,7 +1003,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   }
  ]
 }

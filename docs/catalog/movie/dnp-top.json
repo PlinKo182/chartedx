@@ -107,23 +107,129 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0075005.jpg"
   },
   {
-   "id": "tt46027225",
+   "name": "Moana",
+   "cast": [
+    "Dwayne Johnson",
+    "Catherine Laga&apos;aia",
+    "Rena Owen"
+   ],
+   "country": "United States, New Zealand, Canada, Hungary",
+   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
+   "director": [
+    "Thomas Kail"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "5.8",
+   "released": "2026-07-10T00:00:00.000Z",
+   "writer": [
+    "Jared Bush",
+    "Dana Ledoux Miller",
+    "Ron Clements"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt27419466/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
+   "trailers": [
+    {
+     "source": "EEz5xbzYPKI",
+     "type": "Trailer"
+    },
+    {
+     "source": "n7f6hlKsxxo",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "115 min",
+   "id": "tt27419466",
+   "genres": [
+    "Família",
+    "Fantasia",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Moana",
+     "ytId": "EEz5xbzYPKI"
+    },
+    {
+     "title": "Moana",
+     "ytId": "n7f6hlKsxxo"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27419466"
+    },
+    {
+     "name": "Moana",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/moana-27419466"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Dwayne Johnson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dwayne%20Johnson"
+    },
+    {
+     "name": "Catherine Laga&apos;aia",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
+    },
+    {
+     "name": "Rena Owen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rena%20Owen"
+    },
+    {
+     "name": "Jared Bush",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jared%20Bush"
+    },
+    {
+     "name": "Dana Ledoux Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
+    },
+    {
+     "name": "Ron Clements",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Clements"
+    },
+    {
+     "name": "Thomas Kail",
+     "category": "Directors",
+     "url": "stremio:///search?search=Thomas%20Kail"
+    }
+   ],
    "behaviorHints": {
+    "defaultVideoId": "tt27419466",
     "hasScheduledVideos": false
    },
-   "cast": [
-    "Mariana van Zeller"
-   ],
    "type": "movie",
-   "name": "Super Scam Me",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
-   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ],
-   "imdbRating": "7.1"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
    "name": "Toy Story 5",
@@ -252,138 +358,158 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "name": "Star Wars: The Mandalorian and Grogu",
+   "id": "tt46027225",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
    "cast": [
-    "Pedro Pascal",
-    "Brendan Wayne",
-    "Lateef Crowder"
+    "Mariana van Zeller"
+   ],
+   "type": "movie",
+   "name": "Super Scam Me",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
+   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário"
+   ],
+   "imdbRating": "6.7"
+  },
+  {
+   "awards": "2 wins & 13 nominations total",
+   "cast": [
+    "Heath Ledger",
+    "Julia Stiles",
+    "Joseph Gordon-Levitt"
    ],
    "country": "United States",
-   "description": "O Império caiu e os senhores da guerra imperiais permanecem espalhados pela galáxia. Enquanto a incipiente Nova República trabalha para proteger tudo pelo que a Rebelião lutou, recrutam o lendário caçador de recompensas Mandaloriano Din Djarin e o seu jovem aprendiz Grogu.",
+   "description": "No primeiro dia na sua nova escola, Cameron apaixona-se imediatamente por Bianca, a rapariga dos seus sonhos. O único problema é que Bianca está proibida de namorar até que a sua irmã Kat, que tem um péssimo temperamento, arranje um namorado.  Numa tentativa de ultrapassar esta questão, Cameron, apaixonado por Bianca, resolve contratar o misterioso Patrick Verona para seduzir a futura cunhada.",
    "director": [
-    "Jon Favreau"
+    "Gil Junger"
    ],
+   "dvdRelease": "2014-10-02T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Adventure",
-    "Family"
+    "Comedy",
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "6.7",
-   "released": "2026-05-22T00:00:00.000Z",
-   "writer": [
-    "George Lucas",
-    "Jon Favreau",
-    "Dave Filoni"
-   ],
-   "year": "2026",
+   "imdbRating": "7.4",
+   "name": "10 Things I Hate About You",
+   "released": "1999-03-31T00:00:00.000Z",
+   "runtime": "97 min",
    "trailers": [
     {
-     "source": "uwild1rw7Aw",
+     "source": "GbWQ_VXek6A",
      "type": "Trailer"
     },
     {
-     "source": "IHWlvwu8t1w",
+     "source": "Ax8qnxP2TWY",
      "type": "Trailer"
     },
     {
-     "source": "_pa1KLXuW0Y",
+     "source": "wRo7iUQMcTM",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt30825738/img",
-   "logo": "https://images.metahub.space/logo/medium/tt30825738/img",
-   "runtime": "132 min",
-   "awards": "3 nominations total",
-   "id": "tt30825738",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Ficção científica"
+   "writer": [
+    "Karen McCullah",
+    "Kirsten Smith",
+    "William Shakespeare"
    ],
-   "releaseInfo": "2026",
+   "year": "1999",
+   "background": "https://images.metahub.space/background/medium/tt0147800/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0147800/img",
+   "id": "tt0147800",
+   "genres": [
+    "Comédia",
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "1999",
    "trailerStreams": [
     {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "uwild1rw7Aw"
+     "title": "10 Things I Hate About You",
+     "ytId": "GbWQ_VXek6A"
     },
     {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "IHWlvwu8t1w"
+     "title": "10 Things I Hate About You",
+     "ytId": "Ax8qnxP2TWY"
     },
     {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "_pa1KLXuW0Y"
+     "title": "10 Things I Hate About You",
+     "ytId": "wRo7iUQMcTM"
     }
    ],
    "links": [
     {
-     "name": "6.7",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt30825738"
+     "url": "https://imdb.com/title/tt0147800"
     },
     {
-     "name": "Star Wars: The Mandalorian and Grogu",
+     "name": "10 Things I Hate About You",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/star-wars-the-mandalorian-and-grogu-30825738"
+     "url": "https://www.strem.io/s/movie/10-things-i-hate-about-you-0147800"
     },
     {
-     "name": "Action",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Adventure",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Family",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Pedro Pascal",
+     "name": "Heath Ledger",
      "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Pascal"
+     "url": "stremio:///search?search=Heath%20Ledger"
     },
     {
-     "name": "Brendan Wayne",
+     "name": "Julia Stiles",
      "category": "Cast",
-     "url": "stremio:///search?search=Brendan%20Wayne"
+     "url": "stremio:///search?search=Julia%20Stiles"
     },
     {
-     "name": "Lateef Crowder",
+     "name": "Joseph Gordon-Levitt",
      "category": "Cast",
-     "url": "stremio:///search?search=Lateef%20Crowder"
+     "url": "stremio:///search?search=Joseph%20Gordon-Levitt"
     },
     {
-     "name": "George Lucas",
+     "name": "Karen McCullah",
      "category": "Writers",
-     "url": "stremio:///search?search=George%20Lucas"
+     "url": "stremio:///search?search=Karen%20McCullah"
     },
     {
-     "name": "Jon Favreau",
+     "name": "Kirsten Smith",
      "category": "Writers",
-     "url": "stremio:///search?search=Jon%20Favreau"
+     "url": "stremio:///search?search=Kirsten%20Smith"
     },
     {
-     "name": "Dave Filoni",
+     "name": "William Shakespeare",
      "category": "Writers",
-     "url": "stremio:///search?search=Dave%20Filoni"
+     "url": "stremio:///search?search=William%20Shakespeare"
     },
     {
-     "name": "Jon Favreau",
+     "name": "Gil Junger",
      "category": "Directors",
-     "url": "stremio:///search?search=Jon%20Favreau"
+     "url": "stremio:///search?search=Gil%20Junger"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt30825738",
+    "defaultVideoId": "tt0147800",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0147800.jpg"
   },
   {
    "name": "Spider-Man: No Way Home",
@@ -529,111 +655,138 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10872600.jpg"
   },
   {
-   "name": "A Real Pain",
-   "awards": "Won 1 Oscar. 69 wins & 96 nominations total",
+   "name": "Star Wars: The Mandalorian and Grogu",
    "cast": [
-    "Kieran Culkin",
-    "Jesse Eisenberg",
-    "Olha Bosova"
+    "Pedro Pascal",
+    "Brendan Wayne",
+    "Lateef Crowder"
    ],
-   "country": "United States, Poland",
-   "description": "Primos desencontrados reúnem-se numa viagem pela Polónia para homenagear a sua querida avó, mas as suas velhas tensões ressurgem tendo como pano de fundo a história da família deles.",
+   "country": "United States",
+   "description": "O Império caiu e os senhores da guerra imperiais permanecem espalhados pela galáxia. Enquanto a incipiente Nova República trabalha para proteger tudo pelo que a Rebelião lutou, recrutam o lendário caçador de recompensas Mandaloriano Din Djarin e o seu jovem aprendiz Grogu.",
    "director": [
-    "Jesse Eisenberg"
+    "Jon Favreau"
    ],
    "genre": [
-    "Comedy",
-    "Drama"
+    "Action",
+    "Adventure",
+    "Family"
    ],
-   "imdbRating": "7.0",
-   "released": "2024-11-15T00:00:00.000Z",
+   "imdbRating": "6.7",
+   "released": "2026-05-22T00:00:00.000Z",
    "writer": [
-    "Jesse Eisenberg"
+    "George Lucas",
+    "Jon Favreau",
+    "Dave Filoni"
    ],
-   "year": "2024",
-   "runtime": "90 min",
+   "year": "2026",
    "trailers": [
     {
-     "source": "E_sjoa8aHpc",
+     "source": "uwild1rw7Aw",
      "type": "Trailer"
     },
     {
-     "source": "b2et8Vpu7Ls",
+     "source": "IHWlvwu8t1w",
+     "type": "Trailer"
+    },
+    {
+     "source": "_pa1KLXuW0Y",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt21823606/img",
-   "logo": "https://images.metahub.space/logo/medium/tt21823606/img",
-   "id": "tt21823606",
+   "background": "https://images.metahub.space/background/medium/tt30825738/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30825738/img",
+   "runtime": "132 min",
+   "awards": "3 nominations total",
+   "id": "tt30825738",
    "genres": [
-    "Comédia",
-    "Drama"
+    "Ação",
+    "Aventura",
+    "Ficção científica"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "A Real Pain",
-     "ytId": "E_sjoa8aHpc"
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "uwild1rw7Aw"
     },
     {
-     "title": "A Real Pain",
-     "ytId": "b2et8Vpu7Ls"
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "IHWlvwu8t1w"
+    },
+    {
+     "title": "Star Wars: The Mandalorian and Grogu",
+     "ytId": "_pa1KLXuW0Y"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "6.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt21823606"
+     "url": "https://imdb.com/title/tt30825738"
     },
     {
-     "name": "A Real Pain",
+     "name": "Star Wars: The Mandalorian and Grogu",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/a-real-pain-21823606"
+     "url": "https://www.strem.io/s/movie/star-wars-the-mandalorian-and-grogu-30825738"
     },
     {
-     "name": "Comedy",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Drama",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Kieran Culkin",
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Pedro Pascal",
      "category": "Cast",
-     "url": "stremio:///search?search=Kieran%20Culkin"
+     "url": "stremio:///search?search=Pedro%20Pascal"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "Brendan Wayne",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=Brendan%20Wayne"
     },
     {
-     "name": "Olha Bosova",
+     "name": "Lateef Crowder",
      "category": "Cast",
-     "url": "stremio:///search?search=Olha%20Bosova"
+     "url": "stremio:///search?search=Lateef%20Crowder"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "George Lucas",
      "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=George%20Lucas"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "Jon Favreau",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jon%20Favreau"
+    },
+    {
+     "name": "Dave Filoni",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dave%20Filoni"
+    },
+    {
+     "name": "Jon Favreau",
      "category": "Directors",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=Jon%20Favreau"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt21823606",
+    "defaultVideoId": "tt30825738",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21823606.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
   },
   {
    "awards": "8 wins & 11 nominations total",
@@ -799,349 +952,84 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2250912.jpg"
   },
   {
-   "awards": "Won 1 Oscar. 19 wins & 22 nominations total",
+   "name": "Spider-Man: Far from Home",
    "cast": [
-    "Sigourney Weaver",
-    "Tom Skerritt",
-    "John Hurt"
+    "Tom Holland",
+    "Samuel L. Jackson",
+    "Jake Gyllenhaal"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Quando a tripulação do rebocador espacial Nostromo responde a um sinal de socorro de um planeta árido, descobre uma forma de vida mortal que se reproduz em hospedeiros humanos. Agora, a tripulação tem de lutar pela sobrevivência e impedir que a criatura chegue à Terra. Realizado por Ridley Scott e com a participação de sucesso de Sigourney Weaver, este primeiro filme lendário da saga Alien vai deixá-lo sem fôlego.",
+   "country": "United States, Czech Republic, Australia, Canada, Italy",
+   "description": "O nosso vizinho Super-Herói decide juntar-se aos seus amigos Ned, MJ, e ao resto do bando numas férias europeias. Mas o plano de Peter de deixar para trás os super-heróis durante umas semanas é rapidamente desfeito quando ele concorda em ajudar Nick Fury a desvendar o mistério de vários ataques de criaturas elementais. O Homem-Aranha e Mysterio unem forças para combater o caos desencadeado naquele continente, mas nem tudo é como parece.",
    "director": [
-    "Ridley Scott"
-   ],
-   "dvdRelease": "2014-11-02T00:00:00.000Z",
-   "genre": [
-    "Sci-Fi"
-   ],
-   "imdbRating": "8.4",
-   "name": "Alien",
-   "released": "1979-06-22T00:00:00.000Z",
-   "runtime": "117 min",
-   "trailers": [
-    {
-     "source": "sVwH0hIvV5k",
-     "type": "Trailer"
-    },
-    {
-     "source": "MNZPs5AKibU",
-     "type": "Trailer"
-    },
-    {
-     "source": "L2VWfWC-wI4",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Dan O&apos;Bannon",
-    "Ronald Shusett"
-   ],
-   "year": "1979",
-   "background": "https://images.metahub.space/background/medium/tt0078748/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0078748/img",
-   "id": "tt0078748",
-   "genres": [
-    "Terror",
-    "Ficção científica"
-   ],
-   "releaseInfo": "1979",
-   "trailerStreams": [
-    {
-     "title": "Alien",
-     "ytId": "sVwH0hIvV5k"
-    },
-    {
-     "title": "Alien",
-     "ytId": "MNZPs5AKibU"
-    },
-    {
-     "title": "Alien",
-     "ytId": "L2VWfWC-wI4"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0078748"
-    },
-    {
-     "name": "Alien",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/alien-0078748"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Sigourney Weaver",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sigourney%20Weaver"
-    },
-    {
-     "name": "Tom Skerritt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Skerritt"
-    },
-    {
-     "name": "John Hurt",
-     "category": "Cast",
-     "url": "stremio:///search?search=John%20Hurt"
-    },
-    {
-     "name": "Dan O&apos;Bannon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dan%20O%26apos%3BBannon"
-    },
-    {
-     "name": "Ronald Shusett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronald%20Shusett"
-    },
-    {
-     "name": "Ridley Scott",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ridley%20Scott"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0078748",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0078748.jpg"
-  },
-  {
-   "name": "Hidden Figures",
-   "trailers": [
-    {
-     "source": "5wfrDhgUMGI",
-     "type": "Trailer"
-    }
-   ],
-   "year": "2016",
-   "runtime": "127 min",
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "released": "2017-01-06T00:00:00.000Z",
-   "director": [
-    "Theodore Melfi"
-   ],
-   "writer": [
-    "Allison Schroeder",
-    "Theodore Melfi",
-    "Margot Lee Shetterly"
-   ],
-   "cast": [
-    "Taraji P. Henson",
-    "Octavia Spencer",
-    "Janelle Monáe"
-   ],
-   "imdbRating": "7.8",
-   "description": "Elementos Secretos, conta a incrível história de Katherine Johnson (Taraji P. Henson), Dorothy Vaughan (Octavia Spencer) e Mary Jackson (Janelle Monáe) - três brilhantes mulheres afro-americanas que trabalharam na NASA e que foram o cérebro por detrás da projeção do astronauta John Glenn para a órbita terrestre, uma conquista admirável que girou em torno da Corrida Espacial e que reanimou o mundo. O trio visionário transpôs todas as linhas de género e raça e inspirou gerações.",
-   "country": "United States",
-   "awards": "Nominated for 3 Oscars. 37 wins & 94 nominations total",
-   "dvdRelease": "2017-03-28T00:00:00.000Z",
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhiddenfigures_192068%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhiddenfigures_192068%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.20.1489312454.39685/ImageRenderer/111/168/images/no_image_111x168.jpg/192068/images/masterrepository/fandango/192068/hiddenfigures.jpg\" alt=\"Hidden Figures\" title=\"Hidden Figures\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhiddenfigures_192068%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.20.1489312454.39685//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fhiddenfigures-trailer%2f192068%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "background": "https://images.metahub.space/background/medium/tt4846340/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4846340/img",
-   "id": "tt4846340",
-   "genres": [
-    "Drama",
-    "História"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Hidden Figures",
-     "ytId": "5wfrDhgUMGI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4846340"
-    },
-    {
-     "name": "Hidden Figures",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hidden-figures-4846340"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Taraji P. Henson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Taraji%20P.%20Henson"
-    },
-    {
-     "name": "Octavia Spencer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Octavia%20Spencer"
-    },
-    {
-     "name": "Janelle Monáe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Janelle%20Mon%C3%A1e"
-    },
-    {
-     "name": "Allison Schroeder",
-     "category": "Writers",
-     "url": "stremio:///search?search=Allison%20Schroeder"
-    },
-    {
-     "name": "Theodore Melfi",
-     "category": "Writers",
-     "url": "stremio:///search?search=Theodore%20Melfi"
-    },
-    {
-     "name": "Margot Lee Shetterly",
-     "category": "Writers",
-     "url": "stremio:///search?search=Margot%20Lee%20Shetterly"
-    },
-    {
-     "name": "Theodore Melfi",
-     "category": "Directors",
-     "url": "stremio:///search?search=Theodore%20Melfi"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt4846340",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4846340.jpg"
-  },
-  {
-   "name": "Thunderbolts*",
-   "cast": [
-    "Florence Pugh",
-    "Sebastian Stan",
-    "Julia Louis-Dreyfus"
-   ],
-   "country": "United States, Australia, Canada",
-   "description": "Quando as autoridades norte-americanas percebem que os Vingadores, responsáveis por manter alguma estabilidade no país, não irão regressar, deparam-se com uma questão crucial: quem poderá enfrentar as devastadoras ameaças à integridade nacional? A resposta, por mais desconfortável que seja, recai sobre os Thunderbolts, um grupo de heróis (muito) pouco convencionais. Apesar de possuírem poderes extraordinários, todos eles enfrentam sérios desafios em termos de organização e unidade.",
-   "director": [
-    "Jake Schreier"
+    "Jon Watts"
    ],
    "genre": [
     "Action",
     "Adventure",
-    "Crime"
+    "Comedy"
    ],
-   "imdbRating": "7.1",
-   "released": "2025-05-02T00:00:00.000Z",
+   "imdbRating": "7.3",
+   "released": "2019-07-02T00:00:00.000Z",
    "writer": [
-    "Eric Pearson",
-    "Joanna Calo",
-    "Kurt Busiek"
+    "Chris McKenna",
+    "Erik Sommers",
+    "Stan Lee"
    ],
-   "year": "2025",
+   "year": "2019",
    "trailers": [
     {
-     "source": "7rs_HhSA7XY",
+     "source": "LFoz8ZJWmPs",
      "type": "Trailer"
     },
     {
-     "source": "-sAOWhvheK8",
+     "source": "V38cLTYYXNw",
      "type": "Trailer"
     },
     {
-     "source": "BJk4wYL-_Hw",
-     "type": "Trailer"
-    },
-    {
-     "source": "bqnRzjPfb5A",
-     "type": "Trailer"
-    },
-    {
-     "source": "hUUszE29jS0",
-     "type": "Trailer"
-    },
-    {
-     "source": "8IiAm7KUuoY",
-     "type": "Trailer"
-    },
-    {
-     "source": "v-94Snw-H4o",
+     "source": "DYYtuKyMtY8",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt20969586/img",
-   "logo": "https://images.metahub.space/logo/medium/tt20969586/img",
-   "runtime": "127 min",
-   "awards": "4 wins & 30 nominations total",
-   "id": "tt20969586",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704/ImageRenderer/111/168/images/no_image_111x168.jpg/216033/images/masterrepository/fandango/216033/spider-man-far-from-home-sffh_online_1sht_6072x9000_tsr_04_rgb.jpg\" alt=\"Spider-Man: Far From Home (2019)\" title=\"Spider-Man: Far From Home (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fspiderman%3afarfromhome2019-trailer%2f216033%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.704//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fspiderman%3afarfromhome2019_216033%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt6320628/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6320628/img",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "11 wins & 26 nominations total",
+   "id": "tt6320628",
    "genres": [
     "Ação",
-    "Ficção científica",
-    "Aventura"
+    "Aventura",
+    "Ficção científica"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "Thunderbolts*",
-     "ytId": "7rs_HhSA7XY"
+     "title": "Spider-Man: Far from Home",
+     "ytId": "LFoz8ZJWmPs"
     },
     {
-     "title": "Thunderbolts*",
-     "ytId": "-sAOWhvheK8"
+     "title": "Spider-Man: Far from Home",
+     "ytId": "V38cLTYYXNw"
     },
     {
-     "title": "Thunderbolts*",
-     "ytId": "BJk4wYL-_Hw"
-    },
-    {
-     "title": "Thunderbolts*",
-     "ytId": "bqnRzjPfb5A"
-    },
-    {
-     "title": "Thunderbolts*",
-     "ytId": "hUUszE29jS0"
-    },
-    {
-     "title": "Thunderbolts*",
-     "ytId": "8IiAm7KUuoY"
-    },
-    {
-     "title": "Thunderbolts*",
-     "ytId": "v-94Snw-H4o"
+     "title": "Spider-Man: Far from Home",
+     "ytId": "DYYtuKyMtY8"
     }
    ],
    "links": [
     {
-     "name": "7.1",
+     "name": "7.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt20969586"
+     "url": "https://imdb.com/title/tt6320628"
     },
     {
-     "name": "Thunderbolts*",
+     "name": "Spider-Man: Far from Home",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/thunderbolts-20969586"
+     "url": "https://www.strem.io/s/movie/spider-man-far-from-home-6320628"
     },
     {
      "name": "Action",
@@ -1154,53 +1042,160 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Crime",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Florence Pugh",
+     "name": "Tom Holland",
      "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "url": "stremio:///search?search=Tom%20Holland"
     },
     {
-     "name": "Sebastian Stan",
+     "name": "Samuel L. Jackson",
      "category": "Cast",
-     "url": "stremio:///search?search=Sebastian%20Stan"
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
     },
     {
-     "name": "Julia Louis-Dreyfus",
+     "name": "Jake Gyllenhaal",
      "category": "Cast",
-     "url": "stremio:///search?search=Julia%20Louis-Dreyfus"
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
     },
     {
-     "name": "Eric Pearson",
+     "name": "Chris McKenna",
      "category": "Writers",
-     "url": "stremio:///search?search=Eric%20Pearson"
+     "url": "stremio:///search?search=Chris%20McKenna"
     },
     {
-     "name": "Joanna Calo",
+     "name": "Erik Sommers",
      "category": "Writers",
-     "url": "stremio:///search?search=Joanna%20Calo"
+     "url": "stremio:///search?search=Erik%20Sommers"
     },
     {
-     "name": "Kurt Busiek",
+     "name": "Stan Lee",
      "category": "Writers",
-     "url": "stremio:///search?search=Kurt%20Busiek"
+     "url": "stremio:///search?search=Stan%20Lee"
     },
     {
-     "name": "Jake Schreier",
+     "name": "Jon Watts",
      "category": "Directors",
-     "url": "stremio:///search?search=Jake%20Schreier"
+     "url": "stremio:///search?search=Jon%20Watts"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt20969586",
+    "defaultVideoId": "tt6320628",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6320628.jpg"
+  },
+  {
+   "name": "A Real Pain",
+   "awards": "Won 1 Oscar. 69 wins & 96 nominations total",
+   "cast": [
+    "Kieran Culkin",
+    "Jesse Eisenberg",
+    "Olha Bosova"
+   ],
+   "country": "United States, Poland",
+   "description": "Primos desencontrados reúnem-se numa viagem pela Polónia para homenagear a sua querida avó, mas as suas velhas tensões ressurgem tendo como pano de fundo a história da família deles.",
+   "director": [
+    "Jesse Eisenberg"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.0",
+   "released": "2024-11-15T00:00:00.000Z",
+   "writer": [
+    "Jesse Eisenberg"
+   ],
+   "year": "2024",
+   "runtime": "90 min",
+   "trailers": [
+    {
+     "source": "E_sjoa8aHpc",
+     "type": "Trailer"
+    },
+    {
+     "source": "b2et8Vpu7Ls",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt21823606/img",
+   "logo": "https://images.metahub.space/logo/medium/tt21823606/img",
+   "id": "tt21823606",
+   "genres": [
+    "Comédia",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "A Real Pain",
+     "ytId": "E_sjoa8aHpc"
+    },
+    {
+     "title": "A Real Pain",
+     "ytId": "b2et8Vpu7Ls"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt21823606"
+    },
+    {
+     "name": "A Real Pain",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/a-real-pain-21823606"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Kieran Culkin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kieran%20Culkin"
+    },
+    {
+     "name": "Jesse Eisenberg",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jesse%20Eisenberg"
+    },
+    {
+     "name": "Olha Bosova",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olha%20Bosova"
+    },
+    {
+     "name": "Jesse Eisenberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jesse%20Eisenberg"
+    },
+    {
+     "name": "Jesse Eisenberg",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jesse%20Eisenberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt21823606",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21823606.jpg"
   }
  ]
 }
