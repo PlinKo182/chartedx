@@ -1,150 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt39387986",
-   "logo": "https://live.metahub.space/logo/medium/tt39387986/img",
-   "background": "https://live.metahub.space/background/medium/tt39387986/img",
-   "name": "Fading Grandeur",
-   "description": "Desesperado para vender a mansão da família, um marquês falido tenta fechar negócio com uma milionária misteriosa que tem seus próprios planos.",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Antonio de la Torre",
-    "Alexandra Jiménez",
-    "Enric Benavent"
-   ],
-   "credits_cast": [
-    {
-     "character": "Don Leandro",
-     "name": "Antonio de la Torre",
-     "profile_path": "/d43JMOaio4mTZlov23gM2q8a6Uo.jpg",
-     "id": 3483
-    },
-    {
-     "character": "Sofía Carrington",
-     "name": "Alexandra Jiménez",
-     "profile_path": "/2dRN4aqsNgO9Um2f3FUWSx5WMcx.jpg",
-     "id": 114460
-    },
-    {
-     "character": "",
-     "name": "Enric Benavent",
-     "profile_path": "/y3uiIImDqR825jDrJNhQSwqrQLo.jpg",
-     "id": 1190975
-    },
-    {
-     "character": "",
-     "name": "Fernando Andina",
-     "profile_path": "/2Cg1olOBdW3xv4FEi5zXw4jrHs6.jpg",
-     "id": 1163772
-    },
-    {
-     "character": "",
-     "name": "Mercedes Sampietro",
-     "profile_path": "/5ZwykqdX9ClgABxC8d9VGSDW4kd.jpg",
-     "id": 19820
-    },
-    {
-     "character": "",
-     "name": "Celia de Molina",
-     "profile_path": "/uQCEuXPEkz7areLKjbIBfrd6mZk.jpg",
-     "id": 1334529
-    },
-    {
-     "character": "",
-     "name": "Teresa Rabal",
-     "profile_path": "/9veUNCdweNRAHzaRBAtaHxRbveR.jpg",
-     "id": 37507
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Juan Cavestany",
-     "profile_path": "/q89yKseLqsPLCUiqnbMI3Eoxgzb.jpg",
-     "id": 225020
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Álvaro Fernández Armero",
-     "profile_path": "/oHK7f5hNrNL9s15GZGYmd5MnDGO.jpg",
-     "id": 563824
-    }
-   ],
-   "director": [
-    "Juan Cavestany",
-    "Álvaro Fernández Armero"
-   ],
-   "language": "Spanish",
-   "country": "Spain",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39387986.jpg"
-  },
-  {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
-   "id": "tt44385073",
-   "type": "series",
-   "name": "Last One Laughing UK: Halloween",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44385073.jpg"
-  },
-  {
    "id": "tt49692512",
    "type": "series",
    "name": "Final Table",
@@ -970,6 +826,13 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg"
   },
   {
+   "id": "tt44385073",
+   "type": "series",
+   "name": "Last One Laughing UK: Halloween",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44385073.jpg"
+  },
+  {
    "status": "Continuing",
    "id": "tt36458668",
    "name": "Dead-End Job",
@@ -998,7 +861,7 @@
     "Mistério",
     "Sci-Fi & Fantasy"
    ],
-   "imdbRating": "7.7"
+   "imdbRating": "7.6"
   },
   {
    "status": "Continuing",
@@ -1835,7 +1698,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://image.tmdb.org/t/p/w500/ju6k9yjDo4kmGq2nylFtBCSmfML.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg"
   },
   {
    "id": "tt39943756",
@@ -2412,6 +2275,74 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
   },
   {
+   "name": "Ethos",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.4",
+   "released": "2020-11-12T00:00:00.000Z",
+   "year": "2020",
+   "status": "Continuing",
+   "cast": [
+    "Öykü Karayel",
+    "Fatih Artman",
+    "Funda Eryigit"
+   ],
+   "director": [],
+   "writer": [],
+   "country": "Turkey",
+   "description": "Em Istambul, um grupo de pessoas precisa transcender fronteiras socioculturais para fazer novas amizades, mesmo quando suas crenças, desejos e medos se misturam.",
+   "background": "https://images.metahub.space/background/medium/tt11301642/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11301642/img",
+   "runtime": "48 min",
+   "awards": "2 wins & 3 nominations total",
+   "id": "tt11301642",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2020",
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11301642"
+    },
+    {
+     "name": "Ethos",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/ethos-11301642"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Öykü Karayel",
+     "category": "Cast",
+     "url": "stremio:///search?search=%C3%96yk%C3%BC%20Karayel"
+    },
+    {
+     "name": "Fatih Artman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Fatih%20Artman"
+    },
+    {
+     "name": "Funda Eryigit",
+     "category": "Cast",
+     "url": "stremio:///search?search=Funda%20Eryigit"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11301642.jpg"
+  },
+  {
    "status": "Continuing",
    "id": "tt39494650",
    "name": "Miracles of the ER",
@@ -2613,6 +2544,14 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
+  },
+  {
+   "id": "tt31408266",
+   "type": "series",
+   "name": "Love Is Blind, Habibi",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31408266.jpg",
+   "imdbRating": "5.4"
   },
   {
    "id": "tt38707741",
