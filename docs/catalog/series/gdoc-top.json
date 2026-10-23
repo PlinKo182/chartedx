@@ -277,31 +277,6 @@
    "imdbRating": "8.1"
   },
   {
-   "id": "tt46683025",
-   "logo": "https://live.metahub.space/logo/medium/tt46683025/img",
-   "background": "https://live.metahub.space/background/medium/tt46683025/img",
-   "name": "The Pet Cemetery Murders: A Ghost Story",
-   "description": "A investigação do assassinato da dona de um cemitério de animais em Nova Orleans revela um passado inquietante que ainda assombra a comunidade.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "6.4"
-  },
-  {
    "name": "The Bombing of Pan Am 103",
    "cast": [
     "Connor Swindells",
@@ -604,6 +579,59 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
+  },
+  {
+   "id": "tt48313964",
+   "logo": "https://live.metahub.space/logo/medium/tt48313964/img",
+   "background": "https://live.metahub.space/background/medium/tt48313964/img",
+   "name": "The Flores Massacre",
+   "description": "Acompanhe a história de resiliência de Matías Bagnato, único sobrevivente do incêndio ocorrido em 1994 no bairro de Flores, em Buenos Aires, que vitimou seus pais, seus dois irmãos mais novos e um amigo da família. O que inicialmente parecia uma tragédia inexplicável revelou, posteriormente, uma história marcada por ameaças, violência e vingança, que culminou na condenação de Fructuoso Álvarez González, apontado como responsável pelo crime.",
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Matías Bagnato",
+    "Juan José Campanella"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Matías Bagnato",
+     "profile_path": "/lnTXjtzmwhMkSACxxTJxwOAzCzs.jpg",
+     "id": 6535144
+    },
+    {
+     "character": "Self",
+     "name": "Juan José Campanella",
+     "profile_path": "/vnZ69dnDx9tnAkW9wicO9wHRQdx.jpg",
+     "id": 84714
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Augusto Tejada",
+     "profile_path": "/i84QtZhdaXws47PcenQQK598ZGY.jpg",
+     "id": 3898406
+    }
+   ],
+   "director": [
+    "Augusto Tejada"
+   ],
+   "language": "Spanish",
+   "country": "Argentina",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg"
   }
  ]
 }
