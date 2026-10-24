@@ -126,6 +126,25 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
+   "id": "tt46027225",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
+   "cast": [
+    "Mariana van Zeller"
+   ],
+   "type": "movie",
+   "name": "Super Scam Me",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
+   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário"
+   ],
+   "imdbRating": "6.6"
+  },
+  {
    "name": "Toy Story 5",
    "awards": "4 nominations total",
    "cast": [
@@ -359,25 +378,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21823606.jpg"
   },
   {
-   "id": "tt46027225",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "cast": [
-    "Mariana van Zeller"
-   ],
-   "type": "movie",
-   "name": "Super Scam Me",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
-   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ],
-   "imdbRating": "6.6"
-  },
-  {
    "name": "Spider-Man: No Way Home",
    "cast": [
     "Tom Holland",
@@ -519,112 +519,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10872600.jpg"
-  },
-  {
-   "awards": "Won 1 Oscar. 6 wins & 9 nominations total",
-   "cast": [
-    "Gregory Peck",
-    "Lee Remick",
-    "Harvey Stephens"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Quando o filho de Robert Thorn morre ao nascer e, na sala ao lado, uma jovem mãe dá à luz um filho e morre, Robert decide adoptá-lo e proteger a sua esposa. Mas os anos passam e ela sente não ser a mãe verdadeira. Além disso, coisas perturbadoras acontecem ao redor da criança: um cão assustador vagueia, suicídios e mortes misteriosas acontecem. Após um tenebroso aviso por um padre que parece louco, Robert começa a suspeitar: será aquela criança, que criou como filho, o verdadeiro Anticristo?",
-   "director": [
-    "Richard Donner"
-   ],
-   "dvdRelease": "2017-03-01T00:00:00.000Z",
-   "genre": [
-    "Horror",
-    "Mystery"
-   ],
-   "imdbRating": "7.5",
-   "name": "The Omen",
-   "released": "1976-06-25T00:00:00.000Z",
-   "runtime": "111 min",
-   "trailers": [
-    {
-     "source": "mgjVPPVtnII",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "David Seltzer",
-    "Harvey Bernhard"
-   ],
-   "year": "1976",
-   "background": "https://images.metahub.space/background/medium/tt0075005/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0075005/img",
-   "id": "tt0075005",
-   "genres": [
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "1976",
-   "trailerStreams": [
-    {
-     "title": "The Omen",
-     "ytId": "mgjVPPVtnII"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0075005"
-    },
-    {
-     "name": "The Omen",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-omen-0075005"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Gregory Peck",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gregory%20Peck"
-    },
-    {
-     "name": "Lee Remick",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lee%20Remick"
-    },
-    {
-     "name": "Harvey Stephens",
-     "category": "Cast",
-     "url": "stremio:///search?search=Harvey%20Stephens"
-    },
-    {
-     "name": "David Seltzer",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Seltzer"
-    },
-    {
-     "name": "Harvey Bernhard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Harvey%20Bernhard"
-    },
-    {
-     "name": "Richard Donner",
-     "category": "Directors",
-     "url": "stremio:///search?search=Richard%20Donner"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0075005",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0075005.jpg"
   },
   {
    "name": "Don't Look Back in Anger",
@@ -863,6 +757,112 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
+  },
+  {
+   "awards": "Won 1 Oscar. 6 wins & 9 nominations total",
+   "cast": [
+    "Gregory Peck",
+    "Lee Remick",
+    "Harvey Stephens"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Quando o filho de Robert Thorn morre ao nascer e, na sala ao lado, uma jovem mãe dá à luz um filho e morre, Robert decide adoptá-lo e proteger a sua esposa. Mas os anos passam e ela sente não ser a mãe verdadeira. Além disso, coisas perturbadoras acontecem ao redor da criança: um cão assustador vagueia, suicídios e mortes misteriosas acontecem. Após um tenebroso aviso por um padre que parece louco, Robert começa a suspeitar: será aquela criança, que criou como filho, o verdadeiro Anticristo?",
+   "director": [
+    "Richard Donner"
+   ],
+   "dvdRelease": "2017-03-01T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.5",
+   "name": "The Omen",
+   "released": "1976-06-25T00:00:00.000Z",
+   "runtime": "111 min",
+   "trailers": [
+    {
+     "source": "mgjVPPVtnII",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "David Seltzer",
+    "Harvey Bernhard"
+   ],
+   "year": "1976",
+   "background": "https://images.metahub.space/background/medium/tt0075005/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0075005/img",
+   "id": "tt0075005",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "trailerStreams": [
+    {
+     "title": "The Omen",
+     "ytId": "mgjVPPVtnII"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0075005"
+    },
+    {
+     "name": "The Omen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-omen-0075005"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Gregory Peck",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gregory%20Peck"
+    },
+    {
+     "name": "Lee Remick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lee%20Remick"
+    },
+    {
+     "name": "Harvey Stephens",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harvey%20Stephens"
+    },
+    {
+     "name": "David Seltzer",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Seltzer"
+    },
+    {
+     "name": "Harvey Bernhard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Harvey%20Bernhard"
+    },
+    {
+     "name": "Richard Donner",
+     "category": "Directors",
+     "url": "stremio:///search?search=Richard%20Donner"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0075005",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0075005.jpg"
   },
   {
    "awards": "2 wins & 13 nominations total",

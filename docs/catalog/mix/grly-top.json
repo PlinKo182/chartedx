@@ -709,96 +709,87 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44877899.jpg"
   },
   {
-   "awards": "Won 32 Primetime Emmys. 99 wins & 134 nominations total",
+   "awards": "Nominated for 4 Primetime Emmys. 7 nominations total",
    "cast": [
-    "John Oliver",
-    "David Kaye",
-    "Donald Trump"
+    "Michael Brown",
+    "Laura Zerra",
+    "Matt Wright"
    ],
    "country": "United States",
-   "description": "Um olhar sobre as notícias, política e assuntos da atualidade. John Oliver oferece-nos a sua perspetiva singular e dá voz a uma série de questões sociais, políticas ou existenciais presentes na América e no mundo.",
+   "description": "Largados e Pelados é um reality norte-americano. Cada episódio apresenta dois sobreviventes — um homem e uma mulher — que se conhecem apenas no primeiro dia e lhes é dada a tarefa de sobreviver por 21 dias pelados em um ambiente de selva. Logo depois de se conhecerem, os sobreviventes seguem para um local designado onde terão que produzir ou encontrar água, alimento e abrigo a partir do que encontrarem na natureza",
    "director": null,
    "dvdRelease": null,
    "genre": [
-    "Comedy",
-    "News",
-    "Talk-Show"
+    "Adventure",
+    "Game-Show",
+    "Horror"
    ],
-   "imdbRating": "8.8",
-   "name": "Last Week Tonight with John Oliver",
-   "released": "2014-04-27T00:00:00.000Z",
-   "runtime": "33 min",
+   "imdbRating": "6.6",
+   "name": "Naked and Afraid",
+   "released": "2013-06-23T00:00:00.000Z",
+   "runtime": "55 min",
    "status": "Continuing",
-   "writer": [
-    "John Oliver"
-   ],
-   "year": "2014–",
-   "background": "https://images.metahub.space/background/medium/tt3530232/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3530232/img",
+   "writer": null,
+   "year": "2013–",
+   "background": "https://images.metahub.space/background/medium/tt3007640/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3007640/img",
    "trailers": [
     {
-     "source": "PawUmci7JuU",
+     "source": "9dZcXQn42Ic",
      "type": "Trailer"
     }
    ],
-   "id": "tt3530232",
+   "id": "tt3007640",
    "genres": [
-    "Talk",
-    "Comédia",
-    "News"
+    "Reality"
    ],
-   "releaseInfo": "2014",
+   "releaseInfo": "2013",
    "trailerStreams": [
     {
-     "title": "Last Week Tonight with John Oliver",
-     "ytId": "PawUmci7JuU"
+     "title": "Naked and Afraid",
+     "ytId": "9dZcXQn42Ic"
     }
    ],
    "links": [
     {
-     "name": "8.8",
+     "name": "6.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3530232"
+     "url": "https://imdb.com/title/tt3007640"
     },
     {
-     "name": "Last Week Tonight with John Oliver",
+     "name": "Naked and Afraid",
      "category": "share",
-     "url": "https://www.strem.io/s/series/last-week-tonight-with-john-oliver-3530232"
+     "url": "https://www.strem.io/s/series/naked-and-afraid-3007640"
     },
     {
-     "name": "Comedy",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "News",
+     "name": "Game-Show",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=News"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
     },
     {
-     "name": "Talk-Show",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Talk-Show"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
     },
     {
-     "name": "John Oliver",
+     "name": "Michael Brown",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Oliver"
+     "url": "stremio:///search?search=Michael%20Brown"
     },
     {
-     "name": "David Kaye",
+     "name": "Laura Zerra",
      "category": "Cast",
-     "url": "stremio:///search?search=David%20Kaye"
+     "url": "stremio:///search?search=Laura%20Zerra"
     },
     {
-     "name": "Donald Trump",
+     "name": "Matt Wright",
      "category": "Cast",
-     "url": "stremio:///search?search=Donald%20Trump"
-    },
-    {
-     "name": "John Oliver",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Oliver"
+     "url": "stremio:///search?search=Matt%20Wright"
     }
    ],
    "behaviorHints": {
@@ -807,7 +798,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3530232.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3007640.jpg"
   }
  ]
 }

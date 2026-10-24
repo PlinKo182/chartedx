@@ -553,56 +553,88 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39656291.jpg"
   },
   {
-   "id": "tt29890377",
-   "logo": "https://live.metahub.space/logo/medium/tt29890377/img",
-   "background": "https://live.metahub.space/background/medium/tt29890377/img",
-   "name": "The Garden: Commune or Cult",
-   "description": "Uma série documental que visa expor a verdade sobre a polêmica comunidade “O Jardim”, seu modo de vida único e seus comportamentos potencialmente perigosos.",
+   "id": "tt37497762",
+   "logo": "https://live.metahub.space/logo/medium/tt37497762/img",
+   "background": "https://live.metahub.space/background/medium/tt37497762/img",
+   "name": "The Real Rooneys",
+   "description": "A candid glimpse into the Rooneys' world as soccer legend Wayne juggles dad duties and former England captain's wife Coleen balances motherhood with business ambitions.",
    "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2023",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "5.7",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29890377.jpg"
-  },
-  {
-   "id": "tt46683025",
-   "logo": "https://live.metahub.space/logo/medium/tt46683025/img",
-   "background": "https://live.metahub.space/background/medium/tt46683025/img",
-   "name": "The Pet Cemetery Murders: A Ghost Story",
-   "description": "A investigação do assassinato da dona de um cemitério de animais em Nova Orleans revela um passado inquietante que ainda assombra a comunidade.",
-   "genres": [
+    "Reality",
     "Documentário"
    ],
    "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "PM-mr3cTNRg",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Coleen Rooney",
+    "Wayne Rooney"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Coleen Rooney",
+     "profile_path": "/wv12ZEmrObCJkRJTj9mrY8RUs95.jpg",
+     "id": 2630135
+    },
+    {
+     "character": "Self",
+     "name": "Wayne Rooney",
+     "profile_path": "/pIUmu6SkoZpF5wT96mx0cEtyv2N.jpg",
+     "id": 928562
+    }
+   ],
    "credits_crew": [],
    "director": [],
+   "imdbRating": "6.0",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "5.8"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37497762.jpg"
+  },
+  {
+   "id": "tt10332528",
+   "logo": "https://live.metahub.space/logo/medium/tt10332528/img",
+   "background": "https://live.metahub.space/background/medium/tt10332528/img",
+   "name": "Witness to Disaster",
+   "description": "Testemunhas oculares. Fascinantes histórias sobre desastres contadas por pessoas que estavam lá. Uma mina desmorona no Chile, um incêndio incontrolável em Portugal, fluxo de detritos em uma cidade da Califórnia, um tornado causa destruições pelos Estados Unidos, um navio afunda durante um furacão e um terremoto causa destruições no Nepal. Com análises de perícia, revelamos como esses eventos aconteceram.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2019",
+   "status": "Ended",
+   "runtime": "45 min",
+   "trailers": [],
+   "cast": [
+    "Jonathan Guy Lewis"
+   ],
+   "credits_cast": [
+    {
+     "character": "Narrator",
+     "name": "Jonathan Guy Lewis",
+     "profile_path": null,
+     "id": 1814852
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.3",
+   "language": "English",
+   "country": "United Kingdom",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10332528.jpg"
   }
  ]
 }

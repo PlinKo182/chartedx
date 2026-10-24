@@ -1050,61 +1050,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23872640.jpg"
   },
   {
-   "name": "Mayday",
+   "name": "Moana",
    "cast": [
-    "Ryan Reynolds",
-    "Kenneth Branagh",
-    "Marcin Dorocinski"
+    "Dwayne Johnson",
+    "Catherine Laga&apos;aia",
+    "Rena Owen"
    ],
-   "country": "United States",
-   "description": "Quando um piloto da Marinha dos EUA numa missão ultrassecreta, durante a Guerra Fria, fica retido atrás das linhas inimigas, a sua única hipótese de sobrevivência é formar uma aliança com um excêntrico ex-agente do KGB.",
+   "country": "United States, New Zealand, Canada, Hungary",
+   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
    "director": [
-    "John Francis Daley",
-    "Jonathan Goldstein"
+    "Thomas Kail"
    ],
    "genre": [
     "Action",
     "Adventure",
     "Comedy"
    ],
-   "imdbRating": "6.8",
-   "released": "2026-09-04T00:00:00.000Z",
+   "imdbRating": "5.8",
+   "released": "2026-07-10T00:00:00.000Z",
    "writer": [
-    "John Francis Daley",
-    "Jonathan Goldstein"
+    "Jared Bush",
+    "Dana Ledoux Miller",
+    "Ron Clements"
    ],
    "year": "2026",
-   "runtime": "111 min",
+   "background": "https://images.metahub.space/background/medium/tt27419466/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
    "trailers": [
     {
-     "source": "om5Un9X720M",
+     "source": "EEz5xbzYPKI",
+     "type": "Trailer"
+    },
+    {
+     "source": "n7f6hlKsxxo",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt28014327/img",
-   "logo": "https://images.metahub.space/logo/medium/tt28014327/img",
-   "id": "tt28014327",
+   "runtime": "115 min",
+   "id": "tt27419466",
    "genres": [
-    "Ação",
+    "Família",
+    "Fantasia",
     "Comédia"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Mayday",
-     "ytId": "om5Un9X720M"
+     "title": "Moana",
+     "ytId": "EEz5xbzYPKI"
+    },
+    {
+     "title": "Moana",
+     "ytId": "n7f6hlKsxxo"
     }
    ],
    "links": [
     {
-     "name": "6.9",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt28014327"
+     "url": "https://imdb.com/title/tt27419466"
     },
     {
-     "name": "Mayday",
+     "name": "Moana",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/mayday-28014327"
+     "url": "https://www.strem.io/s/movie/moana-27419466"
     },
     {
      "name": "Action",
@@ -1122,48 +1131,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Ryan Reynolds",
+     "name": "Dwayne Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Reynolds"
+     "url": "stremio:///search?search=Dwayne%20Johnson"
     },
     {
-     "name": "Kenneth Branagh",
+     "name": "Catherine Laga&apos;aia",
      "category": "Cast",
-     "url": "stremio:///search?search=Kenneth%20Branagh"
+     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
     },
     {
-     "name": "Marcin Dorocinski",
+     "name": "Rena Owen",
      "category": "Cast",
-     "url": "stremio:///search?search=Marcin%20Dorocinski"
+     "url": "stremio:///search?search=Rena%20Owen"
     },
     {
-     "name": "John Francis Daley",
+     "name": "Jared Bush",
      "category": "Writers",
-     "url": "stremio:///search?search=John%20Francis%20Daley"
+     "url": "stremio:///search?search=Jared%20Bush"
     },
     {
-     "name": "Jonathan Goldstein",
+     "name": "Dana Ledoux Miller",
      "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Goldstein"
+     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
     },
     {
-     "name": "John Francis Daley",
-     "category": "Directors",
-     "url": "stremio:///search?search=John%20Francis%20Daley"
+     "name": "Ron Clements",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Clements"
     },
     {
-     "name": "Jonathan Goldstein",
+     "name": "Thomas Kail",
      "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Goldstein"
+     "url": "stremio:///search?search=Thomas%20Kail"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt28014327",
+    "defaultVideoId": "tt27419466",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28014327.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   }
  ]
 }

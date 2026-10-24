@@ -922,95 +922,55 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5687612.jpg"
   },
   {
-   "awards": "Nominated for 7 BAFTA Awards. 12 wins & 22 nominations total",
+   "awards": "Won 3 BAFTA 9 wins & 18 nominations total",
    "cast": [
-    "Jeremy Clarkson",
-    "Richard Hammond",
-    "James May"
+    "Chris O'Dowd",
+    "Richard Ayoade",
+    "Katherine Parkinson"
    ],
    "country": "United Kingdom",
-   "description": "Uma série dinâmica, divertida e maluca, cheia de ação e acrobacias automobilísticas, que colocam à prova qualquer tipo de carro para tirar uma conclusão e avaliar se os veículos em questão são verdadeiramente mundanos ou extraordinários.",
+   "description": "Ajudados por uma gestora que não percebe nada de tecnologia, dois nerds de TI exploram o melhor que a vida tem numa empresa com um novo proprietário.",
    "director": null,
    "dvdRelease": null,
    "genre": [
-    "Adventure",
-    "Comedy",
-    "Sport"
+    "Comedy"
    ],
-   "imdbRating": "8.7",
-   "name": "Top Gear",
-   "released": "2002-10-20T00:00:00.000Z",
-   "runtime": "60 min",
+   "imdbRating": "8.5",
+   "name": "The IT Crowd",
+   "released": "2006-02-03T00:00:00.000Z",
+   "runtime": "25 min",
    "status": "Ended",
    "writer": null,
-   "year": "2002–2022",
-   "background": "https://images.metahub.space/background/medium/tt1628033/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1628033/img",
+   "year": "2006–2013",
+   "background": "https://images.metahub.space/background/medium/tt0487831/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0487831/img",
    "trailers": [
     {
-     "source": "RbSwU2hn6wk",
-     "type": "Trailer"
-    },
-    {
-     "source": "azB_OQh0v1o",
-     "type": "Trailer"
-    },
-    {
-     "source": "BF-ZjLJiy5s",
-     "type": "Trailer"
-    },
-    {
-     "source": "q2IcQI3vjbY",
-     "type": "Trailer"
-    },
-    {
-     "source": "6xCB4idIaVM",
+     "source": "MwwTfkXk7U0",
      "type": "Trailer"
     }
    ],
-   "id": "tt1628033",
+   "id": "tt0487831",
    "genres": [
-    "Reality",
-    "Talk"
+    "Comédia"
    ],
-   "releaseInfo": "2002",
+   "releaseInfo": "2006",
    "trailerStreams": [
     {
-     "title": "Top Gear",
-     "ytId": "RbSwU2hn6wk"
-    },
-    {
-     "title": "Top Gear",
-     "ytId": "azB_OQh0v1o"
-    },
-    {
-     "title": "Top Gear",
-     "ytId": "BF-ZjLJiy5s"
-    },
-    {
-     "title": "Top Gear",
-     "ytId": "q2IcQI3vjbY"
-    },
-    {
-     "title": "Top Gear",
-     "ytId": "6xCB4idIaVM"
+     "title": "The IT Crowd",
+     "ytId": "MwwTfkXk7U0"
     }
    ],
    "links": [
     {
-     "name": "8.7",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1628033"
+     "url": "https://imdb.com/title/tt0487831"
     },
     {
-     "name": "Top Gear",
+     "name": "The IT Crowd",
      "category": "share",
-     "url": "https://www.strem.io/s/series/top-gear-1628033"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "https://www.strem.io/s/series/the-it-crowd-0487831"
     },
     {
      "name": "Comedy",
@@ -1018,24 +978,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+     "name": "Chris O'Dowd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20O'Dowd"
     },
     {
-     "name": "Jeremy Clarkson",
+     "name": "Richard Ayoade",
      "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Clarkson"
+     "url": "stremio:///search?search=Richard%20Ayoade"
     },
     {
-     "name": "Richard Hammond",
+     "name": "Katherine Parkinson",
      "category": "Cast",
-     "url": "stremio:///search?search=Richard%20Hammond"
-    },
-    {
-     "name": "James May",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20May"
+     "url": "stremio:///search?search=Katherine%20Parkinson"
     }
    ],
    "behaviorHints": {
@@ -1044,7 +999,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1628033.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0487831.jpg"
   }
  ]
 }

@@ -1,13 +1,6 @@
 {
  "metas": [
   {
-   "id": "tt49692512",
-   "type": "series",
-   "name": "Final Table",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt49692512/img"
-  },
-  {
    "id": "tt42220724",
    "logo": "https://live.metahub.space/logo/medium/tt42220724/img",
    "background": "https://live.metahub.space/background/medium/tt42220724/img",
@@ -1967,6 +1960,120 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995115.jpg"
+  },
+  {
+   "cast": [
+    "Morfydd Clark",
+    "Ismael Cruz Cordova",
+    "Robert Aramayo"
+   ],
+   "country": "United States, New Zealand, Canada",
+   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "6.8",
+   "name": "The Lord of the Rings: The Rings of Power",
+   "released": "2022-09-01T00:00:00.000Z",
+   "writer": [
+    "Patrick McKay",
+    "John D. Payne"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt7631058/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
+   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
+   "runtime": "69 min",
+   "trailers": [
+    {
+     "source": "x8UAUAuKNcU",
+     "type": "Trailer"
+    },
+    {
+     "source": "uYnQDsaxHZU",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7631058",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "x8UAUAuKNcU"
+    },
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "uYnQDsaxHZU"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7631058"
+    },
+    {
+     "name": "The Lord of the Rings: The Rings of Power",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Morfydd Clark",
+     "category": "Cast",
+     "url": "stremio:///search?search=Morfydd%20Clark"
+    },
+    {
+     "name": "Ismael Cruz Cordova",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
+    },
+    {
+     "name": "Robert Aramayo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Aramayo"
+    },
+    {
+     "name": "Patrick McKay",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20McKay"
+    },
+    {
+     "name": "John D. Payne",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20D.%20Payne"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
   }
  ]
 }
