@@ -155,26 +155,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48356732.jpg"
-  },
-  {
-   "cast": [
-    "Bonnie Lou Gower⁩",
-    "Kara Robinson Chamberlain",
-    "Richard Evonitz⁩⁩"
-   ],
-   "id": "tt46066662",
-   "type": "series",
-   "name": "The Serial Killer Connection",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
-   "description": "Bonnie Lou descobriu que o ex-marido, Richard Evonitz, era um serial killer. Ela se une a Kara Robinson, que escapou dele e ajudou a revelar os crimes do assassino. Juntas, investigam assassinatos ainda sem solução para descobrir se ele fez mais vítimas.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "imdbRating": "7.2"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48356732.jpg",
+   "imdbRating": "6.3"
   },
   {
    "id": "tt10274462",
@@ -212,69 +194,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10274462.jpg"
-  },
-  {
-   "id": "tt35051210",
-   "logo": "https://live.metahub.space/logo/medium/tt35051210/img",
-   "background": "https://live.metahub.space/background/medium/tt35051210/img",
-   "name": "TYSON",
-   "description": "Esta série documental dividida em quatro partes analisa a vida explosiva de Mike Tyson, uma das figuras mais temidas e fascinantes da história do esporte.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "o1S5LsYhfEg",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Mike Tyson"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Mike Tyson",
-     "profile_path": "/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg",
-     "id": 80757
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jenna Millman",
-     "profile_path": null,
-     "id": 2931785
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jacob Miller",
-     "profile_path": null,
-     "id": 6486205
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Alexa Ginsburg",
-     "profile_path": null,
-     "id": 3015586
-    }
-   ],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-   "imdbRating": "8.1"
   },
   {
    "name": "The Bombing of Pan Am 103",
@@ -390,6 +309,152 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13592494.jpg"
   },
   {
+   "id": "tt48313964",
+   "logo": "https://live.metahub.space/logo/medium/tt48313964/img",
+   "background": "https://live.metahub.space/background/medium/tt48313964/img",
+   "name": "The Flores Massacre",
+   "description": "Acompanhe a história de resiliência de Matías Bagnato, único sobrevivente do incêndio ocorrido em 1994 no bairro de Flores, em Buenos Aires, que vitimou seus pais, seus dois irmãos mais novos e um amigo da família. O que inicialmente parecia uma tragédia inexplicável revelou, posteriormente, uma história marcada por ameaças, violência e vingança, que culminou na condenação de Fructuoso Álvarez González, apontado como responsável pelo crime.",
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Matías Bagnato",
+    "Juan José Campanella"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Matías Bagnato",
+     "profile_path": "/lnTXjtzmwhMkSACxxTJxwOAzCzs.jpg",
+     "id": 6535144
+    },
+    {
+     "character": "Self",
+     "name": "Juan José Campanella",
+     "profile_path": "/vnZ69dnDx9tnAkW9wicO9wHRQdx.jpg",
+     "id": 84714
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Augusto Tejada",
+     "profile_path": "/i84QtZhdaXws47PcenQQK598ZGY.jpg",
+     "id": 3898406
+    }
+   ],
+   "director": [
+    "Augusto Tejada"
+   ],
+   "language": "Spanish",
+   "country": "Argentina",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg"
+  },
+  {
+   "name": "The Rehearsal",
+   "genre": [
+    "Documentary",
+    "Comedy"
+   ],
+   "imdbRating": "8.5",
+   "released": "2022-07-15T00:00:00.000Z",
+   "year": "2022–",
+   "cast": [
+    "Nathan Fielder",
+    "Journey Baker",
+    "Anna Lamadrid"
+   ],
+   "country": "United States",
+   "description": "Nesta série, pessoas comuns podem se preparar para os maiores momentos da vida \"ensaiando-os\" em simulações cuidadosamente elaboradas. Quando um único passo em falso pode destruir seu mundo inteiro, por que deixar a vida ao acaso?",
+   "director": null,
+   "writer": [
+    "Nathan Fielder"
+   ],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt10802170/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
+   "awards": "Nominated for 4 Primetime Emmys. 3 wins & 22 nominations total",
+   "runtime": "35 min",
+   "trailers": [
+    {
+     "source": "2fjPFt8cpic",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt10802170",
+   "genres": [
+    "Comédia",
+    "Documentário"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Rehearsal",
+     "ytId": "2fjPFt8cpic"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10802170"
+    },
+    {
+     "name": "The Rehearsal",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rehearsal-10802170"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    },
+    {
+     "name": "Journey Baker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Journey%20Baker"
+    },
+    {
+     "name": "Anna Lamadrid",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anna%20Lamadrid"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
+  },
+  {
    "name": "The Dark Wizard",
    "cast": [
     "Dan Duane",
@@ -488,150 +553,56 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39656291.jpg"
   },
   {
-   "name": "The Rehearsal",
-   "genre": [
-    "Documentary",
-    "Comedy"
-   ],
-   "imdbRating": "8.5",
-   "released": "2022-07-15T00:00:00.000Z",
-   "year": "2022–",
-   "cast": [
-    "Nathan Fielder",
-    "Journey Baker",
-    "Anna Lamadrid"
-   ],
-   "country": "United States",
-   "description": "Nesta série, pessoas comuns podem se preparar para os maiores momentos da vida \"ensaiando-os\" em simulações cuidadosamente elaboradas. Quando um único passo em falso pode destruir seu mundo inteiro, por que deixar a vida ao acaso?",
-   "director": null,
-   "writer": [
-    "Nathan Fielder"
-   ],
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt10802170/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
-   "awards": "Nominated for 4 Primetime Emmys. 3 wins & 22 nominations total",
-   "runtime": "35 min",
-   "trailers": [
-    {
-     "source": "2fjPFt8cpic",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10802170",
+   "id": "tt29890377",
+   "logo": "https://live.metahub.space/logo/medium/tt29890377/img",
+   "background": "https://live.metahub.space/background/medium/tt29890377/img",
+   "name": "The Garden: Commune or Cult",
+   "description": "Uma série documental que visa expor a verdade sobre a polêmica comunidade “O Jardim”, seu modo de vida único e seus comportamentos potencialmente perigosos.",
    "genres": [
-    "Comédia",
     "Documentário"
    ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Rehearsal",
-     "ytId": "2fjPFt8cpic"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10802170"
-    },
-    {
-     "name": "The Rehearsal",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-rehearsal-10802170"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Nathan Fielder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nathan%20Fielder"
-    },
-    {
-     "name": "Journey Baker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Journey%20Baker"
-    },
-    {
-     "name": "Anna Lamadrid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anna%20Lamadrid"
-    },
-    {
-     "name": "Nathan Fielder",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nathan%20Fielder"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
-  },
-  {
-   "id": "tt48313964",
-   "logo": "https://live.metahub.space/logo/medium/tt48313964/img",
-   "background": "https://live.metahub.space/background/medium/tt48313964/img",
-   "name": "The Flores Massacre",
-   "description": "Acompanhe a história de resiliência de Matías Bagnato, único sobrevivente do incêndio ocorrido em 1994 no bairro de Flores, em Buenos Aires, que vitimou seus pais, seus dois irmãos mais novos e um amigo da família. O que inicialmente parecia uma tragédia inexplicável revelou, posteriormente, uma história marcada por ameaças, violência e vingança, que culminou na condenação de Fructuoso Álvarez González, apontado como responsável pelo crime.",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2023",
    "status": "Continuing",
    "trailers": [],
-   "cast": [
-    "Matías Bagnato",
-    "Juan José Campanella"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Matías Bagnato",
-     "profile_path": "/lnTXjtzmwhMkSACxxTJxwOAzCzs.jpg",
-     "id": 6535144
-    },
-    {
-     "character": "Self",
-     "name": "Juan José Campanella",
-     "profile_path": "/vnZ69dnDx9tnAkW9wicO9wHRQdx.jpg",
-     "id": 84714
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Augusto Tejada",
-     "profile_path": "/i84QtZhdaXws47PcenQQK598ZGY.jpg",
-     "id": 3898406
-    }
-   ],
-   "director": [
-    "Augusto Tejada"
-   ],
-   "language": "Spanish",
-   "country": "Argentina",
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "5.7",
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29890377.jpg"
+  },
+  {
+   "id": "tt46683025",
+   "logo": "https://live.metahub.space/logo/medium/tt46683025/img",
+   "background": "https://live.metahub.space/background/medium/tt46683025/img",
+   "name": "The Pet Cemetery Murders: A Ghost Story",
+   "description": "A investigação do assassinato da dona de um cemitério de animais em Nova Orleans revela um passado inquietante que ainda assombra a comunidade.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
+   "imdbRating": "5.8"
   }
  ]
 }

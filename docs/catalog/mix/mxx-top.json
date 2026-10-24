@@ -290,102 +290,82 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13650700.jpg"
   },
   {
-   "name": "Georgie & Mandy's First Marriage",
+   "id": "tt39980704",
+   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
+   "background": "https://live.metahub.space/background/medium/tt39980704/img",
+   "name": "YAGA",
+   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
    "cast": [
-    "Montana Jordan",
-    "Emily Osment",
-    "Rachel Bay Jones"
+    "Carrie-Anne Moss",
+    "Clark Backo",
+    "Noah Reid"
    ],
-   "country": "United States",
-   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-10-17T00:00:00.000Z",
-   "writer": [
-    "Steve Holland",
-    "Chuck Lorre",
-    "Steven Molaro"
-   ],
-   "year": "2024–",
-   "runtime": "19 min",
-   "status": "Continuing",
-   "trailers": [
+   "credits_cast": [
     {
-     "source": "ZbdK-QJtFKI",
-     "type": "Trailer"
+     "character": "Katherine",
+     "name": "Carrie-Anne Moss",
+     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
+     "id": 530
+    },
+    {
+     "character": "Carson",
+     "name": "Clark Backo",
+     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
+     "id": 1861573
+    },
+    {
+     "character": "Rapp",
+     "name": "Noah Reid",
+     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
+     "id": 199586
+    },
+    {
+     "character": "Henry Park",
+     "name": "Hudson Williams",
+     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
+     "id": 4194612
+    },
+    {
+     "character": "Pam",
+     "name": "Ezra Franky",
+     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
+     "id": 3821010
+    },
+    {
+     "character": "Eckert",
+     "name": "Patrick Gilmore",
+     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
+     "id": 76828
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Charles Cooper",
+     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
+     "id": 2313876
     }
    ],
    "director": [],
-   "background": "https://images.metahub.space/background/medium/tt31589662/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
-   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
-   "id": "tt31589662",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Georgie & Mandy's First Marriage",
-     "ytId": "ZbdK-QJtFKI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31589662"
-    },
-    {
-     "name": "Georgie & Mandy's First Marriage",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Montana Jordan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Montana%20Jordan"
-    },
-    {
-     "name": "Emily Osment",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Osment"
-    },
-    {
-     "name": "Rachel Bay Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
-    },
-    {
-     "name": "Steve Holland",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steve%20Holland"
-    },
-    {
-     "name": "Chuck Lorre",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chuck%20Lorre"
-    },
-    {
-     "name": "Steven Molaro",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Molaro"
-    }
-   ],
+   "language": "English, Ukrainian",
+   "country": "Canada",
+   "awards": "1 nomination total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+   "imdbRating": "7.8"
   },
   {
    "name": "Materialists",
@@ -533,48 +513,58 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30253473.jpg"
   },
   {
-   "name": "Youth",
+   "name": "Georgie & Mandy's First Marriage",
    "cast": [
-    "Nadia Parkes",
-    "Andrea Vasiliou",
-    "Sophia Feliciano"
+    "Montana Jordan",
+    "Emily Osment",
+    "Rachel Bay Jones"
    ],
-   "description": "Uma divorciada de 50 anos procura sexo e amor enquanto concilia os cuidados aos pais doentes e a educação do filho, que já deveria ser adulto.",
+   "country": "United States",
+   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
    "genre": [
     "Comedy"
    ],
-   "imdbRating": "6.7",
-   "released": null,
-   "year": "2026–",
+   "imdbRating": "7.1",
+   "released": "2024-10-17T00:00:00.000Z",
+   "writer": [
+    "Steve Holland",
+    "Chuck Lorre",
+    "Steven Molaro"
+   ],
+   "year": "2024–",
+   "runtime": "19 min",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "XwuDMSlErkk",
+     "source": "ZbdK-QJtFKI",
      "type": "Trailer"
     }
    ],
-   "runtime": "31 min",
-   "status": "Continuing",
    "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt35949226/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35949226/img",
-   "id": "tt35949226",
+   "background": "https://images.metahub.space/background/medium/tt31589662/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
+   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
+   "id": "tt31589662",
    "genres": [
-    "Comédia",
-    "Drama"
+    "Comédia"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Youth",
-     "ytId": "XwuDMSlErkk"
+     "title": "Georgie & Mandy's First Marriage",
+     "ytId": "ZbdK-QJtFKI"
     }
    ],
    "links": [
     {
-     "name": "Youth",
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31589662"
+    },
+    {
+     "name": "Georgie & Mandy's First Marriage",
      "category": "share",
-     "url": "https://www.strem.io/s/series/youth-35949226"
+     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
     },
     {
      "name": "Comedy",
@@ -582,19 +572,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Nadia Parkes",
+     "name": "Montana Jordan",
      "category": "Cast",
-     "url": "stremio:///search?search=Nadia%20Parkes"
+     "url": "stremio:///search?search=Montana%20Jordan"
     },
     {
-     "name": "Andrea Vasiliou",
+     "name": "Emily Osment",
      "category": "Cast",
-     "url": "stremio:///search?search=Andrea%20Vasiliou"
+     "url": "stremio:///search?search=Emily%20Osment"
     },
     {
-     "name": "Sophia Feliciano",
+     "name": "Rachel Bay Jones",
      "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Feliciano"
+     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
+    },
+    {
+     "name": "Steve Holland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Holland"
+    },
+    {
+     "name": "Chuck Lorre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chuck%20Lorre"
+    },
+    {
+     "name": "Steven Molaro",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Molaro"
     }
    ],
    "behaviorHints": {
@@ -603,7 +608,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35949226.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
   },
   {
    "country": "United States",
@@ -705,474 +710,77 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
   },
   {
-   "name": "Lanterns",
+   "name": "Youth",
    "cast": [
-    "Aaron Pierre",
-    "Kyle Chandler",
-    "Kelly Macdonald"
+    "Nadia Parkes",
+    "Andrea Vasiliou",
+    "Sophia Feliciano"
    ],
-   "country": "United States",
-   "description": "Dois polícias intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, vêem-se envolvidos num mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
+   "description": "Uma divorciada de 50 anos procura sexo e amor enquanto concilia os cuidados aos pais doentes e a educação do filho, que já deveria ser adulto.",
    "genre": [
-    "Action",
-    "Adventure",
-    "Crime"
+    "Comedy"
    ],
-   "imdbRating": "7.8",
-   "released": "2026-08-16T00:00:00.000Z",
+   "imdbRating": "6.7",
+   "released": null,
    "year": "2026–",
-   "runtime": "53 min",
-   "status": "Continuing",
    "trailers": [
     {
-     "source": "7UIBOsuUwc4",
+     "source": "XwuDMSlErkk",
      "type": "Trailer"
     }
    ],
+   "runtime": "31 min",
+   "status": "Continuing",
    "director": [],
-   "writer": [
-    "Tom King",
-    "Damon Lindelof",
-    "Chris Mundy"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt26545992/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
-   "id": "tt26545992",
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt35949226/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35949226/img",
+   "id": "tt35949226",
    "genres": [
-    "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
+    "Comédia",
+    "Drama"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Lanterns",
-     "ytId": "7UIBOsuUwc4"
+     "title": "Youth",
+     "ytId": "XwuDMSlErkk"
     }
    ],
    "links": [
     {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt26545992"
-    },
-    {
-     "name": "Lanterns",
+     "name": "Youth",
      "category": "share",
-     "url": "https://www.strem.io/s/series/lanterns-26545992"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Aaron Pierre",
-     "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Pierre"
-    },
-    {
-     "name": "Kyle Chandler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kyle%20Chandler"
-    },
-    {
-     "name": "Kelly Macdonald",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kelly%20Macdonald"
-    },
-    {
-     "name": "Tom King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20King"
-    },
-    {
-     "name": "Damon Lindelof",
-     "category": "Writers",
-     "url": "stremio:///search?search=Damon%20Lindelof"
-    },
-    {
-     "name": "Chris Mundy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Mundy"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
-  },
-  {
-   "name": "The Smashing Machine",
-   "cast": [
-    "Dwayne Johnson",
-    "Emily Blunt",
-    "Ryan Bader"
-   ],
-   "country": "United States, Japan, Canada",
-   "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
-   "director": [
-    "Benny Safdie"
-   ],
-   "genre": [
-    "Action",
-    "Biography",
-    "Drama"
-   ],
-   "imdbRating": "6.3",
-   "released": "2025-10-03T00:00:00.000Z",
-   "writer": [
-    "Benny Safdie"
-   ],
-   "year": "2025",
-   "background": "https://images.metahub.space/background/medium/tt11214558/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
-   "runtime": "123 min",
-   "trailers": [
-    {
-     "source": "u4A8zfMClCM",
-     "type": "Trailer"
-    },
-    {
-     "source": "21OUFEZGXIk",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
-   "id": "tt11214558",
-   "genres": [
-    "Drama",
-    "História",
-    "Ação"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Smashing Machine",
-     "ytId": "u4A8zfMClCM"
-    },
-    {
-     "title": "The Smashing Machine",
-     "ytId": "21OUFEZGXIk"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11214558"
-    },
-    {
-     "name": "The Smashing Machine",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Dwayne Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "Ryan Bader",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Bader"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11214558",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
-  },
-  {
-   "name": "Babylon Berlin",
-   "year": "2017–",
-   "runtime": "46 min",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "released": "2018-01-30T00:00:00.000Z",
-   "cast": [
-    "Volker Bruch",
-    "Liv Lisa Fries",
-    "Lars Eidinger"
-   ],
-   "imdbRating": "8.4",
-   "description": "Berlim no final dos anos 20. O inspetor da polícia Gereon Rath é transferido para Berlim para investigar uma rede de pornografia e vê-se envolvido numa teia que envolve as mais altas esferas do Governo.",
-   "country": "Germany",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Henk Handloegten",
-    "Tom Tykwer",
-    "Achim von Borries"
-   ],
-   "awards": "25 wins & 20 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt4378376/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4378376/img",
-   "trailers": [
-    {
-     "source": "HAn3RXeCrLg",
-     "type": "Trailer"
-    },
-    {
-     "source": "j_qN5bFfOTE",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt4378376",
-   "genres": [
-    "Drama",
-    "Crime",
-    "Mistério"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Babylon Berlin",
-     "ytId": "HAn3RXeCrLg"
-    },
-    {
-     "title": "Babylon Berlin",
-     "ytId": "j_qN5bFfOTE"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4378376"
-    },
-    {
-     "name": "Babylon Berlin",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/babylon-berlin-4378376"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Volker Bruch",
-     "category": "Cast",
-     "url": "stremio:///search?search=Volker%20Bruch"
-    },
-    {
-     "name": "Liv Lisa Fries",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liv%20Lisa%20Fries"
-    },
-    {
-     "name": "Lars Eidinger",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lars%20Eidinger"
-    },
-    {
-     "name": "Henk Handloegten",
-     "category": "Writers",
-     "url": "stremio:///search?search=Henk%20Handloegten"
-    },
-    {
-     "name": "Tom Tykwer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Tykwer"
-    },
-    {
-     "name": "Achim von Borries",
-     "category": "Writers",
-     "url": "stremio:///search?search=Achim%20von%20Borries"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4378376.jpg"
-  },
-  {
-   "name": "Caught Stealing",
-   "cast": [
-    "Austin Butler",
-    "Regina King",
-    "Zoë Kravitz"
-   ],
-   "country": "United States, Italy, Mexico",
-   "description": "Nova Iorque, finais da década de 1990. Hank Thompson, uma ex-estrela de basebol, hoje trabalha num bar em Nova Iorque e namora com Yvonne. A sua vida era pacata, embora um pouco decadente, até ter a infeliz ideia de aceitar tomar conta do gato de Russ, o seu vizinho \"punk\". O que Russ se esqueceu de lhe contar é que dentro da jaula do animal estava escondida uma chave muito cobiçada por mafiosos russos, por um assassino samoano, por dois irmãos psicopatas e por um polícia sádico. Perseguido por pessoas altamente perigosas, e sem ter qualquer pista sobre a sua motivação, Hank tenta sobreviver numa cidade onde cada esquina parece significar a morte.",
-   "director": [
-    "Darren Aronofsky"
-   ],
-   "genre": [
-    "Comedy",
-    "Crime",
-    "Thriller"
-   ],
-   "imdbRating": "6.8",
-   "released": "2025-08-29T00:00:00.000Z",
-   "writer": [
-    "Charlie Huston"
-   ],
-   "year": "2025",
-   "trailers": [
-    {
-     "source": "6mIvD-GN-p4",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "107 min",
-   "background": "https://images.metahub.space/background/medium/tt1493274/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1493274/img",
-   "awards": "5 nominations total",
-   "id": "tt1493274",
-   "genres": [
-    "Crime",
-    "Thriller",
-    "Comédia"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Caught Stealing",
-     "ytId": "6mIvD-GN-p4"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1493274"
-    },
-    {
-     "name": "Caught Stealing",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/caught-stealing-1493274"
+     "url": "https://www.strem.io/s/series/youth-35949226"
     },
     {
      "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Austin Butler",
+     "name": "Nadia Parkes",
      "category": "Cast",
-     "url": "stremio:///search?search=Austin%20Butler"
+     "url": "stremio:///search?search=Nadia%20Parkes"
     },
     {
-     "name": "Regina King",
+     "name": "Andrea Vasiliou",
      "category": "Cast",
-     "url": "stremio:///search?search=Regina%20King"
+     "url": "stremio:///search?search=Andrea%20Vasiliou"
     },
     {
-     "name": "Zoë Kravitz",
+     "name": "Sophia Feliciano",
      "category": "Cast",
-     "url": "stremio:///search?search=Zo%C3%AB%20Kravitz"
-    },
-    {
-     "name": "Charlie Huston",
-     "category": "Writers",
-     "url": "stremio:///search?search=Charlie%20Huston"
-    },
-    {
-     "name": "Darren Aronofsky",
-     "category": "Directors",
-     "url": "stremio:///search?search=Darren%20Aronofsky"
+     "url": "stremio:///search?search=Sophia%20Feliciano"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1493274",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1493274.jpg"
-  },
-  {
-   "cast": [
-    "Bonnie Lou Gower⁩",
-    "Kara Robinson Chamberlain",
-    "Richard Evonitz⁩⁩"
-   ],
-   "id": "tt46066662",
    "type": "series",
-   "name": "The Serial Killer Connection",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
-   "description": "Bonnie Lou descobriu que o ex-marido, Richard Evonitz, era um serial killer. Ela se une a Kara Robinson, que escapou dele e ajudou a revelar os crimes do assassino. Juntas, investigam assassinatos ainda sem solução para descobrir se ele fez mais vítimas.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "imdbRating": "7.2"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35949226.jpg"
   },
   {
    "awards": "6 nominations total",
@@ -1302,89 +910,325 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0080761.jpg"
   },
   {
-   "awards": "Won 2 Primetime Emmys. 19 wins & 135 nominations total",
-   "cast": [
-    "Lena Dunham",
-    "Allison Williams",
-    "Jemima Kirke"
+   "id": "tt40407840",
+   "logo": "https://live.metahub.space/logo/medium/tt40407840/img",
+   "background": "https://live.metahub.space/background/medium/tt40407840/img",
+   "name": "Paolo",
+   "description": "Acompanhe a perturbadora intromissão de Paolo, um operário, na vida de Téophane Tolbiac, um jovem político promissor.",
+   "genres": [
+    "Mistério"
    ],
-   "country": "United States",
-   "description": "Girls é uma produção criada e estrelada por Lena Dunham, que acompanha os altos e baixos de um grupo de jovens mulheres na faixa dos vinte e poucos anos, vivendo em Nova Iorque. Na história, Hannah é uma aspirante a escritora que trabalha como editora no SoHo; Marnie é uma assistente de Relações Públicas determinada a trabalhar com questões do meio ambiente; e Jessa é uma artista que trabalha como professora.",
-   "director": null,
-   "dvdRelease": null,
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Jérôme Niel",
+    "Yoann Gasiorowski",
+    "Magalie Lépine-Blondeau"
+   ],
+   "credits_cast": [
+    {
+     "character": "Paolo",
+     "name": "Jérôme Niel",
+     "profile_path": "/2gCaopWoxvPaL3gyPkYyZnzAY9U.jpg",
+     "id": 1446210
+    },
+    {
+     "character": "Téophane",
+     "name": "Yoann Gasiorowski",
+     "profile_path": "/1gvUSMBkNRdZwd7CUa9aCWuYQvt.jpg",
+     "id": 2991787
+    },
+    {
+     "character": "Géraldine",
+     "name": "Magalie Lépine-Blondeau",
+     "profile_path": "/ci7DL2C39iZmb86tLVAzAkorozY.jpg",
+     "id": 559581
+    },
+    {
+     "character": "",
+     "name": "Marie Oppert",
+     "profile_path": "/7uRzdGQgqT1k6DJtdCXPXnNAc5A.jpg",
+     "id": 3534522
+    },
+    {
+     "character": "",
+     "name": "Léo Chalié",
+     "profile_path": "/vmuNIVYP9lbuMcxNa4i3CgXLWuU.jpg",
+     "id": 2852439
+    },
+    {
+     "character": "",
+     "name": "Véronique Ruggia Saura",
+     "profile_path": "/pJwDIbaLYDdwgEq15X7owYDUP67.jpg",
+     "id": 1630513
+    },
+    {
+     "character": "Winnie",
+     "name": "Guslagie Malanda",
+     "profile_path": "/fjGrRcK4SoGLptulNbqMKxm39Am.jpg",
+     "id": 1360307
+    },
+    {
+     "character": "Jean Baptiste",
+     "name": "Salif Cissé",
+     "profile_path": "/h0EzP4ZCdNK6ouMjQBSYDsSLPb7.jpg",
+     "id": 2541773
+    },
+    {
+     "character": "",
+     "name": "Françoise Lebrun",
+     "profile_path": "/djbPgHqOI1J7thLTTnJIEQNfnZj.jpg",
+     "id": 236639
+    },
+    {
+     "character": "",
+     "name": "Léa Lopez",
+     "profile_path": "/59Io4bDOrlEAko8YNijPkenfdeS.jpg",
+     "id": 4447979
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Floriane Cortes",
+     "profile_path": null,
+     "id": 4102537
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Gaspard de Chavagnac",
+     "profile_path": null,
+     "id": 35888
+    }
+   ],
+   "director": [],
+   "imdbRating": "6.4",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40407840.jpg"
+  },
+  {
+   "name": "The Smashing Machine",
+   "cast": [
+    "Dwayne Johnson",
+    "Emily Blunt",
+    "Ryan Bader"
+   ],
+   "country": "United States, Japan, Canada",
+   "description": "Conhecido como \"The Smashing Machine\" pelo estilo agressivo e pela capacidade de dominar adversários, Mark Kerr foi um dos lutadores de MMA (Artes Marciais Mistas) mais notórios dos anos 2000. Ídolo do público, alcançou a glória nos ringues enquanto enfrentava, em silêncio, uma dura batalha contra os próprios demónios: a dependência de analgésicos, as pressões da fama e os altos e baixos de uma vida marcada por triunfos, mas também por dolorosas derrotas pessoais. Em 1999, sofreu uma overdose que se revelou um ponto de viragem na sua vida.",
+   "director": [
+    "Benny Safdie"
+   ],
    "genre": [
-    "Comedy",
+    "Action",
+    "Biography",
     "Drama"
    ],
-   "imdbRating": "7.4",
-   "name": "Girls",
-   "released": "2012-04-15T00:00:00.000Z",
-   "runtime": "30 min",
-   "status": "Ended",
+   "imdbRating": "6.3",
+   "released": "2025-10-03T00:00:00.000Z",
    "writer": [
-    "Lena Dunham"
+    "Benny Safdie"
    ],
-   "year": "2012–2017",
-   "background": "https://images.metahub.space/background/medium/tt1723816/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1723816/img",
+   "year": "2025",
+   "background": "https://images.metahub.space/background/medium/tt11214558/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11214558/img",
+   "runtime": "123 min",
    "trailers": [
     {
-     "source": "k4tY-2PTFPg",
+     "source": "u4A8zfMClCM",
+     "type": "Trailer"
+    },
+    {
+     "source": "21OUFEZGXIk",
      "type": "Trailer"
     }
    ],
-   "id": "tt1723816",
+   "awards": "Nominated for 1 Oscar. 3 wins & 26 nominations total",
+   "id": "tt11214558",
    "genres": [
     "Drama",
-    "Comédia"
+    "História",
+    "Ação"
    ],
-   "releaseInfo": "2012",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Girls",
-     "ytId": "k4tY-2PTFPg"
+     "title": "The Smashing Machine",
+     "ytId": "u4A8zfMClCM"
+    },
+    {
+     "title": "The Smashing Machine",
+     "ytId": "21OUFEZGXIk"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1723816"
+     "url": "https://imdb.com/title/tt11214558"
     },
     {
-     "name": "Girls",
+     "name": "The Smashing Machine",
      "category": "share",
-     "url": "https://www.strem.io/s/series/girls-1723816"
+     "url": "https://www.strem.io/s/movie/the-smashing-machine-11214558"
     },
     {
-     "name": "Comedy",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Lena Dunham",
+     "name": "Dwayne Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Lena%20Dunham"
+     "url": "stremio:///search?search=Dwayne%20Johnson"
     },
     {
-     "name": "Allison Williams",
+     "name": "Emily Blunt",
      "category": "Cast",
-     "url": "stremio:///search?search=Allison%20Williams"
+     "url": "stremio:///search?search=Emily%20Blunt"
     },
     {
-     "name": "Jemima Kirke",
+     "name": "Ryan Bader",
      "category": "Cast",
-     "url": "stremio:///search?search=Jemima%20Kirke"
+     "url": "stremio:///search?search=Ryan%20Bader"
     },
     {
-     "name": "Lena Dunham",
+     "name": "Benny Safdie",
      "category": "Writers",
-     "url": "stremio:///search?search=Lena%20Dunham"
+     "url": "stremio:///search?search=Benny%20Safdie"
+    },
+    {
+     "name": "Benny Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Benny%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11214558",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11214558.jpg"
+  },
+  {
+   "name": "Lanterns",
+   "cast": [
+    "Aaron Pierre",
+    "Kyle Chandler",
+    "Kelly Macdonald"
+   ],
+   "country": "United States",
+   "description": "Dois polícias intergalácticos, o recruta novato John Stewart e o lendário Lanterna Verde Hal Jordan, vêem-se envolvidos num mistério sombrio que se passa na Terra enquanto investigam um assassinato no coração dos Estados Unidos.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-08-16T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "53 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "7UIBOsuUwc4",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Tom King",
+    "Damon Lindelof",
+    "Chris Mundy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt26545992/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26545992/img",
+   "id": "tt26545992",
+   "genres": [
+    "Drama",
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Lanterns",
+     "ytId": "7UIBOsuUwc4"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26545992"
+    },
+    {
+     "name": "Lanterns",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lanterns-26545992"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Aaron Pierre",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Pierre"
+    },
+    {
+     "name": "Kyle Chandler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kyle%20Chandler"
+    },
+    {
+     "name": "Kelly Macdonald",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kelly%20Macdonald"
+    },
+    {
+     "name": "Tom King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tom%20King"
+    },
+    {
+     "name": "Damon Lindelof",
+     "category": "Writers",
+     "url": "stremio:///search?search=Damon%20Lindelof"
+    },
+    {
+     "name": "Chris Mundy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Mundy"
     }
    ],
    "behaviorHints": {
@@ -1393,7 +1237,396 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1723816.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
+  },
+  {
+   "awards": "Nominated for 1 Oscar. 46 wins & 126 nominations total",
+   "cast": [
+    "Jake Gyllenhaal",
+    "Rene Russo",
+    "Bill Paxton"
+   ],
+   "country": "United States",
+   "description": "Lou Bloom é um jovem desesperado por arranjar trabalho. Um dia, por casualidade, apercebe-se de que existe um grupo de jornalismo criminal que, atento ao que acontece na perigosa noite de Los Angeles, se dedica a filmar acidentes, incêndios, assassinatos e outros casos de polícia, para mais tarde vender aos canais televisivos. Decidido a iniciar o negócio por sua conta e risco, contrata Rick e inicia com ele uma autêntica patrulha nocturna pela cidade. Como dois abutres, eles ficam à espera do momento em que o sangue e a fragilidade da vida humana lhes traga a sorte e a fortuna que tanto ambicionam. A ajudá-los terão Nina, veterana num canal de televisão local, que possui muitos anos de experiência em jornalismo sensacionalista. O sucesso depressa lhes traz os frutos desejados. Mas Lou rapidamente se perde entre a sua ambição desmedida e o que é moralmente correcto.",
+   "director": [
+    "Dan Gilroy"
+   ],
+   "dvdRelease": "2015-01-27T00:00:00.000Z",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "name": "Nightcrawler",
+   "released": "2014-10-31T00:00:00.000Z",
+   "runtime": "118 min",
+   "trailers": [
+    {
+     "source": "7uaYhPpV7G4",
+     "type": "Trailer"
+    },
+    {
+     "source": "VPDErRzsl-0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Dan Gilroy"
+   ],
+   "year": "2014",
+   "background": "https://images.metahub.space/background/medium/tt2872718/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2872718/img",
+   "id": "tt2872718",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "Nightcrawler",
+     "ytId": "7uaYhPpV7G4"
+    },
+    {
+     "title": "Nightcrawler",
+     "ytId": "VPDErRzsl-0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2872718"
+    },
+    {
+     "name": "Nightcrawler",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/nightcrawler-2872718"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jake Gyllenhaal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+    },
+    {
+     "name": "Rene Russo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rene%20Russo"
+    },
+    {
+     "name": "Bill Paxton",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bill%20Paxton"
+    },
+    {
+     "name": "Dan Gilroy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dan%20Gilroy"
+    },
+    {
+     "name": "Dan Gilroy",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dan%20Gilroy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2872718",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2872718.jpg"
+  },
+  {
+   "name": "Furia",
+   "cast": [
+    "Ana Torrent",
+    "Carmen Machi",
+    "Claudia Salas"
+   ],
+   "country": "Spain",
+   "description": "As histórias interligadas de cinco mulheres que, levadas ao limite, cometem um ato de vingança que provoca um efeito dominó devastador.",
+   "imdbRating": "6.8",
+   "released": "2025-07-11T00:00:00.000Z",
+   "year": "2025",
+   "runtime": "35 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "XZCV_pKSqLk",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "genre": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt32327588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32327588/img",
+   "id": "tt32327588",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Furia",
+     "ytId": "XZCV_pKSqLk"
+    }
+   ],
+   "links": [
+    {
+     "name": "Furia",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/furia-32327588"
+    },
+    {
+     "name": "Ana Torrent",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%20Torrent"
+    },
+    {
+     "name": "Carmen Machi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carmen%20Machi"
+    },
+    {
+     "name": "Claudia Salas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Claudia%20Salas"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32327588.jpg"
+  },
+  {
+   "name": "Caught Stealing",
+   "cast": [
+    "Austin Butler",
+    "Regina King",
+    "Zoë Kravitz"
+   ],
+   "country": "United States, Italy, Mexico",
+   "description": "Nova Iorque, finais da década de 1990. Hank Thompson, uma ex-estrela de basebol, hoje trabalha num bar em Nova Iorque e namora com Yvonne. A sua vida era pacata, embora um pouco decadente, até ter a infeliz ideia de aceitar tomar conta do gato de Russ, o seu vizinho \"punk\". O que Russ se esqueceu de lhe contar é que dentro da jaula do animal estava escondida uma chave muito cobiçada por mafiosos russos, por um assassino samoano, por dois irmãos psicopatas e por um polícia sádico. Perseguido por pessoas altamente perigosas, e sem ter qualquer pista sobre a sua motivação, Hank tenta sobreviver numa cidade onde cada esquina parece significar a morte.",
+   "director": [
+    "Darren Aronofsky"
+   ],
+   "genre": [
+    "Comedy",
+    "Crime",
+    "Thriller"
+   ],
+   "imdbRating": "6.8",
+   "released": "2025-08-29T00:00:00.000Z",
+   "writer": [
+    "Charlie Huston"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "6mIvD-GN-p4",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "107 min",
+   "background": "https://images.metahub.space/background/medium/tt1493274/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1493274/img",
+   "awards": "5 nominations total",
+   "id": "tt1493274",
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Caught Stealing",
+     "ytId": "6mIvD-GN-p4"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1493274"
+    },
+    {
+     "name": "Caught Stealing",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/caught-stealing-1493274"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Austin Butler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Austin%20Butler"
+    },
+    {
+     "name": "Regina King",
+     "category": "Cast",
+     "url": "stremio:///search?search=Regina%20King"
+    },
+    {
+     "name": "Zoë Kravitz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zo%C3%AB%20Kravitz"
+    },
+    {
+     "name": "Charlie Huston",
+     "category": "Writers",
+     "url": "stremio:///search?search=Charlie%20Huston"
+    },
+    {
+     "name": "Darren Aronofsky",
+     "category": "Directors",
+     "url": "stremio:///search?search=Darren%20Aronofsky"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1493274",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1493274.jpg"
+  },
+  {
+   "id": "tt47816221",
+   "logo": "https://live.metahub.space/logo/medium/tt47816221/img",
+   "background": "https://live.metahub.space/background/medium/tt47816221/img",
+   "name": "The Torment",
+   "description": "Kama regressa à sua cidade natal e acaba envolvida num antigo caso de desaparecimento. Os segredos de família, as paixões e os crimes revelam que o passado nunca silencia.",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Magdalena Cielecka",
+    "Piotr Żurawski",
+    "Łukasz Simlat"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Magdalena Cielecka",
+     "profile_path": "/5lL9yMqYrUAnoi8Twq782YDbL7P.jpg",
+     "id": 591258
+    },
+    {
+     "character": "",
+     "name": "Piotr Żurawski",
+     "profile_path": "/xGIgeJ49iNgVXBA0aZiHsGzVr03.jpg",
+     "id": 1515486
+    },
+    {
+     "character": "",
+     "name": "Łukasz Simlat",
+     "profile_path": "/m1CH1TFVkSfHmwzZcZNtoa1GXzG.jpg",
+     "id": 591246
+    },
+    {
+     "character": "",
+     "name": "Piotr Głowacki",
+     "profile_path": "/yla9UTHJv6nGkAbKDMi5F10h0KK.jpg",
+     "id": 1138605
+    },
+    {
+     "character": "",
+     "name": "Dorota Kolak",
+     "profile_path": "/vMu479AwEce9BNuLG0jMBwfbuH1.jpg",
+     "id": 1254517
+    },
+    {
+     "character": "",
+     "name": "Piotr Jankowski",
+     "profile_path": "/foUvUXOtE6UrCSscqtLh26tqqHs.jpg",
+     "id": 1825761
+    },
+    {
+     "character": "",
+     "name": "Maria Pakulnis",
+     "profile_path": "/ofUBgXCzbSa9ferpAINvSYgXEF8.jpg",
+     "id": 1385
+    },
+    {
+     "character": "",
+     "name": "Katarzyna Bujakiewicz",
+     "profile_path": "/slwVcc6dABfH9JWv6utwe8URfdL.jpg",
+     "id": 586161
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Łukasz Dzięcioł",
+     "profile_path": "/l1uYC5F8vMWxosKoavIySodfEPw.jpg",
+     "id": 1104365
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Piotr Dzięcioł",
+     "profile_path": null,
+     "id": 936755
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Karolina Lachowska",
+     "profile_path": null,
+     "id": 3768628
+    }
+   ],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47816221.jpg",
+   "imdbRating": "6.2"
   },
   {
    "awards": "Nominated for 4 Oscars. 20 wins & 67 nominations total",
@@ -1509,61 +1742,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0325710.jpg"
   },
   {
-   "name": "Kill Jackie",
-   "cast": [
-    "Catherine Zeta-Jones",
-    "Daniel Ings",
-    "Julian Rhind-Tutt"
-   ],
-   "country": "United Kingdom, Spain, United States",
-   "description": "A vida luxuosa de Jackie Price desaba quando assassinos de elite a perseguem, obrigando-a a enfrentar segredos do passado.",
+   "name": "Babylon Berlin",
+   "year": "2017–",
+   "runtime": "46 min",
    "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
+    "Crime",
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "6.4",
-   "released": "2026-10-02T00:00:00.000Z",
-   "year": "2026–",
+   "released": "2018-01-30T00:00:00.000Z",
+   "cast": [
+    "Volker Bruch",
+    "Liv Lisa Fries",
+    "Lars Eidinger"
+   ],
+   "imdbRating": "8.4",
+   "description": "Berlim no final dos anos 20. O inspetor da polícia Gereon Rath é transferido para Berlim para investigar uma rede de pornografia e vê-se envolvido numa teia que envolve as mais altas esferas do Governo.",
+   "country": "Germany",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Henk Handloegten",
+    "Tom Tykwer",
+    "Achim von Borries"
+   ],
+   "awards": "25 wins & 20 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt4378376/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4378376/img",
    "trailers": [
     {
-     "source": "dKgTyq2-4w0",
+     "source": "HAn3RXeCrLg",
+     "type": "Trailer"
+    },
+    {
+     "source": "j_qN5bFfOTE",
      "type": "Trailer"
     }
    ],
-   "runtime": "45 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt35726020/img",
-   "background": "https://images.metahub.space/background/medium/tt35726020/img",
-   "id": "tt35726020",
+   "id": "tt4378376",
    "genres": [
     "Drama",
-    "Crime"
+    "Crime",
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Kill Jackie",
-     "ytId": "dKgTyq2-4w0"
+     "title": "Babylon Berlin",
+     "ytId": "HAn3RXeCrLg"
+    },
+    {
+     "title": "Babylon Berlin",
+     "ytId": "j_qN5bFfOTE"
     }
    ],
    "links": [
     {
-     "name": "Kill Jackie",
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4378376"
+    },
+    {
+     "name": "Babylon Berlin",
      "category": "share",
-     "url": "https://www.strem.io/s/series/kill-jackie-35726020"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "https://www.strem.io/s/series/babylon-berlin-4378376"
     },
     {
      "name": "Crime",
@@ -1571,19 +1813,44 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Catherine Zeta-Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Zeta-Jones"
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Daniel Ings",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Ings"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Julian Rhind-Tutt",
+     "name": "Volker Bruch",
      "category": "Cast",
-     "url": "stremio:///search?search=Julian%20Rhind-Tutt"
+     "url": "stremio:///search?search=Volker%20Bruch"
+    },
+    {
+     "name": "Liv Lisa Fries",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liv%20Lisa%20Fries"
+    },
+    {
+     "name": "Lars Eidinger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lars%20Eidinger"
+    },
+    {
+     "name": "Henk Handloegten",
+     "category": "Writers",
+     "url": "stremio:///search?search=Henk%20Handloegten"
+    },
+    {
+     "name": "Tom Tykwer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tom%20Tykwer"
+    },
+    {
+     "name": "Achim von Borries",
+     "category": "Writers",
+     "url": "stremio:///search?search=Achim%20von%20Borries"
     }
    ],
    "behaviorHints": {
@@ -1592,7 +1859,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35726020.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4378376.jpg"
   },
   {
    "name": "Supergirl",
@@ -1737,201 +2004,116 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8814476.jpg"
   },
   {
-   "name": "Furia",
+   "name": "The Wonderfully Weird World of Gumball",
    "cast": [
-    "Ana Torrent",
-    "Carmen Machi",
-    "Claudia Salas"
+    "Alkaio Thiele",
+    "Hero Hunter",
+    "Teresa Gallagher"
    ],
-   "country": "Spain",
-   "description": "As histórias interligadas de cinco mulheres que, levadas ao limite, cometem um ato de vingança que provoca um efeito dominó devastador.",
-   "imdbRating": "6.8",
-   "released": "2025-07-11T00:00:00.000Z",
-   "year": "2025",
-   "runtime": "35 min",
-   "status": "Continuing",
+   "country": "United Kingdom, France, United States, Germany",
+   "description": "A série dá sequência às aventuras de Gumball Watterson, sua família, que contém sua irmã mais nova Anais, seu irmão Darwin, sua mãe Nicole, e seu pai Ricardo, e também seus colegas da escola Elmore High School e demais habitantes da cidade de Elmore, onde tudo pode acontecer: desde simples ocasiões até catástrofes mundiais.",
+   "genre": [
+    "Animation",
+    "Short",
+    "Adventure"
+   ],
+   "imdbRating": "8.5",
+   "released": "2025-07-28T00:00:00.000Z",
+   "year": "2025–",
    "trailers": [
     {
-     "source": "XZCV_pKSqLk",
+     "source": "KKoY9eIx6Qw",
      "type": "Trailer"
     }
    ],
+   "runtime": "12 min",
+   "status": "Continuing",
    "director": [],
-   "genre": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt32327588/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32327588/img",
-   "id": "tt32327588",
+   "writer": [
+    "Ben Bocquelet",
+    "Erik Fountain",
+    "Matt Layzell"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt36985473/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36985473/img",
+   "awards": "Nominated for 2 BAFTA Awards. 1 win & 5 nominations total",
+   "id": "tt36985473",
    "genres": [
-    "Drama",
+    "Animação",
+    "Família",
     "Comédia"
    ],
    "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Furia",
-     "ytId": "XZCV_pKSqLk"
+     "title": "The Wonderfully Weird World of Gumball",
+     "ytId": "KKoY9eIx6Qw"
     }
    ],
    "links": [
     {
-     "name": "Furia",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/furia-32327588"
-    },
-    {
-     "name": "Ana Torrent",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ana%20Torrent"
-    },
-    {
-     "name": "Carmen Machi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Carmen%20Machi"
-    },
-    {
-     "name": "Claudia Salas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Claudia%20Salas"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32327588.jpg"
-  },
-  {
-   "awards": "2 wins & 11 nominations total",
-   "cast": [
-    "Robert Englund",
-    "Ken Kirzinger",
-    "Kelly Rowland"
-   ],
-   "country": "Canada, United States",
-   "description": "Freddy Krueger, o carniceiro de Springwood, matou dezenas de crianças até que foi queimado vivo. No entanto, voltava através dos sonhos até que o condenaram ao esquecimento. Para se vingar, Freddy trouxe do Inferno Jason Voorhees para retomar a carnificina em Elm Street e todos pensarem que Freddy voltou. Mas o seu plano não corre bem e ambos se tornam rivais numa cidade pequena demais para dois vilões.",
-   "director": [
-    "Ronny Yu"
-   ],
-   "dvdRelease": "2012-12-01T00:00:00.000Z",
-   "genre": [
-    "Horror"
-   ],
-   "imdbRating": "5.8",
-   "name": "Freddy vs. Jason",
-   "released": "2003-08-15T00:00:00.000Z",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "oCf4l6XnML8",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Wes Craven",
-    "Victor Miller",
-    "Damian Shannon"
-   ],
-   "year": "2003",
-   "background": "https://images.metahub.space/background/medium/tt0329101/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0329101/img",
-   "id": "tt0329101",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "2003",
-   "trailerStreams": [
-    {
-     "title": "Freddy vs. Jason",
-     "ytId": "oCf4l6XnML8"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.8",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0329101"
+     "url": "https://imdb.com/title/tt36985473"
     },
     {
-     "name": "Freddy vs. Jason",
+     "name": "The Wonderfully Weird World of Gumball",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/freddy-vs-jason-0329101"
+     "url": "https://www.strem.io/s/series/the-wonderfully-weird-world-of-gumball-36985473"
     },
     {
-     "name": "Horror",
+     "name": "Animation",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
-     "name": "Robert Englund",
+     "name": "Short",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Short"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Alkaio Thiele",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Englund"
+     "url": "stremio:///search?search=Alkaio%20Thiele"
     },
     {
-     "name": "Ken Kirzinger",
+     "name": "Hero Hunter",
      "category": "Cast",
-     "url": "stremio:///search?search=Ken%20Kirzinger"
+     "url": "stremio:///search?search=Hero%20Hunter"
     },
     {
-     "name": "Kelly Rowland",
+     "name": "Teresa Gallagher",
      "category": "Cast",
-     "url": "stremio:///search?search=Kelly%20Rowland"
+     "url": "stremio:///search?search=Teresa%20Gallagher"
     },
     {
-     "name": "Wes Craven",
+     "name": "Ben Bocquelet",
      "category": "Writers",
-     "url": "stremio:///search?search=Wes%20Craven"
+     "url": "stremio:///search?search=Ben%20Bocquelet"
     },
     {
-     "name": "Victor Miller",
+     "name": "Erik Fountain",
      "category": "Writers",
-     "url": "stremio:///search?search=Victor%20Miller"
+     "url": "stremio:///search?search=Erik%20Fountain"
     },
     {
-     "name": "Damian Shannon",
+     "name": "Matt Layzell",
      "category": "Writers",
-     "url": "stremio:///search?search=Damian%20Shannon"
-    },
-    {
-     "name": "Ronny Yu",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ronny%20Yu"
+     "url": "stremio:///search?search=Matt%20Layzell"
     }
    ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0329101",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0329101.jpg"
-  },
-  {
-   "id": "tt46683025",
-   "logo": "https://live.metahub.space/logo/medium/tt46683025/img",
-   "background": "https://live.metahub.space/background/medium/tt46683025/img",
-   "name": "The Pet Cemetery Murders: A Ghost Story",
-   "description": "A investigação do assassinato da dona de um cemitério de animais em Nova Orleans revela um passado inquietante que ainda assombra a comunidade.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-   "imdbRating": "6.4"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36985473.jpg"
   }
  ]
 }
