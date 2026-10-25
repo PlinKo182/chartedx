@@ -1,53 +1,56 @@
 {
  "metas": [
   {
-   "name": "Masterplan",
+   "name": "Verity",
    "cast": [
-    "Stanley Tucci",
-    "Victor Belmondo",
-    "Simona Tabasco"
+    "Anne Hathaway",
+    "Dakota Johnson",
+    "Josh Hartnett"
    ],
-   "country": "France, Italy",
-   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+   "country": "United States",
+   "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
    "director": [
-    "Thomas Vincent"
+    "Michael Showalter"
    ],
    "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
+    "Crime",
+    "Drama",
+    "Mystery"
    ],
-   "imdbRating": "5.4",
-   "released": "2026-10-16T00:00:00.000Z",
+   "imdbRating": "6.1",
+   "released": "2026-10-02T00:00:00.000Z",
    "writer": [
-    "Giacomo Durzi",
-    "Alessandro Fabbri",
-    "Alberto Vignati"
+    "Nick Antosca",
+    "Colleen Hoover",
+    "Will Honley"
    ],
    "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt38672588/img",
-   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
-   "id": "tt38672588",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "xdPMKhjMSFs",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32261958/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
+   "id": "tt32261958",
    "genres": [
-    "Ação",
+    "Mistério",
     "Thriller"
    ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Verity",
+     "ytId": "xdPMKhjMSFs"
+    }
+   ],
    "links": [
     {
-     "name": "Masterplan",
+     "name": "Verity",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/masterplan-38672588"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "https://www.strem.io/s/movie/verity-32261958"
     },
     {
      "name": "Crime",
@@ -55,48 +58,177 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Stanley Tucci",
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Anne Hathaway",
      "category": "Cast",
-     "url": "stremio:///search?search=Stanley%20Tucci"
+     "url": "stremio:///search?search=Anne%20Hathaway"
     },
     {
-     "name": "Victor Belmondo",
+     "name": "Dakota Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Victor%20Belmondo"
+     "url": "stremio:///search?search=Dakota%20Johnson"
     },
     {
-     "name": "Simona Tabasco",
+     "name": "Josh Hartnett",
      "category": "Cast",
-     "url": "stremio:///search?search=Simona%20Tabasco"
+     "url": "stremio:///search?search=Josh%20Hartnett"
     },
     {
-     "name": "Giacomo Durzi",
+     "name": "Nick Antosca",
      "category": "Writers",
-     "url": "stremio:///search?search=Giacomo%20Durzi"
+     "url": "stremio:///search?search=Nick%20Antosca"
     },
     {
-     "name": "Alessandro Fabbri",
+     "name": "Colleen Hoover",
      "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Fabbri"
+     "url": "stremio:///search?search=Colleen%20Hoover"
     },
     {
-     "name": "Alberto Vignati",
+     "name": "Will Honley",
      "category": "Writers",
-     "url": "stremio:///search?search=Alberto%20Vignati"
+     "url": "stremio:///search?search=Will%20Honley"
     },
     {
-     "name": "Thomas Vincent",
+     "name": "Michael Showalter",
      "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Vincent"
+     "url": "stremio:///search?search=Michael%20Showalter"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt38672588",
+    "defaultVideoId": "tt32261958",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
+  },
+  {
+   "name": "Animals",
+   "cast": [
+    "Gillian Anderson",
+    "Ben Affleck",
+    "Steven Yeun"
+   ],
+   "country": "United States",
+   "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
+   "director": [
+    "Ben Affleck"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "5.7",
+   "released": "2026-10-09T00:00:00.000Z",
+   "writer": [
+    "Connor O. McIntyre",
+    "Billy Ray",
+    "Ben Affleck"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "ZkN2M4ODdys",
+     "type": "Trailer"
+    },
+    {
+     "source": "mlBfQJ8oxB0",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
+   "background": "https://images.metahub.space/background/medium/tt31049299/img",
+   "id": "tt31049299",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Animals",
+     "ytId": "ZkN2M4ODdys"
+    },
+    {
+     "title": "Animals",
+     "ytId": "mlBfQJ8oxB0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Animals",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/animals-31049299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gillian Anderson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gillian%20Anderson"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Steven Yeun",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steven%20Yeun"
+    },
+    {
+     "name": "Connor O. McIntyre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
+    },
+    {
+     "name": "Billy Ray",
+     "category": "Writers",
+     "url": "stremio:///search?search=Billy%20Ray"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    },
+    {
+     "name": "Ben Affleck",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ben%20Affleck"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31049299",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
    "awards": "4 wins & 27 nominations total",
@@ -229,94 +361,72 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1502407.jpg"
   },
   {
-   "name": "The Unbearable Weight of Massive Talent",
    "cast": [
-    "Nicolas Cage",
-    "Pedro Pascal",
-    "Tiffany Haddish"
+    "Matthew McConaughey",
+    "Charlie Hunnam",
+    "Michelle Dockery"
    ],
-   "country": "Croatia, United States, Hungary",
-   "description": "Criativamente insatisfeito e enfrentando uma ruína financeira, Nicolas Cage deve aceitar a oferta de 1 milhão de dólares para marcar presença na festa de aniversário de um fã, muito fanático e perigoso. As coisas tomam um rumo inesperado quando Cage é recrutado por uma agente da CIA e forçado a viver de acordo com a sua própria lenda, canalizando os seus personagens mais icónicos e amados do cinema para salvar-se a si mesmo e aos que ama. Com uma carreira construída para este momento, o premiado ator deve assumir o papel de uma vida: o de Nicolas Cage.",
+   "country": "United States, United Kingdom",
+   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
    "director": [
-    "Tom Gormican"
+    "Guy Ritchie"
    ],
    "genre": [
     "Action",
     "Comedy",
     "Crime"
    ],
-   "imdbRating": "7.0",
-   "released": "2022-04-22T00:00:00.000Z",
-   "runtime": "107 min",
+   "imdbRating": "7.8",
+   "name": "The Gentlemen",
+   "released": "2020-01-24T00:00:00.000Z",
    "writer": [
-    "Tom Gormican",
-    "Kevin Etten"
+    "Guy Ritchie",
+    "Ivan Atkinson",
+    "Marn Davies"
    ],
-   "year": "2022",
+   "year": "2020",
    "trailers": [
     {
-     "source": "CKTRbKch2K4",
+     "source": "KlXsguV9g0E",
      "type": "Trailer"
     },
     {
-     "source": "x2YHPZMj8r4",
-     "type": "Trailer"
-    },
-    {
-     "source": "fGXSPW0kAuE",
-     "type": "Trailer"
-    },
-    {
-     "source": "I8VuWhvk87o",
-     "type": "Trailer"
-    },
-    {
-     "source": "OT_aDZc3vXY",
+     "source": "2B0RpUGss2c",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt11291274/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11291274/img",
-   "awards": "3 wins & 23 nominations total",
-   "id": "tt11291274",
+   "background": "https://images.metahub.space/background/medium/tt8367814/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
+   "runtime": "113 min",
+   "awards": "1 win & 4 nominations total",
+   "dvdRelease": "2020-03-24T00:00:00.000Z",
+   "id": "tt8367814",
    "genres": [
     "Ação",
     "Comédia",
     "Crime"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "CKTRbKch2K4"
+     "title": "The Gentlemen",
+     "ytId": "KlXsguV9g0E"
     },
     {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "x2YHPZMj8r4"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "fGXSPW0kAuE"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "I8VuWhvk87o"
-    },
-    {
-     "title": "The Unbearable Weight of Massive Talent",
-     "ytId": "OT_aDZc3vXY"
+     "title": "The Gentlemen",
+     "ytId": "2B0RpUGss2c"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11291274"
+     "url": "https://imdb.com/title/tt8367814"
     },
     {
-     "name": "The Unbearable Weight of Massive Talent",
+     "name": "The Gentlemen",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-unbearable-weight-of-massive-talent-11291274"
+     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
     },
     {
      "name": "Action",
@@ -334,43 +444,388 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Nicolas Cage",
+     "name": "Matthew McConaughey",
      "category": "Cast",
-     "url": "stremio:///search?search=Nicolas%20Cage"
+     "url": "stremio:///search?search=Matthew%20McConaughey"
     },
     {
-     "name": "Pedro Pascal",
+     "name": "Charlie Hunnam",
      "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Pascal"
+     "url": "stremio:///search?search=Charlie%20Hunnam"
     },
     {
-     "name": "Tiffany Haddish",
+     "name": "Michelle Dockery",
      "category": "Cast",
-     "url": "stremio:///search?search=Tiffany%20Haddish"
+     "url": "stremio:///search?search=Michelle%20Dockery"
     },
     {
-     "name": "Tom Gormican",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Gormican"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     },
     {
-     "name": "Kevin Etten",
+     "name": "Ivan Atkinson",
      "category": "Writers",
-     "url": "stremio:///search?search=Kevin%20Etten"
+     "url": "stremio:///search?search=Ivan%20Atkinson"
     },
     {
-     "name": "Tom Gormican",
+     "name": "Marn Davies",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marn%20Davies"
+    },
+    {
+     "name": "Guy Ritchie",
      "category": "Directors",
-     "url": "stremio:///search?search=Tom%20Gormican"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt11291274",
+    "defaultVideoId": "tt8367814",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11291274.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
+  },
+  {
+   "awards": "Nominated for 1 Oscar. 29 wins & 44 nominations total",
+   "cast": [
+    "Morgan Freeman",
+    "Brad Pitt",
+    "Kevin Spacey"
+   ],
+   "country": "United States",
+   "description": "Somerset é um detective a uma semana da reforma. Mills é um detective jovem e ansioso por tomar o seu lugar. No entanto, ambos vão acabar juntos a resolver o caso de um «serial killer» meticuloso que mata as suas vítimas de acordo com os sete pecados mortais.",
+   "director": [
+    "David Fincher"
+   ],
+   "dvdRelease": "2010-07-06T00:00:00.000Z",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.6",
+   "name": "Seven",
+   "released": "1995-09-22T00:00:00.000Z",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "Z86bQ-Arguc",
+     "type": "Trailer"
+    },
+    {
+     "source": "KPOuJGkpblk",
+     "type": "Trailer"
+    },
+    {
+     "source": "fInchkjHggg",
+     "type": "Trailer"
+    },
+    {
+     "source": "vr3UZ-axauU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Andrew Kevin Walker"
+   ],
+   "year": "1995",
+   "background": "https://images.metahub.space/background/medium/tt0114369/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0114369/img",
+   "id": "tt0114369",
+   "genres": [
+    "Crime",
+    "Mistério",
+    "Thriller"
+   ],
+   "releaseInfo": "1995",
+   "trailerStreams": [
+    {
+     "title": "Seven",
+     "ytId": "Z86bQ-Arguc"
+    },
+    {
+     "title": "Seven",
+     "ytId": "KPOuJGkpblk"
+    },
+    {
+     "title": "Seven",
+     "ytId": "fInchkjHggg"
+    },
+    {
+     "title": "Seven",
+     "ytId": "vr3UZ-axauU"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0114369"
+    },
+    {
+     "name": "Seven",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/seven-0114369"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Morgan Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Morgan%20Freeman"
+    },
+    {
+     "name": "Brad Pitt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brad%20Pitt"
+    },
+    {
+     "name": "Kevin Spacey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Spacey"
+    },
+    {
+     "name": "Andrew Kevin Walker",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Kevin%20Walker"
+    },
+    {
+     "name": "David Fincher",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Fincher"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0114369",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0114369.jpg"
+  },
+  {
+   "name": "Masterplan",
+   "cast": [
+    "Stanley Tucci",
+    "Victor Belmondo",
+    "Simona Tabasco"
+   ],
+   "country": "France, Italy",
+   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+   "director": [
+    "Thomas Vincent"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "5.4",
+   "released": "2026-10-16T00:00:00.000Z",
+   "writer": [
+    "Giacomo Durzi",
+    "Alessandro Fabbri",
+    "Alberto Vignati"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt38672588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
+   "id": "tt38672588",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Masterplan",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/masterplan-38672588"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Stanley Tucci",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stanley%20Tucci"
+    },
+    {
+     "name": "Victor Belmondo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Victor%20Belmondo"
+    },
+    {
+     "name": "Simona Tabasco",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simona%20Tabasco"
+    },
+    {
+     "name": "Giacomo Durzi",
+     "category": "Writers",
+     "url": "stremio:///search?search=Giacomo%20Durzi"
+    },
+    {
+     "name": "Alessandro Fabbri",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alessandro%20Fabbri"
+    },
+    {
+     "name": "Alberto Vignati",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alberto%20Vignati"
+    },
+    {
+     "name": "Thomas Vincent",
+     "category": "Directors",
+     "url": "stremio:///search?search=Thomas%20Vincent"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38672588",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+  },
+  {
+   "cast": [
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Jacob Tremblay"
+   ],
+   "country": "United States",
+   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
+   "director": [
+    "Janus Metz"
+   ],
+   "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.2",
+   "name": "Unabomber",
+   "released": "2026-09-25T00:00:00.000Z",
+   "writer": [
+    "Sam Chalsen",
+    "Nelson Greaves"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt6933238/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
+   "runtime": "101 min",
+   "trailers": [
+    {
+     "source": "B3tR6qQjbgI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt6933238",
+   "genres": [
+    "Thriller",
+    "Drama",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Unabomber",
+     "ytId": "B3tR6qQjbgI"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6933238"
+    },
+    {
+     "name": "Unabomber",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/unabomber-6933238"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Russell Crowe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Russell%20Crowe"
+    },
+    {
+     "name": "Shailene Woodley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shailene%20Woodley"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jacob%20Tremblay"
+    },
+    {
+     "name": "Sam Chalsen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sam%20Chalsen"
+    },
+    {
+     "name": "Nelson Greaves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nelson%20Greaves"
+    },
+    {
+     "name": "Janus Metz",
+     "category": "Directors",
+     "url": "stremio:///search?search=Janus%20Metz"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6933238",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
   },
   {
    "name": "The Drama",
@@ -485,6 +940,124 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
+  },
+  {
+   "awards": "Nominated for 2 Oscars. 16 wins & 46 nominations total",
+   "cast": [
+    "Leonardo DiCaprio",
+    "Tom Hanks",
+    "Christopher Walken"
+   ],
+   "country": "United States, Canada",
+   "description": "Um agente do FBI anda atrás de um jovem criminoso que foi bem sucedido nas suas proezas ao fazer-se passar por um piloto aéreo, um médico, um advogado e um professor de história, conseguindo acumular a considerável quantia de 2,5 milhões de dólares em cheques fraudulentos, dispersos por 26 países.",
+   "director": [
+    "Steven Spielberg"
+   ],
+   "dvdRelease": "2013-08-01T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.1",
+   "name": "Catch Me If You Can",
+   "released": "2002-12-25T00:00:00.000Z",
+   "runtime": "141 min",
+   "trailers": [
+    {
+     "source": "71rDQ7z4eFg",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Frank Abagnale Jr.",
+    "Stan Redding",
+    "Jeff Nathanson"
+   ],
+   "year": "2002",
+   "background": "https://images.metahub.space/background/medium/tt0264464/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0264464/img",
+   "id": "tt0264464",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "releaseInfo": "2002",
+   "trailerStreams": [
+    {
+     "title": "Catch Me If You Can",
+     "ytId": "71rDQ7z4eFg"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0264464"
+    },
+    {
+     "name": "Catch Me If You Can",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/catch-me-if-you-can-0264464"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Leonardo DiCaprio",
+     "category": "Cast",
+     "url": "stremio:///search?search=Leonardo%20DiCaprio"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Christopher Walken",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Walken"
+    },
+    {
+     "name": "Frank Abagnale Jr.",
+     "category": "Writers",
+     "url": "stremio:///search?search=Frank%20Abagnale%20Jr."
+    },
+    {
+     "name": "Stan Redding",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stan%20Redding"
+    },
+    {
+     "name": "Jeff Nathanson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jeff%20Nathanson"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Directors",
+     "url": "stremio:///search?search=Steven%20Spielberg"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0264464",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0264464.jpg"
   },
   {
    "awards": "Nominated for 1 Oscar. 12 wins & 38 nominations total",
@@ -613,586 +1186,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0137523.jpg"
-  },
-  {
-   "awards": "Nominated for 2 Oscars. 16 wins & 46 nominations total",
-   "cast": [
-    "Leonardo DiCaprio",
-    "Tom Hanks",
-    "Christopher Walken"
-   ],
-   "country": "United States, Canada",
-   "description": "Um agente do FBI anda atrás de um jovem criminoso que foi bem sucedido nas suas proezas ao fazer-se passar por um piloto aéreo, um médico, um advogado e um professor de história, conseguindo acumular a considerável quantia de 2,5 milhões de dólares em cheques fraudulentos, dispersos por 26 países.",
-   "director": [
-    "Steven Spielberg"
-   ],
-   "dvdRelease": "2013-08-01T00:00:00.000Z",
-   "genre": [
-    "Biography",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "8.1",
-   "name": "Catch Me If You Can",
-   "released": "2002-12-25T00:00:00.000Z",
-   "runtime": "141 min",
-   "trailers": [
-    {
-     "source": "71rDQ7z4eFg",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Frank Abagnale Jr.",
-    "Stan Redding",
-    "Jeff Nathanson"
-   ],
-   "year": "2002",
-   "background": "https://images.metahub.space/background/medium/tt0264464/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0264464/img",
-   "id": "tt0264464",
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2002",
-   "trailerStreams": [
-    {
-     "title": "Catch Me If You Can",
-     "ytId": "71rDQ7z4eFg"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0264464"
-    },
-    {
-     "name": "Catch Me If You Can",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/catch-me-if-you-can-0264464"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Leonardo DiCaprio",
-     "category": "Cast",
-     "url": "stremio:///search?search=Leonardo%20DiCaprio"
-    },
-    {
-     "name": "Tom Hanks",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
-    },
-    {
-     "name": "Christopher Walken",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Walken"
-    },
-    {
-     "name": "Frank Abagnale Jr.",
-     "category": "Writers",
-     "url": "stremio:///search?search=Frank%20Abagnale%20Jr."
-    },
-    {
-     "name": "Stan Redding",
-     "category": "Writers",
-     "url": "stremio:///search?search=Stan%20Redding"
-    },
-    {
-     "name": "Jeff Nathanson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Nathanson"
-    },
-    {
-     "name": "Steven Spielberg",
-     "category": "Directors",
-     "url": "stremio:///search?search=Steven%20Spielberg"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0264464",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0264464.jpg"
-  },
-  {
-   "name": "Verity",
-   "cast": [
-    "Anne Hathaway",
-    "Dakota Johnson",
-    "Josh Hartnett"
-   ],
-   "country": "United States",
-   "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
-   "director": [
-    "Michael Showalter"
-   ],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "6.1",
-   "released": "2026-10-02T00:00:00.000Z",
-   "writer": [
-    "Nick Antosca",
-    "Colleen Hoover",
-    "Will Honley"
-   ],
-   "year": "2026",
-   "runtime": "114 min",
-   "trailers": [
-    {
-     "source": "xdPMKhjMSFs",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt32261958/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
-   "id": "tt32261958",
-   "genres": [
-    "Mistério",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Verity",
-     "ytId": "xdPMKhjMSFs"
-    }
-   ],
-   "links": [
-    {
-     "name": "Verity",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/verity-32261958"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Anne Hathaway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Hathaway"
-    },
-    {
-     "name": "Dakota Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dakota%20Johnson"
-    },
-    {
-     "name": "Josh Hartnett",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
-    },
-    {
-     "name": "Nick Antosca",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Antosca"
-    },
-    {
-     "name": "Colleen Hoover",
-     "category": "Writers",
-     "url": "stremio:///search?search=Colleen%20Hoover"
-    },
-    {
-     "name": "Will Honley",
-     "category": "Writers",
-     "url": "stremio:///search?search=Will%20Honley"
-    },
-    {
-     "name": "Michael Showalter",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Showalter"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32261958",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
-  },
-  {
-   "awards": "Nominated for 5 Oscars. 38 wins & 181 nominations total",
-   "cast": [
-    "Leonardo DiCaprio",
-    "Jonah Hill",
-    "Margot Robbie"
-   ],
-   "country": "United States",
-   "description": "A ascensão meteórica e queda em desgraça de Jordan Belfort, um corretor da bolsa de valores norte-americana que se tornou persona non grata no mundo das finanças após ser condenado por uso de drogas e vários crimes do colarinho branco e ganhos fraudulentos em bolsa.",
-   "director": [
-    "Martin Scorsese"
-   ],
-   "dvdRelease": "2015-12-12T00:00:00.000Z",
-   "genre": [
-    "Biography",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "8.2",
-   "name": "The Wolf of Wall Street",
-   "released": "2013-12-25T00:00:00.000Z",
-   "runtime": "180 min",
-   "trailers": [
-    {
-     "source": "Slj4-Sv-YNA",
-     "type": "Trailer"
-    },
-    {
-     "source": "iszwuX1AK6A",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Terence Winter",
-    "Jordan Belfort"
-   ],
-   "year": "2013",
-   "background": "https://images.metahub.space/background/medium/tt0993846/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0993846/img",
-   "id": "tt0993846",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2013",
-   "trailerStreams": [
-    {
-     "title": "The Wolf of Wall Street",
-     "ytId": "Slj4-Sv-YNA"
-    },
-    {
-     "title": "The Wolf of Wall Street",
-     "ytId": "iszwuX1AK6A"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0993846"
-    },
-    {
-     "name": "The Wolf of Wall Street",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-wolf-of-wall-street-0993846"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Leonardo DiCaprio",
-     "category": "Cast",
-     "url": "stremio:///search?search=Leonardo%20DiCaprio"
-    },
-    {
-     "name": "Jonah Hill",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jonah%20Hill"
-    },
-    {
-     "name": "Margot Robbie",
-     "category": "Cast",
-     "url": "stremio:///search?search=Margot%20Robbie"
-    },
-    {
-     "name": "Terence Winter",
-     "category": "Writers",
-     "url": "stremio:///search?search=Terence%20Winter"
-    },
-    {
-     "name": "Jordan Belfort",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jordan%20Belfort"
-    },
-    {
-     "name": "Martin Scorsese",
-     "category": "Directors",
-     "url": "stremio:///search?search=Martin%20Scorsese"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0993846",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0993846.jpg"
-  },
-  {
-   "awards": "1 win total",
-   "cast": [
-    "Eileen Brennan",
-    "Tim Curry",
-    "Madeline Kahn"
-   ],
-   "country": "United States",
-   "description": "Para quem acha que o mordomo continua sendo o principal suspeito nos casos de assassinato, oferecemos a oportunidade de investigar sete outros possíveis criminosos e desvendar um grande mistério. Será que o culpado é o Coronel Mostarda? Ou terá sido a Dona Violeta, que se livrou da vítima com uma corda na sala de bilhar? Relaxe! Todos terão a oportunidade de tirar suas próprias conclusões.",
-   "director": [
-    "Jonathan Lynn"
-   ],
-   "dvdRelease": "2013-08-01T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Crime",
-    "Mystery"
-   ],
-   "imdbRating": "7.3",
-   "name": "Clue",
-   "released": "1985-12-13T00:00:00.000Z",
-   "runtime": "94 min",
-   "trailers": [
-    {
-     "source": "KEXdWfsKZ1k",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "John Landis",
-    "Jonathan Lynn",
-    "Anthony E. Pratt"
-   ],
-   "year": "1985",
-   "background": "https://images.metahub.space/background/medium/tt0088930/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0088930/img",
-   "id": "tt0088930",
-   "genres": [
-    "Comédia",
-    "Crime",
-    "Mistério"
-   ],
-   "releaseInfo": "1985",
-   "trailerStreams": [
-    {
-     "title": "Clue",
-     "ytId": "KEXdWfsKZ1k"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0088930"
-    },
-    {
-     "name": "Clue",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/clue-0088930"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Eileen Brennan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eileen%20Brennan"
-    },
-    {
-     "name": "Tim Curry",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Curry"
-    },
-    {
-     "name": "Madeline Kahn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Madeline%20Kahn"
-    },
-    {
-     "name": "John Landis",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Landis"
-    },
-    {
-     "name": "Jonathan Lynn",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Lynn"
-    },
-    {
-     "name": "Anthony E. Pratt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Anthony%20E.%20Pratt"
-    },
-    {
-     "name": "Jonathan Lynn",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Lynn"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0088930",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0088930.jpg"
-  },
-  {
-   "cast": [
-    "Russell Crowe",
-    "Shailene Woodley",
-    "Jacob Tremblay"
-   ],
-   "country": "United States",
-   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
-   "director": [
-    "Janus Metz"
-   ],
-   "genre": [
-    "Biography",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "6.2",
-   "name": "Unabomber",
-   "released": "2026-09-25T00:00:00.000Z",
-   "writer": [
-    "Sam Chalsen",
-    "Nelson Greaves"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt6933238/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
-   "runtime": "101 min",
-   "trailers": [
-    {
-     "source": "B3tR6qQjbgI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt6933238",
-   "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Unabomber",
-     "ytId": "B3tR6qQjbgI"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6933238"
-    },
-    {
-     "name": "Unabomber",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/unabomber-6933238"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Russell Crowe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Russell%20Crowe"
-    },
-    {
-     "name": "Shailene Woodley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shailene%20Woodley"
-    },
-    {
-     "name": "Jacob Tremblay",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jacob%20Tremblay"
-    },
-    {
-     "name": "Sam Chalsen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Chalsen"
-    },
-    {
-     "name": "Nelson Greaves",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nelson%20Greaves"
-    },
-    {
-     "name": "Janus Metz",
-     "category": "Directors",
-     "url": "stremio:///search?search=Janus%20Metz"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt6933238",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
   }
  ]
 }

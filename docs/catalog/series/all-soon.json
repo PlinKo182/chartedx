@@ -493,34 +493,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39751377.jpg",
-   "imdbRating": "7.8"
-  },
-  {
-   "id": "tt42767924",
-   "logo": "https://live.metahub.space/logo/medium/tt42767924/img",
-   "background": "https://live.metahub.space/background/medium/tt42767924/img",
-   "name": "A Couple of Lies",
-   "description": "Uma troca de casas perfeita entre Sicília e Estocolmo se torna tóxica à medida que dois casais fazem de tudo para se proteger e manter seus segredos.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "language": "Swedish",
-   "country": "Sweden",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg"
+   "imdbRating": "7.7"
   },
   {
    "id": "tt32625029",
@@ -618,6 +591,33 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32625029.jpg"
+  },
+  {
+   "id": "tt42767924",
+   "logo": "https://live.metahub.space/logo/medium/tt42767924/img",
+   "background": "https://live.metahub.space/background/medium/tt42767924/img",
+   "name": "A Couple of Lies",
+   "description": "Uma troca de casas perfeita entre Sicília e Estocolmo se torna tóxica à medida que dois casais fazem de tudo para se proteger e manter seus segredos.",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "language": "Swedish",
+   "country": "Sweden",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg"
   },
   {
    "id": "tt26598805",
@@ -820,10 +820,102 @@
   },
   {
    "id": "tt44385073",
+   "logo": "https://live.metahub.space/logo/medium/tt44385073/img",
+   "background": "https://live.metahub.space/background/medium/tt44385073/img",
+   "name": "LOL: Last One Laughing Halloween UK",
+   "description": "Jack Dee, Daisy May Cooper, Phil Wang, Lou Sanders, Reece Shearsmith, Harriet Dyer and Tom Allen face off in a tense mind game, aiming to crack rivals without losing composure. Jimmy Carr returns as host, with Roisin Conaty back as deputy.",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "v2IksvXLQgo",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Jimmy Carr",
+    "Roisin Conaty",
+    "Lou Sanders"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Jimmy Carr",
+     "profile_path": "/277pzNVQUNGanqlNBVtOqVmvwv7.jpg",
+     "id": 59077
+    },
+    {
+     "character": "Self",
+     "name": "Roisin Conaty",
+     "profile_path": "/xWNKOCqrkOTQlGrXReq4liFGKXW.jpg",
+     "id": 1653876
+    },
+    {
+     "character": "Self",
+     "name": "Lou Sanders",
+     "profile_path": "/vNJLU7CsJeMzxqz8q4pDNnjD5WN.jpg",
+     "id": 1785459
+    },
+    {
+     "character": "Self",
+     "name": "Daisy May Cooper",
+     "profile_path": "/zKNeFdabIRzhN9AmjsY2L6gC006.jpg",
+     "id": 1793784
+    },
+    {
+     "character": "Self",
+     "name": "Tom Allen",
+     "profile_path": "/cFj49QC31ORppD0R6wjhUwzkAhY.jpg",
+     "id": 1875310
+    },
+    {
+     "character": "Self",
+     "name": "Reece Shearsmith",
+     "profile_path": "/4RJLh3e4Ha4K2ET8ruPcoaL2gqt.jpg",
+     "id": 34551
+    },
+    {
+     "character": "Self",
+     "name": "Jack Dee",
+     "profile_path": "/ftjFy7eL55fZimZMNEPBXsTUaEB.jpg",
+     "id": 28856
+    },
+    {
+     "character": "Self",
+     "name": "Phil Wang",
+     "profile_path": "/q0rIRkMUsMyBrpyml9M48JDfjFN.jpg",
+     "id": 2051018
+    },
+    {
+     "character": "Self",
+     "name": "Harriet Dyer",
+     "profile_path": "/3tBobPm2g7ATyTIXLG7XbyKGnFy.jpg",
+     "id": 6571415
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Ben Hardy",
+     "profile_path": "/wQLuB0yK5IFaWkrrEWCscZyHs7L.jpg",
+     "id": 4990729
+    }
+   ],
+   "director": [
+    "Ben Hardy"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
    "type": "series",
-   "name": "Last One Laughing UK: Halloween",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44385073.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44385073.jpg",
+   "imdbRating": "7.3"
   },
   {
    "status": "Continuing",
@@ -854,7 +946,7 @@
     "Mistério",
     "Sci-Fi & Fantasy"
    ],
-   "imdbRating": "7.6"
+   "imdbRating": "7.7"
   },
   {
    "status": "Continuing",
@@ -942,90 +1034,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39957390.jpg"
-  },
-  {
-   "id": "tt15715850",
-   "logo": "https://live.metahub.space/logo/medium/tt15715850/img",
-   "background": "https://live.metahub.space/background/medium/tt15715850/img",
-   "name": "The Greatest",
-   "description": "An intimate exploration of the incomparable life of Muhammad Ali. The amazing victories and defeats that made Ali a legend, both in and out of the ring, have been well documented and while those landmark events will live in The Greatest, the heartbeat of the story is fueled by all the moments that took place outside of the spotlight. The world remembers an icon, but The Greatest is about a man, a husband, a father, a brother, and a son.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Jaalen Best",
-    "Omari Hardwick",
-    "Dana Gourrier"
-   ],
-   "credits_cast": [
-    {
-     "character": "Muhammad Ali",
-     "name": "Jaalen Best",
-     "profile_path": "/qD1RCdmW9kxACsmnW84JJuVMgnb.jpg",
-     "id": 4312540
-    },
-    {
-     "character": "Cassius 'Cash' Clay Sr.",
-     "name": "Omari Hardwick",
-     "profile_path": "/acUogRPe6eyhiK33EavBk3SWGlB.jpg",
-     "id": 41556
-    },
-    {
-     "character": "Odessa 'Bird' Clay",
-     "name": "Dana Gourrier",
-     "profile_path": "/v3krc3R7LKMsHJEm8esPqEa7CR.jpg",
-     "id": 1133063
-    },
-    {
-     "character": "Sonny Liston",
-     "name": "Amin Joseph",
-     "profile_path": "/kTr5Lf7NUullsj0g1klTOScwzRp.jpg",
-     "id": 131772
-    },
-    {
-     "character": "Rudy Clay",
-     "name": "Kai Parham",
-     "profile_path": null,
-     "id": 935284
-    },
-    {
-     "character": "",
-     "name": "Giovanni Ribisi",
-     "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
-     "id": 1771
-    },
-    {
-     "character": "",
-     "name": "Reno Wilson",
-     "profile_path": "/odYnlRblq5nQHqFgOAu5zPUJCde.jpg",
-     "id": 117187
-    },
-    {
-     "character": "",
-     "name": "Erica Tazel",
-     "profile_path": "/9EWz9rv8cN5Xpd7ZPfXY29NeDqc.jpg",
-     "id": 1224565
-    },
-    {
-     "character": "",
-     "name": "Aleks Paunovic",
-     "profile_path": "/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg",
-     "id": 107810
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15715850.jpg"
   },
   {
    "name": "Stick",
@@ -1119,6 +1127,90 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31710249.jpg"
+  },
+  {
+   "id": "tt15715850",
+   "logo": "https://live.metahub.space/logo/medium/tt15715850/img",
+   "background": "https://live.metahub.space/background/medium/tt15715850/img",
+   "name": "The Greatest",
+   "description": "An intimate exploration of the incomparable life of Muhammad Ali. The amazing victories and defeats that made Ali a legend, both in and out of the ring, have been well documented and while those landmark events will live in The Greatest, the heartbeat of the story is fueled by all the moments that took place outside of the spotlight. The world remembers an icon, but The Greatest is about a man, a husband, a father, a brother, and a son.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Jaalen Best",
+    "Omari Hardwick",
+    "Dana Gourrier"
+   ],
+   "credits_cast": [
+    {
+     "character": "Muhammad Ali",
+     "name": "Jaalen Best",
+     "profile_path": "/qD1RCdmW9kxACsmnW84JJuVMgnb.jpg",
+     "id": 4312540
+    },
+    {
+     "character": "Cassius 'Cash' Clay Sr.",
+     "name": "Omari Hardwick",
+     "profile_path": "/acUogRPe6eyhiK33EavBk3SWGlB.jpg",
+     "id": 41556
+    },
+    {
+     "character": "Odessa 'Bird' Clay",
+     "name": "Dana Gourrier",
+     "profile_path": "/v3krc3R7LKMsHJEm8esPqEa7CR.jpg",
+     "id": 1133063
+    },
+    {
+     "character": "Sonny Liston",
+     "name": "Amin Joseph",
+     "profile_path": "/kTr5Lf7NUullsj0g1klTOScwzRp.jpg",
+     "id": 131772
+    },
+    {
+     "character": "Rudy Clay",
+     "name": "Kai Parham",
+     "profile_path": null,
+     "id": 935284
+    },
+    {
+     "character": "",
+     "name": "Giovanni Ribisi",
+     "profile_path": "/8EAiS9D3YtGOrwNM0OrwmDpWK7s.jpg",
+     "id": 1771
+    },
+    {
+     "character": "",
+     "name": "Reno Wilson",
+     "profile_path": "/odYnlRblq5nQHqFgOAu5zPUJCde.jpg",
+     "id": 117187
+    },
+    {
+     "character": "",
+     "name": "Erica Tazel",
+     "profile_path": "/9EWz9rv8cN5Xpd7ZPfXY29NeDqc.jpg",
+     "id": 1224565
+    },
+    {
+     "character": "",
+     "name": "Aleks Paunovic",
+     "profile_path": "/k8j9Nr0xS2vEUMV8Wl0y5cC2NeB.jpg",
+     "id": 107810
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15715850.jpg"
   },
   {
    "id": "tt38681812",
