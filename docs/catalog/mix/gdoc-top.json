@@ -89,25 +89,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2297757.jpg"
   },
   {
-   "id": "tt46027225",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "cast": [
-    "Mariana van Zeller"
-   ],
-   "type": "movie",
-   "name": "Super Scam Me",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
-   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ],
-   "imdbRating": "6.6"
-  },
-  {
    "id": "tt48356732",
    "logo": "https://live.metahub.space/logo/medium/tt48356732/img",
    "background": "https://live.metahub.space/background/medium/tt48356732/img",
@@ -134,77 +115,23 @@
    "imdbRating": "7.0"
   },
   {
-   "name": "Norm: The Tale of Norm MacDonald",
+   "id": "tt46027225",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
    "cast": [
-    "Norm MacDonald"
+    "Mariana van Zeller"
    ],
-   "country": "United States",
-   "description": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
-   "director": [
-    "Judd Apatow"
-   ],
-   "genre": [
-    "Documentary",
-    "Biography"
-   ],
-   "imdbRating": "7.9",
-   "released": "2026-10-16T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "127 min",
-   "trailers": [
-    {
-     "source": "dIBNCBAzBos",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt44822485/img",
-   "background": "https://images.metahub.space/background/medium/tt44822485/img",
-   "id": "tt44822485",
+   "type": "movie",
+   "name": "Super Scam Me",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
+   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
+   "releaseInfo": "2026",
    "genres": [
     "Documentário"
    ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Norm: The Tale of Norm MacDonald",
-     "ytId": "dIBNCBAzBos"
-    }
-   ],
-   "links": [
-    {
-     "name": "Norm: The Tale of Norm MacDonald",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/norm-the-tale-of-norm-macdonald-44822485"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Norm MacDonald",
-     "category": "Cast",
-     "url": "stremio:///search?search=Norm%20MacDonald"
-    },
-    {
-     "name": "Judd Apatow",
-     "category": "Directors",
-     "url": "stremio:///search?search=Judd%20Apatow"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt44822485",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg"
+   "imdbRating": "6.6"
   },
   {
    "name": "Don't Look Back in Anger",
@@ -309,6 +236,79 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
+  },
+  {
+   "name": "Norm: The Tale of Norm MacDonald",
+   "cast": [
+    "Norm MacDonald"
+   ],
+   "country": "United States",
+   "description": "O documentário de Judd Apatow sobre Norm Macdonald usa imagens de arquivo, fotos e vídeos caseiros para narrar a carreira da lenda do SNL - do âncora do \"Weekend Update\" ao mestre da comédia absurda e inexpressiva cuja influência perdura.",
+   "director": [
+    "Judd Apatow"
+   ],
+   "genre": [
+    "Documentary",
+    "Biography"
+   ],
+   "imdbRating": "7.9",
+   "released": "2026-10-16T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "dIBNCBAzBos",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt44822485/img",
+   "background": "https://images.metahub.space/background/medium/tt44822485/img",
+   "id": "tt44822485",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Norm: The Tale of Norm MacDonald",
+     "ytId": "dIBNCBAzBos"
+    }
+   ],
+   "links": [
+    {
+     "name": "Norm: The Tale of Norm MacDonald",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/norm-the-tale-of-norm-macdonald-44822485"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Norm MacDonald",
+     "category": "Cast",
+     "url": "stremio:///search?search=Norm%20MacDonald"
+    },
+    {
+     "name": "Judd Apatow",
+     "category": "Directors",
+     "url": "stremio:///search?search=Judd%20Apatow"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt44822485",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg"
   },
   {
    "id": "tt43702035",
