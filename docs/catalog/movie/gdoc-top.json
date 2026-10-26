@@ -583,14 +583,138 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45617366.jpg"
   },
   {
-   "id": "tt36057363",
+   "awards": "2 wins & 5 nominations total",
+   "cast": [
+    "Jared Padalecki",
+    "Amanda Righetti",
+    "Derek Mears"
+   ],
+   "country": "United States",
+   "description": "Clay vai à misteriosa floresta de Crystal Lake em busca da sua irmã desaparecida. Lá, encontra restos de velhas cabanas. Apesar de ser avisado pelos habitantes locais, resolve explorar o local juntamente com uma jovem, de um grupo que foi ali para passar um fim de semana de aventura. O que eles não esperavam era encontrar Jason...",
+   "director": [
+    "Marcus Nispel"
+   ],
+   "dvdRelease": "2011-03-01T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "5.5",
+   "name": "Friday the 13th",
+   "released": "2009-02-13T00:00:00.000Z",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "J-gx4AHReGs",
+     "type": "Trailer"
+    },
+    {
+     "source": "LQeTdDNNacc",
+     "type": "Trailer"
+    },
+    {
+     "source": "cCfO1aB8CIE",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Victor Miller",
+    "Damian Shannon",
+    "Mark Swift"
+   ],
+   "year": "2009",
+   "background": "https://images.metahub.space/background/medium/tt0758746/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0758746/img",
+   "id": "tt0758746",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "2009",
+   "trailerStreams": [
+    {
+     "title": "Friday the 13th",
+     "ytId": "J-gx4AHReGs"
+    },
+    {
+     "title": "Friday the 13th",
+     "ytId": "LQeTdDNNacc"
+    },
+    {
+     "title": "Friday the 13th",
+     "ytId": "cCfO1aB8CIE"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0758746"
+    },
+    {
+     "name": "Friday the 13th",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/friday-the-13th-0758746"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jared Padalecki",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jared%20Padalecki"
+    },
+    {
+     "name": "Amanda Righetti",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amanda%20Righetti"
+    },
+    {
+     "name": "Derek Mears",
+     "category": "Cast",
+     "url": "stremio:///search?search=Derek%20Mears"
+    },
+    {
+     "name": "Victor Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Victor%20Miller"
+    },
+    {
+     "name": "Damian Shannon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Damian%20Shannon"
+    },
+    {
+     "name": "Mark Swift",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mark%20Swift"
+    },
+    {
+     "name": "Marcus Nispel",
+     "category": "Directors",
+     "url": "stremio:///search?search=Marcus%20Nispel"
+    }
+   ],
    "behaviorHints": {
+    "defaultVideoId": "tt0758746",
     "hasScheduledVideos": false
    },
    "type": "movie",
-   "name": "Cozy Fireplace",
    "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0758746.jpg"
   }
  ]
 }

@@ -1,60 +1,164 @@
 {
  "metas": [
   {
-   "awards": "Nominated for 4 Primetime Emmys. 6 wins & 39 nominations total",
+   "name": "Blue Lock",
    "cast": [
-    "Victoria Justice",
-    "Leon Thomas III",
-    "Matt Bennett"
+    "Ricco Fajardo",
+    "Kazuki Ura",
+    "Drew Breedlove"
    ],
-   "country": "United States",
-   "description": "Quando a aspirante a cantora Tori Vega entra para o excêntrico Liceu Artístico de Hollywood, tem dificuldade em integrar-se com os outros estudantes muito talentosos.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "Japan",
+   "description": "Após uma derrota desastrosa no Mundial de Futebol de 2018, a União Japonesa de Futebol está empenhada em criar um atacante que tenha fome de golos e sede de vitória, o instrumento decisivo para reverter um jogo perdido... Para isso, reuniu 300 dos mais brilhantes jovens jogadores do Japão que passarão por um rigoroso treino. Para sobreviver a esta batalha real, o atacante escolhido terá de superar a força e o ego daqueles que estiverem no seu caminho!",
    "genre": [
-    "Comedy",
-    "Drama",
-    "Family"
+    "Animation",
+    "Sport",
+    "Thriller"
    ],
-   "imdbRating": "7.0",
-   "name": "Victorious",
-   "released": "2010-03-27T00:00:00.000Z",
-   "runtime": "30 min",
-   "status": "Ended",
-   "writer": [
-    "Dan Schneider"
-   ],
-   "year": "2010–2013",
-   "background": "https://images.metahub.space/background/medium/tt1604099/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1604099/img",
+   "imdbRating": "8.1",
+   "released": "2022-10-08T00:00:00.000Z",
+   "runtime": "24 min",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt15222080/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15222080/img",
    "trailers": [
     {
-     "source": "XwoSe9OfM9Y",
+     "source": "IVsII3dLbWc",
+     "type": "Trailer"
+    },
+    {
+     "source": "V5CZuvJd3Ks",
+     "type": "Trailer"
+    },
+    {
+     "source": "IYeipQNZFxE",
      "type": "Trailer"
     }
    ],
-   "id": "tt1604099",
+   "awards": "2 wins & 5 nominations total",
+   "id": "tt15222080",
    "genres": [
-    "Comédia",
-    "Kids"
+    "Animação",
+    "Action & Adventure",
+    "Drama"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Victorious",
-     "ytId": "XwoSe9OfM9Y"
+     "title": "Blue Lock",
+     "ytId": "IVsII3dLbWc"
+    },
+    {
+     "title": "Blue Lock",
+     "ytId": "V5CZuvJd3Ks"
+    },
+    {
+     "title": "Blue Lock",
+     "ytId": "IYeipQNZFxE"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "8.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1604099"
+     "url": "https://imdb.com/title/tt15222080"
     },
     {
-     "name": "Victorious",
+     "name": "Blue Lock",
      "category": "share",
-     "url": "https://www.strem.io/s/series/victorious-1604099"
+     "url": "https://www.strem.io/s/series/blue-lock-15222080"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Ricco Fajardo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricco%20Fajardo"
+    },
+    {
+     "name": "Kazuki Ura",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kazuki%20Ura"
+    },
+    {
+     "name": "Drew Breedlove",
+     "category": "Cast",
+     "url": "stremio:///search?search=Drew%20Breedlove"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15222080.jpg"
+  },
+  {
+   "name": "Rivals",
+   "cast": [
+    "David Tennant",
+    "Danny Dyer",
+    "Alex Hassell"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "Estamos em 1986 e o Reino Unido está em crescimento. \"Rivals\" mergulha de cabeça no mundo feroz da televisão onde os penteados são grandes e as ambições ainda maiores. Os negócios fazem-se nas salas de conferências, mas também nos quartos. Ninguém sabe ao certo quem vai ficar por cima. Com cada homem e mulher preocupados apenas com o próprio umbigo, poderá o amor verdadeiro florescer nesta tão esperada adaptação de Rutshire Chronicles, o romance best-seller de Jilly Cooper?",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.9",
+   "released": "2024-10-18T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "54 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "vnoFk7f-Oeo",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt21906238/img",
+   "logo": "https://images.metahub.space/logo/medium/tt21906238/img",
+   "awards": "Won 2 BAFTA Awards. 6 wins & 13 nominations total",
+   "id": "tt21906238",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Rivals",
+     "ytId": "vnoFk7f-Oeo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt21906238"
+    },
+    {
+     "name": "Rivals",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/rivals-21906238"
     },
     {
      "name": "Comedy",
@@ -67,29 +171,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
-    },
-    {
-     "name": "Victoria Justice",
+     "name": "David Tennant",
      "category": "Cast",
-     "url": "stremio:///search?search=Victoria%20Justice"
+     "url": "stremio:///search?search=David%20Tennant"
     },
     {
-     "name": "Leon Thomas III",
+     "name": "Danny Dyer",
      "category": "Cast",
-     "url": "stremio:///search?search=Leon%20Thomas%20III"
+     "url": "stremio:///search?search=Danny%20Dyer"
     },
     {
-     "name": "Matt Bennett",
+     "name": "Alex Hassell",
      "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Bennett"
-    },
-    {
-     "name": "Dan Schneider",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dan%20Schneider"
+     "url": "stremio:///search?search=Alex%20Hassell"
     }
    ],
    "behaviorHints": {
@@ -98,7 +192,683 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1604099.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21906238.jpg"
+  },
+  {
+   "name": "Turn of the Tide",
+   "cast": [
+    "José Condessa",
+    "Helena Caldeira",
+    "Rodrigo Tomás"
+   ],
+   "country": "Portugal",
+   "description": "Quando um barco cheio de cocaína se afunda na costa da ilha onde mora, Eduardo vê uma oportunidade para ganhar dinheiro que tem tanto de emocionante como de arriscado.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "7.4",
+   "released": "2023-05-26T00:00:00.000Z",
+   "writer": [
+    "Augusto de Fraga"
+   ],
+   "year": "2023–2026",
+   "runtime": "51 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "_tHdyD9TGCA",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt20268688/img",
+   "logo": "https://images.metahub.space/logo/medium/tt20268688/img",
+   "awards": "9 wins & 9 nominations total",
+   "id": "tt20268688",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Turn of the Tide",
+     "ytId": "_tHdyD9TGCA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt20268688"
+    },
+    {
+     "name": "Turn of the Tide",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/turn-of-the-tide-20268688"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "José Condessa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jos%C3%A9%20Condessa"
+    },
+    {
+     "name": "Helena Caldeira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Helena%20Caldeira"
+    },
+    {
+     "name": "Rodrigo Tomás",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rodrigo%20Tom%C3%A1s"
+    },
+    {
+     "name": "Augusto de Fraga",
+     "category": "Writers",
+     "url": "stremio:///search?search=Augusto%20de%20Fraga"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20268688.jpg"
+  },
+  {
+   "name": "The Four Seasons",
+   "cast": [
+    "Tina Fey",
+    "Will Forte",
+    "Kerri Kenney"
+   ],
+   "country": "United States",
+   "description": "Um divórcio vai pôr à prova a longa amizade entre três casais e atrapalhar as suas tradicionais escapadelas de fim de semana trimestrais.",
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "7.2",
+   "released": "2025-05-01T00:00:00.000Z",
+   "writer": [
+    "Tina Fey",
+    "Lang Fisher",
+    "Tracey Wigfield"
+   ],
+   "year": "2025–2026",
+   "runtime": "31 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "WKTwtIL4xyk",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "awards": "Nominated for 2 Primetime Emmys. 2 wins & 16 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt30826447/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30826447/img",
+   "id": "tt30826447",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Four Seasons",
+     "ytId": "WKTwtIL4xyk"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30826447"
+    },
+    {
+     "name": "The Four Seasons",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-four-seasons-30826447"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Tina Fey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tina%20Fey"
+    },
+    {
+     "name": "Will Forte",
+     "category": "Cast",
+     "url": "stremio:///search?search=Will%20Forte"
+    },
+    {
+     "name": "Kerri Kenney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kerri%20Kenney"
+    },
+    {
+     "name": "Tina Fey",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tina%20Fey"
+    },
+    {
+     "name": "Lang Fisher",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lang%20Fisher"
+    },
+    {
+     "name": "Tracey Wigfield",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tracey%20Wigfield"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30826447.jpg"
+  },
+  {
+   "cast": [
+    "Nicola Coughlan",
+    "Claudia Jessie",
+    "Adjoa Andoh"
+   ],
+   "country": "United States",
+   "description": "Os oito irmãos da coesa família Bridgerton procuram o amor e a felicidade na alta sociedade de Londres.",
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "7.5",
+   "name": "Bridgerton",
+   "released": "2020-12-25T00:00:00.000Z",
+   "runtime": "63 min",
+   "writer": [
+    "Chris Van Dusen"
+   ],
+   "year": "2020–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt8740790/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8740790/img",
+   "awards": "Won 7 Primetime Emmys. 29 wins & 118 nominations total",
+   "trailers": [
+    {
+     "source": "gpv7ayf_tyE",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt8740790",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "Bridgerton",
+     "ytId": "gpv7ayf_tyE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8740790"
+    },
+    {
+     "name": "Bridgerton",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/bridgerton-8740790"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Nicola Coughlan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicola%20Coughlan"
+    },
+    {
+     "name": "Claudia Jessie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Claudia%20Jessie"
+    },
+    {
+     "name": "Adjoa Andoh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adjoa%20Andoh"
+    },
+    {
+     "name": "Chris Van Dusen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Van%20Dusen"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8740790.jpg"
+  },
+  {
+   "name": "Ride or Die",
+   "cast": [
+    "Octavia Spencer",
+    "Hannah Waddingham",
+    "Bill Nighy"
+   ],
+   "country": "United States",
+   "description": "As melhores amigas Debbie e Judith são obrigadas a fugir quando Debbie descobre que Judith não é uma contabilista forense, mas sim uma assassina internacional! Com uma figura misteriosa a persegui-las e o marido de Debbie envolvido num esquema de corrupção, é uma corrida contra o tempo e uma viagem pela Europa para desvendar a verdade e sobreviver.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.5",
+   "released": null,
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "QFGAxkTRAG8",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "52 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt30494226/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30494226/img",
+   "id": "tt30494226",
+   "genres": [
+    "Action & Adventure",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Ride or Die",
+     "ytId": "QFGAxkTRAG8"
+    }
+   ],
+   "links": [
+    {
+     "name": "Ride or Die",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/ride-or-die-30494226"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Octavia Spencer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Octavia%20Spencer"
+    },
+    {
+     "name": "Hannah Waddingham",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hannah%20Waddingham"
+    },
+    {
+     "name": "Bill Nighy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bill%20Nighy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30494226.jpg"
+  },
+  {
+   "name": "The Perfect Lie",
+   "cast": [
+    "Loes Haverkort",
+    "Rifka Lodeizen",
+    "Charlie Chan Dagelet"
+   ],
+   "country": "Netherlands",
+   "description": "Quando um dos elementos do grupo perde a vida num trágico incêndio, quatro casais, aparentemente perfeitos, começam a questionar até que ponto se conhecem…",
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.6",
+   "released": "2026-09-10T00:00:00.000Z",
+   "writer": [
+    "Dorien Goertzen"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "FnwySGfFTdc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "52 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt37439410/img",
+   "logo": "https://images.metahub.space/logo/medium/tt37439410/img",
+   "id": "tt37439410",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Perfect Lie",
+     "ytId": "FnwySGfFTdc"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Perfect Lie",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-perfect-lie-37439410"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Loes Haverkort",
+     "category": "Cast",
+     "url": "stremio:///search?search=Loes%20Haverkort"
+    },
+    {
+     "name": "Rifka Lodeizen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rifka%20Lodeizen"
+    },
+    {
+     "name": "Charlie Chan Dagelet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charlie%20Chan%20Dagelet"
+    },
+    {
+     "name": "Dorien Goertzen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dorien%20Goertzen"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37439410.jpg"
+  },
+  {
+   "name": "The Lincoln Lawyer",
+   "cast": [
+    "Manuel Garcia-Rulfo",
+    "Angus Sampson",
+    "Becki Newton"
+   ],
+   "country": "United States",
+   "description": "Mickey Haller é um brilhante advogado de defesa de LA que faz tudo para vencer no sistema de justiça criminal, sempre ao volante do seu Lincoln.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.8",
+   "released": "2022-05-13T00:00:00.000Z",
+   "writer": [
+    "Ted Humphrey",
+    "David E. Kelley"
+   ],
+   "year": "2022–2027",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13833978/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13833978/img",
+   "awards": "5 wins & 7 nominations total",
+   "runtime": "50 min",
+   "trailers": [
+    {
+     "source": "u-sLh8-ohzc",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt13833978",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Lincoln Lawyer",
+     "ytId": "u-sLh8-ohzc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13833978"
+    },
+    {
+     "name": "The Lincoln Lawyer",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-lincoln-lawyer-13833978"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Manuel Garcia-Rulfo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Manuel%20Garcia-Rulfo"
+    },
+    {
+     "name": "Angus Sampson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Angus%20Sampson"
+    },
+    {
+     "name": "Becki Newton",
+     "category": "Cast",
+     "url": "stremio:///search?search=Becki%20Newton"
+    },
+    {
+     "name": "Ted Humphrey",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ted%20Humphrey"
+    },
+    {
+     "name": "David E. Kelley",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20E.%20Kelley"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13833978.jpg"
+  },
+  {
+   "name": "My Hero Academia",
+   "year": "2016–2026",
+   "runtime": "23 min",
+   "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ],
+   "released": "2018-05-05T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Kôhei Horikoshi"
+   ],
+   "cast": [
+    "Daiki Yamashita",
+    "Justin Briner",
+    "Nobuhiko Okamoto"
+   ],
+   "imdbRating": "8.2",
+   "description": "Por toda a sua vida, Izuku sonhou ser um heroi, um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.",
+   "country": "Japan",
+   "awards": "41 wins & 70 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5626028/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5626028/img",
+   "trailers": [
+    {
+     "source": "TRr_dS2REo4",
+     "type": "Trailer"
+    },
+    {
+     "source": "broyogKLs2Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "wIb3nnOeves",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5626028",
+   "genres": [
+    "Action & Adventure",
+    "Animação",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "My Hero Academia",
+     "ytId": "TRr_dS2REo4"
+    },
+    {
+     "title": "My Hero Academia",
+     "ytId": "broyogKLs2Y"
+    },
+    {
+     "title": "My Hero Academia",
+     "ytId": "wIb3nnOeves"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5626028"
+    },
+    {
+     "name": "My Hero Academia",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/my-hero-academia-5626028"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Daiki Yamashita",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daiki%20Yamashita"
+    },
+    {
+     "name": "Justin Briner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Justin%20Briner"
+    },
+    {
+     "name": "Nobuhiko Okamoto",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nobuhiko%20Okamoto"
+    },
+    {
+     "name": "Kôhei Horikoshi",
+     "category": "Writers",
+     "url": "stremio:///search?search=K%C3%B4hei%20Horikoshi"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5626028.jpg"
   },
   {
    "name": "The Handmaid's Tale",
@@ -200,814 +970,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
-  },
-  {
-   "name": "Agatha All Along",
-   "cast": [
-    "Kathryn Hahn",
-    "Joe Locke",
-    "Sasheer Zamata"
-   ],
-   "country": "United States",
-   "description": "A infame Agatha Harkness está perdida e sem poder, após um estranho adolescente gótico a ajudar a libertar-se de um feitiço distorcido. O interesse de Agatha é despertado quando ele lhe implora que o leve à lendária Estrada das Bruxas, um conjunto de provas mágicas que, se superadas, recompensa uma bruxa com o que lhe falta. Juntos, Agatha e este misterioso adolescente reúnem um clã desesperado e partem para chegar ao fundo, ao fundo, ao fundo da Estrada...",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-09-18T00:00:00.000Z",
-   "year": "2024",
-   "trailers": [
-    {
-     "source": "R9pXbNz6Vbw",
-     "type": "Trailer"
-    },
-    {
-     "source": "ARulRbzM7Jw",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "40 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [
-    "Jac Schaeffer"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15571732/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15571732/img",
-   "awards": "Nominated for 3 Primetime Emmys. 14 wins & 41 nominations total",
-   "id": "tt15571732",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Mistério"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Agatha All Along",
-     "ytId": "R9pXbNz6Vbw"
-    },
-    {
-     "title": "Agatha All Along",
-     "ytId": "ARulRbzM7Jw"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15571732"
-    },
-    {
-     "name": "Agatha All Along",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/agatha-all-along-15571732"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Kathryn Hahn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kathryn%20Hahn"
-    },
-    {
-     "name": "Joe Locke",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Locke"
-    },
-    {
-     "name": "Sasheer Zamata",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sasheer%20Zamata"
-    },
-    {
-     "name": "Jac Schaeffer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jac%20Schaeffer"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15571732.jpg"
-  },
-  {
-   "name": "9-1-1: Nashville",
-   "genre": [
-    "Action",
-    "Drama"
-   ],
-   "imdbRating": "5.7",
-   "released": "2025-10-09T00:00:00.000Z",
-   "year": "2025–",
-   "runtime": "43 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "sP6y_yYGjUg",
-     "type": "Trailer"
-    },
-    {
-     "source": "5lRbzwDdf1c",
-     "type": "Trailer"
-    },
-    {
-     "source": "jQZ9uoE1_ew",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Chris O&apos;Donnell",
-    "Jessica Capshaw",
-    "Kimberly Williams-Paisley"
-   ],
-   "director": [],
-   "writer": [
-    "Tim Minear",
-    "Ryan Murphy",
-    "Rashad Raisani"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33550053/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33550053/img",
-   "country": "United States",
-   "description": "Um novo spin-off do universo de 9-1-1 focado no comandante Don Sharpe, um praticante de rodeo que gere o quartel mais movimentado de Nashville, juntamente com o seu filho.",
-   "awards": "4 nominations total",
-   "id": "tt33550053",
-   "genres": [
-    "Drama",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "9-1-1: Nashville",
-     "ytId": "sP6y_yYGjUg"
-    },
-    {
-     "title": "9-1-1: Nashville",
-     "ytId": "5lRbzwDdf1c"
-    },
-    {
-     "title": "9-1-1: Nashville",
-     "ytId": "jQZ9uoE1_ew"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33550053"
-    },
-    {
-     "name": "9-1-1: Nashville",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/9-1-1-nashville-33550053"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Chris O&apos;Donnell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20O%26apos%3BDonnell"
-    },
-    {
-     "name": "Jessica Capshaw",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessica%20Capshaw"
-    },
-    {
-     "name": "Kimberly Williams-Paisley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kimberly%20Williams-Paisley"
-    },
-    {
-     "name": "Tim Minear",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Minear"
-    },
-    {
-     "name": "Ryan Murphy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20Murphy"
-    },
-    {
-     "name": "Rashad Raisani",
-     "category": "Writers",
-     "url": "stremio:///search?search=Rashad%20Raisani"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33550053.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Primetime Emmy. 8 wins & 32 nominations total",
-   "cast": [
-    "Dominic Purcell",
-    "Wentworth Miller",
-    "Amaury Nolasco"
-   ],
-   "country": "United States",
-   "description": "Quando o seu irmão é condenado por um assassinato que não cometeu, Michael Scofield decide tirá-lo da prisão. Mas não pela porta de frente.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "8.3",
-   "name": "Prison Break",
-   "released": "2005-08-29T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Ended",
-   "writer": [
-    "Paul T. Scheuring"
-   ],
-   "year": "2005–2017",
-   "background": "https://images.metahub.space/background/medium/tt0455275/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
-   "trailers": [
-    {
-     "source": "AL9zLctDJaU",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0455275",
-   "genres": [
-    "Action & Adventure",
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2005",
-   "trailerStreams": [
-    {
-     "title": "Prison Break",
-     "ytId": "AL9zLctDJaU"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0455275"
-    },
-    {
-     "name": "Prison Break",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/prison-break-0455275"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Dominic Purcell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dominic%20Purcell"
-    },
-    {
-     "name": "Wentworth Miller",
-     "category": "Cast",
-     "url": "stremio:///search?search=Wentworth%20Miller"
-    },
-    {
-     "name": "Amaury Nolasco",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amaury%20Nolasco"
-    },
-    {
-     "name": "Paul T. Scheuring",
-     "category": "Writers",
-     "url": "stremio:///search?search=Paul%20T.%20Scheuring"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0455275.jpg"
-  },
-  {
-   "name": "Tracker",
-   "cast": [
-    "Justin Hartley",
-    "Fiona Rene",
-    "Abby McEnany"
-   ],
-   "country": "United States",
-   "description": "Um sobrevivente vagueia pelo país como caçador de recompensas, enquanto se debate com a sua família.",
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-02-11T00:00:00.000Z",
-   "writer": [
-    "Ben H. Winters"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "Hw6RlFyPbNM",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "42 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt13875494/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13875494/img",
-   "awards": "2 wins & 6 nominations total",
-   "id": "tt13875494",
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Tracker",
-     "ytId": "Hw6RlFyPbNM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13875494"
-    },
-    {
-     "name": "Tracker",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/tracker-13875494"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Justin Hartley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Justin%20Hartley"
-    },
-    {
-     "name": "Fiona Rene",
-     "category": "Cast",
-     "url": "stremio:///search?search=Fiona%20Rene"
-    },
-    {
-     "name": "Abby McEnany",
-     "category": "Cast",
-     "url": "stremio:///search?search=Abby%20McEnany"
-    },
-    {
-     "name": "Ben H. Winters",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ben%20H.%20Winters"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13875494.jpg"
-  },
-  {
-   "name": "Youth",
-   "cast": [
-    "Nadia Parkes",
-    "Andrea Vasiliou",
-    "Sophia Feliciano"
-   ],
-   "description": "Uma divorciada de 50 anos procura sexo e amor enquanto concilia os cuidados aos pais doentes e a educação do filho, que já deveria ser adulto.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "6.7",
-   "released": null,
-   "year": "2026–",
-   "trailers": [
-    {
-     "source": "XwuDMSlErkk",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "31 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt35949226/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35949226/img",
-   "id": "tt35949226",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Youth",
-     "ytId": "XwuDMSlErkk"
-    }
-   ],
-   "links": [
-    {
-     "name": "Youth",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/youth-35949226"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Nadia Parkes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nadia%20Parkes"
-    },
-    {
-     "name": "Andrea Vasiliou",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrea%20Vasiliou"
-    },
-    {
-     "name": "Sophia Feliciano",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Feliciano"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35949226.jpg"
-  },
-  {
-   "name": "Dexter: Resurrection",
-   "cast": [
-    "Michael C. Hall",
-    "Uma Thurman",
-    "Ntare Guma Mbaho Mwine"
-   ],
-   "country": "United States",
-   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
-   "imdbRating": "9.0",
-   "released": "2025-07-11T00:00:00.000Z",
-   "writer": [
-    "Clyde Phillips"
-   ],
-   "year": "2025–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "nTOf1FIsBcs",
-     "type": "Trailer"
-    },
-    {
-     "source": "84o1Q6fB20k",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33043892/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
-   "awards": "3 wins & 12 nominations total",
-   "id": "tt33043892",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "nTOf1FIsBcs"
-    },
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "84o1Q6fB20k"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33043892"
-    },
-    {
-     "name": "Dexter: Resurrection",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Michael C. Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
-    },
-    {
-     "name": "Uma Thurman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Uma%20Thurman"
-    },
-    {
-     "name": "Ntare Guma Mbaho Mwine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
-    },
-    {
-     "name": "Clyde Phillips",
-     "category": "Writers",
-     "url": "stremio:///search?search=Clyde%20Phillips"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
-  },
-  {
-   "name": "The Apothecary Diaries",
-   "cast": [
-    "Aoi Yûki",
-    "Emi Lo",
-    "Takeo Otsuka"
-   ],
-   "country": "Japan",
-   "description": "Maomao levava uma vida tranquila ao lado de seu pai, um boticário renomado. No entanto, sua vida muda da noite pro dia quando ela é vendida como uma simples serva no palácio do imperador. Incapaz de se adaptar à vida na realeza, Maomao decide tomar medidas drásticas quando os herdeiros imperiais adoecem, embarcando numa missão para encontrar a cura. Sua audácia chama a atenção de Jinshi, um belo funcionário do palácio que decide apoiá-la. Agora, Maomao se envolve em intrigas médicas enquanto sua fama se espalha pelos corredores do palácio!",
-   "genre": [
-    "Animation",
-    "Drama",
-    "History"
-   ],
-   "imdbRating": "8.6",
-   "released": "2023-10-21T00:00:00.000Z",
-   "year": "2023–",
-   "trailers": [
-    {
-     "source": "3lfb_KeqdEM",
-     "type": "Trailer"
-    },
-    {
-     "source": "XYNGkSvFT8c",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Natsu Hyûga"
-   ],
-   "runtime": "24 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt26743760/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26743760/img",
-   "awards": "24 wins & 53 nominations total",
-   "id": "tt26743760",
-   "genres": [
-    "Animação",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "The Apothecary Diaries",
-     "ytId": "3lfb_KeqdEM"
-    },
-    {
-     "title": "The Apothecary Diaries",
-     "ytId": "XYNGkSvFT8c"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt26743760"
-    },
-    {
-     "name": "The Apothecary Diaries",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-apothecary-diaries-26743760"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "Aoi Yûki",
-     "category": "Cast",
-     "url": "stremio:///search?search=Aoi%20Y%C3%BBki"
-    },
-    {
-     "name": "Emi Lo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emi%20Lo"
-    },
-    {
-     "name": "Takeo Otsuka",
-     "category": "Cast",
-     "url": "stremio:///search?search=Takeo%20Otsuka"
-    },
-    {
-     "name": "Natsu Hyûga",
-     "category": "Writers",
-     "url": "stremio:///search?search=Natsu%20Hy%C3%BBga"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743760.jpg"
-  },
-  {
-   "id": "tt42576855",
-   "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
-   "background": "https://live.metahub.space/background/medium/tt42576855/img",
-   "name": "Where the Mask Ends",
-   "description": "Chou era uma jovem humilde que catava lixo nas ruas. Todos podiam humilhá-la à vontade. Mas, por ter um rosto idêntico ao de Wei Rao, a filha de uma família nobre, acabou se tornando, por acidente, a noiva de Lu Zhuo, o herdeiro do Duque, com a esperança de trazer boa sorte a ele. Ambidiosa, Chou viu nisso uma chance de subir de vida. Mas, quando o marido, que estava à beira da morte, acordou de repente, ocupar o lugar de outra pessoa desencadeou uma série de desgraças. Wei Rao, furiosa por Chou ter tomado seu lugar, queria se livrar dela o quanto antes. Lu Zhuo a considerava uma mulher cruel, então vivia em alerta com ela. À primeira vista, a Mansão do Duque parecia um lugar harmonioso, mas na realidade era cheia de armadilhas e perigos mortais. No meio das intrigas, Chou lutou para contornar os interesses de todos e traçar o próprio caminho. Assim, conseguiu se libertar das correntes do destino, descobrir o segredo de sua origem e, por fim, se reunir com sua verdadeira família.",
-   "genres": [
-    "Drama"
-   ],
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "Q5vhvNyFph4",
-     "type": "Trailer"
-    },
-    {
-     "source": "lYrduDAiUSU",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Tian Xiwei",
-    "Yan An",
-    "Liu Xiaobei"
-   ],
-   "credits_cast": [
-    {
-     "character": "Wei Rao / Jun Dai",
-     "name": "Tian Xiwei",
-     "profile_path": "/i5lXDkbCTSD3Y7Vcy00iUtCoalX.jpg",
-     "id": 2430198
-    },
-    {
-     "character": "Lu Zhuo",
-     "name": "Yan An",
-     "profile_path": "/3reZJbOH8VT2A0xzRSJNp8sM6rv.jpg",
-     "id": 2040132
-    },
-    {
-     "character": "Qi Zhongkai",
-     "name": "Liu Xiaobei",
-     "profile_path": "/t7ORvESrEq0K2n1ognceKdeAorQ.jpg",
-     "id": 4515680
-    },
-    {
-     "character": "Bi Tao",
-     "name": "Pan Junya",
-     "profile_path": "/4mtfAodTxD2yG4lMOmuFHD7dmjM.jpg",
-     "id": 3983697
-    },
-    {
-     "character": "Han Liao",
-     "name": "Dai Gaozheng",
-     "profile_path": "/yku8OmgfaJDVkEKH8laynjU54um.jpg",
-     "id": 3693678
-    },
-    {
-     "character": "A Man",
-     "name": "Yin Wenxuan",
-     "profile_path": "/f6g2L9XePKypgB0dMbPo5OwojJg.jpg",
-     "id": 5456336
-    },
-    {
-     "character": "Crown Prince",
-     "name": "Zheng Hao",
-     "profile_path": null,
-     "id": 2878649
-    },
-    {
-     "character": "Zhou Fu",
-     "name": "Nikita Mao Linlin",
-     "profile_path": "/3dAutF22fOmde3BZag3VbRWTodi.jpg",
-     "id": 1518223
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Yang Long",
-     "profile_path": "/eb9oDuCifKNNkjxD3MYOGQsxvZC.jpg",
-     "id": 2192226
-    }
-   ],
-   "director": [
-    "Yang Long"
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-   "releaseInfo": "2026",
-   "imdbRating": "7.6"
   }
  ]
 }

@@ -5,13 +5,28 @@
   "genre": false
  },
  {
+  "shortName": "gdrm",
+  "name": "Drama",
+  "genre": true
+ },
+ {
+  "shortName": "gfnt",
+  "name": "Fantasia",
+  "genre": true
+ },
+ {
   "shortName": "gmsc",
   "name": "Música & Musical",
   "genre": true
  },
  {
-  "shortName": "gwsn",
-  "name": "Western",
+  "shortName": "gscf",
+  "name": "Ficção Científica",
+  "genre": true
+ },
+ {
+  "shortName": "grly",
+  "name": "Reality TV",
   "genre": true
  },
  {
@@ -25,18 +40,18 @@
   "genre": true
  },
  {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
+  "shortName": "grma",
+  "name": "Romance",
   "genre": true
  },
  {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
+  "shortName": "gani",
+  "name": "Animação",
   "genre": true
  },
  {
-  "shortName": "grly",
-  "name": "Reality TV",
+  "shortName": "gfml",
+  "name": "Família",
   "genre": true
  },
  {
@@ -50,38 +65,8 @@
   "genre": true
  },
  {
-  "shortName": "gani",
-  "name": "Animação",
-  "genre": true
- },
- {
-  "shortName": "gfnt",
-  "name": "Fantasia",
-  "genre": true
- },
- {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
-  "genre": true
- },
- {
-  "shortName": "grma",
-  "name": "Romance",
-  "genre": true
- },
- {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
-  "genre": true
- },
- {
   "shortName": "gcmy",
   "name": "Comédia",
-  "genre": true
- },
- {
-  "shortName": "gdrm",
-  "name": "Drama",
   "genre": true
  },
  {
@@ -95,8 +80,23 @@
   "genre": true
  },
  {
-  "shortName": "gfml",
-  "name": "Família",
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
+  "genre": true
+ },
+ {
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
+  "genre": true
+ },
+ {
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
   "genre": true
  }
 ]
