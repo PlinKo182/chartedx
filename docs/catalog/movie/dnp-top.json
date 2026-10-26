@@ -126,23 +126,108 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
-   "id": "tt46027225",
+   "name": "Don't Look Back in Anger",
+   "cast": [
+    "Liam Gallagher",
+    "Anaïs Gallagher",
+    "Noel Gallagher"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Os integrantes da banda comentam diretamente sobre o fim do grupo e sobre a decisão de retomar a parceria para a turnê Oasis Live ’25, que levou a banda novamente aos palcos em 2025. O filme registra ensaios, bastidores e apresentações, além de entrevistas conjuntas dos Gallagher, as primeiras realizadas pelos dois em mais de 25 anos.",
+   "director": [
+    "Will Lovelace",
+    "Dylan Southern"
+   ],
+   "genre": [
+    "Documentary",
+    "Music"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Steven Knight"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "X9sIYLtgc_s",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt36150957/img",
+   "background": "https://images.metahub.space/background/medium/tt36150957/img",
+   "id": "tt36150957",
+   "genres": [
+    "Documentário",
+    "Música"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Don't Look Back in Anger",
+     "ytId": "X9sIYLtgc_s"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt36150957"
+    },
+    {
+     "name": "Don't Look Back in Anger",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/dont-look-back-in-anger-36150957"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
+    },
+    {
+     "name": "Liam Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Gallagher"
+    },
+    {
+     "name": "Anaïs Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%C3%AFs%20Gallagher"
+    },
+    {
+     "name": "Noel Gallagher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noel%20Gallagher"
+    },
+    {
+     "name": "Steven Knight",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Knight"
+    },
+    {
+     "name": "Will Lovelace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Will%20Lovelace"
+    },
+    {
+     "name": "Dylan Southern",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dylan%20Southern"
+    }
+   ],
    "behaviorHints": {
+    "defaultVideoId": "tt36150957",
     "hasScheduledVideos": false
    },
-   "cast": [
-    "Mariana van Zeller"
-   ],
    "type": "movie",
-   "name": "Super Scam Me",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
-   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ],
-   "imdbRating": "6.6"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
    "name": "Spider-Man: No Way Home",
@@ -288,6 +373,25 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10872600.jpg"
   },
   {
+   "id": "tt46027225",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
+   "cast": [
+    "Mariana van Zeller"
+   ],
+   "type": "movie",
+   "name": "Super Scam Me",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
+   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário"
+   ],
+   "imdbRating": "6.6"
+  },
+  {
    "name": "Toy Story 5",
    "awards": "4 nominations total",
    "cast": [
@@ -412,110 +516,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
-  },
-  {
-   "name": "Don't Look Back in Anger",
-   "cast": [
-    "Liam Gallagher",
-    "Anaïs Gallagher",
-    "Noel Gallagher"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Os integrantes da banda comentam diretamente sobre o fim do grupo e sobre a decisão de retomar a parceria para a turnê Oasis Live ’25, que levou a banda novamente aos palcos em 2025. O filme registra ensaios, bastidores e apresentações, além de entrevistas conjuntas dos Gallagher, as primeiras realizadas pelos dois em mais de 25 anos.",
-   "director": [
-    "Will Lovelace",
-    "Dylan Southern"
-   ],
-   "genre": [
-    "Documentary",
-    "Music"
-   ],
-   "imdbRating": "8.0",
-   "released": "2026-09-11T00:00:00.000Z",
-   "writer": [
-    "Steven Knight"
-   ],
-   "year": "2026",
-   "runtime": "123 min",
-   "trailers": [
-    {
-     "source": "X9sIYLtgc_s",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt36150957/img",
-   "background": "https://images.metahub.space/background/medium/tt36150957/img",
-   "id": "tt36150957",
-   "genres": [
-    "Documentário",
-    "Música"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Don't Look Back in Anger",
-     "ytId": "X9sIYLtgc_s"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt36150957"
-    },
-    {
-     "name": "Don't Look Back in Anger",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/dont-look-back-in-anger-36150957"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Music",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
-    },
-    {
-     "name": "Liam Gallagher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Gallagher"
-    },
-    {
-     "name": "Anaïs Gallagher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ana%C3%AFs%20Gallagher"
-    },
-    {
-     "name": "Noel Gallagher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Noel%20Gallagher"
-    },
-    {
-     "name": "Steven Knight",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Knight"
-    },
-    {
-     "name": "Will Lovelace",
-     "category": "Directors",
-     "url": "stremio:///search?search=Will%20Lovelace"
-    },
-    {
-     "name": "Dylan Southern",
-     "category": "Directors",
-     "url": "stremio:///search?search=Dylan%20Southern"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt36150957",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
    "awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
@@ -1065,111 +1065,131 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0075005.jpg"
   },
   {
-   "name": "A Real Pain",
-   "awards": "Won 1 Oscar. 69 wins & 96 nominations total",
-   "cast": [
-    "Kieran Culkin",
-    "Jesse Eisenberg",
-    "Olha Bosova"
-   ],
-   "country": "United States, Poland",
-   "description": "Primos desencontrados reúnem-se numa viagem pela Polónia para homenagear a sua querida avó, mas as suas velhas tensões ressurgem tendo como pano de fundo a história da família deles.",
-   "director": [
-    "Jesse Eisenberg"
-   ],
-   "genre": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "7.0",
-   "released": "2024-11-15T00:00:00.000Z",
-   "writer": [
-    "Jesse Eisenberg"
-   ],
-   "year": "2024",
-   "runtime": "90 min",
+   "name": "Get Out",
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fgetout_196665%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fgetout_196665%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.23/ImageRenderer/111/168/images/no_image_111x168.jpg/196665/images/masterrepository/fandango/196665/get out.jpg\" alt=\"Get Out\" title=\"Get Out\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fgetout_196665%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.23//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fgetout-trailer%2f196665%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
    "trailers": [
     {
-     "source": "E_sjoa8aHpc",
+     "source": "gsB70ZRY-hI",
      "type": "Trailer"
     },
     {
-     "source": "b2et8Vpu7Ls",
+     "source": "Lc9pZmkNf34",
+     "type": "Trailer"
+    },
+    {
+     "source": "sRfnevzM9kQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt21823606/img",
-   "logo": "https://images.metahub.space/logo/medium/tt21823606/img",
-   "id": "tt21823606",
-   "genres": [
-    "Comédia",
-    "Drama"
+   "year": "2017",
+   "runtime": "104 min",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
    ],
-   "releaseInfo": "2024",
+   "released": "2017-02-24T00:00:00.000Z",
+   "director": [
+    "Jordan Peele"
+   ],
+   "writer": [
+    "Jordan Peele"
+   ],
+   "cast": [
+    "Daniel Kaluuya",
+    "Allison Williams",
+    "Bradley Whitford"
+   ],
+   "imdbRating": "7.8",
+   "description": "Agora que Chris e a sua namorada Rose chegaram ao ponto da relação em que se apresenta a família, ela convida-o a passar o fim de semana em casa dos seus pais, Missy e Dean. À primeira vista, Chris vê o comportamento excessivamente condescendente da família como tentativas nervosas de lidar com o relacionamento inter-racial da filha, mas com o avançar do fim de semana, uma série de descobertas, cada vez mais perturbadoras, levam-no a uma verdade que ele nunca poderia imaginar...",
+   "country": "United States, Japan",
+   "awards": "Won 1 Oscar. 154 wins & 215 nominations total",
+   "dvdRelease": "2017-05-09T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt5052448/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5052448/img",
+   "id": "tt5052448",
+   "genres": [
+    "Mistério",
+    "Thriller",
+    "Terror"
+   ],
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "A Real Pain",
-     "ytId": "E_sjoa8aHpc"
+     "title": "Get Out",
+     "ytId": "gsB70ZRY-hI"
     },
     {
-     "title": "A Real Pain",
-     "ytId": "b2et8Vpu7Ls"
+     "title": "Get Out",
+     "ytId": "Lc9pZmkNf34"
+    },
+    {
+     "title": "Get Out",
+     "ytId": "sRfnevzM9kQ"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt21823606"
+     "url": "https://imdb.com/title/tt5052448"
     },
     {
-     "name": "A Real Pain",
+     "name": "Get Out",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/a-real-pain-21823606"
+     "url": "https://www.strem.io/s/movie/get-out-5052448"
     },
     {
-     "name": "Comedy",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Drama",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Kieran Culkin",
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daniel Kaluuya",
      "category": "Cast",
-     "url": "stremio:///search?search=Kieran%20Culkin"
+     "url": "stremio:///search?search=Daniel%20Kaluuya"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "Allison Williams",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=Allison%20Williams"
     },
     {
-     "name": "Olha Bosova",
+     "name": "Bradley Whitford",
      "category": "Cast",
-     "url": "stremio:///search?search=Olha%20Bosova"
+     "url": "stremio:///search?search=Bradley%20Whitford"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "Jordan Peele",
      "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=Jordan%20Peele"
     },
     {
-     "name": "Jesse Eisenberg",
+     "name": "Jordan Peele",
      "category": "Directors",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "url": "stremio:///search?search=Jordan%20Peele"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt21823606",
+    "defaultVideoId": "tt5052448",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21823606.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5052448.jpg"
   }
  ]
 }
