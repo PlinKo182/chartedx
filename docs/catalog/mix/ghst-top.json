@@ -1045,110 +1045,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5952634.jpg"
   },
   {
-   "name": "Kubi",
-   "awards": "11 nominations total",
-   "cast": [
-    "Takeshi Kitano",
-    "Hidetoshi Nishijima",
-    "Ryô Kase"
-   ],
-   "country": "Japan",
-   "description": "Japão, 1582. Nobunaga quer unificar o país. Seu vassalo Murashige se rebela e some. Generais Macaco, Careca e Guaxinim o caçam. Traições, decapitações e comédia sombria. Baseado no Incidente de Honnō-ji. Kitano destrói o mito samurai.",
-   "director": [
-    "Takeshi Kitano"
-   ],
+   "name": "Show Me a Hero",
+   "year": "2015",
+   "runtime": "60 min",
    "genre": [
-    "Action",
-    "Comedy",
-    "Drama"
+    "Drama",
+    "History"
    ],
-   "imdbRating": "6.4",
-   "released": "2023-11-23T00:00:00.000Z",
-   "writer": [
-    "Takeshi Kitano"
+   "released": "2015-08-16T00:00:00.000Z",
+   "director": null,
+   "writer": null,
+   "cast": [
+    "Oscar Isaac",
+    "Natalie Paul",
+    "Carla Quevedo"
    ],
-   "year": "2023",
-   "runtime": "131 min",
-   "background": "https://images.metahub.space/background/medium/tt27502365/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27502365/img",
+   "imdbRating": "7.9",
+   "description": "Nick Wasicsko toma posse como presidente da câmara em 1987 durante a maior crise de Yonkers, quando tribunais obrigam a cidade a construir habitações sociais numa comunidade branca de classe média criando um ambiente de medo e racismo.",
+   "country": "United States",
+   "awards": "3 wins & 23 nominations",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt2492296/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2492296/img",
    "trailers": [
     {
-     "source": "Sfy7-veCsAc",
+     "source": "0FPIflcWIOk",
      "type": "Trailer"
     }
    ],
-   "id": "tt27502365",
+   "id": "tt2492296",
    "genres": [
-    "História",
-    "Ação",
-    "Drama"
+    "Crime",
+    "Drama",
+    "War & Politics"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "Kubi",
-     "ytId": "Sfy7-veCsAc"
+     "title": "Show Me a Hero",
+     "ytId": "0FPIflcWIOk"
     }
    ],
    "links": [
     {
-     "name": "6.4",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt27502365"
+     "url": "https://imdb.com/title/tt2492296"
     },
     {
-     "name": "Kubi",
+     "name": "Show Me a Hero",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/kubi-27502365"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "https://www.strem.io/s/series/show-me-a-hero-2492296"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Takeshi Kitano",
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Oscar Isaac",
      "category": "Cast",
-     "url": "stremio:///search?search=Takeshi%20Kitano"
+     "url": "stremio:///search?search=Oscar%20Isaac"
     },
     {
-     "name": "Hidetoshi Nishijima",
+     "name": "Natalie Paul",
      "category": "Cast",
-     "url": "stremio:///search?search=Hidetoshi%20Nishijima"
+     "url": "stremio:///search?search=Natalie%20Paul"
     },
     {
-     "name": "Ryô Kase",
+     "name": "Carla Quevedo",
      "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Kase"
-    },
-    {
-     "name": "Takeshi Kitano",
-     "category": "Writers",
-     "url": "stremio:///search?search=Takeshi%20Kitano"
-    },
-    {
-     "name": "Takeshi Kitano",
-     "category": "Directors",
-     "url": "stremio:///search?search=Takeshi%20Kitano"
+     "url": "stremio:///search?search=Carla%20Quevedo"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27502365",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27502365.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2492296.jpg"
   }
  ]
 }
