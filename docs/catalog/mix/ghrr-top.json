@@ -144,7 +144,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "7.5"
+   "imdbRating": "7.4"
   },
   {
    "name": "Carrie",
@@ -238,6 +238,113 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
+   "name": "Weapons",
+   "cast": [
+    "Julia Garner",
+    "Josh Brolin",
+    "Alden Ehrenreich"
+   ],
+   "country": "United States",
+   "description": "Na noite passada, às 2h17, todas as crianças da turma da Professora Gandy deixaram os respetivos quartos, abriram as portas de casa e desapareceram misteriosamente na escuridão. Todas, exceto uma.  A tragédia leva os habitantes da pequena cidade a questionar quem, ou o que estará por trás do desaparecimento.",
+   "director": [
+    "Zach Cregger"
+   ],
+   "genre": [
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.4",
+   "released": "2025-08-08T00:00:00.000Z",
+   "writer": [
+    "Zach Cregger"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "QKHySfXqN0I",
+     "type": "Trailer"
+    },
+    {
+     "source": "OpThntO9ixc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "129 min",
+   "background": "https://images.metahub.space/background/medium/tt26581740/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
+   "awards": "Won 1 Oscar. 64 wins & 131 nominations total",
+   "id": "tt26581740",
+   "genres": [
+    "Terror",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Weapons",
+     "ytId": "QKHySfXqN0I"
+    },
+    {
+     "title": "Weapons",
+     "ytId": "OpThntO9ixc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26581740"
+    },
+    {
+     "name": "Weapons",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/weapons-26581740"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Julia Garner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Julia%20Garner"
+    },
+    {
+     "name": "Josh Brolin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Brolin"
+    },
+    {
+     "name": "Alden Ehrenreich",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alden%20Ehrenreich"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Writers",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Directors",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt26581740",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg"
   },
   {
    "name": "Evil Dead Burn",
@@ -452,67 +559,74 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
-   "name": "Weapons",
+   "name": "Trap",
    "cast": [
-    "Julia Garner",
-    "Josh Brolin",
-    "Alden Ehrenreich"
+    "Josh Hartnett",
+    "Ariel Donoghue",
+    "Saleka Shyamalan"
    ],
-   "country": "United States",
-   "description": "Na noite passada, às 2h17, todas as crianças da turma da Professora Gandy deixaram os respetivos quartos, abriram as portas de casa e desapareceram misteriosamente na escuridão. Todas, exceto uma.  A tragédia leva os habitantes da pequena cidade a questionar quem, ou o que estará por trás do desaparecimento.",
+   "country": "United States, Canada, United Kingdom, Yemen",
+   "description": "Um pai e uma filha adolescente vão a um concerto pop, onde percebem que estão no centro de um evento sombrio e sinistro.",
    "director": [
-    "Zach Cregger"
+    "M. Night Shyamalan"
    ],
    "genre": [
+    "Crime",
     "Horror",
     "Mystery"
    ],
-   "imdbRating": "7.4",
-   "released": "2025-08-08T00:00:00.000Z",
+   "imdbRating": "5.8",
+   "released": "2024-08-02T00:00:00.000Z",
    "writer": [
-    "Zach Cregger"
+    "M. Night Shyamalan"
    ],
-   "year": "2025",
+   "year": "2024",
+   "runtime": "105 min",
    "trailers": [
     {
-     "source": "QKHySfXqN0I",
+     "source": "mps1HbpECIA",
      "type": "Trailer"
     },
     {
-     "source": "OpThntO9ixc",
+     "source": "hJiPAJKjUVg",
      "type": "Trailer"
     }
    ],
-   "runtime": "129 min",
-   "background": "https://images.metahub.space/background/medium/tt26581740/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
-   "awards": "Won 1 Oscar. 64 wins & 131 nominations total",
-   "id": "tt26581740",
+   "background": "https://images.metahub.space/background/medium/tt26753003/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26753003/img",
+   "awards": "3 wins & 6 nominations total",
+   "id": "tt26753003",
    "genres": [
-    "Terror",
-    "Mistério"
+    "Crime",
+    "Thriller",
+    "Terror"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Weapons",
-     "ytId": "QKHySfXqN0I"
+     "title": "Trap",
+     "ytId": "mps1HbpECIA"
     },
     {
-     "title": "Weapons",
-     "ytId": "OpThntO9ixc"
+     "title": "Trap",
+     "ytId": "hJiPAJKjUVg"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt26581740"
+     "url": "https://imdb.com/title/tt26753003"
     },
     {
-     "name": "Weapons",
+     "name": "Trap",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/weapons-26581740"
+     "url": "https://www.strem.io/s/movie/trap-26753003"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
      "name": "Horror",
@@ -525,38 +639,38 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Julia Garner",
+     "name": "Josh Hartnett",
      "category": "Cast",
-     "url": "stremio:///search?search=Julia%20Garner"
+     "url": "stremio:///search?search=Josh%20Hartnett"
     },
     {
-     "name": "Josh Brolin",
+     "name": "Ariel Donoghue",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Brolin"
+     "url": "stremio:///search?search=Ariel%20Donoghue"
     },
     {
-     "name": "Alden Ehrenreich",
+     "name": "Saleka Shyamalan",
      "category": "Cast",
-     "url": "stremio:///search?search=Alden%20Ehrenreich"
+     "url": "stremio:///search?search=Saleka%20Shyamalan"
     },
     {
-     "name": "Zach Cregger",
+     "name": "M. Night Shyamalan",
      "category": "Writers",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=M.%20Night%20Shyamalan"
     },
     {
-     "name": "Zach Cregger",
+     "name": "M. Night Shyamalan",
      "category": "Directors",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=M.%20Night%20Shyamalan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt26581740",
+    "defaultVideoId": "tt26753003",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26753003.jpg"
   },
   {
    "name": "From",
@@ -659,119 +773,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9813792.jpg"
   },
   {
-   "awards": "Won 17 Primetime Emmys. 132 wins & 413 nominations total",
-   "cast": [
-    "Lady Gaga",
-    "Kathy Bates",
-    "Angela Bassett"
-   ],
-   "country": "United States",
-   "description": "É uma série de televisão norte-americana de terror-drama. Descrita como uma série antológica, cada temporada é concebida como uma mini-série independente, seguindo um conjunto de personagens e ambientes distintos e com enredo único por temporada.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Drama",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "imdbRating": "7.9",
-   "name": "American Horror Story",
-   "released": "2011-10-05T00:00:00.000Z",
-   "runtime": "44 min",
-   "status": "Continuing",
-   "writer": [
-    "Brad Falchuk",
-    "Ryan Murphy",
-    "Halley Feiffer"
-   ],
-   "year": "2011–",
-   "background": "https://images.metahub.space/background/medium/tt1844624/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1844624/img",
-   "trailers": [
-    {
-     "source": "nLJR2twdK00",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1844624",
-   "genres": [
-    "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2011",
-   "trailerStreams": [
-    {
-     "title": "American Horror Story",
-     "ytId": "nLJR2twdK00"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1844624"
-    },
-    {
-     "name": "American Horror Story",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/american-horror-story-1844624"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Lady Gaga",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lady%20Gaga"
-    },
-    {
-     "name": "Kathy Bates",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kathy%20Bates"
-    },
-    {
-     "name": "Angela Bassett",
-     "category": "Cast",
-     "url": "stremio:///search?search=Angela%20Bassett"
-    },
-    {
-     "name": "Brad Falchuk",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brad%20Falchuk"
-    },
-    {
-     "name": "Ryan Murphy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20Murphy"
-    },
-    {
-     "name": "Halley Feiffer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Halley%20Feiffer"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg"
-  },
-  {
    "name": "The Beast Within",
    "cast": [
     "Kit Harington",
@@ -872,104 +873,140 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14539318.jpg"
   },
   {
-   "name": "Widow's Bay",
+   "awards": "6 wins & 9 nominations total",
    "cast": [
-    "Matthew Rhys",
-    "Kate O&apos;Flynn",
-    "Kevin Carroll"
+    "Jack Nicholson",
+    "Shelley Duvall",
+    "Danny Lloyd"
    ],
-   "country": "United States",
-   "description": "O Presidente da Câmara de uma cidade de Nova Inglaterra resolve transformá-la no próximo grande destino turístico, apesar de os locais avisarem sobre uma maldição.",
+   "country": "United Kingdom, United States",
+   "description": "O escritor Jack Torrance chega ao elegante e isolado Overlook Hotel, com a sua mulher e o filho pequeno. O seu objectivo é escrever um livro, ao mesmo tempo que serve de guarda de Inverno de um espaço que costuma ficar sem acessos nas estações frias. Torrance nunca tinha estado lá - ou será que tinha? A resposta vai ser encontrada num fantasmagórico turbilhão de loucura e de morte.",
+   "director": [
+    "Stanley Kubrick"
+   ],
+   "dvdRelease": "2008-08-15T00:00:00.000Z",
    "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
+    "Drama",
+    "Horror"
    ],
-   "imdbRating": "8.1",
-   "released": "2026-04-29T00:00:00.000Z",
-   "writer": [
-    "Katie Dippold"
-   ],
-   "year": "2026–",
+   "imdbRating": "8.4",
+   "name": "The Shining",
+   "released": "1980-06-13T00:00:00.000Z",
+   "runtime": "144 min",
    "trailers": [
     {
-     "source": "VcpYPxKeGAc",
+     "source": "jAE7dNurHR4",
+     "type": "Trailer"
+    },
+    {
+     "source": "FZQvIJxG9Xs",
+     "type": "Trailer"
+    },
+    {
+     "source": "ANKdpe4J2h0",
+     "type": "Trailer"
+    },
+    {
+     "source": "S014oGZiSdI",
      "type": "Trailer"
     }
    ],
-   "runtime": "38 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt33332385/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
-   "awards": "Won 14 Primetime Emmys. 24 wins & 15 nominations total",
-   "id": "tt33332385",
-   "genres": [
-    "Drama",
-    "Comédia",
-    "Mistério"
+   "writer": [
+    "Stephen King",
+    "Stanley Kubrick",
+    "Diane Johnson"
    ],
-   "releaseInfo": "2026",
+   "year": "1980",
+   "background": "https://images.metahub.space/background/medium/tt0081505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0081505/img",
+   "id": "tt0081505",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "1980",
    "trailerStreams": [
     {
-     "title": "Widow's Bay",
-     "ytId": "VcpYPxKeGAc"
+     "title": "The Shining",
+     "ytId": "jAE7dNurHR4"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "FZQvIJxG9Xs"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "ANKdpe4J2h0"
+    },
+    {
+     "title": "The Shining",
+     "ytId": "S014oGZiSdI"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt33332385"
+     "url": "https://imdb.com/title/tt0081505"
     },
     {
-     "name": "Widow's Bay",
+     "name": "The Shining",
      "category": "share",
-     "url": "https://www.strem.io/s/series/widows-bay-33332385"
+     "url": "https://www.strem.io/s/movie/the-shining-0081505"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
      "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Matthew Rhys",
+     "name": "Jack Nicholson",
      "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Rhys"
+     "url": "stremio:///search?search=Jack%20Nicholson"
     },
     {
-     "name": "Kate O&apos;Flynn",
+     "name": "Shelley Duvall",
      "category": "Cast",
-     "url": "stremio:///search?search=Kate%20O%26apos%3BFlynn"
+     "url": "stremio:///search?search=Shelley%20Duvall"
     },
     {
-     "name": "Kevin Carroll",
+     "name": "Danny Lloyd",
      "category": "Cast",
-     "url": "stremio:///search?search=Kevin%20Carroll"
+     "url": "stremio:///search?search=Danny%20Lloyd"
     },
     {
-     "name": "Katie Dippold",
+     "name": "Stephen King",
      "category": "Writers",
-     "url": "stremio:///search?search=Katie%20Dippold"
+     "url": "stremio:///search?search=Stephen%20King"
+    },
+    {
+     "name": "Stanley Kubrick",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stanley%20Kubrick"
+    },
+    {
+     "name": "Diane Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Diane%20Johnson"
+    },
+    {
+     "name": "Stanley Kubrick",
+     "category": "Directors",
+     "url": "stremio:///search?search=Stanley%20Kubrick"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt0081505",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0081505.jpg"
   }
  ]
 }

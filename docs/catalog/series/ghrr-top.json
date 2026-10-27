@@ -144,7 +144,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "7.5"
+   "imdbRating": "7.4"
   },
   {
    "name": "Carrie",
@@ -553,53 +553,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
   },
   {
-   "name": "Below",
+   "awards": "Nominated for 3 Primetime Emmys. 37 wins & 126 nominations total",
    "cast": [
-    "Josh Hartnett",
-    "Stephen Oates",
-    "Josh Cruddas"
+    "Jared Padalecki",
+    "Jensen Ackles",
+    "Jim Beaver"
    ],
-   "country": "Canada",
-   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
+   "country": "United States",
+   "description": "Há 20 anos, Sam e Dean Winchester perderam a sua mãe num trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, o seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demónios. Agora, os irmãos Winchester percorrem os Estados Unidos no seu velho Chevy Impala 1967 travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Pai Natal não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
     "Drama",
-    "Horror",
-    "Thriller"
+    "Fantasy",
+    "Horror"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-10-08T00:00:00.000Z",
+   "imdbRating": "8.4",
+   "name": "Supernatural",
+   "released": "2005-09-13T00:00:00.000Z",
+   "runtime": "42 min",
+   "status": "Ended",
    "writer": [
-    "Jesse McKeown"
+    "Eric Kripke"
    ],
-   "year": "2026–",
+   "year": "2005–2020",
+   "background": "https://images.metahub.space/background/medium/tt0460681/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0460681/img",
    "trailers": [
     {
-     "source": "U57CNxSgoss",
+     "source": "yy96yJjkvjo",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "runtime": null,
-   "status": "Ended",
-   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
-   "background": "https://images.metahub.space/background/medium/tt35934755/img",
-   "id": "tt35934755",
+   "id": "tt0460681",
    "genres": [
     "Drama",
-    "Mistério"
+    "Mistério",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2005",
    "trailerStreams": [
     {
-     "title": "Below",
-     "ytId": "U57CNxSgoss"
+     "title": "Supernatural",
+     "ytId": "yy96yJjkvjo"
     }
    ],
    "links": [
     {
-     "name": "Below",
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0460681"
+    },
+    {
+     "name": "Supernatural",
      "category": "share",
-     "url": "https://www.strem.io/s/series/below-35934755"
+     "url": "https://www.strem.io/s/series/supernatural-0460681"
     },
     {
      "name": "Drama",
@@ -607,34 +615,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
      "name": "Horror",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Josh Hartnett",
+     "name": "Jared Padalecki",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
+     "url": "stremio:///search?search=Jared%20Padalecki"
     },
     {
-     "name": "Stephen Oates",
+     "name": "Jensen Ackles",
      "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Oates"
+     "url": "stremio:///search?search=Jensen%20Ackles"
     },
     {
-     "name": "Josh Cruddas",
+     "name": "Jim Beaver",
      "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Cruddas"
+     "url": "stremio:///search?search=Jim%20Beaver"
     },
     {
-     "name": "Jesse McKeown",
+     "name": "Eric Kripke",
      "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20McKeown"
+     "url": "stremio:///search?search=Eric%20Kripke"
     }
    ],
    "behaviorHints": {
@@ -643,7 +651,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0460681.jpg"
   },
   {
    "cast": [
@@ -752,107 +760,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8923854.jpg"
   },
   {
-   "awards": "Nominated for 3 Primetime Emmys. 37 wins & 126 nominations total",
-   "cast": [
-    "Jared Padalecki",
-    "Jensen Ackles",
-    "Jim Beaver"
-   ],
-   "country": "United States",
-   "description": "Há 20 anos, Sam e Dean Winchester perderam a sua mãe num trágico e misterioso acidente, no qual as forças sobrenaturais — muito obscuras — estiveram envolvidas. Por esta razão, o seu pai decidiu ensiná-los a lidar com a vida sobrenatural, ensinando-lhes técnicas de defesa contra as forças do mal; chegando até a ensinar a maneira ideal para matar os diferentes tipos de demónios. Agora, os irmãos Winchester percorrem os Estados Unidos no seu velho Chevy Impala 1967 travando uma verdadeira batalha contra a obscuridade e a maldade. Objetos amaldiçoados, vampiros, bruxas e entidades maléficas — incluindo um Pai Natal não tão bonzinho — são só alguns dos desafios que estes dois irmãos têm de superar.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Drama",
-    "Fantasy",
-    "Horror"
-   ],
-   "imdbRating": "8.4",
-   "name": "Supernatural",
-   "released": "2005-09-13T00:00:00.000Z",
-   "runtime": "42 min",
-   "status": "Ended",
-   "writer": [
-    "Eric Kripke"
-   ],
-   "year": "2005–2020",
-   "background": "https://images.metahub.space/background/medium/tt0460681/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0460681/img",
-   "trailers": [
-    {
-     "source": "yy96yJjkvjo",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0460681",
-   "genres": [
-    "Drama",
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2005",
-   "trailerStreams": [
-    {
-     "title": "Supernatural",
-     "ytId": "yy96yJjkvjo"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0460681"
-    },
-    {
-     "name": "Supernatural",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/supernatural-0460681"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Jared Padalecki",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jared%20Padalecki"
-    },
-    {
-     "name": "Jensen Ackles",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jensen%20Ackles"
-    },
-    {
-     "name": "Jim Beaver",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jim%20Beaver"
-    },
-    {
-     "name": "Eric Kripke",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eric%20Kripke"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0460681.jpg"
-  },
-  {
    "name": "Furious",
    "cast": [
     "Emmy Rossum",
@@ -944,6 +851,107 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36303968.jpg"
+  },
+  {
+   "awards": "Won 3 Primetime Emmys. 12 wins & 14 nominations total",
+   "cast": [
+    "Rod Serling",
+    "Robert McCord",
+    "Jay Overholts"
+   ],
+   "country": "United States",
+   "description": "A clássica série de TV 'Além da Imaginação' explora o misterioso, o desconhecido e o inesquecível. Levará você para os mais profundos reinos da imaginação. Em suas lendárias histórias envolvendo criaturas sobrenaturais, viagens no tempo, alienígenas, entre outros, você conferirá o melhor da ficção científica e do terror de todos os tempos, criado, produzido e dirigido por Rod Serling.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "imdbRating": "9.0",
+   "name": "The Twilight Zone",
+   "released": "1959-10-02T00:00:00.000Z",
+   "runtime": "51 min",
+   "status": "Ended",
+   "writer": [
+    "Rod Serling"
+   ],
+   "year": "1959–1964",
+   "background": "https://images.metahub.space/background/medium/tt0052520/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0052520/img",
+   "trailers": [
+    {
+     "source": "G11AhAIf18A",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0052520",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Mistério",
+    "Drama"
+   ],
+   "releaseInfo": "1959",
+   "trailerStreams": [
+    {
+     "title": "The Twilight Zone",
+     "ytId": "G11AhAIf18A"
+    }
+   ],
+   "links": [
+    {
+     "name": "9.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0052520"
+    },
+    {
+     "name": "The Twilight Zone",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-twilight-zone-0052520"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Rod Serling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rod%20Serling"
+    },
+    {
+     "name": "Robert McCord",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20McCord"
+    },
+    {
+     "name": "Jay Overholts",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jay%20Overholts"
+    },
+    {
+     "name": "Rod Serling",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rod%20Serling"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0052520.jpg"
   }
  ]
 }
