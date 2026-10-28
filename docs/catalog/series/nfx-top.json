@@ -46,6 +46,52 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   },
   {
+   "id": "tt44941753",
+   "logo": "https://live.metahub.space/logo/medium/tt44941753/img",
+   "background": "https://live.metahub.space/background/medium/tt44941753/img",
+   "name": "The One About Matthew Perry",
+   "description": "Narrado por familiares e amigos próximos, este documentário revela o verdadeiro Matthew Perry — generoso, engraçado, vulnerável e extraordinário — e as batalhas que ele travou para se tornar o homem por trás do ícone. Um registro intimista de uma vida em sua plenitude e da honestidade que foi seu maior legado.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "_iM1AOFxoDI",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Matthew Perry"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Matthew Perry",
+     "profile_path": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
+     "id": 14408
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jessica Call",
+     "profile_path": null,
+     "id": 6459806
+    }
+   ],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg"
+  },
+  {
    "name": "Nobody Wants This",
    "cast": [
     "Kristen Bell",
@@ -235,89 +281,97 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39387986.jpg",
-   "imdbRating": "5.3"
+   "imdbRating": "5.4"
   },
   {
-   "name": "Dragon Ball Super: Beerus",
+   "awards": "7 wins total",
    "cast": [
-    "Kôichi Yamadera",
-    "Masako Nozawa",
-    "Ryô Horikawa"
+    "Jerry Lawler",
+    "Michael Coulthard",
+    "Paul Levesque"
    ],
-   "country": "Japan",
-   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
+   "country": "United States",
+   "description": "Um programa regular, em direto, durante todo o ano, com a participação de algumas das maiores Superstars da WWE.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Animation"
+    "Action",
+    "Sport"
    ],
-   "imdbRating": "9.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
+   "imdbRating": "7.7",
+   "name": "WWE Monday Night RAW",
+   "released": "1993-01-11T00:00:00.000Z",
+   "runtime": "106 min",
    "status": "Continuing",
+   "writer": [
+    "Vince McMahon",
+    "Dusty Rhodes"
+   ],
+   "year": "1993–",
+   "background": "https://images.metahub.space/background/medium/tt0185103/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0185103/img",
    "trailers": [
     {
-     "source": "iCD3Lf7Jf9o",
-     "type": "Trailer"
-    },
-    {
-     "source": "Tf4wBaSj7SE",
-     "type": "Trailer"
-    },
-    {
-     "source": "Plp6IJ9utjU",
+     "source": "FVO6mUQMon8",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
-   "background": "https://images.metahub.space/background/medium/tt39395275/img",
-   "id": "tt39395275",
+   "id": "tt0185103",
    "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
+    "Reality"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "1993",
    "trailerStreams": [
     {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "iCD3Lf7Jf9o"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Tf4wBaSj7SE"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Plp6IJ9utjU"
+     "title": "WWE Monday Night RAW",
+     "ytId": "FVO6mUQMon8"
     }
    ],
    "links": [
     {
-     "name": "Dragon Ball Super: Beerus",
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0185103"
+    },
+    {
+     "name": "WWE Monday Night RAW",
      "category": "share",
-     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
+     "url": "https://www.strem.io/s/series/wwe-monday-night-raw-0185103"
     },
     {
-     "name": "Animation",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Kôichi Yamadera",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Masako Nozawa",
+     "name": "Jerry Lawler",
      "category": "Cast",
-     "url": "stremio:///search?search=Masako%20Nozawa"
+     "url": "stremio:///search?search=Jerry%20Lawler"
     },
     {
-     "name": "Ryô Horikawa",
+     "name": "Michael Coulthard",
      "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
+     "url": "stremio:///search?search=Michael%20Coulthard"
+    },
+    {
+     "name": "Paul Levesque",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Levesque"
+    },
+    {
+     "name": "Vince McMahon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20McMahon"
+    },
+    {
+     "name": "Dusty Rhodes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dusty%20Rhodes"
     }
    ],
    "behaviorHints": {
@@ -326,7 +380,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185103.jpg"
   },
   {
    "name": "Below",
@@ -515,6 +569,97 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
+   "name": "Dragon Ball Super: Beerus",
+   "cast": [
+    "Kôichi Yamadera",
+    "Masako Nozawa",
+    "Ryô Horikawa"
+   ],
+   "country": "Japan",
+   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
+   "genre": [
+    "Animation"
+   ],
+   "imdbRating": "9.1",
+   "released": null,
+   "year": "2026–",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "iCD3Lf7Jf9o",
+     "type": "Trailer"
+    },
+    {
+     "source": "Tf4wBaSj7SE",
+     "type": "Trailer"
+    },
+    {
+     "source": "Plp6IJ9utjU",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
+   "background": "https://images.metahub.space/background/medium/tt39395275/img",
+   "id": "tt39395275",
+   "genres": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "iCD3Lf7Jf9o"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Tf4wBaSj7SE"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Plp6IJ9utjU"
+    }
+   ],
+   "links": [
+    {
+     "name": "Dragon Ball Super: Beerus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Kôichi Yamadera",
+     "category": "Cast",
+     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
+    },
+    {
+     "name": "Masako Nozawa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Masako%20Nozawa"
+    },
+    {
+     "name": "Ryô Horikawa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
+  },
+  {
    "id": "tt42576855",
    "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
    "background": "https://live.metahub.space/background/medium/tt42576855/img",
@@ -683,161 +828,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
-  },
-  {
-   "id": "tt35051210",
-   "logo": "https://live.metahub.space/logo/medium/tt35051210/img",
-   "background": "https://live.metahub.space/background/medium/tt35051210/img",
-   "name": "TYSON",
-   "description": "Esta série documental dividida em quatro partes analisa a vida explosiva de Mike Tyson, uma das figuras mais temidas e fascinantes da história do esporte.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "o1S5LsYhfEg",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Mike Tyson"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Mike Tyson",
-     "profile_path": "/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg",
-     "id": 80757
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jenna Millman",
-     "profile_path": null,
-     "id": 2931785
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jacob Miller",
-     "profile_path": null,
-     "id": 6486205
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Alexa Ginsburg",
-     "profile_path": null,
-     "id": 3015586
-    }
-   ],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-   "imdbRating": "8.0"
-  },
-  {
-   "cast": [
-    "Ryôko Yonekura",
-    "Ittoku Kishibe",
-    "Yuki Uchida"
-   ],
-   "country": "Japan",
-   "description": "Daimon Michiko is a freelance surgeon who wanders from hospital to hospital because the harsh environment led many doctors to retire. However, Michiko doesn't look like a doctor at all with her flashy clothes and eccentric attitude.",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.5",
-   "name": "Doctor X",
-   "released": "2012-10-18T00:00:00.000Z",
-   "runtime": "46 min",
-   "year": "2012–",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt2349912/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2349912/img",
-   "awards": "1 nomination",
-   "trailers": [
-    {
-     "source": "AS5y5Z2dmJI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt2349912",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2012",
-   "trailerStreams": [
-    {
-     "title": "Doctor X",
-     "ytId": "AS5y5Z2dmJI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2349912"
-    },
-    {
-     "name": "Doctor X",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/doctor-x-2349912"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Ryôko Yonekura",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4ko%20Yonekura"
-    },
-    {
-     "name": "Ittoku Kishibe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ittoku%20Kishibe"
-    },
-    {
-     "name": "Yuki Uchida",
-     "category": "Cast",
-     "url": "stremio:///search?search=Yuki%20Uchida"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2349912.jpg"
   }
  ]
 }

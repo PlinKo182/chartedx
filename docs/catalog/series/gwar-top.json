@@ -94,58 +94,65 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
-   "name": "Show Me a Hero",
-   "year": "2015",
-   "runtime": "60 min",
+   "name": "SEAL Team",
+   "year": "2017–2024",
    "genre": [
+    "Action",
     "Drama",
-    "History"
+    "War"
    ],
-   "released": "2015-08-16T00:00:00.000Z",
-   "director": null,
-   "writer": null,
+   "released": "2017-09-27T00:00:00.000Z",
+   "writer": [
+    "Benjamin Cavell"
+   ],
    "cast": [
-    "Oscar Isaac",
-    "Natalie Paul",
-    "Carla Quevedo"
+    "David Boreanaz",
+    "Neil Brown Jr.",
+    "A.J. Buckley"
    ],
    "imdbRating": "7.9",
-   "description": "Nick Wasicsko toma posse como presidente da câmara em 1987 durante a maior crise de Yonkers, quando tribunais obrigam a cidade a construir habitações sociais numa comunidade branca de classe média criando um ambiente de medo e racismo.",
+   "description": "SEAL TEAM é um novo drama militar que segue as vidas profissionais e pessoais da unidade de elite da Marinha, enquanto estes treinam, delineiam estratégias e executam as missões mais perigosas e exigentes que o país lhes pode pedir. Jason Hayes é o líder respeitado e intenso da equipa Tier One, cuja vida familiar sofreu as consequências de uma vida intensa no cumprimento do dever. A sua equipa inclui o confidente, Ray, o operador mais antigo com quem ele partilha uma estenografia complexa, e Sonny, um soldado leal e excepcional com um passado complicado que ainda combate tendências autodestrutivas.",
    "country": "United States",
-   "awards": "3 wins & 23 nominations",
-   "dvdRelease": null,
+   "director": [],
    "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt2492296/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2492296/img",
+   "runtime": "45 min",
+   "background": "https://images.metahub.space/background/medium/tt6473344/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6473344/img",
+   "awards": "Nominated for 2 Primetime Emmys. 3 nominations total",
    "trailers": [
     {
-     "source": "0FPIflcWIOk",
+     "source": "3k9o6y-wjMg",
      "type": "Trailer"
     }
    ],
-   "id": "tt2492296",
+   "id": "tt6473344",
    "genres": [
-    "Crime",
+    "Action & Adventure",
     "Drama",
     "War & Politics"
    ],
-   "releaseInfo": "2015",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Show Me a Hero",
-     "ytId": "0FPIflcWIOk"
+     "title": "SEAL Team",
+     "ytId": "3k9o6y-wjMg"
     }
    ],
    "links": [
     {
      "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2492296"
+     "url": "https://imdb.com/title/tt6473344"
     },
     {
-     "name": "Show Me a Hero",
+     "name": "SEAL Team",
      "category": "share",
-     "url": "https://www.strem.io/s/series/show-me-a-hero-2492296"
+     "url": "https://www.strem.io/s/series/seal-team-6473344"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
@@ -153,24 +160,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "History",
+     "name": "War",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
     },
     {
-     "name": "Oscar Isaac",
+     "name": "David Boreanaz",
      "category": "Cast",
-     "url": "stremio:///search?search=Oscar%20Isaac"
+     "url": "stremio:///search?search=David%20Boreanaz"
     },
     {
-     "name": "Natalie Paul",
+     "name": "Neil Brown Jr.",
      "category": "Cast",
-     "url": "stremio:///search?search=Natalie%20Paul"
+     "url": "stremio:///search?search=Neil%20Brown%20Jr."
     },
     {
-     "name": "Carla Quevedo",
+     "name": "A.J. Buckley",
      "category": "Cast",
-     "url": "stremio:///search?search=Carla%20Quevedo"
+     "url": "stremio:///search?search=A.J.%20Buckley"
+    },
+    {
+     "name": "Benjamin Cavell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Benjamin%20Cavell"
     }
    ],
    "behaviorHints": {
@@ -179,7 +191,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2492296.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6473344.jpg"
   },
   {
    "name": "For All Mankind",
@@ -286,207 +298,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7772588.jpg"
-  },
-  {
-   "name": "SEAL Team",
-   "year": "2017–2024",
-   "genre": [
-    "Action",
-    "Drama",
-    "War"
-   ],
-   "released": "2017-09-27T00:00:00.000Z",
-   "writer": [
-    "Benjamin Cavell"
-   ],
-   "cast": [
-    "David Boreanaz",
-    "Neil Brown Jr.",
-    "A.J. Buckley"
-   ],
-   "imdbRating": "7.9",
-   "description": "SEAL TEAM é um novo drama militar que segue as vidas profissionais e pessoais da unidade de elite da Marinha, enquanto estes treinam, delineiam estratégias e executam as missões mais perigosas e exigentes que o país lhes pode pedir. Jason Hayes é o líder respeitado e intenso da equipa Tier One, cuja vida familiar sofreu as consequências de uma vida intensa no cumprimento do dever. A sua equipa inclui o confidente, Ray, o operador mais antigo com quem ele partilha uma estenografia complexa, e Sonny, um soldado leal e excepcional com um passado complicado que ainda combate tendências autodestrutivas.",
-   "country": "United States",
-   "director": [],
-   "status": "Ended",
-   "runtime": "45 min",
-   "background": "https://images.metahub.space/background/medium/tt6473344/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6473344/img",
-   "awards": "Nominated for 2 Primetime Emmys. 3 nominations total",
-   "trailers": [
-    {
-     "source": "3k9o6y-wjMg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt6473344",
-   "genres": [
-    "Action & Adventure",
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "SEAL Team",
-     "ytId": "3k9o6y-wjMg"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6473344"
-    },
-    {
-     "name": "SEAL Team",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/seal-team-6473344"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
-    },
-    {
-     "name": "David Boreanaz",
-     "category": "Cast",
-     "url": "stremio:///search?search=David%20Boreanaz"
-    },
-    {
-     "name": "Neil Brown Jr.",
-     "category": "Cast",
-     "url": "stremio:///search?search=Neil%20Brown%20Jr."
-    },
-    {
-     "name": "A.J. Buckley",
-     "category": "Cast",
-     "url": "stremio:///search?search=A.J.%20Buckley"
-    },
-    {
-     "name": "Benjamin Cavell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Benjamin%20Cavell"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6473344.jpg"
-  },
-  {
-   "name": "Vinland Saga",
-   "cast": [
-    "Shin'ya Takahashi",
-    "Yûto Uemura",
-    "Mike Haimoto"
-   ],
-   "country": "Japan",
-   "description": "Baseado numa manga seinen histórica de acção escrita e ilustrada por Yukimura Makoto. Quando era criança, Thorfinn sentava-se aos pés do grande Leif Ericson e ficava fascinado com histórias selvagens de uma terra distante a oeste. Mas as suas fantasias juvenis foram destruídas por um ataque de mercenários. Criado pelos vikings que assassinaram a sua família, Thorfinn tornou-se um guerreiro aterrorizante, em busca de matar o líder do grupo, Askeladd, e vingar o seu pai. Sustentando Thorfinn durante a sua provação estão o seu orgulho pela sua família e os seus sonhos de uma terra fértil a ocidente, uma terra sem guerra ou escravatura... a terra que Leif chamou Vinland.",
-   "genre": [
-    "Animation",
-    "Action",
-    "Adventure"
-   ],
-   "imdbRating": "8.9",
-   "released": "2019-07-06T00:00:00.000Z",
-   "year": "2019–2023",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "runtime": "26 min",
-   "background": "https://images.metahub.space/background/medium/tt10233448/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10233448/img",
-   "awards": "10 wins & 40 nominations total",
-   "trailers": [
-    {
-     "source": "H3fS-bZ4e2E",
-     "type": "Trailer"
-    },
-    {
-     "source": "f8JrZ7Q_p-8",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10233448",
-   "genres": [
-    "Animação",
-    "War & Politics",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
-    {
-     "title": "Vinland Saga",
-     "ytId": "H3fS-bZ4e2E"
-    },
-    {
-     "title": "Vinland Saga",
-     "ytId": "f8JrZ7Q_p-8"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10233448"
-    },
-    {
-     "name": "Vinland Saga",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/vinland-saga-10233448"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Shin'ya Takahashi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shin'ya%20Takahashi"
-    },
-    {
-     "name": "Yûto Uemura",
-     "category": "Cast",
-     "url": "stremio:///search?search=Y%C3%BBto%20Uemura"
-    },
-    {
-     "name": "Mike Haimoto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Haimoto"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10233448.jpg"
   },
   {
    "awards": "Won 8 Primetime Emmys. 64 wins & 185 nominations total",
@@ -596,167 +407,71 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1796960.jpg"
   },
   {
-   "name": "Mussolini: Son of the Century",
+   "name": "Vinland Saga",
    "cast": [
-    "Luca Marinelli",
-    "Francesco Russo",
-    "Barbara Chichiarelli"
+    "Shin'ya Takahashi",
+    "Yûto Uemura",
+    "Mike Haimoto"
    ],
-   "country": "Italy, France",
-   "description": "M. Il figlio del secolo é uma série biográfica sobre a história de Benito Mussolini e a ascensão do regime fascista italiano",
+   "country": "Japan",
+   "description": "Baseado numa manga seinen histórica de acção escrita e ilustrada por Yukimura Makoto. Quando era criança, Thorfinn sentava-se aos pés do grande Leif Ericson e ficava fascinado com histórias selvagens de uma terra distante a oeste. Mas as suas fantasias juvenis foram destruídas por um ataque de mercenários. Criado pelos vikings que assassinaram a sua família, Thorfinn tornou-se um guerreiro aterrorizante, em busca de matar o líder do grupo, Askeladd, e vingar o seu pai. Sustentando Thorfinn durante a sua provação estão o seu orgulho pela sua família e os seus sonhos de uma terra fértil a ocidente, uma terra sem guerra ou escravatura... a terra que Leif chamou Vinland.",
    "genre": [
-    "Biography",
-    "Drama",
-    "History"
+    "Animation",
+    "Action",
+    "Adventure"
    ],
-   "imdbRating": "8.2",
-   "released": "2025-09-10T00:00:00.000Z",
-   "year": "2024–2025",
-   "trailers": [
-    {
-     "source": "cpAVORjvoKM",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "56 min",
+   "imdbRating": "8.9",
+   "released": "2019-07-06T00:00:00.000Z",
+   "year": "2019–2023",
    "status": "Ended",
    "director": [],
    "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt19386538/img",
-   "logo": "https://images.metahub.space/logo/medium/tt19386538/img",
-   "awards": "Won 1 BAFTA Award. 5 wins & 4 nominations total",
-   "id": "tt19386538",
-   "genres": [
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Mussolini: Son of the Century",
-     "ytId": "cpAVORjvoKM"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt19386538"
-    },
-    {
-     "name": "Mussolini: Son of the Century",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mussolini-son-of-the-century-19386538"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "Luca Marinelli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luca%20Marinelli"
-    },
-    {
-     "name": "Francesco Russo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Francesco%20Russo"
-    },
-    {
-     "name": "Barbara Chichiarelli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Barbara%20Chichiarelli"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19386538.jpg"
-  },
-  {
-   "name": "Shogun",
-   "cast": [
-    "Cosmo Jarvis",
-    "Hiroyuki Sanada",
-    "Anna Sawai"
-   ],
-   "country": "United States",
-   "description": "No Japão, no ano de 1600, o Senhor Yoshii Toranaga está a lutar pela vida enquanto os seus inimigos do Conselho de Regentes se unem contra ele, quando um misterioso navio europeu é encontrado encalhado numa aldeia piscatória próxima.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "8.6",
-   "released": "2024-02-27T00:00:00.000Z",
-   "writer": [
-    "James Clavell (based on the novel by)"
-   ],
-   "year": "2024–2026",
-   "runtime": "59 min",
-   "status": "Continuing",
+   "runtime": "26 min",
+   "background": "https://images.metahub.space/background/medium/tt10233448/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10233448/img",
+   "awards": "10 wins & 40 nominations total",
    "trailers": [
     {
-     "source": "HIs9x49DK7I",
+     "source": "H3fS-bZ4e2E",
      "type": "Trailer"
     },
     {
-     "source": "wPL80Xqc_f4",
-     "type": "Trailer"
-    },
-    {
-     "source": "yAN5uspO_hk",
+     "source": "f8JrZ7Q_p-8",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt2788316/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2788316/img",
-   "awards": "Won 18 Primetime Emmys. 94 wins & 75 nominations total",
-   "id": "tt2788316",
+   "id": "tt10233448",
    "genres": [
-    "Drama",
-    "War & Politics"
+    "Animação",
+    "War & Politics",
+    "Action & Adventure"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "Shogun",
-     "ytId": "HIs9x49DK7I"
+     "title": "Vinland Saga",
+     "ytId": "H3fS-bZ4e2E"
     },
     {
-     "title": "Shogun",
-     "ytId": "wPL80Xqc_f4"
-    },
-    {
-     "title": "Shogun",
-     "ytId": "yAN5uspO_hk"
+     "title": "Vinland Saga",
+     "ytId": "f8JrZ7Q_p-8"
     }
    ],
    "links": [
     {
-     "name": "8.6",
+     "name": "8.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2788316"
+     "url": "https://imdb.com/title/tt10233448"
     },
     {
-     "name": "Shogun",
+     "name": "Vinland Saga",
      "category": "share",
-     "url": "https://www.strem.io/s/series/shogun-2788316"
+     "url": "https://www.strem.io/s/series/vinland-saga-10233448"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Action",
@@ -769,29 +484,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Cosmo Jarvis",
+     "name": "Shin'ya Takahashi",
      "category": "Cast",
-     "url": "stremio:///search?search=Cosmo%20Jarvis"
+     "url": "stremio:///search?search=Shin'ya%20Takahashi"
     },
     {
-     "name": "Hiroyuki Sanada",
+     "name": "Yûto Uemura",
      "category": "Cast",
-     "url": "stremio:///search?search=Hiroyuki%20Sanada"
+     "url": "stremio:///search?search=Y%C3%BBto%20Uemura"
     },
     {
-     "name": "Anna Sawai",
+     "name": "Mike Haimoto",
      "category": "Cast",
-     "url": "stremio:///search?search=Anna%20Sawai"
-    },
-    {
-     "name": "James Clavell (based on the novel by)",
-     "category": "Writers",
-     "url": "stremio:///search?search=James%20Clavell%20(based%20on%20the%20novel%20by)"
+     "url": "stremio:///search?search=Mike%20Haimoto"
     }
    ],
    "behaviorHints": {
@@ -800,63 +505,158 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2788316.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10233448.jpg"
   },
   {
-   "name": "Zero Day",
-   "cast": [
-    "Robert De Niro",
-    "Jesse Plemons",
-    "Lizzy Caplan"
-   ],
-   "country": "United States",
-   "description": "Um antigo presidente dos EUA é chamado da reforma para encontrar a origem de um ciberataque letal e acaba por descobrir uma vasta teia de mentiras e conspirações.",
+   "name": "Show Me a Hero",
+   "year": "2015",
+   "runtime": "60 min",
    "genre": [
     "Drama",
-    "Thriller"
+    "History"
    ],
-   "imdbRating": "7.0",
-   "released": "2025-02-20T00:00:00.000Z",
-   "writer": [
-    "Eric Newman",
-    "Noah Oppenheim",
-    "Michael S. Schmidt"
+   "released": "2015-08-16T00:00:00.000Z",
+   "director": null,
+   "writer": null,
+   "cast": [
+    "Oscar Isaac",
+    "Natalie Paul",
+    "Carla Quevedo"
    ],
-   "year": "2025",
-   "runtime": "51 min",
+   "imdbRating": "7.9",
+   "description": "Nick Wasicsko toma posse como presidente da câmara em 1987 durante a maior crise de Yonkers, quando tribunais obrigam a cidade a construir habitações sociais numa comunidade branca de classe média criando um ambiente de medo e racismo.",
+   "country": "United States",
+   "awards": "3 wins & 23 nominations",
+   "dvdRelease": null,
    "status": "Ended",
-   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt2492296/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2492296/img",
    "trailers": [
     {
-     "source": "FOfBiiPdQPI",
+     "source": "0FPIflcWIOk",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt23872886/img",
-   "logo": "https://images.metahub.space/logo/medium/tt23872886/img",
-   "awards": "Nominated for 3 Primetime Emmys. 7 nominations total",
-   "id": "tt23872886",
+   "id": "tt2492296",
    "genres": [
+    "Crime",
     "Drama",
     "War & Politics"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "Zero Day",
-     "ytId": "FOfBiiPdQPI"
+     "title": "Show Me a Hero",
+     "ytId": "0FPIflcWIOk"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt23872886"
+     "url": "https://imdb.com/title/tt2492296"
     },
     {
-     "name": "Zero Day",
+     "name": "Show Me a Hero",
      "category": "share",
-     "url": "https://www.strem.io/s/series/zero-day-23872886"
+     "url": "https://www.strem.io/s/series/show-me-a-hero-2492296"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Oscar Isaac",
+     "category": "Cast",
+     "url": "stremio:///search?search=Oscar%20Isaac"
+    },
+    {
+     "name": "Natalie Paul",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalie%20Paul"
+    },
+    {
+     "name": "Carla Quevedo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carla%20Quevedo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2492296.jpg"
+  },
+  {
+   "name": "Fauda",
+   "year": "2015–",
+   "runtime": "44 min",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "released": "2015-02-15T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Avi Issacharoff",
+    "Lior Raz"
+   ],
+   "cast": [
+    "Lior Raz",
+    "Itzik Cohen",
+    "Yaakov Zada-Daniel"
+   ],
+   "imdbRating": "8.3",
+   "description": "Um agente israelita veterano regressa ao ativo para perseguir um militante palestiniano que pensava ter matado, desencadeando assim uma série de eventos caóticos.",
+   "country": "Israel",
+   "awards": "15 wins & 8 nominations total",
+   "dvdRelease": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt4565380/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4565380/img",
+   "trailers": [
+    {
+     "source": "m5zcu25_IG0",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt4565380",
+   "genres": [
+    "Drama",
+    "Action & Adventure",
+    "War & Politics"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Fauda",
+     "ytId": "m5zcu25_IG0"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4565380"
+    },
+    {
+     "name": "Fauda",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/fauda-4565380"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
@@ -869,34 +669,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Robert De Niro",
+     "name": "Lior Raz",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20De%20Niro"
+     "url": "stremio:///search?search=Lior%20Raz"
     },
     {
-     "name": "Jesse Plemons",
+     "name": "Itzik Cohen",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Plemons"
+     "url": "stremio:///search?search=Itzik%20Cohen"
     },
     {
-     "name": "Lizzy Caplan",
+     "name": "Yaakov Zada-Daniel",
      "category": "Cast",
-     "url": "stremio:///search?search=Lizzy%20Caplan"
+     "url": "stremio:///search?search=Yaakov%20Zada-Daniel"
     },
     {
-     "name": "Eric Newman",
+     "name": "Avi Issacharoff",
      "category": "Writers",
-     "url": "stremio:///search?search=Eric%20Newman"
+     "url": "stremio:///search?search=Avi%20Issacharoff"
     },
     {
-     "name": "Noah Oppenheim",
+     "name": "Lior Raz",
      "category": "Writers",
-     "url": "stremio:///search?search=Noah%20Oppenheim"
-    },
-    {
-     "name": "Michael S. Schmidt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20S.%20Schmidt"
+     "url": "stremio:///search?search=Lior%20Raz"
     }
    ],
    "behaviorHints": {
@@ -905,7 +700,114 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23872886.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4565380.jpg"
+  },
+  {
+   "name": "Lioness",
+   "cast": [
+    "Zoe Saldaña",
+    "Laysla De Oliveira",
+    "Dave Annable"
+   ],
+   "country": "United States",
+   "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2023-07-23T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "uEjcXhW7CXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "KYoIoCOw-ac",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13111078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
+   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
+   "id": "tt13111078",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Lioness",
+     "ytId": "uEjcXhW7CXo"
+    },
+    {
+     "title": "Lioness",
+     "ytId": "KYoIoCOw-ac"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13111078"
+    },
+    {
+     "name": "Lioness",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lioness-13111078"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+    },
+    {
+     "name": "Laysla De Oliveira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
+    },
+    {
+     "name": "Dave Annable",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Annable"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
   },
   {
    "awards": "Won 17 Primetime Emmys. 82 wins & 256 nominations total",
@@ -1010,6 +912,107 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1759761.jpg"
+  },
+  {
+   "awards": "Won 1 Primetime Emmy. 46 wins & 133 nominations total",
+   "cast": [
+    "Katheryn Winnick",
+    "Gustaf Skarsgård",
+    "Alexander Ludwig"
+   ],
+   "country": "Ireland, Canada, United States",
+   "description": "Inspirada na história e nas lendas da Escandinávia medieval, “Vikings” acompanha Ragnar Lothbrok, um jovem que se considera descendente de Odin, guerreiro e agricultor, guiado pela ambição e coragem até um destino grandioso.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.5",
+   "name": "Vikings",
+   "released": "2013-03-03T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Ended",
+   "writer": [
+    "Michael Hirst"
+   ],
+   "year": "2013–2020",
+   "background": "https://images.metahub.space/background/medium/tt2306299/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
+   "trailers": [
+    {
+     "source": "7rcozIVtujw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt2306299",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "Vikings",
+     "ytId": "7rcozIVtujw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2306299"
+    },
+    {
+     "name": "Vikings",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/vikings-2306299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Katheryn Winnick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Katheryn%20Winnick"
+    },
+    {
+     "name": "Gustaf Skarsgård",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gustaf%20Skarsg%C3%A5rd"
+    },
+    {
+     "name": "Alexander Ludwig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alexander%20Ludwig"
+    },
+    {
+     "name": "Michael Hirst",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Hirst"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2306299.jpg"
   }
  ]
 }

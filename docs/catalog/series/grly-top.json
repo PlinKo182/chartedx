@@ -1,91 +1,6 @@
 {
  "metas": [
   {
-   "name": "Love Is Blind",
-   "cast": [
-    "Nick Lachey",
-    "Vanessa Lachey",
-    "Chelsea Griffin"
-   ],
-   "country": "United States",
-   "description": "Nick e Vanessa Lachey apresentam uma experiência social em que solteiros e solteiras encontram o amor e ficam noivos sem se conhecerem cara a cara.",
-   "genre": [
-    "Reality-TV",
-    "Romance"
-   ],
-   "imdbRating": "6.2",
-   "released": "2020-02-13T00:00:00.000Z",
-   "year": "2020–",
-   "director": [],
-   "writer": [],
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt11704040/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11704040/img",
-   "awards": "Nominated for 8 Primetime Emmys. 1 win & 13 nominations total",
-   "runtime": "61 min",
-   "trailers": [
-    {
-     "source": "s2eBAFt3L_0",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt11704040",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2020",
-   "trailerStreams": [
-    {
-     "title": "Love Is Blind",
-     "ytId": "s2eBAFt3L_0"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11704040"
-    },
-    {
-     "name": "Love Is Blind",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/love-is-blind-11704040"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Nick Lachey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nick%20Lachey"
-    },
-    {
-     "name": "Vanessa Lachey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vanessa%20Lachey"
-    },
-    {
-     "name": "Chelsea Griffin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chelsea%20Griffin"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11704040.jpg"
-  },
-  {
    "id": "tt42007258",
    "logo": "https://live.metahub.space/logo/medium/tt42007258/img",
    "background": "https://live.metahub.space/background/medium/tt42007258/img",
@@ -178,7 +93,93 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42007258.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42007258.jpg",
+   "imdbRating": "3.9"
+  },
+  {
+   "name": "Love Is Blind",
+   "cast": [
+    "Nick Lachey",
+    "Vanessa Lachey",
+    "Chelsea Griffin"
+   ],
+   "country": "United States",
+   "description": "Nick e Vanessa Lachey apresentam uma experiência social em que solteiros e solteiras encontram o amor e ficam noivos sem se conhecerem cara a cara.",
+   "genre": [
+    "Reality-TV",
+    "Romance"
+   ],
+   "imdbRating": "6.2",
+   "released": "2020-02-13T00:00:00.000Z",
+   "year": "2020–",
+   "director": [],
+   "writer": [],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11704040/img",
+   "awards": "Nominated for 8 Primetime Emmys. 1 win & 13 nominations total",
+   "runtime": "61 min",
+   "trailers": [
+    {
+     "source": "s2eBAFt3L_0",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11704040",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "Love Is Blind",
+     "ytId": "s2eBAFt3L_0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11704040"
+    },
+    {
+     "name": "Love Is Blind",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/love-is-blind-11704040"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Nick Lachey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nick%20Lachey"
+    },
+    {
+     "name": "Vanessa Lachey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vanessa%20Lachey"
+    },
+    {
+     "name": "Chelsea Griffin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chelsea%20Griffin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11704040.jpg"
   },
   {
    "name": "The New Stanford Prison Experiment",
@@ -187,7 +188,7 @@
    "genre": [
     "Reality-TV"
    ],
-   "imdbRating": "5.0",
+   "imdbRating": "5.1",
    "released": "2026-10-21T00:00:00.000Z",
    "year": "2026",
    "trailers": [
@@ -233,6 +234,98 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46658083.jpg"
+  },
+  {
+   "id": "tt47742728",
+   "logo": "https://live.metahub.space/logo/medium/tt47742728/img",
+   "background": "https://live.metahub.space/background/medium/tt47742728/img",
+   "name": "Deadly Tag",
+   "description": "Uma perseguição implacável em um campo de batalha colossal, em que não dá para confiar em ninguém e só o último sobrevivente leva a vitória.",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Pani Bottle",
+    "Gyeong Su-jin",
+    "Horseking"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Pani Bottle",
+     "profile_path": "/hiTQwCCManGNBHWLa5rORYlnPeq.jpg",
+     "id": 3527057
+    },
+    {
+     "character": "Self",
+     "name": "Gyeong Su-jin",
+     "profile_path": "/5gdThWkpzuNkNyQ6Cw29oOefvXO.jpg",
+     "id": 1206963
+    },
+    {
+     "character": "Self",
+     "name": "Horseking",
+     "profile_path": "/xrTbvbU5emFnDKLUxFpY2KqLCbk.jpg",
+     "id": 6284959
+    },
+    {
+     "character": "Self",
+     "name": "Jang Eun Sil",
+     "profile_path": "/iy0FeRAZSp6UEChC91KEFsqp5sC.jpg",
+     "id": 4155286
+    },
+    {
+     "character": "Self",
+     "name": "Park Ji-min",
+     "profile_path": "/uPDWO2pMjaLGR1cIVbCOEwXiUne.jpg",
+     "id": 4198329
+    },
+    {
+     "character": "Self",
+     "name": "Kim Ddol-ddol",
+     "profile_path": "/1enbldZ6FJsPuzBT2yk8qCWJ3TG.jpg",
+     "id": 6079611
+    },
+    {
+     "character": "Self",
+     "name": "Yang Da-il",
+     "profile_path": "/c1EgQ0siQ81fjNkZD5br0TziruL.jpg",
+     "id": 2462674
+    },
+    {
+     "character": "Self",
+     "name": "Yuk Jun-seo",
+     "profile_path": "/jPry1boY226tYVtEqvQOytwPiM0.jpg",
+     "id": 3370738
+    },
+    {
+     "character": "Self",
+     "name": "Suh Zi-eun",
+     "profile_path": "/2sc0qXUnBFCpAj7UfubDR3Gub9L.jpg",
+     "id": 1549899
+    },
+    {
+     "character": "Self",
+     "name": "Youn Sang-hyun",
+     "profile_path": "/imIEHfalj7qKKkHHR2ktmOsZtcn.jpg",
+     "id": 3711571
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47742728.jpg",
+   "imdbRating": "8.4"
   },
   {
    "name": "The Kardashians",
@@ -405,6 +498,100 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48440084.jpg"
   },
   {
+   "name": "Taskmaster",
+   "year": "2015–",
+   "runtime": "46 min",
+   "genre": [
+    "Comedy",
+    "Game-Show"
+   ],
+   "released": "2018-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": null,
+   "cast": [
+    "Greg Davies",
+    "Alex Horne",
+    "Ed Gamble"
+   ],
+   "imdbRating": "9.0",
+   "description": "Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word.",
+   "country": "United Kingdom",
+   "awards": "Won 2 BAFTA Awards. 4 wins & 17 nominations total",
+   "dvdRelease": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt4934214/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4934214/img",
+   "trailers": [
+    {
+     "source": "Ahhr6gHoVp0",
+     "type": "Trailer"
+    },
+    {
+     "source": "hiutY6RDZHg",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt4934214",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Taskmaster",
+     "ytId": "Ahhr6gHoVp0"
+    },
+    {
+     "title": "Taskmaster",
+     "ytId": "hiutY6RDZHg"
+    }
+   ],
+   "links": [
+    {
+     "name": "9.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4934214"
+    },
+    {
+     "name": "Taskmaster",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/taskmaster-4934214"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Game-Show",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
+    },
+    {
+     "name": "Greg Davies",
+     "category": "Cast",
+     "url": "stremio:///search?search=Greg%20Davies"
+    },
+    {
+     "name": "Alex Horne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alex%20Horne"
+    },
+    {
+     "name": "Ed Gamble",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ed%20Gamble"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4934214.jpg"
+  },
+  {
    "id": "tt42814597",
    "logo": "https://live.metahub.space/logo/medium/tt42814597/img",
    "background": "https://live.metahub.space/background/medium/tt42814597/img",
@@ -524,59 +711,46 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0924651.jpg"
   },
   {
-   "awards": "Won 7 Primetime Emmys. 45 wins & 162 nominations total",
+   "name": "7vs.Wild",
    "cast": [
-    "Jeff Probst",
-    "Lillian Morris",
-    "Jon Dalton"
+    "Fritz Meinecke",
+    "Jens Knossalla",
+    "Sascha Huber"
    ],
-   "country": "United States",
-   "description": "Um reality show onde dezasseis ou mais participantes, divididos em duas ou mais \"Tribos\", são levados para um local remoto e isolado e forçados a viver da terra com recursos escassos durante aproximadamente 39 dias. São utilizados desafios físicos frequentes para colocar as tribos umas contra as outras em busca de recompensas, como comida ou artigos de luxo, ou por \"Imunidade\", obrigando a outra tribo a comparecer no \"Conselho Tribal\", onde devem votar para eliminar um dos seus jogadores.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "Germany, Switzerland",
    "genre": [
     "Adventure",
     "Game-Show",
     "Reality-TV"
    ],
-   "imdbRating": "7.6",
-   "name": "Survivor",
-   "released": "2000-05-31T00:00:00.000Z",
-   "runtime": "49 min",
-   "status": "Continuing",
+   "imdbRating": "7.7",
+   "released": "2021-11-06T00:00:00.000Z",
    "writer": [
-    "Charlie Parsons"
+    "Fritz Meinecke"
    ],
-   "year": "2000–",
-   "logo": "https://images.metahub.space/logo/medium/tt0239195/img",
-   "background": "https://images.metahub.space/background/medium/tt0239195/img",
-   "trailers": [
-    {
-     "source": "BhKQBTJME5o",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0239195",
+   "year": "2021–2025",
+   "runtime": "63 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt16994878/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16994878/img",
+   "description": "Depending on the season, participants face a 7 or 14 day survival challenge in the wilderness. With minimal equipment, they must endure extreme conditions alone, in teams or as a group.",
+   "id": "tt16994878",
    "genres": [
-    "Reality"
+    "Reality",
+    "Documentário"
    ],
-   "releaseInfo": "2000",
-   "trailerStreams": [
-    {
-     "title": "Survivor",
-     "ytId": "BhKQBTJME5o"
-    }
-   ],
+   "releaseInfo": "2021",
    "links": [
     {
-     "name": "7.6",
+     "name": "7.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0239195"
+     "url": "https://imdb.com/title/tt16994878"
     },
     {
-     "name": "Survivor",
+     "name": "7vs.Wild",
      "category": "share",
-     "url": "https://www.strem.io/s/series/survivor-0239195"
+     "url": "https://www.strem.io/s/series/7vswild-16994878"
     },
     {
      "name": "Adventure",
@@ -594,24 +768,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
     },
     {
-     "name": "Jeff Probst",
+     "name": "Fritz Meinecke",
      "category": "Cast",
-     "url": "stremio:///search?search=Jeff%20Probst"
+     "url": "stremio:///search?search=Fritz%20Meinecke"
     },
     {
-     "name": "Lillian Morris",
+     "name": "Jens Knossalla",
      "category": "Cast",
-     "url": "stremio:///search?search=Lillian%20Morris"
+     "url": "stremio:///search?search=Jens%20Knossalla"
     },
     {
-     "name": "Jon Dalton",
+     "name": "Sascha Huber",
      "category": "Cast",
-     "url": "stremio:///search?search=Jon%20Dalton"
+     "url": "stremio:///search?search=Sascha%20Huber"
     },
     {
-     "name": "Charlie Parsons",
+     "name": "Fritz Meinecke",
      "category": "Writers",
-     "url": "stremio:///search?search=Charlie%20Parsons"
+     "url": "stremio:///search?search=Fritz%20Meinecke"
     }
    ],
    "behaviorHints": {
@@ -620,136 +794,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0239195.jpg"
-  },
-  {
-   "name": "Taskmaster",
-   "year": "2015–",
-   "runtime": "46 min",
-   "genre": [
-    "Comedy",
-    "Game-Show"
-   ],
-   "released": "2018-04-26T00:00:00.000Z",
-   "director": null,
-   "writer": null,
-   "cast": [
-    "Greg Davies",
-    "Alex Horne",
-    "Ed Gamble"
-   ],
-   "imdbRating": "9.0",
-   "description": "Five comedians are set tasks challenging their creativity and wit. The tasks are supervised by Alex Horne but the Taskmaster, Greg Davies, always has the final word.",
-   "country": "United Kingdom",
-   "awards": "Won 2 BAFTA Awards. 4 wins & 17 nominations total",
-   "dvdRelease": null,
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt4934214/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4934214/img",
-   "trailers": [
-    {
-     "source": "Ahhr6gHoVp0",
-     "type": "Trailer"
-    },
-    {
-     "source": "hiutY6RDZHg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt4934214",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "Taskmaster",
-     "ytId": "Ahhr6gHoVp0"
-    },
-    {
-     "title": "Taskmaster",
-     "ytId": "hiutY6RDZHg"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4934214"
-    },
-    {
-     "name": "Taskmaster",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/taskmaster-4934214"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Greg Davies",
-     "category": "Cast",
-     "url": "stremio:///search?search=Greg%20Davies"
-    },
-    {
-     "name": "Alex Horne",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alex%20Horne"
-    },
-    {
-     "name": "Ed Gamble",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ed%20Gamble"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4934214.jpg"
-  },
-  {
-   "id": "tt1281973",
-   "logo": "https://live.metahub.space/logo/medium/tt1281973/img",
-   "background": "https://live.metahub.space/background/medium/tt1281973/img",
-   "name": "Bigg Boss",
-   "description": "Your ‘Host and Dost’ Salman Khan is back! Brace for another high-octane season of the greatest reality show, serving entertainment and drama—all unfiltered!",
-   "genres": [
-    "Reality",
-    "Família"
-   ],
-   "releaseInfo": "2006",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "suuK8cYi69o",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "3.6",
-   "runtime": "42 min",
-   "language": "Hindi, Malayalam, Kannada, Telugu, Tamil",
-   "country": "India",
-   "awards": "38 wins & 20 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1281973.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16994878.jpg"
   }
  ]
 }
