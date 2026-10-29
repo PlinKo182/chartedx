@@ -368,70 +368,178 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31514146.jpg"
   },
   {
-   "name": "The Zone of Interest",
-   "awards": "Won 2 Oscars. 71 wins & 186 nominations total",
+   "name": "Wuthering Heights",
    "cast": [
-    "Christian Friedel",
-    "Sandra Hüller",
-    "Johann Karthaus"
+    "Margot Robbie",
+    "Jacob Elordi",
+    "Hong Chau"
    ],
-   "country": "United Kingdom, Poland, United States",
-   "description": "O comandante de Auschwitz, Rudolf Höss, e a sua mulher, Hedwig, tentam construir uma vida de sonho para a sua família numa casa com jardim junto ao campo. Baseado no livro homónimo de Martin Amis.",
+   "country": "United Kingdom, United States",
+   "description": "Durante uma visita a Liverpool, um agricultor abastado conhece Heathcliff, um rapaz órfão e totalmente abandonado à sua sorte, e decide trazê-lo consigo para fazer parte da sua família. Nos campos isolados de Yorkshire, em Inglaterra, o rapaz acaba por criar um elo especial com Cathy, a filha mais nova do agricultor. Mas, com o passar dos anos, a relação inocente entre as duas crianças transforma-se num amor obsessivo que acabará por conduzir toda a família à perdição.",
    "director": [
-    "Jonathan Glazer"
+    "Emerald Fennell"
    ],
    "genre": [
     "Drama",
-    "History",
-    "War"
+    "Romance"
    ],
-   "imdbRating": "7.3",
-   "released": "2024-02-20T00:00:00.000Z",
+   "imdbRating": "6.1",
+   "released": "2026-02-13T00:00:00.000Z",
    "writer": [
-    "Jonathan Glazer",
-    "Martin Amis"
+    "Emily Brontë",
+    "Emerald Fennell"
    ],
-   "year": "2023",
-   "runtime": "105 min",
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt32897959/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32897959/img",
    "trailers": [
     {
-     "source": "GFNtVaAuVYY",
+     "source": "HWFdeoeBNV0",
      "type": "Trailer"
     },
     {
-     "source": "r-vfg3KkV54",
+     "source": "3fLCdIYShEQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt7160372/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7160372/img",
-   "id": "tt7160372",
+   "runtime": "136 min",
+   "awards": "2 wins & 8 nominations total",
+   "id": "tt32897959",
    "genres": [
+    "Romance",
     "Drama",
-    "História",
-    "Guerra"
+    "História"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Zone of Interest",
-     "ytId": "GFNtVaAuVYY"
+     "title": "Wuthering Heights",
+     "ytId": "HWFdeoeBNV0"
     },
     {
-     "title": "The Zone of Interest",
-     "ytId": "r-vfg3KkV54"
+     "title": "Wuthering Heights",
+     "ytId": "3fLCdIYShEQ"
     }
    ],
    "links": [
     {
-     "name": "7.3",
+     "name": "6.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7160372"
+     "url": "https://imdb.com/title/tt32897959"
     },
     {
-     "name": "The Zone of Interest",
+     "name": "Wuthering Heights",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-zone-of-interest-7160372"
+     "url": "https://www.strem.io/s/movie/wuthering-heights-32897959"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Margot Robbie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Margot%20Robbie"
+    },
+    {
+     "name": "Jacob Elordi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jacob%20Elordi"
+    },
+    {
+     "name": "Hong Chau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hong%20Chau"
+    },
+    {
+     "name": "Emily Brontë",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emily%20Bront%C3%AB"
+    },
+    {
+     "name": "Emerald Fennell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emerald%20Fennell"
+    },
+    {
+     "name": "Emerald Fennell",
+     "category": "Directors",
+     "url": "stremio:///search?search=Emerald%20Fennell"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32897959",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32897959.jpg"
+  },
+  {
+   "awards": "Won 4 Oscars. 17 wins & 23 nominations total",
+   "cast": [
+    "Dustin Hoffman",
+    "Robert Redford",
+    "Jack Warden"
+   ],
+   "country": "United States",
+   "description": "Na noite de 17 de Junho de 1972, sem ter a mínima noção da gravidade dos factos, um repórter do Washington Post inicia uma investigação sobre a invasão da sede do Partido Democrata situada no complexo de escritórios Watergate, em Washington, D.C., por cinco homens ligados à CIA. Plantam escutas e fotografam documentos, dando origem ao escândalo que culminaria na queda do presidente Richard Nixon. Este acontecimento histórico revelou uma série de abusos de poder e corrupção ao mais alto nível do governo dos EUA. Nixon acabou por renunciar à presidência a 9 de agosto de 1974.",
+   "director": [
+    "Alan J. Pakula"
+   ],
+   "dvdRelease": "2010-02-16T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "imdbRating": "7.9",
+   "name": "All the President's Men",
+   "released": "1976-04-09T00:00:00.000Z",
+   "runtime": "138 min",
+   "trailers": [
+    {
+     "source": "k5y8SW2KyTY",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Carl Bernstein",
+    "Bob Woodward",
+    "William Goldman"
+   ],
+   "year": "1976",
+   "background": "https://images.metahub.space/background/medium/tt0074119/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0074119/img",
+   "id": "tt0074119",
+   "genres": [
+    "Drama",
+    "Mistério",
+    "Thriller"
+   ],
+   "releaseInfo": "1976",
+   "trailerStreams": [
+    {
+     "title": "All the President's Men",
+     "ytId": "k5y8SW2KyTY"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0074119"
+    },
+    {
+     "name": "All the President's Men",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/all-the-presidents-men-0074119"
     },
     {
      "name": "Drama",
@@ -444,48 +552,179 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
     },
     {
-     "name": "War",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Christian Friedel",
+     "name": "Dustin Hoffman",
      "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Friedel"
+     "url": "stremio:///search?search=Dustin%20Hoffman"
     },
     {
-     "name": "Sandra Hüller",
+     "name": "Robert Redford",
      "category": "Cast",
-     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+     "url": "stremio:///search?search=Robert%20Redford"
     },
     {
-     "name": "Johann Karthaus",
+     "name": "Jack Warden",
      "category": "Cast",
-     "url": "stremio:///search?search=Johann%20Karthaus"
+     "url": "stremio:///search?search=Jack%20Warden"
     },
     {
-     "name": "Jonathan Glazer",
+     "name": "Carl Bernstein",
      "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Glazer"
+     "url": "stremio:///search?search=Carl%20Bernstein"
     },
     {
-     "name": "Martin Amis",
+     "name": "Bob Woodward",
      "category": "Writers",
-     "url": "stremio:///search?search=Martin%20Amis"
+     "url": "stremio:///search?search=Bob%20Woodward"
     },
     {
-     "name": "Jonathan Glazer",
+     "name": "William Goldman",
+     "category": "Writers",
+     "url": "stremio:///search?search=William%20Goldman"
+    },
+    {
+     "name": "Alan J. Pakula",
      "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Glazer"
+     "url": "stremio:///search?search=Alan%20J.%20Pakula"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt7160372",
+    "defaultVideoId": "tt0074119",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7160372.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0074119.jpg"
+  },
+  {
+   "name": "The Big Short",
+   "year": "2015",
+   "runtime": "131 min",
+   "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "released": "2015-12-23T00:00:00.000Z",
+   "director": [
+    "Adam McKay"
+   ],
+   "writer": [
+    "Charles Randolph",
+    "Adam McKay",
+    "Michael Lewis"
+   ],
+   "cast": [
+    "Christian Bale",
+    "Steve Carell",
+    "Ryan Gosling"
+   ],
+   "imdbRating": "7.8",
+   "description": "Em 2008, os Estados Unidos sofreram uma crise financeira que se espalhou para o mundo: o rebentar da bolha imobiliária causou a recessão devido quebra da cotação das hipotecas subprime (concedidas a pessoas que não tinham condições de as pagar), que os bancos negociavam a valores muito mais altos do que o valor real. Este filme conta a história de um grupo de investidores e corretores financeiros que se apercebeu a tempo do perigo que ia acontecer, tentou avisar, e não foi ouvido.",
+   "country": "United States",
+   "awards": "Won 1 Oscar. 37 wins & 81 nominations total",
+   "dvdRelease": "2016-07-07T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "1kQc3mmtH-o",
+     "type": "Trailer"
+    },
+    {
+     "source": "vgqG3ITMv1Q",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt1596363/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1596363/img",
+   "id": "tt1596363",
+   "genres": [
+    "Comédia",
+    "Drama"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "The Big Short",
+     "ytId": "1kQc3mmtH-o"
+    },
+    {
+     "title": "The Big Short",
+     "ytId": "vgqG3ITMv1Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1596363"
+    },
+    {
+     "name": "The Big Short",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-big-short-1596363"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Christian Bale",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christian%20Bale"
+    },
+    {
+     "name": "Steve Carell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steve%20Carell"
+    },
+    {
+     "name": "Ryan Gosling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Gosling"
+    },
+    {
+     "name": "Charles Randolph",
+     "category": "Writers",
+     "url": "stremio:///search?search=Charles%20Randolph"
+    },
+    {
+     "name": "Adam McKay",
+     "category": "Writers",
+     "url": "stremio:///search?search=Adam%20McKay"
+    },
+    {
+     "name": "Michael Lewis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Lewis"
+    },
+    {
+     "name": "Adam McKay",
+     "category": "Directors",
+     "url": "stremio:///search?search=Adam%20McKay"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1596363",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1596363.jpg"
   },
   {
    "name": "Kubi",
@@ -592,107 +831,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27502365.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Oscar. 7 wins & 7 nominations total",
-   "cast": [
-    "Emmanuelle Riva",
-    "Eiji Okada",
-    "Stella Dassas"
-   ],
-   "country": "France, Japan",
-   "description": "Uma actriz francesa que está a rodar um filme contra a guerra em Hiroshima tem um caso com um arquitecto japonês casado, enquanto partilham as suas diferentes perspectivas sobre a guerra.",
-   "director": [
-    "Alain Resnais"
-   ],
-   "dvdRelease": "2015-06-16T00:00:00.000Z",
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.8",
-   "name": "Hiroshima Mon Amour",
-   "released": "1960-05-16T00:00:00.000Z",
-   "runtime": "92 min",
-   "trailers": [
-    {
-     "source": "CLts830aLlw",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Marguerite Duras"
-   ],
-   "year": "1960",
-   "background": "https://images.metahub.space/background/medium/tt0052893/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0052893/img",
-   "id": "tt0052893",
-   "genres": [
-    "Drama",
-    "História",
-    "Romance"
-   ],
-   "releaseInfo": "1959",
-   "trailerStreams": [
-    {
-     "title": "Hiroshima Mon Amour",
-     "ytId": "CLts830aLlw"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0052893"
-    },
-    {
-     "name": "Hiroshima Mon Amour",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hiroshima-mon-amour-0052893"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Emmanuelle Riva",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emmanuelle%20Riva"
-    },
-    {
-     "name": "Eiji Okada",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eiji%20Okada"
-    },
-    {
-     "name": "Stella Dassas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Stella%20Dassas"
-    },
-    {
-     "name": "Marguerite Duras",
-     "category": "Writers",
-     "url": "stremio:///search?search=Marguerite%20Duras"
-    },
-    {
-     "name": "Alain Resnais",
-     "category": "Directors",
-     "url": "stremio:///search?search=Alain%20Resnais"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0052893",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0052893.jpg"
   },
   {
    "name": "The Wizard of the Kremlin",
@@ -827,253 +965,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32386654.jpg"
   },
   {
-   "name": "Michael",
-   "awards": "7 wins & 5 nominations total",
-   "cast": [
-    "Jaafar Jackson",
-    "Nia Long",
-    "Colman Domingo"
-   ],
-   "country": "United States, Canada, United Kingdom",
-   "description": "Descubra a história de Michael Jackson, um dos artistas mais influentes que o mundo já conheceu, e a sua vida para além da música, traçando o seu percurso desde a descoberta do seu extraordinário talento como líder dos Jackson Five até se tornar o artista visionário cuja ambição criativa alimentou uma busca incansável para se tornar o maior artista do mundo, destacando tanto a sua vida fora dos palcos como algumas das performances mais icónicas do início da sua carreira a solo.",
-   "director": [
-    "Antoine Fuqua"
-   ],
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "imdbRating": "7.3",
-   "released": "2026-04-24T00:00:00.000Z",
-   "writer": [
-    "John Logan"
-   ],
-   "year": "2026",
-   "runtime": "128 min",
-   "background": "https://images.metahub.space/background/medium/tt11378946/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11378946/img",
-   "trailers": [
-    {
-     "source": "k-YAcjaLuSI",
-     "type": "Trailer"
-    },
-    {
-     "source": "mbtgEE6rkxw",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt11378946",
-   "genres": [
-    "Música",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Michael",
-     "ytId": "k-YAcjaLuSI"
-    },
-    {
-     "title": "Michael",
-     "ytId": "mbtgEE6rkxw"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11378946"
-    },
-    {
-     "name": "Michael",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/michael-11378946"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Jaafar Jackson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jaafar%20Jackson"
-    },
-    {
-     "name": "Nia Long",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nia%20Long"
-    },
-    {
-     "name": "Colman Domingo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Colman%20Domingo"
-    },
-    {
-     "name": "John Logan",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Logan"
-    },
-    {
-     "name": "Antoine Fuqua",
-     "category": "Directors",
-     "url": "stremio:///search?search=Antoine%20Fuqua"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11378946",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11378946.jpg"
-  },
-  {
-   "name": "Oppenheimer",
-   "cast": [
-    "Cillian Murphy",
-    "Emily Blunt",
-    "Matt Damon"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "O físico J. Robert Oppenheimer trabalha com uma equipa de cientistas durante o Projeto Manhattan, levando ao desenvolvimento da bomba atómica.",
-   "director": [
-    "Christopher Nolan"
-   ],
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "imdbRating": "8.2",
-   "released": "2023-07-21T00:00:00.000Z",
-   "writer": [
-    "Christopher Nolan",
-    "Kai Bird",
-    "Martin Sherwin"
-   ],
-   "year": "2023",
-   "trailers": [
-    {
-     "source": "qiuSBWVdgLI",
-     "type": "Trailer"
-    },
-    {
-     "source": "uYPbbksJxIg",
-     "type": "Trailer"
-    },
-    {
-     "source": "bK6ldnjE3Y0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15398776/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15398776/img",
-   "runtime": "181 min",
-   "awards": "Won 7 Oscars. 370 wins & 378 nominations total",
-   "dvdRelease": "2023-11-21T00:00:00.000Z",
-   "id": "tt15398776",
-   "genres": [
-    "Drama",
-    "História"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "Oppenheimer",
-     "ytId": "qiuSBWVdgLI"
-    },
-    {
-     "title": "Oppenheimer",
-     "ytId": "uYPbbksJxIg"
-    },
-    {
-     "title": "Oppenheimer",
-     "ytId": "bK6ldnjE3Y0"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15398776"
-    },
-    {
-     "name": "Oppenheimer",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/oppenheimer-15398776"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Cillian Murphy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Cillian%20Murphy"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "Matt Damon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Damon"
-    },
-    {
-     "name": "Christopher Nolan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20Nolan"
-    },
-    {
-     "name": "Kai Bird",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kai%20Bird"
-    },
-    {
-     "name": "Martin Sherwin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Martin%20Sherwin"
-    },
-    {
-     "name": "Christopher Nolan",
-     "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20Nolan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt15398776",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15398776.jpg"
-  },
-  {
    "cast": [
     "Eddie Redmayne",
     "Alex Sharp",
@@ -1186,6 +1077,119 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1070874.jpg"
+  },
+  {
+   "name": "Michael",
+   "awards": "7 wins & 5 nominations total",
+   "cast": [
+    "Jaafar Jackson",
+    "Nia Long",
+    "Colman Domingo"
+   ],
+   "country": "United States, Canada, United Kingdom",
+   "description": "Descubra a história de Michael Jackson, um dos artistas mais influentes que o mundo já conheceu, e a sua vida para além da música, traçando o seu percurso desde a descoberta do seu extraordinário talento como líder dos Jackson Five até se tornar o artista visionário cuja ambição criativa alimentou uma busca incansável para se tornar o maior artista do mundo, destacando tanto a sua vida fora dos palcos como algumas das performances mais icónicas do início da sua carreira a solo.",
+   "director": [
+    "Antoine Fuqua"
+   ],
+   "genre": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "imdbRating": "7.3",
+   "released": "2026-04-24T00:00:00.000Z",
+   "writer": [
+    "John Logan"
+   ],
+   "year": "2026",
+   "runtime": "128 min",
+   "background": "https://images.metahub.space/background/medium/tt11378946/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11378946/img",
+   "trailers": [
+    {
+     "source": "k-YAcjaLuSI",
+     "type": "Trailer"
+    },
+    {
+     "source": "mbtgEE6rkxw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11378946",
+   "genres": [
+    "Música",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Michael",
+     "ytId": "k-YAcjaLuSI"
+    },
+    {
+     "title": "Michael",
+     "ytId": "mbtgEE6rkxw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11378946"
+    },
+    {
+     "name": "Michael",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/michael-11378946"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+    },
+    {
+     "name": "Jaafar Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jaafar%20Jackson"
+    },
+    {
+     "name": "Nia Long",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nia%20Long"
+    },
+    {
+     "name": "Colman Domingo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Colman%20Domingo"
+    },
+    {
+     "name": "John Logan",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Logan"
+    },
+    {
+     "name": "Antoine Fuqua",
+     "category": "Directors",
+     "url": "stremio:///search?search=Antoine%20Fuqua"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11378946",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11378946.jpg"
   }
  ]
 }

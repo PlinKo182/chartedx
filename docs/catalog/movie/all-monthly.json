@@ -916,116 +916,137 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "name": "The Whisper Man",
-   "cast": [
-    "Robert De Niro",
-    "Michelle Monaghan",
-    "Adam Scott"
-   ],
-   "country": "United States",
-   "description": "Quando o seu filho pequeno desaparece, um viúvo volta a aproximar-se do pai, um detetive reformado que prendeu o assassino em série ligado ao caso.",
-   "director": [
-    "James Ashcroft"
-   ],
-   "genre": [
-    "Crime",
+   "id": "tt6262770",
+   "logo": "https://live.metahub.space/logo/medium/tt6262770/img",
+   "background": "https://live.metahub.space/background/medium/tt6262770/img",
+   "name": "Tenzing",
+   "description": "Um homem determinado vai numa missão de alto-risco e enfrenta probabilidades aparentemente impossíveis para realizar o seu sonho de ser o primeiro a chegar ao cume do Monte Evereste.",
+   "genres": [
     "Drama",
-    "Thriller"
+    "História"
    ],
-   "imdbRating": "6.2",
-   "released": null,
-   "writer": [
-    "Ben Jacoby",
-    "Alex North",
-    "Chase Palmer"
-   ],
-   "year": "2026",
-   "runtime": "111 min",
+   "releaseInfo": "2026",
+   "runtime": "126 min",
    "trailers": [
     {
-     "source": "ZHRR-1CKYIQ",
+     "source": "KkYCY5YR12U",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt11561116/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11561116/img",
-   "id": "tt11561116",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
+   "cast": [
+    "Genden Phuntsok",
+    "Tom Hiddleston",
+    "Willem Dafoe"
    ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
+   "credits_cast": [
     {
-     "title": "The Whisper Man",
-     "ytId": "ZHRR-1CKYIQ"
+     "character": "Tenzing Norgay",
+     "name": "Genden Phuntsok",
+     "profile_path": "/2xsreNBuPpBZYJTlpuTapi2ZvP.jpg",
+     "id": 2091969
+    },
+    {
+     "character": "Sir Edmund Hillary",
+     "name": "Tom Hiddleston",
+     "profile_path": "/mclHxMm8aPlCPKptP67257F5GPo.jpg",
+     "id": 91606
+    },
+    {
+     "character": "Colonel John Hunt",
+     "name": "Willem Dafoe",
+     "profile_path": "/ui8e4sgZAwMPi3hzEO53jyBJF9B.jpg",
+     "id": 5293
+    },
+    {
+     "character": "Jill Henderson",
+     "name": "Caitríona Balfe",
+     "profile_path": "/lerCNTjO6FQIam2lF5SXHA4dY7H.jpg",
+     "id": 147056
+    },
+    {
+     "character": "Dawa Norgay",
+     "name": "Thinley Lhamo",
+     "profile_path": "/3GKt64WBoYR7qGPhRxtatfelGYd.jpg",
+     "id": 1945900
+    },
+    {
+     "character": "Young Tenzing",
+     "name": "Tenzing Dalha",
+     "profile_path": "/73C5LeD05D4ElTb4h8PY5zzBBdn.jpg",
+     "id": 2116932
     }
    ],
-   "links": [
+   "credits_crew": [
     {
-     "name": "The Whisper Man",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-whisper-man-11561116"
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
     },
     {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Iain Canning",
+     "profile_path": "/fZXdp3v9Df2ePyFseLYCKZKQ31x.jpg",
+     "id": 37276
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Emile Sherman",
+     "profile_path": "/sq1o0F5rvjzhE5JKleiBJc71SJ3.jpg",
+     "id": 37270
     },
     {
-     "name": "Robert De Niro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20De%20Niro"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Liz Watts",
+     "profile_path": "/9G3XEW8tNVhKxMwq4fvzP3eVxv8.jpg",
+     "id": 61625
     },
     {
-     "name": "Michelle Monaghan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Monaghan"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jennifer Peedom",
+     "profile_path": "/dss8HFn8K3UA5GXT9YfjBASR9Ee.jpg",
+     "id": 114335
     },
     {
-     "name": "Adam Scott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adam%20Scott"
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Luke Davies",
+     "profile_path": null,
+     "id": 37268
     },
     {
-     "name": "Ben Jacoby",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ben%20Jacoby"
-    },
-    {
-     "name": "Alex North",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alex%20North"
-    },
-    {
-     "name": "Chase Palmer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chase%20Palmer"
-    },
-    {
-     "name": "James Ashcroft",
-     "category": "Directors",
-     "url": "stremio:///search?search=James%20Ashcroft"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Desray Armstrong",
+     "profile_path": "/bUtDWmARmR0M8T9ksKOOBsk532u.jpg",
+     "id": 1671910
     }
    ],
+   "director": [
+    "Jennifer Peedom"
+   ],
+   "imdbRating": "7.5",
+   "language": "English",
+   "country": "Australia, United States",
    "behaviorHints": {
-    "defaultVideoId": "tt11561116",
+    "defaultVideoId": "tt6262770",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11561116.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg"
   },
   {
    "id": "tt37284855",

@@ -314,7 +314,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+   "imdbRating": "7.9"
   },
   {
    "name": "Weapons",
@@ -642,6 +643,220 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
+   "id": "tt45854934",
+   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
+   "background": "https://live.metahub.space/background/medium/tt45854934/img",
+   "name": "The Gift of Deceit",
+   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Marieta Severo",
+    "Alice Wegmann",
+    "Nanda Costa"
+   ],
+   "credits_cast": [
+    {
+     "character": "Lúcia Rossetti",
+     "name": "Marieta Severo",
+     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
+     "id": 138327
+    },
+    {
+     "character": "Maíra Rossetti",
+     "name": "Alice Wegmann",
+     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
+     "id": 1371607
+    },
+    {
+     "character": "Irina",
+     "name": "Nanda Costa",
+     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
+     "id": 1045953
+    },
+    {
+     "character": "",
+     "name": "José de Abreu",
+     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
+     "id": 769308
+    },
+    {
+     "character": "",
+     "name": "Felipe Camargo",
+     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
+     "id": 1041385
+    },
+    {
+     "character": "",
+     "name": "Luciana Paes",
+     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
+     "id": 1356080
+    },
+    {
+     "character": "",
+     "name": "Laila Garin",
+     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
+     "id": 1995287
+    },
+    {
+     "character": "",
+     "name": "Rui Ricardo Diaz",
+     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
+     "id": 129685
+    },
+    {
+     "character": "",
+     "name": "Heloísa Jorge",
+     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
+     "id": 2266943
+    },
+    {
+     "character": "",
+     "name": "Allan Souza Lima",
+     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
+     "id": 1693267
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Mauro Mendonça Filho",
+     "profile_path": null,
+     "id": 1906411
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Daniela Carvalho",
+     "profile_path": null,
+     "id": 2256635
+    }
+   ],
+   "director": [
+    "Mauro Mendonça Filho",
+    "Daniela Carvalho"
+   ],
+   "country": "Brazil",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg"
+  },
+  {
+   "cast": [
+    "Josh Duhamel",
+    "Abbie Cornish",
+    "Omar Chaparro"
+   ],
+   "country": "United States, Mexico",
+   "description": "Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!",
+   "director": [
+    "Sam Macaroni"
+   ],
+   "dvdRelease": "2022-10-12T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "imdbRating": "3.9",
+   "name": "Blackout",
+   "released": "2022-10-01T00:00:00.000Z",
+   "runtime": "81 min",
+   "writer": [
+    "Van B. Nguyen"
+   ],
+   "year": "2022",
+   "trailers": [
+    {
+     "source": "QP3sxps6k0s",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8363392/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8363392/img",
+   "id": "tt8363392",
+   "genres": [
+    "Ação",
+    "Aventura",
+    "Thriller"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Blackout",
+     "ytId": "QP3sxps6k0s"
+    }
+   ],
+   "links": [
+    {
+     "name": "3.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8363392"
+    },
+    {
+     "name": "Blackout",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/blackout-8363392"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Josh Duhamel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Duhamel"
+    },
+    {
+     "name": "Abbie Cornish",
+     "category": "Cast",
+     "url": "stremio:///search?search=Abbie%20Cornish"
+    },
+    {
+     "name": "Omar Chaparro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Omar%20Chaparro"
+    },
+    {
+     "name": "Van B. Nguyen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Van%20B.%20Nguyen"
+    },
+    {
+     "name": "Sam Macaroni",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sam%20Macaroni"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8363392",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8363392.jpg"
+  },
+  {
    "id": "tt39387986",
    "logo": "https://live.metahub.space/logo/medium/tt39387986/img",
    "background": "https://live.metahub.space/background/medium/tt39387986/img",
@@ -732,7 +947,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39387986.jpg",
-   "imdbRating": "5.4"
+   "imdbRating": "5.6"
   },
   {
    "awards": null,
@@ -848,211 +1063,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0913354.jpg"
-  },
-  {
-   "awards": "7 wins total",
-   "cast": [
-    "Jerry Lawler",
-    "Michael Coulthard",
-    "Paul Levesque"
-   ],
-   "country": "United States",
-   "description": "Um programa regular, em direto, durante todo o ano, com a participação de algumas das maiores Superstars da WWE.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Sport"
-   ],
-   "imdbRating": "7.7",
-   "name": "WWE Monday Night RAW",
-   "released": "1993-01-11T00:00:00.000Z",
-   "runtime": "106 min",
-   "status": "Continuing",
-   "writer": [
-    "Vince McMahon",
-    "Dusty Rhodes"
-   ],
-   "year": "1993–",
-   "background": "https://images.metahub.space/background/medium/tt0185103/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0185103/img",
-   "trailers": [
-    {
-     "source": "FVO6mUQMon8",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0185103",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "WWE Monday Night RAW",
-     "ytId": "FVO6mUQMon8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0185103"
-    },
-    {
-     "name": "WWE Monday Night RAW",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/wwe-monday-night-raw-0185103"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Jerry Lawler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jerry%20Lawler"
-    },
-    {
-     "name": "Michael Coulthard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Coulthard"
-    },
-    {
-     "name": "Paul Levesque",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Levesque"
-    },
-    {
-     "name": "Vince McMahon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Vince%20McMahon"
-    },
-    {
-     "name": "Dusty Rhodes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dusty%20Rhodes"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185103.jpg"
-  },
-  {
-   "cast": [
-    "Josh Duhamel",
-    "Abbie Cornish",
-    "Omar Chaparro"
-   ],
-   "country": "United States, Mexico",
-   "description": "Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!",
-   "director": [
-    "Sam Macaroni"
-   ],
-   "dvdRelease": "2022-10-12T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Crime",
-    "Thriller"
-   ],
-   "imdbRating": "3.9",
-   "name": "Blackout",
-   "released": "2022-10-01T00:00:00.000Z",
-   "runtime": "81 min",
-   "writer": [
-    "Van B. Nguyen"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "QP3sxps6k0s",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt8363392/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8363392/img",
-   "id": "tt8363392",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Thriller"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Blackout",
-     "ytId": "QP3sxps6k0s"
-    }
-   ],
-   "links": [
-    {
-     "name": "3.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8363392"
-    },
-    {
-     "name": "Blackout",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/blackout-8363392"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Josh Duhamel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Duhamel"
-    },
-    {
-     "name": "Abbie Cornish",
-     "category": "Cast",
-     "url": "stremio:///search?search=Abbie%20Cornish"
-    },
-    {
-     "name": "Omar Chaparro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Omar%20Chaparro"
-    },
-    {
-     "name": "Van B. Nguyen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Van%20B.%20Nguyen"
-    },
-    {
-     "name": "Sam Macaroni",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sam%20Macaroni"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt8363392",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8363392.jpg"
   },
   {
    "name": "Below",
@@ -1352,183 +1362,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
-   "name": "Ghooskhor Pandat",
-   "cast": [
-    "Manoj Bajpayee",
-    "Nushrratt Bharuccha",
-    "Shraddha Das"
-   ],
-   "country": "India",
-   "description": "A noite de um polícia corrupto e perturbado foge do seu controlo quando um ato relutante de misericórdia para com uma jovem ferida o arrasta para uma teia mortal de crime.",
-   "genre": [
-    "Thriller"
-   ],
-   "imdbRating": "5.9",
-   "released": null,
-   "writer": [
-    "Neeraj Pandey",
-    "Ritesh Shah"
-   ],
-   "year": "2026",
-   "runtime": "123 min",
-   "trailers": [
-    {
-     "source": "BwFuJbHNE4o",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39631280/img",
-   "background": "https://images.metahub.space/background/medium/tt39631280/img",
-   "id": "tt39631280",
-   "genres": [
-    "Thriller",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Ghooskhor Pandat",
-     "ytId": "BwFuJbHNE4o"
-    }
-   ],
-   "links": [
-    {
-     "name": "Ghooskhor Pandat",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/ghooskhor-pandat-39631280"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Manoj Bajpayee",
-     "category": "Cast",
-     "url": "stremio:///search?search=Manoj%20Bajpayee"
-    },
-    {
-     "name": "Nushrratt Bharuccha",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nushrratt%20Bharuccha"
-    },
-    {
-     "name": "Shraddha Das",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shraddha%20Das"
-    },
-    {
-     "name": "Neeraj Pandey",
-     "category": "Writers",
-     "url": "stremio:///search?search=Neeraj%20Pandey"
-    },
-    {
-     "name": "Ritesh Shah",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ritesh%20Shah"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt39631280",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39631280.jpg"
-  },
-  {
-   "name": "Dragon Ball Super: Beerus",
-   "cast": [
-    "Kôichi Yamadera",
-    "Masako Nozawa",
-    "Ryô Horikawa"
-   ],
-   "country": "Japan",
-   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
-   "genre": [
-    "Animation"
-   ],
-   "imdbRating": "9.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "iCD3Lf7Jf9o",
-     "type": "Trailer"
-    },
-    {
-     "source": "Tf4wBaSj7SE",
-     "type": "Trailer"
-    },
-    {
-     "source": "Plp6IJ9utjU",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
-   "background": "https://images.metahub.space/background/medium/tt39395275/img",
-   "id": "tt39395275",
-   "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "iCD3Lf7Jf9o"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Tf4wBaSj7SE"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Plp6IJ9utjU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Dragon Ball Super: Beerus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Kôichi Yamadera",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
-    },
-    {
-     "name": "Masako Nozawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Masako%20Nozawa"
-    },
-    {
-     "name": "Ryô Horikawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
-  },
-  {
    "country": "United States",
    "director": [
     "Chris Renaud",
@@ -1749,7 +1582,166 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
    "releaseInfo": "2026",
-   "imdbRating": "7.5"
+   "imdbRating": "7.6"
+  },
+  {
+   "name": "Ghooskhor Pandat",
+   "cast": [
+    "Manoj Bajpayee",
+    "Nushrratt Bharuccha",
+    "Shraddha Das"
+   ],
+   "country": "India",
+   "description": "A noite de um polícia corrupto e perturbado foge do seu controlo quando um ato relutante de misericórdia para com uma jovem ferida o arrasta para uma teia mortal de crime.",
+   "genre": [
+    "Thriller"
+   ],
+   "imdbRating": "5.9",
+   "released": null,
+   "writer": [
+    "Neeraj Pandey",
+    "Ritesh Shah"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "BwFuJbHNE4o",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39631280/img",
+   "background": "https://images.metahub.space/background/medium/tt39631280/img",
+   "id": "tt39631280",
+   "genres": [
+    "Thriller",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Ghooskhor Pandat",
+     "ytId": "BwFuJbHNE4o"
+    }
+   ],
+   "links": [
+    {
+     "name": "Ghooskhor Pandat",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/ghooskhor-pandat-39631280"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Manoj Bajpayee",
+     "category": "Cast",
+     "url": "stremio:///search?search=Manoj%20Bajpayee"
+    },
+    {
+     "name": "Nushrratt Bharuccha",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nushrratt%20Bharuccha"
+    },
+    {
+     "name": "Shraddha Das",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shraddha%20Das"
+    },
+    {
+     "name": "Neeraj Pandey",
+     "category": "Writers",
+     "url": "stremio:///search?search=Neeraj%20Pandey"
+    },
+    {
+     "name": "Ritesh Shah",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ritesh%20Shah"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39631280",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39631280.jpg"
+  },
+  {
+   "name": "East of Eden",
+   "cast": [
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
+   ],
+   "country": "United States",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "M9NWvGZViCg",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
+    }
+   ],
+   "links": [
+    {
+     "name": "East of Eden",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Florence Pugh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Florence%20Pugh"
+    },
+    {
+     "name": "Mike Faist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mike%20Faist"
+    },
+    {
+     "name": "Christopher Abbott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Abbott"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
    "name": "Evil Dead Burn",
@@ -1865,68 +1857,80 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31170389.jpg"
   },
   {
-   "name": "East of Eden",
+   "name": "Love Is Blind",
    "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
+    "Nick Lachey",
+    "Vanessa Lachey",
+    "Chelsea Griffin"
    ],
    "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "description": "Nick e Vanessa Lachey apresentam uma experiência social em que solteiros e solteiras encontram o amor e ficam noivos sem se conhecerem cara a cara.",
    "genre": [
-    "Drama"
+    "Reality-TV",
+    "Romance"
    ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
+   "imdbRating": "6.2",
+   "released": "2020-02-13T00:00:00.000Z",
+   "year": "2020–",
+   "director": [],
+   "writer": [],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11704040/img",
+   "awards": "Nominated for 8 Primetime Emmys. 1 win & 13 nominations total",
+   "runtime": "61 min",
    "trailers": [
     {
-     "source": "M9NWvGZViCg",
+     "source": "s2eBAFt3L_0",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
+   "id": "tt11704040",
    "genres": [
-    "Drama"
+    "Reality"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
+     "title": "Love Is Blind",
+     "ytId": "s2eBAFt3L_0"
     }
    ],
    "links": [
     {
-     "name": "East of Eden",
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11704040"
+    },
+    {
+     "name": "Love Is Blind",
      "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+     "url": "https://www.strem.io/s/series/love-is-blind-11704040"
     },
     {
-     "name": "Drama",
+     "name": "Reality-TV",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
     },
     {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Mike Faist",
+     "name": "Nick Lachey",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
+     "url": "stremio:///search?search=Nick%20Lachey"
     },
     {
-     "name": "Christopher Abbott",
+     "name": "Vanessa Lachey",
      "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
+     "url": "stremio:///search?search=Vanessa%20Lachey"
+    },
+    {
+     "name": "Chelsea Griffin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chelsea%20Griffin"
     }
    ],
    "behaviorHints": {
@@ -1935,7 +1939,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11704040.jpg"
   }
  ]
 }

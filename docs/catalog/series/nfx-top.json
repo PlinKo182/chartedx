@@ -89,7 +89,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+   "imdbRating": "7.9"
   },
   {
    "name": "Nobody Wants This",
@@ -191,6 +192,114 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
   },
   {
+   "id": "tt45854934",
+   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
+   "background": "https://live.metahub.space/background/medium/tt45854934/img",
+   "name": "The Gift of Deceit",
+   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Marieta Severo",
+    "Alice Wegmann",
+    "Nanda Costa"
+   ],
+   "credits_cast": [
+    {
+     "character": "Lúcia Rossetti",
+     "name": "Marieta Severo",
+     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
+     "id": 138327
+    },
+    {
+     "character": "Maíra Rossetti",
+     "name": "Alice Wegmann",
+     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
+     "id": 1371607
+    },
+    {
+     "character": "Irina",
+     "name": "Nanda Costa",
+     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
+     "id": 1045953
+    },
+    {
+     "character": "",
+     "name": "José de Abreu",
+     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
+     "id": 769308
+    },
+    {
+     "character": "",
+     "name": "Felipe Camargo",
+     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
+     "id": 1041385
+    },
+    {
+     "character": "",
+     "name": "Luciana Paes",
+     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
+     "id": 1356080
+    },
+    {
+     "character": "",
+     "name": "Laila Garin",
+     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
+     "id": 1995287
+    },
+    {
+     "character": "",
+     "name": "Rui Ricardo Diaz",
+     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
+     "id": 129685
+    },
+    {
+     "character": "",
+     "name": "Heloísa Jorge",
+     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
+     "id": 2266943
+    },
+    {
+     "character": "",
+     "name": "Allan Souza Lima",
+     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
+     "id": 1693267
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Mauro Mendonça Filho",
+     "profile_path": null,
+     "id": 1906411
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Daniela Carvalho",
+     "profile_path": null,
+     "id": 2256635
+    }
+   ],
+   "director": [
+    "Mauro Mendonça Filho",
+    "Daniela Carvalho"
+   ],
+   "country": "Brazil",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg"
+  },
+  {
    "id": "tt39387986",
    "logo": "https://live.metahub.space/logo/medium/tt39387986/img",
    "background": "https://live.metahub.space/background/medium/tt39387986/img",
@@ -281,106 +390,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39387986.jpg",
-   "imdbRating": "5.4"
-  },
-  {
-   "awards": "7 wins total",
-   "cast": [
-    "Jerry Lawler",
-    "Michael Coulthard",
-    "Paul Levesque"
-   ],
-   "country": "United States",
-   "description": "Um programa regular, em direto, durante todo o ano, com a participação de algumas das maiores Superstars da WWE.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Sport"
-   ],
-   "imdbRating": "7.7",
-   "name": "WWE Monday Night RAW",
-   "released": "1993-01-11T00:00:00.000Z",
-   "runtime": "106 min",
-   "status": "Continuing",
-   "writer": [
-    "Vince McMahon",
-    "Dusty Rhodes"
-   ],
-   "year": "1993–",
-   "background": "https://images.metahub.space/background/medium/tt0185103/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0185103/img",
-   "trailers": [
-    {
-     "source": "FVO6mUQMon8",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0185103",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "WWE Monday Night RAW",
-     "ytId": "FVO6mUQMon8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0185103"
-    },
-    {
-     "name": "WWE Monday Night RAW",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/wwe-monday-night-raw-0185103"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Jerry Lawler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jerry%20Lawler"
-    },
-    {
-     "name": "Michael Coulthard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Coulthard"
-    },
-    {
-     "name": "Paul Levesque",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Levesque"
-    },
-    {
-     "name": "Vince McMahon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Vince%20McMahon"
-    },
-    {
-     "name": "Dusty Rhodes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dusty%20Rhodes"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185103.jpg"
+   "imdbRating": "5.6"
   },
   {
    "name": "Below",
@@ -569,97 +579,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
-   "name": "Dragon Ball Super: Beerus",
-   "cast": [
-    "Kôichi Yamadera",
-    "Masako Nozawa",
-    "Ryô Horikawa"
-   ],
-   "country": "Japan",
-   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
-   "genre": [
-    "Animation"
-   ],
-   "imdbRating": "9.1",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "iCD3Lf7Jf9o",
-     "type": "Trailer"
-    },
-    {
-     "source": "Tf4wBaSj7SE",
-     "type": "Trailer"
-    },
-    {
-     "source": "Plp6IJ9utjU",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
-   "background": "https://images.metahub.space/background/medium/tt39395275/img",
-   "id": "tt39395275",
-   "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "iCD3Lf7Jf9o"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Tf4wBaSj7SE"
-    },
-    {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Plp6IJ9utjU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Dragon Ball Super: Beerus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Kôichi Yamadera",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
-    },
-    {
-     "name": "Masako Nozawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Masako%20Nozawa"
-    },
-    {
-     "name": "Ryô Horikawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
-  },
-  {
    "id": "tt42576855",
    "logo": "https://live.metahub.space/logo/medium/tt42576855/img",
    "background": "https://live.metahub.space/background/medium/tt42576855/img",
@@ -754,7 +673,7 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
    "releaseInfo": "2026",
-   "imdbRating": "7.5"
+   "imdbRating": "7.6"
   },
   {
    "name": "East of Eden",
@@ -828,6 +747,91 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
+  },
+  {
+   "name": "Love Is Blind",
+   "cast": [
+    "Nick Lachey",
+    "Vanessa Lachey",
+    "Chelsea Griffin"
+   ],
+   "country": "United States",
+   "description": "Nick e Vanessa Lachey apresentam uma experiência social em que solteiros e solteiras encontram o amor e ficam noivos sem se conhecerem cara a cara.",
+   "genre": [
+    "Reality-TV",
+    "Romance"
+   ],
+   "imdbRating": "6.2",
+   "released": "2020-02-13T00:00:00.000Z",
+   "year": "2020–",
+   "director": [],
+   "writer": [],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt11704040/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11704040/img",
+   "awards": "Nominated for 8 Primetime Emmys. 1 win & 13 nominations total",
+   "runtime": "61 min",
+   "trailers": [
+    {
+     "source": "s2eBAFt3L_0",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11704040",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "Love Is Blind",
+     "ytId": "s2eBAFt3L_0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11704040"
+    },
+    {
+     "name": "Love Is Blind",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/love-is-blind-11704040"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Nick Lachey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nick%20Lachey"
+    },
+    {
+     "name": "Vanessa Lachey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vanessa%20Lachey"
+    },
+    {
+     "name": "Chelsea Griffin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chelsea%20Griffin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11704040.jpg"
   }
  ]
 }

@@ -1,73 +1,304 @@
 {
  "metas": [
   {
-   "name": "State Funeral",
+   "id": "tt14958172",
+   "logo": "https://live.metahub.space/logo/medium/tt14958172/img",
+   "background": "https://live.metahub.space/background/medium/tt14958172/img",
+   "name": "Romance of Ida",
+   "description": "Uma história de romance da virada do século baseada no romance homônimo de Géza Gárdonyi. Seu pai encontra um marido para Ida, de dezenove anos, por meio de um anúncio de emprego, mas o casamento contratual pode se transformar em amor?",
+   "genres": [
+    "Romance",
+    "Cinema TV",
+    "História"
+   ],
+   "releaseInfo": "2022",
+   "runtime": "86 min",
+   "trailers": [],
    "cast": [
-    "Joseph Stalin",
-    "Lavrenti Beria",
-    "Vyacheslav Molotov"
+    "Júlia Mentes",
+    "Barnabás Rohonyi",
+    "Gábor Hevér"
    ],
-   "country": "Netherlands, Lithuania",
-   "description": "Março de 1953. Depois de 30 anos a governar a União Soviética sob um regime ditatorial, Joseph Estaline morreu. Nos dias imediatamente a seguir, os membros do comité do Partido Comunista, outrora fiéis seguidores do ditador, revelam a sua sede de poder. Nas ruas, durante as cerimónias fúnebres, centenas de milhares de pessoas surgem devastadas pela partida do ditador.",
-   "director": [
-    "Sergey Loznitsa"
-   ],
-   "genre": [
-    "Documentary",
-    "History"
-   ],
-   "imdbRating": "7.2",
-   "released": "2021-05-21T00:00:00.000Z",
-   "runtime": "135 min",
-   "writer": [
-    "Sergey Loznitsa"
-   ],
-   "year": "2021",
-   "trailers": [
+   "credits_cast": [
     {
-     "source": "iOj__BpDL30",
-     "type": "Trailer"
+     "character": "Ó Ida",
+     "name": "Júlia Mentes",
+     "profile_path": "/52T0E1ePxvMlaWwaWDS59j8pc8k.jpg",
+     "id": 3676042
     },
     {
-     "source": "JSvGX6syd_8",
+     "character": "Csaba",
+     "name": "Barnabás Rohonyi",
+     "profile_path": "/dW5yJ6TBNmGkUsGmmw8Wxu1XSH7.jpg",
+     "id": 2843720
+    },
+    {
+     "character": "Ó Péter",
+     "name": "Gábor Hevér",
+     "profile_path": "/a0rJvWcW0f36R0GIF7Kl8Sfyson.jpg",
+     "id": 1001024
+    },
+    {
+     "character": "Csorba",
+     "name": "Márk Ember",
+     "profile_path": "/pYszcOAeQStoM0Hg52MaSVg04Pl.jpg",
+     "id": 1962782
+    },
+    {
+     "character": "Borbereki",
+     "name": "Béla Mészáros",
+     "profile_path": "/l5aRzyM47PLUH7j2Gjp4FVVKJJo.jpg",
+     "id": 586279
+    },
+    {
+     "character": "Kati",
+     "name": "Angéla Stefanovics",
+     "profile_path": "/wSYtCRF7p07bKNndCHXeOwgoB6j.jpg",
+     "id": 227860
+    },
+    {
+     "character": "Balogh Jolán",
+     "name": "Rozi Lovas",
+     "profile_path": "/ijHsmvrJvPZTVNn2x60Hz9NXwgn.jpg",
+     "id": 1296601
+    },
+    {
+     "character": "Mikeyné Jolán",
+     "name": "Éva Bata",
+     "profile_path": "/5Im27xFgzeBX1cxKgs8uwa8dRYA.jpg",
+     "id": 1774254
+    },
+    {
+     "character": "Mikey",
+     "name": "Lehel Kovács",
+     "profile_path": "/vRtHHSX9M3O6fpC8ioFChT4Ruh.jpg",
+     "id": 231050
+    },
+    {
+     "character": "Bogár Nóra",
+     "name": "Réti Nóra",
+     "profile_path": "/lQbpPdhZlT4s4pLJy5Lk9OUoo38.jpg",
+     "id": 3182711
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Krisztina Goda",
+     "profile_path": "/ynTVtavKHLdnzKQ7ENOtgAUWINO.jpg",
+     "id": 125681
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Tamás Lajos",
+     "profile_path": "/thRRYQkVa4WAaRBJcvyzJGaZDjN.jpg",
+     "id": 1210160
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Réka Divinyi",
+     "profile_path": "/s9WhubUd44MDNxboHvSbmSoidxk.jpg",
+     "id": 225935
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Krisztina Goda",
+     "profile_path": "/ynTVtavKHLdnzKQ7ENOtgAUWINO.jpg",
+     "id": 125681
+    }
+   ],
+   "director": [
+    "Krisztina Goda"
+   ],
+   "imdbRating": "7.0",
+   "language": "Hungarian",
+   "country": "Hungary",
+   "awards": "1 win & 2 nominations",
+   "behaviorHints": {
+    "defaultVideoId": "tt14958172",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14958172.jpg"
+  },
+  {
+   "name": "Magellan",
+   "awards": "3 wins & 19 nominations total",
+   "cast": [
+    "Gael García Bernal",
+    "Ângela Azevedo Ramos",
+    "Amado Arjay Babon"
+   ],
+   "country": "Portugal, Spain, France, Philippines, Taiwan",
+   "description": "Revoltado com a falta de apoio do rei português, Fernão de Magalhães convence a Coroa espanhola a financiar a sua viagem de circum-navegação.",
+   "director": [
+    "Lav Diaz"
+   ],
+   "genre": [
+    "Adventure",
+    "Biography",
+    "Drama"
+   ],
+   "imdbRating": "6.2",
+   "released": "2026-03-17T00:00:00.000Z",
+   "writer": [
+    "Lav Diaz"
+   ],
+   "year": "2026",
+   "runtime": "160 min",
+   "trailers": [
+    {
+     "source": "8h7rriQD1qc",
      "type": "Trailer"
     }
    ],
-   "awards": "3 wins & 7 nominations total",
-   "dvdRelease": "2021-05-21T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt10203842/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10203842/img",
-   "id": "tt10203842",
+   "background": "https://images.metahub.space/background/medium/tt36456563/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36456563/img",
+   "id": "tt36456563",
    "genres": [
-    "Documentário",
-    "História"
+    "História",
+    "Aventura",
+    "Drama"
    ],
-   "releaseInfo": "2019",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "State Funeral",
-     "ytId": "iOj__BpDL30"
-    },
-    {
-     "title": "State Funeral",
-     "ytId": "JSvGX6syd_8"
+     "title": "Magellan",
+     "ytId": "8h7rriQD1qc"
     }
    ],
    "links": [
     {
-     "name": "7.2",
+     "name": "6.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10203842"
+     "url": "https://imdb.com/title/tt36456563"
     },
     {
-     "name": "State Funeral",
+     "name": "Magellan",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/state-funeral-10203842"
+     "url": "https://www.strem.io/s/movie/magellan-36456563"
     },
     {
-     "name": "Documentary",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gael García Bernal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gael%20Garc%C3%ADa%20Bernal"
+    },
+    {
+     "name": "Ângela Azevedo Ramos",
+     "category": "Cast",
+     "url": "stremio:///search?search=%C3%82ngela%20Azevedo%20Ramos"
+    },
+    {
+     "name": "Amado Arjay Babon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amado%20Arjay%20Babon"
+    },
+    {
+     "name": "Lav Diaz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lav%20Diaz"
+    },
+    {
+     "name": "Lav Diaz",
+     "category": "Directors",
+     "url": "stremio:///search?search=Lav%20Diaz"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36456563",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36456563.jpg"
+  },
+  {
+   "name": "Christy",
+   "cast": [
+    "Sydney Sweeney",
+    "Coleman Pedigo",
+    "Merritt Wever"
+   ],
+   "country": "United States",
+   "description": "Saída de uma pequena cidade na Virgínia Ocidental, Christy Martin (Sydney Sweeney) entra no mundo do boxe sob a orientação de seu treinador e empresário que virou marido, Jim (Ben Foster). No entanto, suas batalhas mais difíceis acontecem fora do ringue. Baseado em eventos reais notáveis, a história de Christy Martin é de resiliência, coragem e a luta para recuperar sua vida.",
+   "director": [
+    "David Michôd"
+   ],
+   "genre": [
+    "Biography",
+    "Drama",
+    "History"
+   ],
+   "imdbRating": "6.6",
+   "released": "2025-11-07T00:00:00.000Z",
+   "writer": [
+    "Mirrah Foulkes",
+    "David Michôd",
+    "Katherine Fugate"
+   ],
+   "year": "2025",
+   "runtime": "134 min",
+   "trailers": [
+    {
+     "source": "hSHwFDPfeV8",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32323252/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32323252/img",
+   "awards": "2 wins & 6 nominations total",
+   "id": "tt32323252",
+   "genres": [
+    "História",
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Christy",
+     "ytId": "hSHwFDPfeV8"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32323252"
+    },
+    {
+     "name": "Christy",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/christy-32323252"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
      "name": "History",
@@ -75,108 +306,485 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
     },
     {
-     "name": "Joseph Stalin",
+     "name": "Sydney Sweeney",
      "category": "Cast",
-     "url": "stremio:///search?search=Joseph%20Stalin"
+     "url": "stremio:///search?search=Sydney%20Sweeney"
     },
     {
-     "name": "Lavrenti Beria",
+     "name": "Coleman Pedigo",
      "category": "Cast",
-     "url": "stremio:///search?search=Lavrenti%20Beria"
+     "url": "stremio:///search?search=Coleman%20Pedigo"
     },
     {
-     "name": "Vyacheslav Molotov",
+     "name": "Merritt Wever",
      "category": "Cast",
-     "url": "stremio:///search?search=Vyacheslav%20Molotov"
+     "url": "stremio:///search?search=Merritt%20Wever"
     },
     {
-     "name": "Sergey Loznitsa",
+     "name": "Mirrah Foulkes",
      "category": "Writers",
-     "url": "stremio:///search?search=Sergey%20Loznitsa"
+     "url": "stremio:///search?search=Mirrah%20Foulkes"
     },
     {
-     "name": "Sergey Loznitsa",
+     "name": "David Michôd",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Mich%C3%B4d"
+    },
+    {
+     "name": "Katherine Fugate",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katherine%20Fugate"
+    },
+    {
+     "name": "David Michôd",
      "category": "Directors",
-     "url": "stremio:///search?search=Sergey%20Loznitsa"
+     "url": "stremio:///search?search=David%20Mich%C3%B4d"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt10203842",
+    "defaultVideoId": "tt32323252",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10203842.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32323252.jpg"
   },
   {
-   "awards": "1 win & 5 nominations total",
+   "name": "Someone Like You",
    "cast": [
-    "Gerard Butler",
-    "Aaron Eckhart",
-    "Morgan Freeman"
+    "Sarah Fisher",
+    "Jake Allyn",
+    "Lynn Collins"
    ],
    "country": "United States",
-   "description": "Através de um ousado ataque maciço à Casa Branca, um grupo de extremistas norte-coreanos, fortemente armados e bem treinados, apodera-se do edifício e faz reféns no bunker presidencial as principais figuras da administração americana, incluindo o Presidente Asher. Durante a invasão, Mike Banning, um ex-agente secreto que estava fortuitamente no local, decide juntar-se à luta e fazer o trabalho para o qual treinou durante toda a sua vida: salvar a vida do Presidente, em articulação com o gabinete de crise chefiado por Allan Trumbull, que é nomeado presidente interino.",
+   "description": "Após a trágica perda de seu melhor amigo, um jovem arquiteto enlutado inicia uma busca por sua irmã gêmea secreta.",
    "director": [
-    "Antoine Fuqua"
+    "Tyler Russell"
    ],
-   "dvdRelease": "2014-09-07T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Thriller"
+    "Romance"
    ],
-   "imdbRating": "6.5",
-   "name": "Olympus Has Fallen",
-   "released": "2013-03-22T00:00:00.000Z",
-   "runtime": "120 min",
+   "imdbRating": "5.9",
+   "released": "2024-04-02T00:00:00.000Z",
+   "writer": [
+    "Karen Kingsbury",
+    "Tyler Russell"
+   ],
+   "year": "2024",
+   "runtime": "118 min",
    "trailers": [
     {
-     "source": "74F_pts7Uhg",
+     "source": "oQ7iDaQAjgE",
      "type": "Trailer"
     },
     {
-     "source": "ar-IaAx7s8k",
+     "source": "wie1GDo7jbg",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Creighton Rothenberger",
-    "Katrin Benedikt"
-   ],
-   "year": "2013",
-   "background": "https://images.metahub.space/background/medium/tt2302755/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2302755/img",
-   "id": "tt2302755",
+   "background": "https://images.metahub.space/background/medium/tt22334258/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22334258/img",
+   "id": "tt22334258",
    "genres": [
-    "Ação",
-    "Thriller"
+    "Romance",
+    "Drama"
    ],
-   "releaseInfo": "2013",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Olympus Has Fallen",
-     "ytId": "74F_pts7Uhg"
+     "title": "Someone Like You",
+     "ytId": "oQ7iDaQAjgE"
     },
     {
-     "title": "Olympus Has Fallen",
-     "ytId": "ar-IaAx7s8k"
+     "title": "Someone Like You",
+     "ytId": "wie1GDo7jbg"
     }
    ],
    "links": [
     {
-     "name": "6.5",
+     "name": "5.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2302755"
+     "url": "https://imdb.com/title/tt22334258"
     },
     {
-     "name": "Olympus Has Fallen",
+     "name": "Someone Like You",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/olympus-has-fallen-2302755"
+     "url": "https://www.strem.io/s/movie/someone-like-you-22334258"
     },
     {
-     "name": "Action",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Sarah Fisher",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sarah%20Fisher"
+    },
+    {
+     "name": "Jake Allyn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jake%20Allyn"
+    },
+    {
+     "name": "Lynn Collins",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lynn%20Collins"
+    },
+    {
+     "name": "Karen Kingsbury",
+     "category": "Writers",
+     "url": "stremio:///search?search=Karen%20Kingsbury"
+    },
+    {
+     "name": "Tyler Russell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tyler%20Russell"
+    },
+    {
+     "name": "Tyler Russell",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tyler%20Russell"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt22334258",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22334258.jpg"
+  },
+  {
+   "name": "Fantastic Beasts and Where to Find Them",
+   "year": "2016",
+   "runtime": "133 min",
+   "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "released": "2016-11-18T00:00:00.000Z",
+   "director": [
+    "David Yates"
+   ],
+   "writer": [
+    "J.K. Rowling"
+   ],
+   "cast": [
+    "Eddie Redmayne",
+    "Katherine Waterston",
+    "Alison Sudol"
+   ],
+   "imdbRating": "7.2",
+   "description": "Newt Scamander é um feiticeiro britânico que procura escrever um livro sobre criaturas mágicas. Ele vai a Nova Iorque com uma mala cheia delas mas alguns escapam. O seu afã para as recapturar põe a cidade em alvoroço e preocupa as autoridades do mundo mágico, a braços com vários incidentes que prometem acentuar as já más relações entre os feiticeiros e os não-feiticeiros.",
+   "country": "United Kingdom, United States, Canada",
+   "awards": "Won 1 Oscar. 15 wins & 55 nominations total",
+   "dvdRelease": "2017-03-08T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "Vso5o11LuGU",
+     "type": "Trailer"
+    },
+    {
+     "source": "YdgQj7xcDJo",
+     "type": "Trailer"
+    },
+    {
+     "source": "ViuDsy7yb8M",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ffantasticbeastsandwheretofindthem_175212%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/175212/images/masterrepository/fandango/175212/fantasticbeasts-posterart.jpg\" alt=\"Fantastic Beasts and Where to Find Them\" title=\"Fantastic Beasts and Where to Find Them\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ffantasticbeastsandwheretofindthem_175212%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ffantasticbeastsandwheretofindthem-trailer%2f175212%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2ffantasticbeastsandwheretofindthem_175212%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123"
+   },
+   "background": "https://images.metahub.space/background/medium/tt3183660/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3183660/img",
+   "id": "tt3183660",
+   "genres": [
+    "Fantasia",
+    "Aventura"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "Fantastic Beasts and Where to Find Them",
+     "ytId": "Vso5o11LuGU"
+    },
+    {
+     "title": "Fantastic Beasts and Where to Find Them",
+     "ytId": "YdgQj7xcDJo"
+    },
+    {
+     "title": "Fantastic Beasts and Where to Find Them",
+     "ytId": "ViuDsy7yb8M"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3183660"
+    },
+    {
+     "name": "Fantastic Beasts and Where to Find Them",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/fantastic-beasts-and-where-to-find-them-3183660"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Eddie Redmayne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eddie%20Redmayne"
+    },
+    {
+     "name": "Katherine Waterston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Katherine%20Waterston"
+    },
+    {
+     "name": "Alison Sudol",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alison%20Sudol"
+    },
+    {
+     "name": "J.K. Rowling",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.K.%20Rowling"
+    },
+    {
+     "name": "David Yates",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Yates"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3183660",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3183660.jpg"
+  },
+  {
+   "awards": "Nominated for 2 Oscars. 17 wins & 56 nominations total",
+   "cast": [
+    "Daniel Radcliffe",
+    "Emma Watson",
+    "Rupert Grint"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Harry Potter, Ron e Hermione entram na adolescência e voltam à Hogwarts para o terceiro ano lectivo na escola de bruxaria. Em Hogwarts procuram resolver o mistério de um fugitivo, o assassino Sirius Black, que foge da prisão de bruxos de Azkaban e representa uma perigosa ameaça para o jovem bruxo.",
+   "director": [
+    "Alfonso Cuarón"
+   ],
+   "dvdRelease": "2009-01-01T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+   ],
+   "imdbRating": "8.0",
+   "name": "Harry Potter and the Prisoner of Azkaban",
+   "released": "2004-06-04T00:00:00.000Z",
+   "runtime": "141 min",
+   "trailers": [
+    {
+     "source": "VwErvYgoH70",
+     "type": "Trailer"
+    },
+    {
+     "source": "Sp1yQfhwvK4",
+     "type": "Trailer"
+    },
+    {
+     "source": "R69laoH02xg",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "J.K. Rowling",
+    "Steve Kloves"
+   ],
+   "year": "2004",
+   "background": "https://images.metahub.space/background/medium/tt0304141/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0304141/img",
+   "id": "tt0304141",
+   "genres": [
+    "Aventura",
+    "Fantasia"
+   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [
+    {
+     "title": "Harry Potter and the Prisoner of Azkaban",
+     "ytId": "VwErvYgoH70"
+    },
+    {
+     "title": "Harry Potter and the Prisoner of Azkaban",
+     "ytId": "Sp1yQfhwvK4"
+    },
+    {
+     "title": "Harry Potter and the Prisoner of Azkaban",
+     "ytId": "R69laoH02xg"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0304141"
+    },
+    {
+     "name": "Harry Potter and the Prisoner of Azkaban",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/harry-potter-and-the-prisoner-of-azkaban-0304141"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Daniel Radcliffe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Radcliffe"
+    },
+    {
+     "name": "Emma Watson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Watson"
+    },
+    {
+     "name": "Rupert Grint",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rupert%20Grint"
+    },
+    {
+     "name": "J.K. Rowling",
+     "category": "Writers",
+     "url": "stremio:///search?search=J.K.%20Rowling"
+    },
+    {
+     "name": "Steve Kloves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Kloves"
+    },
+    {
+     "name": "Alfonso Cuarón",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alfonso%20Cuar%C3%B3n"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0304141",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0304141.jpg"
+  },
+  {
+   "awards": "3 wins & 11 nominations total",
+   "cast": [
+    "Tom Cruise",
+    "Bill Nighy",
+    "Carice van Houten"
+   ],
+   "country": "United Kingdom, France, Germany, Italy, Spain, Japan, United States",
+   "description": "Claus von Stauffenberg, um coronel do Exército Alemão que foi ferido nos combates no Norte de África, regressa a Berlim e torna-se o líder uma improvável conspiração de altos oficiais militares para assassinar Adolph Hitler, dissolver as SS, devolver a liberdade aos alemães e acabar com a Segunda Guerra Mundial.",
+   "director": [
+    "Bryan Singer"
+   ],
+   "dvdRelease": "2015-09-02T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "imdbRating": "7.1",
+   "name": "Valkyrie",
+   "released": "2008-12-25T00:00:00.000Z",
+   "runtime": "121 min",
+   "trailers": [
+    {
+     "source": "DlRCilnho1w",
+     "type": "Trailer"
+    },
+    {
+     "source": "o9c09zHGwA8",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Christopher McQuarrie",
+    "Nathan Alexander"
+   ],
+   "year": "2008",
+   "background": "https://images.metahub.space/background/medium/tt0985699/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0985699/img",
+   "id": "tt0985699",
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Guerra"
+   ],
+   "releaseInfo": "2008",
+   "trailerStreams": [
+    {
+     "title": "Valkyrie",
+     "ytId": "DlRCilnho1w"
+    },
+    {
+     "title": "Valkyrie",
+     "ytId": "o9c09zHGwA8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0985699"
+    },
+    {
+     "name": "Valkyrie",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/valkyrie-0985699"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
     },
     {
      "name": "Thriller",
@@ -184,220 +792,118 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Gerard Butler",
+     "name": "Tom Cruise",
      "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Butler"
+     "url": "stremio:///search?search=Tom%20Cruise"
     },
     {
-     "name": "Aaron Eckhart",
+     "name": "Bill Nighy",
      "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Eckhart"
+     "url": "stremio:///search?search=Bill%20Nighy"
     },
     {
-     "name": "Morgan Freeman",
+     "name": "Carice van Houten",
      "category": "Cast",
-     "url": "stremio:///search?search=Morgan%20Freeman"
+     "url": "stremio:///search?search=Carice%20van%20Houten"
     },
     {
-     "name": "Creighton Rothenberger",
+     "name": "Christopher McQuarrie",
      "category": "Writers",
-     "url": "stremio:///search?search=Creighton%20Rothenberger"
+     "url": "stremio:///search?search=Christopher%20McQuarrie"
     },
     {
-     "name": "Katrin Benedikt",
+     "name": "Nathan Alexander",
      "category": "Writers",
-     "url": "stremio:///search?search=Katrin%20Benedikt"
+     "url": "stremio:///search?search=Nathan%20Alexander"
     },
     {
-     "name": "Antoine Fuqua",
+     "name": "Bryan Singer",
      "category": "Directors",
-     "url": "stremio:///search?search=Antoine%20Fuqua"
+     "url": "stremio:///search?search=Bryan%20Singer"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt2302755",
+    "defaultVideoId": "tt0985699",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2302755.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0985699.jpg"
   },
   {
-   "id": "tt18376344",
-   "logo": "https://live.metahub.space/logo/medium/tt18376344/img",
-   "background": "https://live.metahub.space/background/medium/tt18376344/img",
-   "name": "O Jacaré",
-   "description": "Reboleira, um bairro de Lisboa. Após um assalto que correu mal, um carro acaba por se despistar mesmo no meio do bairro. O condutor é detido, mas os 180 000 € que foram roubados desapareceram. Na zona isolada pela polícia, espalham-se rumores e as especulações disparam. Entre os moradores, todo um elenco de personagens pitorescas sonha em deitar as mãos ao dinheiro roubado. Quem será o primeiro a deitá-lo nas mãos?",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "92 min",
-   "trailers": [
-    {
-     "source": "r3oOiW8BUSY",
-     "type": "Trailer"
-    }
-   ],
+   "awards": null,
    "cast": [
-    "Alexandra Sena",
-    "Alexandre da Costa Fonseca",
-    "Paulo César Lima Fonseca"
+    "Owen Wilson",
+    "Jason Sudeikis",
+    "Christina Applegate"
    ],
-   "credits_cast": [
-    {
-     "character": "Xana",
-     "name": "Alexandra Sena",
-     "profile_path": null,
-     "id": 6336948
-    },
-    {
-     "character": "Chandi",
-     "name": "Alexandre da Costa Fonseca",
-     "profile_path": null,
-     "id": 2363836
-    },
-    {
-     "character": "PC",
-     "name": "Paulo César Lima Fonseca",
-     "profile_path": null,
-     "id": 6336950
-    },
-    {
-     "character": "KP",
-     "name": "Nelson Carvalho",
-     "profile_path": null,
-     "id": 4035760
-    },
-    {
-     "character": "Machine",
-     "name": "Pedro Diniz",
-     "profile_path": null,
-     "id": 2859926
-    },
-    {
-     "character": "Batcha",
-     "name": "Heidir Correia",
-     "profile_path": null,
-     "id": 6336952
-    },
-    {
-     "character": "Kikas",
-     "name": "Carlos Fonseca",
-     "profile_path": null,
-     "id": 4211030
-    },
-    {
-     "character": "Mafia",
-     "name": "Pedro Ferreira",
-     "profile_path": null,
-     "id": 1171402
-    },
-    {
-     "character": "Toru Oro Na Denti",
-     "name": "Frederico Lopes",
-     "profile_path": null,
-     "id": 6177346
-    },
-    {
-     "character": "",
-     "name": "Verónica Lii",
-     "profile_path": null,
-     "id": 6336954
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Basil da Cunha",
-     "profile_path": null,
-     "id": 1171400
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Julien Rouyet",
-     "profile_path": null,
-     "id": 2363843
-    },
-    {
-     "department": "Writing",
-     "job": "Screenplay",
-     "name": "Basil da Cunha",
-     "profile_path": null,
-     "id": 1171400
-    }
-   ],
+   "country": "United States",
+   "description": "Amigos desde sempre, Rick e Fred são dois homens casados que, apesar de felizes, sentem alguma nostalgia em relação às suas vidas de solteiros. Quando as suas mulheres se apercebem que algo não está bem com eles, tomam uma medida arriscada: dão-lhes uma semana de total liberdade, durante a qual os dois amigos poderão fazer tudo o que desejam sem quaisquer justificações ou consequências. Porém, o que inicialmente parece um sonho tornado realidade depressa se transforma num verdadeiro pesadelo. É que as duas mulheres também decidiram tirar a mesma semana de folga dos respectivos casamentos...",
    "director": [
-    "Basil da Cunha"
+    "Bobby Farrelly",
+    "Peter Farrelly"
    ],
-   "imdbRating": "6.1",
-   "language": "Portuguese",
-   "country": "Switzerland, Portugal",
-   "awards": "1 nomination total",
-   "behaviorHints": {
-    "defaultVideoId": "tt18376344",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18376344.jpg"
-  },
-  {
-   "name": "'Tis the Season to be Merry",
-   "cast": [
-    "Rachael Leigh Cook",
-    "Travis Van Winkle",
-    "Karen Malina White"
-   ],
-   "country": "United States, Canada",
-   "description": "Buscando novas ideias para seu livro, Merry vai para a nevada Vermont e descobre uma nova perspectiva sobre a alegria do Natal com Adam, um carismático trabalhador humanitário.",
-   "director": [
-    "Gary Yates"
-   ],
+   "dvdRelease": "2013-03-01T00:00:00.000Z",
    "genre": [
     "Comedy",
     "Romance"
    ],
-   "imdbRating": "6.8",
-   "released": "2021-12-19T00:00:00.000Z",
-   "runtime": "84 min",
-   "writer": [
-    "Jen Kirkman",
-    "Duane Poole"
-   ],
-   "year": "2021",
+   "imdbRating": "5.9",
+   "name": "Hall Pass",
+   "released": "2011-02-25T00:00:00.000Z",
+   "runtime": "105 min",
    "trailers": [
     {
-     "source": "7-RYe8jxkfk",
-     "type": "Teaser"
+     "source": "nJxwye_VdS8",
+     "type": "Trailer"
     },
     {
-     "source": "dTJ5Sq121Tg",
-     "type": "Clip"
+     "source": "wu9IvLObxq8",
+     "type": "Trailer"
+    },
+    {
+     "source": "UIMYNVkZBSo",
+     "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt15739902/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15739902/img",
-   "id": "tt15739902",
+   "writer": [
+    "Pete Jones",
+    "Peter Farrelly",
+    "Kevin Barnett"
+   ],
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt0480687/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0480687/img",
+   "id": "tt0480687",
    "genres": [
-    "Cinema TV",
     "Comédia",
     "Romance"
    ],
-   "releaseInfo": "2021",
-   "trailerStreams": [],
-   "links": [
+   "releaseInfo": "2011",
+   "trailerStreams": [
     {
-     "name": "6.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15739902"
+     "title": "Hall Pass",
+     "ytId": "nJxwye_VdS8"
     },
     {
-     "name": "'Tis the Season to be Merry",
+     "title": "Hall Pass",
+     "ytId": "wu9IvLObxq8"
+    },
+    {
+     "title": "Hall Pass",
+     "ytId": "UIMYNVkZBSo"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0480687"
+    },
+    {
+     "name": "Hall Pass",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/tis-the-season-to-be-merry-15739902"
+     "url": "https://www.strem.io/s/movie/hall-pass-0480687"
     },
     {
      "name": "Comedy",
@@ -410,216 +916,149 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Rachael Leigh Cook",
+     "name": "Owen Wilson",
      "category": "Cast",
-     "url": "stremio:///search?search=Rachael%20Leigh%20Cook"
+     "url": "stremio:///search?search=Owen%20Wilson"
     },
     {
-     "name": "Travis Van Winkle",
+     "name": "Jason Sudeikis",
      "category": "Cast",
-     "url": "stremio:///search?search=Travis%20Van%20Winkle"
+     "url": "stremio:///search?search=Jason%20Sudeikis"
     },
     {
-     "name": "Karen Malina White",
+     "name": "Christina Applegate",
      "category": "Cast",
-     "url": "stremio:///search?search=Karen%20Malina%20White"
+     "url": "stremio:///search?search=Christina%20Applegate"
     },
     {
-     "name": "Jen Kirkman",
+     "name": "Pete Jones",
      "category": "Writers",
-     "url": "stremio:///search?search=Jen%20Kirkman"
+     "url": "stremio:///search?search=Pete%20Jones"
     },
     {
-     "name": "Duane Poole",
+     "name": "Peter Farrelly",
      "category": "Writers",
-     "url": "stremio:///search?search=Duane%20Poole"
+     "url": "stremio:///search?search=Peter%20Farrelly"
     },
     {
-     "name": "Gary Yates",
+     "name": "Kevin Barnett",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kevin%20Barnett"
+    },
+    {
+     "name": "Bobby Farrelly",
      "category": "Directors",
-     "url": "stremio:///search?search=Gary%20Yates"
+     "url": "stremio:///search?search=Bobby%20Farrelly"
+    },
+    {
+     "name": "Peter Farrelly",
+     "category": "Directors",
+     "url": "stremio:///search?search=Peter%20Farrelly"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt15739902",
+    "defaultVideoId": "tt0480687",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15739902.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0480687.jpg"
   },
   {
-   "name": "Drive - The Pretenders",
-   "cast": [
-    "Jeanette Hain",
-    "Misel Maticevic",
-    "Philippe Brenninkmeyer"
-   ],
-   "country": "Germany",
-   "description": "Um jovem mecânico de carros de corrida finge um noivado com a estrela mais polémica do automobilismo — oficialmente, para proteger a sua reputação; secretamente, para se garantir uma oportunidade ao volante. Mas, depressa, a mentira ameaça destruir tudo — incluindo aquilo que já se tornou muito mais do que apenas um acordo.",
-   "director": [
-    "Sergej Moya"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "",
-   "released": "2026-10-28T00:00:00.000Z",
-   "writer": [
-    "Tamara Lush",
-    "Malina Nwabuonwor",
-    "Chris Silber"
-   ],
-   "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
-    {
-     "source": "-sV69CJwUwU",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt37180686/img",
-   "background": "https://images.metahub.space/background/medium/tt37180686/img",
-   "id": "tt37180686",
-   "genres": [
-    "Romance",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Drive - The Pretenders",
-     "ytId": "-sV69CJwUwU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Drive - The Pretenders",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/drive-the-pretenders-37180686"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Jeanette Hain",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeanette%20Hain"
-    },
-    {
-     "name": "Misel Maticevic",
-     "category": "Cast",
-     "url": "stremio:///search?search=Misel%20Maticevic"
-    },
-    {
-     "name": "Philippe Brenninkmeyer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Philippe%20Brenninkmeyer"
-    },
-    {
-     "name": "Tamara Lush",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tamara%20Lush"
-    },
-    {
-     "name": "Malina Nwabuonwor",
-     "category": "Writers",
-     "url": "stremio:///search?search=Malina%20Nwabuonwor"
-    },
-    {
-     "name": "Chris Silber",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Silber"
-    },
-    {
-     "name": "Sergej Moya",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sergej%20Moya"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37180686",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg"
-  },
-  {
-   "cast": [
-    "Jason Momoa",
-    "Patrick Wilson",
-    "Yahya Abdul-Mateen II"
-   ],
-   "country": "United States, United Kingdom, Canada, Australia, Iceland",
-   "description": "Tendo falhado em derrotar Aquaman da primeira vez, o Black Manta, ainda impulsionado pela necessidade de vingar a morte do seu pai, não poupará esforços para finalmente derrubar Aquaman. Desta vez, Black Manta está mais forte que nunca, empunhando o poder do mítico Tridente Negro, que liberta uma antiga e maligna força. Para o derrotar, Aquaman irá precisar do seu irmão aprisionado, Orm, o antigo Rei de Atlântida, para uma improvável aliança. Juntos, eles terão de deixar de lado as suas diferenças para proteger o reino, salvar a família de Aquaman e o mundo da destruição irreversível.",
-   "director": [
-    "James Wan"
-   ],
+   "name": "Kong: Skull Island",
+   "year": "2017",
+   "runtime": "118 min",
    "genre": [
     "Action",
     "Adventure",
     "Fantasy"
    ],
-   "imdbRating": "5.6",
-   "name": "Aquaman and the Lost Kingdom",
-   "released": "2023-12-22T00:00:00.000Z",
-   "writer": [
-    "David Leslie Johnson-McGoldrick",
-    "James Wan",
-    "Jason Momoa"
+   "released": "2017-03-10T00:00:00.000Z",
+   "director": [
+    "Jordan Vogt-Roberts"
    ],
-   "year": "2023",
+   "writer": [
+    "Dan Gilroy",
+    "Max Borenstein",
+    "Derek Connolly"
+   ],
+   "cast": [
+    "Tom Hiddleston",
+    "Samuel L. Jackson",
+    "Brie Larson"
+   ],
+   "imdbRating": "6.7",
+   "description": "Uma equipa de exploradores reúne-se na missão de explorar uma ilha desconhecida do Pacífico – com tanto de encantadora como de traiçoeira – alheios ao facto de estarem a entrar no território do mítico Kong.",
+   "country": "United States, China, Vietnam, India, Australia, Canada, United Kingdom, Singapore",
+   "awards": "Nominated for 1 Oscar. 1 win & 22 nominations total",
+   "dvdRelease": "2017-06-05T00:00:00.000Z",
    "trailers": [
     {
-     "source": "4cSkHPW-MPE",
+     "source": "dBLdPIp-BuY",
      "type": "Trailer"
     },
     {
-     "source": "UGc5Tzz19UY",
+     "source": "7EOTp_QPzY0",
+     "type": "Trailer"
+    },
+    {
+     "source": "44LdLqgOpjo",
+     "type": "Trailer"
+    },
+    {
+     "source": "FEGNZETcuAk",
+     "type": "Trailer"
+    },
+    {
+     "source": "YK5hbs4LOI8",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt9663764/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9663764/img",
-   "runtime": "124 min",
-   "awards": "1 win & 6 nominations total",
-   "dvdRelease": "2024-01-23T00:00:00.000Z",
-   "id": "tt9663764",
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fkong%3askullisland_194236%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fkong%3askullisland_194236%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.23/ImageRenderer/111/168/images/no_image_111x168.jpg/194236/images/masterrepository/fandango/194236/kongskullisland.jpg\" alt=\"Kong: Skull Island\" title=\"Kong: Skull Island\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fkong%3askullisland_194236%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r1.0.23//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fkong%3askullisland-trailer%2f194236%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
+   "background": "https://images.metahub.space/background/medium/tt3731562/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3731562/img",
+   "id": "tt3731562",
    "genres": [
     "Ação",
     "Aventura",
     "Fantasia"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Aquaman and the Lost Kingdom",
-     "ytId": "4cSkHPW-MPE"
+     "title": "Kong: Skull Island",
+     "ytId": "dBLdPIp-BuY"
     },
     {
-     "title": "Aquaman and the Lost Kingdom",
-     "ytId": "UGc5Tzz19UY"
+     "title": "Kong: Skull Island",
+     "ytId": "7EOTp_QPzY0"
+    },
+    {
+     "title": "Kong: Skull Island",
+     "ytId": "44LdLqgOpjo"
+    },
+    {
+     "title": "Kong: Skull Island",
+     "ytId": "FEGNZETcuAk"
+    },
+    {
+     "title": "Kong: Skull Island",
+     "ytId": "YK5hbs4LOI8"
     }
    ],
    "links": [
     {
-     "name": "5.6",
+     "name": "6.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9663764"
+     "url": "https://imdb.com/title/tt3731562"
     },
     {
-     "name": "Aquaman and the Lost Kingdom",
+     "name": "Kong: Skull Island",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/aquaman-and-the-lost-kingdom-9663764"
+     "url": "https://www.strem.io/s/movie/kong-skull-island-3731562"
     },
     {
      "name": "Action",
@@ -637,132 +1076,124 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
-     "name": "Jason Momoa",
+     "name": "Tom Hiddleston",
      "category": "Cast",
-     "url": "stremio:///search?search=Jason%20Momoa"
+     "url": "stremio:///search?search=Tom%20Hiddleston"
     },
     {
-     "name": "Patrick Wilson",
+     "name": "Samuel L. Jackson",
      "category": "Cast",
-     "url": "stremio:///search?search=Patrick%20Wilson"
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
     },
     {
-     "name": "Yahya Abdul-Mateen II",
+     "name": "Brie Larson",
      "category": "Cast",
-     "url": "stremio:///search?search=Yahya%20Abdul-Mateen%20II"
+     "url": "stremio:///search?search=Brie%20Larson"
     },
     {
-     "name": "David Leslie Johnson-McGoldrick",
+     "name": "Dan Gilroy",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20Leslie%20Johnson-McGoldrick"
+     "url": "stremio:///search?search=Dan%20Gilroy"
     },
     {
-     "name": "James Wan",
+     "name": "Max Borenstein",
      "category": "Writers",
-     "url": "stremio:///search?search=James%20Wan"
+     "url": "stremio:///search?search=Max%20Borenstein"
     },
     {
-     "name": "Jason Momoa",
+     "name": "Derek Connolly",
      "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Momoa"
+     "url": "stremio:///search?search=Derek%20Connolly"
     },
     {
-     "name": "James Wan",
+     "name": "Jordan Vogt-Roberts",
      "category": "Directors",
-     "url": "stremio:///search?search=James%20Wan"
+     "url": "stremio:///search?search=Jordan%20Vogt-Roberts"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt9663764",
+    "defaultVideoId": "tt3731562",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9663764.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3731562.jpg"
   },
   {
-   "awards": "Won 6 Oscars. 246 wins & 240 nominations total",
    "cast": [
-    "Tom Hardy",
-    "Charlize Theron",
-    "Nicholas Hoult"
+    "Felicity Jones",
+    "Eddie Redmayne",
+    "Himesh Patel"
    ],
-   "country": "Australia, United States",
-   "description": "Perseguido pelo seu turbulento passado, Mad Max acredita que a melhor forma de sobreviver é não depender de mais ninguém para além de si próprio. Ainda assim, acaba por se juntar a um grupo de rebeldes que atravessa a Wasteland, numa máquina de guerra conduzida por uma Imperatriz de elite, Furiosa. Este bando está em fuga de uma Cidadela tiranizada por Immortan Joe, a quem algo insubstituível foi roubado. Exasperado com a sua perda, o Senhor da Guerra reúne o seu letal gang e inicia uma impiedosa perseguição aos rebeldes e a mais implacável Guerra na Estrada de sempre.",
+   "country": "United Kingdom, United States",
+   "description": "Londres, 1862. James Glaisher, um jovem cientista que deseja desesperadamente ser levado a sério, junta-se a Amelia Wren, piloto de balão de ar quente, para uma viagem única. O voo deles cumprirá o duplo objetivo de quebrar o recorde de altitude e de ajudar James a reunir dados que permitam comprovar as suas controversas teorias sobre a previsão do tempo. Mas à medida que a dupla de aeronautas for subindo até alturas onde nenhum Homem chegou antes, o ar fica mais rarefeito e mais frio, impondo-se decisões difíceis, das quais dependerá a continuidade da viagem e a sobrevivência dos dois aventureiros.",
    "director": [
-    "George Miller"
+    "Tom Harper"
    ],
-   "dvdRelease": "2016-08-10T00:00:00.000Z",
    "genre": [
     "Action",
     "Adventure",
-    "Sci-Fi"
+    "Drama"
    ],
-   "imdbRating": "8.1",
-   "name": "Mad Max: Fury Road",
-   "released": "2015-05-15T00:00:00.000Z",
-   "runtime": "121 min",
+   "imdbRating": "6.6",
+   "name": "The Aeronauts",
+   "released": "2019-12-20T00:00:00.000Z",
+   "writer": [
+    "Richard Holmes",
+    "Tom Harper",
+    "Jack Thorne"
+   ],
+   "year": "2019",
    "trailers": [
     {
-     "source": "MonFNCgK4WE",
+     "source": "QBQYHz6skJ0",
      "type": "Trailer"
     },
     {
-     "source": "hEJnMQG9ev8",
+     "source": "vmsBuG1eY8w",
      "type": "Trailer"
     },
     {
-     "source": "YWNWi-ZWL3c",
-     "type": "Trailer"
-    },
-    {
-     "source": "akX3Is3qBpw",
+     "source": "Rm4VnwCtQO8",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "George Miller",
-    "Brendan McCarthy",
-    "Nick Lathouris"
-   ],
-   "year": "2015",
-   "background": "https://images.metahub.space/background/medium/tt1392190/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1392190/img",
-   "id": "tt1392190",
+   "dvdRelease": "2019-12-19T00:00:00.000Z",
+   "runtime": "100 min",
+   "background": "https://images.metahub.space/background/medium/tt6141246/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6141246/img",
+   "awards": "11 nominations total",
+   "id": "tt6141246",
    "genres": [
-    "Ação",
     "Aventura",
-    "Ficção científica"
+    "Drama",
+    "Romance"
    ],
-   "releaseInfo": "2015",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "Mad Max: Fury Road",
-     "ytId": "MonFNCgK4WE"
+     "title": "The Aeronauts",
+     "ytId": "QBQYHz6skJ0"
     },
     {
-     "title": "Mad Max: Fury Road",
-     "ytId": "hEJnMQG9ev8"
+     "title": "The Aeronauts",
+     "ytId": "vmsBuG1eY8w"
     },
     {
-     "title": "Mad Max: Fury Road",
-     "ytId": "YWNWi-ZWL3c"
-    },
-    {
-     "title": "Mad Max: Fury Road",
-     "ytId": "akX3Is3qBpw"
+     "title": "The Aeronauts",
+     "ytId": "Rm4VnwCtQO8"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "6.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1392190"
+     "url": "https://imdb.com/title/tt6141246"
     },
     {
-     "name": "Mad Max: Fury Road",
+     "name": "The Aeronauts",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/mad-max-fury-road-1392190"
+     "url": "https://www.strem.io/s/movie/the-aeronauts-6141246"
     },
     {
      "name": "Action",
@@ -775,408 +1206,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "Charlize Theron",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlize%20Theron"
-    },
-    {
-     "name": "Nicholas Hoult",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicholas%20Hoult"
-    },
-    {
-     "name": "George Miller",
-     "category": "Writers",
-     "url": "stremio:///search?search=George%20Miller"
-    },
-    {
-     "name": "Brendan McCarthy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brendan%20McCarthy"
-    },
-    {
-     "name": "Nick Lathouris",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Lathouris"
-    },
-    {
-     "name": "George Miller",
-     "category": "Directors",
-     "url": "stremio:///search?search=George%20Miller"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1392190",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1392190.jpg"
-  },
-  {
-   "name": "Wuthering Heights",
-   "cast": [
-    "Margot Robbie",
-    "Jacob Elordi",
-    "Hong Chau"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Durante uma visita a Liverpool, um agricultor abastado conhece Heathcliff, um rapaz órfão e totalmente abandonado à sua sorte, e decide trazê-lo consigo para fazer parte da sua família. Nos campos isolados de Yorkshire, em Inglaterra, o rapaz acaba por criar um elo especial com Cathy, a filha mais nova do agricultor. Mas, com o passar dos anos, a relação inocente entre as duas crianças transforma-se num amor obsessivo que acabará por conduzir toda a família à perdição.",
-   "director": [
-    "Emerald Fennell"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "6.1",
-   "released": "2026-02-13T00:00:00.000Z",
-   "writer": [
-    "Emily Brontë",
-    "Emerald Fennell"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt32897959/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32897959/img",
-   "trailers": [
-    {
-     "source": "HWFdeoeBNV0",
-     "type": "Trailer"
-    },
-    {
-     "source": "3fLCdIYShEQ",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "136 min",
-   "awards": "2 wins & 8 nominations total",
-   "id": "tt32897959",
-   "genres": [
-    "Romance",
-    "Drama",
-    "História"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Wuthering Heights",
-     "ytId": "HWFdeoeBNV0"
-    },
-    {
-     "title": "Wuthering Heights",
-     "ytId": "3fLCdIYShEQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32897959"
-    },
-    {
-     "name": "Wuthering Heights",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/wuthering-heights-32897959"
-    },
-    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Margot Robbie",
+     "name": "Felicity Jones",
      "category": "Cast",
-     "url": "stremio:///search?search=Margot%20Robbie"
+     "url": "stremio:///search?search=Felicity%20Jones"
     },
     {
-     "name": "Jacob Elordi",
+     "name": "Eddie Redmayne",
      "category": "Cast",
-     "url": "stremio:///search?search=Jacob%20Elordi"
+     "url": "stremio:///search?search=Eddie%20Redmayne"
     },
     {
-     "name": "Hong Chau",
+     "name": "Himesh Patel",
      "category": "Cast",
-     "url": "stremio:///search?search=Hong%20Chau"
+     "url": "stremio:///search?search=Himesh%20Patel"
     },
     {
-     "name": "Emily Brontë",
+     "name": "Richard Holmes",
      "category": "Writers",
-     "url": "stremio:///search?search=Emily%20Bront%C3%AB"
+     "url": "stremio:///search?search=Richard%20Holmes"
     },
     {
-     "name": "Emerald Fennell",
+     "name": "Tom Harper",
      "category": "Writers",
-     "url": "stremio:///search?search=Emerald%20Fennell"
+     "url": "stremio:///search?search=Tom%20Harper"
     },
     {
-     "name": "Emerald Fennell",
+     "name": "Jack Thorne",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jack%20Thorne"
+    },
+    {
+     "name": "Tom Harper",
      "category": "Directors",
-     "url": "stremio:///search?search=Emerald%20Fennell"
+     "url": "stremio:///search?search=Tom%20Harper"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt32897959",
+    "defaultVideoId": "tt6141246",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32897959.jpg"
-  },
-  {
-   "awards": "16 wins & 22 nominations total",
-   "cast": [
-    "Patrick Wilson",
-    "Vera Farmiga",
-    "Ron Livingston"
-   ],
-   "country": "United States",
-   "description": "Antes de Amityville, existia Harrisville. Em 1971, dois célebres investigadores do paranormal, Ed e Lorraine Warren, são chamados para ajudar uma família aterrorizada por uma obscura presença numa fazenda isolada. Forçados a confrontar uma entidade demoníaca poderosa, os Warren são apanhados no caso mais assustador das suas vidas.",
-   "director": [
-    "James Wan"
-   ],
-   "dvdRelease": "2013-10-08T00:00:00.000Z",
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "7.5",
-   "name": "The Conjuring",
-   "released": "2013-07-19T00:00:00.000Z",
-   "runtime": "112 min",
-   "trailers": [
-    {
-     "source": "k10ETZ41q5o",
-     "type": "Trailer"
-    },
-    {
-     "source": "Gb-jRz7HWqs",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Chad Hayes",
-    "Carey W. Hayes"
-   ],
-   "year": "2013",
-   "background": "https://images.metahub.space/background/medium/tt1457767/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1457767/img",
-   "id": "tt1457767",
-   "genres": [
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "2013",
-   "trailerStreams": [
-    {
-     "title": "The Conjuring",
-     "ytId": "k10ETZ41q5o"
-    },
-    {
-     "title": "The Conjuring",
-     "ytId": "Gb-jRz7HWqs"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1457767"
-    },
-    {
-     "name": "The Conjuring",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-conjuring-1457767"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Patrick Wilson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Patrick%20Wilson"
-    },
-    {
-     "name": "Vera Farmiga",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vera%20Farmiga"
-    },
-    {
-     "name": "Ron Livingston",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ron%20Livingston"
-    },
-    {
-     "name": "Chad Hayes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chad%20Hayes"
-    },
-    {
-     "name": "Carey W. Hayes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Carey%20W.%20Hayes"
-    },
-    {
-     "name": "James Wan",
-     "category": "Directors",
-     "url": "stremio:///search?search=James%20Wan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1457767",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1457767.jpg"
-  },
-  {
-   "awards": "5 wins & 23 nominations total",
-   "cast": [
-    "Steve Carell",
-    "Ryan Gosling",
-    "Julianne Moore"
-   ],
-   "country": "United States",
-   "description": "A vida de um homem de meia idade muda drasticamente quando a mulher lhe pede o divórcio. Vai então procurar redescobrir a sua masculinidade com a ajuda de Jacob, um amigo recente, que o vai ensinar a engatar mulheres em bares.",
-   "director": [
-    "Glenn Ficarra",
-    "John Requa"
-   ],
-   "dvdRelease": "2016-04-13T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.4",
-   "name": "Crazy, Stupid, Love.",
-   "released": "2011-07-29T00:00:00.000Z",
-   "runtime": "118 min",
-   "trailers": [
-    {
-     "source": "W7U03cW7k-Y",
-     "type": "Trailer"
-    },
-    {
-     "source": "flvz5RMRx7E",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Dan Fogelman"
-   ],
-   "year": "2011",
-   "background": "https://images.metahub.space/background/medium/tt1570728/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1570728/img",
-   "id": "tt1570728",
-   "genres": [
-    "Comédia",
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "2011",
-   "trailerStreams": [
-    {
-     "title": "Crazy, Stupid, Love.",
-     "ytId": "W7U03cW7k-Y"
-    },
-    {
-     "title": "Crazy, Stupid, Love.",
-     "ytId": "flvz5RMRx7E"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1570728"
-    },
-    {
-     "name": "Crazy, Stupid, Love.",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/crazy-stupid-love-1570728"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Steve Carell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Steve%20Carell"
-    },
-    {
-     "name": "Ryan Gosling",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Gosling"
-    },
-    {
-     "name": "Julianne Moore",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julianne%20Moore"
-    },
-    {
-     "name": "Dan Fogelman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dan%20Fogelman"
-    },
-    {
-     "name": "Glenn Ficarra",
-     "category": "Directors",
-     "url": "stremio:///search?search=Glenn%20Ficarra"
-    },
-    {
-     "name": "John Requa",
-     "category": "Directors",
-     "url": "stremio:///search?search=John%20Requa"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1570728",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1570728.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6141246.jpg"
   }
  ]
 }

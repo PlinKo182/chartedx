@@ -5,58 +5,13 @@
   "genre": false
  },
  {
-  "shortName": "gcrm",
-  "name": "Crime",
+  "shortName": "gscf",
+  "name": "Ficção Científica",
   "genre": true
  },
  {
-  "shortName": "gmsc",
-  "name": "Música & Musical",
-  "genre": true
- },
- {
-  "shortName": "grma",
-  "name": "Romance",
-  "genre": true
- },
- {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
-  "genre": true
- },
- {
-  "shortName": "gwsn",
-  "name": "Western",
-  "genre": true
- },
- {
-  "shortName": "grly",
-  "name": "Reality TV",
-  "genre": true
- },
- {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
-  "genre": true
- },
- {
-  "shortName": "gfml",
-  "name": "Família",
-  "genre": true
- },
- {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
-  "genre": true
- },
- {
-  "shortName": "geur",
-  "name": "Europeu",
-  "genre": true
- },
- {
-  "shortName": "gdoc",
-  "name": "Documentário",
+  "shortName": "gdrm",
+  "name": "Drama",
   "genre": true
  },
  {
@@ -65,8 +20,18 @@
   "genre": true
  },
  {
+  "shortName": "gfml",
+  "name": "Família",
+  "genre": true
+ },
+ {
   "shortName": "ghrr",
   "name": "Terror",
+  "genre": true
+ },
+ {
+  "shortName": "gmsc",
+  "name": "Música & Musical",
   "genre": true
  },
  {
@@ -75,8 +40,8 @@
   "genre": true
  },
  {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
+  "shortName": "gact",
+  "name": "Ação & Aventura",
   "genre": true
  },
  {
@@ -90,13 +55,48 @@
   "genre": true
  },
  {
-  "shortName": "gdrm",
-  "name": "Drama",
+  "shortName": "gcrm",
+  "name": "Crime",
+  "genre": true
+ },
+ {
+  "shortName": "grma",
+  "name": "Romance",
+  "genre": true
+ },
+ {
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
+  "genre": true
+ },
+ {
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
+  "genre": true
+ },
+ {
+  "shortName": "grly",
+  "name": "Reality TV",
+  "genre": true
+ },
+ {
+  "shortName": "gdoc",
+  "name": "Documentário",
   "genre": true
  },
  {
   "shortName": "gfnt",
   "name": "Fantasia",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
   "genre": true
  }
 ]
