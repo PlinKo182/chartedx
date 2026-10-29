@@ -155,16 +155,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
-   "id": "tt36057363",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "name": "Cozy Fireplace",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
-  },
-  {
    "id": "tt46027225",
    "behaviorHints": {
     "hasScheduledVideos": false
@@ -182,6 +172,16 @@
     "Documentário"
    ],
    "imdbRating": "6.6"
+  },
+  {
+   "id": "tt36057363",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "name": "Cozy Fireplace",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
   },
   {
    "id": "tt49164308",
@@ -542,94 +542,103 @@
    "imdbRating": "6.7"
   },
   {
-   "id": "tt6963278",
-   "logo": "https://live.metahub.space/logo/medium/tt6963278/img",
-   "background": "https://live.metahub.space/background/medium/tt6963278/img",
-   "name": "Sense8: Creating the World",
-   "description": "Visite os bastidores de “Sense8” com os atores e produtores para saber mais sobre a produção desta série de sucesso.",
+   "country": "United States",
+   "description": "Com uma nova invenção mágica que prometia revolucionar os testes de sangue, Elizabeth Holmes tornou-se a bilionária mais jovem do mundo, anunciada como o próximo Steve Jobs. Então, durante a noite, sua empresa de US $ 10 bilhões se dissolveu. A ascensão e queda de Theranos é uma janela para a psicologia da fraude.",
+   "director": [
+    "Alex Gibney"
+   ],
+   "imdbRating": "7.1",
+   "name": "The Inventor: Out for Blood in Silicon Valley",
+   "released": "2019-03-18T00:00:00.000Z",
+   "writer": [
+    "Alex Gibney"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "wtDaP18OGfw",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Alex Gibney",
+    "Elizabeth Holmes",
+    "Dan Ariely"
+   ],
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8488126/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
+   "runtime": "119 min",
+   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 3 nominations total",
+   "dvdRelease": "2019-11-18T00:00:00.000Z",
+   "id": "tt8488126",
    "genres": [
     "Documentário"
    ],
-   "releaseInfo": "2015",
-   "runtime": "25 min",
-   "trailers": [],
-   "cast": [
-    "Tuppence Middleton",
-    "Bae Doona",
-    "Brian J. Smith"
-   ],
-   "credits_cast": [
+   "releaseInfo": "2019",
+   "trailerStreams": [
     {
-     "character": "Riley Blue",
-     "name": "Tuppence Middleton",
-     "profile_path": "/rYmvH8IqHU1JzGw2FeggoY6QJdI.jpg",
-     "id": 89822
-    },
-    {
-     "character": "Sun Bak",
-     "name": "Bae Doona",
-     "profile_path": "/lCL08q20zkqHcLLLZQRlJfG09P4.jpg",
-     "id": 21688
-    },
-    {
-     "character": "Will Gorski",
-     "name": "Brian J. Smith",
-     "profile_path": "/sAlWlK9mtX9BVGFybx7wQ9SSzTp.jpg",
-     "id": 22541
-    },
-    {
-     "character": "Capheus",
-     "name": "Aml Ameen",
-     "profile_path": "/46V5p1lIsWu1A1nCiJAFJ5dOiPq.jpg",
-     "id": 78062
-    },
-    {
-     "character": "Nomi Marks",
-     "name": "Jamie Clayton",
-     "profile_path": "/5b5p7qq1Qy0emhEmKK7xJ7kfllj.jpg",
-     "id": 1440698
-    },
-    {
-     "character": "Wolfgang Bogdanovic",
-     "name": "Max Riemelt",
-     "profile_path": "/ocv67YrgSDo6uZepXtORJuv8oTx.jpg",
-     "id": 38773
-    },
-    {
-     "character": "Lito Rodriguez",
-     "name": "Miguel Ángel Silvestre",
-     "profile_path": "/ft14HqAFsvk0o2m5rOXrfYUI4KA.jpg",
-     "id": 121689
-    },
-    {
-     "character": "Kala Dandekar",
-     "name": "Tina Desai",
-     "profile_path": "/qgWNQup7v43INpgSe24WlGcSo0G.jpg",
-     "id": 1447782
+     "title": "The Inventor: Out for Blood in Silicon Valley",
+     "ytId": "wtDaP18OGfw"
     }
    ],
-   "credits_crew": [
+   "links": [
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Josh Oreck",
-     "profile_path": "/xnV0klNZRSNANY9JHoidOeUN4uz.jpg",
-     "id": 1063900
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8488126"
+    },
+    {
+     "name": "The Inventor: Out for Blood in Silicon Valley",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-inventor-out-for-blood-in-silicon-valley-8488126"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Elizabeth Holmes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elizabeth%20Holmes"
+    },
+    {
+     "name": "Dan Ariely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Ariely"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Gibney"
+    },
+    {
+     "name": "Alex Gibney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Gibney"
     }
    ],
-   "director": [
-    "Josh Oreck"
-   ],
-   "imdbRating": "8.5",
-   "language": "English",
-   "country": "United States",
    "behaviorHints": {
-    "defaultVideoId": "tt6963278",
+    "defaultVideoId": "tt8488126",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6963278.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
   }
  ]
 }

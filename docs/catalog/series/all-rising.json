@@ -1,77 +1,72 @@
 {
  "metas": [
   {
-   "awards": "Won 8 Primetime Emmys. 36 wins & 44 nominations total",
+   "id": "tt38516913",
+   "type": "series",
+   "name": "The Pacific",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38516913.jpg"
+  },
+  {
+   "awards": "Won 7 Primetime Emmys. 48 wins & 166 nominations total",
    "cast": [
-    "James Badge Dale",
-    "Joseph Mazzello",
-    "Jon Seda"
+    "Sarah Jessica Parker",
+    "Kim Cattrall",
+    "Kristin Davis"
    ],
-   "country": "United States, Australia",
-   "description": "O Teatro do Pacífico da Segunda Guerra Mundial, visto através dos olhos de vários jovens fuzileiros.",
+   "country": "United States",
+   "description": "Conta a história de quatro amigas: Carrie que escreve uma coluna sobre relações amorosas; Samantha, que está mais interessada em encontros de uma noite do que relações a longo prazo; Miranda, a advogada ambiciosa e Charlotte, a eterna romântica.",
    "director": null,
    "dvdRelease": null,
    "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "8.3",
-   "name": "The Pacific",
-   "released": "2010-03-14T00:00:00.000Z",
-   "runtime": "530 min",
+   "imdbRating": "7.4",
+   "name": "Sex and the City",
+   "released": "1998-06-06T00:00:00.000Z",
+   "runtime": "31S min",
+   "status": "Ended",
+   "writer": [
+    "Darren Star"
+   ],
+   "year": "1998–2004",
+   "logo": "https://images.metahub.space/logo/medium/tt0159206/img",
+   "background": "https://images.metahub.space/background/medium/tt0159206/img",
    "trailers": [
     {
-     "source": "e99B80crU3E",
-     "type": "Trailer"
-    },
-    {
-     "source": "yneubg7c_D0",
+     "source": "b58gZlXm2yI",
      "type": "Trailer"
     }
    ],
-   "writer": null,
-   "year": "2010",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt0374463/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0374463/img",
-   "id": "tt0374463",
+   "id": "tt0159206",
    "genres": [
     "Drama",
-    "Action & Adventure",
-    "War & Politics"
+    "Comédia"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "1998",
    "trailerStreams": [
     {
-     "title": "The Pacific",
-     "ytId": "e99B80crU3E"
-    },
-    {
-     "title": "The Pacific",
-     "ytId": "yneubg7c_D0"
+     "title": "Sex and the City",
+     "ytId": "b58gZlXm2yI"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0374463"
+     "url": "https://imdb.com/title/tt0159206"
     },
     {
-     "name": "The Pacific",
+     "name": "Sex and the City",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-pacific-0374463"
+     "url": "https://www.strem.io/s/series/sex-and-the-city-0159206"
     },
     {
-     "name": "Action",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
      "name": "Drama",
@@ -79,19 +74,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "James Badge Dale",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20Badge%20Dale"
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Joseph Mazzello",
+     "name": "Sarah Jessica Parker",
      "category": "Cast",
-     "url": "stremio:///search?search=Joseph%20Mazzello"
+     "url": "stremio:///search?search=Sarah%20Jessica%20Parker"
     },
     {
-     "name": "Jon Seda",
+     "name": "Kim Cattrall",
      "category": "Cast",
-     "url": "stremio:///search?search=Jon%20Seda"
+     "url": "stremio:///search?search=Kim%20Cattrall"
+    },
+    {
+     "name": "Kristin Davis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristin%20Davis"
+    },
+    {
+     "name": "Darren Star",
+     "category": "Writers",
+     "url": "stremio:///search?search=Darren%20Star"
     }
    ],
    "behaviorHints": {
@@ -100,7 +105,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0374463.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0159206.jpg"
   },
   {
    "id": "tt38937897",
@@ -195,11 +200,228 @@
    "imdbRating": "8.0"
   },
   {
-   "id": "tt43702898",
+   "awards": "Won 5 Primetime Emmys. 14 wins & 44 nominations total",
+   "cast": [
+    "Riz Ahmed",
+    "John Turturro",
+    "Bill Camp"
+   ],
+   "country": "United States",
+   "description": "Uma série centrada na investigação de um homicídio em Nova Iorque. A história acompanha a investigação policial, os procedimentos legais, o sistema de justiça criminal e o purgatório da Rikers Island onde o acusado aguarda julgamento.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.4",
+   "name": "The Night Of",
+   "released": "2016-06-24T00:00:00.000Z",
+   "runtime": "66 min",
+   "status": "Ended",
+   "writer": [
+    "Richard Price",
+    "Steven Zaillian"
+   ],
+   "year": "2016",
+   "background": "https://images.metahub.space/background/medium/tt2401256/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2401256/img",
+   "trailers": [
+    {
+     "source": "556N5vojtp0",
+     "type": "Trailer"
+    },
+    {
+     "source": "Z5uv7_ysu9M",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt2401256",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "The Night Of",
+     "ytId": "556N5vojtp0"
+    },
+    {
+     "title": "The Night Of",
+     "ytId": "Z5uv7_ysu9M"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2401256"
+    },
+    {
+     "name": "The Night Of",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-night-of-2401256"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Riz Ahmed",
+     "category": "Cast",
+     "url": "stremio:///search?search=Riz%20Ahmed"
+    },
+    {
+     "name": "John Turturro",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Turturro"
+    },
+    {
+     "name": "Bill Camp",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bill%20Camp"
+    },
+    {
+     "name": "Richard Price",
+     "category": "Writers",
+     "url": "stremio:///search?search=Richard%20Price"
+    },
+    {
+     "name": "Steven Zaillian",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Zaillian"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
    "type": "series",
-   "name": "Fallout",
    "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt43702898/img"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2401256.jpg"
+  },
+  {
+   "id": "tt27517632",
+   "logo": "https://live.metahub.space/logo/medium/tt27517632/img",
+   "background": "https://live.metahub.space/background/medium/tt27517632/img",
+   "name": "Benefits with Friends",
+   "description": "Numa vida cheia de surpresas, a amizade de Bia e Victor é um lugar seguro.",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2024",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "wUCe7l_qCyM",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Bruna Marquezine",
+    "Sergio Malheiros",
+    "Danilo Mesquita"
+   ],
+   "credits_cast": [
+    {
+     "character": "Bia",
+     "name": "Bruna Marquezine",
+     "profile_path": "/mGDhenXwsFRaaz1PjbJjDkn2snc.jpg",
+     "id": 1622590
+    },
+    {
+     "character": "Victor",
+     "name": "Sergio Malheiros",
+     "profile_path": "/3ID2DCcxkV9U9NUuGvADEuN6ZlD.jpg",
+     "id": 1527087
+    },
+    {
+     "character": "Marcelo",
+     "name": "Danilo Mesquita",
+     "profile_path": "/6XjeYSbliKVpyIocKctKWWRKi1E.jpg",
+     "id": 2244684
+    },
+    {
+     "character": "Giovana",
+     "name": "Alanis Guillen",
+     "profile_path": "/rxQO1zfEQWufJRg7byKTEzifPXL.jpg",
+     "id": 2379200
+    },
+    {
+     "character": "",
+     "name": "Romulo Estrela",
+     "profile_path": "/2DJbEfF7fNUhSnfqu7Pdj9vFxS2.jpg",
+     "id": 1695830
+    },
+    {
+     "character": "Richard",
+     "name": "Davi Xiang Li",
+     "profile_path": null,
+     "id": 4953404
+    },
+    {
+     "character": "",
+     "name": "Maria Ribeiro",
+     "profile_path": "/uZrnxHCFUqL4EY5KkWszHcgtKOs.jpg",
+     "id": 12397
+    },
+    {
+     "character": "",
+     "name": "Clarice Falcão",
+     "profile_path": "/4cOLYSKaV62kIWy0AAvwGnR0ogN.jpg",
+     "id": 1262710
+    },
+    {
+     "character": "",
+     "name": "Sophia Abrahão",
+     "profile_path": "/mGoe8j9LZ752nCzgm5Sau2tcvxm.jpg",
+     "id": 1245036
+    },
+    {
+     "character": "",
+     "name": "Hugo Bonemer",
+     "profile_path": "/oqATN43ND3CGgWyz1KEGErOXnxH.jpg",
+     "id": 1898677
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "René Sampaio",
+     "profile_path": "/su5gcK3qv0XSBVscfnxjuMqZCph.jpg",
+     "id": 1176212
+    }
+   ],
+   "director": [
+    "René Sampaio"
+   ],
+   "imdbRating": "7.0",
+   "language": "Portuguese",
+   "country": "Brazil",
+   "awards": "7 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27517632.jpg"
   },
   {
    "cast": [
@@ -309,56 +531,79 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1190634.jpg"
   },
   {
-   "name": "Marianne",
-   "cast": [
-    "Victoire Du Bois",
-    "Lucie Boujenah",
-    "Tiphaine Daviot"
-   ],
-   "country": "France",
+   "id": "tt43702898",
+   "type": "series",
+   "name": "Fallout",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt43702898/img"
+  },
+  {
+   "name": "Fleabag",
+   "year": "2016–2019",
+   "runtime": "25 min",
    "genre": [
-    "Drama",
-    "Horror",
-    "Mystery"
+    "Comedy",
+    "Drama"
    ],
-   "imdbRating": "7.3",
-   "released": "2019-09-13T00:00:00.000Z",
-   "year": "2019",
+   "released": "2016-09-16T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Phoebe Waller-Bridge"
+   ],
+   "cast": [
+    "Phoebe Waller-Bridge",
+    "Sian Clifford",
+    "Olivia Colman"
+   ],
+   "imdbRating": "8.7",
+   "description": "Uma mulher autêntica que tenta retomar sua vida, enquanto rejeita a ajuda de qualquer um que tente se manter ao seu lado durante a sua crise.",
+   "country": "United Kingdom",
+   "awards": "Won 6 Primetime Emmys. 70 wins & 71 nominations total",
+   "dvdRelease": null,
    "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt10875696/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10875696/img",
-   "description": "Uma famosa escritora de histórias de terror regressa à sua terra natal, onde descobre que o espírito maligno que vê nos seus sonhos afinal também existe no mundo real.",
-   "runtime": "45 min",
-   "awards": "2 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt5687612/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5687612/img",
    "trailers": [
     {
-     "source": "q99hib0zS2M",
+     "source": "aX2ViKQFL_k",
+     "type": "Trailer"
+    },
+    {
+     "source": "I5Uv6cb9YRs",
      "type": "Trailer"
     }
    ],
-   "id": "tt10875696",
+   "id": "tt5687612",
    "genres": [
-    "Mistério"
+    "Comédia",
+    "Drama"
    ],
-   "releaseInfo": "2019",
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "Marianne",
-     "ytId": "q99hib0zS2M"
+     "title": "Fleabag",
+     "ytId": "aX2ViKQFL_k"
+    },
+    {
+     "title": "Fleabag",
+     "ytId": "I5Uv6cb9YRs"
     }
    ],
    "links": [
     {
-     "name": "7.3",
+     "name": "8.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10875696"
+     "url": "https://imdb.com/title/tt5687612"
     },
     {
-     "name": "Marianne",
+     "name": "Fleabag",
      "category": "share",
-     "url": "https://www.strem.io/s/series/marianne-10875696"
+     "url": "https://www.strem.io/s/series/fleabag-5687612"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
      "name": "Drama",
@@ -366,29 +611,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Victoire Du Bois",
+     "name": "Phoebe Waller-Bridge",
      "category": "Cast",
-     "url": "stremio:///search?search=Victoire%20Du%20Bois"
+     "url": "stremio:///search?search=Phoebe%20Waller-Bridge"
     },
     {
-     "name": "Lucie Boujenah",
+     "name": "Sian Clifford",
      "category": "Cast",
-     "url": "stremio:///search?search=Lucie%20Boujenah"
+     "url": "stremio:///search?search=Sian%20Clifford"
     },
     {
-     "name": "Tiphaine Daviot",
+     "name": "Olivia Colman",
      "category": "Cast",
-     "url": "stremio:///search?search=Tiphaine%20Daviot"
+     "url": "stremio:///search?search=Olivia%20Colman"
+    },
+    {
+     "name": "Phoebe Waller-Bridge",
+     "category": "Writers",
+     "url": "stremio:///search?search=Phoebe%20Waller-Bridge"
     }
    ],
    "behaviorHints": {
@@ -397,244 +637,76 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10875696.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5687612.jpg"
   },
   {
-   "country": "Canada, United States",
-   "description": "Com seus ensinamentos e milagres, Jesus de Nazaré atrai seguidores e discípulos de todas as origens. E as autoridades romanas estão em estado de alerta.",
+   "name": "The Apothecary Diaries",
+   "cast": [
+    "Aoi Yûki",
+    "Emi Lo",
+    "Takeo Otsuka"
+   ],
+   "country": "Japan",
+   "description": "Maomao levava uma vida tranquila ao lado de seu pai, um boticário renomado. No entanto, sua vida muda da noite pro dia quando ela é vendida como uma simples serva no palácio do imperador. Incapaz de se adaptar à vida na realeza, Maomao decide tomar medidas drásticas quando os herdeiros imperiais adoecem, embarcando numa missão para encontrar a cura. Sua audácia chama a atenção de Jinshi, um belo funcionário do palácio que decide apoiá-la. Agora, Maomao se envolve em intrigas médicas enquanto sua fama se espalha pelos corredores do palácio!",
    "genre": [
-    "Biography",
+    "Animation",
     "Drama",
     "History"
    ],
-   "imdbRating": "9.1",
-   "name": "The Chosen",
-   "released": "2019-04-21T00:00:00.000Z",
-   "year": "2017–",
-   "status": "Continuing",
-   "runtime": "58 min",
-   "cast": [
-    "Elizabeth Tabish",
-    "George H. Xanthis",
-    "Shahar Isaac"
-   ],
-   "director": [],
-   "writer": [
-    "Dallas Jenkins"
-   ],
+   "imdbRating": "8.6",
+   "released": "2023-10-21T00:00:00.000Z",
+   "year": "2023–",
    "trailers": [
     {
-     "source": "5CVj41dtkIA",
+     "source": "3lfb_KeqdEM",
      "type": "Trailer"
     },
     {
-     "source": "NrMNBwq9BX4",
-     "type": "Trailer"
-    },
-    {
-     "source": "Ppdy563SahA",
-     "type": "Trailer"
-    },
-    {
-     "source": "HtrtlP7WPX8",
-     "type": "Trailer"
-    },
-    {
-     "source": "h3rdKJ34ofc",
-     "type": "Trailer"
-    },
-    {
-     "source": "rzW33vJGslo",
-     "type": "Trailer"
-    },
-    {
-     "source": "XeOcSAGyUHs",
-     "type": "Trailer"
-    },
-    {
-     "source": "8wQd0z4_QKA",
-     "type": "Trailer"
-    },
-    {
-     "source": "QSHhJpG2-Xg",
-     "type": "Trailer"
-    },
-    {
-     "source": "3NgjDVItTVQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "Bn_5uH5kUAU",
-     "type": "Trailer"
-    },
-    {
-     "source": "sepQGPzT7Kw",
-     "type": "Trailer"
-    },
-    {
-     "source": "mkobAqU1OUk",
-     "type": "Trailer"
-    },
-    {
-     "source": "wisX-CEjoxc",
-     "type": "Trailer"
-    },
-    {
-     "source": "OzbnoMVQAzg",
-     "type": "Trailer"
-    },
-    {
-     "source": "377bA3KAcF8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nheJmQ6uYQY",
-     "type": "Trailer"
-    },
-    {
-     "source": "Y7z868kEl5s",
-     "type": "Trailer"
-    },
-    {
-     "source": "FzwUnb5l0WI",
-     "type": "Trailer"
-    },
-    {
-     "source": "X-AJdKty74M",
-     "type": "Trailer"
-    },
-    {
-     "source": "J_8JGUa64Gc",
-     "type": "Trailer"
-    },
-    {
-     "source": "cZQn-LHGQSc",
-     "type": "Trailer"
-    },
-    {
-     "source": "K1-FoFj8Jbo",
+     "source": "XYNGkSvFT8c",
      "type": "Trailer"
     }
    ],
-   "awards": "7 wins & 6 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt5622316/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5622316/img",
-   "id": "tt5622316",
-   "genres": [
-    "Action & Adventure",
-    "Família",
-    "Drama"
+   "director": [],
+   "writer": [
+    "Natsu Hyûga"
    ],
-   "releaseInfo": "2019",
+   "runtime": "24 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt26743760/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26743760/img",
+   "awards": "24 wins & 53 nominations total",
+   "id": "tt26743760",
+   "genres": [
+    "Animação",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "The Chosen",
-     "ytId": "5CVj41dtkIA"
+     "title": "The Apothecary Diaries",
+     "ytId": "3lfb_KeqdEM"
     },
     {
-     "title": "The Chosen",
-     "ytId": "NrMNBwq9BX4"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "Ppdy563SahA"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "HtrtlP7WPX8"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "h3rdKJ34ofc"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "rzW33vJGslo"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "XeOcSAGyUHs"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "8wQd0z4_QKA"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "QSHhJpG2-Xg"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "3NgjDVItTVQ"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "Bn_5uH5kUAU"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "sepQGPzT7Kw"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "mkobAqU1OUk"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "wisX-CEjoxc"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "OzbnoMVQAzg"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "377bA3KAcF8"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "nheJmQ6uYQY"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "Y7z868kEl5s"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "FzwUnb5l0WI"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "X-AJdKty74M"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "J_8JGUa64Gc"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "cZQn-LHGQSc"
-    },
-    {
-     "title": "The Chosen",
-     "ytId": "K1-FoFj8Jbo"
+     "title": "The Apothecary Diaries",
+     "ytId": "XYNGkSvFT8c"
     }
    ],
    "links": [
     {
-     "name": "9.1",
+     "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt5622316"
+     "url": "https://imdb.com/title/tt26743760"
     },
     {
-     "name": "The Chosen",
+     "name": "The Apothecary Diaries",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-chosen-5622316"
+     "url": "https://www.strem.io/s/series/the-apothecary-diaries-26743760"
     },
     {
-     "name": "Biography",
+     "name": "Animation",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Drama",
@@ -647,24 +719,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Elizabeth Tabish",
+     "name": "Aoi Yûki",
      "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Tabish"
+     "url": "stremio:///search?search=Aoi%20Y%C3%BBki"
     },
     {
-     "name": "George H. Xanthis",
+     "name": "Emi Lo",
      "category": "Cast",
-     "url": "stremio:///search?search=George%20H.%20Xanthis"
+     "url": "stremio:///search?search=Emi%20Lo"
     },
     {
-     "name": "Shahar Isaac",
+     "name": "Takeo Otsuka",
      "category": "Cast",
-     "url": "stremio:///search?search=Shahar%20Isaac"
+     "url": "stremio:///search?search=Takeo%20Otsuka"
     },
     {
-     "name": "Dallas Jenkins",
+     "name": "Natsu Hyûga",
      "category": "Writers",
-     "url": "stremio:///search?search=Dallas%20Jenkins"
+     "url": "stremio:///search?search=Natsu%20Hy%C3%BBga"
     }
    ],
    "behaviorHints": {
@@ -673,74 +745,69 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5622316.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743760.jpg"
   },
   {
-   "name": "Outer Banks",
+   "awards": "Nominated for 1 Primetime Emmy. 8 wins & 32 nominations total",
    "cast": [
-    "Chase Stokes",
-    "Madelyn Cline",
-    "Madison Bailey"
+    "Dominic Purcell",
+    "Wentworth Miller",
+    "Amaury Nolasco"
    ],
    "country": "United States",
-   "description": "Numa ilha de ricos e pobres da Carolina do Norte, John B e o seu grupo coeso de amigos encontram mistério e aventura numa caça ao tesouro perdido.",
+   "description": "Quando o seu irmão é condenado por um assassinato que não cometeu, Michael Scofield decide tirá-lo da prisão. Mas não pela porta de frente.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
     "Action",
-    "Adventure",
-    "Crime"
+    "Crime",
+    "Drama"
    ],
-   "imdbRating": "7.5",
-   "released": "2020-04-15T00:00:00.000Z",
-   "writer": [
-    "Shannon Burke",
-    "Jonas Pate",
-    "Josh Pate"
-   ],
-   "year": "2020–2026",
+   "imdbRating": "8.3",
+   "name": "Prison Break",
+   "released": "2005-08-29T00:00:00.000Z",
+   "runtime": "45 min",
    "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt10293938/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10293938/img",
-   "runtime": "51 min",
-   "awards": "5 wins & 11 nominations total",
+   "writer": [
+    "Paul T. Scheuring"
+   ],
+   "year": "2005–2017",
+   "background": "https://images.metahub.space/background/medium/tt0455275/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0455275/img",
    "trailers": [
     {
-     "source": "pfY3j-3uQhk",
+     "source": "AL9zLctDJaU",
      "type": "Trailer"
     }
    ],
-   "id": "tt10293938",
+   "id": "tt0455275",
    "genres": [
     "Action & Adventure",
-    "Mistério"
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2005",
    "trailerStreams": [
     {
-     "title": "Outer Banks",
-     "ytId": "pfY3j-3uQhk"
+     "title": "Prison Break",
+     "ytId": "AL9zLctDJaU"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10293938"
+     "url": "https://imdb.com/title/tt0455275"
     },
     {
-     "name": "Outer Banks",
+     "name": "Prison Break",
      "category": "share",
-     "url": "https://www.strem.io/s/series/outer-banks-10293938"
+     "url": "https://www.strem.io/s/series/prison-break-0455275"
     },
     {
      "name": "Action",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
      "name": "Crime",
@@ -748,235 +815,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Chase Stokes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chase%20Stokes"
-    },
-    {
-     "name": "Madelyn Cline",
-     "category": "Cast",
-     "url": "stremio:///search?search=Madelyn%20Cline"
-    },
-    {
-     "name": "Madison Bailey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Madison%20Bailey"
-    },
-    {
-     "name": "Shannon Burke",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shannon%20Burke"
-    },
-    {
-     "name": "Jonas Pate",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonas%20Pate"
-    },
-    {
-     "name": "Josh Pate",
-     "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Pate"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10293938.jpg"
-  },
-  {
-   "awards": "Won 2 Primetime Emmys. 18 wins & 41 nominations total",
-   "cast": [
-    "Chris Parnell",
-    "Spencer Grammer",
-    "Sarah Chalke"
-   ],
-   "country": "United States",
-   "description": "O brilhante e alcoólico cientista Rick \"rapta\" o seu neto adolescente, Morty, para viagens loucas em outros mundos e dimensões alternativas.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "9.0",
-   "name": "Rick and Morty",
-   "released": "2013-12-02T00:00:00.000Z",
-   "runtime": "22 min",
-   "status": "Continuing",
-   "writer": [
-    "Dan Harmon",
-    "Justin Roiland"
-   ],
-   "year": "2013–",
-   "background": "https://images.metahub.space/background/medium/tt2861424/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2861424/img",
-   "trailers": [
-    {
-     "source": "WNhH00OIPP0",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt2861424",
-   "genres": [
-    "Animação",
-    "Comédia",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2013",
-   "trailerStreams": [
-    {
-     "title": "Rick and Morty",
-     "ytId": "WNhH00OIPP0"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2861424"
-    },
-    {
-     "name": "Rick and Morty",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/rick-and-morty-2861424"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Chris Parnell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Parnell"
-    },
-    {
-     "name": "Spencer Grammer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Spencer%20Grammer"
-    },
-    {
-     "name": "Sarah Chalke",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sarah%20Chalke"
-    },
-    {
-     "name": "Dan Harmon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dan%20Harmon"
-    },
-    {
-     "name": "Justin Roiland",
-     "category": "Writers",
-     "url": "stremio:///search?search=Justin%20Roiland"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2861424.jpg"
-  },
-  {
-   "name": "The Last of Us",
-   "year": "2023–",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "released": "2023-01-15T00:00:00.000Z",
-   "writer": [
-    "Neil Druckmann",
-    "Craig Mazin"
-   ],
-   "cast": [
-    "Bella Ramsey",
-    "Pedro Pascal",
-    "Gabriel Luna"
-   ],
-   "imdbRating": "8.4",
-   "description": "Após uma pandemia destruir a civilização, um sobrevivente toma conta de uma rapariga de 14 anos que pode ser a última esperança da humanidade.",
-   "country": "Canada, United States",
-   "trailers": [],
-   "director": [],
-   "status": "Continuing",
-   "awards": "Won 9 Primetime Emmys. 110 wins & 208 nominations total",
-   "runtime": "56 min",
-   "background": "https://images.metahub.space/background/medium/tt3581920/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3581920/img",
-   "id": "tt3581920",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt3581920"
-    },
-    {
-     "name": "The Last of Us",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-last-of-us-3581920"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Bella Ramsey",
+     "name": "Dominic Purcell",
      "category": "Cast",
-     "url": "stremio:///search?search=Bella%20Ramsey"
+     "url": "stremio:///search?search=Dominic%20Purcell"
     },
     {
-     "name": "Pedro Pascal",
+     "name": "Wentworth Miller",
      "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Pascal"
+     "url": "stremio:///search?search=Wentworth%20Miller"
     },
     {
-     "name": "Gabriel Luna",
+     "name": "Amaury Nolasco",
      "category": "Cast",
-     "url": "stremio:///search?search=Gabriel%20Luna"
+     "url": "stremio:///search?search=Amaury%20Nolasco"
     },
     {
-     "name": "Neil Druckmann",
+     "name": "Paul T. Scheuring",
      "category": "Writers",
-     "url": "stremio:///search?search=Neil%20Druckmann"
-    },
-    {
-     "name": "Craig Mazin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Craig%20Mazin"
+     "url": "stremio:///search?search=Paul%20T.%20Scheuring"
     }
    ],
    "behaviorHints": {
@@ -985,113 +846,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3581920.jpg"
-  },
-  {
-   "awards": "Won 37 Primetime Emmys. 189 wins & 387 nominations total",
-   "cast": [
-    "Dan Castellaneta",
-    "Nancy Cartwright",
-    "Julie Kavner"
-   ],
-   "country": "United States",
-   "description": "A família: Homer, o pai desajeitado que trabalha como inspector na fábrica nuclear de Springfield, cidade onde vivem; Marge, a sua mulher que tenta, a todo o custo, manter a paz entre todos os membros da família; Bart, o malicioso rapaz de 10 anos que é um autêntico diabinho; Lisa, a inteligente rapariga de 8 anos que toca saxofone e é a vegetariana da família e, por fim, a bebé Maggie que transmite as suas emoções através da sua chupeta.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Animation",
-    "Comedy"
-   ],
-   "imdbRating": "8.6",
-   "name": "The Simpsons",
-   "released": "1989-12-17T00:00:00.000Z",
-   "runtime": "24 min",
-   "status": "Continuing",
-   "writer": [
-    "James L. Brooks",
-    "Matt Groening",
-    "Sam Simon"
-   ],
-   "year": "1989–",
-   "background": "https://images.metahub.space/background/medium/tt0096697/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0096697/img",
-   "trailers": [
-    {
-     "source": "_jgYEYERYFQ",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0096697",
-   "genres": [
-    "Animação",
-    "Comédia"
-   ],
-   "releaseInfo": "1989",
-   "trailerStreams": [
-    {
-     "title": "The Simpsons",
-     "ytId": "_jgYEYERYFQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0096697"
-    },
-    {
-     "name": "The Simpsons",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-simpsons-0096697"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Dan Castellaneta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dan%20Castellaneta"
-    },
-    {
-     "name": "Nancy Cartwright",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nancy%20Cartwright"
-    },
-    {
-     "name": "Julie Kavner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julie%20Kavner"
-    },
-    {
-     "name": "James L. Brooks",
-     "category": "Writers",
-     "url": "stremio:///search?search=James%20L.%20Brooks"
-    },
-    {
-     "name": "Matt Groening",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matt%20Groening"
-    },
-    {
-     "name": "Sam Simon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Simon"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0096697.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0455275.jpg"
   }
  ]
 }

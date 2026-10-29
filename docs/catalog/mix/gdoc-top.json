@@ -407,16 +407,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
-   "id": "tt36057363",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "name": "Cozy Fireplace",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
-  },
-  {
    "id": "tt46027225",
    "behaviorHints": {
     "hasScheduledVideos": false
@@ -436,90 +426,108 @@
    "imdbRating": "6.6"
   },
   {
-   "name": "7vs.Wild",
-   "cast": [
-    "Fritz Meinecke",
-    "Jens Knossalla",
-    "Sascha Huber"
-   ],
-   "country": "Germany, Switzerland",
-   "genre": [
-    "Adventure",
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "7.7",
-   "released": "2021-11-06T00:00:00.000Z",
-   "writer": [
-    "Fritz Meinecke"
-   ],
-   "year": "2021–2025",
-   "runtime": "63 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt16994878/img",
-   "logo": "https://images.metahub.space/logo/medium/tt16994878/img",
-   "description": "Depending on the season, participants face a 7 or 14 day survival challenge in the wilderness. With minimal equipment, they must endure extreme conditions alone, in teams or as a group.",
-   "id": "tt16994878",
+   "id": "tt36057363",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "name": "Cozy Fireplace",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
+  },
+  {
+   "id": "tt49164308",
+   "logo": "https://live.metahub.space/logo/medium/tt49164308/img",
+   "background": "https://live.metahub.space/background/medium/tt49164308/img",
+   "name": "Kordell Stewart / Slash & Burn",
+   "description": "For a generation of football fans, former Pittsburgh Steelers quarterback Kordell \"Slash\" Stewart was one of the most electrifying players of the 1990s. But just as he became one of football's biggest stars, a malicious rumor upended his life. Through candid interviews with Stewart and others who witnessed his brightest and darkest moments, explore the personal toll of scrutiny beyond the football field while searching for the truth behind a story that followed Stewart for decades.",
    "genres": [
-    "Reality",
     "Documentário"
    ],
-   "releaseInfo": "2021",
-   "links": [
+   "releaseInfo": "2026",
+   "runtime": "40 min",
+   "trailers": [
     {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt16994878"
-    },
-    {
-     "name": "7vs.Wild",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/7vswild-16994878"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Fritz Meinecke",
-     "category": "Cast",
-     "url": "stremio:///search?search=Fritz%20Meinecke"
-    },
-    {
-     "name": "Jens Knossalla",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jens%20Knossalla"
-    },
-    {
-     "name": "Sascha Huber",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sascha%20Huber"
-    },
-    {
-     "name": "Fritz Meinecke",
-     "category": "Writers",
-     "url": "stremio:///search?search=Fritz%20Meinecke"
+     "source": "MZAV0HKRDVk",
+     "type": "Trailer"
     }
    ],
+   "cast": [
+    "Kordell Stewart",
+    "Bill Cowher",
+    "Jerome Bettis"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Kordell Stewart",
+     "profile_path": null,
+     "id": 1266558
+    },
+    {
+     "character": "Self",
+     "name": "Bill Cowher",
+     "profile_path": "/h9juxW9wBF5GIHeW67RG9YUghER.jpg",
+     "id": 1240191
+    },
+    {
+     "character": "Self",
+     "name": "Jerome Bettis",
+     "profile_path": "/pA1iHyi1xoNHXBZnVhl1TqpT3XT.jpg",
+     "id": 1215301
+    },
+    {
+     "character": "Self",
+     "name": "Mike Mularkey",
+     "profile_path": null,
+     "id": 6548988
+    },
+    {
+     "character": "Self",
+     "name": "Bob Pompeani",
+     "profile_path": null,
+     "id": 6548989
+    },
+    {
+     "character": "Self",
+     "name": "LZ Granderson",
+     "profile_path": null,
+     "id": 2087863
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Brian Rivera",
+     "profile_path": null,
+     "id": 6548990
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Brian Rivera",
+     "profile_path": null,
+     "id": 6548990
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Emily Cameron",
+     "profile_path": null,
+     "id": 6548997
+    }
+   ],
+   "director": [
+    "Brian Rivera"
+   ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt49164308",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16994878.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49164308.jpg"
   }
  ]
 }

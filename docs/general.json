@@ -5,13 +5,18 @@
   "genre": false
  },
  {
+  "shortName": "gdrm",
+  "name": "Drama",
+  "genre": true
+ },
+ {
   "shortName": "gscf",
   "name": "Ficção Científica",
   "genre": true
  },
  {
-  "shortName": "gdrm",
-  "name": "Drama",
+  "shortName": "gfnt",
+  "name": "Fantasia",
   "genre": true
  },
  {
@@ -22,6 +27,26 @@
  {
   "shortName": "gfml",
   "name": "Família",
+  "genre": true
+ },
+ {
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
+  "genre": true
+ },
+ {
+  "shortName": "gani",
+  "name": "Animação",
   "genre": true
  },
  {
@@ -40,13 +65,13 @@
   "genre": true
  },
  {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
+  "shortName": "grly",
+  "name": "Reality TV",
   "genre": true
  },
  {
-  "shortName": "gani",
-  "name": "Animação",
+  "shortName": "gact",
+  "name": "Ação & Aventura",
   "genre": true
  },
  {
@@ -60,43 +85,18 @@
   "genre": true
  },
  {
-  "shortName": "grma",
-  "name": "Romance",
-  "genre": true
- },
- {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
-  "genre": true
- },
- {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
-  "genre": true
- },
- {
-  "shortName": "grly",
-  "name": "Reality TV",
-  "genre": true
- },
- {
   "shortName": "gdoc",
   "name": "Documentário",
   "genre": true
  },
  {
-  "shortName": "gfnt",
-  "name": "Fantasia",
+  "shortName": "grma",
+  "name": "Romance",
   "genre": true
  },
  {
-  "shortName": "gwsn",
-  "name": "Western",
-  "genre": true
- },
- {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
   "genre": true
  }
 ]
