@@ -1007,116 +1007,90 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0298130.jpg"
   },
   {
-   "name": "Loving",
+   "name": "My Brilliant Friend",
+   "country": "Italy, United States",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.6",
+   "released": "2018-11-18T00:00:00.000Z",
+   "year": "2018–2024",
+   "status": "Ended",
+   "cast": [
+    "Alba Rohrwacher",
+    "Annarita Vitolo",
+    "Margherita Mazzucco"
+   ],
+   "director": [],
+   "writer": [
+    "Saverio Costanzo"
+   ],
+   "description": "A história de Lenu e Lila, duas amigas que se conhecem durante os anos 50, em Nápoles. Elena começa a escrever a história da sua amizade de 60 anos quando Lila parece ter desaparecido sem deixar rasto.",
+   "runtime": "56 min",
+   "background": "https://images.metahub.space/background/medium/tt7278862/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7278862/img",
+   "awards": "5 wins & 19 nominations total",
    "trailers": [
     {
-     "source": "33g-ZHBQdNU",
+     "source": "V2Yk8xJkMKQ",
      "type": "Trailer"
     }
    ],
-   "year": "2016",
-   "runtime": "123 min",
-   "genre": [
-    "Biography",
-    "Drama",
-    "Romance"
-   ],
-   "released": "2016-11-04T00:00:00.000Z",
-   "director": [
-    "Jeff Nichols"
-   ],
-   "writer": [
-    "Jeff Nichols",
-    "Nancy Buirski"
-   ],
-   "cast": [
-    "Ruth Negga",
-    "Joel Edgerton",
-    "Will Dalton"
-   ],
-   "imdbRating": "7.0",
-   "description": "A história de Richard e Mildred Loving, presos em 1958, na Virgínia, pelo crime de constituírem um casal multirracial.  O casal foi preso e proibido de viver em comunhão no estado da Virgina durante 25 anos, mas a decisão judicial foi contestada junto do Supremo Tribunal Federal dos Estados Unidos, tornado este caso num exemplo no longo processo de luta travado em defesa das liberdades civis.",
-   "country": "United Kingdom, United States",
-   "awards": "Nominated for 1 Oscar. 25 wins & 91 nominations total",
-   "dvdRelease": "2017-01-24T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4669986/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4669986/img",
-   "id": "tt4669986",
+   "id": "tt7278862",
    "genres": [
-    "Drama",
-    "Romance"
+    "Drama"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2018",
    "trailerStreams": [
     {
-     "title": "Loving",
-     "ytId": "33g-ZHBQdNU"
+     "title": "My Brilliant Friend",
+     "ytId": "V2Yk8xJkMKQ"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4669986"
+     "url": "https://imdb.com/title/tt7278862"
     },
     {
-     "name": "Loving",
+     "name": "My Brilliant Friend",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/loving-4669986"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+     "url": "https://www.strem.io/s/series/my-brilliant-friend-7278862"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Ruth Negga",
+     "name": "Alba Rohrwacher",
      "category": "Cast",
-     "url": "stremio:///search?search=Ruth%20Negga"
+     "url": "stremio:///search?search=Alba%20Rohrwacher"
     },
     {
-     "name": "Joel Edgerton",
+     "name": "Annarita Vitolo",
      "category": "Cast",
-     "url": "stremio:///search?search=Joel%20Edgerton"
+     "url": "stremio:///search?search=Annarita%20Vitolo"
     },
     {
-     "name": "Will Dalton",
+     "name": "Margherita Mazzucco",
      "category": "Cast",
-     "url": "stremio:///search?search=Will%20Dalton"
+     "url": "stremio:///search?search=Margherita%20Mazzucco"
     },
     {
-     "name": "Jeff Nichols",
+     "name": "Saverio Costanzo",
      "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Nichols"
-    },
-    {
-     "name": "Nancy Buirski",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nancy%20Buirski"
-    },
-    {
-     "name": "Jeff Nichols",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jeff%20Nichols"
+     "url": "stremio:///search?search=Saverio%20Costanzo"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4669986",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4669986.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7278862.jpg"
   }
  ]
 }

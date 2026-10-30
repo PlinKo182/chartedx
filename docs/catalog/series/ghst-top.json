@@ -109,71 +109,63 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743760.jpg"
   },
   {
-   "name": "My Happy Marriage",
-   "cast": [
-    "Reina Ueda",
-    "Kaito Ishikawa",
-    "Damien C. Haas"
-   ],
-   "country": "Japan",
-   "description": "A família abusiva de Miyo considera-a inútil. Mas com o apoio do futuro marido, ela começa a mostrar a sua verdadeira personalidade e a revelar os seus poderes.",
+   "name": "The Spy",
+   "description": "Nos anos 60, o contabilista Eli Cohen é promovido a agente secreto e infiltra-se na Síria numa longa e perigosa missão para espiar para a Mossad.",
    "genre": [
-    "Animation",
+    "Biography",
     "Drama",
-    "Fantasy"
+    "History"
    ],
-   "imdbRating": "7.5",
-   "released": "2023-07-05T00:00:00.000Z",
-   "year": "2023–2025",
+   "imdbRating": "7.9",
+   "released": "2019-09-06T00:00:00.000Z",
+   "year": "2019",
+   "status": "Ended",
+   "cast": [
+    "Sacha Baron Cohen",
+    "Noah Emmerich",
+    "Hadar Ratzon Rotem"
+   ],
+   "director": [],
+   "writer": [
+    "Gideon Raff"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5952634/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5952634/img",
+   "country": "France, United States",
+   "runtime": "54 min",
+   "awards": "2 nominations total",
    "trailers": [
     {
-     "source": "LHkn20xqybk",
-     "type": "Trailer"
-    },
-    {
-     "source": "dURh9kVzcw8",
+     "source": "5UijUOy0MmE",
      "type": "Trailer"
     }
    ],
-   "runtime": "24 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt19869172/img",
-   "logo": "https://images.metahub.space/logo/medium/tt19869172/img",
-   "awards": "8 wins & 20 nominations total",
-   "id": "tt19869172",
+   "id": "tt5952634",
    "genres": [
-    "Animação",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Drama"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "My Happy Marriage",
-     "ytId": "LHkn20xqybk"
-    },
-    {
-     "title": "My Happy Marriage",
-     "ytId": "dURh9kVzcw8"
+     "title": "The Spy",
+     "ytId": "5UijUOy0MmE"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt19869172"
+     "url": "https://imdb.com/title/tt5952634"
     },
     {
-     "name": "My Happy Marriage",
+     "name": "The Spy",
      "category": "share",
-     "url": "https://www.strem.io/s/series/my-happy-marriage-19869172"
+     "url": "https://www.strem.io/s/series/the-spy-5952634"
     },
     {
-     "name": "Animation",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
     },
     {
      "name": "Drama",
@@ -181,24 +173,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
+     "name": "History",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Reina Ueda",
+     "name": "Sacha Baron Cohen",
      "category": "Cast",
-     "url": "stremio:///search?search=Reina%20Ueda"
+     "url": "stremio:///search?search=Sacha%20Baron%20Cohen"
     },
     {
-     "name": "Kaito Ishikawa",
+     "name": "Noah Emmerich",
      "category": "Cast",
-     "url": "stremio:///search?search=Kaito%20Ishikawa"
+     "url": "stremio:///search?search=Noah%20Emmerich"
     },
     {
-     "name": "Damien C. Haas",
+     "name": "Hadar Ratzon Rotem",
      "category": "Cast",
-     "url": "stremio:///search?search=Damien%20C.%20Haas"
+     "url": "stremio:///search?search=Hadar%20Ratzon%20Rotem"
+    },
+    {
+     "name": "Gideon Raff",
+     "category": "Writers",
+     "url": "stremio:///search?search=Gideon%20Raff"
     }
    ],
    "behaviorHints": {
@@ -207,7 +204,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19869172.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5952634.jpg"
   },
   {
    "name": "The Lowdown",
@@ -307,6 +304,104 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31289994.jpg"
+  },
+  {
+   "name": "Glória",
+   "cast": [
+    "Miguel Nunes",
+    "Matt Rippy",
+    "Stephanie Vogt"
+   ],
+   "country": "Portugal",
+   "description": "Em 1968, Glória do Ribatejo fervilha de espiões, mentiras e segredos. João Vidal, engenheiro na Rádio Europa Livre, joga em todas as frentes da Guerra Fria em Portugal.",
+   "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2021-11-05T00:00:00.000Z",
+   "year": "2021",
+   "status": "Ended",
+   "director": [],
+   "writer": [
+    "Pedro Lopes"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt13064634/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13064634/img",
+   "awards": "9 wins & 6 nominations total",
+   "runtime": "44 min",
+   "trailers": [
+    {
+     "source": "LR2Iq2VaZpM",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt13064634",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "Glória",
+     "ytId": "LR2Iq2VaZpM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13064634"
+    },
+    {
+     "name": "Glória",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/glria-13064634"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Miguel Nunes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Miguel%20Nunes"
+    },
+    {
+     "name": "Matt Rippy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Rippy"
+    },
+    {
+     "name": "Stephanie Vogt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stephanie%20Vogt"
+    },
+    {
+     "name": "Pedro Lopes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Pedro%20Lopes"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13064634.jpg"
   },
   {
    "name": "Babylon Berlin",
@@ -722,108 +817,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15320362.jpg"
-  },
-  {
-   "awards": "Won 8 Primetime Emmys. 36 wins & 44 nominations total",
-   "cast": [
-    "James Badge Dale",
-    "Joseph Mazzello",
-    "Jon Seda"
-   ],
-   "country": "United States, Australia",
-   "description": "O Teatro do Pacífico da Segunda Guerra Mundial, visto através dos olhos de vários jovens fuzileiros.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "8.3",
-   "name": "The Pacific",
-   "released": "2010-03-14T00:00:00.000Z",
-   "runtime": "530 min",
-   "trailers": [
-    {
-     "source": "e99B80crU3E",
-     "type": "Trailer"
-    },
-    {
-     "source": "yneubg7c_D0",
-     "type": "Trailer"
-    }
-   ],
-   "writer": null,
-   "year": "2010",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt0374463/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0374463/img",
-   "id": "tt0374463",
-   "genres": [
-    "Drama",
-    "Action & Adventure",
-    "War & Politics"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [
-    {
-     "title": "The Pacific",
-     "ytId": "e99B80crU3E"
-    },
-    {
-     "title": "The Pacific",
-     "ytId": "yneubg7c_D0"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0374463"
-    },
-    {
-     "name": "The Pacific",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-pacific-0374463"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "James Badge Dale",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20Badge%20Dale"
-    },
-    {
-     "name": "Joseph Mazzello",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joseph%20Mazzello"
-    },
-    {
-     "name": "Jon Seda",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jon%20Seda"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0374463.jpg"
   },
   {
    "name": "The Final Problem",

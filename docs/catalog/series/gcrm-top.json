@@ -861,30 +861,103 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1196946.jpg"
   },
   {
-   "id": "tt48356732",
-   "logo": "https://live.metahub.space/logo/medium/tt48356732/img",
-   "background": "https://live.metahub.space/background/medium/tt48356732/img",
-   "name": "Swipe Right on the Devil",
-   "description": "Sydney Loofe desaparece após um encontro do Tinder, e os investigadores acabam se deparando com o mundo de manipulações e bruxaria de uma seita bizarra. A cada nova revelação da polícia, o mistério se intensifica, culminando em um caso arrepiante e chocante, sem explicação aparente.",
+   "cast": [
+    "Alan Ritchson",
+    "Maria Sten",
+    "Malcolm Goodwin"
+   ],
+   "country": "United States",
+   "description": "Quando o polícia do exército reformado Jack Reacher é detido por um homicídio que não cometeu, vê-se no meio duma conspiração mortal com polícias corruptos, homens de negócios obscuros e políticos calculistas. Baseado na saga literária de Lee Child.",
+   "director": null,
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "name": "Reacher",
+   "released": "2022-02-04T00:00:00.000Z",
+   "writer": [
+    "Nick Santora"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt9288030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9288030/img",
+   "awards": "3 wins & 13 nominations total",
+   "runtime": "49 min",
+   "trailers": [
+    {
+     "source": "GSycMV-_Csw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt9288030",
    "genres": [
-    "Documentário",
+    "Action & Adventure",
     "Crime"
    ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Reacher",
+     "ytId": "GSycMV-_Csw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9288030"
+    },
+    {
+     "name": "Reacher",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/reacher-9288030"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Alan Ritchson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alan%20Ritchson"
+    },
+    {
+     "name": "Maria Sten",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maria%20Sten"
+    },
+    {
+     "name": "Malcolm Goodwin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Malcolm%20Goodwin"
+    },
+    {
+     "name": "Nick Santora",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nick%20Santora"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48356732.jpg",
-   "imdbRating": "6.8"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9288030.jpg"
   }
  ]
 }
