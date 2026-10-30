@@ -169,121 +169,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "7.4"
-  },
-  {
-   "name": "Cyberpunk: Edgerunners",
-   "cast": [
-    "Kentarô Tone",
-    "Koki Uchiyama",
-    "Momoka Terasawa"
-   ],
-   "country": "Japan, United States, Poland",
-   "description": "Numa distopia mergulhada em corrupção e paixão pelos implantes corporais, um miúdo talentoso, mas imprudente, esforça-se para se tornar um mercenário fora da lei.",
-   "genre": [
-    "Animation",
-    "Action",
-    "Adventure"
-   ],
-   "imdbRating": "8.3",
-   "released": "2022-09-13T00:00:00.000Z",
-   "writer": [
-    "Rafal Jaki",
-    "Bartosz Sztybor"
-   ],
-   "year": "2022–",
-   "status": "Continuing",
-   "director": null,
-   "background": "https://images.metahub.space/background/medium/tt12590266/img",
-   "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
-   "awards": "4 wins & 18 nominations total",
-   "runtime": "26 min",
-   "trailers": [
-    {
-     "source": "JtqIas3bYhg",
-     "type": "Trailer"
-    },
-    {
-     "source": "ax5YUmkWf_Y",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt12590266",
-   "genres": [
-    "Animação",
-    "Action & Adventure",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Cyberpunk: Edgerunners",
-     "ytId": "JtqIas3bYhg"
-    },
-    {
-     "title": "Cyberpunk: Edgerunners",
-     "ytId": "ax5YUmkWf_Y"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt12590266"
-    },
-    {
-     "name": "Cyberpunk: Edgerunners",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/cyberpunk-edgerunners-12590266"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Kentarô Tone",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kentar%C3%B4%20Tone"
-    },
-    {
-     "name": "Koki Uchiyama",
-     "category": "Cast",
-     "url": "stremio:///search?search=Koki%20Uchiyama"
-    },
-    {
-     "name": "Momoka Terasawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Momoka%20Terasawa"
-    },
-    {
-     "name": "Rafal Jaki",
-     "category": "Writers",
-     "url": "stremio:///search?search=Rafal%20Jaki"
-    },
-    {
-     "name": "Bartosz Sztybor",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bartosz%20Sztybor"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12590266.jpg"
+   "imdbRating": "7.3"
   },
   {
    "awards": "Won 17 Primetime Emmys. 132 wins & 413 nominations total",
@@ -506,55 +392,178 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1190634.jpg"
   },
   {
-   "name": "Avatar: Seven Havens",
-   "cast": [
-    "Dee Bradley Baker",
-    "Darren Barnet",
-    "Sakina Jaffrey"
+   "name": "The Handmaid's Tale",
+   "year": "2017–2025",
+   "runtime": "51 min",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
    ],
+   "released": "2017-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Bruce Miller"
+   ],
+   "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Ann Dowd"
+   ],
+   "imdbRating": "8.3",
+   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
    "country": "United States",
-   "description": "Num mundo devastado por um cataclismo catastrófico, uma jovem dobradora de terra descobre que é a nova Avatar, sucessora de Korra. Mas, nesta era perigosa, este título marca-a como a destruidora da humanidade, e não a sua salvadora. Caçada por inimigos humanos e espirituais, ela e a sua irmã gémea, há muito perdida, têm de desvendar as suas misteriosas origens e salvar os Sete Refúgios antes que os últimos bastiões da civilização se desmoronem.",
+   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5834204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
+   "trailers": [
+    {
+     "source": "81PyH5TH-NQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5834204",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "The Handmaid's Tale",
+     "ytId": "81PyH5TH-NQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5834204"
+    },
+    {
+     "name": "The Handmaid's Tale",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Elisabeth Moss",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elisabeth%20Moss"
+    },
+    {
+     "name": "Yvonne Strahovski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Yvonne%20Strahovski"
+    },
+    {
+     "name": "Ann Dowd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ann%20Dowd"
+    },
+    {
+     "name": "Bruce Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bruce%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
+  },
+  {
+   "name": "My Hero Academia",
+   "year": "2016–2026",
+   "runtime": "23 min",
    "genre": [
     "Animation",
     "Action",
     "Adventure"
    ],
-   "imdbRating": "7.9",
-   "released": "2026-10-09T00:00:00.000Z",
+   "released": "2018-05-05T00:00:00.000Z",
+   "director": null,
    "writer": [
-    "Michael Dante DiMartino",
-    "Bryan Konietzko"
+    "Kôhei Horikoshi"
    ],
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
+   "cast": [
+    "Daiki Yamashita",
+    "Justin Briner",
+    "Nobuhiko Okamoto"
+   ],
+   "imdbRating": "8.2",
+   "description": "Por toda a sua vida, Izuku sonhou ser um heroi, um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.",
+   "country": "Japan",
+   "awards": "41 wins & 70 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5626028/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5626028/img",
    "trailers": [
     {
-     "source": "nhdh962_ee0",
+     "source": "TRr_dS2REo4",
+     "type": "Trailer"
+    },
+    {
+     "source": "broyogKLs2Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "wIb3nnOeves",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt35854736/img",
-   "background": "https://images.metahub.space/background/medium/tt35854736/img",
-   "id": "tt35854736",
+   "id": "tt5626028",
    "genres": [
-    "Animação",
     "Action & Adventure",
+    "Animação",
     "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2016",
    "trailerStreams": [
     {
-     "title": "Avatar: Seven Havens",
-     "ytId": "nhdh962_ee0"
+     "title": "My Hero Academia",
+     "ytId": "TRr_dS2REo4"
+    },
+    {
+     "title": "My Hero Academia",
+     "ytId": "broyogKLs2Y"
+    },
+    {
+     "title": "My Hero Academia",
+     "ytId": "wIb3nnOeves"
     }
    ],
    "links": [
     {
-     "name": "Avatar: Seven Havens",
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5626028"
+    },
+    {
+     "name": "My Hero Academia",
      "category": "share",
-     "url": "https://www.strem.io/s/series/avatar-seven-havens-35854736"
+     "url": "https://www.strem.io/s/series/my-hero-academia-5626028"
     },
     {
      "name": "Animation",
@@ -572,29 +581,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Dee Bradley Baker",
+     "name": "Daiki Yamashita",
      "category": "Cast",
-     "url": "stremio:///search?search=Dee%20Bradley%20Baker"
+     "url": "stremio:///search?search=Daiki%20Yamashita"
     },
     {
-     "name": "Darren Barnet",
+     "name": "Justin Briner",
      "category": "Cast",
-     "url": "stremio:///search?search=Darren%20Barnet"
+     "url": "stremio:///search?search=Justin%20Briner"
     },
     {
-     "name": "Sakina Jaffrey",
+     "name": "Nobuhiko Okamoto",
      "category": "Cast",
-     "url": "stremio:///search?search=Sakina%20Jaffrey"
+     "url": "stremio:///search?search=Nobuhiko%20Okamoto"
     },
     {
-     "name": "Michael Dante DiMartino",
+     "name": "Kôhei Horikoshi",
      "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Dante%20DiMartino"
-    },
-    {
-     "name": "Bryan Konietzko",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Konietzko"
+     "url": "stremio:///search?search=K%C3%B4hei%20Horikoshi"
     }
    ],
    "behaviorHints": {
@@ -603,72 +607,77 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5626028.jpg"
   },
   {
-   "name": "House of the Dragon",
+   "name": "Cyberpunk: Edgerunners",
    "cast": [
-    "Matt Smith",
-    "Emma D&apos;Arcy",
-    "Olivia Cooke"
+    "Kentarô Tone",
+    "Koki Uchiyama",
+    "Momoka Terasawa"
    ],
-   "country": "United States",
-   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
+   "country": "Japan, United States, Poland",
+   "description": "Numa distopia mergulhada em corrupção e paixão pelos implantes corporais, um miúdo talentoso, mas imprudente, esforça-se para se tornar um mercenário fora da lei.",
    "genre": [
+    "Animation",
     "Action",
-    "Adventure",
-    "Drama"
+    "Adventure"
    ],
-   "imdbRating": "8.2",
-   "released": "2022-08-21T00:00:00.000Z",
+   "imdbRating": "8.3",
+   "released": "2022-09-13T00:00:00.000Z",
    "writer": [
-    "Ryan J. Condal",
-    "George R.R. Martin"
+    "Rafal Jaki",
+    "Bartosz Sztybor"
    ],
    "year": "2022–",
    "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt11198330/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
-   "runtime": "60 min",
+   "director": null,
+   "background": "https://images.metahub.space/background/medium/tt12590266/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12590266/img",
+   "awards": "4 wins & 18 nominations total",
+   "runtime": "26 min",
    "trailers": [
     {
-     "source": "DotnJ7tTA34",
+     "source": "JtqIas3bYhg",
      "type": "Trailer"
     },
     {
-     "source": "Wg86eQkdudI",
+     "source": "ax5YUmkWf_Y",
      "type": "Trailer"
     }
    ],
-   "id": "tt11198330",
+   "id": "tt12590266",
    "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama",
-    "Action & Adventure"
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
    ],
    "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "House of the Dragon",
-     "ytId": "DotnJ7tTA34"
+     "title": "Cyberpunk: Edgerunners",
+     "ytId": "JtqIas3bYhg"
     },
     {
-     "title": "House of the Dragon",
-     "ytId": "Wg86eQkdudI"
+     "title": "Cyberpunk: Edgerunners",
+     "ytId": "ax5YUmkWf_Y"
     }
    ],
    "links": [
     {
      "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11198330"
+     "url": "https://imdb.com/title/tt12590266"
     },
     {
-     "name": "House of the Dragon",
+     "name": "Cyberpunk: Edgerunners",
      "category": "share",
-     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+     "url": "https://www.strem.io/s/series/cyberpunk-edgerunners-12590266"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Action",
@@ -681,34 +690,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Matt Smith",
+     "name": "Kentarô Tone",
      "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Smith"
+     "url": "stremio:///search?search=Kentar%C3%B4%20Tone"
     },
     {
-     "name": "Emma D&apos;Arcy",
+     "name": "Koki Uchiyama",
      "category": "Cast",
-     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+     "url": "stremio:///search?search=Koki%20Uchiyama"
     },
     {
-     "name": "Olivia Cooke",
+     "name": "Momoka Terasawa",
      "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Cooke"
+     "url": "stremio:///search?search=Momoka%20Terasawa"
     },
     {
-     "name": "Ryan J. Condal",
+     "name": "Rafal Jaki",
      "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20J.%20Condal"
+     "url": "stremio:///search?search=Rafal%20Jaki"
     },
     {
-     "name": "George R.R. Martin",
+     "name": "Bartosz Sztybor",
      "category": "Writers",
-     "url": "stremio:///search?search=George%20R.R.%20Martin"
+     "url": "stremio:///search?search=Bartosz%20Sztybor"
     }
    ],
    "behaviorHints": {
@@ -717,7 +721,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12590266.jpg"
   },
   {
    "name": "X-Men '97",
@@ -818,6 +822,120 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16026746.jpg"
+  },
+  {
+   "name": "Fallout",
+   "cast": [
+    "Ella Purnell",
+    "Aaron Moten",
+    "Walton Goggins"
+   ],
+   "country": "United States",
+   "description": "Baseado numa das maiores sagas de videojogos de todos os tempos, Fallout é a história de quem tem e de quem não tem num mundo em que já não há quase nada para ter. Duzentos anos após o apocalipse, uma pacífica habitante de um acolhedor abrigo nuclear é forçada a regressar à superfície - e fica chocada ao descobrir o deserto que a espera.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.3",
+   "released": "2024-04-10T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "56 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "7h8zJHywjAw",
+     "type": "Trailer"
+    },
+    {
+     "source": "0kQ8i2FpRDk",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Geneva Robertson-Dworet",
+    "Graham Wagner"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12637874/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12637874/img",
+   "awards": "Won 3 Primetime Emmys. 19 wins & 90 nominations total",
+   "id": "tt12637874",
+   "genres": [
+    "Action & Adventure",
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Fallout",
+     "ytId": "7h8zJHywjAw"
+    },
+    {
+     "title": "Fallout",
+     "ytId": "0kQ8i2FpRDk"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12637874"
+    },
+    {
+     "name": "Fallout",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/fallout-12637874"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Ella Purnell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Purnell"
+    },
+    {
+     "name": "Aaron Moten",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Moten"
+    },
+    {
+     "name": "Walton Goggins",
+     "category": "Cast",
+     "url": "stremio:///search?search=Walton%20Goggins"
+    },
+    {
+     "name": "Geneva Robertson-Dworet",
+     "category": "Writers",
+     "url": "stremio:///search?search=Geneva%20Robertson-Dworet"
+    },
+    {
+     "name": "Graham Wagner",
+     "category": "Writers",
+     "url": "stremio:///search?search=Graham%20Wagner"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12637874.jpg"
   },
   {
    "awards": "Nominated for 5 Primetime Emmys. 10 wins & 43 nominations total",
@@ -927,104 +1045,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3322312.jpg"
-  },
-  {
-   "name": "Outlander: Blood of My Blood",
-   "cast": [
-    "Jeremy Irvine",
-    "Hermione Corfield",
-    "Harriet Slater"
-   ],
-   "country": "United States",
-   "description": "Desde os campos de batalha da Primeira Guerra Mundial até às agrestes Terras Altas da Escócia do século XVIII, dois casais destinados têm de desafiar as forças que procuram separá-los, desenrolando-se de forma surpreendente e inesperada nesta saga romântica que se desenrola ao longo do tempo.",
-   "imdbRating": "8.1",
-   "released": "2025-08-08T00:00:00.000Z",
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "9hvjJEXoIhs",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "genre": [
-    "Drama",
-    "Fantasy",
-    "Romance"
-   ],
-   "writer": [
-    "Matthew B. Roberts"
-   ],
-   "runtime": "63 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt18332852/img",
-   "logo": "https://images.metahub.space/logo/medium/tt18332852/img",
-   "awards": "5 nominations total",
-   "id": "tt18332852",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Outlander: Blood of My Blood",
-     "ytId": "9hvjJEXoIhs"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt18332852"
-    },
-    {
-     "name": "Outlander: Blood of My Blood",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/outlander-blood-of-my-blood-18332852"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Jeremy Irvine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Irvine"
-    },
-    {
-     "name": "Hermione Corfield",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hermione%20Corfield"
-    },
-    {
-     "name": "Harriet Slater",
-     "category": "Cast",
-     "url": "stremio:///search?search=Harriet%20Slater"
-    },
-    {
-     "name": "Matthew B. Roberts",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20B.%20Roberts"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18332852.jpg"
   }
  ]
 }

@@ -45,7 +45,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-   "imdbRating": "7.9"
+   "imdbRating": "7.8"
   },
   {
    "id": "tt48356732",
@@ -71,7 +71,130 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48356732.jpg",
-   "imdbRating": "6.9"
+   "imdbRating": "6.8"
+  },
+  {
+   "name": "7vs.Wild",
+   "cast": [
+    "Fritz Meinecke",
+    "Jens Knossalla",
+    "Sascha Huber"
+   ],
+   "country": "Germany, Switzerland",
+   "genre": [
+    "Adventure",
+    "Game-Show",
+    "Reality-TV"
+   ],
+   "imdbRating": "7.7",
+   "released": "2021-11-06T00:00:00.000Z",
+   "writer": [
+    "Fritz Meinecke"
+   ],
+   "year": "2021–2025",
+   "runtime": "63 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt16994878/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16994878/img",
+   "description": "Depending on the season, participants face a 7 or 14 day survival challenge in the wilderness. With minimal equipment, they must endure extreme conditions alone, in teams or as a group.",
+   "id": "tt16994878",
+   "genres": [
+    "Reality",
+    "Documentário"
+   ],
+   "releaseInfo": "2021",
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt16994878"
+    },
+    {
+     "name": "7vs.Wild",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/7vswild-16994878"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Game-Show",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "Fritz Meinecke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Fritz%20Meinecke"
+    },
+    {
+     "name": "Jens Knossalla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jens%20Knossalla"
+    },
+    {
+     "name": "Sascha Huber",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sascha%20Huber"
+    },
+    {
+     "name": "Fritz Meinecke",
+     "category": "Writers",
+     "url": "stremio:///search?search=Fritz%20Meinecke"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16994878.jpg"
+  },
+  {
+   "id": "tt10274462",
+   "logo": "https://live.metahub.space/logo/medium/tt10274462/img",
+   "background": "https://live.metahub.space/background/medium/tt10274462/img",
+   "name": "Jeremy Wade's Dark Waters",
+   "description": "Jeremy Wade passou décadas caçando monstros de rio nas águas mais remotas do planeta. Com habilidades inigualáveis, Jeremy já capturou quase todos os \"suspeitos\", mas ainda há muito mais peixes em sua lista.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2019",
+   "status": "Ended",
+   "runtime": "43 min",
+   "trailers": [],
+   "cast": [
+    "Jeremy Wade"
+   ],
+   "credits_cast": [
+    {
+     "character": "Himself",
+     "name": "Jeremy Wade",
+     "profile_path": "/ohgSzljj97kvYNzSKukEQx8LhoT.jpg",
+     "id": 1246825
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "8.1",
+   "language": "English",
+   "country": "United Kingdom, United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10274462.jpg"
   },
   {
    "awards": "3 wins & 7 nominations total",
@@ -162,97 +285,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2297757.jpg"
   },
   {
-   "id": "tt10274462",
-   "logo": "https://live.metahub.space/logo/medium/tt10274462/img",
-   "background": "https://live.metahub.space/background/medium/tt10274462/img",
-   "name": "Jeremy Wade's Dark Waters",
-   "description": "Jeremy Wade passou décadas caçando monstros de rio nas águas mais remotas do planeta. Com habilidades inigualáveis, Jeremy já capturou quase todos os \"suspeitos\", mas ainda há muito mais peixes em sua lista.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2019",
-   "status": "Ended",
-   "runtime": "43 min",
-   "trailers": [],
-   "cast": [
-    "Jeremy Wade"
-   ],
-   "credits_cast": [
-    {
-     "character": "Himself",
-     "name": "Jeremy Wade",
-     "profile_path": "/ohgSzljj97kvYNzSKukEQx8LhoT.jpg",
-     "id": 1246825
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "8.1",
-   "language": "English",
-   "country": "United Kingdom, United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10274462.jpg"
-  },
-  {
-   "id": "tt48313964",
-   "logo": "https://live.metahub.space/logo/medium/tt48313964/img",
-   "background": "https://live.metahub.space/background/medium/tt48313964/img",
-   "name": "The Flores Massacre",
-   "description": "Acompanhe a história de resiliência de Matías Bagnato, único sobrevivente do incêndio ocorrido em 1994 no bairro de Flores, em Buenos Aires, que vitimou seus pais, seus dois irmãos mais novos e um amigo da família. O que inicialmente parecia uma tragédia inexplicável revelou, posteriormente, uma história marcada por ameaças, violência e vingança, que culminou na condenação de Fructuoso Álvarez González, apontado como responsável pelo crime.",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Matías Bagnato",
-    "Juan José Campanella"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Matías Bagnato",
-     "profile_path": "/lnTXjtzmwhMkSACxxTJxwOAzCzs.jpg",
-     "id": 6535144
-    },
-    {
-     "character": "Self",
-     "name": "Juan José Campanella",
-     "profile_path": "/vnZ69dnDx9tnAkW9wicO9wHRQdx.jpg",
-     "id": 84714
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Augusto Tejada",
-     "profile_path": "/i84QtZhdaXws47PcenQQK598ZGY.jpg",
-     "id": 3898406
-    }
-   ],
-   "director": [
-    "Augusto Tejada"
-   ],
-   "language": "Spanish",
-   "country": "Argentina",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
-   "imdbRating": "7.1"
-  },
-  {
    "id": "tt43702035",
    "logo": "https://live.metahub.space/logo/medium/tt43702035/img",
    "background": "https://live.metahub.space/background/medium/tt43702035/img",
@@ -294,7 +326,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43702035.jpg",
-   "imdbRating": "9.2"
+   "imdbRating": "9.1"
   },
   {
    "name": "Lore",
@@ -393,92 +425,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6130902.jpg"
-  },
-  {
-   "name": "7vs.Wild",
-   "cast": [
-    "Fritz Meinecke",
-    "Jens Knossalla",
-    "Sascha Huber"
-   ],
-   "country": "Germany, Switzerland",
-   "genre": [
-    "Adventure",
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "7.7",
-   "released": "2021-11-06T00:00:00.000Z",
-   "writer": [
-    "Fritz Meinecke"
-   ],
-   "year": "2021–2025",
-   "runtime": "63 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt16994878/img",
-   "logo": "https://images.metahub.space/logo/medium/tt16994878/img",
-   "description": "Depending on the season, participants face a 7 or 14 day survival challenge in the wilderness. With minimal equipment, they must endure extreme conditions alone, in teams or as a group.",
-   "id": "tt16994878",
-   "genres": [
-    "Reality",
-    "Documentário"
-   ],
-   "releaseInfo": "2021",
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt16994878"
-    },
-    {
-     "name": "7vs.Wild",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/7vswild-16994878"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Fritz Meinecke",
-     "category": "Cast",
-     "url": "stremio:///search?search=Fritz%20Meinecke"
-    },
-    {
-     "name": "Jens Knossalla",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jens%20Knossalla"
-    },
-    {
-     "name": "Sascha Huber",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sascha%20Huber"
-    },
-    {
-     "name": "Fritz Meinecke",
-     "category": "Writers",
-     "url": "stremio:///search?search=Fritz%20Meinecke"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16994878.jpg"
   },
   {
    "name": "Love Story",
@@ -587,57 +533,84 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15232564.jpg"
   },
   {
-   "name": "American Nightmare",
-   "cast": [
-    "Rosamund Pike",
-    "Denise Huskins",
-    "Aaron Quinn"
+   "id": "tt49250618",
+   "logo": "https://live.metahub.space/logo/medium/tt49250618/img",
+   "background": "https://live.metahub.space/background/medium/tt49250618/img",
+   "name": "The Fall of El Mayo",
+   "description": "Co-fundador do Cartel de Sinaloa, parceiro de longa data de \"El Chapo\", e um fantasma para as autoridades por mais de três décadas. O documentário que conta a história da sua queda.",
+   "genres": [
+    "Documentário"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Nesta série documental sobre um crime real, após ser alvo de invasão de domicílio e rapto em 2015, um casal é acusado de encenar o suplício quando a mulher reaparece.",
-   "genre": [
-    "Documentary",
-    "Crime",
-    "Mystery"
-   ],
-   "imdbRating": "7.5",
-   "released": "2024-01-17T00:00:00.000Z",
-   "year": "2024",
+   "releaseInfo": "2026",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "Yonx7CyoK3k",
+     "source": "e5ExUsk6-OE",
      "type": "Trailer"
     }
    ],
-   "runtime": "45 min",
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg"
+  },
+  {
+   "name": "Mourinho",
+   "cast": [
+    "José Mourinho",
+    "Lionel Messi",
+    "Pep Guardiola"
+   ],
+   "country": "United States",
+   "description": "Um documentário que conta a história da ascensão meteórica de José Mourinho até se tornar um dos melhores treinadores de futebol do mundo nos clubes mais prestigiados.",
+   "genre": [
+    "Documentary",
+    "Biography",
+    "Sport"
+   ],
+   "imdbRating": "7.7",
+   "released": "2026-08-11T00:00:00.000Z",
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "e26vQ3ddHRE",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "57 min",
    "status": "Ended",
    "director": [],
    "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt22797582/img",
-   "logo": "https://images.metahub.space/logo/medium/tt22797582/img",
-   "awards": "Nominated for 2 BAFTA Awards. 1 win & 4 nominations total",
-   "id": "tt22797582",
+   "logo": "https://images.metahub.space/logo/medium/tt43673968/img",
+   "background": "https://images.metahub.space/background/medium/tt43673968/img",
+   "id": "tt43673968",
    "genres": [
-    "Crime",
     "Documentário"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "American Nightmare",
-     "ytId": "Yonx7CyoK3k"
+     "title": "Mourinho",
+     "ytId": "e26vQ3ddHRE"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "7.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt22797582"
+     "url": "https://imdb.com/title/tt43673968"
     },
     {
-     "name": "American Nightmare",
+     "name": "Mourinho",
      "category": "share",
-     "url": "https://www.strem.io/s/series/american-nightmare-22797582"
+     "url": "https://www.strem.io/s/series/mourinho-43673968"
     },
     {
      "name": "Documentary",
@@ -645,29 +618,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
     },
     {
-     "name": "Crime",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
     },
     {
-     "name": "Mystery",
+     "name": "Sport",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Rosamund Pike",
+     "name": "José Mourinho",
      "category": "Cast",
-     "url": "stremio:///search?search=Rosamund%20Pike"
+     "url": "stremio:///search?search=Jos%C3%A9%20Mourinho"
     },
     {
-     "name": "Denise Huskins",
+     "name": "Lionel Messi",
      "category": "Cast",
-     "url": "stremio:///search?search=Denise%20Huskins"
+     "url": "stremio:///search?search=Lionel%20Messi"
     },
     {
-     "name": "Aaron Quinn",
+     "name": "Pep Guardiola",
      "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Quinn"
+     "url": "stremio:///search?search=Pep%20Guardiola"
     }
    ],
    "behaviorHints": {
@@ -676,7 +649,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22797582.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43673968.jpg"
   }
  ]
 }
