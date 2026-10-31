@@ -1,147 +1,54 @@
 {
  "metas": [
   {
-   "awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
-   "cast": [
-    "Danny Elfman",
-    "Chris Sarandon",
-    "Catherine O'Hara"
+   "id": "tt21346758",
+   "logo": "https://live.metahub.space/logo/medium/tt21346758/img",
+   "background": "https://live.metahub.space/background/medium/tt21346758/img",
+   "name": "Truth and Lies: The Last Gangster",
+   "description": "Uma entrevista com um dos assassinos mais notórios da história da máfia, Sammy “The Bull” Gravano. Durante anos, ele e John Gotti, o chefe da família Gambino, controlaram partes da economia da cidade de Nova York sob um regime de medo e intimidação, e sua lealdade à “Família” teve um preço devastador.",
+   "genres": [
+    "Documentário",
+    "Crime"
    ],
-   "country": "United States",
-   "description": "Jack Skellington é o Rei das Abóboras na cidade de Halloween, mas está entediado após anos a repetir sempre as mesmas coisas na Noite das Bruxas. Certo dia, por acaso, descobre a cidade do Natal e fica tão impressionado que decide trazer o espírito natalício para as festas do Halloween.",
-   "director": [
-    "Henry Selick"
-   ],
-   "dvdRelease": "2014-01-01T00:00:00.000Z",
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Family"
-   ],
-   "imdbRating": "7.9",
-   "name": "The Nightmare Before Christmas",
-   "released": "1993-10-29T00:00:00.000Z",
-   "runtime": "76 min",
+   "releaseInfo": "2022",
+   "runtime": "82 min",
    "trailers": [
     {
-     "source": "IoYahD_xNR0",
-     "type": "Trailer"
-    },
-    {
-     "source": "lVtetOjX_vk",
-     "type": "Trailer"
-    },
-    {
-     "source": "U2BbPck-P3A",
-     "type": "Trailer"
-    },
-    {
-     "source": "jv8lGa_ZXao",
+     "source": "Vch0GURiNzs",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Caroline Thompson",
-    "Michael McDowell",
-    "Tim Burton"
-   ],
-   "year": "1993",
-   "background": "https://images.metahub.space/background/medium/tt0107688/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
-   "id": "tt0107688",
-   "genres": [
-    "Fantasia",
-    "Animação",
-    "Família"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [
     {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "IoYahD_xNR0"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Bram Harris",
+     "profile_path": null,
+     "id": 3666309
     },
     {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "lVtetOjX_vk"
-    },
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "U2BbPck-P3A"
-    },
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "jv8lGa_ZXao"
+     "department": "Directing",
+     "job": "Director",
+     "name": "Dave Hoffman",
+     "profile_path": null,
+     "id": 3809056
     }
    ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0107688"
-    },
-    {
-     "name": "The Nightmare Before Christmas",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-nightmare-before-christmas-0107688"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Danny Elfman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Danny%20Elfman"
-    },
-    {
-     "name": "Chris Sarandon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Sarandon"
-    },
-    {
-     "name": "Catherine O'Hara",
-     "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20O'Hara"
-    },
-    {
-     "name": "Caroline Thompson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Caroline%20Thompson"
-    },
-    {
-     "name": "Michael McDowell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20McDowell"
-    },
-    {
-     "name": "Tim Burton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Burton"
-    },
-    {
-     "name": "Henry Selick",
-     "category": "Directors",
-     "url": "stremio:///search?search=Henry%20Selick"
-    }
+   "director": [
+    "Dave Hoffman"
    ],
+   "imdbRating": "6.5",
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
-    "defaultVideoId": "tt0107688",
+    "defaultVideoId": "tt21346758",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0107688.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21346758.jpg"
   },
   {
    "name": "Moana",
@@ -269,261 +176,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
-   "name": "Toy Story 5",
-   "awards": "4 nominations total",
-   "cast": [
-    "Tom Hanks",
-    "Tim Allen",
-    "Joan Cusack"
-   ],
-   "country": "United States",
-   "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
-   "director": [
-    "McKenna Harris",
-    "Andrew Stanton"
-   ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "7.3",
-   "released": "2026-06-19T00:00:00.000Z",
-   "writer": [
-    "Andrew Stanton",
-    "McKenna Harris"
-   ],
-   "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
-    {
-     "source": "QftAW9TTmuQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "c51ND9Hdbw0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt29355505/img",
-   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
-   "id": "tt29355505",
-   "genres": [
-    "Animação",
-    "Família",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Toy Story 5",
-     "ytId": "QftAW9TTmuQ"
-    },
-    {
-     "title": "Toy Story 5",
-     "ytId": "c51ND9Hdbw0"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt29355505"
-    },
-    {
-     "name": "Toy Story 5",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Tom Hanks",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
-    },
-    {
-     "name": "Tim Allen",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Allen"
-    },
-    {
-     "name": "Joan Cusack",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joan%20Cusack"
-    },
-    {
-     "name": "Andrew Stanton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Stanton"
-    },
-    {
-     "name": "McKenna Harris",
-     "category": "Writers",
-     "url": "stremio:///search?search=McKenna%20Harris"
-    },
-    {
-     "name": "McKenna Harris",
-     "category": "Directors",
-     "url": "stremio:///search?search=McKenna%20Harris"
-    },
-    {
-     "name": "Andrew Stanton",
-     "category": "Directors",
-     "url": "stremio:///search?search=Andrew%20Stanton"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt29355505",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
-  },
-  {
-   "awards": "4 wins & 4 nominations total",
-   "cast": [
-    "Tim Curry",
-    "Susan Sarandon",
-    "Barry Bostwick"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "\"Rocky Horror Picture Show\" é um pesadelo erótico muito além de qualquer medida. Saudação macabra de Richard O Brien ao horror, à ficção cientifica, aos filmes de segunda categoria e ao rock, estrelando Tim Curry (em sua clássica interpretação de um transexual), Barry Bostwick e a vencedora do Oscar, Susan Sarandon.",
-   "director": [
-    "Jim Sharman"
-   ],
-   "dvdRelease": "2015-11-25T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Horror",
-    "Musical"
-   ],
-   "imdbRating": "7.4",
-   "name": "The Rocky Horror Picture Show",
-   "released": "1975-09-29T00:00:00.000Z",
-   "runtime": "100 min",
-   "trailers": [
-    {
-     "source": "LnYBwampG8U",
-     "type": "Trailer"
-    },
-    {
-     "source": "ldo_spDyLKc",
-     "type": "Trailer"
-    },
-    {
-     "source": "4plqh6obZW4",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Richard O'Brien",
-    "Jim Sharman"
-   ],
-   "year": "1975",
-   "background": "https://images.metahub.space/background/medium/tt0073629/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0073629/img",
-   "id": "tt0073629",
-   "genres": [
-    "Comédia",
-    "Ficção científica",
-    "Terror"
-   ],
-   "releaseInfo": "1975",
-   "trailerStreams": [
-    {
-     "title": "The Rocky Horror Picture Show",
-     "ytId": "LnYBwampG8U"
-    },
-    {
-     "title": "The Rocky Horror Picture Show",
-     "ytId": "ldo_spDyLKc"
-    },
-    {
-     "title": "The Rocky Horror Picture Show",
-     "ytId": "4plqh6obZW4"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0073629"
-    },
-    {
-     "name": "The Rocky Horror Picture Show",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-rocky-horror-picture-show-0073629"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Musical",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Musical"
-    },
-    {
-     "name": "Tim Curry",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Curry"
-    },
-    {
-     "name": "Susan Sarandon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Susan%20Sarandon"
-    },
-    {
-     "name": "Barry Bostwick",
-     "category": "Cast",
-     "url": "stremio:///search?search=Barry%20Bostwick"
-    },
-    {
-     "name": "Richard O'Brien",
-     "category": "Writers",
-     "url": "stremio:///search?search=Richard%20O'Brien"
-    },
-    {
-     "name": "Jim Sharman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jim%20Sharman"
-    },
-    {
-     "name": "Jim Sharman",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jim%20Sharman"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0073629",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0073629.jpg"
-  },
-  {
    "name": "Don't Look Back in Anger",
    "cast": [
     "Liam Gallagher",
@@ -628,6 +280,226 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36150957.jpg"
   },
   {
+   "awards": "Nominated for 1 Oscar. 11 wins & 25 nominations total",
+   "cast": [
+    "Johnny Depp",
+    "Winona Ryder",
+    "Dianne Wiest"
+   ],
+   "country": "United States",
+   "description": "Era uma vez um simpático inventor que criou um jovem encantador chamado Eduardo. Mas o inventor morreu antes de terminar o Eduardo, que tinha tesouras de metal afiadas como mãos. O Eduardo ficou triste e sozinho, até que uma gentil vendedora da Avon convidou-o para morar com a família dela na fantástica terra de Suburbia.",
+   "director": [
+    "Tim Burton"
+   ],
+   "dvdRelease": "2014-11-21T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "imdbRating": "7.8",
+   "name": "Edward Scissorhands",
+   "released": "1990-12-14T00:00:00.000Z",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "S8bBjpUBbro",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Tim Burton",
+    "Caroline Thompson"
+   ],
+   "year": "1990",
+   "background": "https://images.metahub.space/background/medium/tt0099487/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0099487/img",
+   "id": "tt0099487",
+   "genres": [
+    "Fantasia",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "1990",
+   "trailerStreams": [
+    {
+     "title": "Edward Scissorhands",
+     "ytId": "S8bBjpUBbro"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0099487"
+    },
+    {
+     "name": "Edward Scissorhands",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/edward-scissorhands-0099487"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Johnny Depp",
+     "category": "Cast",
+     "url": "stremio:///search?search=Johnny%20Depp"
+    },
+    {
+     "name": "Winona Ryder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Winona%20Ryder"
+    },
+    {
+     "name": "Dianne Wiest",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dianne%20Wiest"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Burton"
+    },
+    {
+     "name": "Caroline Thompson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Caroline%20Thompson"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tim%20Burton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0099487",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0099487.jpg"
+  },
+  {
+   "name": "Noelle",
+   "year": "2019",
+   "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
+   ],
+   "released": "2019-11-12T00:00:00.000Z",
+   "imdbRating": "6.3",
+   "description": "As aventuras dos filhos do próprio Pai Natal. Anna Kendrick (Nicole) e Bill Hader (Nick) são os irmãos Claus, que já não aguentam a pressão de um dia ficar com o lugar do pai. Um dia, Nick decide fugir de casa e é a irmã mais nova, Nicole (Kendrick), que tem de subir à altura e procurar o seu irmão por todo o mundo de forma a salvar o período de Natal.",
+   "country": "United States, United Kingdom, Canada, China",
+   "trailers": [
+    {
+     "source": "frEqqQcbiPg",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Anna Kendrick",
+    "Shirley MacLaine",
+    "Bill Hader"
+   ],
+   "director": [
+    "Marc Lawrence"
+   ],
+   "writer": [
+    "Marc Lawrence"
+   ],
+   "runtime": "100 min",
+   "background": "https://images.metahub.space/background/medium/tt5097410/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5097410/img",
+   "dvdRelease": "2020-03-11T00:00:00.000Z",
+   "awards": "1 win total",
+   "id": "tt5097410",
+   "genres": [
+    "Família",
+    "Comédia",
+    "Fantasia"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Noelle",
+     "ytId": "frEqqQcbiPg"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5097410"
+    },
+    {
+     "name": "Noelle",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/noelle-5097410"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Anna Kendrick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anna%20Kendrick"
+    },
+    {
+     "name": "Shirley MacLaine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shirley%20MacLaine"
+    },
+    {
+     "name": "Bill Hader",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bill%20Hader"
+    },
+    {
+     "name": "Marc Lawrence",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marc%20Lawrence"
+    },
+    {
+     "name": "Marc Lawrence",
+     "category": "Directors",
+     "url": "stremio:///search?search=Marc%20Lawrence"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt5097410",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5097410.jpg"
+  },
+  {
    "id": "tt46027225",
    "behaviorHints": {
     "hasScheduledVideos": false
@@ -644,57 +516,134 @@
    "genres": [
     "Documentário"
    ],
-   "imdbRating": "6.6"
+   "imdbRating": "6.5"
   },
   {
-   "id": "tt21346758",
-   "logo": "https://live.metahub.space/logo/medium/tt21346758/img",
-   "background": "https://live.metahub.space/background/medium/tt21346758/img",
-   "name": "Truth and Lies: The Last Gangster",
-   "description": "Uma entrevista com um dos assassinos mais notórios da história da máfia, Sammy “The Bull” Gravano. Durante anos, ele e John Gotti, o chefe da família Gambino, controlaram partes da economia da cidade de Nova York sob um regime de medo e intimidação, e sua lealdade à “Família” teve um preço devastador.",
-   "genres": [
-    "Documentário",
-    "Crime"
+   "name": "Luca",
+   "cast": [
+    "Jacob Tremblay",
+    "Jack Dylan Grazer",
+    "Emma Berman"
    ],
-   "releaseInfo": "2022",
-   "runtime": "82 min",
+   "country": "United States, Japan",
+   "description": "Na Riviera Italiana, nasce uma amizade improvável, mas forte, entre um ser humano e um monstro marinho disfarçado de humano.",
+   "director": [
+    "Enrico Casarosa"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "7.4",
+   "released": "2021-06-18T00:00:00.000Z",
+   "writer": [
+    "Enrico Casarosa",
+    "Jesse Andrews",
+    "Simon Stephenson"
+   ],
+   "year": "2021",
    "trailers": [
     {
-     "source": "Vch0GURiNzs",
+     "source": "mYfJxlgR2jw",
+     "type": "Trailer"
+    },
+    {
+     "source": "YdAIBlPVe9s",
      "type": "Trailer"
     }
    ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [
+   "dvdRelease": "2021-06-18T00:00:00.000Z",
+   "runtime": "95 min",
+   "background": "https://images.metahub.space/background/medium/tt12801262/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12801262/img",
+   "awards": "Nominated for 1 Oscar. 6 wins & 83 nominations total",
+   "id": "tt12801262",
+   "genres": [
+    "Animação",
+    "Família",
+    "Fantasia"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
     {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Bram Harris",
-     "profile_path": null,
-     "id": 3666309
+     "title": "Luca",
+     "ytId": "mYfJxlgR2jw"
     },
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Dave Hoffman",
-     "profile_path": null,
-     "id": 3809056
+     "title": "Luca",
+     "ytId": "YdAIBlPVe9s"
     }
    ],
-   "director": [
-    "Dave Hoffman"
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12801262"
+    },
+    {
+     "name": "Luca",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/luca-12801262"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Jacob Tremblay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jacob%20Tremblay"
+    },
+    {
+     "name": "Jack Dylan Grazer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20Dylan%20Grazer"
+    },
+    {
+     "name": "Emma Berman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Berman"
+    },
+    {
+     "name": "Enrico Casarosa",
+     "category": "Writers",
+     "url": "stremio:///search?search=Enrico%20Casarosa"
+    },
+    {
+     "name": "Jesse Andrews",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jesse%20Andrews"
+    },
+    {
+     "name": "Simon Stephenson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Simon%20Stephenson"
+    },
+    {
+     "name": "Enrico Casarosa",
+     "category": "Directors",
+     "url": "stremio:///search?search=Enrico%20Casarosa"
+    }
    ],
-   "imdbRating": "6.5",
-   "language": "English",
-   "country": "United States",
    "behaviorHints": {
-    "defaultVideoId": "tt21346758",
+    "defaultVideoId": "tt12801262",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21346758.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12801262.jpg"
   },
   {
    "awards": "Won 2 Oscars. 64 wins & 96 nominations total",
@@ -953,138 +902,109 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14142060.jpg"
   },
   {
-   "name": "Star Wars: The Mandalorian and Grogu",
+   "awards": "Nominated for 1 Oscar. 20 wins & 34 nominations total",
    "cast": [
-    "Pedro Pascal",
-    "Brendan Wayne",
-    "Lateef Crowder"
+    "Sacha Baron Cohen",
+    "Ken Davitian",
+    "Luenell"
    ],
-   "country": "United States",
-   "description": "O Império caiu e os senhores da guerra imperiais permanecem espalhados pela galáxia. Enquanto a incipiente Nova República trabalha para proteger tudo pelo que a Rebelião lutou, recrutam o lendário caçador de recompensas Mandaloriano Din Djarin e o seu jovem aprendiz Grogu.",
+   "country": "United States, United Kingdom",
+   "description": "Borat, um importante repórter da Televisão do Cazaquistão, é enviado aos Estados Unidos da América para fazer um documentário sobre o maior País do mundo. Na cidade de Nova Iorque na companhia da sua primitiva equipa de reportagem, Borat está mais interessado em encontrar a “boa” da actriz Pamela Anderson para a pedir em casamento, do que outra coisa…",
    "director": [
-    "Jon Favreau"
+    "Larry Charles"
    ],
+   "dvdRelease": "2015-11-25T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Adventure",
-    "Family"
+    "Comedy"
    ],
-   "imdbRating": "6.7",
-   "released": "2026-05-22T00:00:00.000Z",
-   "writer": [
-    "George Lucas",
-    "Jon Favreau",
-    "Dave Filoni"
-   ],
-   "year": "2026",
+   "imdbRating": "7.4",
+   "name": "Borat",
+   "released": "2006-11-03T00:00:00.000Z",
+   "runtime": "84 min",
    "trailers": [
     {
-     "source": "uwild1rw7Aw",
-     "type": "Trailer"
-    },
-    {
-     "source": "IHWlvwu8t1w",
-     "type": "Trailer"
-    },
-    {
-     "source": "_pa1KLXuW0Y",
+     "source": "vlnUa_dNsRQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt30825738/img",
-   "logo": "https://images.metahub.space/logo/medium/tt30825738/img",
-   "runtime": "132 min",
-   "awards": "3 nominations total",
-   "id": "tt30825738",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Ficção científica"
+   "writer": [
+    "Sacha Baron Cohen",
+    "Anthony Hines",
+    "Peter Baynham"
    ],
-   "releaseInfo": "2026",
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0443453/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0443453/img",
+   "id": "tt0443453",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2006",
    "trailerStreams": [
     {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "uwild1rw7Aw"
-    },
-    {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "IHWlvwu8t1w"
-    },
-    {
-     "title": "Star Wars: The Mandalorian and Grogu",
-     "ytId": "_pa1KLXuW0Y"
+     "title": "Borat",
+     "ytId": "vlnUa_dNsRQ"
     }
    ],
    "links": [
     {
-     "name": "6.7",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt30825738"
+     "url": "https://imdb.com/title/tt0443453"
     },
     {
-     "name": "Star Wars: The Mandalorian and Grogu",
+     "name": "Borat",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/star-wars-the-mandalorian-and-grogu-30825738"
+     "url": "https://www.strem.io/s/movie/borat-0443453"
     },
     {
-     "name": "Action",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Pedro Pascal",
+     "name": "Sacha Baron Cohen",
      "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Pascal"
+     "url": "stremio:///search?search=Sacha%20Baron%20Cohen"
     },
     {
-     "name": "Brendan Wayne",
+     "name": "Ken Davitian",
      "category": "Cast",
-     "url": "stremio:///search?search=Brendan%20Wayne"
+     "url": "stremio:///search?search=Ken%20Davitian"
     },
     {
-     "name": "Lateef Crowder",
+     "name": "Luenell",
      "category": "Cast",
-     "url": "stremio:///search?search=Lateef%20Crowder"
+     "url": "stremio:///search?search=Luenell"
     },
     {
-     "name": "George Lucas",
+     "name": "Sacha Baron Cohen",
      "category": "Writers",
-     "url": "stremio:///search?search=George%20Lucas"
+     "url": "stremio:///search?search=Sacha%20Baron%20Cohen"
     },
     {
-     "name": "Jon Favreau",
+     "name": "Anthony Hines",
      "category": "Writers",
-     "url": "stremio:///search?search=Jon%20Favreau"
+     "url": "stremio:///search?search=Anthony%20Hines"
     },
     {
-     "name": "Dave Filoni",
+     "name": "Peter Baynham",
      "category": "Writers",
-     "url": "stremio:///search?search=Dave%20Filoni"
+     "url": "stremio:///search?search=Peter%20Baynham"
     },
     {
-     "name": "Jon Favreau",
+     "name": "Larry Charles",
      "category": "Directors",
-     "url": "stremio:///search?search=Jon%20Favreau"
+     "url": "stremio:///search?search=Larry%20Charles"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt30825738",
+    "defaultVideoId": "tt0443453",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0443453.jpg"
   }
  ]
 }
