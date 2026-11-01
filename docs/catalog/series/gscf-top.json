@@ -94,82 +94,111 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
   },
   {
-   "id": "tt39980704",
-   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
-   "background": "https://live.metahub.space/background/medium/tt39980704/img",
-   "name": "YAGA",
-   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
+   "name": "Dark Matter",
    "cast": [
-    "Carrie-Anne Moss",
-    "Clark Backo",
-    "Noah Reid"
+    "Joel Edgerton",
+    "Jennifer Connelly",
+    "Alice Braga"
    ],
-   "credits_cast": [
+   "country": "United States",
+   "description": "Um homem é raptado e levado para uma versão alternativa da sua vida. No meio da paisagem alucinante das vidas que poderia ter vivido, embarca numa viagem angustiante para reencontrar a sua verdadeira família e salvá-la de um inimigo terrível: ele próprio.",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "released": "2024-05-08T00:00:00.000Z",
+   "writer": [
+    "Blake Crouch"
+   ],
+   "year": "2024–",
+   "trailers": [
     {
-     "character": "Katherine",
-     "name": "Carrie-Anne Moss",
-     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
-     "id": 530
+     "source": "g8p9o-qAdKQ",
+     "type": "Trailer"
     },
     {
-     "character": "Carson",
-     "name": "Clark Backo",
-     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
-     "id": 1861573
-    },
-    {
-     "character": "Rapp",
-     "name": "Noah Reid",
-     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
-     "id": 199586
-    },
-    {
-     "character": "Henry Park",
-     "name": "Hudson Williams",
-     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
-     "id": 4194612
-    },
-    {
-     "character": "Pam",
-     "name": "Ezra Franky",
-     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
-     "id": 3821010
-    },
-    {
-     "character": "Eckert",
-     "name": "Patrick Gilmore",
-     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
-     "id": 76828
+     "source": "j6ucGt_Xp14",
+     "type": "Trailer"
     }
    ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Charles Cooper",
-     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
-     "id": 2313876
-    }
-   ],
+   "runtime": "54 min",
+   "status": "Continuing",
    "director": [],
-   "language": "English, Ukrainian",
-   "country": "Canada",
-   "awards": "1 nomination total",
+   "background": "https://images.metahub.space/background/medium/tt19231492/img",
+   "logo": "https://images.metahub.space/logo/medium/tt19231492/img",
+   "awards": "Nominated for 1 Primetime Emmy. 5 nominations total",
+   "id": "tt19231492",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Dark Matter",
+     "ytId": "g8p9o-qAdKQ"
+    },
+    {
+     "title": "Dark Matter",
+     "ytId": "j6ucGt_Xp14"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt19231492"
+    },
+    {
+     "name": "Dark Matter",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dark-matter-19231492"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Joel Edgerton",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joel%20Edgerton"
+    },
+    {
+     "name": "Jennifer Connelly",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Connelly"
+    },
+    {
+     "name": "Alice Braga",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alice%20Braga"
+    },
+    {
+     "name": "Blake Crouch",
+     "category": "Writers",
+     "url": "stremio:///search?search=Blake%20Crouch"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "7.3"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
   },
   {
    "awards": "Won 17 Primetime Emmys. 132 wins & 413 nominations total",
@@ -285,426 +314,82 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg"
   },
   {
-   "name": "Dark Matter",
-   "cast": [
-    "Joel Edgerton",
-    "Jennifer Connelly",
-    "Alice Braga"
-   ],
-   "country": "United States",
-   "description": "Um homem é raptado e levado para uma versão alternativa da sua vida. No meio da paisagem alucinante das vidas que poderia ter vivido, embarca numa viagem angustiante para reencontrar a sua verdadeira família e salvá-la de um inimigo terrível: ele próprio.",
-   "genre": [
-    "Drama",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "imdbRating": "7.6",
-   "released": "2024-05-08T00:00:00.000Z",
-   "writer": [
-    "Blake Crouch"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "g8p9o-qAdKQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "j6ucGt_Xp14",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "54 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt19231492/img",
-   "logo": "https://images.metahub.space/logo/medium/tt19231492/img",
-   "awards": "Nominated for 1 Primetime Emmy. 5 nominations total",
-   "id": "tt19231492",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Dark Matter",
-     "ytId": "g8p9o-qAdKQ"
-    },
-    {
-     "title": "Dark Matter",
-     "ytId": "j6ucGt_Xp14"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt19231492"
-    },
-    {
-     "name": "Dark Matter",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dark-matter-19231492"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Joel Edgerton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joel%20Edgerton"
-    },
-    {
-     "name": "Jennifer Connelly",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jennifer%20Connelly"
-    },
-    {
-     "name": "Alice Braga",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alice%20Braga"
-    },
-    {
-     "name": "Blake Crouch",
-     "category": "Writers",
-     "url": "stremio:///search?search=Blake%20Crouch"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
-  },
-  {
-   "cast": [
-    "Karl Urban",
-    "Jack Quaid",
-    "Antony Starr"
-   ],
-   "country": "United States",
-   "description": "Num mundo onde os super-heróis abraçam o lado mais negro da sua fama e celebridade, um grupo de justiceiros conhecidos informalmente como \"Os Rapazes\", têm como objetivo acabar com os super-heróis corruptos com apenas a sua determinação e disposição para jogar sujo.",
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "8.5",
-   "name": "The Boys",
-   "released": "2019-07-26T00:00:00.000Z",
-   "runtime": "64 min",
-   "writer": [
-    "Eric Kripke"
-   ],
-   "year": "2019–2026",
-   "director": [],
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt1190634/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1190634/img",
-   "awards": "Won 4 Primetime Emmys. 26 wins & 100 nominations total",
-   "trailers": [
-    {
-     "source": "tcrNsIaQkb4",
-     "type": "Trailer"
-    },
-    {
-     "source": "CD46c08MsHg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1190634",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
-    {
-     "title": "The Boys",
-     "ytId": "tcrNsIaQkb4"
-    },
-    {
-     "title": "The Boys",
-     "ytId": "CD46c08MsHg"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1190634"
-    },
-    {
-     "name": "The Boys",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-boys-1190634"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Karl Urban",
-     "category": "Cast",
-     "url": "stremio:///search?search=Karl%20Urban"
-    },
-    {
-     "name": "Jack Quaid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jack%20Quaid"
-    },
-    {
-     "name": "Antony Starr",
-     "category": "Cast",
-     "url": "stremio:///search?search=Antony%20Starr"
-    },
-    {
-     "name": "Eric Kripke",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eric%20Kripke"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1190634.jpg"
-  },
-  {
-   "name": "The Handmaid's Tale",
-   "year": "2017–2025",
-   "runtime": "51 min",
-   "genre": [
-    "Drama",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "released": "2017-04-26T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Bruce Miller"
-   ],
-   "cast": [
-    "Elisabeth Moss",
-    "Yvonne Strahovski",
-    "Ann Dowd"
-   ],
-   "imdbRating": "8.3",
-   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
-   "country": "United States",
-   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt5834204/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
-   "trailers": [
-    {
-     "source": "81PyH5TH-NQ",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt5834204",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "The Handmaid's Tale",
-     "ytId": "81PyH5TH-NQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt5834204"
-    },
-    {
-     "name": "The Handmaid's Tale",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Elisabeth Moss",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elisabeth%20Moss"
-    },
-    {
-     "name": "Yvonne Strahovski",
-     "category": "Cast",
-     "url": "stremio:///search?search=Yvonne%20Strahovski"
-    },
-    {
-     "name": "Ann Dowd",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ann%20Dowd"
-    },
-    {
-     "name": "Bruce Miller",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bruce%20Miller"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
-  },
-  {
-   "cast": [
-    "Tom Hiddleston",
-    "Owen Wilson",
-    "Sophia Di Martino"
-   ],
-   "description": "Depois de roubar o Tesseract durante os eventos de \"Vingadores: Endgame\", uma versão alternativa de Loki é levada à misteriosa Autoridade de Variação Temporal (AVT), uma organização burocrática que existe fora do tempo e do espaço e monitoriza a linha do tempo. Dão a Loki uma escolha: ser apagado da existência por ser uma \"variante temporal\" ou ajudar a corrigir a linha do tempo e parar uma ameaça maior.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-   ],
-   "imdbRating": "8.2",
-   "name": "Loki",
-   "released": "2021-06-09T00:00:00.000Z",
-   "year": "2021–2023",
-   "status": "Ended",
-   "director": [],
-   "writer": [
-    "Michael Waldron"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt9140554/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
-   "country": "United States",
-   "awards": "Nominated for 9 Primetime Emmys. 16 wins & 97 nominations total",
-   "runtime": "49 min",
-   "trailers": [
-    {
-     "source": "nW948Va-l10",
-     "type": "Trailer"
-    },
-    {
-     "source": "G4JuopziR3Q",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt9140554",
+   "id": "tt39980704",
+   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
+   "background": "https://live.metahub.space/background/medium/tt39980704/img",
+   "name": "YAGA",
+   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
    "genres": [
     "Drama",
     "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2021",
-   "trailerStreams": [
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Carrie-Anne Moss",
+    "Clark Backo",
+    "Noah Reid"
+   ],
+   "credits_cast": [
     {
-     "title": "Loki",
-     "ytId": "nW948Va-l10"
+     "character": "Katherine",
+     "name": "Carrie-Anne Moss",
+     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
+     "id": 530
     },
     {
-     "title": "Loki",
-     "ytId": "G4JuopziR3Q"
+     "character": "Carson",
+     "name": "Clark Backo",
+     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
+     "id": 1861573
+    },
+    {
+     "character": "Rapp",
+     "name": "Noah Reid",
+     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
+     "id": 199586
+    },
+    {
+     "character": "Henry Park",
+     "name": "Hudson Williams",
+     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
+     "id": 4194612
+    },
+    {
+     "character": "Pam",
+     "name": "Ezra Franky",
+     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
+     "id": 3821010
+    },
+    {
+     "character": "Eckert",
+     "name": "Patrick Gilmore",
+     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
+     "id": 76828
     }
    ],
-   "links": [
+   "credits_crew": [
     {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt9140554"
-    },
-    {
-     "name": "Loki",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/loki-9140554"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Tom Hiddleston",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hiddleston"
-    },
-    {
-     "name": "Owen Wilson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Owen%20Wilson"
-    },
-    {
-     "name": "Sophia Di Martino",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Di%20Martino"
-    },
-    {
-     "name": "Michael Waldron",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Waldron"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Charles Cooper",
+     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
+     "id": 2313876
     }
    ],
+   "director": [],
+   "language": "English, Ukrainian",
+   "country": "Canada",
+   "awards": "1 nomination total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9140554.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+   "imdbRating": "7.2"
   },
   {
    "id": "tt23112594",
@@ -821,69 +506,398 @@
    "imdbRating": "7.9"
   },
   {
-   "name": "Fallout",
+   "status": "Continuing",
+   "id": "tt36458668",
+   "name": "Dead-End Job",
+   "releaseInfo": "2026",
+   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
    "cast": [
-    "Ella Purnell",
-    "Aaron Moten",
-    "Walton Goggins"
+    "Lee Jae-wook",
+    "Go Min-si",
+    "Kim Min-ha",
+    "Lee Hee-jun",
+    "Yoon Byung-hee",
+    "Cho Hyun-chul",
+    "Choi Hyun-wook",
+    "Yoon Kyung-ho"
    ],
-   "country": "United States",
-   "description": "Baseado numa das maiores sagas de videojogos de todos os tempos, Fallout é a história de quem tem e de quem não tem num mundo em que já não há quase nada para ter. Duzentos anos após o apocalipse, uma pacífica habitante de um acolhedor abrigo nuclear é forçada a regressar à superfície - e fica chocada ao descobrir o deserto que a espera.",
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "imdbRating": "7.4"
+  },
+  {
+   "cast": [
+    "Tom Hiddleston",
+    "Owen Wilson",
+    "Sophia Di Martino"
+   ],
+   "description": "Depois de roubar o Tesseract durante os eventos de \"Vingadores: Endgame\", uma versão alternativa de Loki é levada à misteriosa Autoridade de Variação Temporal (AVT), uma organização burocrática que existe fora do tempo e do espaço e monitoriza a linha do tempo. Dão a Loki uma escolha: ser apagado da existência por ser uma \"variante temporal\" ou ajudar a corrigir a linha do tempo e parar uma ameaça maior.",
    "genre": [
     "Action",
     "Adventure",
-    "Drama"
+    "Fantasy"
    ],
-   "imdbRating": "8.3",
-   "released": "2024-04-10T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "56 min",
-   "status": "Continuing",
+   "imdbRating": "8.2",
+   "name": "Loki",
+   "released": "2021-06-09T00:00:00.000Z",
+   "year": "2021–2023",
+   "status": "Ended",
+   "director": [],
+   "writer": [
+    "Michael Waldron"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt9140554/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9140554/img",
+   "country": "United States",
+   "awards": "Nominated for 9 Primetime Emmys. 16 wins & 97 nominations total",
+   "runtime": "49 min",
    "trailers": [
     {
-     "source": "7h8zJHywjAw",
+     "source": "nW948Va-l10",
      "type": "Trailer"
     },
     {
-     "source": "0kQ8i2FpRDk",
+     "source": "G4JuopziR3Q",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [
-    "Geneva Robertson-Dworet",
-    "Graham Wagner"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt12637874/img",
-   "logo": "https://images.metahub.space/logo/medium/tt12637874/img",
-   "awards": "Won 3 Primetime Emmys. 19 wins & 90 nominations total",
-   "id": "tt12637874",
+   "id": "tt9140554",
    "genres": [
-    "Action & Adventure",
-    "Sci-Fi & Fantasy",
-    "Drama"
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2024",
+   "releaseInfo": "2021",
    "trailerStreams": [
     {
-     "title": "Fallout",
-     "ytId": "7h8zJHywjAw"
+     "title": "Loki",
+     "ytId": "nW948Va-l10"
     },
     {
-     "title": "Fallout",
-     "ytId": "0kQ8i2FpRDk"
+     "title": "Loki",
+     "ytId": "G4JuopziR3Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9140554"
+    },
+    {
+     "name": "Loki",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/loki-9140554"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Tom Hiddleston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hiddleston"
+    },
+    {
+     "name": "Owen Wilson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Owen%20Wilson"
+    },
+    {
+     "name": "Sophia Di Martino",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sophia%20Di%20Martino"
+    },
+    {
+     "name": "Michael Waldron",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Waldron"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9140554.jpg"
+  },
+  {
+   "name": "The Handmaid's Tale",
+   "year": "2017–2025",
+   "runtime": "51 min",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "released": "2017-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Bruce Miller"
+   ],
+   "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Ann Dowd"
+   ],
+   "imdbRating": "8.3",
+   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
+   "country": "United States",
+   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5834204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
+   "trailers": [
+    {
+     "source": "81PyH5TH-NQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5834204",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "The Handmaid's Tale",
+     "ytId": "81PyH5TH-NQ"
     }
    ],
    "links": [
     {
      "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt12637874"
+     "url": "https://imdb.com/title/tt5834204"
     },
     {
-     "name": "Fallout",
+     "name": "The Handmaid's Tale",
      "category": "share",
-     "url": "https://www.strem.io/s/series/fallout-12637874"
+     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Elisabeth Moss",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elisabeth%20Moss"
+    },
+    {
+     "name": "Yvonne Strahovski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Yvonne%20Strahovski"
+    },
+    {
+     "name": "Ann Dowd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ann%20Dowd"
+    },
+    {
+     "name": "Bruce Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bruce%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
+  },
+  {
+   "name": "Outlander: Blood of My Blood",
+   "cast": [
+    "Jeremy Irvine",
+    "Hermione Corfield",
+    "Harriet Slater"
+   ],
+   "country": "United States",
+   "description": "Desde os campos de batalha da Primeira Guerra Mundial até às agrestes Terras Altas da Escócia do século XVIII, dois casais destinados têm de desafiar as forças que procuram separá-los, desenrolando-se de forma surpreendente e inesperada nesta saga romântica que se desenrola ao longo do tempo.",
+   "imdbRating": "8.1",
+   "released": "2025-08-08T00:00:00.000Z",
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "9hvjJEXoIhs",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "genre": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+   ],
+   "writer": [
+    "Matthew B. Roberts"
+   ],
+   "runtime": "63 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt18332852/img",
+   "logo": "https://images.metahub.space/logo/medium/tt18332852/img",
+   "awards": "5 nominations total",
+   "id": "tt18332852",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Outlander: Blood of My Blood",
+     "ytId": "9hvjJEXoIhs"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt18332852"
+    },
+    {
+     "name": "Outlander: Blood of My Blood",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/outlander-blood-of-my-blood-18332852"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Jeremy Irvine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeremy%20Irvine"
+    },
+    {
+     "name": "Hermione Corfield",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hermione%20Corfield"
+    },
+    {
+     "name": "Harriet Slater",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harriet%20Slater"
+    },
+    {
+     "name": "Matthew B. Roberts",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matthew%20B.%20Roberts"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18332852.jpg"
+  },
+  {
+   "awards": "Won 18 Primetime Emmys. 40 wins & 62 nominations total",
+   "cast": [
+    "Patrick Stewart",
+    "Brent Spiner",
+    "Jonathan Frakes"
+   ],
+   "country": "United States",
+   "description": "Décadas após as aventuras da tripulação original da Enterprise, o capitão Jean-Luc Picard lidera a nova Enterprise em missões para explorar mundos desconhecidos.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.7",
+   "name": "Star Trek: The Next Generation",
+   "released": "1987-09-28T00:00:00.000Z",
+   "runtime": "44 min",
+   "status": "Ended",
+   "writer": [
+    "Gene Roddenberry"
+   ],
+   "year": "1987–1994",
+   "background": "https://images.metahub.space/background/medium/tt0092455/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0092455/img",
+   "trailers": [
+    {
+     "source": "HnDtvZXYHgE",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0092455",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "1987",
+   "trailerStreams": [
+    {
+     "title": "Star Trek: The Next Generation",
+     "ytId": "HnDtvZXYHgE"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0092455"
+    },
+    {
+     "name": "Star Trek: The Next Generation",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/star-trek-the-next-generation-0092455"
     },
     {
      "name": "Action",
@@ -901,29 +915,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Ella Purnell",
+     "name": "Patrick Stewart",
      "category": "Cast",
-     "url": "stremio:///search?search=Ella%20Purnell"
+     "url": "stremio:///search?search=Patrick%20Stewart"
     },
     {
-     "name": "Aaron Moten",
+     "name": "Brent Spiner",
      "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Moten"
+     "url": "stremio:///search?search=Brent%20Spiner"
     },
     {
-     "name": "Walton Goggins",
+     "name": "Jonathan Frakes",
      "category": "Cast",
-     "url": "stremio:///search?search=Walton%20Goggins"
+     "url": "stremio:///search?search=Jonathan%20Frakes"
     },
     {
-     "name": "Geneva Robertson-Dworet",
+     "name": "Gene Roddenberry",
      "category": "Writers",
-     "url": "stremio:///search?search=Geneva%20Robertson-Dworet"
-    },
-    {
-     "name": "Graham Wagner",
-     "category": "Writers",
-     "url": "stremio:///search?search=Graham%20Wagner"
+     "url": "stremio:///search?search=Gene%20Roddenberry"
     }
    ],
    "behaviorHints": {
@@ -932,124 +941,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12637874.jpg"
-  },
-  {
-   "name": "My Hero Academia",
-   "year": "2016–2026",
-   "runtime": "23 min",
-   "genre": [
-    "Animation",
-    "Action",
-    "Adventure"
-   ],
-   "released": "2018-05-05T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Kôhei Horikoshi"
-   ],
-   "cast": [
-    "Daiki Yamashita",
-    "Justin Briner",
-    "Nobuhiko Okamoto"
-   ],
-   "imdbRating": "8.2",
-   "description": "Por toda a sua vida, Izuku sonhou ser um heroi, um objetivo ambicioso para qualquer um, mas especialmente desafiador para um garoto sem superpoderes. Isso mesmo: em um mundo onde 80% da população tem algum tipo de Dom especial, Izuku teve a má sorte de nascer completamente normal. Mas isso não vai impedi-lo de se matricular em uma das academias de herois mais prestigiosas do mundo.",
-   "country": "Japan",
-   "awards": "41 wins & 70 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt5626028/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5626028/img",
-   "trailers": [
-    {
-     "source": "TRr_dS2REo4",
-     "type": "Trailer"
-    },
-    {
-     "source": "broyogKLs2Y",
-     "type": "Trailer"
-    },
-    {
-     "source": "wIb3nnOeves",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt5626028",
-   "genres": [
-    "Action & Adventure",
-    "Animação",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "My Hero Academia",
-     "ytId": "TRr_dS2REo4"
-    },
-    {
-     "title": "My Hero Academia",
-     "ytId": "broyogKLs2Y"
-    },
-    {
-     "title": "My Hero Academia",
-     "ytId": "wIb3nnOeves"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt5626028"
-    },
-    {
-     "name": "My Hero Academia",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/my-hero-academia-5626028"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Daiki Yamashita",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daiki%20Yamashita"
-    },
-    {
-     "name": "Justin Briner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Justin%20Briner"
-    },
-    {
-     "name": "Nobuhiko Okamoto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nobuhiko%20Okamoto"
-    },
-    {
-     "name": "Kôhei Horikoshi",
-     "category": "Writers",
-     "url": "stremio:///search?search=K%C3%B4hei%20Horikoshi"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5626028.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0092455.jpg"
   }
  ]
 }
