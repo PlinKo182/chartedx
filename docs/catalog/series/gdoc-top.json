@@ -522,50 +522,6 @@
    "imdbRating": "8.0"
   },
   {
-   "id": "tt43702035",
-   "logo": "https://live.metahub.space/logo/medium/tt43702035/img",
-   "background": "https://live.metahub.space/background/medium/tt43702035/img",
-   "name": "Marília Mendonça: All the Feels",
-   "description": "A produção retratará a trajetória de vida e a carreira meteórica de uma das maiores vozes do sertanejo brasileiro: Marília Mendonça — a artista feminina mais ouvida do país. O projeto revisita os passos de uma cantora que marcou uma geração e transformou, para sempre, o cenário da música nacional. Com acesso exclusivo a arquivos pessoais e depoimentos de amigos, familiares e parceiros de estrada, a produção revela os bastidores de uma carreira construída com verdade, talento e emoção. Marília conquistou uma legião de fãs com seu carisma e seu amor incondicional pela música.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Marília Mendonça"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self (archive footage)",
-     "name": "Marília Mendonça",
-     "profile_path": "/kIzf2eHErDmEoQUDFCZhNohQaeE.jpg",
-     "id": 2319763
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Susanna Lira",
-     "profile_path": "/atnfLvfcUx7PaBXLzyHUb4e5GjF.jpg",
-     "id": 1454889
-    }
-   ],
-   "director": [
-    "Susanna Lira"
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43702035.jpg",
-   "imdbRating": "8.9"
-  },
-  {
    "name": "Hanno ucciso l'Uomo Ragno: La leggendaria storia degli 883",
    "cast": [
     "Elia Nuzzolo",
@@ -630,6 +586,96 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
+  },
+  {
+   "name": "Mourinho",
+   "cast": [
+    "José Mourinho",
+    "Lionel Messi",
+    "Pep Guardiola"
+   ],
+   "country": "United States",
+   "description": "Um documentário que conta a história da ascensão meteórica de José Mourinho até se tornar um dos melhores treinadores de futebol do mundo nos clubes mais prestigiados.",
+   "genre": [
+    "Documentary",
+    "Biography",
+    "Sport"
+   ],
+   "imdbRating": "7.7",
+   "released": "2026-08-11T00:00:00.000Z",
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "e26vQ3ddHRE",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "57 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt43673968/img",
+   "background": "https://images.metahub.space/background/medium/tt43673968/img",
+   "id": "tt43673968",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Mourinho",
+     "ytId": "e26vQ3ddHRE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt43673968"
+    },
+    {
+     "name": "Mourinho",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/mourinho-43673968"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "José Mourinho",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jos%C3%A9%20Mourinho"
+    },
+    {
+     "name": "Lionel Messi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lionel%20Messi"
+    },
+    {
+     "name": "Pep Guardiola",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pep%20Guardiola"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43673968.jpg"
   }
  ]
 }
