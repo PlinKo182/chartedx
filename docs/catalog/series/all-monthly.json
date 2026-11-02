@@ -1,79 +1,6 @@
 {
  "metas": [
   {
-   "name": "East of Eden",
-   "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
-   ],
-   "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "M9NWvGZViCg",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
-    }
-   ],
-   "links": [
-    {
-     "name": "East of Eden",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
-    },
-    {
-     "name": "Mike Faist",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
-    },
-    {
-     "name": "Christopher Abbott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
-  },
-  {
    "name": "Carrie",
    "cast": [
     "Summer H. Howell",
@@ -86,7 +13,7 @@
     "Drama",
     "Horror"
    ],
-   "imdbRating": "7.9",
+   "imdbRating": "7.8",
    "released": "2026-10-07T00:00:00.000Z",
    "writer": [
     "Mike Flanagan"
@@ -165,6 +92,79 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
+   "name": "East of Eden",
+   "cast": [
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
+   ],
+   "country": "United States",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "M9NWvGZViCg",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
+    }
+   ],
+   "links": [
+    {
+     "name": "East of Eden",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Florence Pugh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Florence%20Pugh"
+    },
+    {
+     "name": "Mike Faist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mike%20Faist"
+    },
+    {
+     "name": "Christopher Abbott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Abbott"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
    "name": "Slow Horses",
@@ -533,7 +533,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "7.9"
+   "imdbRating": "7.8"
   },
   {
    "name": "Ted Lasso",
@@ -766,59 +766,65 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
   },
   {
-   "name": "Silo",
+   "name": "The Terminal List",
    "cast": [
-    "Rebecca Ferguson",
-    "Common",
-    "Chinaza Uche"
+    "Chris Pratt",
+    "Constance Wu",
+    "Taylor Kitsch"
    ],
-   "description": "Num mundo futuro tóxico e em ruínas, milhares de pessoas vivem num gigantesco silo subterrâneo. Após a quebra de uma regra fundamental pelo xerife e a misteriosa morte de alguns residentes, a engenheira Juliette Nichols começa a desvendar segredos chocantes e a verdade sobre o silo.",
+   "country": "United States",
+   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
    "genre": [
+    "Action",
     "Drama",
-    "Mystery",
-    "Sci-Fi"
+    "Thriller"
    ],
-   "imdbRating": "8.1",
-   "released": "2023-05-05T00:00:00.000Z",
-   "year": "2023–",
-   "runtime": "51 min",
+   "imdbRating": "7.9",
+   "released": "2022-07-01T00:00:00.000Z",
+   "year": "2022–",
    "status": "Continuing",
    "director": [],
    "writer": [
-    "Graham Yost"
+    "Jack Carr",
+    "David DiGilio"
    ],
-   "background": "https://images.metahub.space/background/medium/tt14688458/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14688458/img",
+   "background": "https://images.metahub.space/background/medium/tt11743610/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
+   "awards": "3 nominations total",
+   "runtime": "60 min",
    "trailers": [
     {
-     "source": "8ZYhuvIv1pA",
+     "source": "x9FvvsC0B5Q",
      "type": "Trailer"
     }
    ],
-   "country": "United States",
-   "awards": "Nominated for 2 Primetime Emmys. 4 wins & 30 nominations total",
-   "id": "tt14688458",
+   "id": "tt11743610",
    "genres": [
-    "Sci-Fi & Fantasy",
+    "Action & Adventure",
     "Drama"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Silo",
-     "ytId": "8ZYhuvIv1pA"
+     "title": "The Terminal List",
+     "ytId": "x9FvvsC0B5Q"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt14688458"
+     "url": "https://imdb.com/title/tt11743610"
     },
     {
-     "name": "Silo",
+     "name": "The Terminal List",
      "category": "share",
-     "url": "https://www.strem.io/s/series/silo-14688458"
+     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
@@ -826,34 +832,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Rebecca Ferguson",
+     "name": "Chris Pratt",
      "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Ferguson"
+     "url": "stremio:///search?search=Chris%20Pratt"
     },
     {
-     "name": "Common",
+     "name": "Constance Wu",
      "category": "Cast",
-     "url": "stremio:///search?search=Common"
+     "url": "stremio:///search?search=Constance%20Wu"
     },
     {
-     "name": "Chinaza Uche",
+     "name": "Taylor Kitsch",
      "category": "Cast",
-     "url": "stremio:///search?search=Chinaza%20Uche"
+     "url": "stremio:///search?search=Taylor%20Kitsch"
     },
     {
-     "name": "Graham Yost",
+     "name": "Jack Carr",
      "category": "Writers",
-     "url": "stremio:///search?search=Graham%20Yost"
+     "url": "stremio:///search?search=Jack%20Carr"
+    },
+    {
+     "name": "David DiGilio",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20DiGilio"
     }
    ],
    "behaviorHints": {
@@ -862,7 +868,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
   },
   {
    "name": "Dark Matter",

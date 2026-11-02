@@ -109,66 +109,56 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743760.jpg"
   },
   {
-   "name": "All the Light We Cannot See",
+   "awards": "Won 6 Primetime Emmys. 34 wins & 26 nominations total",
    "cast": [
-    "Aria Mia Loberti",
-    "Louis Hofmann",
-    "Lars Eidinger"
+    "Scott Grimes",
+    "Damian Lewis",
+    "Ron Livingston"
    ],
-   "country": "United States",
-   "description": "Nos últimos dias da II Guerra Mundial, os caminhos de uma menina francesa e de um soldado alemão cruzam-se.  Baseada na obra vencedora de um Pulitzer de Anthony Doerr.",
+   "country": "United Kingdom, United States",
+   "description": "Baseado no best-seller de relatos verídicos de Stephen E. Ambrose, Irmãos de Armas conta-nos a história do 506º Regimento da 101ª Divisão Aero-transportada do Exército Americano. Começando com o seu rigoroso treino na Geórgia em 1942, mostra-nos os feitos desta companhia de elite desde o Dia D até à queda da Alemanha Nazi e à sua rendição. Concebida a partir de horas de entrevistas com sobreviventes, bem como de diários e cartas de soldados.",
+   "director": null,
+   "dvdRelease": "2009-03-17T00:00:00.000Z",
    "genre": [
+    "Action",
     "Drama",
-    "History",
-    "War"
+    "History"
    ],
-   "imdbRating": "7.5",
-   "released": "2023-11-02T00:00:00.000Z",
+   "imdbRating": "9.4",
+   "name": "Band of Brothers",
+   "released": "2001-09-09T00:00:00.000Z",
+   "runtime": "594 min",
+   "trailers": [],
    "writer": [
-    "Steven Knight"
+    "Tom Hanks",
+    "Steven Spielberg"
    ],
-   "year": "2023",
-   "runtime": "57 min",
+   "year": "2001",
    "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt15320362/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15320362/img",
-   "trailers": [
-    {
-     "source": "h7E0PStA8YE",
-     "type": "Trailer"
-    },
-    {
-     "source": "QdE-JvKqpBQ",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 4 Primetime Emmys. 4 wins & 27 nominations total",
-   "id": "tt15320362",
+   "background": "https://images.metahub.space/background/medium/tt0185906/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0185906/img",
+   "id": "tt0185906",
    "genres": [
-    "Drama"
+    "Drama",
+    "War & Politics"
    ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "All the Light We Cannot See",
-     "ytId": "h7E0PStA8YE"
-    },
-    {
-     "title": "All the Light We Cannot See",
-     "ytId": "QdE-JvKqpBQ"
-    }
-   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [],
    "links": [
     {
-     "name": "7.5",
+     "name": "9.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt15320362"
+     "url": "https://imdb.com/title/tt0185906"
     },
     {
-     "name": "All the Light We Cannot See",
+     "name": "Band of Brothers",
      "category": "share",
-     "url": "https://www.strem.io/s/series/all-the-light-we-cannot-see-15320362"
+     "url": "https://www.strem.io/s/series/band-of-brothers-0185906"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
@@ -181,29 +171,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
-    },
-    {
-     "name": "Aria Mia Loberti",
+     "name": "Scott Grimes",
      "category": "Cast",
-     "url": "stremio:///search?search=Aria%20Mia%20Loberti"
+     "url": "stremio:///search?search=Scott%20Grimes"
     },
     {
-     "name": "Louis Hofmann",
+     "name": "Damian Lewis",
      "category": "Cast",
-     "url": "stremio:///search?search=Louis%20Hofmann"
+     "url": "stremio:///search?search=Damian%20Lewis"
     },
     {
-     "name": "Lars Eidinger",
+     "name": "Ron Livingston",
      "category": "Cast",
-     "url": "stremio:///search?search=Lars%20Eidinger"
+     "url": "stremio:///search?search=Ron%20Livingston"
     },
     {
-     "name": "Steven Knight",
+     "name": "Tom Hanks",
      "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Knight"
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Steven Spielberg",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Spielberg"
     }
    ],
    "behaviorHints": {
@@ -212,127 +202,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15320362.jpg"
-  },
-  {
-   "name": "Babylon Berlin",
-   "year": "2017–",
-   "runtime": "46 min",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "released": "2018-01-30T00:00:00.000Z",
-   "cast": [
-    "Volker Bruch",
-    "Liv Lisa Fries",
-    "Lars Eidinger"
-   ],
-   "imdbRating": "8.4",
-   "description": "Berlim no final dos anos 20. O inspetor da polícia Gereon Rath é transferido para Berlim para investigar uma rede de pornografia e vê-se envolvido numa teia que envolve as mais altas esferas do Governo.",
-   "country": "Germany",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Henk Handloegten",
-    "Tom Tykwer",
-    "Achim von Borries"
-   ],
-   "awards": "25 wins & 20 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt4378376/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4378376/img",
-   "trailers": [
-    {
-     "source": "HAn3RXeCrLg",
-     "type": "Trailer"
-    },
-    {
-     "source": "j_qN5bFfOTE",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt4378376",
-   "genres": [
-    "Drama",
-    "Crime",
-    "Mistério"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Babylon Berlin",
-     "ytId": "HAn3RXeCrLg"
-    },
-    {
-     "title": "Babylon Berlin",
-     "ytId": "j_qN5bFfOTE"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4378376"
-    },
-    {
-     "name": "Babylon Berlin",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/babylon-berlin-4378376"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Volker Bruch",
-     "category": "Cast",
-     "url": "stremio:///search?search=Volker%20Bruch"
-    },
-    {
-     "name": "Liv Lisa Fries",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liv%20Lisa%20Fries"
-    },
-    {
-     "name": "Lars Eidinger",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lars%20Eidinger"
-    },
-    {
-     "name": "Henk Handloegten",
-     "category": "Writers",
-     "url": "stremio:///search?search=Henk%20Handloegten"
-    },
-    {
-     "name": "Tom Tykwer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Tykwer"
-    },
-    {
-     "name": "Achim von Borries",
-     "category": "Writers",
-     "url": "stremio:///search?search=Achim%20von%20Borries"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4378376.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185906.jpg"
   },
   {
    "country": "Canada, United States",
@@ -611,122 +481,73 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5622316.jpg"
   },
   {
-   "name": "The Final Problem",
+   "awards": "Won 6 Primetime Emmys. 49 wins & 82 nominations total",
    "cast": [
-    "María Valverde",
-    "Maribel Verdú",
-    "Jose Coronado"
+    "Jonathan Rhys Meyers",
+    "Henry Cavill",
+    "James Frain"
    ],
-   "country": "Spain",
-   "description": "Na primavera de 1959, um ator reformado, que antes interpretava Sherlock Holmes, tem de investigar um assassinato num pequeno hotel numa ilha minúscula perto de Maiorca.",
+   "country": "Ireland, Canada, United States, United Kingdom",
+   "description": "Uma série de ficção baseada na vida e no reinado do rei Henrique VIII, dos mais notáveis réis da Dinastia Tudor. Um rei que, em nome dos seus desejos e interesses, não hesitou em enfrentar as intrigas da corte e da política do seu tempo, fazer e desfazer alianças, romper relações com a Santa Sé e fundar uma nova igreja protestante.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Crime",
     "Drama",
-    "History"
+    "History",
+    "Romance"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-09-25T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "46 min",
+   "imdbRating": "8.1",
+   "name": "The Tudors",
+   "released": "2007-04-01T00:00:00.000Z",
+   "runtime": "60 min",
    "status": "Ended",
+   "writer": [
+    "Michael Hirst"
+   ],
+   "year": "2007–2010",
+   "background": "https://images.metahub.space/background/medium/tt0758790/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0758790/img",
    "trailers": [
     {
-     "source": "yLeja7kWgmU",
+     "source": "qTiL8pgNqhs",
+     "type": "Trailer"
+    },
+    {
+     "source": "WXNf9dxnQrM",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt36832679/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36832679/img",
-   "id": "tt36832679",
+   "id": "tt0758790",
    "genres": [
-    "Crime",
-    "Mistério"
+    "Drama",
+    "Romance"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2007",
    "trailerStreams": [
     {
-     "title": "The Final Problem",
-     "ytId": "yLeja7kWgmU"
+     "title": "The Tudors",
+     "ytId": "qTiL8pgNqhs"
+    },
+    {
+     "title": "The Tudors",
+     "ytId": "WXNf9dxnQrM"
     }
    ],
    "links": [
     {
-     "name": "The Final Problem",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-final-problem-36832679"
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0758790"
     },
     {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "name": "The Tudors",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-tudors-0758790"
     },
     {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "María Valverde",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mar%C3%ADa%20Valverde"
-    },
-    {
-     "name": "Maribel Verdú",
-     "category": "Cast",
-     "url": "stremio:///search?search=Maribel%20Verd%C3%BA"
-    },
-    {
-     "name": "Jose Coronado",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jose%20Coronado"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36832679.jpg"
-  },
-  {
-   "name": "Firefly Wedding",
-   "cast": [
-    "Kôki Uchiyama",
-    "Lynn"
-   ],
-   "description": "Estamos na era Meiji. Abençoada com uma herança familiar e beleza, Satoko tem como único desejo se casar pelo bem da família. Mas, de repente, um misterioso assassino vem atrás dela?! Para conseguir sair viva daquela situação, Satoko faz uma \"proposta\" ao assassino…",
-   "genre": [
-    "History",
-    "Romance"
-   ],
-   "imdbRating": "7.4",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39394153/img",
-   "background": "https://images.metahub.space/background/medium/tt39394153/img",
-   "id": "tt39394153",
-   "genres": [
-    "Animação",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Firefly Wedding",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/firefly-wedding-39394153"
     },
     {
      "name": "History",
@@ -739,14 +560,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Kôki Uchiyama",
+     "name": "Jonathan Rhys Meyers",
      "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ki%20Uchiyama"
+     "url": "stremio:///search?search=Jonathan%20Rhys%20Meyers"
     },
     {
-     "name": "Lynn",
+     "name": "Henry Cavill",
      "category": "Cast",
-     "url": "stremio:///search?search=Lynn"
+     "url": "stremio:///search?search=Henry%20Cavill"
+    },
+    {
+     "name": "James Frain",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Frain"
+    },
+    {
+     "name": "Michael Hirst",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Hirst"
     }
    ],
    "behaviorHints": {
@@ -755,74 +586,66 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39394153.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0758790.jpg"
   },
   {
-   "name": "My Happy Marriage",
-   "cast": [
-    "Reina Ueda",
-    "Kaito Ishikawa",
-    "Damien C. Haas"
-   ],
-   "country": "Japan",
-   "description": "A família abusiva de Miyo considera-a inútil. Mas com o apoio do futuro marido, ela começa a mostrar a sua verdadeira personalidade e a revelar os seus poderes.",
+   "name": "The Spy",
+   "description": "Nos anos 60, o contabilista Eli Cohen é promovido a agente secreto e infiltra-se na Síria numa longa e perigosa missão para espiar para a Mossad.",
    "genre": [
-    "Animation",
+    "Biography",
     "Drama",
-    "Fantasy"
+    "History"
    ],
-   "imdbRating": "7.5",
-   "released": "2023-07-05T00:00:00.000Z",
-   "year": "2023–2025",
+   "imdbRating": "7.9",
+   "released": "2019-09-06T00:00:00.000Z",
+   "year": "2019",
+   "status": "Ended",
+   "cast": [
+    "Sacha Baron Cohen",
+    "Noah Emmerich",
+    "Hadar Ratzon Rotem"
+   ],
+   "director": [],
+   "writer": [
+    "Gideon Raff"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5952634/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5952634/img",
+   "country": "France, United States",
+   "runtime": "54 min",
+   "awards": "2 nominations total",
    "trailers": [
     {
-     "source": "LHkn20xqybk",
-     "type": "Trailer"
-    },
-    {
-     "source": "dURh9kVzcw8",
+     "source": "5UijUOy0MmE",
      "type": "Trailer"
     }
    ],
-   "runtime": "24 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt19869172/img",
-   "logo": "https://images.metahub.space/logo/medium/tt19869172/img",
-   "awards": "8 wins & 20 nominations total",
-   "id": "tt19869172",
+   "id": "tt5952634",
    "genres": [
-    "Animação",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Drama"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "My Happy Marriage",
-     "ytId": "LHkn20xqybk"
-    },
-    {
-     "title": "My Happy Marriage",
-     "ytId": "dURh9kVzcw8"
+     "title": "The Spy",
+     "ytId": "5UijUOy0MmE"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt19869172"
+     "url": "https://imdb.com/title/tt5952634"
     },
     {
-     "name": "My Happy Marriage",
+     "name": "The Spy",
      "category": "share",
-     "url": "https://www.strem.io/s/series/my-happy-marriage-19869172"
+     "url": "https://www.strem.io/s/series/the-spy-5952634"
     },
     {
-     "name": "Animation",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
     },
     {
      "name": "Drama",
@@ -830,24 +653,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
+     "name": "History",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Reina Ueda",
+     "name": "Sacha Baron Cohen",
      "category": "Cast",
-     "url": "stremio:///search?search=Reina%20Ueda"
+     "url": "stremio:///search?search=Sacha%20Baron%20Cohen"
     },
     {
-     "name": "Kaito Ishikawa",
+     "name": "Noah Emmerich",
      "category": "Cast",
-     "url": "stremio:///search?search=Kaito%20Ishikawa"
+     "url": "stremio:///search?search=Noah%20Emmerich"
     },
     {
-     "name": "Damien C. Haas",
+     "name": "Hadar Ratzon Rotem",
      "category": "Cast",
-     "url": "stremio:///search?search=Damien%20C.%20Haas"
+     "url": "stremio:///search?search=Hadar%20Ratzon%20Rotem"
+    },
+    {
+     "name": "Gideon Raff",
+     "category": "Writers",
+     "url": "stremio:///search?search=Gideon%20Raff"
     }
    ],
    "behaviorHints": {
@@ -856,7 +684,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19869172.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5952634.jpg"
   },
   {
    "name": "Chernobyl",
@@ -965,63 +793,36 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7366338.jpg"
   },
   {
-   "name": "Show Me a Hero",
-   "year": "2015",
-   "runtime": "60 min",
-   "genre": [
-    "Drama",
-    "History"
-   ],
-   "released": "2015-08-16T00:00:00.000Z",
-   "director": null,
-   "writer": null,
+   "name": "Firefly Wedding",
    "cast": [
-    "Oscar Isaac",
-    "Natalie Paul",
-    "Carla Quevedo"
+    "Kôki Uchiyama",
+    "Lynn"
    ],
-   "imdbRating": "7.9",
-   "description": "Nick Wasicsko toma posse como presidente da câmara em 1987 durante a maior crise de Yonkers, quando tribunais obrigam a cidade a construir habitações sociais numa comunidade branca de classe média criando um ambiente de medo e racismo.",
-   "country": "United States",
-   "awards": "3 wins & 23 nominations",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt2492296/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2492296/img",
-   "trailers": [
-    {
-     "source": "0FPIflcWIOk",
-     "type": "Trailer"
-    }
+   "description": "Estamos na era Meiji. Abençoada com uma herança familiar e beleza, Satoko tem como único desejo se casar pelo bem da família. Mas, de repente, um misterioso assassino vem atrás dela?! Para conseguir sair viva daquela situação, Satoko faz uma \"proposta\" ao assassino…",
+   "genre": [
+    "History",
+    "Romance"
    ],
-   "id": "tt2492296",
+   "imdbRating": "7.4",
+   "released": null,
+   "year": "2026–",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39394153/img",
+   "background": "https://images.metahub.space/background/medium/tt39394153/img",
+   "id": "tt39394153",
    "genres": [
-    "Crime",
-    "Drama",
-    "War & Politics"
+    "Animação",
+    "Drama"
    ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "Show Me a Hero",
-     "ytId": "0FPIflcWIOk"
-    }
-   ],
+   "releaseInfo": "2026",
    "links": [
     {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2492296"
-    },
-    {
-     "name": "Show Me a Hero",
+     "name": "Firefly Wedding",
      "category": "share",
-     "url": "https://www.strem.io/s/series/show-me-a-hero-2492296"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "https://www.strem.io/s/series/firefly-wedding-39394153"
     },
     {
      "name": "History",
@@ -1029,19 +830,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Oscar Isaac",
-     "category": "Cast",
-     "url": "stremio:///search?search=Oscar%20Isaac"
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Natalie Paul",
+     "name": "Kôki Uchiyama",
      "category": "Cast",
-     "url": "stremio:///search?search=Natalie%20Paul"
+     "url": "stremio:///search?search=K%C3%B4ki%20Uchiyama"
     },
     {
-     "name": "Carla Quevedo",
+     "name": "Lynn",
      "category": "Cast",
-     "url": "stremio:///search?search=Carla%20Quevedo"
+     "url": "stremio:///search?search=Lynn"
     }
    ],
    "behaviorHints": {
@@ -1050,7 +851,209 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2492296.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39394153.jpg"
+  },
+  {
+   "awards": "Won 1 Primetime Emmy. 46 wins & 133 nominations total",
+   "cast": [
+    "Katheryn Winnick",
+    "Gustaf Skarsgård",
+    "Alexander Ludwig"
+   ],
+   "country": "Ireland, Canada, United States",
+   "description": "Inspirada na história e nas lendas da Escandinávia medieval, “Vikings” acompanha Ragnar Lothbrok, um jovem que se considera descendente de Odin, guerreiro e agricultor, guiado pela ambição e coragem até um destino grandioso.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.5",
+   "name": "Vikings",
+   "released": "2013-03-03T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Ended",
+   "writer": [
+    "Michael Hirst"
+   ],
+   "year": "2013–2020",
+   "background": "https://images.metahub.space/background/medium/tt2306299/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
+   "trailers": [
+    {
+     "source": "7rcozIVtujw",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt2306299",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "Vikings",
+     "ytId": "7rcozIVtujw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2306299"
+    },
+    {
+     "name": "Vikings",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/vikings-2306299"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Katheryn Winnick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Katheryn%20Winnick"
+    },
+    {
+     "name": "Gustaf Skarsgård",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gustaf%20Skarsg%C3%A5rd"
+    },
+    {
+     "name": "Alexander Ludwig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alexander%20Ludwig"
+    },
+    {
+     "name": "Michael Hirst",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Hirst"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2306299.jpg"
+  },
+  {
+   "name": "My Happy Marriage",
+   "cast": [
+    "Reina Ueda",
+    "Kaito Ishikawa",
+    "Damien C. Haas"
+   ],
+   "country": "Japan",
+   "description": "A família abusiva de Miyo considera-a inútil. Mas com o apoio do futuro marido, ela começa a mostrar a sua verdadeira personalidade e a revelar os seus poderes.",
+   "genre": [
+    "Animation",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "7.5",
+   "released": "2023-07-05T00:00:00.000Z",
+   "year": "2023–2025",
+   "trailers": [
+    {
+     "source": "LHkn20xqybk",
+     "type": "Trailer"
+    },
+    {
+     "source": "dURh9kVzcw8",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "24 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt19869172/img",
+   "logo": "https://images.metahub.space/logo/medium/tt19869172/img",
+   "awards": "8 wins & 20 nominations total",
+   "id": "tt19869172",
+   "genres": [
+    "Animação",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "My Happy Marriage",
+     "ytId": "LHkn20xqybk"
+    },
+    {
+     "title": "My Happy Marriage",
+     "ytId": "dURh9kVzcw8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt19869172"
+    },
+    {
+     "name": "My Happy Marriage",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/my-happy-marriage-19869172"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "Reina Ueda",
+     "category": "Cast",
+     "url": "stremio:///search?search=Reina%20Ueda"
+    },
+    {
+     "name": "Kaito Ishikawa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kaito%20Ishikawa"
+    },
+    {
+     "name": "Damien C. Haas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Damien%20C.%20Haas"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19869172.jpg"
   },
   {
    "name": "The Prince",

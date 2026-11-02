@@ -1591,56 +1591,64 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
   },
   {
+   "name": "I Will Find You",
    "cast": [
-    "Zendaya",
-    "Hunter Schafer",
-    "Maude Apatow"
+    "Sam Worthington",
+    "Britt Lower",
+    "Chi McBride"
    ],
    "country": "United States",
-   "description": "Protagonizada por Zendaya, esta série original HBO apresenta a visão crua e realista de um grupo de alunos do secundário. Atenção: Esta série contem uma linguagem forte e suscetível, com cenas de sexo explícito, uso de drogas e violência.",
-   "imdbRating": "8.1",
-   "name": "Euphoria",
-   "released": "2019-06-16T00:00:00.000Z",
-   "writer": [
-    "Sam Levinson"
-   ],
-   "year": "2019–2026",
-   "status": "Ended",
-   "director": [],
+   "description": "Um pai condenado injustamente pelo homicídio do próprio filho embarca numa desesperada missão para o encontrar após descobrir que o rapaz pode, afinal, estar vivo.",
    "genre": [
-    "Drama"
+    "Crime",
+    "Drama",
+    "Mystery"
    ],
-   "runtime": "61 min",
-   "background": "https://images.metahub.space/background/medium/tt8772296/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
-   "awards": "Won 9 Primetime Emmys. 42 wins & 105 nominations total",
+   "imdbRating": "7.1",
+   "released": "2026-06-18T00:00:00.000Z",
+   "writer": [
+    "Robert Hull"
+   ],
+   "year": "2026",
+   "runtime": "41 min",
+   "status": "Ended",
    "trailers": [
     {
-     "source": "UR4Pxgnm-GA",
+     "source": "mObRUsA7dPY",
      "type": "Trailer"
     }
    ],
-   "id": "tt8772296",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt34771210/img",
+   "logo": "https://images.metahub.space/logo/medium/tt34771210/img",
+   "id": "tt34771210",
    "genres": [
-    "Drama"
+    "Drama",
+    "Mistério",
+    "Crime"
    ],
-   "releaseInfo": "2019",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Euphoria",
-     "ytId": "UR4Pxgnm-GA"
+     "title": "I Will Find You",
+     "ytId": "mObRUsA7dPY"
     }
    ],
    "links": [
     {
-     "name": "8.2",
+     "name": "7.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt8772296"
+     "url": "https://imdb.com/title/tt34771210"
     },
     {
-     "name": "Euphoria",
+     "name": "I Will Find You",
      "category": "share",
-     "url": "https://www.strem.io/s/series/euphoria-8772296"
+     "url": "https://www.strem.io/s/series/i-will-find-you-34771210"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -1648,24 +1656,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Zendaya",
-     "category": "Cast",
-     "url": "stremio:///search?search=Zendaya"
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Hunter Schafer",
+     "name": "Sam Worthington",
      "category": "Cast",
-     "url": "stremio:///search?search=Hunter%20Schafer"
+     "url": "stremio:///search?search=Sam%20Worthington"
     },
     {
-     "name": "Maude Apatow",
+     "name": "Britt Lower",
      "category": "Cast",
-     "url": "stremio:///search?search=Maude%20Apatow"
+     "url": "stremio:///search?search=Britt%20Lower"
     },
     {
-     "name": "Sam Levinson",
+     "name": "Chi McBride",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chi%20McBride"
+    },
+    {
+     "name": "Robert Hull",
      "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Levinson"
+     "url": "stremio:///search?search=Robert%20Hull"
     }
    ],
    "behaviorHints": {
@@ -1674,7 +1687,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8772296.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34771210.jpg"
   },
   {
    "name": "The Rookie",
@@ -1775,105 +1788,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7587890.jpg"
-  },
-  {
-   "name": "I Will Find You",
-   "cast": [
-    "Sam Worthington",
-    "Britt Lower",
-    "Chi McBride"
-   ],
-   "country": "United States",
-   "description": "Um pai condenado injustamente pelo homicídio do próprio filho embarca numa desesperada missão para o encontrar após descobrir que o rapaz pode, afinal, estar vivo.",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.1",
-   "released": "2026-06-18T00:00:00.000Z",
-   "writer": [
-    "Robert Hull"
-   ],
-   "year": "2026",
-   "runtime": "41 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "mObRUsA7dPY",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt34771210/img",
-   "logo": "https://images.metahub.space/logo/medium/tt34771210/img",
-   "id": "tt34771210",
-   "genres": [
-    "Drama",
-    "Mistério",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "I Will Find You",
-     "ytId": "mObRUsA7dPY"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt34771210"
-    },
-    {
-     "name": "I Will Find You",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/i-will-find-you-34771210"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Sam Worthington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sam%20Worthington"
-    },
-    {
-     "name": "Britt Lower",
-     "category": "Cast",
-     "url": "stremio:///search?search=Britt%20Lower"
-    },
-    {
-     "name": "Chi McBride",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chi%20McBride"
-    },
-    {
-     "name": "Robert Hull",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Hull"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34771210.jpg"
   },
   {
    "name": "Spider-Noir",
@@ -2014,6 +1928,92 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30460310.jpg"
+  },
+  {
+   "cast": [
+    "Zendaya",
+    "Hunter Schafer",
+    "Maude Apatow"
+   ],
+   "country": "United States",
+   "description": "Protagonizada por Zendaya, esta série original HBO apresenta a visão crua e realista de um grupo de alunos do secundário. Atenção: Esta série contem uma linguagem forte e suscetível, com cenas de sexo explícito, uso de drogas e violência.",
+   "imdbRating": "8.1",
+   "name": "Euphoria",
+   "released": "2019-06-16T00:00:00.000Z",
+   "writer": [
+    "Sam Levinson"
+   ],
+   "year": "2019–2026",
+   "status": "Ended",
+   "director": [],
+   "genre": [
+    "Drama"
+   ],
+   "runtime": "61 min",
+   "background": "https://images.metahub.space/background/medium/tt8772296/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8772296/img",
+   "awards": "Won 9 Primetime Emmys. 42 wins & 105 nominations total",
+   "trailers": [
+    {
+     "source": "UR4Pxgnm-GA",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt8772296",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Euphoria",
+     "ytId": "UR4Pxgnm-GA"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8772296"
+    },
+    {
+     "name": "Euphoria",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/euphoria-8772296"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Hunter Schafer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hunter%20Schafer"
+    },
+    {
+     "name": "Maude Apatow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maude%20Apatow"
+    },
+    {
+     "name": "Sam Levinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sam%20Levinson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8772296.jpg"
   },
   {
    "name": "Spider-Man: Brand New Day",

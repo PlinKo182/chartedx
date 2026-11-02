@@ -152,7 +152,35 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-   "imdbRating": "7.1"
+   "imdbRating": "5.8"
+  },
+  {
+   "id": "tt42767924",
+   "logo": "https://live.metahub.space/logo/medium/tt42767924/img",
+   "background": "https://live.metahub.space/background/medium/tt42767924/img",
+   "name": "A Couple of Lies",
+   "description": "Uma troca de casas perfeita entre Sicília e Estocolmo se torna tóxica à medida que dois casais fazem de tudo para se proteger e manter seus segredos.",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "language": "Swedish",
+   "country": "Sweden",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg",
+   "imdbRating": "5.8"
   },
   {
    "id": "tt44941753",
@@ -202,34 +230,6 @@
    "imdbRating": "7.8"
   },
   {
-   "id": "tt42767924",
-   "logo": "https://live.metahub.space/logo/medium/tt42767924/img",
-   "background": "https://live.metahub.space/background/medium/tt42767924/img",
-   "name": "A Couple of Lies",
-   "description": "Uma troca de casas perfeita entre Sicília e Estocolmo se torna tóxica à medida que dois casais fazem de tudo para se proteger e manter seus segredos.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "language": "Swedish",
-   "country": "Sweden",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg",
-   "imdbRating": "5.7"
-  },
-  {
    "id": "tt49250618",
    "logo": "https://live.metahub.space/logo/medium/tt49250618/img",
    "background": "https://live.metahub.space/background/medium/tt49250618/img",
@@ -257,7 +257,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
-   "imdbRating": "7.1"
+   "imdbRating": "7.0"
   },
   {
    "status": "Continuing",
@@ -288,7 +288,7 @@
     "Mistério",
     "Sci-Fi & Fantasy"
    ],
-   "imdbRating": "7.4"
+   "imdbRating": "7.2"
   },
   {
    "name": "Nobody Wants This",
@@ -390,82 +390,86 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
   },
   {
-   "awards": null,
+   "name": "Dragon Ball Super: Beerus",
    "cast": [
-    "Michael Coulthard",
-    "Charles Robinson",
-    "John Layfield"
+    "Kôichi Yamadera",
+    "Masako Nozawa",
+    "Ryô Horikawa"
    ],
-   "country": "United States",
-   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "Japan",
+   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
    "genre": [
-    "Action",
-    "Sport"
+    "Animation"
    ],
-   "imdbRating": "7.3",
-   "name": "WWE Smackdown!",
-   "released": "1999-04-27T00:00:00.000Z",
-   "runtime": "87 min",
+   "imdbRating": "9.0",
+   "released": null,
+   "year": "2026–",
+   "runtime": "23 min",
    "status": "Continuing",
-   "writer": [
-    "Vince McMahon",
-    "Dusty Rhodes"
+   "trailers": [
+    {
+     "source": "iCD3Lf7Jf9o",
+     "type": "Trailer"
+    },
+    {
+     "source": "Tf4wBaSj7SE",
+     "type": "Trailer"
+    },
+    {
+     "source": "Plp6IJ9utjU",
+     "type": "Trailer"
+    }
    ],
-   "year": "1999–",
-   "background": "https://images.metahub.space/background/medium/tt0227972/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
-   "id": "tt0227972",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
+   "background": "https://images.metahub.space/background/medium/tt39395275/img",
+   "id": "tt39395275",
    "genres": [
-    "Reality"
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "1999",
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "iCD3Lf7Jf9o"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Tf4wBaSj7SE"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Plp6IJ9utjU"
+    }
+   ],
    "links": [
     {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0227972"
-    },
-    {
-     "name": "WWE Smackdown!",
+     "name": "Dragon Ball Super: Beerus",
      "category": "share",
-     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
+     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
     },
     {
-     "name": "Action",
+     "name": "Animation",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Michael Coulthard",
+     "name": "Kôichi Yamadera",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Coulthard"
+     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
     },
     {
-     "name": "Charles Robinson",
+     "name": "Masako Nozawa",
      "category": "Cast",
-     "url": "stremio:///search?search=Charles%20Robinson"
+     "url": "stremio:///search?search=Masako%20Nozawa"
     },
     {
-     "name": "John Layfield",
+     "name": "Ryô Horikawa",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Layfield"
-    },
-    {
-     "name": "Vince McMahon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Vince%20McMahon"
-    },
-    {
-     "name": "Dusty Rhodes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dusty%20Rhodes"
+     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
     }
    ],
    "behaviorHints": {
@@ -474,7 +478,112 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
+  },
+  {
+   "cast": [
+    "Milo Callaghan",
+    "Lana Parrilla",
+    "Madison Iseman"
+   ],
+   "country": "United States",
+   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Rainmaker",
+   "released": "2025-08-15T00:00:00.000Z",
+   "year": "2025–",
+   "runtime": "43 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Jason Richman",
+    "Michael Seitzman"
+   ],
+   "trailers": [
+    {
+     "source": "-__6rI43NyE",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "1 win & 4 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt6151526/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
+   "id": "tt6151526",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Rainmaker",
+     "ytId": "-__6rI43NyE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6151526"
+    },
+    {
+     "name": "The Rainmaker",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Milo Callaghan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Milo%20Callaghan"
+    },
+    {
+     "name": "Lana Parrilla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lana%20Parrilla"
+    },
+    {
+     "name": "Madison Iseman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Madison%20Iseman"
+    },
+    {
+     "name": "Jason Richman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Richman"
+    },
+    {
+     "name": "Michael Seitzman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Seitzman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
   },
   {
    "name": "Below",
@@ -568,98 +677,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
-  },
-  {
-   "cast": [
-    "Ryôko Yonekura",
-    "Ittoku Kishibe",
-    "Yuki Uchida"
-   ],
-   "country": "Japan",
-   "description": "Daimon Michiko is a freelance surgeon who wanders from hospital to hospital because the harsh environment led many doctors to retire. However, Michiko doesn't look like a doctor at all with her flashy clothes and eccentric attitude.",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.5",
-   "name": "Doctor X",
-   "released": "2012-10-18T00:00:00.000Z",
-   "runtime": "46 min",
-   "year": "2012–",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt2349912/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2349912/img",
-   "awards": "1 nomination",
-   "trailers": [
-    {
-     "source": "AS5y5Z2dmJI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt2349912",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2012",
-   "trailerStreams": [
-    {
-     "title": "Doctor X",
-     "ytId": "AS5y5Z2dmJI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2349912"
-    },
-    {
-     "name": "Doctor X",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/doctor-x-2349912"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Ryôko Yonekura",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4ko%20Yonekura"
-    },
-    {
-     "name": "Ittoku Kishibe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ittoku%20Kishibe"
-    },
-    {
-     "name": "Yuki Uchida",
-     "category": "Cast",
-     "url": "stremio:///search?search=Yuki%20Uchida"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2349912.jpg"
   }
  ]
 }
