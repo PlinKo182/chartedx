@@ -119,130 +119,487 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32063050.jpg"
   },
   {
-   "name": "Now You See Me 2",
-   "year": "2016",
-   "runtime": "129 min",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
-   ],
-   "released": "2016-06-10T00:00:00.000Z",
-   "director": [
-    "Jon M. Chu"
-   ],
-   "writer": [
-    "Ed Solomon",
-    "Peter Chiarelli",
-    "Boaz Yakin"
-   ],
-   "cast": [
-    "Jesse Eisenberg",
-    "Mark Ruffalo",
-    "Woody Harrelson"
-   ],
-   "imdbRating": "6.4",
-   "description": "Um ano após enganarem o FBI e ganharem a admiração do público, os Quatro Cavaleiros regressam com um novo espectáculo que tem como objectivo expor as práticas obscuras e imorais de um magnata da tecnologia. Mas quando tudo corre mal, a única esperança que lhes resta é realizar um último acto sem precedentes, de forma a limparem os seus nomes e revelarem o cérebro por trás de tudo.",
-   "country": "United States, Hong Kong",
-   "awards": "6 nominations total",
-   "dvdRelease": "2016-08-19T00:00:00.000Z",
-   "trailers": [
-    {
-     "source": "JzZh8kJJwe4",
-     "type": "Trailer"
-    },
-    {
-     "source": "AuEjHzOIgBE",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt3110958/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3110958/img",
-   "id": "tt3110958",
-   "genres": [
-    "Crime",
-    "Thriller"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Now You See Me 2",
-     "ytId": "JzZh8kJJwe4"
-    },
-    {
-     "title": "Now You See Me 2",
-     "ytId": "AuEjHzOIgBE"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt3110958"
-    },
-    {
-     "name": "Now You See Me 2",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/now-you-see-me-2-3110958"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Jesse Eisenberg",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
-    },
-    {
-     "name": "Mark Ruffalo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mark%20Ruffalo"
-    },
-    {
-     "name": "Woody Harrelson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Woody%20Harrelson"
-    },
-    {
-     "name": "Ed Solomon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ed%20Solomon"
-    },
-    {
-     "name": "Peter Chiarelli",
-     "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Chiarelli"
-    },
-    {
-     "name": "Boaz Yakin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Boaz%20Yakin"
-    },
-    {
-     "name": "Jon M. Chu",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jon%20M.%20Chu"
-    }
-   ],
+   "id": "tt5220978",
+   "name": "The Chronicles of Narnia: Prince Caspian: Warwick Davis: The Man Behind Nikabrik",
+   "releaseInfo": "2008",
+   "runtime": "11 min",
+   "description": "Follows a day in the life of Davis on the set; we follow him through makeup and other aspects of his life on the shoot. It features interview clips and a series of behind-the-scenes footage of the actor's experiences on the set.",
+   "language": "English",
+   "country": "USA",
    "behaviorHints": {
-    "defaultVideoId": "tt3110958",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3110958.jpg"
+   "poster": "https://images.metahub.space/poster/medium/tt5220978/img"
+  },
+  {
+   "awards": "Nominated for 1 Oscar. 1 win & 5 nominations total",
+   "cast": [
+    "Robert De Niro",
+    "Kevin Bacon",
+    "Brad Pitt"
+   ],
+   "country": "United States",
+   "description": "Nos anos 60, quatro adolescentes ferem acidentalmente uma pessoa e são condenados a passar um ano num reformatório onde são humilhados e sofrem abusos sexuais dos guardas. Vinte anos depois, terão finalmente a oportunidade de se vingarem de quem os maltratou.",
+   "director": [
+    "Barry Levinson"
+   ],
+   "dvdRelease": "2008-01-01T00:00:00.000Z",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.5",
+   "name": "Sleepers",
+   "released": "1996-10-18T00:00:00.000Z",
+   "runtime": "147 min",
+   "trailers": [
+    {
+     "source": "rNaMAgf4ErE",
+     "type": "Trailer"
+    },
+    {
+     "source": "pPKQcYlD7aA",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Lorenzo Carcaterra",
+    "Barry Levinson"
+   ],
+   "year": "1996",
+   "background": "https://images.metahub.space/background/medium/tt0117665/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0117665/img",
+   "id": "tt0117665",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "1996",
+   "trailerStreams": [
+    {
+     "title": "Sleepers",
+     "ytId": "rNaMAgf4ErE"
+    },
+    {
+     "title": "Sleepers",
+     "ytId": "pPKQcYlD7aA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0117665"
+    },
+    {
+     "name": "Sleepers",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/sleepers-0117665"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Robert De Niro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20De%20Niro"
+    },
+    {
+     "name": "Kevin Bacon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Bacon"
+    },
+    {
+     "name": "Brad Pitt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brad%20Pitt"
+    },
+    {
+     "name": "Lorenzo Carcaterra",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lorenzo%20Carcaterra"
+    },
+    {
+     "name": "Barry Levinson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Barry%20Levinson"
+    },
+    {
+     "name": "Barry Levinson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Barry%20Levinson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0117665",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0117665.jpg"
+  },
+  {
+   "name": "The Zone of Interest",
+   "awards": "Won 2 Oscars. 71 wins & 186 nominations total",
+   "cast": [
+    "Christian Friedel",
+    "Sandra Hüller",
+    "Johann Karthaus"
+   ],
+   "country": "United Kingdom, Poland, United States",
+   "description": "O comandante de Auschwitz, Rudolf Höss, e a sua mulher, Hedwig, tentam construir uma vida de sonho para a sua família numa casa com jardim junto ao campo. Baseado no livro homónimo de Martin Amis.",
+   "director": [
+    "Jonathan Glazer"
+   ],
+   "genre": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "imdbRating": "7.3",
+   "released": "2024-02-20T00:00:00.000Z",
+   "writer": [
+    "Jonathan Glazer",
+    "Martin Amis"
+   ],
+   "year": "2023",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "GFNtVaAuVYY",
+     "type": "Trailer"
+    },
+    {
+     "source": "r-vfg3KkV54",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt7160372/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7160372/img",
+   "id": "tt7160372",
+   "genres": [
+    "Drama",
+    "História",
+    "Guerra"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "The Zone of Interest",
+     "ytId": "GFNtVaAuVYY"
+    },
+    {
+     "title": "The Zone of Interest",
+     "ytId": "r-vfg3KkV54"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7160372"
+    },
+    {
+     "name": "The Zone of Interest",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-zone-of-interest-7160372"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Christian Friedel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christian%20Friedel"
+    },
+    {
+     "name": "Sandra Hüller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
+    },
+    {
+     "name": "Johann Karthaus",
+     "category": "Cast",
+     "url": "stremio:///search?search=Johann%20Karthaus"
+    },
+    {
+     "name": "Jonathan Glazer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jonathan%20Glazer"
+    },
+    {
+     "name": "Martin Amis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Martin%20Amis"
+    },
+    {
+     "name": "Jonathan Glazer",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jonathan%20Glazer"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7160372",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7160372.jpg"
+  },
+  {
+   "awards": "20 wins & 51 nominations total",
+   "cast": [
+    "Logan Lerman",
+    "Emma Watson",
+    "Ezra Miller"
+   ],
+   "country": "United States",
+   "description": "Charlie é um jovem que tem dificuldades para interagir em sua nova escola. Com os nervos à flor da pele, ele se sente deslocado no ambiente. Sua professora de literatura, no entanto, acredita nele e o vê como um gênio. Mas Charlie continua a pensar pouco de si… até o dia em que dois amigos, Patrick e Sam, passam a andar com ele.",
+   "director": [
+    "Stephen Chbosky"
+   ],
+   "dvdRelease": "2015-11-21T00:00:00.000Z",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "7.9",
+   "name": "The Perks of Being a Wallflower",
+   "released": "2012-10-12T00:00:00.000Z",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "x0nTfbg24Qs",
+     "type": "Trailer"
+    },
+    {
+     "source": "QE7CGX1d6LU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Stephen Chbosky"
+   ],
+   "year": "2012",
+   "background": "https://images.metahub.space/background/medium/tt1659337/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1659337/img",
+   "id": "tt1659337",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "trailerStreams": [
+    {
+     "title": "The Perks of Being a Wallflower",
+     "ytId": "x0nTfbg24Qs"
+    },
+    {
+     "title": "The Perks of Being a Wallflower",
+     "ytId": "QE7CGX1d6LU"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1659337"
+    },
+    {
+     "name": "The Perks of Being a Wallflower",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-perks-of-being-a-wallflower-1659337"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Logan Lerman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Logan%20Lerman"
+    },
+    {
+     "name": "Emma Watson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Watson"
+    },
+    {
+     "name": "Ezra Miller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ezra%20Miller"
+    },
+    {
+     "name": "Stephen Chbosky",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20Chbosky"
+    },
+    {
+     "name": "Stephen Chbosky",
+     "category": "Directors",
+     "url": "stremio:///search?search=Stephen%20Chbosky"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1659337",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1659337.jpg"
+  },
+  {
+   "cast": [
+    "Haley Lu Richardson",
+    "Cole Sprouse",
+    "Moises Arias"
+   ],
+   "description": "Uma rapariga e um rapaz adolescentes, ambos a padecer de fibrose quística, conhecem-se no hospital, onde são acompanhados por causa da sua doença, e apaixonam-se.",
+   "director": [
+    "Justin Baldoni"
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "7.2",
+   "name": "Five Feet Apart",
+   "released": "2019-03-15T00:00:00.000Z",
+   "writer": [
+    "Mikki Daughtry",
+    "Tobias Iaconis"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "24YrEAGF32M",
+     "type": "Trailer"
+    },
+    {
+     "source": "Kwg07npuJhw",
+     "type": "Trailer"
+    },
+    {
+     "source": "5cJ7MT1RTqs",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt6472976/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6472976/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2f_0%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.647/images/no_image_111x168.jpg\" alt=\"\" title=\"\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2f_0%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.647//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2f-trailer%2f0%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2f_0%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123"
+   },
+   "country": "United States",
+   "runtime": "116 min",
+   "dvdRelease": "2019-05-24T00:00:00.000Z",
+   "awards": "3 wins & 8 nominations total",
+   "id": "tt6472976",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Five Feet Apart",
+     "ytId": "24YrEAGF32M"
+    },
+    {
+     "title": "Five Feet Apart",
+     "ytId": "Kwg07npuJhw"
+    },
+    {
+     "title": "Five Feet Apart",
+     "ytId": "5cJ7MT1RTqs"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6472976"
+    },
+    {
+     "name": "Five Feet Apart",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/five-feet-apart-6472976"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Haley Lu Richardson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Haley%20Lu%20Richardson"
+    },
+    {
+     "name": "Cole Sprouse",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cole%20Sprouse"
+    },
+    {
+     "name": "Moises Arias",
+     "category": "Cast",
+     "url": "stremio:///search?search=Moises%20Arias"
+    },
+    {
+     "name": "Mikki Daughtry",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mikki%20Daughtry"
+    },
+    {
+     "name": "Tobias Iaconis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tobias%20Iaconis"
+    },
+    {
+     "name": "Justin Baldoni",
+     "category": "Directors",
+     "url": "stremio:///search?search=Justin%20Baldoni"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6472976",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6472976.jpg"
   },
   {
    "awards": "2 wins & 4 nominations total",
@@ -336,366 +693,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0305224.jpg"
-  },
-  {
-   "awards": "Won 2 Oscars. 35 wins & 65 nominations total",
-   "cast": [
-    "Mia Wasikowska",
-    "Johnny Depp",
-    "Helena Bonham Carter"
-   ],
-   "country": "United States, Italy, Canada, Japan, United Kingdom",
-   "description": "Alice, agora com 19 anos, regressa ao excêntrico mundo que encontrou pela primeira vez quando era criança reunindo-se assim com os seus amigos de infância: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fantástica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha...",
-   "director": [
-    "Tim Burton"
-   ],
-   "dvdRelease": "2015-11-23T00:00:00.000Z",
-   "genre": [
-    "Adventure",
-    "Family",
-    "Fantasy"
-   ],
-   "imdbRating": "6.4",
-   "name": "Alice in Wonderland",
-   "released": "2010-03-05T00:00:00.000Z",
-   "runtime": "108 min",
-   "trailers": [
-    {
-     "source": "9POCgSRVvf0",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Linda Woolverton",
-    "Lewis Carroll"
-   ],
-   "year": "2010",
-   "background": "https://images.metahub.space/background/medium/tt1014759/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1014759/img",
-   "id": "tt1014759",
-   "genres": [
-    "Família",
-    "Fantasia",
-    "Aventura"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [
-    {
-     "title": "Alice in Wonderland",
-     "ytId": "9POCgSRVvf0"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1014759"
-    },
-    {
-     "name": "Alice in Wonderland",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/alice-in-wonderland-1014759"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Mia Wasikowska",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mia%20Wasikowska"
-    },
-    {
-     "name": "Johnny Depp",
-     "category": "Cast",
-     "url": "stremio:///search?search=Johnny%20Depp"
-    },
-    {
-     "name": "Helena Bonham Carter",
-     "category": "Cast",
-     "url": "stremio:///search?search=Helena%20Bonham%20Carter"
-    },
-    {
-     "name": "Linda Woolverton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Linda%20Woolverton"
-    },
-    {
-     "name": "Lewis Carroll",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lewis%20Carroll"
-    },
-    {
-     "name": "Tim Burton",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tim%20Burton"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1014759",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1014759.jpg"
-  },
-  {
-   "name": "MaXXXine",
-   "awards": "8 nominations total",
-   "cast": [
-    "Charley Rowan McCain",
-    "Simon Prast",
-    "Mia Goth"
-   ],
-   "country": "United States, United Kingdom, New Zealand",
-   "description": "Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve a sua grande chance. Mas há um misterioso assassino que persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.",
-   "director": [
-    "Ti West"
-   ],
-   "genre": [
-    "Crime",
-    "Horror"
-   ],
-   "imdbRating": "6.2",
-   "released": "2024-07-05T00:00:00.000Z",
-   "writer": [
-    "Ti West"
-   ],
-   "year": "2024",
-   "trailers": [
-    {
-     "source": "qGxKjwAnn5I",
-     "type": "Trailer"
-    },
-    {
-     "source": "adax3nfU6HU",
-     "type": "Trailer"
-    },
-    {
-     "source": "zzw__YmU8f0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt22048412/img",
-   "logo": "https://images.metahub.space/logo/medium/tt22048412/img",
-   "runtime": "103 min",
-   "id": "tt22048412",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "MaXXXine",
-     "ytId": "qGxKjwAnn5I"
-    },
-    {
-     "title": "MaXXXine",
-     "ytId": "adax3nfU6HU"
-    },
-    {
-     "title": "MaXXXine",
-     "ytId": "zzw__YmU8f0"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt22048412"
-    },
-    {
-     "name": "MaXXXine",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/maxxxine-22048412"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Charley Rowan McCain",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charley%20Rowan%20McCain"
-    },
-    {
-     "name": "Simon Prast",
-     "category": "Cast",
-     "url": "stremio:///search?search=Simon%20Prast"
-    },
-    {
-     "name": "Mia Goth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mia%20Goth"
-    },
-    {
-     "name": "Ti West",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ti%20West"
-    },
-    {
-     "name": "Ti West",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ti%20West"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt22048412",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22048412.jpg"
-  },
-  {
-   "awards": "5 nominations total",
-   "cast": [
-    "Reiko Aylesworth",
-    "Steven Pasquale",
-    "Shareeka Epps"
-   ],
-   "country": "United States",
-   "description": "Em Aliens vs Predador 2 as icónicas criaturas de duas das sequelas de filmes mais assustadoras da história do cinema envolvem-se na batalha mais brutal de sempre, no nosso próprio quintal. AVP2 introduz na sequela um novo e intrigante elemento: fazer com que Aliens e Predador travem a sua batalha numa pequena cidade americana. AVP2 acontece num contexto familiar, nos esgotos escuros da cidade, nas ruas inundadas pela chuva, nos edifícios de betão da central de energia ou na maternidade de um hospital, que se tornam em terríveis campos de batalha, muito além dos piores pesadelos dos moradores.",
-   "director": [
-    "Colin Strause",
-    "Greg Strause"
-   ],
-   "dvdRelease": "2012-09-18T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "imdbRating": "4.6",
-   "name": "Aliens vs. Predator: Requiem",
-   "released": "2007-12-25T00:00:00.000Z",
-   "runtime": "94 min",
-   "trailers": [
-    {
-     "source": "XbTWLrZLYmU",
-     "type": "Trailer"
-    },
-    {
-     "source": "LWD2Ichgat4",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Shane Salerno",
-    "Dan O&apos;Bannon",
-    "Ronald Shusett"
-   ],
-   "year": "2007",
-   "background": "https://images.metahub.space/background/medium/tt0758730/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0758730/img",
-   "id": "tt0758730",
-   "genres": [
-    "Ação",
-    "Ficção científica",
-    "Thriller"
-   ],
-   "releaseInfo": "2007",
-   "trailerStreams": [
-    {
-     "title": "Aliens vs. Predator: Requiem",
-     "ytId": "XbTWLrZLYmU"
-    },
-    {
-     "title": "Aliens vs. Predator: Requiem",
-     "ytId": "LWD2Ichgat4"
-    }
-   ],
-   "links": [
-    {
-     "name": "4.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0758730"
-    },
-    {
-     "name": "Aliens vs. Predator: Requiem",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/aliens-vs-predator-requiem-0758730"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Reiko Aylesworth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Reiko%20Aylesworth"
-    },
-    {
-     "name": "Steven Pasquale",
-     "category": "Cast",
-     "url": "stremio:///search?search=Steven%20Pasquale"
-    },
-    {
-     "name": "Shareeka Epps",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shareeka%20Epps"
-    },
-    {
-     "name": "Shane Salerno",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shane%20Salerno"
-    },
-    {
-     "name": "Dan O&apos;Bannon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dan%20O%26apos%3BBannon"
-    },
-    {
-     "name": "Ronald Shusett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronald%20Shusett"
-    },
-    {
-     "name": "Colin Strause",
-     "category": "Directors",
-     "url": "stremio:///search?search=Colin%20Strause"
-    },
-    {
-     "name": "Greg Strause",
-     "category": "Directors",
-     "url": "stremio:///search?search=Greg%20Strause"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0758730",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0758730.jpg"
   },
   {
    "name": "Overlord: The Sacred Kingdom",
@@ -824,68 +821,86 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14603848.jpg"
   },
   {
-   "awards": "1 nomination total",
+   "awards": "Won 1 Oscar. 40 wins & 60 nominations total",
    "cast": [
-    "Kal Penn",
-    "John Cho",
-    "Neil Patrick Harris"
+    "Mike Myers",
+    "Eddie Murphy",
+    "Cameron Diaz"
    ],
    "country": "United States",
-   "description": "Seis anos após sua aventura na Baía de Guantanamo, Harold Lee e Kumar Patel provocam uma briga familiar por, inadivertidamente, queimarem a árvore de Natal premiada do sogro de Harold. Para corrigir o problema, eles embarcam em uma missão na cidade de Nova York para encontrar a árvore perfeita, mais uma vez causando problemas e grandes confusões.",
+   "description": "Um senhor malvado exila criaturas de contos de fadas para o pântano de um ogro rabugento, que tem de partir numa missão para resgatar uma princesa em nome do senhor, a fim de recuperar as suas terras.",
    "director": [
-    "Todd Strauss-Schulson"
+    "Andrew Adamson",
+    "Vicky Jenson"
    ],
-   "dvdRelease": "2014-07-24T00:00:00.000Z",
+   "dvdRelease": "2015-11-25T00:00:00.000Z",
    "genre": [
+    "Animation",
     "Adventure",
     "Comedy"
    ],
-   "imdbRating": "6.2",
-   "name": "A Very Harold & Kumar Christmas",
-   "released": "2011-11-04T00:00:00.000Z",
+   "imdbRating": "7.9",
+   "name": "Shrek",
+   "released": "2001-05-18T00:00:00.000Z",
    "runtime": "90 min",
    "trailers": [
     {
-     "source": "rILHv9oFq38",
+     "source": "ppDwfm6e498",
      "type": "Trailer"
     },
     {
-     "source": "t0u5WUxQDGg",
+     "source": "CwXOrWvPBPk",
+     "type": "Trailer"
+    },
+    {
+     "source": "HobeWN9DnsY",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "Jon Hurwitz",
-    "Hayden Schlossberg"
+    "William Steig",
+    "Ted Elliott",
+    "Terry Rossio"
    ],
-   "year": "2011",
-   "background": "https://images.metahub.space/background/medium/tt1268799/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1268799/img",
-   "id": "tt1268799",
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0126029/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0126029/img",
+   "id": "tt0126029",
    "genres": [
-    "Comédia"
+    "Animação",
+    "Comédia",
+    "Fantasia"
    ],
-   "releaseInfo": "2011",
+   "releaseInfo": "2001",
    "trailerStreams": [
     {
-     "title": "A Very Harold & Kumar Christmas",
-     "ytId": "rILHv9oFq38"
+     "title": "Shrek",
+     "ytId": "ppDwfm6e498"
     },
     {
-     "title": "A Very Harold & Kumar Christmas",
-     "ytId": "t0u5WUxQDGg"
+     "title": "Shrek",
+     "ytId": "CwXOrWvPBPk"
+    },
+    {
+     "title": "Shrek",
+     "ytId": "HobeWN9DnsY"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1268799"
+     "url": "https://imdb.com/title/tt0126029"
     },
     {
-     "name": "A Very Harold & Kumar Christmas",
+     "name": "Shrek",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/a-very-harold-kumar-christmas-1268799"
+     "url": "https://www.strem.io/s/movie/shrek-0126029"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
     },
     {
      "name": "Adventure",
@@ -898,205 +913,123 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Kal Penn",
+     "name": "Mike Myers",
      "category": "Cast",
-     "url": "stremio:///search?search=Kal%20Penn"
+     "url": "stremio:///search?search=Mike%20Myers"
     },
     {
-     "name": "John Cho",
+     "name": "Eddie Murphy",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Cho"
+     "url": "stremio:///search?search=Eddie%20Murphy"
     },
     {
-     "name": "Neil Patrick Harris",
+     "name": "Cameron Diaz",
      "category": "Cast",
-     "url": "stremio:///search?search=Neil%20Patrick%20Harris"
+     "url": "stremio:///search?search=Cameron%20Diaz"
     },
     {
-     "name": "Jon Hurwitz",
+     "name": "William Steig",
      "category": "Writers",
-     "url": "stremio:///search?search=Jon%20Hurwitz"
+     "url": "stremio:///search?search=William%20Steig"
     },
     {
-     "name": "Hayden Schlossberg",
+     "name": "Ted Elliott",
      "category": "Writers",
-     "url": "stremio:///search?search=Hayden%20Schlossberg"
+     "url": "stremio:///search?search=Ted%20Elliott"
     },
     {
-     "name": "Todd Strauss-Schulson",
+     "name": "Terry Rossio",
+     "category": "Writers",
+     "url": "stremio:///search?search=Terry%20Rossio"
+    },
+    {
+     "name": "Andrew Adamson",
      "category": "Directors",
-     "url": "stremio:///search?search=Todd%20Strauss-Schulson"
+     "url": "stremio:///search?search=Andrew%20Adamson"
+    },
+    {
+     "name": "Vicky Jenson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Vicky%20Jenson"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1268799",
+    "defaultVideoId": "tt0126029",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1268799.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0126029.jpg"
   },
   {
-   "awards": "6 nominations total",
+   "name": "MaXXXine",
+   "awards": "8 nominations total",
    "cast": [
-    "Bruce Willis",
-    "Matthew Perry",
-    "Rosanna Arquette"
+    "Charley Rowan McCain",
+    "Simon Prast",
+    "Mia Goth"
    ],
-   "country": "United States",
-   "description": "Nick \"Oz\" é um pacato dentista cuja vida se tornou num inferno depois de se casar com Sophie. Para cúmulo, \"Tulipa\", um famoso assassino, instala-se na casa do lado. Só que o bandido tem coração e depois de muitas peripécias ele e Oz tornam-se inseparáveis. Pelo caminho há uma mulher que quer matar a mulher e uma rapariga que quer ser assassina profissional.",
+   "country": "United States, United Kingdom, New Zealand",
+   "description": "Na década de 1980, em Hollywood, a estrela de cinema adulto e aspirante a atriz Maxine Minx finalmente teve a sua grande chance. Mas há um misterioso assassino que persegue as estrelas de Hollywood, um rasto de sangue ameaça revelar o seu passado sinistro.",
    "director": [
-    "Jonathan Lynn"
-   ],
-   "dvdRelease": "2017-05-21T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "6.7",
-   "name": "The Whole Nine Yards",
-   "released": "2000-02-18T00:00:00.000Z",
-   "runtime": "98 min",
-   "trailers": [
-    {
-     "source": "671bZc4jX7g",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Mitchell Kapner"
-   ],
-   "year": "2000",
-   "background": "https://images.metahub.space/background/medium/tt0190138/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0190138/img",
-   "id": "tt0190138",
-   "genres": [
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2000",
-   "trailerStreams": [
-    {
-     "title": "The Whole Nine Yards",
-     "ytId": "671bZc4jX7g"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0190138"
-    },
-    {
-     "name": "The Whole Nine Yards",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-whole-nine-yards-0190138"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Bruce Willis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bruce%20Willis"
-    },
-    {
-     "name": "Matthew Perry",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Perry"
-    },
-    {
-     "name": "Rosanna Arquette",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rosanna%20Arquette"
-    },
-    {
-     "name": "Mitchell Kapner",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mitchell%20Kapner"
-    },
-    {
-     "name": "Jonathan Lynn",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Lynn"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0190138",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0190138.jpg"
-  },
-  {
-   "cast": [
-    "Bob Odenkirk",
-    "Aleksey Serebryakov",
-    "Connie Nielsen"
-   ],
-   "country": "United States, China, Japan",
-   "description": "Por vezes, o homem em quem ninguém repara é o mais perigoso de todos... Bob Odenkirk interpreta Hutch Mansell, um pai e marido negligenciado, que tudo aceita, sem nunca reclamar. Ele não é ninguém. Numa noite, dois ladrões invadem a casa de Hutch e este recusa defender-se a si e à sua família, na esperança de evitar uma escalada de violência. O filho adolescente, Blake, fica desiludido com o pai e a sua mulher, Becca, parece afastar-se cada vez mais dele. Após o assalto, a fúria de Hutch desencadeia instintos adormecidos, levando-o por um caminho que irá trazer à tona segredos mais sombrios e capacidades mortíferas. Num cenário de luta, armas e derrapagens, Hutch tem de salvar a sua família de um perigoso adversário e garantir que nunca mais será subestimado.",
-   "director": [
-    "Ilya Naishuller"
+    "Ti West"
    ],
    "genre": [
-    "Action",
     "Crime",
-    "Drama"
+    "Horror"
    ],
-   "imdbRating": "7.4",
-   "name": "Nobody",
-   "released": "2021-03-26T00:00:00.000Z",
+   "imdbRating": "6.2",
+   "released": "2024-07-05T00:00:00.000Z",
    "writer": [
-    "Derek Kolstad"
+    "Ti West"
    ],
-   "year": "2021",
+   "year": "2024",
    "trailers": [
     {
-     "source": "wZti8QKBWPo",
+     "source": "qGxKjwAnn5I",
+     "type": "Trailer"
+    },
+    {
+     "source": "adax3nfU6HU",
+     "type": "Trailer"
+    },
+    {
+     "source": "zzw__YmU8f0",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt7888964/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7888964/img",
-   "runtime": "91 min",
-   "dvdRelease": "2021-04-15T00:00:00.000Z",
-   "awards": "5 wins & 18 nominations total",
-   "id": "tt7888964",
+   "background": "https://images.metahub.space/background/medium/tt22048412/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22048412/img",
+   "runtime": "103 min",
+   "id": "tt22048412",
    "genres": [
-    "Ação",
-    "Thriller"
+    "Terror"
    ],
-   "releaseInfo": "2021",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Nobody",
-     "ytId": "wZti8QKBWPo"
+     "title": "MaXXXine",
+     "ytId": "qGxKjwAnn5I"
+    },
+    {
+     "title": "MaXXXine",
+     "ytId": "adax3nfU6HU"
+    },
+    {
+     "title": "MaXXXine",
+     "ytId": "zzw__YmU8f0"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "6.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7888964"
+     "url": "https://imdb.com/title/tt22048412"
     },
     {
-     "name": "Nobody",
+     "name": "MaXXXine",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/nobody-7888964"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "https://www.strem.io/s/movie/maxxxine-22048412"
     },
     {
      "name": "Crime",
@@ -1104,43 +1037,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Drama",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Bob Odenkirk",
+     "name": "Charley Rowan McCain",
      "category": "Cast",
-     "url": "stremio:///search?search=Bob%20Odenkirk"
+     "url": "stremio:///search?search=Charley%20Rowan%20McCain"
     },
     {
-     "name": "Aleksey Serebryakov",
+     "name": "Simon Prast",
      "category": "Cast",
-     "url": "stremio:///search?search=Aleksey%20Serebryakov"
+     "url": "stremio:///search?search=Simon%20Prast"
     },
     {
-     "name": "Connie Nielsen",
+     "name": "Mia Goth",
      "category": "Cast",
-     "url": "stremio:///search?search=Connie%20Nielsen"
+     "url": "stremio:///search?search=Mia%20Goth"
     },
     {
-     "name": "Derek Kolstad",
+     "name": "Ti West",
      "category": "Writers",
-     "url": "stremio:///search?search=Derek%20Kolstad"
+     "url": "stremio:///search?search=Ti%20West"
     },
     {
-     "name": "Ilya Naishuller",
+     "name": "Ti West",
      "category": "Directors",
-     "url": "stremio:///search?search=Ilya%20Naishuller"
+     "url": "stremio:///search?search=Ti%20West"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt7888964",
+    "defaultVideoId": "tt22048412",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7888964.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22048412.jpg"
   }
  ]
 }

@@ -963,14 +963,14 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0108052.jpg"
   },
   {
-   "awards": "Won 1 Primetime Emmy. 46 wins & 133 nominations total",
+   "awards": "Won 8 Primetime Emmys. 36 wins & 44 nominations total",
    "cast": [
-    "Katheryn Winnick",
-    "Gustaf Skarsgård",
-    "Alexander Ludwig"
+    "James Badge Dale",
+    "Joseph Mazzello",
+    "Jon Seda"
    ],
-   "country": "Ireland, Canada, United States",
-   "description": "Inspirada na história e nas lendas da Escandinávia medieval, “Vikings” acompanha Ragnar Lothbrok, um jovem que se considera descendente de Odin, guerreiro e agricultor, guiado pela ambição e coragem até um destino grandioso.",
+   "country": "United States, Australia",
+   "description": "O Teatro do Pacífico da Segunda Guerra Mundial, visto através dos olhos de vários jovens fuzileiros.",
    "director": null,
    "dvdRelease": null,
    "genre": [
@@ -978,46 +978,52 @@
     "Adventure",
     "Drama"
    ],
-   "imdbRating": "8.5",
-   "name": "Vikings",
-   "released": "2013-03-03T00:00:00.000Z",
-   "runtime": "46 min",
-   "status": "Ended",
-   "writer": [
-    "Michael Hirst"
-   ],
-   "year": "2013–2020",
-   "background": "https://images.metahub.space/background/medium/tt2306299/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2306299/img",
+   "imdbRating": "8.3",
+   "name": "The Pacific",
+   "released": "2010-03-14T00:00:00.000Z",
+   "runtime": "530 min",
    "trailers": [
     {
-     "source": "7rcozIVtujw",
+     "source": "e99B80crU3E",
+     "type": "Trailer"
+    },
+    {
+     "source": "yneubg7c_D0",
      "type": "Trailer"
     }
    ],
-   "id": "tt2306299",
+   "writer": null,
+   "year": "2010",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt0374463/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0374463/img",
+   "id": "tt0374463",
    "genres": [
-    "Action & Adventure",
     "Drama",
+    "Action & Adventure",
     "War & Politics"
    ],
-   "releaseInfo": "2013",
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "Vikings",
-     "ytId": "7rcozIVtujw"
+     "title": "The Pacific",
+     "ytId": "e99B80crU3E"
+    },
+    {
+     "title": "The Pacific",
+     "ytId": "yneubg7c_D0"
     }
    ],
    "links": [
     {
-     "name": "8.5",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2306299"
+     "url": "https://imdb.com/title/tt0374463"
     },
     {
-     "name": "Vikings",
+     "name": "The Pacific",
      "category": "share",
-     "url": "https://www.strem.io/s/series/vikings-2306299"
+     "url": "https://www.strem.io/s/series/the-pacific-0374463"
     },
     {
      "name": "Action",
@@ -1035,24 +1041,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Katheryn Winnick",
+     "name": "James Badge Dale",
      "category": "Cast",
-     "url": "stremio:///search?search=Katheryn%20Winnick"
+     "url": "stremio:///search?search=James%20Badge%20Dale"
     },
     {
-     "name": "Gustaf Skarsgård",
+     "name": "Joseph Mazzello",
      "category": "Cast",
-     "url": "stremio:///search?search=Gustaf%20Skarsg%C3%A5rd"
+     "url": "stremio:///search?search=Joseph%20Mazzello"
     },
     {
-     "name": "Alexander Ludwig",
+     "name": "Jon Seda",
      "category": "Cast",
-     "url": "stremio:///search?search=Alexander%20Ludwig"
-    },
-    {
-     "name": "Michael Hirst",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Hirst"
+     "url": "stremio:///search?search=Jon%20Seda"
     }
    ],
    "behaviorHints": {
@@ -1061,7 +1062,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2306299.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0374463.jpg"
   }
  ]
 }

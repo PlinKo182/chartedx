@@ -623,6 +623,39 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36601237.jpg"
   },
   {
+   "id": "tt29011445",
+   "logo": "https://live.metahub.space/logo/medium/tt29011445/img",
+   "background": "https://live.metahub.space/background/medium/tt29011445/img",
+   "name": "Where's Wanda?",
+   "description": "Após o desaparecimento da filha dos Klatts, eles decidem resolver o problema sozinhos e traçam um plano louco: espiar a vizinhança. À medida que se aventuram na pequena espionagem, segredos chocantes vêm à tona, um a um.",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2024",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ULqwDPNiwjI",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "6.5",
+   "language": "German",
+   "country": "Germany",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29011445.jpg"
+  },
+  {
    "name": "Beef",
    "cast": [
     "Steven Yeun",
@@ -816,106 +849,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5687612.jpg"
-  },
-  {
-   "name": "The Gentlemen",
-   "cast": [
-    "Theo James",
-    "Kaya Scodelario",
-    "Joely Richardson"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Quando o aristocrata Eddie herda a propriedade da família, nem imagina que esta alberga um enorme império de erva... e que os proprietários estão lá para ficar.",
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "8.1",
-   "released": "2024-03-07T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "53 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Guy Ritchie"
-   ],
-   "trailers": [
-    {
-     "source": "wyEOwHrpZH4",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt13210838/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
-   "awards": "Won 1 Primetime Emmy. 4 wins & 30 nominations total",
-   "id": "tt13210838",
-   "genres": [
-    "Comédia",
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "The Gentlemen",
-     "ytId": "wyEOwHrpZH4"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13210838"
-    },
-    {
-     "name": "The Gentlemen",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-gentlemen-13210838"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Theo James",
-     "category": "Cast",
-     "url": "stremio:///search?search=Theo%20James"
-    },
-    {
-     "name": "Kaya Scodelario",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kaya%20Scodelario"
-    },
-    {
-     "name": "Joely Richardson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joely%20Richardson"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13210838.jpg"
   }
  ]
 }
