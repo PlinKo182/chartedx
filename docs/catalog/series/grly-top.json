@@ -94,7 +94,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42007258.jpg",
-   "imdbRating": "4.1"
+   "imdbRating": "4.4"
   },
   {
    "id": "tt1281973",
@@ -231,81 +231,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3530232.jpg"
-  },
-  {
-   "awards": "Won 5 BAFTA Awards. 13 wins & 34 nominations total",
-   "cast": [
-    "Graham Norton",
-    "Ricky Gervais",
-    "Dawn French"
-   ],
-   "country": "United Kingdom",
-   "description": "Todas as semanas, celebridades convidadas se juntam ao comediante irlandês Graham Norton para discutir o que está acontecendo no mundo naquela semana. Os convidados fazem piadas e compartilham suas opiniões sobre as principais notícias. Graham é frequentemente acompanhado por uma banda ou artista para fazer o show.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Comedy",
-    "Talk-Show"
-   ],
-   "imdbRating": "8.4",
-   "name": "The Graham Norton Show",
-   "released": "2007-06-02T00:00:00.000Z",
-   "runtime": "49 min",
-   "status": "Continuing",
-   "writer": null,
-   "year": "2007–",
-   "logo": "https://images.metahub.space/logo/medium/tt0924651/img",
-   "background": "https://images.metahub.space/background/medium/tt0924651/img",
-   "id": "tt0924651",
-   "genres": [
-    "Comédia",
-    "Talk"
-   ],
-   "releaseInfo": "2007",
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0924651"
-    },
-    {
-     "name": "The Graham Norton Show",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-graham-norton-show-0924651"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Talk-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Talk-Show"
-    },
-    {
-     "name": "Graham Norton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Graham%20Norton"
-    },
-    {
-     "name": "Ricky Gervais",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ricky%20Gervais"
-    },
-    {
-     "name": "Dawn French",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dawn%20French"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0924651.jpg"
   },
   {
    "name": "Taskmaster",
@@ -487,101 +412,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15557874.jpg"
   },
   {
-   "name": "Love Story",
+   "awards": "Won 5 BAFTA Awards. 13 wins & 34 nominations total",
    "cast": [
-    "Sarah Pidgeon",
-    "Paul Anthony Kelly",
-    "Grace Gummer"
+    "Graham Norton",
+    "Ricky Gervais",
+    "Dawn French"
    ],
-   "country": "United States",
-   "description": "Uma antologia de histórias de amor reais e emocionantes que cativaram o mundo.",
+   "country": "United Kingdom",
+   "description": "Todas as semanas, celebridades convidadas se juntam ao comediante irlandês Graham Norton para discutir o que está acontecendo no mundo naquela semana. Os convidados fazem piadas e compartilham suas opiniões sobre as principais notícias. Graham é frequentemente acompanhado por uma banda ou artista para fazer o show.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Biography",
-    "Drama",
-    "Romance"
+    "Comedy",
+    "Talk-Show"
    ],
-   "imdbRating": "7.3",
-   "released": "2026-02-12T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "51 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "GV0piEIaAes",
-     "type": "Trailer"
-    },
-    {
-     "source": "Gw2RakWShdE",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Connor Hines"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15232564/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15232564/img",
-   "awards": "Won 1 Primetime Emmy. 4 wins & 14 nominations total",
-   "id": "tt15232564",
+   "imdbRating": "8.4",
+   "name": "The Graham Norton Show",
+   "released": "2007-06-02T00:00:00.000Z",
+   "runtime": "49 min",
+   "status": "Continuing",
+   "writer": null,
+   "year": "2007–",
+   "logo": "https://images.metahub.space/logo/medium/tt0924651/img",
+   "background": "https://images.metahub.space/background/medium/tt0924651/img",
+   "id": "tt0924651",
    "genres": [
-    "Drama"
+    "Comédia",
+    "Talk"
    ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Love Story",
-     "ytId": "GV0piEIaAes"
-    },
-    {
-     "title": "Love Story",
-     "ytId": "Gw2RakWShdE"
-    }
-   ],
+   "releaseInfo": "2007",
    "links": [
     {
-     "name": "7.3",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt15232564"
+     "url": "https://imdb.com/title/tt0924651"
     },
     {
-     "name": "Love Story",
+     "name": "The Graham Norton Show",
      "category": "share",
-     "url": "https://www.strem.io/s/series/love-story-15232564"
+     "url": "https://www.strem.io/s/series/the-graham-norton-show-0924651"
     },
     {
-     "name": "Biography",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Drama",
+     "name": "Talk-Show",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Talk-Show"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Sarah Pidgeon",
+     "name": "Graham Norton",
      "category": "Cast",
-     "url": "stremio:///search?search=Sarah%20Pidgeon"
+     "url": "stremio:///search?search=Graham%20Norton"
     },
     {
-     "name": "Paul Anthony Kelly",
+     "name": "Ricky Gervais",
      "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Anthony%20Kelly"
+     "url": "stremio:///search?search=Ricky%20Gervais"
     },
     {
-     "name": "Grace Gummer",
+     "name": "Dawn French",
      "category": "Cast",
-     "url": "stremio:///search?search=Grace%20Gummer"
-    },
-    {
-     "name": "Connor Hines",
-     "category": "Writers",
-     "url": "stremio:///search?search=Connor%20Hines"
+     "url": "stremio:///search?search=Dawn%20French"
     }
    ],
    "behaviorHints": {
@@ -590,7 +484,175 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15232564.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0924651.jpg"
+  },
+  {
+   "awards": "Won 98 Primetime Emmys. 244 wins & 647 nominations total",
+   "cast": [
+    "The Saturday Night Live Band",
+    "Don Pardo",
+    "Darrell Hammond"
+   ],
+   "country": "United States",
+   "description": "O programa humorístico \"Saturday Night Live\" conquistou o público americano pela irreverência, pelo humor corrosivo e por ter se tornado um verdadeiro celeiro para novos talentos da arte de fazer rir. O programa foi indicado mais de 50 vezes para o Emmy, ganhando, no mínimo, 15 prêmios durante todos esses anos no ar. E, ao que tudo indica, vai continuar por muito mais tempo do que alguém poderia imaginar.",
+   "director": null,
+   "dvdRelease": "2010-01-26T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Music"
+   ],
+   "imdbRating": "8.0",
+   "name": "Saturday Night Live",
+   "released": "1975-10-11T00:00:00.000Z",
+   "runtime": "65 min",
+   "status": "Continuing",
+   "writer": [
+    "Lorne Michaels"
+   ],
+   "year": "1975–",
+   "background": "https://images.metahub.space/background/medium/tt0072562/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0072562/img",
+   "trailers": [
+    {
+     "source": "_Np6fu-0OoY",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0072562",
+   "genres": [
+    "Comédia",
+    "News"
+   ],
+   "releaseInfo": "1975",
+   "trailerStreams": [
+    {
+     "title": "Saturday Night Live",
+     "ytId": "_Np6fu-0OoY"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0072562"
+    },
+    {
+     "name": "Saturday Night Live",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/saturday-night-live-0072562"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
+    },
+    {
+     "name": "The Saturday Night Live Band",
+     "category": "Cast",
+     "url": "stremio:///search?search=The%20Saturday%20Night%20Live%20Band"
+    },
+    {
+     "name": "Don Pardo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Don%20Pardo"
+    },
+    {
+     "name": "Darrell Hammond",
+     "category": "Cast",
+     "url": "stremio:///search?search=Darrell%20Hammond"
+    },
+    {
+     "name": "Lorne Michaels",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lorne%20Michaels"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072562.jpg"
+  },
+  {
+   "awards": "Won 2 BAFTA Awards. 10 wins & 28 nominations total",
+   "cast": [
+    "Paul Hollywood",
+    "Prue Leith",
+    "Noel Fielding"
+   ],
+   "country": "United Kingdom",
+   "description": "Bakers attempt three challenges each week trying to impress the judges enough to go through to the next round and eventually are crowned Britain's best amateur baker.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Game-Show",
+    "Reality-TV"
+   ],
+   "imdbRating": "8.6",
+   "name": "The Great British Baking Show",
+   "released": "2014-12-27T00:00:00.000Z",
+   "runtime": "60 min",
+   "status": "Continuing",
+   "writer": null,
+   "year": "2010–",
+   "logo": "https://images.metahub.space/logo/medium/tt1877368/img",
+   "background": "https://images.metahub.space/background/medium/tt1877368/img",
+   "id": "tt1877368",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2010",
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1877368"
+    },
+    {
+     "name": "The Great British Baking Show",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-great-british-baking-show-1877368"
+    },
+    {
+     "name": "Game-Show",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "Paul Hollywood",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Hollywood"
+    },
+    {
+     "name": "Prue Leith",
+     "category": "Cast",
+     "url": "stremio:///search?search=Prue%20Leith"
+    },
+    {
+     "name": "Noel Fielding",
+     "category": "Cast",
+     "url": "stremio:///search?search=Noel%20Fielding"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1877368.jpg"
   },
   {
    "name": "Married at First Sight: Australia",
@@ -671,80 +733,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4771108.jpg"
-  },
-  {
-   "awards": "Won 2 BAFTA Awards. 10 wins & 28 nominations total",
-   "cast": [
-    "Paul Hollywood",
-    "Prue Leith",
-    "Noel Fielding"
-   ],
-   "country": "United Kingdom",
-   "description": "Bakers attempt three challenges each week trying to impress the judges enough to go through to the next round and eventually are crowned Britain's best amateur baker.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "8.6",
-   "name": "The Great British Baking Show",
-   "released": "2014-12-27T00:00:00.000Z",
-   "runtime": "60 min",
-   "status": "Continuing",
-   "writer": null,
-   "year": "2010–",
-   "logo": "https://images.metahub.space/logo/medium/tt1877368/img",
-   "background": "https://images.metahub.space/background/medium/tt1877368/img",
-   "id": "tt1877368",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2010",
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1877368"
-    },
-    {
-     "name": "The Great British Baking Show",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-great-british-baking-show-1877368"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Paul Hollywood",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Hollywood"
-    },
-    {
-     "name": "Prue Leith",
-     "category": "Cast",
-     "url": "stremio:///search?search=Prue%20Leith"
-    },
-    {
-     "name": "Noel Fielding",
-     "category": "Cast",
-     "url": "stremio:///search?search=Noel%20Fielding"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1877368.jpg"
   },
   {
    "id": "tt13667230",
