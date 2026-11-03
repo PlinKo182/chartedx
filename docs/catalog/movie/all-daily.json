@@ -1,6 +1,92 @@
 {
  "metas": [
   {
+   "name": "Minha Amiga",
+   "cast": [
+    "Albano Jerónimo",
+    "Ricardo Pereira",
+    "Ingrid Guimarães"
+   ],
+   "country": "Brazil",
+   "director": [
+    "Susana Garcia"
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "6.9",
+   "released": null,
+   "writer": [
+    "Andrea Batitucci",
+    "Susana Garcia",
+    "Ingrid Guimarães"
+   ],
+   "year": "2026",
+   "runtime": "125 min",
+   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
+   "background": "https://images.metahub.space/background/medium/tt37458193/img",
+   "id": "tt37458193",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Minha Amiga",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Albano Jerónimo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+    },
+    {
+     "name": "Ricardo Pereira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricardo%20Pereira"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Andrea Batitucci",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrea%20Batitucci"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Writers",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Directors",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37458193",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
+   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+  },
+  {
    "name": "Weapons",
    "cast": [
     "Julia Garner",
@@ -108,90 +194,132 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg"
   },
   {
-   "name": "Minha Amiga",
+   "name": "Dracula",
    "cast": [
-    "Albano Jerónimo",
-    "Ricardo Pereira",
-    "Ingrid Guimarães"
+    "Caleb Landry Jones",
+    "Christoph Waltz",
+    "Zoë Bleu"
    ],
-   "country": "Brazil",
+   "country": "France",
+   "description": "Quando um príncipe do século XV renega Deus após a devastadora perda da sua mulher, herda uma maldição eterna; torna-se Drácula. Condenado a vaguear pelos séculos, desafia o destino e a própria morte, guiado por uma única esperança; reencontrar o seu amor perdido.",
    "director": [
-    "Susana Garcia"
+    "Luc Besson"
    ],
    "genre": [
-    "Comedy"
+    "Fantasy",
+    "Horror",
+    "Romance"
    ],
-   "imdbRating": "6.9",
-   "released": null,
+   "imdbRating": "6.2",
+   "released": "2026-02-06T00:00:00.000Z",
    "writer": [
-    "Andrea Batitucci",
-    "Susana Garcia",
-    "Ingrid Guimarães"
+    "Luc Besson",
+    "Bram Stoker"
    ],
    "year": "2026",
-   "runtime": "125 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
-   "background": "https://images.metahub.space/background/medium/tt37458193/img",
-   "id": "tt37458193",
-   "genres": [
-    "Comédia"
+   "runtime": "130 min",
+   "trailers": [
+    {
+     "source": "hverb7siYJ8",
+     "type": "Trailer"
+    },
+    {
+     "source": "3OBLPpuOM10",
+     "type": "Trailer"
+    },
+    {
+     "source": "iBKJCME9yvk",
+     "type": "Trailer"
+    }
    ],
-   "releaseInfo": "2026",
+   "background": "https://images.metahub.space/background/medium/tt31434030/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31434030/img",
+   "awards": "1 win & 4 nominations total",
+   "id": "tt31434030",
+   "genres": [
+    "Terror",
+    "Fantasia",
+    "Romance"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Dracula",
+     "ytId": "hverb7siYJ8"
+    },
+    {
+     "title": "Dracula",
+     "ytId": "3OBLPpuOM10"
+    },
+    {
+     "title": "Dracula",
+     "ytId": "iBKJCME9yvk"
+    }
+   ],
    "links": [
     {
-     "name": "Minha Amiga",
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31434030"
+    },
+    {
+     "name": "Dracula",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+     "url": "https://www.strem.io/s/movie/dracula-31434030"
     },
     {
-     "name": "Comedy",
+     "name": "Fantasy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
-     "name": "Albano Jerónimo",
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Caleb Landry Jones",
      "category": "Cast",
-     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+     "url": "stremio:///search?search=Caleb%20Landry%20Jones"
     },
     {
-     "name": "Ricardo Pereira",
+     "name": "Christoph Waltz",
      "category": "Cast",
-     "url": "stremio:///search?search=Ricardo%20Pereira"
+     "url": "stremio:///search?search=Christoph%20Waltz"
     },
     {
-     "name": "Ingrid Guimarães",
+     "name": "Zoë Bleu",
      "category": "Cast",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+     "url": "stremio:///search?search=Zo%C3%AB%20Bleu"
     },
     {
-     "name": "Andrea Batitucci",
+     "name": "Luc Besson",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrea%20Batitucci"
+     "url": "stremio:///search?search=Luc%20Besson"
     },
     {
-     "name": "Susana Garcia",
+     "name": "Bram Stoker",
      "category": "Writers",
-     "url": "stremio:///search?search=Susana%20Garcia"
+     "url": "stremio:///search?search=Bram%20Stoker"
     },
     {
-     "name": "Ingrid Guimarães",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Susana Garcia",
+     "name": "Luc Besson",
      "category": "Directors",
-     "url": "stremio:///search?search=Susana%20Garcia"
+     "url": "stremio:///search?search=Luc%20Besson"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt37458193",
+    "defaultVideoId": "tt31434030",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
-   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434030.jpg"
   },
   {
    "name": "Drive - The Pretenders",
@@ -297,618 +425,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg"
-  },
-  {
-   "id": "tt37284855",
-   "logo": "https://live.metahub.space/logo/medium/tt37284855/img",
-   "background": "https://live.metahub.space/background/medium/tt37284855/img",
-   "name": "All That We Never Were",
-   "description": "Depois de perder os pais, a aspirante a pintora Leah tem dificuldade em lidar com a situação. Quando o irmão se muda, pede ao seu melhor amigo, Axel, para cuidar dela, sem saber dos sentimentos que ela nutre por ele há muito tempo.",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "2026",
-   "trailers": [
-    {
-     "source": "bMM-vqUyO3w",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Margarida Corceiro",
-    "Maxi Iglesias",
-    "Natalia Rodríguez"
-   ],
-   "credits_cast": [
-    {
-     "character": "Leah Jones",
-     "name": "Margarida Corceiro",
-     "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg",
-     "id": 3372344
-    },
-    {
-     "character": "Axel Nguyen",
-     "name": "Maxi Iglesias",
-     "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg",
-     "id": 1248277
-    },
-    {
-     "character": "Elena",
-     "name": "Natalia Rodríguez",
-     "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg",
-     "id": 56245
-    },
-    {
-     "character": "Oliver",
-     "name": "Sebastián Zurita",
-     "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg",
-     "id": 970485
-    },
-    {
-     "character": "Belén",
-     "name": "Adriana Hormigos",
-     "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg",
-     "id": 4782295
-    },
-    {
-     "character": "Alejandro",
-     "name": "Javier Tolosa",
-     "profile_path": "/fSbMFLH2ykwcMnob4Y7hfOuljlh.jpg",
-     "id": 233279
-    },
-    {
-     "character": "Axel de niño",
-     "name": "Alan Miranda",
-     "profile_path": "/mxTDnXbcRvvQZKQ9TEklSJExEBu.jpg",
-     "id": 2814905
-    },
-    {
-     "character": "Pablo",
-     "name": "Joan Pedrola",
-     "profile_path": "/to8aXScmcOWfNucmqcKTJR8ijtb.jpg",
-     "id": 3492889
-    },
-    {
-     "character": "Douglas",
-     "name": "Armando del Río",
-     "profile_path": "/AuCppv180f27WZwwGnesEUrPpQr.jpg",
-     "id": 587099
-    },
-    {
-     "character": "Miriam",
-     "name": "Marta Solaz Cruz",
-     "profile_path": null,
-     "id": 5612031
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Jorge Alonso",
-     "profile_path": null,
-     "id": 2086327
-    }
-   ],
-   "director": [
-    "Jorge Alonso"
-   ],
-   "imdbRating": "5.2",
-   "language": "Spanish",
-   "country": "Spain",
-   "behaviorHints": {
-    "defaultVideoId": "tt37284855",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37284855.jpg"
-  },
-  {
-   "name": "Tony",
-   "cast": [
-    "Dominic Sessa",
-    "Antonio Banderas",
-    "Emilia Jones"
-   ],
-   "country": "United States, Canada",
-   "description": "Anthony Bourdain, com 19 anos, viaja para Provincetown e depara-se com o mundo caótico da cozinha de um restaurante, dando início a um verão que irá marcar o rumo da sua vida.",
-   "director": [
-    "Matt Johnson"
-   ],
-   "genre": [
-    "Biography",
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "7.3",
-   "released": "2026-08-21T00:00:00.000Z",
-   "writer": [
-    "Todd Bartels",
-    "Lou Howe",
-    "Matt Johnson"
-   ],
-   "year": "2026",
-   "runtime": "107 min",
-   "trailers": [
-    {
-     "source": "k1MVnzd2aVc",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33095251/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33095251/img",
-   "id": "tt33095251",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Tony",
-     "ytId": "k1MVnzd2aVc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33095251"
-    },
-    {
-     "name": "Tony",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/tony-33095251"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Dominic Sessa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dominic%20Sessa"
-    },
-    {
-     "name": "Antonio Banderas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Antonio%20Banderas"
-    },
-    {
-     "name": "Emilia Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emilia%20Jones"
-    },
-    {
-     "name": "Todd Bartels",
-     "category": "Writers",
-     "url": "stremio:///search?search=Todd%20Bartels"
-    },
-    {
-     "name": "Lou Howe",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lou%20Howe"
-    },
-    {
-     "name": "Matt Johnson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matt%20Johnson"
-    },
-    {
-     "name": "Matt Johnson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Matt%20Johnson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt33095251",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33095251.jpg"
-  },
-  {
-   "awards": "Nominated for 3 Oscars. 35 wins & 102 nominations total",
-   "cast": [
-    "Gary Oldman",
-    "Colin Firth",
-    "Tom Hardy"
-   ],
-   "country": "United Kingdom, France, Germany, United States, Hungary, Turkey",
-   "description": "No final do período da Guerra Fria, e após uma operação secreta correr muito mal em Budapeste, George Smiley, um veterano reformado da divisão de elite do Serviço Secreto Britânico, é chamado de volta à actividade para tentar descobrir quem é o agente duplo que está a passar informação secreta para a KGB soviética. Todos são suspeitos, mas como também foram treinados para dissimular e trabalhar em condições de tensão, todo o cuidado é pouco.",
-   "director": [
-    "Tomas Alfredson"
-   ],
-   "dvdRelease": "2015-12-01T00:00:00.000Z",
-   "genre": [
-    "Drama",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "7.0",
-   "name": "Tinker Tailor Soldier Spy",
-   "released": "2012-01-06T00:00:00.000Z",
-   "runtime": "127 min",
-   "trailers": [
-    {
-     "source": "VW-F1H-Nonk",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "John le Carré",
-    "Bridget O&apos;Connor",
-    "Peter Straughan"
-   ],
-   "year": "2012",
-   "background": "https://images.metahub.space/background/medium/tt1340800/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1340800/img",
-   "id": "tt1340800",
-   "genres": [
-    "Drama",
-    "Thriller",
-    "Mistério"
-   ],
-   "releaseInfo": "2011",
-   "trailerStreams": [
-    {
-     "title": "Tinker Tailor Soldier Spy",
-     "ytId": "VW-F1H-Nonk"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1340800"
-    },
-    {
-     "name": "Tinker Tailor Soldier Spy",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/tinker-tailor-soldier-spy-1340800"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Gary Oldman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gary%20Oldman"
-    },
-    {
-     "name": "Colin Firth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Colin%20Firth"
-    },
-    {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
-    },
-    {
-     "name": "John le Carré",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20le%20Carr%C3%A9"
-    },
-    {
-     "name": "Bridget O&apos;Connor",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bridget%20O%26apos%3BConnor"
-    },
-    {
-     "name": "Peter Straughan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Straughan"
-    },
-    {
-     "name": "Tomas Alfredson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tomas%20Alfredson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1340800",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1340800.jpg"
-  },
-  {
-   "awards": "Won 1 BAFTA Award. 34 wins & 51 nominations total",
-   "cast": [
-    "Jennifer Lawrence",
-    "Josh Hutcherson",
-    "Liam Hemsworth"
-   ],
-   "country": "United States",
-   "description": "Katniss Everdeen fica, por vontade própria, no lugar da irmã nos Jogos da Fome: uma competição televisiva em que dois adolescentes de cada um dos doze distritos de Panem são escolhidos ao acaso para lutar contra a morte.",
-   "director": [
-    "Gary Ross"
-   ],
-   "dvdRelease": "2016-09-09T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Sci-Fi"
-   ],
-   "imdbRating": "7.2",
-   "name": "The Hunger Games",
-   "released": "2012-03-23T00:00:00.000Z",
-   "runtime": "142 min",
-   "trailers": [
-    {
-     "source": "qoUT7q2iTbQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "mfmrPu43DF8",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Gary Ross",
-    "Suzanne Collins",
-    "Billy Ray"
-   ],
-   "year": "2012",
-   "background": "https://images.metahub.space/background/medium/tt1392170/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1392170/img",
-   "id": "tt1392170",
-   "genres": [
-    "Ficção científica",
-    "Aventura",
-    "Ação"
-   ],
-   "releaseInfo": "2012",
-   "trailerStreams": [
-    {
-     "title": "The Hunger Games",
-     "ytId": "qoUT7q2iTbQ"
-    },
-    {
-     "title": "The Hunger Games",
-     "ytId": "mfmrPu43DF8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1392170"
-    },
-    {
-     "name": "The Hunger Games",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-hunger-games-1392170"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Jennifer Lawrence",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jennifer%20Lawrence"
-    },
-    {
-     "name": "Josh Hutcherson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hutcherson"
-    },
-    {
-     "name": "Liam Hemsworth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Hemsworth"
-    },
-    {
-     "name": "Gary Ross",
-     "category": "Writers",
-     "url": "stremio:///search?search=Gary%20Ross"
-    },
-    {
-     "name": "Suzanne Collins",
-     "category": "Writers",
-     "url": "stremio:///search?search=Suzanne%20Collins"
-    },
-    {
-     "name": "Billy Ray",
-     "category": "Writers",
-     "url": "stremio:///search?search=Billy%20Ray"
-    },
-    {
-     "name": "Gary Ross",
-     "category": "Directors",
-     "url": "stremio:///search?search=Gary%20Ross"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1392170",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1392170.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
-   "cast": [
-    "Danny Elfman",
-    "Chris Sarandon",
-    "Catherine O'Hara"
-   ],
-   "country": "United States",
-   "description": "Jack Skellington é o Rei das Abóboras na cidade de Halloween, mas está entediado após anos a repetir sempre as mesmas coisas na Noite das Bruxas. Certo dia, por acaso, descobre a cidade do Natal e fica tão impressionado que decide trazer o espírito natalício para as festas do Halloween.",
-   "director": [
-    "Henry Selick"
-   ],
-   "dvdRelease": "2014-01-01T00:00:00.000Z",
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Family"
-   ],
-   "imdbRating": "7.9",
-   "name": "The Nightmare Before Christmas",
-   "released": "1993-10-29T00:00:00.000Z",
-   "runtime": "76 min",
-   "trailers": [
-    {
-     "source": "IoYahD_xNR0",
-     "type": "Trailer"
-    },
-    {
-     "source": "lVtetOjX_vk",
-     "type": "Trailer"
-    },
-    {
-     "source": "U2BbPck-P3A",
-     "type": "Trailer"
-    },
-    {
-     "source": "jv8lGa_ZXao",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Caroline Thompson",
-    "Michael McDowell",
-    "Tim Burton"
-   ],
-   "year": "1993",
-   "background": "https://images.metahub.space/background/medium/tt0107688/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
-   "id": "tt0107688",
-   "genres": [
-    "Fantasia",
-    "Animação",
-    "Família"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "IoYahD_xNR0"
-    },
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "lVtetOjX_vk"
-    },
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "U2BbPck-P3A"
-    },
-    {
-     "title": "The Nightmare Before Christmas",
-     "ytId": "jv8lGa_ZXao"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0107688"
-    },
-    {
-     "name": "The Nightmare Before Christmas",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-nightmare-before-christmas-0107688"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Danny Elfman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Danny%20Elfman"
-    },
-    {
-     "name": "Chris Sarandon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Sarandon"
-    },
-    {
-     "name": "Catherine O'Hara",
-     "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20O'Hara"
-    },
-    {
-     "name": "Caroline Thompson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Caroline%20Thompson"
-    },
-    {
-     "name": "Michael McDowell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20McDowell"
-    },
-    {
-     "name": "Tim Burton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Burton"
-    },
-    {
-     "name": "Henry Selick",
-     "category": "Directors",
-     "url": "stremio:///search?search=Henry%20Selick"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0107688",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0107688.jpg"
   },
   {
    "name": "Godzilla Minus One",
@@ -1069,6 +585,389 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23289160.jpg"
   },
   {
+   "awards": "Nominated for 2 BAFTA Awards. 3 nominations total",
+   "cast": [
+    "Walter Matthau",
+    "Robert Shaw",
+    "Martin Balsam"
+   ],
+   "country": "United States",
+   "description": "Em um dia aparentemente comum, o policial Zach Garber, responsável pela segurança no metrô de Nova York, é surpreendido pelo sequestro de um vagão do metrô Pelham 123 por um bando misterioso. Os quatro criminosos, liderados por Blue e fortemente armados, exigem US$ 1 milhão para libertar os dezessete reféns com vida. Comandando a negociação, Garber tem uma hora para encontrar uma solução para o impasse.",
+   "director": [
+    "Joseph Sargent"
+   ],
+   "dvdRelease": "2010-11-06T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "name": "The Taking of Pelham One Two Three",
+   "released": "1974-10-02T00:00:00.000Z",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "_WnD63TiceA",
+     "type": "Trailer"
+    },
+    {
+     "source": "lFl_XI3H1Z0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "John Godey",
+    "Peter Stone"
+   ],
+   "year": "1974",
+   "background": "https://images.metahub.space/background/medium/tt0072251/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0072251/img",
+   "id": "tt0072251",
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Ação"
+   ],
+   "releaseInfo": "1974",
+   "trailerStreams": [
+    {
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "_WnD63TiceA"
+    },
+    {
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "lFl_XI3H1Z0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0072251"
+    },
+    {
+     "name": "The Taking of Pelham One Two Three",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-taking-of-pelham-one-two-three-0072251"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Walter Matthau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Walter%20Matthau"
+    },
+    {
+     "name": "Robert Shaw",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Shaw"
+    },
+    {
+     "name": "Martin Balsam",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Balsam"
+    },
+    {
+     "name": "John Godey",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Godey"
+    },
+    {
+     "name": "Peter Stone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Stone"
+    },
+    {
+     "name": "Joseph Sargent",
+     "category": "Directors",
+     "url": "stremio:///search?search=Joseph%20Sargent"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0072251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072251.jpg"
+  },
+  {
+   "awards": "Nominated for 3 Oscars. 35 wins & 102 nominations total",
+   "cast": [
+    "Gary Oldman",
+    "Colin Firth",
+    "Tom Hardy"
+   ],
+   "country": "United Kingdom, France, Germany, United States, Hungary, Turkey",
+   "description": "No final do período da Guerra Fria, e após uma operação secreta correr muito mal em Budapeste, George Smiley, um veterano reformado da divisão de elite do Serviço Secreto Britânico, é chamado de volta à actividade para tentar descobrir quem é o agente duplo que está a passar informação secreta para a KGB soviética. Todos são suspeitos, mas como também foram treinados para dissimular e trabalhar em condições de tensão, todo o cuidado é pouco.",
+   "director": [
+    "Tomas Alfredson"
+   ],
+   "dvdRelease": "2015-12-01T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "7.0",
+   "name": "Tinker Tailor Soldier Spy",
+   "released": "2012-01-06T00:00:00.000Z",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "VW-F1H-Nonk",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "John le Carré",
+    "Bridget O&apos;Connor",
+    "Peter Straughan"
+   ],
+   "year": "2012",
+   "background": "https://images.metahub.space/background/medium/tt1340800/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1340800/img",
+   "id": "tt1340800",
+   "genres": [
+    "Drama",
+    "Thriller",
+    "Mistério"
+   ],
+   "releaseInfo": "2011",
+   "trailerStreams": [
+    {
+     "title": "Tinker Tailor Soldier Spy",
+     "ytId": "VW-F1H-Nonk"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1340800"
+    },
+    {
+     "name": "Tinker Tailor Soldier Spy",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/tinker-tailor-soldier-spy-1340800"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Gary Oldman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gary%20Oldman"
+    },
+    {
+     "name": "Colin Firth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Colin%20Firth"
+    },
+    {
+     "name": "Tom Hardy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hardy"
+    },
+    {
+     "name": "John le Carré",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20le%20Carr%C3%A9"
+    },
+    {
+     "name": "Bridget O&apos;Connor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bridget%20O%26apos%3BConnor"
+    },
+    {
+     "name": "Peter Straughan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Straughan"
+    },
+    {
+     "name": "Tomas Alfredson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tomas%20Alfredson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1340800",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1340800.jpg"
+  },
+  {
+   "awards": "Nominated for 1 Oscar. 7 wins & 17 nominations total",
+   "cast": [
+    "Danny Elfman",
+    "Chris Sarandon",
+    "Catherine O'Hara"
+   ],
+   "country": "United States",
+   "description": "Jack Skellington é o Rei das Abóboras na cidade de Halloween, mas está entediado após anos a repetir sempre as mesmas coisas na Noite das Bruxas. Certo dia, por acaso, descobre a cidade do Natal e fica tão impressionado que decide trazer o espírito natalício para as festas do Halloween.",
+   "director": [
+    "Henry Selick"
+   ],
+   "dvdRelease": "2014-01-01T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Family"
+   ],
+   "imdbRating": "7.9",
+   "name": "The Nightmare Before Christmas",
+   "released": "1993-10-29T00:00:00.000Z",
+   "runtime": "76 min",
+   "trailers": [
+    {
+     "source": "IoYahD_xNR0",
+     "type": "Trailer"
+    },
+    {
+     "source": "lVtetOjX_vk",
+     "type": "Trailer"
+    },
+    {
+     "source": "U2BbPck-P3A",
+     "type": "Trailer"
+    },
+    {
+     "source": "jv8lGa_ZXao",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Caroline Thompson",
+    "Michael McDowell",
+    "Tim Burton"
+   ],
+   "year": "1993",
+   "background": "https://images.metahub.space/background/medium/tt0107688/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0107688/img",
+   "id": "tt0107688",
+   "genres": [
+    "Fantasia",
+    "Animação",
+    "Família"
+   ],
+   "releaseInfo": "1993",
+   "trailerStreams": [
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "IoYahD_xNR0"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "lVtetOjX_vk"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "U2BbPck-P3A"
+    },
+    {
+     "title": "The Nightmare Before Christmas",
+     "ytId": "jv8lGa_ZXao"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0107688"
+    },
+    {
+     "name": "The Nightmare Before Christmas",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-nightmare-before-christmas-0107688"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Danny Elfman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Elfman"
+    },
+    {
+     "name": "Chris Sarandon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Sarandon"
+    },
+    {
+     "name": "Catherine O'Hara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20O'Hara"
+    },
+    {
+     "name": "Caroline Thompson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Caroline%20Thompson"
+    },
+    {
+     "name": "Michael McDowell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20McDowell"
+    },
+    {
+     "name": "Tim Burton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Burton"
+    },
+    {
+     "name": "Henry Selick",
+     "category": "Directors",
+     "url": "stremio:///search?search=Henry%20Selick"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0107688",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0107688.jpg"
+  },
+  {
    "id": "tt50426072",
    "behaviorHints": {
     "hasScheduledVideos": false
@@ -1078,6 +977,122 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50426072.jpg",
    "imdbRating": "6.8"
+  },
+  {
+   "name": "Tony",
+   "cast": [
+    "Dominic Sessa",
+    "Antonio Banderas",
+    "Emilia Jones"
+   ],
+   "country": "United States, Canada",
+   "description": "Anthony Bourdain, com 19 anos, viaja para Provincetown e depara-se com o mundo caótico da cozinha de um restaurante, dando início a um verão que irá marcar o rumo da sua vida.",
+   "director": [
+    "Matt Johnson"
+   ],
+   "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.3",
+   "released": "2026-08-21T00:00:00.000Z",
+   "writer": [
+    "Todd Bartels",
+    "Lou Howe",
+    "Matt Johnson"
+   ],
+   "year": "2026",
+   "runtime": "107 min",
+   "trailers": [
+    {
+     "source": "k1MVnzd2aVc",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33095251/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33095251/img",
+   "id": "tt33095251",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Tony",
+     "ytId": "k1MVnzd2aVc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33095251"
+    },
+    {
+     "name": "Tony",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/tony-33095251"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Dominic Sessa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dominic%20Sessa"
+    },
+    {
+     "name": "Antonio Banderas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Banderas"
+    },
+    {
+     "name": "Emilia Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emilia%20Jones"
+    },
+    {
+     "name": "Todd Bartels",
+     "category": "Writers",
+     "url": "stremio:///search?search=Todd%20Bartels"
+    },
+    {
+     "name": "Lou Howe",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lou%20Howe"
+    },
+    {
+     "name": "Matt Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Johnson"
+    },
+    {
+     "name": "Matt Johnson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Matt%20Johnson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33095251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33095251.jpg"
   }
  ]
 }
