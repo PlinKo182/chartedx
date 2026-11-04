@@ -187,79 +187,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   },
   {
-   "name": "East of Eden",
-   "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
-   ],
-   "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "M9NWvGZViCg",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
-    }
-   ],
-   "links": [
-    {
-     "name": "East of Eden",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
-    },
-    {
-     "name": "Mike Faist",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
-    },
-    {
-     "name": "Christopher Abbott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
-  },
-  {
    "name": "Slow Horses",
    "cast": [
     "Gary Oldman",
@@ -352,6 +279,79 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
+  },
+  {
+   "name": "East of Eden",
+   "cast": [
+    "Florence Pugh",
+    "Mike Faist",
+    "Christopher Abbott"
+   ],
+   "country": "United States",
+   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "released": "2026-10-01T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "59 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "M9NWvGZViCg",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
+   "background": "https://images.metahub.space/background/medium/tt21097264/img",
+   "id": "tt21097264",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "East of Eden",
+     "ytId": "M9NWvGZViCg"
+    }
+   ],
+   "links": [
+    {
+     "name": "East of Eden",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Florence Pugh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Florence%20Pugh"
+    },
+    {
+     "name": "Mike Faist",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mike%20Faist"
+    },
+    {
+     "name": "Christopher Abbott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Abbott"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
   },
   {
    "id": "tt23148340",
@@ -655,6 +655,51 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
   },
   {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
    "name": "The Terminal List",
    "cast": [
     "Chris Pratt",
@@ -869,51 +914,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
-  },
-  {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   }
  ]
 }

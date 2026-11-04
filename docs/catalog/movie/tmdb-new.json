@@ -227,7 +227,7 @@
    "director": [
     "Carles Torrens"
    ],
-   "imdbRating": "5.2",
+   "imdbRating": "5.1",
    "language": "Spanish",
    "country": "Spain",
    "behaviorHints": {
@@ -237,6 +237,120 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37522541.jpg"
+  },
+  {
+   "name": "Resident Evil",
+   "cast": [
+    "Austin Abrams",
+    "Paul Walter Hauser",
+    "Zach Cherry"
+   ],
+   "country": "Germany, United States",
+   "description": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
+   "director": [
+    "Zach Cregger"
+   ],
+   "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "imdbRating": "7.5",
+   "released": "2026-09-18T00:00:00.000Z",
+   "writer": [
+    "Zach Cregger",
+    "Shay Hatten"
+   ],
+   "year": "2026",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "mNd1gb19A-c",
+     "type": "Trailer"
+    },
+    {
+     "source": "SJPu1spHqfk",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt35538033/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35538033/img",
+   "id": "tt35538033",
+   "genres": [
+    "Terror",
+    "Ficção científica",
+    "Aventura"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Resident Evil",
+     "ytId": "mNd1gb19A-c"
+    },
+    {
+     "title": "Resident Evil",
+     "ytId": "SJPu1spHqfk"
+    }
+   ],
+   "links": [
+    {
+     "name": "Resident Evil",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/resident-evil-35538033"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Austin Abrams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Austin%20Abrams"
+    },
+    {
+     "name": "Paul Walter Hauser",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Walter%20Hauser"
+    },
+    {
+     "name": "Zach Cherry",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zach%20Cherry"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Writers",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    },
+    {
+     "name": "Shay Hatten",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shay%20Hatten"
+    },
+    {
+     "name": "Zach Cregger",
+     "category": "Directors",
+     "url": "stremio:///search?search=Zach%20Cregger"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt35538033",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35538033.jpg"
   },
   {
    "name": "Drive - The Pretenders",
@@ -455,64 +569,262 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
-   "name": "Resident Evil",
+   "id": "tt50389959",
+   "logo": "https://live.metahub.space/logo/medium/tt50389959/img",
+   "background": "https://live.metahub.space/background/medium/tt50389959/img",
+   "name": "A Story of Derry",
+   "description": "Centenas de anos antes de Pennywise, três jovens aventuram-se na Floresta Ocidental... onde se deparam com um espírito antigo e aterrador.",
+   "genres": [
+    "Drama",
+    "Terror",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "30 min",
+   "trailers": [],
    "cast": [
-    "Austin Abrams",
-    "Paul Walter Hauser",
-    "Zach Cherry"
+    "Kiawentiio",
+    "Isabel DeRoy-Olson",
+    "Michael Podemski"
    ],
-   "country": "Germany, United States",
-   "description": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
-   "director": [
-    "Zach Cregger"
-   ],
-   "genre": [
-    "Action",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "imdbRating": "7.5",
-   "released": "2026-09-18T00:00:00.000Z",
-   "writer": [
-    "Zach Cregger",
-    "Shay Hatten"
-   ],
-   "year": "2026",
-   "runtime": "95 min",
-   "trailers": [
+   "credits_cast": [
     {
-     "source": "mNd1gb19A-c",
-     "type": "Trailer"
+     "character": "Necani",
+     "name": "Kiawentiio",
+     "profile_path": "/vsjD9XhOYk8GbYdH7vfMNEoOSLv.jpg",
+     "id": 2718335
     },
     {
-     "source": "SJPu1spHqfk",
+     "character": "Kino",
+     "name": "Isabel DeRoy-Olson",
+     "profile_path": "/5Q00DYyruBqaJQuHqnu6qxVnpXT.jpg",
+     "id": 3820201
+    },
+    {
+     "character": "Maneese",
+     "name": "Michael Podemski",
+     "profile_path": "/rKhfWIIQhiGKLyhB238wFCDv1nE.jpg",
+     "id": 2530541
+    },
+    {
+     "character": "",
+     "name": "Zahn McClarnon",
+     "profile_path": "/54M2t1gziirkDdvj4SxAl6dXaVO.jpg",
+     "id": 42376
+    },
+    {
+     "character": "Apto",
+     "name": "Brandon Oakes",
+     "profile_path": "/iiEiwcEaOObQXHoOitU1wstZmMF.jpg",
+     "id": 1529984
+    },
+    {
+     "character": "Sesqui",
+     "name": "MorningStar Angeline",
+     "profile_path": "/nB1PCopniuETacJofZ254Cr4CFo.jpg",
+     "id": 1591305
+    },
+    {
+     "character": "Miko",
+     "name": "Jennifer Podemski",
+     "profile_path": "/5LlDHLrj0QRyQ0IpPgXr419tXRF.jpg",
+     "id": 186495
+    },
+    {
+     "character": "Rose",
+     "name": "Kimberly Guerrero",
+     "profile_path": "/z8ImWgKNWWAlgwfLJNkRb2K2GIJ.jpg",
+     "id": 236022
+    },
+    {
+     "character": "Nebowist",
+     "name": "Brenda Odjick",
+     "profile_path": "/4KCBWor11HngnJygKA7GJhu3PDQ.jpg",
+     "id": 5541689
+    },
+    {
+     "character": "Priest",
+     "name": "Eric Trask",
+     "profile_path": null,
+     "id": 1683860
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Tazbah Chavez",
+     "profile_path": null,
+     "id": 2521383
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Lyn Lucibello-Brancatella",
+     "profile_path": null,
+     "id": 1457895
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Sarah Rath",
+     "profile_path": null,
+     "id": 1676813
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Cherie Dimaline",
+     "profile_path": null,
+     "id": 3652890
+    }
+   ],
+   "director": [
+    "Tazbah Chavez"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt50389959",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50389959.jpg",
+   "imdbRating": "6.8"
+  },
+  {
+   "name": "Cruzados",
+   "cast": [
+    "Jorge Cabrera",
+    "Álvaro Cervantes",
+    "Laia Costa"
+   ],
+   "country": "Spain",
+   "director": [
+    "Daniel Sánchez Arévalo"
+   ],
+   "imdbRating": "5.7",
+   "released": null,
+   "writer": [
+    "Ramón Campos",
+    "Daniel Sánchez Arévalo"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "8hVLhaK619k",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt35538033/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35538033/img",
-   "id": "tt35538033",
+   "genre": [],
+   "logo": "https://images.metahub.space/logo/medium/tt38793125/img",
+   "background": "https://images.metahub.space/background/medium/tt38793125/img",
+   "id": "tt38793125",
    "genres": [
-    "Terror",
-    "Ficção científica",
-    "Aventura"
+    "Drama",
+    "Ação",
+    "Crime"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Resident Evil",
-     "ytId": "mNd1gb19A-c"
-    },
-    {
-     "title": "Resident Evil",
-     "ytId": "SJPu1spHqfk"
+     "title": "Cruzados",
+     "ytId": "8hVLhaK619k"
     }
    ],
    "links": [
     {
-     "name": "Resident Evil",
+     "name": "Cruzados",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/resident-evil-35538033"
+     "url": "https://www.strem.io/s/movie/cruzados-38793125"
+    },
+    {
+     "name": "Jorge Cabrera",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jorge%20Cabrera"
+    },
+    {
+     "name": "Álvaro Cervantes",
+     "category": "Cast",
+     "url": "stremio:///search?search=%C3%81lvaro%20Cervantes"
+    },
+    {
+     "name": "Laia Costa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Laia%20Costa"
+    },
+    {
+     "name": "Ramón Campos",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ram%C3%B3n%20Campos"
+    },
+    {
+     "name": "Daniel Sánchez Arévalo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+    },
+    {
+     "name": "Daniel Sánchez Arévalo",
+     "category": "Directors",
+     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38793125",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
+   "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
+  },
+  {
+   "name": "The Mongoose",
+   "cast": [
+    "Liam Neeson",
+    "Marisa Tomei",
+    "Michael Chiklis"
+   ],
+   "country": "United States, Australia",
+   "description": "Um herói de guerra falsamente acusado, sem nada a perder, lidera uma perseguição policial épica que atravessa o país, transmitida pela televisão, com a ajuda de membros do seu antigo batalhão das Forças Especiais do Exército e sob a vigilância atenta de um público fascinado que torce pela sua fuga em segurança.",
+   "director": [
+    "Mark Vanselow"
+   ],
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "4.9",
+   "released": "2026-10-30T00:00:00.000Z",
+   "writer": [
+    "Thompson Evans"
+   ],
+   "year": "2026",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "aHrMFtt40_Q",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt13611778/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13611778/img",
+   "id": "tt13611778",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Mongoose",
+     "ytId": "aHrMFtt40_Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Mongoose",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-mongoose-13611778"
     },
     {
      "name": "Action",
@@ -520,53 +832,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Horror",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Austin Abrams",
+     "name": "Liam Neeson",
      "category": "Cast",
-     "url": "stremio:///search?search=Austin%20Abrams"
+     "url": "stremio:///search?search=Liam%20Neeson"
     },
     {
-     "name": "Paul Walter Hauser",
+     "name": "Marisa Tomei",
      "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Walter%20Hauser"
+     "url": "stremio:///search?search=Marisa%20Tomei"
     },
     {
-     "name": "Zach Cherry",
+     "name": "Michael Chiklis",
      "category": "Cast",
-     "url": "stremio:///search?search=Zach%20Cherry"
+     "url": "stremio:///search?search=Michael%20Chiklis"
     },
     {
-     "name": "Zach Cregger",
+     "name": "Thompson Evans",
      "category": "Writers",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=Thompson%20Evans"
     },
     {
-     "name": "Shay Hatten",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shay%20Hatten"
-    },
-    {
-     "name": "Zach Cregger",
+     "name": "Mark Vanselow",
      "category": "Directors",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=Mark%20Vanselow"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt35538033",
+    "defaultVideoId": "tt13611778",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35538033.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13611778.jpg"
   },
   {
    "name": "The Dog Stars",
@@ -696,213 +998,96 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21285562.jpg"
   },
   {
-   "id": "tt50389959",
-   "logo": "https://live.metahub.space/logo/medium/tt50389959/img",
-   "background": "https://live.metahub.space/background/medium/tt50389959/img",
-   "name": "A Story of Derry",
-   "description": "Centenas de anos antes de Pennywise, três jovens aventuram-se na Floresta Ocidental... onde se deparam com um espírito antigo e aterrador.",
-   "genres": [
-    "Drama",
-    "Terror",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "30 min",
-   "trailers": [],
+   "name": "Surviving Hurricane Otis",
    "cast": [
-    "Kiawentiio",
-    "Isabel DeRoy-Olson",
-    "Michael Podemski"
+    "Benny Emmanuel",
+    "Kristyan Ferrer",
+    "Mónica Del Carmen"
    ],
-   "credits_cast": [
-    {
-     "character": "Necani",
-     "name": "Kiawentiio",
-     "profile_path": "/vsjD9XhOYk8GbYdH7vfMNEoOSLv.jpg",
-     "id": 2718335
-    },
-    {
-     "character": "Kino",
-     "name": "Isabel DeRoy-Olson",
-     "profile_path": "/5Q00DYyruBqaJQuHqnu6qxVnpXT.jpg",
-     "id": 3820201
-    },
-    {
-     "character": "Maneese",
-     "name": "Michael Podemski",
-     "profile_path": "/rKhfWIIQhiGKLyhB238wFCDv1nE.jpg",
-     "id": 2530541
-    },
-    {
-     "character": "",
-     "name": "Zahn McClarnon",
-     "profile_path": "/54M2t1gziirkDdvj4SxAl6dXaVO.jpg",
-     "id": 42376
-    },
-    {
-     "character": "Apto",
-     "name": "Brandon Oakes",
-     "profile_path": "/iiEiwcEaOObQXHoOitU1wstZmMF.jpg",
-     "id": 1529984
-    },
-    {
-     "character": "Sesqui",
-     "name": "MorningStar Angeline",
-     "profile_path": "/nB1PCopniuETacJofZ254Cr4CFo.jpg",
-     "id": 1591305
-    },
-    {
-     "character": "Miko",
-     "name": "Jennifer Podemski",
-     "profile_path": "/5LlDHLrj0QRyQ0IpPgXr419tXRF.jpg",
-     "id": 186495
-    },
-    {
-     "character": "Rose",
-     "name": "Kimberly Guerrero",
-     "profile_path": "/z8ImWgKNWWAlgwfLJNkRb2K2GIJ.jpg",
-     "id": 236022
-    },
-    {
-     "character": "Nebowist",
-     "name": "Brenda Odjick",
-     "profile_path": "/4KCBWor11HngnJygKA7GJhu3PDQ.jpg",
-     "id": 5541689
-    },
-    {
-     "character": "Priest",
-     "name": "Eric Trask",
-     "profile_path": null,
-     "id": 1683860
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Tazbah Chavez",
-     "profile_path": null,
-     "id": 2521383
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Lyn Lucibello-Brancatella",
-     "profile_path": null,
-     "id": 1457895
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Sarah Rath",
-     "profile_path": null,
-     "id": 1676813
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Cherie Dimaline",
-     "profile_path": null,
-     "id": 3652890
-    }
-   ],
+   "country": "Mexico",
+   "description": "Dois irmãos afastados tentam sobreviver ao furacão Otis em Acapulco, onde os seus laços e a sua coragem transformam a adversidade em esperança. Inspirado numa história real.",
    "director": [
-    "Tazbah Chavez"
+    "Jorge Michel Grau"
    ],
-   "behaviorHints": {
-    "defaultVideoId": "tt50389959",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50389959.jpg",
-   "imdbRating": "6.9"
-  },
-  {
-   "name": "Cruzados",
-   "cast": [
-    "Jorge Cabrera",
-    "Álvaro Cervantes",
-    "Laia Costa"
+   "genre": [
+    "Adventure",
+    "Drama"
    ],
-   "country": "Spain",
-   "director": [
-    "Daniel Sánchez Arévalo"
-   ],
-   "imdbRating": "5.7",
-   "released": null,
+   "imdbRating": "5.1",
+   "released": "2026-10-23T00:00:00.000Z",
    "writer": [
-    "Ramón Campos",
-    "Daniel Sánchez Arévalo"
+    "Jose Leonor Alejandro",
+    "Jorge Michel Grau",
+    "Venancio Villalobos"
    ],
    "year": "2026",
-   "trailers": [
-    {
-     "source": "8hVLhaK619k",
-     "type": "Trailer"
-    }
-   ],
-   "genre": [],
-   "logo": "https://images.metahub.space/logo/medium/tt38793125/img",
-   "background": "https://images.metahub.space/background/medium/tt38793125/img",
-   "id": "tt38793125",
+   "runtime": "96 min",
+   "logo": "https://images.metahub.space/logo/medium/tt37961714/img",
+   "background": "https://images.metahub.space/background/medium/tt37961714/img",
+   "id": "tt37961714",
    "genres": [
-    "Drama",
-    "Ação",
-    "Crime"
+    "Drama"
    ],
    "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Cruzados",
-     "ytId": "8hVLhaK619k"
-    }
-   ],
    "links": [
     {
-     "name": "Cruzados",
+     "name": "Surviving Hurricane Otis",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/cruzados-38793125"
+     "url": "https://www.strem.io/s/movie/surviving-hurricane-otis-37961714"
     },
     {
-     "name": "Jorge Cabrera",
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Benny Emmanuel",
      "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Cabrera"
+     "url": "stremio:///search?search=Benny%20Emmanuel"
     },
     {
-     "name": "Álvaro Cervantes",
+     "name": "Kristyan Ferrer",
      "category": "Cast",
-     "url": "stremio:///search?search=%C3%81lvaro%20Cervantes"
+     "url": "stremio:///search?search=Kristyan%20Ferrer"
     },
     {
-     "name": "Laia Costa",
+     "name": "Mónica Del Carmen",
      "category": "Cast",
-     "url": "stremio:///search?search=Laia%20Costa"
+     "url": "stremio:///search?search=M%C3%B3nica%20Del%20Carmen"
     },
     {
-     "name": "Ramón Campos",
+     "name": "Jose Leonor Alejandro",
      "category": "Writers",
-     "url": "stremio:///search?search=Ram%C3%B3n%20Campos"
+     "url": "stremio:///search?search=Jose%20Leonor%20Alejandro"
     },
     {
-     "name": "Daniel Sánchez Arévalo",
+     "name": "Jorge Michel Grau",
      "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
     },
     {
-     "name": "Daniel Sánchez Arévalo",
+     "name": "Venancio Villalobos",
+     "category": "Writers",
+     "url": "stremio:///search?search=Venancio%20Villalobos"
+    },
+    {
+     "name": "Jorge Michel Grau",
      "category": "Directors",
-     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt38793125",
+    "defaultVideoId": "tt37961714",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
-   "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg"
   },
   {
    "name": "Hotel Tehran",
@@ -1018,175 +1203,68 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9601292.jpg"
   },
   {
-   "name": "Surviving Hurricane Otis",
+   "name": "Primetime",
+   "awards": "1 nomination total",
    "cast": [
-    "Benny Emmanuel",
-    "Kristyan Ferrer",
-    "Mónica Del Carmen"
+    "Robert Pattinson",
+    "Merritt Wever",
+    "Anna Faris"
    ],
-   "country": "Mexico",
-   "description": "Dois irmãos afastados tentam sobreviver ao furacão Otis em Acapulco, onde os seus laços e a sua coragem transformam a adversidade em esperança. Inspirado numa história real.",
+   "country": "United States",
+   "description": "Em 2006, Chris Hansen, apresentador do programa \"To Catch a Predator\", decide fazer história na televisão.",
    "director": [
-    "Jorge Michel Grau"
+    "Lance Oppenheim"
    ],
    "genre": [
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "5.1",
-   "released": "2026-10-23T00:00:00.000Z",
-   "writer": [
-    "Jose Leonor Alejandro",
-    "Jorge Michel Grau",
-    "Venancio Villalobos"
-   ],
-   "year": "2026",
-   "runtime": "96 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37961714/img",
-   "background": "https://images.metahub.space/background/medium/tt37961714/img",
-   "id": "tt37961714",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Surviving Hurricane Otis",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/surviving-hurricane-otis-37961714"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Benny Emmanuel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benny%20Emmanuel"
-    },
-    {
-     "name": "Kristyan Ferrer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kristyan%20Ferrer"
-    },
-    {
-     "name": "Mónica Del Carmen",
-     "category": "Cast",
-     "url": "stremio:///search?search=M%C3%B3nica%20Del%20Carmen"
-    },
-    {
-     "name": "Jose Leonor Alejandro",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jose%20Leonor%20Alejandro"
-    },
-    {
-     "name": "Jorge Michel Grau",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
-    },
-    {
-     "name": "Venancio Villalobos",
-     "category": "Writers",
-     "url": "stremio:///search?search=Venancio%20Villalobos"
-    },
-    {
-     "name": "Jorge Michel Grau",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37961714",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg"
-  },
-  {
-   "name": "Forgotten Island",
-   "cast": [
-    "Dave Franco",
-    "Jenny Slate",
-    "Manny Jacinto"
-   ],
-   "country": "United States, Japan",
-   "description": "Na última noite juntas, as recém-licenciadas do liceu e melhores amigas Jo e Raissa encontram um portal misterioso que as transporta para a fantástica ilha de Nakali. Ao descobrirem que as memórias de toda a sua amizade são o preço para regressarem a casa, Jo e Raissa têm de correr contra o tempo para encontrar uma forma de sair da ilha antes que se esqueçam para sempre.",
-   "director": [
-    "Joel Crawford",
-    "Januel P. Mercado"
-   ],
-   "genre": [
-    "Animation",
     "Action",
-    "Adventure"
+    "Biography",
+    "Crime"
    ],
-   "imdbRating": "7.5",
+   "imdbRating": "7.1",
    "released": "2026-09-25T00:00:00.000Z",
    "writer": [
-    "Joel Crawford",
-    "Januel P. Mercado"
+    "Ajon Singh"
    ],
    "year": "2026",
-   "runtime": "109 min",
+   "runtime": "110 min",
    "trailers": [
     {
-     "source": "PhgY8cOJiQA",
+     "source": "C0NZa01qTRU",
      "type": "Trailer"
     },
     {
-     "source": "f7mFVeWnVLw",
-     "type": "Trailer"
-    },
-    {
-     "source": "a8RHqN93qfo",
+     "source": "5fHXyqQOKL8",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt36583977/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36583977/img",
-   "id": "tt36583977",
+   "background": "https://images.metahub.space/background/medium/tt34206385/img",
+   "logo": "https://images.metahub.space/logo/medium/tt34206385/img",
+   "id": "tt34206385",
    "genres": [
-    "Animação",
-    "Aventura",
-    "Fantasia"
+    "Thriller",
+    "Drama"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Forgotten Island",
-     "ytId": "PhgY8cOJiQA"
+     "title": "Primetime",
+     "ytId": "C0NZa01qTRU"
     },
     {
-     "title": "Forgotten Island",
-     "ytId": "f7mFVeWnVLw"
-    },
-    {
-     "title": "Forgotten Island",
-     "ytId": "a8RHqN93qfo"
+     "title": "Primetime",
+     "ytId": "5fHXyqQOKL8"
     }
    ],
    "links": [
     {
-     "name": "7.7",
+     "name": "7.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt36583977"
+     "url": "https://imdb.com/title/tt34206385"
     },
     {
-     "name": "Forgotten Island",
+     "name": "Primetime",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/forgotten-island-36583977"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+     "url": "https://www.strem.io/s/movie/primetime-34206385"
     },
     {
      "name": "Action",
@@ -1194,53 +1272,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Adventure",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
-     "name": "Dave Franco",
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Robert Pattinson",
      "category": "Cast",
-     "url": "stremio:///search?search=Dave%20Franco"
+     "url": "stremio:///search?search=Robert%20Pattinson"
     },
     {
-     "name": "Jenny Slate",
+     "name": "Merritt Wever",
      "category": "Cast",
-     "url": "stremio:///search?search=Jenny%20Slate"
+     "url": "stremio:///search?search=Merritt%20Wever"
     },
     {
-     "name": "Manny Jacinto",
+     "name": "Anna Faris",
      "category": "Cast",
-     "url": "stremio:///search?search=Manny%20Jacinto"
+     "url": "stremio:///search?search=Anna%20Faris"
     },
     {
-     "name": "Joel Crawford",
+     "name": "Ajon Singh",
      "category": "Writers",
-     "url": "stremio:///search?search=Joel%20Crawford"
+     "url": "stremio:///search?search=Ajon%20Singh"
     },
     {
-     "name": "Januel P. Mercado",
-     "category": "Writers",
-     "url": "stremio:///search?search=Januel%20P.%20Mercado"
-    },
-    {
-     "name": "Joel Crawford",
+     "name": "Lance Oppenheim",
      "category": "Directors",
-     "url": "stremio:///search?search=Joel%20Crawford"
-    },
-    {
-     "name": "Januel P. Mercado",
-     "category": "Directors",
-     "url": "stremio:///search?search=Januel%20P.%20Mercado"
+     "url": "stremio:///search?search=Lance%20Oppenheim"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt36583977",
+    "defaultVideoId": "tt34206385",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36583977.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34206385.jpg"
   },
   {
    "name": "Coyote vs. Acme",
@@ -1468,6 +1541,139 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
+   "name": "Forgotten Island",
+   "cast": [
+    "Dave Franco",
+    "Jenny Slate",
+    "Manny Jacinto"
+   ],
+   "country": "United States, Japan",
+   "description": "Na última noite juntas, as recém-licenciadas do liceu e melhores amigas Jo e Raissa encontram um portal misterioso que as transporta para a fantástica ilha de Nakali. Ao descobrirem que as memórias de toda a sua amizade são o preço para regressarem a casa, Jo e Raissa têm de correr contra o tempo para encontrar uma forma de sair da ilha antes que se esqueçam para sempre.",
+   "director": [
+    "Joel Crawford",
+    "Januel P. Mercado"
+   ],
+   "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ],
+   "imdbRating": "7.5",
+   "released": "2026-09-25T00:00:00.000Z",
+   "writer": [
+    "Joel Crawford",
+    "Januel P. Mercado"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "PhgY8cOJiQA",
+     "type": "Trailer"
+    },
+    {
+     "source": "f7mFVeWnVLw",
+     "type": "Trailer"
+    },
+    {
+     "source": "a8RHqN93qfo",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt36583977/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36583977/img",
+   "id": "tt36583977",
+   "genres": [
+    "Animação",
+    "Aventura",
+    "Fantasia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Forgotten Island",
+     "ytId": "PhgY8cOJiQA"
+    },
+    {
+     "title": "Forgotten Island",
+     "ytId": "f7mFVeWnVLw"
+    },
+    {
+     "title": "Forgotten Island",
+     "ytId": "a8RHqN93qfo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt36583977"
+    },
+    {
+     "name": "Forgotten Island",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/forgotten-island-36583977"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Dave Franco",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Franco"
+    },
+    {
+     "name": "Jenny Slate",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jenny%20Slate"
+    },
+    {
+     "name": "Manny Jacinto",
+     "category": "Cast",
+     "url": "stremio:///search?search=Manny%20Jacinto"
+    },
+    {
+     "name": "Joel Crawford",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joel%20Crawford"
+    },
+    {
+     "name": "Januel P. Mercado",
+     "category": "Writers",
+     "url": "stremio:///search?search=Januel%20P.%20Mercado"
+    },
+    {
+     "name": "Joel Crawford",
+     "category": "Directors",
+     "url": "stremio:///search?search=Joel%20Crawford"
+    },
+    {
+     "name": "Januel P. Mercado",
+     "category": "Directors",
+     "url": "stremio:///search?search=Januel%20P.%20Mercado"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt36583977",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36583977.jpg"
+  },
+  {
    "name": "Ali G: Who Iz I?",
    "cast": [
     "Sacha Baron Cohen",
@@ -1482,7 +1688,7 @@
    "genre": [
     "Comedy"
    ],
-   "imdbRating": "5.1",
+   "imdbRating": "5.0",
    "released": "2026-10-23T00:00:00.000Z",
    "writer": [
     "Sacha Baron Cohen",
@@ -1566,6 +1772,97 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43655467.jpg"
+  },
+  {
+   "name": "Feed",
+   "cast": [
+    "Grace Collender",
+    "Clinton Liberty",
+    "Molly McCann"
+   ],
+   "country": "United Kingdom",
+   "description": "Cinco influenciadores das redes sociais passam um fim de semana num retiro na floresta, mas inadvertidamente despertam e deparam-se com o primeiro vampiro do mundo.",
+   "director": [
+    "Marco van Belle"
+   ],
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "3.6",
+   "released": "2026-08-14T00:00:00.000Z",
+   "writer": [
+    "Marco van Belle"
+   ],
+   "year": "2026",
+   "runtime": "82 min",
+   "trailers": [
+    {
+     "source": "ORFG_EWDkCY",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt30505578/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30505578/img",
+   "id": "tt30505578",
+   "genres": [
+    "Terror"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Feed",
+     "ytId": "ORFG_EWDkCY"
+    }
+   ],
+   "links": [
+    {
+     "name": "3.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30505578"
+    },
+    {
+     "name": "Feed",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/feed-30505578"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Grace Collender",
+     "category": "Cast",
+     "url": "stremio:///search?search=Grace%20Collender"
+    },
+    {
+     "name": "Clinton Liberty",
+     "category": "Cast",
+     "url": "stremio:///search?search=Clinton%20Liberty"
+    },
+    {
+     "name": "Molly McCann",
+     "category": "Cast",
+     "url": "stremio:///search?search=Molly%20McCann"
+    },
+    {
+     "name": "Marco van Belle",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marco%20van%20Belle"
+    },
+    {
+     "name": "Marco van Belle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Marco%20van%20Belle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt30505578",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30505578.jpg"
   },
   {
    "name": "Ghooskhor Pandat",
@@ -1652,6 +1949,85 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39631280.jpg"
+  },
+  {
+   "name": "Never After Dark",
+   "cast": [
+    "Moeka Hoshi",
+    "Kurumi Inagaki",
+    "Kento Kaku"
+   ],
+   "country": "Japan",
+   "description": "Uma vidente itinerante, que ajuda almas perdidas a fazer a passagem, encontra uma entidade poderosa numa casa isolada. Ao investigar as suas origens, ela descobre segredos obscuros e enfrenta uma ameaça mortal vinda de uma fonte inesperada.",
+   "director": [
+    "Dave Boyle"
+   ],
+   "genre": [
+    "Horror"
+   ],
+   "imdbRating": "6.6",
+   "released": "2026-03-13T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "104 min",
+   "trailers": [
+    {
+     "source": "fu33xTw654A",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt38589433/img",
+   "background": "https://images.metahub.space/background/medium/tt38589433/img",
+   "id": "tt38589433",
+   "genres": [
+    "Terror"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Never After Dark",
+     "ytId": "fu33xTw654A"
+    }
+   ],
+   "links": [
+    {
+     "name": "Never After Dark",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/never-after-dark-38589433"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Moeka Hoshi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Moeka%20Hoshi"
+    },
+    {
+     "name": "Kurumi Inagaki",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kurumi%20Inagaki"
+    },
+    {
+     "name": "Kento Kaku",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kento%20Kaku"
+    },
+    {
+     "name": "Dave Boyle",
+     "category": "Directors",
+     "url": "stremio:///search?search=Dave%20Boyle"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38589433",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38589433.jpg"
   },
   {
    "name": "Practical Magic 2",
@@ -1764,414 +2140,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32588798.jpg"
-  },
-  {
-   "name": "Feed",
-   "cast": [
-    "Grace Collender",
-    "Clinton Liberty",
-    "Molly McCann"
-   ],
-   "country": "United Kingdom",
-   "description": "Cinco influenciadores das redes sociais passam um fim de semana num retiro na floresta, mas inadvertidamente despertam e deparam-se com o primeiro vampiro do mundo.",
-   "director": [
-    "Marco van Belle"
-   ],
-   "genre": [
-    "Horror"
-   ],
-   "imdbRating": "3.6",
-   "released": "2026-08-14T00:00:00.000Z",
-   "writer": [
-    "Marco van Belle"
-   ],
-   "year": "2026",
-   "runtime": "82 min",
-   "trailers": [
-    {
-     "source": "ORFG_EWDkCY",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt30505578/img",
-   "logo": "https://images.metahub.space/logo/medium/tt30505578/img",
-   "id": "tt30505578",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Feed",
-     "ytId": "ORFG_EWDkCY"
-    }
-   ],
-   "links": [
-    {
-     "name": "3.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt30505578"
-    },
-    {
-     "name": "Feed",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/feed-30505578"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Grace Collender",
-     "category": "Cast",
-     "url": "stremio:///search?search=Grace%20Collender"
-    },
-    {
-     "name": "Clinton Liberty",
-     "category": "Cast",
-     "url": "stremio:///search?search=Clinton%20Liberty"
-    },
-    {
-     "name": "Molly McCann",
-     "category": "Cast",
-     "url": "stremio:///search?search=Molly%20McCann"
-    },
-    {
-     "name": "Marco van Belle",
-     "category": "Writers",
-     "url": "stremio:///search?search=Marco%20van%20Belle"
-    },
-    {
-     "name": "Marco van Belle",
-     "category": "Directors",
-     "url": "stremio:///search?search=Marco%20van%20Belle"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt30505578",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30505578.jpg"
-  },
-  {
-   "name": "Never After Dark",
-   "cast": [
-    "Moeka Hoshi",
-    "Kurumi Inagaki",
-    "Kento Kaku"
-   ],
-   "country": "Japan",
-   "description": "Uma vidente itinerante, que ajuda almas perdidas a fazer a passagem, encontra uma entidade poderosa numa casa isolada. Ao investigar as suas origens, ela descobre segredos obscuros e enfrenta uma ameaça mortal vinda de uma fonte inesperada.",
-   "director": [
-    "Dave Boyle"
-   ],
-   "genre": [
-    "Horror"
-   ],
-   "imdbRating": "6.6",
-   "released": "2026-03-13T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "104 min",
-   "trailers": [
-    {
-     "source": "fu33xTw654A",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt38589433/img",
-   "background": "https://images.metahub.space/background/medium/tt38589433/img",
-   "id": "tt38589433",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Never After Dark",
-     "ytId": "fu33xTw654A"
-    }
-   ],
-   "links": [
-    {
-     "name": "Never After Dark",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/never-after-dark-38589433"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Moeka Hoshi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Moeka%20Hoshi"
-    },
-    {
-     "name": "Kurumi Inagaki",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kurumi%20Inagaki"
-    },
-    {
-     "name": "Kento Kaku",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kento%20Kaku"
-    },
-    {
-     "name": "Dave Boyle",
-     "category": "Directors",
-     "url": "stremio:///search?search=Dave%20Boyle"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt38589433",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38589433.jpg"
-  },
-  {
-   "name": "Toy Story 5",
-   "awards": "4 nominations total",
-   "cast": [
-    "Tom Hanks",
-    "Tim Allen",
-    "Joan Cusack"
-   ],
-   "country": "United States",
-   "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
-   "director": [
-    "McKenna Harris",
-    "Andrew Stanton"
-   ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "7.3",
-   "released": "2026-06-19T00:00:00.000Z",
-   "writer": [
-    "Andrew Stanton",
-    "McKenna Harris"
-   ],
-   "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
-    {
-     "source": "QftAW9TTmuQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "c51ND9Hdbw0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt29355505/img",
-   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
-   "id": "tt29355505",
-   "genres": [
-    "Animação",
-    "Família",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Toy Story 5",
-     "ytId": "QftAW9TTmuQ"
-    },
-    {
-     "title": "Toy Story 5",
-     "ytId": "c51ND9Hdbw0"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt29355505"
-    },
-    {
-     "name": "Toy Story 5",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Tom Hanks",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
-    },
-    {
-     "name": "Tim Allen",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Allen"
-    },
-    {
-     "name": "Joan Cusack",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joan%20Cusack"
-    },
-    {
-     "name": "Andrew Stanton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Stanton"
-    },
-    {
-     "name": "McKenna Harris",
-     "category": "Writers",
-     "url": "stremio:///search?search=McKenna%20Harris"
-    },
-    {
-     "name": "McKenna Harris",
-     "category": "Directors",
-     "url": "stremio:///search?search=McKenna%20Harris"
-    },
-    {
-     "name": "Andrew Stanton",
-     "category": "Directors",
-     "url": "stremio:///search?search=Andrew%20Stanton"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt29355505",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
-  },
-  {
-   "name": "Sense and Sensibility",
-   "cast": [
-    "Daisy Edgar-Jones",
-    "Esmé Creed-Miles",
-    "Caitríona Balfe"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Uma história encantadora, espirituosa e profundamente comovente sobre o amor e a irmandade.",
-   "director": [
-    "Georgia Oakley"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.2",
-   "released": "2026-10-16T00:00:00.000Z",
-   "writer": [
-    "Diana Reid",
-    "Jane Austen"
-   ],
-   "year": "2026",
-   "runtime": "132 min",
-   "trailers": [
-    {
-     "source": "OFLyW0lxFU0",
-     "type": "Trailer"
-    },
-    {
-     "source": "mcrwcvad84U",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt13609648/img",
-   "background": "https://images.metahub.space/background/medium/tt13609648/img",
-   "id": "tt13609648",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Sense and Sensibility",
-     "ytId": "OFLyW0lxFU0"
-    },
-    {
-     "title": "Sense and Sensibility",
-     "ytId": "mcrwcvad84U"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13609648"
-    },
-    {
-     "name": "Sense and Sensibility",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/sense-and-sensibility-13609648"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Daisy Edgar-Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daisy%20Edgar-Jones"
-    },
-    {
-     "name": "Esmé Creed-Miles",
-     "category": "Cast",
-     "url": "stremio:///search?search=Esm%C3%A9%20Creed-Miles"
-    },
-    {
-     "name": "Caitríona Balfe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Caitr%C3%ADona%20Balfe"
-    },
-    {
-     "name": "Diana Reid",
-     "category": "Writers",
-     "url": "stremio:///search?search=Diana%20Reid"
-    },
-    {
-     "name": "Jane Austen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jane%20Austen"
-    },
-    {
-     "name": "Georgia Oakley",
-     "category": "Directors",
-     "url": "stremio:///search?search=Georgia%20Oakley"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt13609648",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13609648.jpg"
   }
  ]
 }

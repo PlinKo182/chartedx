@@ -90,7 +90,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
-   "imdbRating": "7.5"
+   "imdbRating": "7.4"
   },
   {
    "id": "tt2531336",
@@ -136,99 +136,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
-   "name": "Carrie",
-   "cast": [
-    "Summer H. Howell",
-    "Matthew Lillard",
-    "Amber Midthunder"
-   ],
-   "country": "Canada, United States",
-   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
-   "genre": [
-    "Drama",
-    "Horror"
-   ],
-   "imdbRating": "7.8",
-   "released": "2026-10-07T00:00:00.000Z",
-   "writer": [
-    "Mike Flanagan"
-   ],
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "jkUw2nh6fT0",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
-   "background": "https://images.metahub.space/background/medium/tt11540908/img",
-   "id": "tt11540908",
-   "genres": [
-    "Mistério",
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Carrie",
-     "ytId": "jkUw2nh6fT0"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11540908"
-    },
-    {
-     "name": "Carrie",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/carrie-11540908"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Summer H. Howell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Summer%20H.%20Howell"
-    },
-    {
-     "name": "Matthew Lillard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Lillard"
-    },
-    {
-     "name": "Amber Midthunder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amber%20Midthunder"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
   },
   {
    "name": "Dark Matter",
@@ -336,6 +243,312 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19231492.jpg"
+  },
+  {
+   "name": "Carrie",
+   "cast": [
+    "Summer H. Howell",
+    "Matthew Lillard",
+    "Amber Midthunder"
+   ],
+   "country": "Canada, United States",
+   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
+   "genre": [
+    "Drama",
+    "Horror"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-10-07T00:00:00.000Z",
+   "writer": [
+    "Mike Flanagan"
+   ],
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "jkUw2nh6fT0",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
+   "background": "https://images.metahub.space/background/medium/tt11540908/img",
+   "id": "tt11540908",
+   "genres": [
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Carrie",
+     "ytId": "jkUw2nh6fT0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11540908"
+    },
+    {
+     "name": "Carrie",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/carrie-11540908"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Summer H. Howell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Summer%20H.%20Howell"
+    },
+    {
+     "name": "Matthew Lillard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Lillard"
+    },
+    {
+     "name": "Amber Midthunder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amber%20Midthunder"
+    },
+    {
+     "name": "Mike Flanagan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mike%20Flanagan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
+   "cast": [
+    "Milo Callaghan",
+    "Lana Parrilla",
+    "Madison Iseman"
+   ],
+   "country": "United States",
+   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Rainmaker",
+   "released": "2025-08-15T00:00:00.000Z",
+   "year": "2025–",
+   "runtime": "43 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Jason Richman",
+    "Michael Seitzman"
+   ],
+   "trailers": [
+    {
+     "source": "-__6rI43NyE",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "1 win & 4 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt6151526/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
+   "id": "tt6151526",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Rainmaker",
+     "ytId": "-__6rI43NyE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6151526"
+    },
+    {
+     "name": "The Rainmaker",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Milo Callaghan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Milo%20Callaghan"
+    },
+    {
+     "name": "Lana Parrilla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lana%20Parrilla"
+    },
+    {
+     "name": "Madison Iseman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Madison%20Iseman"
+    },
+    {
+     "name": "Jason Richman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Richman"
+    },
+    {
+     "name": "Michael Seitzman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Seitzman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
+  },
+  {
+   "name": "Dexter: Resurrection",
+   "cast": [
+    "Michael C. Hall",
+    "Uma Thurman",
+    "Ntare Guma Mbaho Mwine"
+   ],
+   "country": "United States",
+   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
+   "imdbRating": "9.0",
+   "released": "2025-07-11T00:00:00.000Z",
+   "writer": [
+    "Clyde Phillips"
+   ],
+   "year": "2025–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "nTOf1FIsBcs",
+     "type": "Trailer"
+    },
+    {
+     "source": "84o1Q6fB20k",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33043892/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
+   "awards": "3 wins & 12 nominations total",
+   "id": "tt33043892",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Dexter: Resurrection",
+     "ytId": "nTOf1FIsBcs"
+    },
+    {
+     "title": "Dexter: Resurrection",
+     "ytId": "84o1Q6fB20k"
+    }
+   ],
+   "links": [
+    {
+     "name": "9.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33043892"
+    },
+    {
+     "name": "Dexter: Resurrection",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Michael C. Hall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20C.%20Hall"
+    },
+    {
+     "name": "Uma Thurman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Uma%20Thurman"
+    },
+    {
+     "name": "Ntare Guma Mbaho Mwine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
+    },
+    {
+     "name": "Clyde Phillips",
+     "category": "Writers",
+     "url": "stremio:///search?search=Clyde%20Phillips"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
   },
   {
    "awards": "Won 17 Primetime Emmys. 132 wins & 413 nominations total",
@@ -451,6 +664,37 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg"
   },
   {
+   "status": "Continuing",
+   "id": "tt36458668",
+   "name": "Dead-End Job",
+   "releaseInfo": "2026",
+   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "cast": [
+    "Lee Jae-wook",
+    "Go Min-si",
+    "Kim Min-ha",
+    "Lee Hee-jun",
+    "Yoon Byung-hee",
+    "Cho Hyun-chul",
+    "Choi Hyun-wook",
+    "Yoon Kyung-ho"
+   ],
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "imdbRating": "7.1"
+  },
+  {
    "name": "The Terminal List",
    "cast": [
     "Chris Pratt",
@@ -556,250 +800,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
   },
   {
-   "name": "Dexter: Resurrection",
-   "cast": [
-    "Michael C. Hall",
-    "Uma Thurman",
-    "Ntare Guma Mbaho Mwine"
-   ],
-   "country": "United States",
-   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
-   "imdbRating": "9.0",
-   "released": "2025-07-11T00:00:00.000Z",
-   "writer": [
-    "Clyde Phillips"
-   ],
-   "year": "2025–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "nTOf1FIsBcs",
-     "type": "Trailer"
-    },
-    {
-     "source": "84o1Q6fB20k",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33043892/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
-   "awards": "3 wins & 12 nominations total",
-   "id": "tt33043892",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "nTOf1FIsBcs"
-    },
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "84o1Q6fB20k"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33043892"
-    },
-    {
-     "name": "Dexter: Resurrection",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Michael C. Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
-    },
-    {
-     "name": "Uma Thurman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Uma%20Thurman"
-    },
-    {
-     "name": "Ntare Guma Mbaho Mwine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
-    },
-    {
-     "name": "Clyde Phillips",
-     "category": "Writers",
-     "url": "stremio:///search?search=Clyde%20Phillips"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
-  },
-  {
-   "cast": [
-    "Milo Callaghan",
-    "Lana Parrilla",
-    "Madison Iseman"
-   ],
-   "country": "United States",
-   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.2",
-   "name": "The Rainmaker",
-   "released": "2025-08-15T00:00:00.000Z",
-   "year": "2025–",
-   "runtime": "43 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Jason Richman",
-    "Michael Seitzman"
-   ],
-   "trailers": [
-    {
-     "source": "-__6rI43NyE",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "1 win & 4 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt6151526/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
-   "id": "tt6151526",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Rainmaker",
-     "ytId": "-__6rI43NyE"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6151526"
-    },
-    {
-     "name": "The Rainmaker",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Milo Callaghan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Milo%20Callaghan"
-    },
-    {
-     "name": "Lana Parrilla",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lana%20Parrilla"
-    },
-    {
-     "name": "Madison Iseman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Madison%20Iseman"
-    },
-    {
-     "name": "Jason Richman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Richman"
-    },
-    {
-     "name": "Michael Seitzman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Seitzman"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
-  },
-  {
-   "status": "Continuing",
-   "id": "tt36458668",
-   "name": "Dead-End Job",
-   "releaseInfo": "2026",
-   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
-   "language": "Korean",
-   "country": "South Korea",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "cast": [
-    "Lee Jae-wook",
-    "Go Min-si",
-    "Kim Min-ha",
-    "Lee Hee-jun",
-    "Yoon Byung-hee",
-    "Cho Hyun-chul",
-    "Choi Hyun-wook",
-    "Yoon Kyung-ho"
-   ],
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
-   "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "imdbRating": "7.2"
-  },
-  {
    "id": "tt21952924",
    "logo": "https://live.metahub.space/logo/medium/tt21952924/img",
    "background": "https://live.metahub.space/background/medium/tt21952924/img",
@@ -884,7 +884,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-   "imdbRating": "6.9"
+   "imdbRating": "6.8"
   }
  ]
 }
