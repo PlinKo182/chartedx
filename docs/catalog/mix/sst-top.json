@@ -305,56 +305,78 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33714084.jpg"
   },
   {
-   "name": "Transplant",
+   "name": "Tulsa King",
    "cast": [
-    "Hamza Haq",
-    "Laurence Leboeuf",
-    "John Hannah"
+    "Sylvester Stallone",
+    "Andrea Savage",
+    "Martin Starr"
    ],
-   "country": "Canada",
-   "description": "Refugiado sírio, o médico Bashir vive no Canadá, onde trabalha em um restaurante. Porém, tudo muda após um acidente com múltiplas vítimas – entre elas o diretor de um hospital.",
+   "country": "United States",
+   "description": "Pouco depois de ser libertado da prisão após 25 anos, Dwight “The General” Manfredi, chefe da máfia de Nova Iorque, é exilado sem cerimónias pelo seu patrão para se estabelecer em Tulsa, Oklahoma. Apercebendo-se de que a sua família mafiosa pode não ter em mente os seus melhores interesses, Dwight constrói lentamente uma “tripulação” a partir de um grupo de personagens improváveis, para o ajudar a estabelecer um novo império criminoso num lugar que, para ele, pode muito bem ser outro planeta.",
    "genre": [
+    "Action",
+    "Crime",
     "Drama"
    ],
    "imdbRating": "7.9",
-   "released": "2020-09-01T00:00:00.000Z",
+   "released": "2022-11-13T00:00:00.000Z",
    "writer": [
-    "Joseph Kay"
+    "Taylor Sheridan"
    ],
-   "year": "2020–2024",
-   "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt10936342/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10936342/img",
-   "runtime": "44 min",
-   "awards": "26 wins & 26 nominations total",
+   "year": "2022–",
+   "director": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt16358384/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
+   "runtime": "40 min",
    "trailers": [
     {
-     "source": "kAqIKAC1dII",
+     "source": "aaQSScwZPbA",
+     "type": "Trailer"
+    },
+    {
+     "source": "PXd3tO5ITyw",
      "type": "Trailer"
     }
    ],
-   "id": "tt10936342",
+   "awards": "Nominated for 3 Primetime Emmys. 10 nominations total",
+   "id": "tt16358384",
    "genres": [
-    "Drama"
+    "Crime",
+    "Drama",
+    "Comédia"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Transplant",
-     "ytId": "kAqIKAC1dII"
+     "title": "Tulsa King",
+     "ytId": "aaQSScwZPbA"
+    },
+    {
+     "title": "Tulsa King",
+     "ytId": "PXd3tO5ITyw"
     }
    ],
    "links": [
     {
      "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10936342"
+     "url": "https://imdb.com/title/tt16358384"
     },
     {
-     "name": "Transplant",
+     "name": "Tulsa King",
      "category": "share",
-     "url": "https://www.strem.io/s/series/transplant-10936342"
+     "url": "https://www.strem.io/s/series/tulsa-king-16358384"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -362,24 +384,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Hamza Haq",
+     "name": "Sylvester Stallone",
      "category": "Cast",
-     "url": "stremio:///search?search=Hamza%20Haq"
+     "url": "stremio:///search?search=Sylvester%20Stallone"
     },
     {
-     "name": "Laurence Leboeuf",
+     "name": "Andrea Savage",
      "category": "Cast",
-     "url": "stremio:///search?search=Laurence%20Leboeuf"
+     "url": "stremio:///search?search=Andrea%20Savage"
     },
     {
-     "name": "John Hannah",
+     "name": "Martin Starr",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Hannah"
+     "url": "stremio:///search?search=Martin%20Starr"
     },
     {
-     "name": "Joseph Kay",
+     "name": "Taylor Sheridan",
      "category": "Writers",
-     "url": "stremio:///search?search=Joseph%20Kay"
+     "url": "stremio:///search?search=Taylor%20Sheridan"
     }
    ],
    "behaviorHints": {
@@ -388,7 +410,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10936342.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg"
   },
   {
    "awards": "1 nomination total",
@@ -510,73 +532,56 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0326905.jpg"
   },
   {
-   "name": "Dexter: Resurrection",
+   "name": "Transplant",
    "cast": [
-    "Michael C. Hall",
-    "Uma Thurman",
-    "Ntare Guma Mbaho Mwine"
+    "Hamza Haq",
+    "Laurence Leboeuf",
+    "John Hannah"
    ],
-   "country": "United States",
-   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
-   "imdbRating": "9.0",
-   "released": "2025-07-11T00:00:00.000Z",
+   "country": "Canada",
+   "description": "Refugiado sírio, o médico Bashir vive no Canadá, onde trabalha em um restaurante. Porém, tudo muda após um acidente com múltiplas vítimas – entre elas o diretor de um hospital.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "7.9",
+   "released": "2020-09-01T00:00:00.000Z",
    "writer": [
-    "Clyde Phillips"
+    "Joseph Kay"
    ],
-   "year": "2025–",
-   "runtime": "52 min",
-   "status": "Continuing",
+   "year": "2020–2024",
+   "status": "Ended",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt10936342/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10936342/img",
+   "runtime": "44 min",
+   "awards": "26 wins & 26 nominations total",
    "trailers": [
     {
-     "source": "nTOf1FIsBcs",
-     "type": "Trailer"
-    },
-    {
-     "source": "84o1Q6fB20k",
+     "source": "kAqIKAC1dII",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33043892/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
-   "awards": "3 wins & 12 nominations total",
-   "id": "tt33043892",
+   "id": "tt10936342",
    "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
+    "Drama"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "Dexter: Resurrection",
-     "ytId": "nTOf1FIsBcs"
-    },
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "84o1Q6fB20k"
+     "title": "Transplant",
+     "ytId": "kAqIKAC1dII"
     }
    ],
    "links": [
     {
-     "name": "9.0",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt33043892"
+     "url": "https://imdb.com/title/tt10936342"
     },
     {
-     "name": "Dexter: Resurrection",
+     "name": "Transplant",
      "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "https://www.strem.io/s/series/transplant-10936342"
     },
     {
      "name": "Drama",
@@ -584,29 +589,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Michael C. Hall",
+     "name": "Hamza Haq",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
+     "url": "stremio:///search?search=Hamza%20Haq"
     },
     {
-     "name": "Uma Thurman",
+     "name": "Laurence Leboeuf",
      "category": "Cast",
-     "url": "stremio:///search?search=Uma%20Thurman"
+     "url": "stremio:///search?search=Laurence%20Leboeuf"
     },
     {
-     "name": "Ntare Guma Mbaho Mwine",
+     "name": "John Hannah",
      "category": "Cast",
-     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
+     "url": "stremio:///search?search=John%20Hannah"
     },
     {
-     "name": "Clyde Phillips",
+     "name": "Joseph Kay",
      "category": "Writers",
-     "url": "stremio:///search?search=Clyde%20Phillips"
+     "url": "stremio:///search?search=Joseph%20Kay"
     }
    ],
    "behaviorHints": {
@@ -615,7 +615,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10936342.jpg"
   },
   {
    "name": "The Visitor",
@@ -729,60 +729,63 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15558152.jpg"
   },
   {
-   "name": "La Brea",
+   "name": "M.I.A.",
    "cast": [
-    "Eoin Macken",
-    "Chiké Okonkwo",
-    "Zyra Gorecki"
+    "Shannon Gisela",
+    "Brittany Adebumola",
+    "Dylan T Jackson"
    ],
    "country": "United States",
-   "description": "Um grupo de busca explora um misterioso forte que levanta mais questões do que respostas. Com a ajuda de um novo aliado, Gavin e Izzy embarcam numa missão perigosa e não autorizada que pode causar um desastre sem precedentes.",
+   "description": "Etta Tiger Jonze pretende vingar o assassinato da sua família e tornar-se a mais poderosa chefe do crime no sul da Flórida.",
    "genre": [
+    "Crime",
     "Drama",
-    "Mystery",
-    "Sci-Fi"
+    "Thriller"
    ],
-   "imdbRating": "5.8",
-   "released": "2021-09-28T00:00:00.000Z",
-   "writer": [
-    "David Appelbaum"
-   ],
-   "year": "2021–2024",
-   "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt11640018/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11640018/img",
-   "awards": "1 win & 11 nominations total",
-   "runtime": "42 min",
+   "imdbRating": "6.5",
+   "released": "2026-05-07T00:00:00.000Z",
+   "year": "2026",
    "trailers": [
     {
-     "source": "UioFjPmKT5Y",
+     "source": "6QZfHbpEUpI",
      "type": "Trailer"
     }
    ],
-   "id": "tt11640018",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Drama",
-    "Action & Adventure"
+   "runtime": "44 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [
+    "Bill Dubuque"
    ],
-   "releaseInfo": "2021",
+   "background": "https://images.metahub.space/background/medium/tt33253070/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33253070/img",
+   "id": "tt33253070",
+   "genres": [
+    "Drama",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "La Brea",
-     "ytId": "UioFjPmKT5Y"
+     "title": "M.I.A.",
+     "ytId": "6QZfHbpEUpI"
     }
    ],
    "links": [
     {
-     "name": "5.8",
+     "name": "6.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11640018"
+     "url": "https://imdb.com/title/tt33253070"
     },
     {
-     "name": "La Brea",
+     "name": "M.I.A.",
      "category": "share",
-     "url": "https://www.strem.io/s/series/la-brea-11640018"
+     "url": "https://www.strem.io/s/series/mia-33253070"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -790,34 +793,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Eoin Macken",
+     "name": "Shannon Gisela",
      "category": "Cast",
-     "url": "stremio:///search?search=Eoin%20Macken"
+     "url": "stremio:///search?search=Shannon%20Gisela"
     },
     {
-     "name": "Chiké Okonkwo",
+     "name": "Brittany Adebumola",
      "category": "Cast",
-     "url": "stremio:///search?search=Chik%C3%A9%20Okonkwo"
+     "url": "stremio:///search?search=Brittany%20Adebumola"
     },
     {
-     "name": "Zyra Gorecki",
+     "name": "Dylan T Jackson",
      "category": "Cast",
-     "url": "stremio:///search?search=Zyra%20Gorecki"
+     "url": "stremio:///search?search=Dylan%20T%20Jackson"
     },
     {
-     "name": "David Appelbaum",
+     "name": "Bill Dubuque",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20Appelbaum"
+     "url": "stremio:///search?search=Bill%20Dubuque"
     }
    ],
    "behaviorHints": {
@@ -826,7 +824,217 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11640018.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33253070.jpg"
+  },
+  {
+   "name": "The Oath",
+   "cast": [
+    "Ike Barinholtz",
+    "Tiffany Haddish",
+    "Nora Dunn"
+   ],
+   "country": "United States",
+   "description": "Numa América politicamente dividida, um homem luta para passar o feriado do Dia de Ação de Graças sem destruir a sua família.",
+   "director": [
+    "Ike Barinholtz"
+   ],
+   "genre": [
+    "Comedy",
+    "Thriller"
+   ],
+   "imdbRating": "5.6",
+   "released": "2018-10-19T00:00:00.000Z",
+   "writer": [
+    "Ike Barinholtz"
+   ],
+   "year": "2018",
+   "trailers": [
+    {
+     "source": "4I8x79pgqok",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt7461200/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7461200/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.538/ImageRenderer/111/168/images/no_image_111x168.jpg/213601/images/masterrepository/fandango/213601/theoath_1sht_vf_72dpi.jpg\" alt=\"The Oath (2018)\" title=\"The Oath (2018)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ftheoath2018-trailer%2f213601%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.538//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "93 min",
+   "dvdRelease": "2018-12-28T00:00:00.000Z",
+   "id": "tt7461200",
+   "genres": [
+    "Comédia",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "The Oath",
+     "ytId": "4I8x79pgqok"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7461200"
+    },
+    {
+     "name": "The Oath",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-oath-7461200"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    },
+    {
+     "name": "Tiffany Haddish",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tiffany%20Haddish"
+    },
+    {
+     "name": "Nora Dunn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nora%20Dunn"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7461200",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7461200.jpg"
+  },
+  {
+   "name": "Lioness",
+   "cast": [
+    "Zoe Saldaña",
+    "Laysla De Oliveira",
+    "Dave Annable"
+   ],
+   "country": "United States",
+   "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2023-07-23T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "uEjcXhW7CXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "KYoIoCOw-ac",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13111078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
+   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
+   "id": "tt13111078",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Lioness",
+     "ytId": "uEjcXhW7CXo"
+    },
+    {
+     "title": "Lioness",
+     "ytId": "KYoIoCOw-ac"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13111078"
+    },
+    {
+     "name": "Lioness",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lioness-13111078"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Zoe Saldaña",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
+    },
+    {
+     "name": "Laysla De Oliveira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
+    },
+    {
+     "name": "Dave Annable",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Annable"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
   },
   {
    "name": "The Grinch",
@@ -974,301 +1182,68 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2709692.jpg"
   },
   {
-   "id": "tt34883857",
-   "logo": "https://live.metahub.space/logo/medium/tt34883857/img",
-   "background": "https://live.metahub.space/background/medium/tt34883857/img",
-   "name": "Possession",
-   "description": "Claudia, uma advogada birracial, viaja até à assombrada plantação de Connaught, na Jamaica, para lutar por uma herança. Ao desvendar segredos históricos obscuros entrelaçados com injustiças modernas, ela intensifica o seu pesadelo.",
-   "genres": [
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "CuWyvBMj97s",
-     "type": "Trailer"
-    }
-   ],
+   "name": "The Day of the Jackal",
    "cast": [
-    "Jonny Lee Miller",
-    "Gugu Mbatha-Raw",
-    "Bel Powley"
+    "Eddie Redmayne",
+    "Lashana Lynch",
+    "Eleanor Matsuura"
    ],
-   "credits_cast": [
-    {
-     "character": "Oliver Connaught",
-     "name": "Jonny Lee Miller",
-     "profile_path": "/otCQdDtnrMvZ5tPC62zLx0SaXeR.jpg",
-     "id": 9012
-    },
-    {
-     "character": "Claudia",
-     "name": "Gugu Mbatha-Raw",
-     "profile_path": "/sHAnv0kw5JHzWBOP7gAezwqgl8J.jpg",
-     "id": 1216606
-    },
-    {
-     "character": "Charlotte",
-     "name": "Bel Powley",
-     "profile_path": "/9GyO4MZq8wE9GUDyS1m2E103hTE.jpg",
-     "id": 1201716
-    },
-    {
-     "character": "Cudjoe East",
-     "name": "Sheldon Shepherd",
-     "profile_path": "/33hDFYvC57XsteCzJQBN9CTAHKW.jpg",
-     "id": 1158468
-    },
-    {
-     "character": "Mercy",
-     "name": "Nadean Rawlins",
-     "profile_path": "/mTQKYmeN7YwmtX4AQXQnMyu4qX8.jpg",
-     "id": 3617242
-    },
-    {
-     "character": "Tom McKenzie",
-     "name": "Sean Gilder",
-     "profile_path": "/osZt3mxl2wYFR3EUyp1KADBux77.jpg",
-     "id": 77292
-    },
-    {
-     "character": "Patsy Dawkins",
-     "name": "Oluniké Adeliyi",
-     "profile_path": "/mhyvUy5d9ZaEXfziSnKBEnDxJKh.jpg",
-     "id": 1431050
-    },
-    {
-     "character": "Eugene Desfrienes",
-     "name": "Richard Dillane",
-     "profile_path": "/4DVdlTFkhPlERFyFoeH6UoXb2un.jpg",
-     "id": 176227
-    },
-    {
-     "character": "Flora",
-     "name": "Diveen Henry",
-     "profile_path": "/qZTtfvexoz9FceMoi19J8ESDMbH.jpg",
-     "id": 72314
-    },
-    {
-     "character": "Kenneth Connaught",
-     "name": "Jack Bandeira",
-     "profile_path": "/zv2g9aNQX8ZDxG3faqWQi4e3mE7.jpg",
-     "id": 2448692
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Kate Ogborn",
-     "profile_path": null,
-     "id": 70525
-    }
-   ],
-   "director": [],
-   "imdbRating": "5.5",
-   "language": "English",
-   "country": "United Kingdom",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34883857.jpg"
-  },
-  {
-   "awards": "1 win & 1 nomination total",
-   "cast": [
-    "Ethan Hawke",
-    "Vincent Spano",
-    "Josh Hamilton"
-   ],
-   "country": "United States, Canada",
-   "description": "Na tarde de uma sexta-feira 13, em outubro de 1972, começou uma das mais controvertidas e inspiradoras histórias de sobrevivência ? naquele dia, um avião que levava um time de jovens jogadores de rugby do Uruguai caiu na Cordilheira dos Andes. Muitos passageiros morreram no acidente, que também deixou alguns sobreviventes. Quem saiu com vida dessa tragédia aparece na comovente trama de Frank Marshall. Durante oito dias, os sobreviventes esperam ser salvos, mas o socorro demora mais que o esperado. Eles começam a ouvir pelo rádio que as buscas haviam sido abortadas. Para aumentar o drama, água e comida chegam ao fim, o que leva o grupo a se alimentar dos mortos, para sobreviver numa temperatura abaixo de zero, durante dez semanas.",
-   "director": [
-    "Frank Marshall"
-   ],
-   "dvdRelease": "2014-01-01T00:00:00.000Z",
-   "genre": [
-    "Biography",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.1",
-   "name": "Alive",
-   "released": "1993-01-15T00:00:00.000Z",
-   "runtime": "127 min",
-   "trailers": [
-    {
-     "source": "C2lFPEp7dbI",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Piers Paul Read",
-    "John Patrick Shanley"
-   ],
-   "year": "1993",
-   "background": "https://images.metahub.space/background/medium/tt0106246/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0106246/img",
-   "id": "tt0106246",
-   "genres": [
-    "Aventura",
-    "Drama",
-    "História"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "Alive",
-     "ytId": "C2lFPEp7dbI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0106246"
-    },
-    {
-     "name": "Alive",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/alive-0106246"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Ethan Hawke",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ethan%20Hawke"
-    },
-    {
-     "name": "Vincent Spano",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vincent%20Spano"
-    },
-    {
-     "name": "Josh Hamilton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hamilton"
-    },
-    {
-     "name": "Piers Paul Read",
-     "category": "Writers",
-     "url": "stremio:///search?search=Piers%20Paul%20Read"
-    },
-    {
-     "name": "John Patrick Shanley",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Patrick%20Shanley"
-    },
-    {
-     "name": "Frank Marshall",
-     "category": "Directors",
-     "url": "stremio:///search?search=Frank%20Marshall"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0106246",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0106246.jpg"
-  },
-  {
-   "name": "Marshals",
-   "cast": [
-    "Luke Grimes",
-    "Ash Santos",
-    "Tatanka Means"
-   ],
-   "country": "United States",
-   "description": "Com o Rancho Yellowstone para trás, Kayce Dutton junta-se aos US Marshals, combinando a sua experiência como cowboy e Navy SEAL para levar justiça a Montana.",
+   "country": "United Kingdom, United States",
+   "description": "O Chacal, um assassino solitário inigualável e altamente esquivo, encontra o seu adversário num tenaz agente dos serviços secretos britânicos que o persegue por toda a Europa.",
    "genre": [
     "Action",
     "Crime",
     "Drama"
    ],
-   "imdbRating": "6.2",
-   "released": "2026-03-01T00:00:00.000Z",
-   "writer": [
-    "Spencer Hudnut"
-   ],
-   "year": "2026–",
-   "runtime": "43 min",
+   "imdbRating": "8.1",
+   "released": "2024-11-14T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "51 min",
    "status": "Continuing",
    "trailers": [
     {
-     "source": "FGKuQa6ulEQ",
+     "source": "EUb_04MdnMI",
      "type": "Trailer"
     },
     {
-     "source": "s5WxYvJeAOY",
-     "type": "Trailer"
-    },
-    {
-     "source": "PTba3cSdvv4",
-     "type": "Trailer"
-    },
-    {
-     "source": "g0BmwQvmZ1E",
+     "source": "qXJ2HKqFbE0",
      "type": "Trailer"
     }
    ],
    "director": [],
-   "background": "https://images.metahub.space/background/medium/tt36849871/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36849871/img",
-   "id": "tt36849871",
+   "writer": [
+    "Ronan Bennett"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt24053860/img",
+   "logo": "https://images.metahub.space/logo/medium/tt24053860/img",
+   "awards": "Nominated for 1 Primetime Emmy. 25 nominations total",
+   "id": "tt24053860",
    "genres": [
     "Drama",
-    "Crime",
-    "Action & Adventure"
+    "Action & Adventure",
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Marshals",
-     "ytId": "FGKuQa6ulEQ"
+     "title": "The Day of the Jackal",
+     "ytId": "EUb_04MdnMI"
     },
     {
-     "title": "Marshals",
-     "ytId": "s5WxYvJeAOY"
-    },
-    {
-     "title": "Marshals",
-     "ytId": "PTba3cSdvv4"
-    },
-    {
-     "title": "Marshals",
-     "ytId": "g0BmwQvmZ1E"
+     "title": "The Day of the Jackal",
+     "ytId": "qXJ2HKqFbE0"
     }
    ],
    "links": [
     {
-     "name": "6.1",
+     "name": "8.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt36849871"
+     "url": "https://imdb.com/title/tt24053860"
     },
     {
-     "name": "Marshals",
+     "name": "The Day of the Jackal",
      "category": "share",
-     "url": "https://www.strem.io/s/series/marshals-36849871"
+     "url": "https://www.strem.io/s/series/the-day-of-the-jackal-24053860"
     },
     {
      "name": "Action",
@@ -1286,24 +1261,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Luke Grimes",
+     "name": "Eddie Redmayne",
      "category": "Cast",
-     "url": "stremio:///search?search=Luke%20Grimes"
+     "url": "stremio:///search?search=Eddie%20Redmayne"
     },
     {
-     "name": "Ash Santos",
+     "name": "Lashana Lynch",
      "category": "Cast",
-     "url": "stremio:///search?search=Ash%20Santos"
+     "url": "stremio:///search?search=Lashana%20Lynch"
     },
     {
-     "name": "Tatanka Means",
+     "name": "Eleanor Matsuura",
      "category": "Cast",
-     "url": "stremio:///search?search=Tatanka%20Means"
+     "url": "stremio:///search?search=Eleanor%20Matsuura"
     },
     {
-     "name": "Spencer Hudnut",
+     "name": "Ronan Bennett",
      "category": "Writers",
-     "url": "stremio:///search?search=Spencer%20Hudnut"
+     "url": "stremio:///search?search=Ronan%20Bennett"
     }
    ],
    "behaviorHints": {
@@ -1312,7 +1287,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36849871.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt24053860.jpg"
   },
   {
    "awards": "3 wins & 8 nominations total",
@@ -1442,58 +1417,274 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1059786.jpg"
   },
   {
-   "name": "M.I.A.",
+   "name": "La Brea",
    "cast": [
-    "Shannon Gisela",
-    "Brittany Adebumola",
-    "Dylan T Jackson"
+    "Eoin Macken",
+    "Chiké Okonkwo",
+    "Zyra Gorecki"
    ],
    "country": "United States",
-   "description": "Etta Tiger Jonze pretende vingar o assassinato da sua família e tornar-se a mais poderosa chefe do crime no sul da Flórida.",
+   "description": "Um grupo de busca explora um misterioso forte que levanta mais questões do que respostas. Com a ajuda de um novo aliado, Gavin e Izzy embarcam numa missão perigosa e não autorizada que pode causar um desastre sem precedentes.",
    "genre": [
-    "Crime",
     "Drama",
-    "Thriller"
+    "Mystery",
+    "Sci-Fi"
    ],
-   "imdbRating": "6.5",
-   "released": "2026-05-07T00:00:00.000Z",
-   "year": "2026",
+   "imdbRating": "5.8",
+   "released": "2021-09-28T00:00:00.000Z",
+   "writer": [
+    "David Appelbaum"
+   ],
+   "year": "2021–2024",
+   "status": "Ended",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11640018/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11640018/img",
+   "awards": "1 win & 11 nominations total",
+   "runtime": "42 min",
    "trailers": [
     {
-     "source": "6QZfHbpEUpI",
+     "source": "UioFjPmKT5Y",
      "type": "Trailer"
     }
    ],
-   "runtime": "44 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [
-    "Bill Dubuque"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33253070/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33253070/img",
-   "id": "tt33253070",
+   "id": "tt11640018",
    "genres": [
+    "Sci-Fi & Fantasy",
     "Drama",
-    "Crime"
+    "Action & Adventure"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2021",
    "trailerStreams": [
     {
-     "title": "M.I.A.",
-     "ytId": "6QZfHbpEUpI"
+     "title": "La Brea",
+     "ytId": "UioFjPmKT5Y"
     }
    ],
    "links": [
     {
-     "name": "6.5",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt33253070"
+     "url": "https://imdb.com/title/tt11640018"
     },
     {
-     "name": "M.I.A.",
+     "name": "La Brea",
      "category": "share",
-     "url": "https://www.strem.io/s/series/mia-33253070"
+     "url": "https://www.strem.io/s/series/la-brea-11640018"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Eoin Macken",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eoin%20Macken"
+    },
+    {
+     "name": "Chiké Okonkwo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chik%C3%A9%20Okonkwo"
+    },
+    {
+     "name": "Zyra Gorecki",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zyra%20Gorecki"
+    },
+    {
+     "name": "David Appelbaum",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Appelbaum"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11640018.jpg"
+  },
+  {
+   "awards": "1 win & 1 nomination total",
+   "cast": [
+    "Ethan Hawke",
+    "Vincent Spano",
+    "Josh Hamilton"
+   ],
+   "country": "United States, Canada",
+   "description": "Na tarde de uma sexta-feira 13, em outubro de 1972, começou uma das mais controvertidas e inspiradoras histórias de sobrevivência ? naquele dia, um avião que levava um time de jovens jogadores de rugby do Uruguai caiu na Cordilheira dos Andes. Muitos passageiros morreram no acidente, que também deixou alguns sobreviventes. Quem saiu com vida dessa tragédia aparece na comovente trama de Frank Marshall. Durante oito dias, os sobreviventes esperam ser salvos, mas o socorro demora mais que o esperado. Eles começam a ouvir pelo rádio que as buscas haviam sido abortadas. Para aumentar o drama, água e comida chegam ao fim, o que leva o grupo a se alimentar dos mortos, para sobreviver numa temperatura abaixo de zero, durante dez semanas.",
+   "director": [
+    "Frank Marshall"
+   ],
+   "dvdRelease": "2014-01-01T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.1",
+   "name": "Alive",
+   "released": "1993-01-15T00:00:00.000Z",
+   "runtime": "127 min",
+   "trailers": [
+    {
+     "source": "C2lFPEp7dbI",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Piers Paul Read",
+    "John Patrick Shanley"
+   ],
+   "year": "1993",
+   "background": "https://images.metahub.space/background/medium/tt0106246/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0106246/img",
+   "id": "tt0106246",
+   "genres": [
+    "Aventura",
+    "Drama",
+    "História"
+   ],
+   "releaseInfo": "1993",
+   "trailerStreams": [
+    {
+     "title": "Alive",
+     "ytId": "C2lFPEp7dbI"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0106246"
+    },
+    {
+     "name": "Alive",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/alive-0106246"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ethan Hawke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ethan%20Hawke"
+    },
+    {
+     "name": "Vincent Spano",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vincent%20Spano"
+    },
+    {
+     "name": "Josh Hamilton",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Hamilton"
+    },
+    {
+     "name": "Piers Paul Read",
+     "category": "Writers",
+     "url": "stremio:///search?search=Piers%20Paul%20Read"
+    },
+    {
+     "name": "John Patrick Shanley",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Patrick%20Shanley"
+    },
+    {
+     "name": "Frank Marshall",
+     "category": "Directors",
+     "url": "stremio:///search?search=Frank%20Marshall"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0106246",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0106246.jpg"
+  },
+  {
+   "awards": "Won 4 Primetime Emmys. 56 wins & 202 nominations total",
+   "cast": [
+    "Michael C. Hall",
+    "Jennifer Carpenter",
+    "David Zayas"
+   ],
+   "country": "United States",
+   "description": "Baseada na obra de Jeff Lindsay, a série tem como protagonista um especialista forense em amostras de sangue, que trabalha para o Departamento de Polícia de Miami.Ele também é um assassino serial que mata as pessoas que a polícia não consegue prender. A dupla identidade tem de ser escondida de todos, incluindo sua irmã e companheiros de trabalho.Na infância, órfão aos quatro anos, Dexter é adoptado por um policial que logo detecta sua tendência homicida.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.6",
+   "name": "Dexter",
+   "released": "2006-10-01T00:00:00.000Z",
+   "runtime": "53 min",
+   "status": "Ended",
+   "writer": [
+    "James Manos Jr."
+   ],
+   "year": "2006–2013",
+   "background": "https://images.metahub.space/background/medium/tt0773262/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0773262/img",
+   "trailers": [
+    {
+     "source": "YQeUmSD1c3g",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0773262",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2006",
+   "trailerStreams": [
+    {
+     "title": "Dexter",
+     "ytId": "YQeUmSD1c3g"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0773262"
+    },
+    {
+     "name": "Dexter",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dexter-0773262"
     },
     {
      "name": "Crime",
@@ -1506,29 +1697,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Thriller",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Shannon Gisela",
+     "name": "Michael C. Hall",
      "category": "Cast",
-     "url": "stremio:///search?search=Shannon%20Gisela"
+     "url": "stremio:///search?search=Michael%20C.%20Hall"
     },
     {
-     "name": "Brittany Adebumola",
+     "name": "Jennifer Carpenter",
      "category": "Cast",
-     "url": "stremio:///search?search=Brittany%20Adebumola"
+     "url": "stremio:///search?search=Jennifer%20Carpenter"
     },
     {
-     "name": "Dylan T Jackson",
+     "name": "David Zayas",
      "category": "Cast",
-     "url": "stremio:///search?search=Dylan%20T%20Jackson"
+     "url": "stremio:///search?search=David%20Zayas"
     },
     {
-     "name": "Bill Dubuque",
+     "name": "James Manos Jr.",
      "category": "Writers",
-     "url": "stremio:///search?search=Bill%20Dubuque"
+     "url": "stremio:///search?search=James%20Manos%20Jr."
     }
    ],
    "behaviorHints": {
@@ -1537,238 +1728,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33253070.jpg"
-  },
-  {
-   "awards": null,
-   "cast": [
-    "Val Kilmer",
-    "Omar Sharif",
-    "Jeremy Kemp"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Se estava para aí sentado a pensar se os tipos que fizeram Aeroplano! e Onde Pára a Polícia são malucos, a resposta é 'sim'. E Ultra-Secreto! prova-o sem sombra de dúvida! Ultra-Secreto! coloca a estrela americana do rock Nick Rivers (Val Kilmer) contra o temível Alto Comando da Alemanha de Leste. É uma corrida contra o tempo que Nick tem de fazer, para ajudar Hillary Flammond (Lucy Gutteridge) a encontrar o seu pai antes que ele consiga criar a definitiva super arma, a Mina Polaris. Pelo caminho, Ultra-Secreto! consegue fazer aos épicos de guerra e aos filmes de Elvis o que Aeroplano! fazia aos filmes catástrofe.",
-   "director": [
-    "Jim Abrahams",
-    "David Zucker",
-    "Jerry Zucker"
-   ],
-   "dvdRelease": "2013-07-01T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Crime",
-    "Music"
-   ],
-   "imdbRating": "7.2",
-   "name": "Top Secret!",
-   "released": "1984-06-22T00:00:00.000Z",
-   "runtime": "90 min",
-   "trailers": [
-    {
-     "source": "ep7ota84VZA",
-     "type": "Trailer"
-    },
-    {
-     "source": "Q5zen7sHQFI",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Jim Abrahams",
-    "David Zucker",
-    "Jerry Zucker"
-   ],
-   "year": "1984",
-   "background": "https://images.metahub.space/background/medium/tt0088286/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0088286/img",
-   "id": "tt0088286",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "1984",
-   "trailerStreams": [
-    {
-     "title": "Top Secret!",
-     "ytId": "ep7ota84VZA"
-    },
-    {
-     "title": "Top Secret!",
-     "ytId": "Q5zen7sHQFI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0088286"
-    },
-    {
-     "name": "Top Secret!",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/top-secret-0088286"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Music",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
-    },
-    {
-     "name": "Val Kilmer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Val%20Kilmer"
-    },
-    {
-     "name": "Omar Sharif",
-     "category": "Cast",
-     "url": "stremio:///search?search=Omar%20Sharif"
-    },
-    {
-     "name": "Jeremy Kemp",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Kemp"
-    },
-    {
-     "name": "Jim Abrahams",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jim%20Abrahams"
-    },
-    {
-     "name": "David Zucker",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Zucker"
-    },
-    {
-     "name": "Jerry Zucker",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jerry%20Zucker"
-    },
-    {
-     "name": "Jim Abrahams",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jim%20Abrahams"
-    },
-    {
-     "name": "David Zucker",
-     "category": "Directors",
-     "url": "stremio:///search?search=David%20Zucker"
-    },
-    {
-     "name": "Jerry Zucker",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jerry%20Zucker"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0088286",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0088286.jpg"
-  },
-  {
-   "name": "The Undeclared War",
-   "cast": [
-    "Simon Pegg",
-    "Tom McKay",
-    "Hannah Khalique-Brown"
-   ],
-   "country": "United Kingdom",
-   "description": "No mundo pós-pandémico de 2024, durante as próximas eleições gerais britânicas que envolvem o primeiro primeiro-ministro conservador negro do Reino Unido, uma importante equipa de analistas do GCHQ, a agência de espionagem britânica semelhante à NSA, tenta impedir um ataque cibernético ao sistema eleitoral do país.",
-   "genre": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.1",
-   "released": "2022-08-18T00:00:00.000Z",
-   "year": "2022–2026",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt7939800/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7939800/img",
-   "runtime": "48 min",
-   "trailers": [
-    {
-     "source": "afyEL5m9A4k",
-     "type": "Trailer"
-    },
-    {
-     "source": "jIqRL3xIypY",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt7939800",
-   "genres": [
-    "War & Politics",
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Undeclared War",
-     "ytId": "afyEL5m9A4k"
-    },
-    {
-     "title": "The Undeclared War",
-     "ytId": "jIqRL3xIypY"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt7939800"
-    },
-    {
-     "name": "The Undeclared War",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-undeclared-war-7939800"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Simon Pegg",
-     "category": "Cast",
-     "url": "stremio:///search?search=Simon%20Pegg"
-    },
-    {
-     "name": "Tom McKay",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20McKay"
-    },
-    {
-     "name": "Hannah Khalique-Brown",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hannah%20Khalique-Brown"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7939800.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0773262.jpg"
   },
   {
    "awards": "1 win.",
@@ -1901,61 +1861,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120860.jpg"
   },
   {
-   "awards": "Won 4 Primetime Emmys. 56 wins & 202 nominations total",
+   "awards": "Won 5 Primetime Emmys. 33 wins & 230 nominations total",
    "cast": [
-    "Michael C. Hall",
-    "Jennifer Carpenter",
-    "David Zayas"
+    "Julianna Margulies",
+    "Chris Noth",
+    "Josh Charles"
    ],
    "country": "United States",
-   "description": "Baseada na obra de Jeff Lindsay, a série tem como protagonista um especialista forense em amostras de sangue, que trabalha para o Departamento de Polícia de Miami.Ele também é um assassino serial que mata as pessoas que a polícia não consegue prender. A dupla identidade tem de ser escondida de todos, incluindo sua irmã e companheiros de trabalho.Na infância, órfão aos quatro anos, Dexter é adoptado por um policial que logo detecta sua tendência homicida.",
+   "description": "\"The Good Wife\" retrata a vida de Alicia Florrick (Margulies), esposa do promotor Peter Florrick (Noth). Seu marido foi preso após um escândalo sexual e de corrupção muito divulgado pela imprensa. Ela retorna a seu antigo trabalho de advogada para reconstruir sua reputação e sustentar seus dois filhos. \"The Good Wife\" foi parcialmente inspirado no escândalo de prostituição envolvendo o ex-governador de Nova Iorque Eliot Spitzer.",
    "director": null,
-   "dvdRelease": null,
+   "dvdRelease": "2009-10-06T00:00:00.000Z",
    "genre": [
     "Crime",
     "Drama",
     "Mystery"
    ],
-   "imdbRating": "8.6",
-   "name": "Dexter",
-   "released": "2006-10-01T00:00:00.000Z",
-   "runtime": "53 min",
+   "imdbRating": "8.3",
+   "name": "The Good Wife",
+   "released": "2009-09-22T00:00:00.000Z",
+   "runtime": "45 min",
    "status": "Ended",
    "writer": [
-    "James Manos Jr."
+    "Michelle King",
+    "Robert King"
    ],
-   "year": "2006–2013",
-   "background": "https://images.metahub.space/background/medium/tt0773262/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0773262/img",
+   "year": "2009–2016",
+   "background": "https://images.metahub.space/background/medium/tt1442462/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1442462/img",
    "trailers": [
     {
-     "source": "YQeUmSD1c3g",
+     "source": "bybDgWgp-Vo",
      "type": "Trailer"
     }
    ],
-   "id": "tt0773262",
+   "id": "tt1442462",
    "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
+    "Drama"
    ],
-   "releaseInfo": "2006",
+   "releaseInfo": "2009",
    "trailerStreams": [
     {
-     "title": "Dexter",
-     "ytId": "YQeUmSD1c3g"
+     "title": "The Good Wife",
+     "ytId": "bybDgWgp-Vo"
     }
    ],
    "links": [
     {
-     "name": "8.6",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0773262"
+     "url": "https://imdb.com/title/tt1442462"
     },
     {
-     "name": "Dexter",
+     "name": "The Good Wife",
      "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-0773262"
+     "url": "https://www.strem.io/s/series/the-good-wife-1442462"
     },
     {
      "name": "Crime",
@@ -1973,24 +1932,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Michael C. Hall",
+     "name": "Julianna Margulies",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
+     "url": "stremio:///search?search=Julianna%20Margulies"
     },
     {
-     "name": "Jennifer Carpenter",
+     "name": "Chris Noth",
      "category": "Cast",
-     "url": "stremio:///search?search=Jennifer%20Carpenter"
+     "url": "stremio:///search?search=Chris%20Noth"
     },
     {
-     "name": "David Zayas",
+     "name": "Josh Charles",
      "category": "Cast",
-     "url": "stremio:///search?search=David%20Zayas"
+     "url": "stremio:///search?search=Josh%20Charles"
     },
     {
-     "name": "James Manos Jr.",
+     "name": "Michelle King",
      "category": "Writers",
-     "url": "stremio:///search?search=James%20Manos%20Jr."
+     "url": "stremio:///search?search=Michelle%20King"
+    },
+    {
+     "name": "Robert King",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20King"
     }
    ],
    "behaviorHints": {
@@ -1999,65 +1963,63 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0773262.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1442462.jpg"
   },
   {
-   "awards": "Won 1 Primetime Emmy. 2 wins & 21 nominations total",
+   "name": "Christmas in Love",
    "cast": [
-    "Bill Nighy",
-    "Rachel Weisz",
-    "Tom Hughes"
+    "Brooke D'Orsay",
+    "Daniel Lissing",
+    "Mary-Margaret Humes"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Johnny Worricker (o excelente Bill Nighy) é um antigo oficial do serviço secreto britânico, o MI5. Seu chefe e melhor amigo é Benedict Baron (Michael Gambon), que revela ao companheiro um arquivo que ameaça a estabilidade da organização onde trabalharam esses anos todos. Enquanto isso, um encontro aparentemente casual com a vizinha de Johnny, uma ativista política chamada Nancy Pierpan (Rachel Weisz), parece bom demais para ser verdade. Filmado em Londres e Cambridge, Page Eight é um filme de espionagem contenporânea feita para a BBC, que aborda questões de inteligência e dilemas morais peculiares ao novo século.",
+   "country": "United States",
+   "description": "Ellie Hartman, uma aspirante a artesã que trabalha na padaria de sua pequena cidade, mostra a Nick Carlingson - o novo CEO da cidade grande durante sua visita ao andar principal da padaria - que são as pessoas e não as máquinas que tornam o negócio um sucesso.",
    "director": [
-    "David Hare"
+    "Don McBrearty"
    ],
-   "dvdRelease": "2017-10-12T00:00:00.000Z",
-   "genre": [
-    "Drama",
-    "Mystery",
-    "Thriller"
+   "imdbRating": "6.4",
+   "released": "2018-11-11T00:00:00.000Z",
+   "writer": [
+    "Stephen A. Stewart",
+    "Bob Sáenz"
    ],
-   "imdbRating": "6.8",
-   "name": "Page Eight",
-   "released": "2011-11-06T00:00:00.000Z",
-   "runtime": "99 min",
+   "year": "2018",
    "trailers": [
     {
-     "source": "C1hGHdPVXlE",
+     "source": "7mfuQl0Ov3o",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "David Hare"
+   "genre": [
+    "Drama",
+    "Romance"
    ],
-   "year": "2011",
-   "background": "https://images.metahub.space/background/medium/tt1797469/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1797469/img",
-   "id": "tt1797469",
+   "runtime": "90 min",
+   "background": "https://images.metahub.space/background/medium/tt9033712/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9033712/img",
+   "id": "tt9033712",
    "genres": [
-    "Mistério",
-    "Thriller",
-    "Drama"
+    "Cinema TV",
+    "Romance",
+    "Família"
    ],
-   "releaseInfo": "2011",
+   "releaseInfo": "2018",
    "trailerStreams": [
     {
-     "title": "Page Eight",
-     "ytId": "C1hGHdPVXlE"
+     "title": "Christmas in Love",
+     "ytId": "7mfuQl0Ov3o"
     }
    ],
    "links": [
     {
-     "name": "6.8",
+     "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1797469"
+     "url": "https://imdb.com/title/tt9033712"
     },
     {
-     "name": "Page Eight",
+     "name": "Christmas in Love",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/page-eight-1797469"
+     "url": "https://www.strem.io/s/movie/christmas-in-love-9033712"
     },
     {
      "name": "Drama",
@@ -2065,105 +2027,117 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Bill Nighy",
+     "name": "Brooke D'Orsay",
      "category": "Cast",
-     "url": "stremio:///search?search=Bill%20Nighy"
+     "url": "stremio:///search?search=Brooke%20D'Orsay"
     },
     {
-     "name": "Rachel Weisz",
+     "name": "Daniel Lissing",
      "category": "Cast",
-     "url": "stremio:///search?search=Rachel%20Weisz"
+     "url": "stremio:///search?search=Daniel%20Lissing"
     },
     {
-     "name": "Tom Hughes",
+     "name": "Mary-Margaret Humes",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hughes"
+     "url": "stremio:///search?search=Mary-Margaret%20Humes"
     },
     {
-     "name": "David Hare",
+     "name": "Stephen A. Stewart",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20Hare"
+     "url": "stremio:///search?search=Stephen%20A.%20Stewart"
     },
     {
-     "name": "David Hare",
+     "name": "Bob Sáenz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bob%20S%C3%A1enz"
+    },
+    {
+     "name": "Don McBrearty",
      "category": "Directors",
-     "url": "stremio:///search?search=David%20Hare"
+     "url": "stremio:///search?search=Don%20McBrearty"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1797469",
+    "defaultVideoId": "tt9033712",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1797469.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033712.jpg"
   },
   {
-   "awards": "Won 6 Primetime Emmys. 50 wins & 210 nominations total",
+   "awards": "Nominated for 2 Primetime Emmys. 1 win & 17 nominations total",
    "cast": [
-    "Jerry Orbach",
-    "Jesse L. Martin",
-    "Dennis Farina"
+    "David Czarra Giuntoli",
+    "Russell Hornsby",
+    "Silas Weir Mitchell"
    ],
    "country": "United States",
-   "description": "Nos casos que ganham destaque nos meios de comunicação social, a polícia investiga crimes graves e, muitas vezes, fatais, analisando as provas e interrogando os suspeitos até que alguém seja detido. O Ministério Público constrói, então, o caso para condenar o criminoso, provando a sua culpabilidade para além de qualquer dúvida razoável. Trabalhando em conjunto, estas equipas de especialistas atuam em todas as vertentes do complexo sistema de justiça criminal para tornar Nova Iorque num lugar mais seguro.",
+   "description": "Descendente de uma longa linhagem de guerreiros conhecidos por Grimms, o detetive, Nick Burkhardt de Portland, defende a sua cidade de criaturas mágicas conhecidas por Wesen, parte humanas e parte animais.",
    "director": null,
    "dvdRelease": null,
    "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Action",
+    "Adventure",
+    "Crime"
    ],
-   "imdbRating": "7.8",
-   "name": "Law & Order",
-   "released": "1990-09-13T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Continuing",
+   "imdbRating": "7.9",
+   "name": "Grimm",
+   "released": "2011-10-28T00:00:00.000Z",
+   "runtime": "43 min",
+   "status": "Ended",
    "writer": [
-    "Dick Wolf",
-    "Rick Eid"
+    "Stephen Carpenter",
+    "David Greenwalt",
+    "Jim Kouf"
    ],
-   "year": "1990–",
-   "logo": "https://images.metahub.space/logo/medium/tt0098844/img",
-   "background": "https://images.metahub.space/background/medium/tt0098844/img",
+   "year": "2011–2017",
+   "background": "https://images.metahub.space/background/medium/tt1830617/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1830617/img",
    "trailers": [
     {
-     "source": "RzN8cPlcMTU",
+     "source": "2rVy3RBJmNo",
      "type": "Trailer"
     }
    ],
-   "id": "tt0098844",
+   "id": "tt1830617",
    "genres": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "Mistério",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "1990",
+   "releaseInfo": "2011",
    "trailerStreams": [
     {
-     "title": "Law & Order",
-     "ytId": "RzN8cPlcMTU"
+     "title": "Grimm",
+     "ytId": "2rVy3RBJmNo"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0098844"
+     "url": "https://imdb.com/title/tt1830617"
     },
     {
-     "name": "Law & Order",
+     "name": "Grimm",
      "category": "share",
-     "url": "https://www.strem.io/s/series/law-order-0098844"
+     "url": "https://www.strem.io/s/series/grimm-1830617"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
      "name": "Crime",
@@ -2171,39 +2145,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Jerry Orbach",
+     "name": "David Czarra Giuntoli",
      "category": "Cast",
-     "url": "stremio:///search?search=Jerry%20Orbach"
+     "url": "stremio:///search?search=David%20Czarra%20Giuntoli"
     },
     {
-     "name": "Jesse L. Martin",
+     "name": "Russell Hornsby",
      "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20L.%20Martin"
+     "url": "stremio:///search?search=Russell%20Hornsby"
     },
     {
-     "name": "Dennis Farina",
+     "name": "Silas Weir Mitchell",
      "category": "Cast",
-     "url": "stremio:///search?search=Dennis%20Farina"
+     "url": "stremio:///search?search=Silas%20Weir%20Mitchell"
     },
     {
-     "name": "Dick Wolf",
+     "name": "Stephen Carpenter",
      "category": "Writers",
-     "url": "stremio:///search?search=Dick%20Wolf"
+     "url": "stremio:///search?search=Stephen%20Carpenter"
     },
     {
-     "name": "Rick Eid",
+     "name": "David Greenwalt",
      "category": "Writers",
-     "url": "stremio:///search?search=Rick%20Eid"
+     "url": "stremio:///search?search=David%20Greenwalt"
+    },
+    {
+     "name": "Jim Kouf",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jim%20Kouf"
     }
    ],
    "behaviorHints": {
@@ -2212,7 +2181,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0098844.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1830617.jpg"
   }
  ]
 }
