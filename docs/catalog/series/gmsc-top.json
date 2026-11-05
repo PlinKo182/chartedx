@@ -943,124 +943,77 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4288182.jpg"
   },
   {
-   "awards": "Won 6 Primetime Emmys. 92 wins & 221 nominations total",
-   "cast": [
-    "Lea Michele",
-    "Jane Lynch",
-    "Matthew Morrison"
+   "id": "tt34385400",
+   "logo": "https://live.metahub.space/logo/medium/tt34385400/img",
+   "background": "https://live.metahub.space/background/medium/tt34385400/img",
+   "name": "Vampirina: Teenage Vampire",
+   "description": "Vee deixa a Transilvânia e vai para um internato em busca de seus sonhos musicais. Enquanto mantém sua identidade de vampira em segredo, obstáculos inesperados ameaçam levá-la de volta às sombras.",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Comédia"
    ],
-   "country": "United States",
-   "description": "\"Glee\" acompanha os esforços do professor de espanhol Will Schuester em reerguer o coral da escola William McKinley em Lima, Ohio, chamado de \"Glee Club\", que no passado foi motivo de grande orgulho para todos os alunos na instituição. No entanto, a escola não tem recursos para sustentar o coral, que a princípio só atrai os alunos pouco populares e estigmatizados.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Music"
-   ],
-   "imdbRating": "6.8",
-   "name": "Glee",
-   "released": "2009-05-19T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Ended",
-   "writer": [
-    "Ian Brennan",
-    "Brad Falchuk",
-    "Ryan Murphy"
-   ],
-   "year": "2009–2015",
-   "background": "https://images.metahub.space/background/medium/tt1327801/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1327801/img",
+   "releaseInfo": "2025",
+   "status": "Continuing",
+   "runtime": "25 min",
    "trailers": [
     {
-     "source": "KGSRXwnp0aE",
+     "source": "A28sq3j6KAo",
      "type": "Trailer"
     },
     {
-     "source": "Z5O28G7TgOw",
+     "source": "JkwbCG-G2MA",
      "type": "Trailer"
     }
    ],
-   "id": "tt1327801",
-   "genres": [
-    "Comédia",
-    "Drama"
+   "cast": [
+    "Kenzi Richardson",
+    "Jiwon Lee",
+    "Faith Hedley"
    ],
-   "releaseInfo": "2009",
-   "trailerStreams": [
+   "credits_cast": [
     {
-     "title": "Glee",
-     "ytId": "KGSRXwnp0aE"
+     "character": "Vee",
+     "name": "Kenzi Richardson",
+     "profile_path": "/jlZWoPz2iXTI1GS7YUOQd2PdFNe.jpg",
+     "id": 2775764
     },
     {
-     "title": "Glee",
-     "ytId": "Z5O28G7TgOw"
+     "character": "Sophie",
+     "name": "Jiwon Lee",
+     "profile_path": "/4yEHqiKtx97c67klgVfnJuliM5h.jpg",
+     "id": 5610791
+    },
+    {
+     "character": "Britney",
+     "name": "Faith Hedley",
+     "profile_path": "/cwTJqvXv99lGtzr5jIz16Sx2zH8.jpg",
+     "id": 5035608
+    },
+    {
+     "character": "Elijah",
+     "name": "Shaun Dixon",
+     "profile_path": "/ltYinkTJlBli4oHfzhE5orK2zvl.jpg",
+     "id": 3227332
+    },
+    {
+     "character": "Demi",
+     "name": "Milo Maharlika",
+     "profile_path": "/aCaitDn8XqSz7eCwwFe2tEI3gg0.jpg",
+     "id": 5035607
     }
    ],
-   "links": [
-    {
-     "name": "6.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1327801"
-    },
-    {
-     "name": "Glee",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/glee-1327801"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Music",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
-    },
-    {
-     "name": "Lea Michele",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lea%20Michele"
-    },
-    {
-     "name": "Jane Lynch",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jane%20Lynch"
-    },
-    {
-     "name": "Matthew Morrison",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Morrison"
-    },
-    {
-     "name": "Ian Brennan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ian%20Brennan"
-    },
-    {
-     "name": "Brad Falchuk",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brad%20Falchuk"
-    },
-    {
-     "name": "Ryan Murphy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20Murphy"
-    }
-   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "6.2",
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1327801.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34385400.jpg"
   }
  ]
 }

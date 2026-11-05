@@ -5,33 +5,23 @@
   "genre": false
  },
  {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
-  "genre": true
- },
- {
-  "shortName": "gcrm",
-  "name": "Crime",
-  "genre": true
- },
- {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
-  "genre": true
- },
- {
   "shortName": "gwar",
   "name": "Guerra & Militar",
   "genre": true
  },
  {
-  "shortName": "gwsn",
-  "name": "Western",
+  "shortName": "ghst",
+  "name": "História",
   "genre": true
  },
  {
-  "shortName": "grma",
-  "name": "Romance",
+  "shortName": "gmsc",
+  "name": "Música & Musical",
+  "genre": true
+ },
+ {
+  "shortName": "gact",
+  "name": "Ação & Aventura",
   "genre": true
  },
  {
@@ -50,13 +40,23 @@
   "genre": true
  },
  {
-  "shortName": "gdrm",
-  "name": "Drama",
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
   "genre": true
  },
  {
-  "shortName": "gmsc",
-  "name": "Música & Musical",
+  "shortName": "gscf",
+  "name": "Ficção Científica",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
   "genre": true
  },
  {
@@ -65,8 +65,13 @@
   "genre": true
  },
  {
-  "shortName": "ghst",
-  "name": "História",
+  "shortName": "ghrr",
+  "name": "Terror",
+  "genre": true
+ },
+ {
+  "shortName": "grma",
+  "name": "Romance",
   "genre": true
  },
  {
@@ -80,23 +85,18 @@
   "genre": true
  },
  {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "gcrm",
+  "name": "Crime",
   "genre": true
  },
  {
-  "shortName": "ghrr",
-  "name": "Terror",
+  "shortName": "gdrm",
+  "name": "Drama",
   "genre": true
  },
  {
   "shortName": "gfml",
   "name": "Família",
-  "genre": true
- },
- {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
   "genre": true
  }
 ]

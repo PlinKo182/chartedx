@@ -18582,18 +18582,9 @@
  "meta|tt7905000": {
   "n": "Pokémon",
   "ty": "series",
-  "at": "2026-10-11",
+  "at": "2026-11-05",
   "v": 4,
-  "rpdb": false,
-  "cm": {
-   "status": "Ended",
-   "id": "tt7905000",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   }
-  },
-  "g": []
+  "rpdb": false
  },
  "meta|tt10948716": {
   "n": "Inside Man",
@@ -232357,5 +232348,42 @@
   ],
   "p": "https://image.tmdb.org/t/p/w500/zb599lIvHoC9v07V8LYTaPcLyo1.jpg",
   "r": "9.3"
+ },
+ "meta|tt20320646": {
+  "n": "House of the Dragon",
+  "ty": "series",
+  "at": "2026-11-05",
+  "v": 4,
+  "rpdb": false,
+  "cm": {
+   "status": "Continuing",
+   "id": "tt20320646",
+   "name": "La casa del dragón",
+   "releaseInfo": "2022",
+   "language": "Spanish",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "y": "2022",
+  "g": []
+ },
+ "meta|tt5341804": {
+  "n": "Miraculous: Les aventures de Ladybug et Chat Noir",
+  "ty": "series",
+  "at": "2026-11-05",
+  "v": 4,
+  "rpdb": false,
+  "cm": {
+   "status": "Continuing",
+   "id": "tt5341804",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "g": []
  }
 }
