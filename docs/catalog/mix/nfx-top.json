@@ -1,6 +1,105 @@
 {
  "metas": [
   {
+   "name": "Minha Amiga",
+   "cast": [
+    "Albano Jerónimo",
+    "Ricardo Pereira",
+    "Ingrid Guimarães"
+   ],
+   "country": "Brazil",
+   "director": [
+    "Susana Garcia"
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "6.5",
+   "released": null,
+   "writer": [
+    "Andrea Batitucci",
+    "Susana Garcia",
+    "Ingrid Guimarães"
+   ],
+   "year": "2026",
+   "runtime": "125 min",
+   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
+   "background": "https://images.metahub.space/background/medium/tt37458193/img",
+   "id": "tt37458193",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Minha Amiga",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Albano Jerónimo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+    },
+    {
+     "name": "Ricardo Pereira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricardo%20Pereira"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Andrea Batitucci",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrea%20Batitucci"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Writers",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Directors",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37458193",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
+   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+  },
+  {
+   "id": "tt43681696",
+   "type": "series",
+   "name": "Taken: Natalee Holloway",
+   "posterShape": "poster",
+   "poster": "https://image.tmdb.org/t/p/w500/lo1CMPtIlvI66w0PHjQ5s4TDSFx.jpg",
+   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário"
+   ],
+   "imdbRating": "6.6"
+  },
+  {
    "name": "Cruzados",
    "cast": [
     "Jorge Cabrera",
@@ -132,90 +231,97 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   },
   {
-   "name": "Minha Amiga",
+   "name": "A Dog's Perfect Christmas",
    "cast": [
-    "Albano Jerónimo",
-    "Ricardo Pereira",
-    "Ingrid Guimarães"
+    "Mary Steenburgen",
+    "Jennifer Tilly",
+    "Dennis Quaid"
    ],
-   "country": "Brazil",
+   "country": "Canada",
+   "description": "Quando uma emergência médica atinge a família Goss, Winstead, um cão determinado, fará de tudo para voltar a juntar os seus humanos antes da véspera de Natal.",
    "director": [
-    "Susana Garcia"
+    "Cathryn Michon"
    ],
    "genre": [
-    "Comedy"
+    "Drama"
    ],
-   "imdbRating": "6.6",
+   "imdbRating": "6.4",
    "released": null,
    "writer": [
-    "Andrea Batitucci",
-    "Susana Garcia",
-    "Ingrid Guimarães"
+    "W. Bruce Cameron",
+    "Cathryn Michon"
    ],
    "year": "2026",
-   "runtime": "125 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
-   "background": "https://images.metahub.space/background/medium/tt37458193/img",
-   "id": "tt37458193",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "L18ih13Bf-U",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt38515310/img",
+   "background": "https://images.metahub.space/background/medium/tt38515310/img",
+   "id": "tt38515310",
    "genres": [
-    "Comédia"
+    "Comédia",
+    "Drama"
    ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "A Dog's Perfect Christmas",
+     "ytId": "L18ih13Bf-U"
+    }
+   ],
    "links": [
     {
-     "name": "Minha Amiga",
+     "name": "A Dog's Perfect Christmas",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+     "url": "https://www.strem.io/s/movie/a-dogs-perfect-christmas-38515310"
     },
     {
-     "name": "Comedy",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Albano Jerónimo",
+     "name": "Mary Steenburgen",
      "category": "Cast",
-     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+     "url": "stremio:///search?search=Mary%20Steenburgen"
     },
     {
-     "name": "Ricardo Pereira",
+     "name": "Jennifer Tilly",
      "category": "Cast",
-     "url": "stremio:///search?search=Ricardo%20Pereira"
+     "url": "stremio:///search?search=Jennifer%20Tilly"
     },
     {
-     "name": "Ingrid Guimarães",
+     "name": "Dennis Quaid",
      "category": "Cast",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+     "url": "stremio:///search?search=Dennis%20Quaid"
     },
     {
-     "name": "Andrea Batitucci",
+     "name": "W. Bruce Cameron",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrea%20Batitucci"
+     "url": "stremio:///search?search=W.%20Bruce%20Cameron"
     },
     {
-     "name": "Susana Garcia",
+     "name": "Cathryn Michon",
      "category": "Writers",
-     "url": "stremio:///search?search=Susana%20Garcia"
+     "url": "stremio:///search?search=Cathryn%20Michon"
     },
     {
-     "name": "Ingrid Guimarães",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Susana Garcia",
+     "name": "Cathryn Michon",
      "category": "Directors",
-     "url": "stremio:///search?search=Susana%20Garcia"
+     "url": "stremio:///search?search=Cathryn%20Michon"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt37458193",
+    "defaultVideoId": "tt38515310",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
-   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg"
   },
   {
    "id": "tt42767924",
@@ -244,6 +350,365 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg",
    "imdbRating": "5.9"
+  },
+  {
+   "name": "Sing 2",
+   "year": "2021",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "released": "2021-12-22T00:00:00.000Z",
+   "writer": [
+    "Garth Jennings"
+   ],
+   "imdbRating": "7.3",
+   "description": "Buster e o seu novo elenco têm em vista a estreia de um novo espetáculo no Crystal Tower Theatre, na glamorosa Redshore City. Sem conhecer as pessoas certas, tem de se esgueirar com os seus cantores até aos escritórios da Crystal Entertainment, dirigidos pelo implacável magnata Jimmy Crystal. Buster lança a ideia ridícula de acrescentar a lenda do rock Clay Calloway no alinhamento do espetáculo, mas antes tem de o encontrar e persuadir a antiga estrela renitente a regressar ao palco.",
+   "country": "Japan, United States, France",
+   "trailers": [
+    {
+     "source": "EPZu5MA2uqI",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Matthew McConaughey",
+    "Reese Witherspoon",
+    "Scarlett Johansson"
+   ],
+   "director": [
+    "Garth Jennings",
+    "Christophe Lourdelet"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt6467266/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6467266/img",
+   "awards": "2 wins & 22 nominations total",
+   "runtime": "110 min",
+   "id": "tt6467266",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "Sing 2",
+     "ytId": "EPZu5MA2uqI"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6467266"
+    },
+    {
+     "name": "Sing 2",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/sing-2-6467266"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Matthew McConaughey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20McConaughey"
+    },
+    {
+     "name": "Reese Witherspoon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Reese%20Witherspoon"
+    },
+    {
+     "name": "Scarlett Johansson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Scarlett%20Johansson"
+    },
+    {
+     "name": "Garth Jennings",
+     "category": "Writers",
+     "url": "stremio:///search?search=Garth%20Jennings"
+    },
+    {
+     "name": "Garth Jennings",
+     "category": "Directors",
+     "url": "stremio:///search?search=Garth%20Jennings"
+    },
+    {
+     "name": "Christophe Lourdelet",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christophe%20Lourdelet"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6467266",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6467266.jpg"
+  },
+  {
+   "id": "tt45854934",
+   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
+   "background": "https://live.metahub.space/background/medium/tt45854934/img",
+   "name": "The Gift of Deceit",
+   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Marieta Severo",
+    "Alice Wegmann",
+    "Nanda Costa"
+   ],
+   "credits_cast": [
+    {
+     "character": "Lúcia Rossetti",
+     "name": "Marieta Severo",
+     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
+     "id": 138327
+    },
+    {
+     "character": "Maíra Rossetti",
+     "name": "Alice Wegmann",
+     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
+     "id": 1371607
+    },
+    {
+     "character": "Irina",
+     "name": "Nanda Costa",
+     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
+     "id": 1045953
+    },
+    {
+     "character": "",
+     "name": "José de Abreu",
+     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
+     "id": 769308
+    },
+    {
+     "character": "",
+     "name": "Felipe Camargo",
+     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
+     "id": 1041385
+    },
+    {
+     "character": "",
+     "name": "Luciana Paes",
+     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
+     "id": 1356080
+    },
+    {
+     "character": "",
+     "name": "Laila Garin",
+     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
+     "id": 1995287
+    },
+    {
+     "character": "",
+     "name": "Rui Ricardo Diaz",
+     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
+     "id": 129685
+    },
+    {
+     "character": "",
+     "name": "Heloísa Jorge",
+     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
+     "id": 2266943
+    },
+    {
+     "character": "",
+     "name": "Allan Souza Lima",
+     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
+     "id": 1693267
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Mauro Mendonça Filho",
+     "profile_path": null,
+     "id": 1906411
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Daniela Carvalho",
+     "profile_path": null,
+     "id": 2256635
+    }
+   ],
+   "director": [
+    "Mauro Mendonça Filho",
+    "Daniela Carvalho"
+   ],
+   "country": "Brazil",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
+   "imdbRating": "5.7"
+  },
+  {
+   "awards": null,
+   "cast": [
+    "Gene Hackman",
+    "Rebecca Pidgeon",
+    "Danny DeVito"
+   ],
+   "country": "Canada, United States",
+   "description": "Um ladrão de jóias profissional entra em conflito com o seu parceiro de longa data, um chefe do crime que envia o seu sobrinho para vigiá-lo.",
+   "director": [
+    "David Mamet"
+   ],
+   "dvdRelease": "2017-05-02T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.5",
+   "name": "Heist",
+   "released": "2001-11-09T00:00:00.000Z",
+   "runtime": "107 min",
+   "trailers": [
+    {
+     "source": "Yjmy0TcpDtA",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "David Mamet"
+   ],
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0252503/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0252503/img",
+   "id": "tt0252503",
+   "genres": [
+    "Ação",
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [
+    {
+     "title": "Heist",
+     "ytId": "Yjmy0TcpDtA"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0252503"
+    },
+    {
+     "name": "Heist",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/heist-0252503"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Gene Hackman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gene%20Hackman"
+    },
+    {
+     "name": "Rebecca Pidgeon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rebecca%20Pidgeon"
+    },
+    {
+     "name": "Danny DeVito",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20DeVito"
+    },
+    {
+     "name": "David Mamet",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Mamet"
+    },
+    {
+     "name": "David Mamet",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Mamet"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0252503",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0252503.jpg"
+  },
+  {
+   "status": "Continuing",
+   "id": "tt36458668",
+   "name": "Dead-End Job",
+   "releaseInfo": "2026",
+   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "cast": [
+    "Lee Jae-wook",
+    "Go Min-si",
+    "Kim Min-ha",
+    "Lee Hee-jun",
+    "Yoon Byung-hee",
+    "Cho Hyun-chul",
+    "Choi Hyun-wook",
+    "Yoon Kyung-ho"
+   ],
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "imdbRating": "7.1"
   },
   {
    "name": "Blacklight",
@@ -372,113 +837,112 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14060094.jpg"
   },
   {
-   "id": "tt45854934",
-   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
-   "background": "https://live.metahub.space/background/medium/tt45854934/img",
-   "name": "The Gift of Deceit",
-   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
+   "name": "Black Doves",
+   "awards": "Nominated for 1 BAFTA Award. 1 win & 17 nominations total",
    "cast": [
-    "Marieta Severo",
-    "Alice Wegmann",
-    "Nanda Costa"
+    "Keira Knightley",
+    "Ben Whishaw",
+    "Charlotte Rice-Foley"
    ],
-   "credits_cast": [
+   "country": "United Kingdom",
+   "description": "Quando uma espia que se apresenta como esposa de um político sabe que o amante foi assassinado, une-se a um velho amigo assassino para descobrir a verdade... e vingar-se.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.2",
+   "released": "2024-12-05T00:00:00.000Z",
+   "writer": [
+    "Joe Barton"
+   ],
+   "year": "2024–",
+   "trailers": [
     {
-     "character": "Lúcia Rossetti",
-     "name": "Marieta Severo",
-     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
-     "id": 138327
+     "source": "shzJzjVscno",
+     "type": "Trailer"
     },
     {
-     "character": "Maíra Rossetti",
-     "name": "Alice Wegmann",
-     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
-     "id": 1371607
-    },
-    {
-     "character": "Irina",
-     "name": "Nanda Costa",
-     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
-     "id": 1045953
-    },
-    {
-     "character": "",
-     "name": "José de Abreu",
-     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
-     "id": 769308
-    },
-    {
-     "character": "",
-     "name": "Felipe Camargo",
-     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
-     "id": 1041385
-    },
-    {
-     "character": "",
-     "name": "Luciana Paes",
-     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
-     "id": 1356080
-    },
-    {
-     "character": "",
-     "name": "Laila Garin",
-     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
-     "id": 1995287
-    },
-    {
-     "character": "",
-     "name": "Rui Ricardo Diaz",
-     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
-     "id": 129685
-    },
-    {
-     "character": "",
-     "name": "Heloísa Jorge",
-     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
-     "id": 2266943
-    },
-    {
-     "character": "",
-     "name": "Allan Souza Lima",
-     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
-     "id": 1693267
+     "source": "1R0d2jW7a-I",
+     "type": "Trailer"
     }
    ],
-   "credits_crew": [
+   "runtime": "54 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt27995113/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27995113/img",
+   "id": "tt27995113",
+   "genres": [
+    "Action & Adventure",
+    "Mistério",
+    "Crime"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Mauro Mendonça Filho",
-     "profile_path": null,
-     "id": 1906411
+     "title": "Black Doves",
+     "ytId": "shzJzjVscno"
     },
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Daniela Carvalho",
-     "profile_path": null,
-     "id": 2256635
+     "title": "Black Doves",
+     "ytId": "1R0d2jW7a-I"
     }
    ],
-   "director": [
-    "Mauro Mendonça Filho",
-    "Daniela Carvalho"
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27995113"
+    },
+    {
+     "name": "Black Doves",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/black-doves-27995113"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Keira Knightley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keira%20Knightley"
+    },
+    {
+     "name": "Ben Whishaw",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Whishaw"
+    },
+    {
+     "name": "Charlotte Rice-Foley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charlotte%20Rice-Foley"
+    },
+    {
+     "name": "Joe Barton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joe%20Barton"
+    }
    ],
-   "country": "Brazil",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-   "imdbRating": "5.6"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
   },
   {
    "genre": [
@@ -601,212 +1065,103 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5884796.jpg"
   },
   {
-   "status": "Continuing",
-   "id": "tt36458668",
-   "name": "Dead-End Job",
-   "releaseInfo": "2026",
-   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
-   "language": "Korean",
-   "country": "South Korea",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
+   "name": "Nobody Wants This",
    "cast": [
-    "Lee Jae-wook",
-    "Go Min-si",
-    "Kim Min-ha",
-    "Lee Hee-jun",
-    "Yoon Byung-hee",
-    "Cho Hyun-chul",
-    "Choi Hyun-wook",
-    "Yoon Kyung-ho"
+    "Kristen Bell",
+    "Adam Brody",
+    "Justine Lupe"
    ],
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
-   "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "imdbRating": "7.1"
-  },
-  {
-   "id": "tt38504402",
-   "logo": "https://live.metahub.space/logo/medium/tt38504402/img",
-   "background": "https://live.metahub.space/background/medium/tt38504402/img",
-   "name": "You, Me, Us",
-   "description": "Ela é um espírito livre. Ele, um homem de família. Quando decidem adotar uma criança, o amor de ambos é posto à prova pelas origens e visões do mundo muito diferentes.",
-   "genres": [
+   "country": "United States",
+   "description": "Uma agnóstica com um podcast sobre sexo e um rabino recém-solteiro apaixonam-se. Mas pode esta relação sobreviver a estilos de vida opostos e a famílias abelhudas?",
+   "genre": [
+    "Comedy",
     "Drama",
-    "Comédia"
+    "Romance"
    ],
-   "releaseInfo": "2026",
-   "trailers": [],
-   "cast": [
-    "Elio Germano",
-    "Maria Chiara Giannetta",
-    "Lidia Vitale"
+   "imdbRating": "7.7",
+   "released": "2024-09-26T00:00:00.000Z",
+   "writer": [
+    "Erin Foster"
    ],
-   "credits_cast": [
-    {
-     "character": "Simone",
-     "name": "Elio Germano",
-     "profile_path": "/2Z6SHTOQ9XuKdFlFpKZ2yPCpald.jpg",
-     "id": 59269
-    },
-    {
-     "character": "Lucia",
-     "name": "Maria Chiara Giannetta",
-     "profile_path": "/hej1rYJi1qZ5LuIylFh0gMZqOHF.jpg",
-     "id": 2086629
-    },
-    {
-     "character": "",
-     "name": "Lidia Vitale",
-     "profile_path": "/8IXqzKAqVqeT6b9pP8WGH5mTF7d.jpg",
-     "id": 128224
-    },
-    {
-     "character": "",
-     "name": "Anna Bonaiuto",
-     "profile_path": "/1istMMsr34yfaYCnNyW8SFVMuU5.jpg",
-     "id": 225301
-    },
-    {
-     "character": "",
-     "name": "Diop Virginia",
-     "profile_path": "/kyJkL0VMZLYNUEn6jUvVXRSefuo.jpg",
-     "id": 2646233
-    },
-    {
-     "character": "",
-     "name": "Francesca De Martini",
-     "profile_path": "/ky2R6fkYU15ALp5PysYTR6DfkIU.jpg",
-     "id": 1816062
-    },
-    {
-     "character": "",
-     "name": "Caterina Guzzanti",
-     "profile_path": "/hhzgOoBFkIexBWGXqxyP3jRwIWc.jpg",
-     "id": 78713
-    },
-    {
-     "character": "",
-     "name": "Sofia Luchetti",
-     "profile_path": null,
-     "id": 3433029
-    },
-    {
-     "character": "",
-     "name": "Filippo Nigro",
-     "profile_path": "/84QswEDfCsGB6hbaOHn68GhkR3S.jpg",
-     "id": 89389
-    },
-    {
-     "character": "",
-     "name": "Bianca Mastromonaco",
-     "profile_path": null,
-     "id": 5915439
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Daniele Luchetti",
-     "profile_path": "/gTXCjDykIdwlGrmzr22ogIRXJQi.jpg",
-     "id": 59911
-    },
-    {
-     "department": "Writing",
-     "job": "Screenplay",
-     "name": "Daniele Luchetti",
-     "profile_path": "/gTXCjDykIdwlGrmzr22ogIRXJQi.jpg",
-     "id": 59911
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Andrea Occhipinti",
-     "profile_path": "/nVkGMowRB1LV8HZX6iWgZvnBoHJ.jpg",
-     "id": 31011
-    },
-    {
-     "department": "Writing",
-     "job": "Screenplay",
-     "name": "Enrico Audenino",
-     "profile_path": null,
-     "id": 1343616
-    },
-    {
-     "department": "Writing",
-     "job": "Screenplay",
-     "name": "Davide Lantieri",
-     "profile_path": null,
-     "id": 1105315
-    }
-   ],
-   "director": [
-    "Daniele Luchetti"
-   ],
-   "language": "Italian",
-   "country": "Italy",
-   "behaviorHints": {
-    "defaultVideoId": "tt38504402",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38504402.jpg",
-   "imdbRating": "6.3"
-  },
-  {
-   "id": "tt44941753",
-   "logo": "https://live.metahub.space/logo/medium/tt44941753/img",
-   "background": "https://live.metahub.space/background/medium/tt44941753/img",
-   "name": "The One About Matthew Perry",
-   "description": "Narrado por familiares e amigos próximos, este documentário revela o verdadeiro Matthew Perry — generoso, engraçado, vulnerável e extraordinário — e as batalhas que ele travou para se tornar o homem por trás do ícone. Um registro intimista de uma vida em sua plenitude e da honestidade que foi seu maior legado.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
+   "year": "2024–",
    "trailers": [
     {
-     "source": "_iM1AOFxoDI",
+     "source": "Xn2PsXD8m4A",
      "type": "Trailer"
     }
    ],
-   "cast": [
-    "Matthew Perry"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Matthew Perry",
-     "profile_path": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
-     "id": 14408
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jessica Call",
-     "profile_path": null,
-     "id": 6459806
-    }
-   ],
+   "runtime": "27 min",
+   "status": "Continuing",
    "director": [],
+   "background": "https://images.metahub.space/background/medium/tt26933824/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26933824/img",
+   "awards": "Nominated for 3 Primetime Emmys. 4 wins & 43 nominations total",
+   "id": "tt26933824",
+   "genres": [
+    "Comédia",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Nobody Wants This",
+     "ytId": "Xn2PsXD8m4A"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26933824"
+    },
+    {
+     "name": "Nobody Wants This",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/nobody-wants-this-26933824"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Kristen Bell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristen%20Bell"
+    },
+    {
+     "name": "Adam Brody",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adam%20Brody"
+    },
+    {
+     "name": "Justine Lupe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Justine%20Lupe"
+    },
+    {
+     "name": "Erin Foster",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erin%20Foster"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-   "imdbRating": "7.7"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
   },
   {
    "name": "Speak No Evil",
@@ -942,294 +1297,262 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27534307.jpg"
   },
   {
-   "name": "Nobody Wants This",
-   "cast": [
-    "Kristen Bell",
-    "Adam Brody",
-    "Justine Lupe"
-   ],
-   "country": "United States",
-   "description": "Uma agnóstica com um podcast sobre sexo e um rabino recém-solteiro apaixonam-se. Mas pode esta relação sobreviver a estilos de vida opostos e a famílias abelhudas?",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.7",
-   "released": "2024-09-26T00:00:00.000Z",
-   "writer": [
-    "Erin Foster"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "Xn2PsXD8m4A",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "27 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt26933824/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26933824/img",
-   "awards": "Nominated for 3 Primetime Emmys. 4 wins & 43 nominations total",
-   "id": "tt26933824",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Nobody Wants This",
-     "ytId": "Xn2PsXD8m4A"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt26933824"
-    },
-    {
-     "name": "Nobody Wants This",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/nobody-wants-this-26933824"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Kristen Bell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kristen%20Bell"
-    },
-    {
-     "name": "Adam Brody",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adam%20Brody"
-    },
-    {
-     "name": "Justine Lupe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Justine%20Lupe"
-    },
-    {
-     "name": "Erin Foster",
-     "category": "Writers",
-     "url": "stremio:///search?search=Erin%20Foster"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
-  },
-  {
-   "name": "Surviving Hurricane Otis",
-   "cast": [
-    "Benny Emmanuel",
-    "Kristyan Ferrer",
-    "Mónica Del Carmen"
-   ],
-   "country": "Mexico",
-   "description": "Dois irmãos afastados tentam sobreviver ao furacão Otis em Acapulco, onde os seus laços e a sua coragem transformam a adversidade em esperança. Inspirado numa história real.",
-   "director": [
-    "Jorge Michel Grau"
-   ],
-   "genre": [
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "5.1",
-   "released": "2026-10-23T00:00:00.000Z",
-   "writer": [
-    "Jose Leonor Alejandro",
-    "Jorge Michel Grau",
-    "Venancio Villalobos"
-   ],
-   "year": "2026",
-   "runtime": "96 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37961714/img",
-   "background": "https://images.metahub.space/background/medium/tt37961714/img",
-   "id": "tt37961714",
+   "id": "tt38681812",
+   "logo": "https://live.metahub.space/logo/medium/tt38681812/img",
+   "background": "https://live.metahub.space/background/medium/tt38681812/img",
+   "name": "Anaesthesia",
+   "description": "Depois de uma cirurgia ousada que deu errado, um médico talentoso troca uma clínica de prestígio por um hospital local e tenta retomar a vida.",
    "genres": [
     "Drama"
    ],
    "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Surviving Hurricane Otis",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/surviving-hurricane-otis-37961714"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Benny Emmanuel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benny%20Emmanuel"
-    },
-    {
-     "name": "Kristyan Ferrer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kristyan%20Ferrer"
-    },
-    {
-     "name": "Mónica Del Carmen",
-     "category": "Cast",
-     "url": "stremio:///search?search=M%C3%B3nica%20Del%20Carmen"
-    },
-    {
-     "name": "Jose Leonor Alejandro",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jose%20Leonor%20Alejandro"
-    },
-    {
-     "name": "Jorge Michel Grau",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
-    },
-    {
-     "name": "Venancio Villalobos",
-     "category": "Writers",
-     "url": "stremio:///search?search=Venancio%20Villalobos"
-    },
-    {
-     "name": "Jorge Michel Grau",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Michel%20Grau"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37961714",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg"
-  },
-  {
-   "awards": "7 wins total",
-   "cast": [
-    "Jerry Lawler",
-    "Michael Coulthard",
-    "Paul Levesque"
-   ],
-   "country": "United States",
-   "description": "Um programa regular, em direto, durante todo o ano, com a participação de algumas das maiores Superstars da WWE.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Sport"
-   ],
-   "imdbRating": "7.7",
-   "name": "WWE Monday Night RAW",
-   "released": "1993-01-11T00:00:00.000Z",
-   "runtime": "106 min",
    "status": "Continuing",
-   "writer": [
-    "Vince McMahon",
-    "Dusty Rhodes"
+   "trailers": [],
+   "cast": [
+    "Leszek Lichota",
+    "Aleksandra Popławska",
+    "Filip Kowalewicz"
    ],
-   "year": "1993–",
-   "background": "https://images.metahub.space/background/medium/tt0185103/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0185103/img",
-   "trailers": [
+   "credits_cast": [
     {
-     "source": "FVO6mUQMon8",
-     "type": "Trailer"
+     "character": "Dr. Łazarz",
+     "name": "Leszek Lichota",
+     "profile_path": "/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg",
+     "id": 1382678
+    },
+    {
+     "character": "",
+     "name": "Aleksandra Popławska",
+     "profile_path": "/cOdeuRAkVMCeu5MQ9bjBvUNKCeE.jpg",
+     "id": 927411
+    },
+    {
+     "character": "",
+     "name": "Filip Kowalewicz",
+     "profile_path": null,
+     "id": 4995713
+    },
+    {
+     "character": "",
+     "name": "Karolina Gruszka",
+     "profile_path": "/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg",
+     "id": 90760
+    },
+    {
+     "character": "",
+     "name": "Dorota Kolak",
+     "profile_path": "/vMu479AwEce9BNuLG0jMBwfbuH1.jpg",
+     "id": 1254517
+    },
+    {
+     "character": "",
+     "name": "Masza Wągrocka",
+     "profile_path": "/ofM13hNiPRCsy5ySgWrpvp8FNi.jpg",
+     "id": 2239208
+    },
+    {
+     "character": "",
+     "name": "Krzysztof Stelmaszyk",
+     "profile_path": "/ru421L4sdtLbMY9ncxYmbnevGT8.jpg",
+     "id": 549375
+    },
+    {
+     "character": "",
+     "name": "Gamou Fall",
+     "profile_path": "/gK3TI3oZbdEDFsQvzSlOB1xttpn.jpg",
+     "id": 3195942
     }
    ],
-   "id": "tt0185103",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "WWE Monday Night RAW",
-     "ytId": "FVO6mUQMon8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0185103"
-    },
-    {
-     "name": "WWE Monday Night RAW",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/wwe-monday-night-raw-0185103"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Jerry Lawler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jerry%20Lawler"
-    },
-    {
-     "name": "Michael Coulthard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Coulthard"
-    },
-    {
-     "name": "Paul Levesque",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Levesque"
-    },
-    {
-     "name": "Vince McMahon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Vince%20McMahon"
-    },
-    {
-     "name": "Dusty Rhodes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dusty%20Rhodes"
-    }
-   ],
+   "credits_crew": [],
+   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185103.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
+   "imdbRating": "7.7"
+  },
+  {
+   "name": "Sing",
+   "trailers": [
+    {
+     "source": "GIgXWuLQPFY",
+     "type": "Trailer"
+    },
+    {
+     "source": "guztEQ7DkaE",
+     "type": "Trailer"
+    },
+    {
+     "source": "Zvjmt4pwtdg",
+     "type": "Trailer"
+    }
+   ],
+   "year": "2016",
+   "runtime": "108 min",
+   "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "released": "2016-12-21T00:00:00.000Z",
+   "director": [
+    "Garth Jennings",
+    "Christophe Lourdelet"
+   ],
+   "writer": [
+    "Garth Jennings"
+   ],
+   "cast": [
+    "Matthew McConaughey",
+    "Reese Witherspoon",
+    "Seth MacFarlane"
+   ],
+   "imdbRating": "7.1",
+   "description": "Num mundo como o nosso, mas totalmente habitado por animais, este filme acompanha a vida de Buster Moon, um ativo Coala que preside um, outrora grande, teatro que caiu em decadência. Buster é um eterno otimista – ok, talvez um pouco malandro – que a adora o seu teatro acima de tudo e que fará tudo para o preservar. Agora enfrentando o desmoronamento da ambição da sua vida, tem uma última hipótese de restaurar a joia desvanecida às glórias do passado, ao produzir a maior competição de canto do mundo. Emergem assim cinco participantes: Um rato que canta tão bem como engana, uma tímida jovem elefante com um enorme receio do palco, uma sobrecarregada mãe de uma ninhada de 25 leitões, um jovem gangster gorila que sequer afastar dos crimes da família e uma porco-espinho punk-rock que luta por se ver livre do namorado arrogante e começar a cantar a solo. Cada animal apresenta-se a Buster acreditando que será esta a sua oportunidade de mudar o curso da vida.",
+   "country": "Japan, United States",
+   "awards": "3 wins & 25 nominations total",
+   "dvdRelease": "2017-03-08T00:00:00.000Z",
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fsing_188836%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fsing_188836%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r103.3/ImageRenderer/111/168/images/no_image_111x168.jpg/188836/images/masterrepository/fandango/188836/singposter.jpg\" alt=\"Sing \" title=\"Sing \" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fsing_188836%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r103.3//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fsing-trailer%2f188836%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
+   "background": "https://images.metahub.space/background/medium/tt3470600/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3470600/img",
+   "id": "tt3470600",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "Sing",
+     "ytId": "GIgXWuLQPFY"
+    },
+    {
+     "title": "Sing",
+     "ytId": "guztEQ7DkaE"
+    },
+    {
+     "title": "Sing",
+     "ytId": "Zvjmt4pwtdg"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3470600"
+    },
+    {
+     "name": "Sing",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/sing-3470600"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Matthew McConaughey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20McConaughey"
+    },
+    {
+     "name": "Reese Witherspoon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Reese%20Witherspoon"
+    },
+    {
+     "name": "Seth MacFarlane",
+     "category": "Cast",
+     "url": "stremio:///search?search=Seth%20MacFarlane"
+    },
+    {
+     "name": "Garth Jennings",
+     "category": "Writers",
+     "url": "stremio:///search?search=Garth%20Jennings"
+    },
+    {
+     "name": "Garth Jennings",
+     "category": "Directors",
+     "url": "stremio:///search?search=Garth%20Jennings"
+    },
+    {
+     "name": "Christophe Lourdelet",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christophe%20Lourdelet"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3470600",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3470600.jpg"
+  },
+  {
+   "id": "tt44941753",
+   "logo": "https://live.metahub.space/logo/medium/tt44941753/img",
+   "background": "https://live.metahub.space/background/medium/tt44941753/img",
+   "name": "The One About Matthew Perry",
+   "description": "Narrado por familiares e amigos próximos, este documentário revela o verdadeiro Matthew Perry — generoso, engraçado, vulnerável e extraordinário — e as batalhas que ele travou para se tornar o homem por trás do ícone. Um registro intimista de uma vida em sua plenitude e da honestidade que foi seu maior legado.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "_iM1AOFxoDI",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Matthew Perry"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Matthew Perry",
+     "profile_path": "/ecDzkLWPV1z0x31I1GTjNmLxAHk.jpg",
+     "id": 14408
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jessica Call",
+     "profile_path": null,
+     "id": 6459806
+    }
+   ],
+   "director": [],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+   "imdbRating": "7.7"
   },
   {
    "name": "Animals",
@@ -1351,143 +1674,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "id": "tt49250618",
-   "logo": "https://live.metahub.space/logo/medium/tt49250618/img",
-   "background": "https://live.metahub.space/background/medium/tt49250618/img",
-   "name": "The Fall of El Mayo",
-   "description": "Co-fundador do Cartel de Sinaloa, parceiro de longa data de \"El Chapo\", e um fantasma para as autoridades por mais de três décadas. O documentário que conta a história da sua queda.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "e5ExUsk6-OE",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
-   "imdbRating": "6.9"
-  },
-  {
-   "name": "Weapons",
-   "cast": [
-    "Julia Garner",
-    "Josh Brolin",
-    "Alden Ehrenreich"
-   ],
-   "country": "United States",
-   "description": "Na noite passada, às 2h17, todas as crianças da turma da Professora Gandy deixaram os respetivos quartos, abriram as portas de casa e desapareceram misteriosamente na escuridão. Todas, exceto uma.  A tragédia leva os habitantes da pequena cidade a questionar quem, ou o que estará por trás do desaparecimento.",
-   "director": [
-    "Zach Cregger"
-   ],
-   "genre": [
-    "Horror",
-    "Mystery"
-   ],
-   "imdbRating": "7.4",
-   "released": "2025-08-08T00:00:00.000Z",
-   "writer": [
-    "Zach Cregger"
-   ],
-   "year": "2025",
-   "trailers": [
-    {
-     "source": "QKHySfXqN0I",
-     "type": "Trailer"
-    },
-    {
-     "source": "OpThntO9ixc",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "129 min",
-   "background": "https://images.metahub.space/background/medium/tt26581740/img",
-   "logo": "https://images.metahub.space/logo/medium/tt26581740/img",
-   "awards": "Won 1 Oscar. 64 wins & 131 nominations total",
-   "id": "tt26581740",
-   "genres": [
-    "Terror",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Weapons",
-     "ytId": "QKHySfXqN0I"
-    },
-    {
-     "title": "Weapons",
-     "ytId": "OpThntO9ixc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt26581740"
-    },
-    {
-     "name": "Weapons",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/weapons-26581740"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Julia Garner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julia%20Garner"
-    },
-    {
-     "name": "Josh Brolin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Brolin"
-    },
-    {
-     "name": "Alden Ehrenreich",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alden%20Ehrenreich"
-    },
-    {
-     "name": "Zach Cregger",
-     "category": "Writers",
-     "url": "stremio:///search?search=Zach%20Cregger"
-    },
-    {
-     "name": "Zach Cregger",
-     "category": "Directors",
-     "url": "stremio:///search?search=Zach%20Cregger"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt26581740",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg"
-  },
-  {
    "cast": [
     "Milo Callaghan",
     "Lana Parrilla",
@@ -1591,212 +1777,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
-  },
-  {
-   "awards": "3 nominations total",
-   "cast": [
-    "Tom Cruise",
-    "Nicole Kidman",
-    "Thomas Gibson"
-   ],
-   "country": "United States",
-   "description": "Um jovem casal irlandês foge para os Estados Unidos, mas depois luta para obter terras e prosperar livremente.",
-   "director": [
-    "Ron Howard"
-   ],
-   "dvdRelease": "2016-04-19T00:00:00.000Z",
-   "genre": [
-    "Adventure",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "6.6",
-   "name": "Far and Away",
-   "released": "1992-05-22T00:00:00.000Z",
-   "runtime": "140 min",
-   "trailers": [
-    {
-     "source": "kgpwDLMowBM",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Bob Dolman",
-    "Ron Howard"
-   ],
-   "year": "1992",
-   "background": "https://images.metahub.space/background/medium/tt0104231/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0104231/img",
-   "id": "tt0104231",
-   "genres": [
-    "Aventura",
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "1992",
-   "trailerStreams": [
-    {
-     "title": "Far and Away",
-     "ytId": "kgpwDLMowBM"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0104231"
-    },
-    {
-     "name": "Far and Away",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/far-and-away-0104231"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Tom Cruise",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Cruise"
-    },
-    {
-     "name": "Nicole Kidman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicole%20Kidman"
-    },
-    {
-     "name": "Thomas Gibson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Thomas%20Gibson"
-    },
-    {
-     "name": "Bob Dolman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bob%20Dolman"
-    },
-    {
-     "name": "Ron Howard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Howard"
-    },
-    {
-     "name": "Ron Howard",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ron%20Howard"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0104231",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0104231.jpg"
-  },
-  {
-   "name": "Below",
-   "cast": [
-    "Josh Hartnett",
-    "Stephen Oates",
-    "Josh Cruddas"
-   ],
-   "country": "Canada",
-   "description": "Quando uma misteriosa criatura marinha aterroriza uma pequena vila costeira, um pescador calejado e a família arriscam tudo para proteger a sua comunidade.",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Thriller"
-   ],
-   "imdbRating": "6.3",
-   "released": "2026-10-08T00:00:00.000Z",
-   "writer": [
-    "Jesse McKeown"
-   ],
-   "year": "2026–",
-   "trailers": [
-    {
-     "source": "U57CNxSgoss",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "runtime": null,
-   "status": "Ended",
-   "logo": "https://images.metahub.space/logo/medium/tt35934755/img",
-   "background": "https://images.metahub.space/background/medium/tt35934755/img",
-   "id": "tt35934755",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Below",
-     "ytId": "U57CNxSgoss"
-    }
-   ],
-   "links": [
-    {
-     "name": "Below",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/below-35934755"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Josh Hartnett",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
-    },
-    {
-     "name": "Stephen Oates",
-     "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Oates"
-    },
-    {
-     "name": "Josh Cruddas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Cruddas"
-    },
-    {
-     "name": "Jesse McKeown",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jesse%20McKeown"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg"
   }
  ]
 }

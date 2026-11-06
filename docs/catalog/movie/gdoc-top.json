@@ -655,111 +655,99 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39316472.jpg"
   },
   {
-   "awards": "5 wins & 9 nominations total",
-   "cast": [
-    "Laura Dern",
-    "Ohad Naharin",
-    "Or Schraiber"
+   "id": "tt49164308",
+   "logo": "https://live.metahub.space/logo/medium/tt49164308/img",
+   "background": "https://live.metahub.space/background/medium/tt49164308/img",
+   "name": "Kordell Stewart / Slash & Burn",
+   "description": "For a generation of football fans, former Pittsburgh Steelers quarterback Kordell \"Slash\" Stewart was one of the most electrifying players of the 1990s. But just as he became one of football's biggest stars, a malicious rumor upended his life. Through candid interviews with Stewart and others who witnessed his brightest and darkest moments, explore the personal toll of scrutiny beyond the football field while searching for the truth behind a story that followed Stewart for decades.",
+   "genres": [
+    "Documentário"
    ],
-   "country": "Denmark, Sweden, Norway, Israel, United States",
-   "description": "A love story portraying the dilemmas and inevitable consequences of ambition. It is a film about a woman's fight for independence, trying to succeed with her own art in the extremely competitive world of dance.",
-   "director": [
-    "Elvira Lind"
-   ],
-   "genre": [
-    "Documentary",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "6.3",
-   "name": "Bobbi Jene",
-   "released": "2017-10-06T00:00:00.000Z",
-   "runtime": "95 min",
-   "writer": [
-    "Maja Jul Larsen (script consultant)"
-   ],
-   "year": "2017",
+   "releaseInfo": "2026",
+   "runtime": "40 min",
    "trailers": [
     {
-     "source": "V5cUDLogjTU",
+     "source": "MZAV0HKRDVk",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt6082630/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6082630/img",
-   "dvdRelease": "2018-01-02T00:00:00.000Z",
-   "id": "tt6082630",
-   "genres": [
-    "Drama",
-    "Romance",
-    "Documentário"
+   "cast": [
+    "Kordell Stewart",
+    "Bill Cowher",
+    "Jerome Bettis"
    ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
+   "credits_cast": [
     {
-     "title": "Bobbi Jene",
-     "ytId": "V5cUDLogjTU"
+     "character": "Self",
+     "name": "Kordell Stewart",
+     "profile_path": null,
+     "id": 1266558
+    },
+    {
+     "character": "Self",
+     "name": "Bill Cowher",
+     "profile_path": "/h9juxW9wBF5GIHeW67RG9YUghER.jpg",
+     "id": 1240191
+    },
+    {
+     "character": "Self",
+     "name": "Jerome Bettis",
+     "profile_path": "/pA1iHyi1xoNHXBZnVhl1TqpT3XT.jpg",
+     "id": 1215301
+    },
+    {
+     "character": "Self",
+     "name": "Mike Mularkey",
+     "profile_path": null,
+     "id": 6548988
+    },
+    {
+     "character": "Self",
+     "name": "Bob Pompeani",
+     "profile_path": null,
+     "id": 6548989
+    },
+    {
+     "character": "Self",
+     "name": "LZ Granderson",
+     "profile_path": null,
+     "id": 2087863
     }
    ],
-   "links": [
+   "credits_crew": [
     {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6082630"
+     "department": "Directing",
+     "job": "Director",
+     "name": "Brian Rivera",
+     "profile_path": null,
+     "id": 6548990
     },
     {
-     "name": "Bobbi Jene",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/bobbi-jene-6082630"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Brian Rivera",
+     "profile_path": null,
+     "id": 6548990
     },
     {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Laura Dern",
-     "category": "Cast",
-     "url": "stremio:///search?search=Laura%20Dern"
-    },
-    {
-     "name": "Ohad Naharin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ohad%20Naharin"
-    },
-    {
-     "name": "Or Schraiber",
-     "category": "Cast",
-     "url": "stremio:///search?search=Or%20Schraiber"
-    },
-    {
-     "name": "Maja Jul Larsen (script consultant)",
-     "category": "Writers",
-     "url": "stremio:///search?search=Maja%20Jul%20Larsen%20(script%20consultant)"
-    },
-    {
-     "name": "Elvira Lind",
-     "category": "Directors",
-     "url": "stremio:///search?search=Elvira%20Lind"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Emily Cameron",
+     "profile_path": null,
+     "id": 6548997
     }
+   ],
+   "director": [
+    "Brian Rivera"
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt6082630",
+    "defaultVideoId": "tt49164308",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6082630.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49164308.jpg",
+   "imdbRating": "6.3"
   }
  ]
 }

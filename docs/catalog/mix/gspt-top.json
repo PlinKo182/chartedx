@@ -883,58 +883,51 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35495073.jpg"
   },
   {
-   "name": "Stick",
+   "name": "Aoashi",
    "cast": [
-    "Owen Wilson",
-    "Lilli Kay",
-    "Mariana Treviño"
+    "Kôki Ôsuzu",
+    "Clifford Chapin",
+    "Ricco Fajardo"
    ],
-   "country": "United States",
-   "description": "Pryce Cahill ia ser um dos melhores do golfe, mas um ataque a meio de um jogo estragou a sua carreira. Agora, numa fase complicada, vai guiar Santi, um jovem fenómeno com muito potencial, e talvez encontrar a salvação.",
+   "country": "Japan",
+   "description": "Aoi Ashito é um jovem jogador de futebol aspirante de uma cidade remota no Japão. As suas esperanças de entrar numa escola secundária com um bom clube de futebol são desfeitas quando provoca um incidente durante um jogo crítico para a sua equipa, o que resulta na sua derrota e eliminação do torneio. No entanto, ele chama a atenção de alguém importante que estava a visitar de Tóquio. Como irão as coisas desenrolar-se para Ashito?",
    "genre": [
+    "Animation",
     "Comedy",
-    "Sport"
-   ],
-   "imdbRating": "7.2",
-   "released": "2025-06-04T00:00:00.000Z",
-   "writer": [
-    "Jason Keller"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "72oB_zVF_6o",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "runtime": "33 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31710249/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31710249/img",
-   "awards": "3 nominations total",
-   "id": "tt31710249",
-   "genres": [
-    "Comédia",
     "Drama"
    ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Stick",
-     "ytId": "72oB_zVF_6o"
-    }
+   "imdbRating": "8.1",
+   "released": "2022-04-09T00:00:00.000Z",
+   "year": "2022",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Yugo Kobayashi"
    ],
+   "background": "https://images.metahub.space/background/medium/tt15792808/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15792808/img",
+   "runtime": "25 min",
+   "awards": "3 wins & 2 nominations total",
+   "id": "tt15792808",
+   "genres": [
+    "Animação"
+   ],
+   "releaseInfo": "2022",
    "links": [
     {
-     "name": "7.2",
+     "name": "8.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt31710249"
+     "url": "https://imdb.com/title/tt15792808"
     },
     {
-     "name": "Stick",
+     "name": "Aoashi",
      "category": "share",
-     "url": "https://www.strem.io/s/series/stick-31710249"
+     "url": "https://www.strem.io/s/series/aoashi-15792808"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Comedy",
@@ -942,29 +935,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Sport",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Owen Wilson",
+     "name": "Kôki Ôsuzu",
      "category": "Cast",
-     "url": "stremio:///search?search=Owen%20Wilson"
+     "url": "stremio:///search?search=K%C3%B4ki%20%C3%94suzu"
     },
     {
-     "name": "Lilli Kay",
+     "name": "Clifford Chapin",
      "category": "Cast",
-     "url": "stremio:///search?search=Lilli%20Kay"
+     "url": "stremio:///search?search=Clifford%20Chapin"
     },
     {
-     "name": "Mariana Treviño",
+     "name": "Ricco Fajardo",
      "category": "Cast",
-     "url": "stremio:///search?search=Mariana%20Trevi%C3%B1o"
+     "url": "stremio:///search?search=Ricco%20Fajardo"
     },
     {
-     "name": "Jason Keller",
+     "name": "Yugo Kobayashi",
      "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Keller"
+     "url": "stremio:///search?search=Yugo%20Kobayashi"
     }
    ],
    "behaviorHints": {
@@ -973,7 +966,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31710249.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15792808.jpg"
   }
  ]
 }
