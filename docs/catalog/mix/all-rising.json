@@ -121,113 +121,390 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10023022.jpg"
   },
   {
-   "id": "tt45854934",
-   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
-   "background": "https://live.metahub.space/background/medium/tt45854934/img",
-   "name": "The Gift of Deceit",
-   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
+   "name": "Warfare",
+   "cast": [
+    "D&apos;Pharaoh Woon-A-Tai",
+    "Will Poulter",
+    "Cosmo Jarvis"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "Uma missão de vigilância das forças especiais da Marinha dos EUA resulta numa emboscada em território inimigo no Iraque.",
+   "director": [
+    "Alex Garland",
+    "Ray Mendoza"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "imdbRating": "7.1",
+   "released": "2025-04-11T00:00:00.000Z",
+   "writer": [
+    "Ray Mendoza",
+    "Alex Garland"
+   ],
+   "year": "2025",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "JER0Fkyy3tw",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31434639/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31434639/img",
+   "awards": "Nominated for 1 BAFTA Award. 7 wins & 30 nominations total",
+   "id": "tt31434639",
    "genres": [
-    "Drama"
+    "Guerra",
+    "Ação"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Warfare",
+     "ytId": "JER0Fkyy3tw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31434639"
+    },
+    {
+     "name": "Warfare",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/warfare-31434639"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "D&apos;Pharaoh Woon-A-Tai",
+     "category": "Cast",
+     "url": "stremio:///search?search=D%26apos%3BPharaoh%20Woon-A-Tai"
+    },
+    {
+     "name": "Will Poulter",
+     "category": "Cast",
+     "url": "stremio:///search?search=Will%20Poulter"
+    },
+    {
+     "name": "Cosmo Jarvis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cosmo%20Jarvis"
+    },
+    {
+     "name": "Ray Mendoza",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ray%20Mendoza"
+    },
+    {
+     "name": "Alex Garland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Alex Garland",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Ray Mendoza",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ray%20Mendoza"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31434639",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434639.jpg"
+  },
+  {
+   "awards": "3 nominations total",
+   "cast": [
+    "Liam Neeson",
+    "Diane Kruger",
+    "January Jones"
+   ],
+   "country": "United States, Germany, United Kingdom, France, Japan, Canada",
+   "description": "Após um acidente de carro em Berlim, o americano Dr. Martin Harris acorda e descobre que ninguém sabe quem ele é porque não tem documentos consigo. Pior do que isso: alguém está lá fora, assumindo a identidade dele e nem a sua própria esposa o reconhece. Ignorado pelas autoridades e perseguido por misteriosos assassinos, Martim está sozinho, cansado e precisa de provar que é ele mesmo.",
+   "director": [
+    "Jaume Collet-Serra"
+   ],
+   "dvdRelease": "2012-11-21T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "6.8",
+   "name": "Unknown",
+   "released": "2011-02-18T00:00:00.000Z",
+   "runtime": "113 min",
+   "trailers": [
+    {
+     "source": "lQj-Xzr29VM",
+     "type": "Trailer"
+    },
+    {
+     "source": "vSXUgkCjdBM",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Oliver Butcher",
+    "Stephen Cornwell",
+    "Didier Van Cauwelaert"
+   ],
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt1401152/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1401152/img",
+   "id": "tt1401152",
+   "genres": [
+    "Ação",
+    "Mistério",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "trailerStreams": [
+    {
+     "title": "Unknown",
+     "ytId": "lQj-Xzr29VM"
+    },
+    {
+     "title": "Unknown",
+     "ytId": "vSXUgkCjdBM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1401152"
+    },
+    {
+     "name": "Unknown",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/unknown-1401152"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Liam Neeson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Neeson"
+    },
+    {
+     "name": "Diane Kruger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Diane%20Kruger"
+    },
+    {
+     "name": "January Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=January%20Jones"
+    },
+    {
+     "name": "Oliver Butcher",
+     "category": "Writers",
+     "url": "stremio:///search?search=Oliver%20Butcher"
+    },
+    {
+     "name": "Stephen Cornwell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20Cornwell"
+    },
+    {
+     "name": "Didier Van Cauwelaert",
+     "category": "Writers",
+     "url": "stremio:///search?search=Didier%20Van%20Cauwelaert"
+    },
+    {
+     "name": "Jaume Collet-Serra",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jaume%20Collet-Serra"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1401152",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1401152.jpg"
+  },
+  {
+   "name": "Mortal Kombat II",
+   "cast": [
+    "Adeline Rudolph",
+    "Karl Urban",
+    "Martyn Ford"
+   ],
+   "country": "United States",
+   "description": "Desta vez, os campeões favoritos agora com a aguardada estreia de Johnny Cage, enfrentam-se num derradeiro confronto, sem regras e repleto de sangue, para tentar pôr fim ao reinado sombrio de Shao Kahn, que ameaça destruir o próprio Reino da Terra e os seus defensores.",
+   "director": [
+    "Simon McQuoid"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "imdbRating": "6.3",
+   "released": "2026-05-08T00:00:00.000Z",
+   "writer": [
+    "Jeremy Slater",
+    "Ed Boon",
+    "John Tobias"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "qGyIEis2T2o",
+     "type": "Trailer"
+    },
+    {
+     "source": "zva2PQ-ud5Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "b24oG7qCwp4",
+     "type": "Trailer"
+    },
+    {
+     "source": "ZdC5mFHPldg",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "116 min",
+   "background": "https://images.metahub.space/background/medium/tt17490712/img",
+   "logo": "https://images.metahub.space/logo/medium/tt17490712/img",
+   "awards": "3 nominations total",
+   "id": "tt17490712",
+   "genres": [
+    "Ação",
+    "Fantasia",
+    "Aventura"
    ],
    "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Marieta Severo",
-    "Alice Wegmann",
-    "Nanda Costa"
-   ],
-   "credits_cast": [
+   "trailerStreams": [
     {
-     "character": "Lúcia Rossetti",
-     "name": "Marieta Severo",
-     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
-     "id": 138327
+     "title": "Mortal Kombat II",
+     "ytId": "qGyIEis2T2o"
     },
     {
-     "character": "Maíra Rossetti",
-     "name": "Alice Wegmann",
-     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
-     "id": 1371607
+     "title": "Mortal Kombat II",
+     "ytId": "zva2PQ-ud5Y"
     },
     {
-     "character": "Irina",
-     "name": "Nanda Costa",
-     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
-     "id": 1045953
+     "title": "Mortal Kombat II",
+     "ytId": "b24oG7qCwp4"
     },
     {
-     "character": "",
-     "name": "José de Abreu",
-     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
-     "id": 769308
-    },
-    {
-     "character": "",
-     "name": "Felipe Camargo",
-     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
-     "id": 1041385
-    },
-    {
-     "character": "",
-     "name": "Luciana Paes",
-     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
-     "id": 1356080
-    },
-    {
-     "character": "",
-     "name": "Laila Garin",
-     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
-     "id": 1995287
-    },
-    {
-     "character": "",
-     "name": "Rui Ricardo Diaz",
-     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
-     "id": 129685
-    },
-    {
-     "character": "",
-     "name": "Heloísa Jorge",
-     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
-     "id": 2266943
-    },
-    {
-     "character": "",
-     "name": "Allan Souza Lima",
-     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
-     "id": 1693267
+     "title": "Mortal Kombat II",
+     "ytId": "ZdC5mFHPldg"
     }
    ],
-   "credits_crew": [
+   "links": [
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Mauro Mendonça Filho",
-     "profile_path": null,
-     "id": 1906411
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt17490712"
     },
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Daniela Carvalho",
-     "profile_path": null,
-     "id": 2256635
+     "name": "Mortal Kombat II",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/mortal-kombat-ii-17490712"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Adeline Rudolph",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adeline%20Rudolph"
+    },
+    {
+     "name": "Karl Urban",
+     "category": "Cast",
+     "url": "stremio:///search?search=Karl%20Urban"
+    },
+    {
+     "name": "Martyn Ford",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martyn%20Ford"
+    },
+    {
+     "name": "Jeremy Slater",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jeremy%20Slater"
+    },
+    {
+     "name": "Ed Boon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ed%20Boon"
+    },
+    {
+     "name": "John Tobias",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Tobias"
+    },
+    {
+     "name": "Simon McQuoid",
+     "category": "Directors",
+     "url": "stremio:///search?search=Simon%20McQuoid"
     }
    ],
-   "director": [
-    "Mauro Mendonça Filho",
-    "Daniela Carvalho"
-   ],
-   "country": "Brazil",
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt17490712",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-   "imdbRating": "5.7"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17490712.jpg"
   },
   {
    "id": "tt43641262",
@@ -321,6 +598,129 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43641262.jpg"
+  },
+  {
+   "awards": "6 wins & 24 nominations total",
+   "cast": [
+    "Brad Pitt",
+    "Shia LaBeouf",
+    "Logan Lerman"
+   ],
+   "country": "United States, China, United Kingdom",
+   "description": "Tudo aponta para a vitória dos aliados, que culminará no tão ansiado fim da Segunda Grande Guerra. Atrás das linhas do inimigo, em pleno território alemão, o sargento norte-americano Don \"Wardaddy\" Collier tem a seu cargo um pequeno grupo de homens valentes e um único tanque de guerra. O grande objectivo é matar o maior número de inimigos e sair vivo daquele inferno. E o único consolo é o espírito de camaradagem e a esperança do fim iminente.",
+   "director": [
+    "David Ayer"
+   ],
+   "dvdRelease": "2016-02-04T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "imdbRating": "7.6",
+   "name": "Fury",
+   "released": "2014-10-17T00:00:00.000Z",
+   "runtime": "135 min",
+   "trailers": [
+    {
+     "source": "09w9MTtZDEM",
+     "type": "Trailer"
+    },
+    {
+     "source": "q94n3eWOWXM",
+     "type": "Trailer"
+    },
+    {
+     "source": "zLoXqSQQKPA",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "David Ayer"
+   ],
+   "year": "2014",
+   "background": "https://images.metahub.space/background/medium/tt2713180/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2713180/img",
+   "id": "tt2713180",
+   "genres": [
+    "Guerra",
+    "Drama",
+    "Ação"
+   ],
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "Fury",
+     "ytId": "09w9MTtZDEM"
+    },
+    {
+     "title": "Fury",
+     "ytId": "q94n3eWOWXM"
+    },
+    {
+     "title": "Fury",
+     "ytId": "zLoXqSQQKPA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2713180"
+    },
+    {
+     "name": "Fury",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/fury-2713180"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Brad Pitt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brad%20Pitt"
+    },
+    {
+     "name": "Shia LaBeouf",
+     "category": "Cast",
+     "url": "stremio:///search?search=Shia%20LaBeouf"
+    },
+    {
+     "name": "Logan Lerman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Logan%20Lerman"
+    },
+    {
+     "name": "David Ayer",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Ayer"
+    },
+    {
+     "name": "David Ayer",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Ayer"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2713180",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2713180.jpg"
   },
   {
    "awards": "Won 1 Oscar. 6 wins & 9 nominations total",
@@ -429,104 +829,118 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0075005.jpg"
   },
   {
-   "awards": "Nominated for 1 Primetime Emmy. 27 wins & 59 nominations total",
+   "name": "Perfect Days",
+   "awards": "Nominated for 1 Oscar. 14 wins & 51 nominations total",
    "cast": [
-    "Hugh Dancy",
-    "Mads Mikkelsen",
-    "Caroline Dhavernas"
+    "Kôji Yakusho",
+    "Tokio Emoto",
+    "Arisa Nakano"
    ],
-   "country": "United States",
-   "description": "Will Graham é um investigador do FBI que tem o talento de se inserir nas cenas dos crimes e visualizar exatamente o que aconteceu. Tal capacidade ajuda a solucionar muitos casos, mas também exige muito dele, obrigando-o a consultar o psiquiatra Hannibal Lecter. Mal sabe Graham, que o dr. Lecter não é um psiquiatra comum.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "Japan, Germany",
+   "description": "Neste delicado drama do quotidiano, Wim Wenders narra a história de Hirayama, um japonês que aparenta encontrar a felicidade numa vida simples enquanto empregado de limpeza de casas de banho em Tóquio. Para além da sua rotina meticulosa, Hirayama nutre uma paixão pela música, pelos livros e pela fotografia de árvores. Através de uma série de encontros inesperados, são revelados detalhes do seu passado que desencadeiam uma reflexão profundamente poética e comovente sobre a capacidade de encontrar beleza no mundo que nos rodeia.",
+   "director": [
+    "Wim Wenders"
+   ],
    "genre": [
-    "Crime",
-    "Drama",
-    "Horror"
+    "Drama"
    ],
-   "imdbRating": "8.5",
-   "name": "Hannibal",
-   "released": "2013-04-04T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Ended",
+   "imdbRating": "7.9",
+   "released": "2023-12-21T00:00:00.000Z",
    "writer": [
-    "Bryan Fuller"
+    "Wim Wenders",
+    "Takuma Takasaki"
    ],
-   "year": "2013–2015",
-   "background": "https://images.metahub.space/background/medium/tt2243973/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2243973/img",
+   "year": "2023",
+   "runtime": "124 min",
    "trailers": [
     {
-     "source": "RuiklpUQ-p4",
+     "source": "Iv8YO5BXCAQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "QzZBbX5A1FA",
+     "type": "Trailer"
+    },
+    {
+     "source": "HTgWYojq-z8",
      "type": "Trailer"
     }
    ],
-   "id": "tt2243973",
+   "background": "https://images.metahub.space/background/medium/tt27503384/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27503384/img",
+   "id": "tt27503384",
    "genres": [
-    "Drama",
-    "Crime"
+    "Drama"
    ],
-   "releaseInfo": "2013",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Hannibal",
-     "ytId": "RuiklpUQ-p4"
+     "title": "Perfect Days",
+     "ytId": "Iv8YO5BXCAQ"
+    },
+    {
+     "title": "Perfect Days",
+     "ytId": "QzZBbX5A1FA"
+    },
+    {
+     "title": "Perfect Days",
+     "ytId": "HTgWYojq-z8"
     }
    ],
    "links": [
     {
-     "name": "8.5",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2243973"
+     "url": "https://imdb.com/title/tt27503384"
     },
     {
-     "name": "Hannibal",
+     "name": "Perfect Days",
      "category": "share",
-     "url": "https://www.strem.io/s/series/hannibal-2243973"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "https://www.strem.io/s/movie/perfect-days-27503384"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Hugh Dancy",
+     "name": "Kôji Yakusho",
      "category": "Cast",
-     "url": "stremio:///search?search=Hugh%20Dancy"
+     "url": "stremio:///search?search=K%C3%B4ji%20Yakusho"
     },
     {
-     "name": "Mads Mikkelsen",
+     "name": "Tokio Emoto",
      "category": "Cast",
-     "url": "stremio:///search?search=Mads%20Mikkelsen"
+     "url": "stremio:///search?search=Tokio%20Emoto"
     },
     {
-     "name": "Caroline Dhavernas",
+     "name": "Arisa Nakano",
      "category": "Cast",
-     "url": "stremio:///search?search=Caroline%20Dhavernas"
+     "url": "stremio:///search?search=Arisa%20Nakano"
     },
     {
-     "name": "Bryan Fuller",
+     "name": "Wim Wenders",
      "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Fuller"
+     "url": "stremio:///search?search=Wim%20Wenders"
+    },
+    {
+     "name": "Takuma Takasaki",
+     "category": "Writers",
+     "url": "stremio:///search?search=Takuma%20Takasaki"
+    },
+    {
+     "name": "Wim Wenders",
+     "category": "Directors",
+     "url": "stremio:///search?search=Wim%20Wenders"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt27503384",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2243973.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27503384.jpg"
   },
   {
    "name": "Midnight Mass",
@@ -628,475 +1042,151 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10574558.jpg"
   },
   {
-   "awards": null,
+   "awards": "15 wins & 34 nominations total",
    "cast": [
-    "Ryan Phillippe",
-    "Benicio Del Toro",
-    "Juliette Lewis"
+    "Jennifer Lawrence",
+    "Josh Hutcherson",
+    "Liam Hemsworth"
    ],
-   "country": "United States",
-   "description": "Parker e Longbaugh são parceiros de longa data e decidem ganhar um dinheiro fácil. O plano é sequestrar a jovem Robin, que está grávida de uma criança de um casal rico. Mas o impiedoso Longbaugh desconfia que seu parceiro está interessado emocionalmente por Robin, complicando o sequestro e colocando os dois em uma grande enrascada. O dia da entrega do resgate se aproxima e os amigos se preparam para enfrentar seus adversários fortemente armados.",
+   "country": "United States, Germany, Canada, France",
+   "description": "Com a nação de Panem em guerra total, Katniss Everdeen reúne uma equipa constituída pelos seus amigos mais próximos, Gale, Finnick, e Peeta, e embarca numa missão destinada a assassinar o Presidente Snow. As armadilhas mortais, os inimigos e as opções morais que aguardam Katniss vão desafiá-la mais do que qualquer arena que alguma vez enfrentou nos Jogos da Fome.",
    "director": [
-    "Christopher McQuarrie"
+    "Francis Lawrence"
    ],
-   "dvdRelease": "2010-05-01T00:00:00.000Z",
+   "dvdRelease": "2016-03-08T00:00:00.000Z",
    "genre": [
     "Action",
-    "Crime",
-    "Drama"
+    "Adventure",
+    "Sci-Fi"
    ],
    "imdbRating": "6.6",
-   "name": "The Way of the Gun",
-   "released": "2000-09-08T00:00:00.000Z",
-   "runtime": "119 min",
+   "name": "The Hunger Games: Mockingjay - Part 2",
+   "released": "2015-11-20T00:00:00.000Z",
+   "runtime": "137 min",
    "trailers": [
     {
-     "source": "LFtd-9bvydI",
+     "source": "SoKIqLEGhI0",
+     "type": "Trailer"
+    },
+    {
+     "source": "YddkQoxkZMQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "3zVaD7t39w8",
+     "type": "Trailer"
+    },
+    {
+     "source": "n-7K_OjsDCQ",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "Christopher McQuarrie"
+    "Peter Craig",
+    "Danny Strong",
+    "Suzanne Collins"
    ],
-   "year": "2000",
-   "background": "https://images.metahub.space/background/medium/tt0202677/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0202677/img",
-   "id": "tt0202677",
+   "year": "2015",
+   "background": "https://images.metahub.space/background/medium/tt1951266/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1951266/img",
+   "affiliates": {
+    "fandango_embed": "<a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">\n    <img src=\"http://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/159276/FIN06_Seashore2_Payoff_25x38.jpg\" alt=\"The Hunger Games: Mockingjay - Part 2 poster\" />\n</a>\n<div>\n    <a href=\"/the-hunger-games-mockingjay-part-2_159276/movieoverview\">The Hunger Games: Mockingjay - Part 2</a>\n    <time datetime=\"2015-11-20T00:00:00.000Z\">November 20, 2015</time>\n</div>\n",
+    "fandango_link": "/the-hunger-games-mockingjay-part-2_159276/movieoverview"
+   },
+   "id": "tt1951266",
    "genres": [
     "Ação",
-    "Crime",
-    "Drama"
+    "Aventura",
+    "Ficção científica"
    ],
-   "releaseInfo": "2000",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "The Way of the Gun",
-     "ytId": "LFtd-9bvydI"
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "SoKIqLEGhI0"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "YddkQoxkZMQ"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "3zVaD7t39w8"
+    },
+    {
+     "title": "The Hunger Games: Mockingjay - Part 2",
+     "ytId": "n-7K_OjsDCQ"
     }
    ],
    "links": [
     {
      "name": "6.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0202677"
+     "url": "https://imdb.com/title/tt1951266"
     },
     {
-     "name": "The Way of the Gun",
+     "name": "The Hunger Games: Mockingjay - Part 2",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-way-of-the-gun-0202677"
+     "url": "https://www.strem.io/s/movie/the-hunger-games-mockingjay-part-2-1951266"
     },
     {
      "name": "Action",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Ryan Phillippe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Phillippe"
-    },
-    {
-     "name": "Benicio Del Toro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benicio%20Del%20Toro"
-    },
-    {
-     "name": "Juliette Lewis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Juliette%20Lewis"
-    },
-    {
-     "name": "Christopher McQuarrie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20McQuarrie"
-    },
-    {
-     "name": "Christopher McQuarrie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20McQuarrie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0202677",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0202677.jpg"
-  },
-  {
-   "name": "Star Trek: Discovery",
-   "year": "2017–2024",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "released": "2017-09-24T00:00:00.000Z",
-   "writer": [
-    "Bryan Fuller",
-    "Alex Kurtzman"
-   ],
-   "cast": [
-    "Sonequa Martin-Green",
-    "Anthony Rapp",
-    "Doug Jones"
-   ],
-   "imdbRating": "6.9",
-   "description": "Ocorre aproximadamente dez anos antes dos eventos da série original Star Trek, ST: Discovery mostra as casas unidas dos Klingons envolvendo-se em uma guerra com a Federação Unida de Planetas. Os protagonistas são os tripulantes da USS Discovery.",
-   "country": "United States",
-   "director": [],
-   "runtime": "51 min",
-   "status": "Ended",
-   "awards": "Won 2 Primetime Emmys. 23 wins & 96 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt5171438/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5171438/img",
-   "trailers": [
-    {
-     "source": "O2cSP25ye6g",
-     "type": "Trailer"
-    },
-    {
-     "source": "oWnYtyNKPsA",
-     "type": "Trailer"
-    },
-    {
-     "source": "hC7IMj7WFyE",
-     "type": "Trailer"
-    },
-    {
-     "source": "4dxe_ugmIVM",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt5171438",
-   "genres": [
-    "Sci-Fi & Fantasy",
-    "Action & Adventure",
-    "Drama"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Star Trek: Discovery",
-     "ytId": "O2cSP25ye6g"
-    },
-    {
-     "title": "Star Trek: Discovery",
-     "ytId": "oWnYtyNKPsA"
-    },
-    {
-     "title": "Star Trek: Discovery",
-     "ytId": "hC7IMj7WFyE"
-    },
-    {
-     "title": "Star Trek: Discovery",
-     "ytId": "4dxe_ugmIVM"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt5171438"
-    },
-    {
-     "name": "Star Trek: Discovery",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/star-trek-discovery-5171438"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Drama",
+     "name": "Sci-Fi",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
     },
     {
-     "name": "Sonequa Martin-Green",
+     "name": "Jennifer Lawrence",
      "category": "Cast",
-     "url": "stremio:///search?search=Sonequa%20Martin-Green"
+     "url": "stremio:///search?search=Jennifer%20Lawrence"
     },
     {
-     "name": "Anthony Rapp",
+     "name": "Josh Hutcherson",
      "category": "Cast",
-     "url": "stremio:///search?search=Anthony%20Rapp"
+     "url": "stremio:///search?search=Josh%20Hutcherson"
     },
     {
-     "name": "Doug Jones",
+     "name": "Liam Hemsworth",
      "category": "Cast",
-     "url": "stremio:///search?search=Doug%20Jones"
+     "url": "stremio:///search?search=Liam%20Hemsworth"
     },
     {
-     "name": "Bryan Fuller",
+     "name": "Peter Craig",
      "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Fuller"
+     "url": "stremio:///search?search=Peter%20Craig"
     },
     {
-     "name": "Alex Kurtzman",
+     "name": "Danny Strong",
      "category": "Writers",
-     "url": "stremio:///search?search=Alex%20Kurtzman"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5171438.jpg"
-  },
-  {
-   "awards": "Nominated for 1 Oscar. 6 wins & 19 nominations total",
-   "cast": [
-    "Billy Crystal",
-    "Meg Ryan",
-    "Carrie Fisher"
-   ],
-   "country": "United States",
-   "description": "No fim de sua formatura na Universidade de Chicago, Harry Burns (Billy Crystal) dá a Sally Albright (Meg Ryan), formanda amiga de sua namorada, uma carona até Nova York. Os anos passam e eles continuam a se encontrar esporadicamente, mas a grande amizade que desenvolveram é abalada ao perceberem que na verdade estão apaixonados um pelo outro.",
-   "director": [
-    "Rob Reiner"
-   ],
-   "dvdRelease": "2016-11-28T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.7",
-   "name": "When Harry Met Sally...",
-   "released": "1989-07-21T00:00:00.000Z",
-   "runtime": "96 min",
-   "trailers": [
-    {
-     "source": "TQpG579MsQ4",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Nora Ephron"
-   ],
-   "year": "1989",
-   "background": "https://images.metahub.space/background/medium/tt0098635/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0098635/img",
-   "id": "tt0098635",
-   "genres": [
-    "Comédia",
-    "Romance",
-    "Drama"
-   ],
-   "releaseInfo": "1989",
-   "trailerStreams": [
-    {
-     "title": "When Harry Met Sally...",
-     "ytId": "TQpG579MsQ4"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0098635"
+     "url": "stremio:///search?search=Danny%20Strong"
     },
     {
-     "name": "When Harry Met Sally...",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/when-harry-met-sally-0098635"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Billy Crystal",
-     "category": "Cast",
-     "url": "stremio:///search?search=Billy%20Crystal"
-    },
-    {
-     "name": "Meg Ryan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Meg%20Ryan"
-    },
-    {
-     "name": "Carrie Fisher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Carrie%20Fisher"
-    },
-    {
-     "name": "Nora Ephron",
+     "name": "Suzanne Collins",
      "category": "Writers",
-     "url": "stremio:///search?search=Nora%20Ephron"
+     "url": "stremio:///search?search=Suzanne%20Collins"
     },
     {
-     "name": "Rob Reiner",
+     "name": "Francis Lawrence",
      "category": "Directors",
-     "url": "stremio:///search?search=Rob%20Reiner"
+     "url": "stremio:///search?search=Francis%20Lawrence"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0098635",
+    "defaultVideoId": "tt1951266",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0098635.jpg"
-  },
-  {
-   "cast": [
-    "Matthew McConaughey",
-    "Charlie Hunnam",
-    "Michelle Dockery"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
-   "director": [
-    "Guy Ritchie"
-   ],
-   "genre": [
-    "Action",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "7.8",
-   "name": "The Gentlemen",
-   "released": "2020-01-24T00:00:00.000Z",
-   "writer": [
-    "Guy Ritchie",
-    "Ivan Atkinson",
-    "Marn Davies"
-   ],
-   "year": "2020",
-   "trailers": [
-    {
-     "source": "KlXsguV9g0E",
-     "type": "Trailer"
-    },
-    {
-     "source": "2B0RpUGss2c",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt8367814/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
-   "runtime": "113 min",
-   "awards": "1 win & 4 nominations total",
-   "dvdRelease": "2020-03-24T00:00:00.000Z",
-   "id": "tt8367814",
-   "genres": [
-    "Ação",
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2020",
-   "trailerStreams": [
-    {
-     "title": "The Gentlemen",
-     "ytId": "KlXsguV9g0E"
-    },
-    {
-     "title": "The Gentlemen",
-     "ytId": "2B0RpUGss2c"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8367814"
-    },
-    {
-     "name": "The Gentlemen",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Matthew McConaughey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20McConaughey"
-    },
-    {
-     "name": "Charlie Hunnam",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Hunnam"
-    },
-    {
-     "name": "Michelle Dockery",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Dockery"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    },
-    {
-     "name": "Ivan Atkinson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ivan%20Atkinson"
-    },
-    {
-     "name": "Marn Davies",
-     "category": "Writers",
-     "url": "stremio:///search?search=Marn%20Davies"
-    },
-    {
-     "name": "Guy Ritchie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt8367814",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951266.jpg"
   }
  ]
 }
