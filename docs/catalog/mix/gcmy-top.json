@@ -209,6 +209,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27370649.jpg"
   },
   {
+   "name": "Minha Amiga",
+   "cast": [
+    "Albano Jerónimo",
+    "Ricardo Pereira",
+    "Ingrid Guimarães"
+   ],
+   "country": "Brazil",
+   "director": [
+    "Susana Garcia"
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "6.4",
+   "released": null,
+   "writer": [
+    "Andrea Batitucci",
+    "Susana Garcia",
+    "Ingrid Guimarães"
+   ],
+   "year": "2026",
+   "runtime": "125 min",
+   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
+   "background": "https://images.metahub.space/background/medium/tt37458193/img",
+   "id": "tt37458193",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Minha Amiga",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Albano Jerónimo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+    },
+    {
+     "name": "Ricardo Pereira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricardo%20Pereira"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Andrea Batitucci",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrea%20Batitucci"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Writers",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Directors",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37458193",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
+   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+  },
+  {
    "name": "Miraculous: Tales of Ladybug & Cat Noir",
    "year": "2015–",
    "runtime": "24 min",
@@ -357,392 +443,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2580046.jpg"
   },
   {
-   "name": "Minha Amiga",
-   "cast": [
-    "Albano Jerónimo",
-    "Ricardo Pereira",
-    "Ingrid Guimarães"
-   ],
-   "country": "Brazil",
-   "director": [
-    "Susana Garcia"
-   ],
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "6.5",
-   "released": null,
-   "writer": [
-    "Andrea Batitucci",
-    "Susana Garcia",
-    "Ingrid Guimarães"
-   ],
-   "year": "2026",
-   "runtime": "125 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
-   "background": "https://images.metahub.space/background/medium/tt37458193/img",
-   "id": "tt37458193",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Minha Amiga",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Albano Jerónimo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
-    },
-    {
-     "name": "Ricardo Pereira",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ricardo%20Pereira"
-    },
-    {
-     "name": "Ingrid Guimarães",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Andrea Batitucci",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrea%20Batitucci"
-    },
-    {
-     "name": "Susana Garcia",
-     "category": "Writers",
-     "url": "stremio:///search?search=Susana%20Garcia"
-    },
-    {
-     "name": "Ingrid Guimarães",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Susana Garcia",
-     "category": "Directors",
-     "url": "stremio:///search?search=Susana%20Garcia"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37458193",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
-   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
-  },
-  {
-   "name": "Georgie & Mandy's First Marriage",
-   "cast": [
-    "Montana Jordan",
-    "Emily Osment",
-    "Rachel Bay Jones"
-   ],
-   "country": "United States",
-   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-10-17T00:00:00.000Z",
-   "writer": [
-    "Steve Holland",
-    "Chuck Lorre",
-    "Steven Molaro"
-   ],
-   "year": "2024–",
-   "runtime": "19 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ZbdK-QJtFKI",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt31589662/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
-   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
-   "id": "tt31589662",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Georgie & Mandy's First Marriage",
-     "ytId": "ZbdK-QJtFKI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31589662"
-    },
-    {
-     "name": "Georgie & Mandy's First Marriage",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Montana Jordan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Montana%20Jordan"
-    },
-    {
-     "name": "Emily Osment",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Osment"
-    },
-    {
-     "name": "Rachel Bay Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
-    },
-    {
-     "name": "Steve Holland",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steve%20Holland"
-    },
-    {
-     "name": "Chuck Lorre",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chuck%20Lorre"
-    },
-    {
-     "name": "Steven Molaro",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Molaro"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
-  },
-  {
-   "name": "Sorry, Baby",
-   "awards": "36 wins & 115 nominations total",
-   "cast": [
-    "Eva Victor",
-    "Naomi Ackie",
-    "Louis Cancelmi"
-   ],
-   "country": "United States, Spain, France",
-   "description": "Agnes é uma jovem professora universitária ainda marcada por um acontecimento traumático ocorrido há três anos. À medida que tenta reerguer-se, encontra apoio em Lydie, a sua melhor amiga, através dos gestos simples do dia-a-dia. Entre silêncios e conversas partilhadas com aqueles que lhe querem bem, o filme acompanha os seus esforços para recuperar o controlo da própria vida.",
-   "director": [
-    "Eva Victor"
-   ],
-   "genre": [
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "7.1",
-   "released": "2025-07-25T00:00:00.000Z",
-   "writer": [
-    "Eva Victor"
-   ],
-   "year": "2025",
-   "runtime": "103 min",
-   "trailers": [
-    {
-     "source": "oDfxLAGPRrE",
-     "type": "Trailer"
-    },
-    {
-     "source": "ju8sMjH_hfo",
-     "type": "Trailer"
-    },
-    {
-     "source": "Rc0jgWoZo9w",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt32843349/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32843349/img",
-   "id": "tt32843349",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Sorry, Baby",
-     "ytId": "oDfxLAGPRrE"
-    },
-    {
-     "title": "Sorry, Baby",
-     "ytId": "ju8sMjH_hfo"
-    },
-    {
-     "title": "Sorry, Baby",
-     "ytId": "Rc0jgWoZo9w"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32843349"
-    },
-    {
-     "name": "Sorry, Baby",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/sorry-baby-32843349"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Eva Victor",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eva%20Victor"
-    },
-    {
-     "name": "Naomi Ackie",
-     "category": "Cast",
-     "url": "stremio:///search?search=Naomi%20Ackie"
-    },
-    {
-     "name": "Louis Cancelmi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Louis%20Cancelmi"
-    },
-    {
-     "name": "Eva Victor",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eva%20Victor"
-    },
-    {
-     "name": "Eva Victor",
-     "category": "Directors",
-     "url": "stremio:///search?search=Eva%20Victor"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32843349",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32843349.jpg"
-  },
-  {
-   "id": "tt21952924",
-   "logo": "https://live.metahub.space/logo/medium/tt21952924/img",
-   "background": "https://live.metahub.space/background/medium/tt21952924/img",
-   "name": "Phony",
-   "description": "Após um acidente de carro, o estudante Sonny Cooke acorda e percebe algo estranho: sua mãe, Ellen, parece diferente. O problema é que ninguém acredita nele, já que só ele nota a mudança. Agora, Sonny precisa conviver com uma possível impostora perigosa e provar que não está enlouquecendo.",
-   "genres": [
-    "Comédia",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "y-68gT7y_sc",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Sam Nivola",
-    "Connie Britton",
-    "Meera Syal"
-   ],
-   "credits_cast": [
-    {
-     "character": "Sonny",
-     "name": "Sam Nivola",
-     "profile_path": "/4EL6gTYGkmrjZo7hBjDemut3m1Q.jpg",
-     "id": 3153829
-    },
-    {
-     "character": "Ellen",
-     "name": "Connie Britton",
-     "profile_path": "/lxfHf4tTx5NukbemcJjmgqqFAiV.jpg",
-     "id": 86310
-    },
-    {
-     "character": "Sharla",
-     "name": "Meera Syal",
-     "profile_path": "/1sbSARESUcZ1DLT5CK5DOcygZdg.jpg",
-     "id": 6975
-    },
-    {
-     "character": "Mallory",
-     "name": "Grace Brennan",
-     "profile_path": null,
-     "id": 4224788
-    },
-    {
-     "character": "Chloe",
-     "name": "Mahaela Park",
-     "profile_path": "/vjkIuHXbmhkbViEJXU3r06EdtiG.jpg",
-     "id": 4492447
-    },
-    {
-     "character": "Vogel",
-     "name": "Maliq Johnson",
-     "profile_path": "/cS76v8nA0E9cJ0uaEQKjQBOs6W1.jpg",
-     "id": 2198002
-    },
-    {
-     "character": "Weldon",
-     "name": "Colter Lee",
-     "profile_path": null,
-     "id": 6174990
-    },
-    {
-     "character": "Ethan",
-     "name": "Elijah Fox",
-     "profile_path": "/5hE7LBTyDvgxHRogBzVlY9kcqGg.jpg",
-     "id": 4622381
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-   "imdbRating": "6.7"
-  },
-  {
    "name": "The Invite",
    "cast": [
     "Seth Rogen",
@@ -869,6 +569,219 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14173636.jpg"
   },
   {
+   "name": "Sorry, Baby",
+   "awards": "36 wins & 115 nominations total",
+   "cast": [
+    "Eva Victor",
+    "Naomi Ackie",
+    "Louis Cancelmi"
+   ],
+   "country": "United States, Spain, France",
+   "description": "Agnes é uma jovem professora universitária ainda marcada por um acontecimento traumático ocorrido há três anos. À medida que tenta reerguer-se, encontra apoio em Lydie, a sua melhor amiga, através dos gestos simples do dia-a-dia. Entre silêncios e conversas partilhadas com aqueles que lhe querem bem, o filme acompanha os seus esforços para recuperar o controlo da própria vida.",
+   "director": [
+    "Eva Victor"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.1",
+   "released": "2025-07-25T00:00:00.000Z",
+   "writer": [
+    "Eva Victor"
+   ],
+   "year": "2025",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "oDfxLAGPRrE",
+     "type": "Trailer"
+    },
+    {
+     "source": "ju8sMjH_hfo",
+     "type": "Trailer"
+    },
+    {
+     "source": "Rc0jgWoZo9w",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32843349/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32843349/img",
+   "id": "tt32843349",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Sorry, Baby",
+     "ytId": "oDfxLAGPRrE"
+    },
+    {
+     "title": "Sorry, Baby",
+     "ytId": "ju8sMjH_hfo"
+    },
+    {
+     "title": "Sorry, Baby",
+     "ytId": "Rc0jgWoZo9w"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32843349"
+    },
+    {
+     "name": "Sorry, Baby",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/sorry-baby-32843349"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Eva Victor",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eva%20Victor"
+    },
+    {
+     "name": "Naomi Ackie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Naomi%20Ackie"
+    },
+    {
+     "name": "Louis Cancelmi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Louis%20Cancelmi"
+    },
+    {
+     "name": "Eva Victor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eva%20Victor"
+    },
+    {
+     "name": "Eva Victor",
+     "category": "Directors",
+     "url": "stremio:///search?search=Eva%20Victor"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32843349",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32843349.jpg"
+  },
+  {
+   "name": "Georgie & Mandy's First Marriage",
+   "cast": [
+    "Montana Jordan",
+    "Emily Osment",
+    "Rachel Bay Jones"
+   ],
+   "country": "United States",
+   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "7.1",
+   "released": "2024-10-17T00:00:00.000Z",
+   "writer": [
+    "Steve Holland",
+    "Chuck Lorre",
+    "Steven Molaro"
+   ],
+   "year": "2024–",
+   "runtime": "19 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ZbdK-QJtFKI",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt31589662/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
+   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
+   "id": "tt31589662",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Georgie & Mandy's First Marriage",
+     "ytId": "ZbdK-QJtFKI"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31589662"
+    },
+    {
+     "name": "Georgie & Mandy's First Marriage",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Montana Jordan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Montana%20Jordan"
+    },
+    {
+     "name": "Emily Osment",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Osment"
+    },
+    {
+     "name": "Rachel Bay Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
+    },
+    {
+     "name": "Steve Holland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Holland"
+    },
+    {
+     "name": "Chuck Lorre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chuck%20Lorre"
+    },
+    {
+     "name": "Steven Molaro",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Molaro"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
+  },
+  {
    "name": "The Bear",
    "cast": [
     "Jeremy Allen White",
@@ -962,48 +875,65 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14452776.jpg"
   },
   {
-   "name": "Youth",
+   "name": "The Gentlemen",
    "cast": [
-    "Nadia Parkes",
-    "Andrea Vasiliou",
-    "Sophia Feliciano"
+    "Theo James",
+    "Kaya Scodelario",
+    "Joely Richardson"
    ],
-   "description": "Uma divorciada de 50 anos procura sexo e amor enquanto concilia os cuidados aos pais doentes e a educação do filho, que já deveria ser adulto.",
+   "country": "United Kingdom, United States",
+   "description": "Quando o aristocrata Eddie herda a propriedade da família, nem imagina que esta alberga um enorme império de erva... e que os proprietários estão lá para ficar.",
    "genre": [
-    "Comedy"
+    "Action",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "6.8",
-   "released": null,
-   "year": "2026–",
+   "imdbRating": "8.1",
+   "released": "2024-03-07T00:00:00.000Z",
+   "year": "2024–",
+   "runtime": "53 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Guy Ritchie"
+   ],
    "trailers": [
     {
-     "source": "XwuDMSlErkk",
+     "source": "wyEOwHrpZH4",
      "type": "Trailer"
     }
    ],
-   "runtime": "31 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt35949226/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35949226/img",
-   "id": "tt35949226",
+   "background": "https://images.metahub.space/background/medium/tt13210838/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13210838/img",
+   "awards": "Won 1 Primetime Emmy. 4 wins & 30 nominations total",
+   "id": "tt13210838",
    "genres": [
     "Comédia",
-    "Drama"
+    "Drama",
+    "Crime"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Youth",
-     "ytId": "XwuDMSlErkk"
+     "title": "The Gentlemen",
+     "ytId": "wyEOwHrpZH4"
     }
    ],
    "links": [
     {
-     "name": "Youth",
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13210838"
+    },
+    {
+     "name": "The Gentlemen",
      "category": "share",
-     "url": "https://www.strem.io/s/series/youth-35949226"
+     "url": "https://www.strem.io/s/series/the-gentlemen-13210838"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Comedy",
@@ -1011,19 +941,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Nadia Parkes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nadia%20Parkes"
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Andrea Vasiliou",
+     "name": "Theo James",
      "category": "Cast",
-     "url": "stremio:///search?search=Andrea%20Vasiliou"
+     "url": "stremio:///search?search=Theo%20James"
     },
     {
-     "name": "Sophia Feliciano",
+     "name": "Kaya Scodelario",
      "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Feliciano"
+     "url": "stremio:///search?search=Kaya%20Scodelario"
+    },
+    {
+     "name": "Joely Richardson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joely%20Richardson"
+    },
+    {
+     "name": "Guy Ritchie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
@@ -1032,7 +972,122 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35949226.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13210838.jpg"
+  },
+  {
+   "name": "Over the Garden Wall",
+   "year": "2014",
+   "runtime": "11 min",
+   "genre": [
+    "Animation",
+    "Short",
+    "Adventure"
+   ],
+   "released": "2014-11-03T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Katie Krentz",
+    "Patrick McHale"
+   ],
+   "cast": [
+    "Elijah Wood",
+    "Collin Dean",
+    "Melanie Lynskey"
+   ],
+   "imdbRating": "8.7",
+   "description": "Algures, perdido nos escuros anais da história, existe um lugar que quase ninguém conhece. Um lugar misterioso, chamado \"O Desconhecido\", onde histórias esquecidas há muito tempo são reveladas àqueles que passeiam pelo bosque. Dois irmãos chamados Wirt e Greg perdem-se no Desconhecido, uma estranha floresta à deriva no tempo. Com a ajuda do Lenhador, um homem muito sombrio, e de Beatriz, um pássaro fêmea de cor azul.",
+   "country": "United States",
+   "awards": "Won 2 Primetime Emmys. 4 wins & 9 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt3718778/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3718778/img",
+   "trailers": [
+    {
+     "source": "36mAsVSH_-s",
+     "type": "Trailer"
+    },
+    {
+     "source": "oAQZB98wewY",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt3718778",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy",
+    "Animação"
+   ],
+   "releaseInfo": "2014",
+   "trailerStreams": [
+    {
+     "title": "Over the Garden Wall",
+     "ytId": "36mAsVSH_-s"
+    },
+    {
+     "title": "Over the Garden Wall",
+     "ytId": "oAQZB98wewY"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3718778"
+    },
+    {
+     "name": "Over the Garden Wall",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/over-the-garden-wall-3718778"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Short",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Short"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Elijah Wood",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elijah%20Wood"
+    },
+    {
+     "name": "Collin Dean",
+     "category": "Cast",
+     "url": "stremio:///search?search=Collin%20Dean"
+    },
+    {
+     "name": "Melanie Lynskey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melanie%20Lynskey"
+    },
+    {
+     "name": "Katie Krentz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katie%20Krentz"
+    },
+    {
+     "name": "Patrick McHale",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20McHale"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3718778.jpg"
   }
  ]
 }

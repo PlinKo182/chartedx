@@ -124,7 +124,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
+   "imdbRating": "7.3"
   },
   {
    "id": "tt43095501",
@@ -226,6 +227,99 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43095501.jpg"
+  },
+  {
+   "name": "The Mongoose",
+   "cast": [
+    "Liam Neeson",
+    "Marisa Tomei",
+    "Michael Chiklis"
+   ],
+   "country": "United States, Australia",
+   "description": "Um herói de guerra falsamente acusado, sem nada a perder, lidera uma perseguição policial épica que atravessa o país, transmitida pela televisão, com a ajuda de membros do seu antigo batalhão das Forças Especiais do Exército e sob a vigilância atenta de um público fascinado que torce pela sua fuga em segurança.",
+   "director": [
+    "Mark Vanselow"
+   ],
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "5.0",
+   "released": "2026-10-30T00:00:00.000Z",
+   "writer": [
+    "Thompson Evans"
+   ],
+   "year": "2026",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "aHrMFtt40_Q",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt13611778/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13611778/img",
+   "id": "tt13611778",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Mongoose",
+     "ytId": "aHrMFtt40_Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Mongoose",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-mongoose-13611778"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Liam Neeson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20Neeson"
+    },
+    {
+     "name": "Marisa Tomei",
+     "category": "Cast",
+     "url": "stremio:///search?search=Marisa%20Tomei"
+    },
+    {
+     "name": "Michael Chiklis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Chiklis"
+    },
+    {
+     "name": "Thompson Evans",
+     "category": "Writers",
+     "url": "stremio:///search?search=Thompson%20Evans"
+    },
+    {
+     "name": "Mark Vanselow",
+     "category": "Directors",
+     "url": "stremio:///search?search=Mark%20Vanselow"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt13611778",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13611778.jpg"
   },
   {
    "awards": null,
@@ -352,97 +446,109 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0044981.jpg"
   },
   {
-   "name": "The Mongoose",
+   "name": "Drive - The Pretenders",
    "cast": [
-    "Liam Neeson",
-    "Marisa Tomei",
-    "Michael Chiklis"
+    "Jeanette Hain",
+    "Misel Maticevic",
+    "Philippe Brenninkmeyer"
    ],
-   "country": "United States, Australia",
-   "description": "Um herói de guerra falsamente acusado, sem nada a perder, lidera uma perseguição policial épica que atravessa o país, transmitida pela televisão, com a ajuda de membros do seu antigo batalhão das Forças Especiais do Exército e sob a vigilância atenta de um público fascinado que torce pela sua fuga em segurança.",
+   "country": "Germany",
+   "description": "Um jovem mecânico de carros de corrida finge um noivado com a estrela mais polémica do automobilismo — oficialmente, para proteger a sua reputação; secretamente, para se garantir uma oportunidade ao volante. Mas, depressa, a mentira ameaça destruir tudo — incluindo aquilo que já se tornou muito mais do que apenas um acordo.",
    "director": [
-    "Mark Vanselow"
+    "Sergej Moya"
    ],
    "genre": [
-    "Action",
-    "Thriller"
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "5.0",
-   "released": "2026-10-30T00:00:00.000Z",
+   "imdbRating": "5.6",
+   "released": "2026-10-28T00:00:00.000Z",
    "writer": [
-    "Thompson Evans"
+    "Tamara Lush",
+    "Malina Nwabuonwor",
+    "Chris Silber"
    ],
    "year": "2026",
-   "runtime": "99 min",
+   "runtime": "102 min",
    "trailers": [
     {
-     "source": "aHrMFtt40_Q",
+     "source": "-sV69CJwUwU",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt13611778/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13611778/img",
-   "id": "tt13611778",
+   "logo": "https://images.metahub.space/logo/medium/tt37180686/img",
+   "background": "https://images.metahub.space/background/medium/tt37180686/img",
+   "id": "tt37180686",
    "genres": [
-    "Ação",
+    "Romance",
     "Thriller"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Mongoose",
-     "ytId": "aHrMFtt40_Q"
+     "title": "Drive - The Pretenders",
+     "ytId": "-sV69CJwUwU"
     }
    ],
    "links": [
     {
-     "name": "The Mongoose",
+     "name": "Drive - The Pretenders",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-mongoose-13611778"
+     "url": "https://www.strem.io/s/movie/drive-the-pretenders-37180686"
     },
     {
-     "name": "Action",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Thriller",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Liam Neeson",
+     "name": "Jeanette Hain",
      "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Neeson"
+     "url": "stremio:///search?search=Jeanette%20Hain"
     },
     {
-     "name": "Marisa Tomei",
+     "name": "Misel Maticevic",
      "category": "Cast",
-     "url": "stremio:///search?search=Marisa%20Tomei"
+     "url": "stremio:///search?search=Misel%20Maticevic"
     },
     {
-     "name": "Michael Chiklis",
+     "name": "Philippe Brenninkmeyer",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Chiklis"
+     "url": "stremio:///search?search=Philippe%20Brenninkmeyer"
     },
     {
-     "name": "Thompson Evans",
+     "name": "Tamara Lush",
      "category": "Writers",
-     "url": "stremio:///search?search=Thompson%20Evans"
+     "url": "stremio:///search?search=Tamara%20Lush"
     },
     {
-     "name": "Mark Vanselow",
+     "name": "Malina Nwabuonwor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Malina%20Nwabuonwor"
+    },
+    {
+     "name": "Chris Silber",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Silber"
+    },
+    {
+     "name": "Sergej Moya",
      "category": "Directors",
-     "url": "stremio:///search?search=Mark%20Vanselow"
+     "url": "stremio:///search?search=Sergej%20Moya"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt13611778",
+    "defaultVideoId": "tt37180686",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13611778.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg"
   },
   {
    "name": "The Terminal List",
@@ -548,111 +654,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
-  },
-  {
-   "name": "Drive - The Pretenders",
-   "cast": [
-    "Jeanette Hain",
-    "Misel Maticevic",
-    "Philippe Brenninkmeyer"
-   ],
-   "country": "Germany",
-   "description": "Um jovem mecânico de carros de corrida finge um noivado com a estrela mais polémica do automobilismo — oficialmente, para proteger a sua reputação; secretamente, para se garantir uma oportunidade ao volante. Mas, depressa, a mentira ameaça destruir tudo — incluindo aquilo que já se tornou muito mais do que apenas um acordo.",
-   "director": [
-    "Sergej Moya"
-   ],
-   "genre": [
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "5.6",
-   "released": "2026-10-28T00:00:00.000Z",
-   "writer": [
-    "Tamara Lush",
-    "Malina Nwabuonwor",
-    "Chris Silber"
-   ],
-   "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
-    {
-     "source": "-sV69CJwUwU",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt37180686/img",
-   "background": "https://images.metahub.space/background/medium/tt37180686/img",
-   "id": "tt37180686",
-   "genres": [
-    "Romance",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Drive - The Pretenders",
-     "ytId": "-sV69CJwUwU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Drive - The Pretenders",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/drive-the-pretenders-37180686"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Jeanette Hain",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeanette%20Hain"
-    },
-    {
-     "name": "Misel Maticevic",
-     "category": "Cast",
-     "url": "stremio:///search?search=Misel%20Maticevic"
-    },
-    {
-     "name": "Philippe Brenninkmeyer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Philippe%20Brenninkmeyer"
-    },
-    {
-     "name": "Tamara Lush",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tamara%20Lush"
-    },
-    {
-     "name": "Malina Nwabuonwor",
-     "category": "Writers",
-     "url": "stremio:///search?search=Malina%20Nwabuonwor"
-    },
-    {
-     "name": "Chris Silber",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Silber"
-    },
-    {
-     "name": "Sergej Moya",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sergej%20Moya"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37180686",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg"
   },
   {
    "name": "Carrie",
@@ -828,104 +829,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34384900.jpg"
   },
   {
-   "name": "Off Campus",
-   "cast": [
-    "Ella Bright",
-    "Belmont Cameli",
-    "Mika Abdalla"
-   ],
-   "country": "United States",
-   "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
-   "genre": [
-    "Drama",
-    "Romance",
-    "Sport"
-   ],
-   "imdbRating": "7.8",
-   "released": "2026-05-13T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "wAozjf2frxw",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Louisa Levy"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33546863/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
-   "awards": "1 win & 3 nominations total",
-   "id": "tt33546863",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Off Campus",
-     "ytId": "wAozjf2frxw"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33546863"
-    },
-    {
-     "name": "Off Campus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/off-campus-33546863"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Ella Bright",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ella%20Bright"
-    },
-    {
-     "name": "Belmont Cameli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Belmont%20Cameli"
-    },
-    {
-     "name": "Mika Abdalla",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mika%20Abdalla"
-    },
-    {
-     "name": "Louisa Levy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Louisa%20Levy"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
-  },
-  {
    "name": "Masterplan",
    "cast": [
     "Stanley Tucci",
@@ -1022,6 +925,104 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+  },
+  {
+   "name": "Off Campus",
+   "cast": [
+    "Ella Bright",
+    "Belmont Cameli",
+    "Mika Abdalla"
+   ],
+   "country": "United States",
+   "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
+   "genre": [
+    "Drama",
+    "Romance",
+    "Sport"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-05-13T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "wAozjf2frxw",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Louisa Levy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33546863/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
+   "awards": "1 win & 3 nominations total",
+   "id": "tt33546863",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Off Campus",
+     "ytId": "wAozjf2frxw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33546863"
+    },
+    {
+     "name": "Off Campus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/off-campus-33546863"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Ella Bright",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ella%20Bright"
+    },
+    {
+     "name": "Belmont Cameli",
+     "category": "Cast",
+     "url": "stremio:///search?search=Belmont%20Cameli"
+    },
+    {
+     "name": "Mika Abdalla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mika%20Abdalla"
+    },
+    {
+     "name": "Louisa Levy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Louisa%20Levy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
   }
  ]
 }
