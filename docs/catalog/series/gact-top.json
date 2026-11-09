@@ -544,60 +544,175 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5622316.jpg"
   },
   {
-   "name": "The Terminal List",
+   "name": "Tulsa King",
    "cast": [
-    "Chris Pratt",
-    "Constance Wu",
-    "Taylor Kitsch"
+    "Sylvester Stallone",
+    "Andrea Savage",
+    "Martin Starr"
    ],
    "country": "United States",
-   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
+   "description": "Pouco depois de ser libertado da prisão após 25 anos, Dwight “The General” Manfredi, chefe da máfia de Nova Iorque, é exilado sem cerimónias pelo seu patrão para se estabelecer em Tulsa, Oklahoma. Apercebendo-se de que a sua família mafiosa pode não ter em mente os seus melhores interesses, Dwight constrói lentamente uma “tripulação” a partir de um grupo de personagens improváveis, para o ajudar a estabelecer um novo império criminoso num lugar que, para ele, pode muito bem ser outro planeta.",
    "genre": [
     "Action",
-    "Drama",
-    "Thriller"
+    "Crime",
+    "Drama"
    ],
    "imdbRating": "7.9",
-   "released": "2022-07-01T00:00:00.000Z",
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
+   "released": "2022-11-13T00:00:00.000Z",
    "writer": [
-    "Jack Carr",
-    "David DiGilio"
+    "Taylor Sheridan"
    ],
-   "background": "https://images.metahub.space/background/medium/tt11743610/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
-   "awards": "3 nominations total",
-   "runtime": "60 min",
+   "year": "2022–",
+   "director": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt16358384/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
+   "runtime": "40 min",
    "trailers": [
     {
-     "source": "x9FvvsC0B5Q",
+     "source": "aaQSScwZPbA",
+     "type": "Trailer"
+    },
+    {
+     "source": "PXd3tO5ITyw",
      "type": "Trailer"
     }
    ],
-   "id": "tt11743610",
+   "awards": "Nominated for 3 Primetime Emmys. 10 nominations total",
+   "id": "tt16358384",
    "genres": [
-    "Action & Adventure",
-    "Drama"
+    "Crime",
+    "Drama",
+    "Comédia"
    ],
    "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "The Terminal List",
-     "ytId": "x9FvvsC0B5Q"
+     "title": "Tulsa King",
+     "ytId": "aaQSScwZPbA"
+    },
+    {
+     "title": "Tulsa King",
+     "ytId": "PXd3tO5ITyw"
     }
    ],
    "links": [
     {
      "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11743610"
+     "url": "https://imdb.com/title/tt16358384"
     },
     {
-     "name": "The Terminal List",
+     "name": "Tulsa King",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+     "url": "https://www.strem.io/s/series/tulsa-king-16358384"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Andrea Savage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrea%20Savage"
+    },
+    {
+     "name": "Martin Starr",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Starr"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg"
+  },
+  {
+   "name": "Lioness",
+   "cast": [
+    "Zoe Saldaña",
+    "Laysla De Oliveira",
+    "Dave Annable"
+   ],
+   "country": "United States",
+   "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.8",
+   "released": "2023-07-23T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "uEjcXhW7CXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "KYoIoCOw-ac",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13111078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
+   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
+   "id": "tt13111078",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "Lioness",
+     "ytId": "uEjcXhW7CXo"
+    },
+    {
+     "title": "Lioness",
+     "ytId": "KYoIoCOw-ac"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13111078"
+    },
+    {
+     "name": "Lioness",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/lioness-13111078"
     },
     {
      "name": "Action",
@@ -615,29 +730,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Chris Pratt",
+     "name": "Zoe Saldaña",
      "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Pratt"
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
     },
     {
-     "name": "Constance Wu",
+     "name": "Laysla De Oliveira",
      "category": "Cast",
-     "url": "stremio:///search?search=Constance%20Wu"
+     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
     },
     {
-     "name": "Taylor Kitsch",
+     "name": "Dave Annable",
      "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kitsch"
+     "url": "stremio:///search?search=Dave%20Annable"
     },
     {
-     "name": "Jack Carr",
+     "name": "Taylor Sheridan",
      "category": "Writers",
-     "url": "stremio:///search?search=Jack%20Carr"
-    },
-    {
-     "name": "David DiGilio",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20DiGilio"
+     "url": "stremio:///search?search=Taylor%20Sheridan"
     }
    ],
    "behaviorHints": {
@@ -646,7 +756,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
   },
   {
    "name": "Lanterns",
@@ -758,6 +868,120 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg"
+  },
+  {
+   "name": "House of the Dragon",
+   "cast": [
+    "Matt Smith",
+    "Emma D&apos;Arcy",
+    "Olivia Cooke"
+   ],
+   "country": "United States",
+   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.2",
+   "released": "2022-08-21T00:00:00.000Z",
+   "writer": [
+    "Ryan J. Condal",
+    "George R.R. Martin"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11198330/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "DotnJ7tTA34",
+     "type": "Trailer"
+    },
+    {
+     "source": "Wg86eQkdudI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11198330",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "House of the Dragon",
+     "ytId": "DotnJ7tTA34"
+    },
+    {
+     "title": "House of the Dragon",
+     "ytId": "Wg86eQkdudI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11198330"
+    },
+    {
+     "name": "House of the Dragon",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Matt Smith",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Smith"
+    },
+    {
+     "name": "Emma D&apos;Arcy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+    },
+    {
+     "name": "Olivia Cooke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olivia%20Cooke"
+    },
+    {
+     "name": "Ryan J. Condal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20J.%20Condal"
+    },
+    {
+     "name": "George R.R. Martin",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
   },
   {
    "name": "Miraculous: Tales of Ladybug & Cat Noir",
@@ -908,176 +1132,83 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2580046.jpg"
   },
   {
-   "name": "Lioness",
+   "name": "Marshals",
    "cast": [
-    "Zoe Saldaña",
-    "Laysla De Oliveira",
-    "Dave Annable"
+    "Luke Grimes",
+    "Ash Santos",
+    "Tatanka Means"
    ],
    "country": "United States",
-   "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
+   "description": "Com o Rancho Yellowstone para trás, Kayce Dutton junta-se aos US Marshals, combinando a sua experiência como cowboy e Navy SEAL para levar justiça a Montana.",
    "genre": [
     "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.8",
-   "released": "2023-07-23T00:00:00.000Z",
-   "writer": [
-    "Taylor Sheridan"
-   ],
-   "year": "2023–",
-   "trailers": [
-    {
-     "source": "uEjcXhW7CXo",
-     "type": "Trailer"
-    },
-    {
-     "source": "KYoIoCOw-ac",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "49 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt13111078/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
-   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
-   "id": "tt13111078",
-   "genres": [
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "Lioness",
-     "ytId": "uEjcXhW7CXo"
-    },
-    {
-     "title": "Lioness",
-     "ytId": "KYoIoCOw-ac"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13111078"
-    },
-    {
-     "name": "Lioness",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/lioness-13111078"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Zoe Saldaña",
-     "category": "Cast",
-     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
-    },
-    {
-     "name": "Laysla De Oliveira",
-     "category": "Cast",
-     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
-    },
-    {
-     "name": "Dave Annable",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dave%20Annable"
-    },
-    {
-     "name": "Taylor Sheridan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Taylor%20Sheridan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
-  },
-  {
-   "name": "House of the Dragon",
-   "cast": [
-    "Matt Smith",
-    "Emma D&apos;Arcy",
-    "Olivia Cooke"
-   ],
-   "country": "United States",
-   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
-   "genre": [
-    "Action",
-    "Adventure",
+    "Crime",
     "Drama"
    ],
-   "imdbRating": "8.2",
-   "released": "2022-08-21T00:00:00.000Z",
+   "imdbRating": "6.2",
+   "released": "2026-03-01T00:00:00.000Z",
    "writer": [
-    "Ryan J. Condal",
-    "George R.R. Martin"
+    "Spencer Hudnut"
    ],
-   "year": "2022–",
+   "year": "2026–",
+   "runtime": "43 min",
    "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt11198330/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
-   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
-   "runtime": "60 min",
    "trailers": [
     {
-     "source": "DotnJ7tTA34",
+     "source": "FGKuQa6ulEQ",
      "type": "Trailer"
     },
     {
-     "source": "Wg86eQkdudI",
+     "source": "s5WxYvJeAOY",
+     "type": "Trailer"
+    },
+    {
+     "source": "PTba3cSdvv4",
+     "type": "Trailer"
+    },
+    {
+     "source": "g0BmwQvmZ1E",
      "type": "Trailer"
     }
    ],
-   "id": "tt11198330",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt36849871/img",
+   "logo": "https://images.metahub.space/logo/medium/tt36849871/img",
+   "id": "tt36849871",
    "genres": [
-    "Sci-Fi & Fantasy",
     "Drama",
+    "Crime",
     "Action & Adventure"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "House of the Dragon",
-     "ytId": "DotnJ7tTA34"
+     "title": "Marshals",
+     "ytId": "FGKuQa6ulEQ"
     },
     {
-     "title": "House of the Dragon",
-     "ytId": "Wg86eQkdudI"
+     "title": "Marshals",
+     "ytId": "s5WxYvJeAOY"
+    },
+    {
+     "title": "Marshals",
+     "ytId": "PTba3cSdvv4"
+    },
+    {
+     "title": "Marshals",
+     "ytId": "g0BmwQvmZ1E"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "6.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11198330"
+     "url": "https://imdb.com/title/tt36849871"
     },
     {
-     "name": "House of the Dragon",
+     "name": "Marshals",
      "category": "share",
-     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+     "url": "https://www.strem.io/s/series/marshals-36849871"
     },
     {
      "name": "Action",
@@ -1085,9 +1216,9 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Adventure",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -1095,29 +1226,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Matt Smith",
+     "name": "Luke Grimes",
      "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Smith"
+     "url": "stremio:///search?search=Luke%20Grimes"
     },
     {
-     "name": "Emma D&apos;Arcy",
+     "name": "Ash Santos",
      "category": "Cast",
-     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+     "url": "stremio:///search?search=Ash%20Santos"
     },
     {
-     "name": "Olivia Cooke",
+     "name": "Tatanka Means",
      "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Cooke"
+     "url": "stremio:///search?search=Tatanka%20Means"
     },
     {
-     "name": "Ryan J. Condal",
+     "name": "Spencer Hudnut",
      "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20J.%20Condal"
-    },
-    {
-     "name": "George R.R. Martin",
-     "category": "Writers",
-     "url": "stremio:///search?search=George%20R.R.%20Martin"
+     "url": "stremio:///search?search=Spencer%20Hudnut"
     }
    ],
    "behaviorHints": {
@@ -1126,93 +1252,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
-  },
-  {
-   "name": "The Pitt",
-   "imdbRating": "8.9",
-   "cast": [
-    "Noah Wyle",
-    "Patrick Ball",
-    "Katherine LaNasa"
-   ],
-   "country": "United States",
-   "description": "O Centro Médico de Traumatologia de Pittsburgh trabalha 24 horas por dia para salvar vidas num serviço de urgências sobrelotado e com poucos fundos.",
-   "director": null,
-   "genre": [
-    "Drama"
-   ],
-   "released": "2025-01-09T00:00:00.000Z",
-   "writer": [
-    "R. Scott Gemmill"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "ufR_08V38sQ",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "48 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31938062/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31938062/img",
-   "awards": "Won 9 Primetime Emmys. 53 wins & 86 nominations total",
-   "id": "tt31938062",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Pitt",
-     "ytId": "ufR_08V38sQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31938062"
-    },
-    {
-     "name": "The Pitt",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-pitt-31938062"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Noah Wyle",
-     "category": "Cast",
-     "url": "stremio:///search?search=Noah%20Wyle"
-    },
-    {
-     "name": "Patrick Ball",
-     "category": "Cast",
-     "url": "stremio:///search?search=Patrick%20Ball"
-    },
-    {
-     "name": "Katherine LaNasa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Katherine%20LaNasa"
-    },
-    {
-     "name": "R. Scott Gemmill",
-     "category": "Writers",
-     "url": "stremio:///search?search=R.%20Scott%20Gemmill"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31938062.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36849871.jpg"
   }
  ]
 }

@@ -301,7 +301,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-   "imdbRating": "5.7"
+   "imdbRating": "5.6"
   },
   {
    "id": "tt38681812",
@@ -379,38 +379,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
-   "imdbRating": "6.9"
-  },
-  {
-   "status": "Continuing",
-   "id": "tt36458668",
-   "name": "Dead-End Job",
-   "releaseInfo": "2026",
-   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
-   "language": "Korean",
-   "country": "South Korea",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "cast": [
-    "Lee Jae-wook",
-    "Go Min-si",
-    "Kim Min-ha",
-    "Lee Hee-jun",
-    "Yoon Byung-hee",
-    "Cho Hyun-chul",
-    "Choi Hyun-wook",
-    "Yoon Kyung-ho"
-   ],
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
-   "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "imdbRating": "7.0"
+   "imdbRating": "7.2"
   },
   {
    "name": "Nobody Wants This",
@@ -510,6 +479,128 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
+  },
+  {
+   "status": "Continuing",
+   "id": "tt36458668",
+   "name": "Dead-End Job",
+   "releaseInfo": "2026",
+   "description": "Um jovem endividado é atraído por uma agência estranha com a promessa de trabalhos lucrativos, mas acaba entrando para um mundo infernal de terror e imprevisibilidade.",
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "cast": [
+    "Lee Jae-wook",
+    "Go Min-si",
+    "Kim Min-ha",
+    "Lee Hee-jun",
+    "Yoon Byung-hee",
+    "Cho Hyun-chul",
+    "Choi Hyun-wook",
+    "Yoon Kyung-ho"
+   ],
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "imdbRating": "7.0"
+  },
+  {
+   "name": "Dragon Ball Super: Beerus",
+   "cast": [
+    "Kôichi Yamadera",
+    "Masako Nozawa",
+    "Ryô Horikawa"
+   ],
+   "country": "Japan",
+   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
+   "genre": [
+    "Animation"
+   ],
+   "imdbRating": "9.0",
+   "released": null,
+   "year": "2026–",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "iCD3Lf7Jf9o",
+     "type": "Trailer"
+    },
+    {
+     "source": "Tf4wBaSj7SE",
+     "type": "Trailer"
+    },
+    {
+     "source": "Plp6IJ9utjU",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
+   "background": "https://images.metahub.space/background/medium/tt39395275/img",
+   "id": "tt39395275",
+   "genres": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "iCD3Lf7Jf9o"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Tf4wBaSj7SE"
+    },
+    {
+     "title": "Dragon Ball Super: Beerus",
+     "ytId": "Plp6IJ9utjU"
+    }
+   ],
+   "links": [
+    {
+     "name": "Dragon Ball Super: Beerus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Kôichi Yamadera",
+     "category": "Cast",
+     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
+    },
+    {
+     "name": "Masako Nozawa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Masako%20Nozawa"
+    },
+    {
+     "name": "Ryô Horikawa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
   },
   {
    "id": "tt44941753",

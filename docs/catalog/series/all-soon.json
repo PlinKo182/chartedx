@@ -1,22 +1,6 @@
 {
  "metas": [
   {
-   "status": "Continuing",
-   "id": "tt47596905",
-   "name": "Doozie's Doghouse",
-   "releaseInfo": "2026–",
-   "description": "Doozie is pinching into her very own Doghouse for some puppy-riffic adventures with her best pup Puggie and all her Doozie Dogs.",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47596905.jpg"
-  },
-  {
    "id": "tt18246842",
    "logo": "https://live.metahub.space/logo/medium/tt18246842/img",
    "background": "https://live.metahub.space/background/medium/tt18246842/img",
@@ -2521,6 +2505,105 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39954367.jpg"
+  },
+  {
+   "name": "Bad Monkey",
+   "cast": [
+    "Vince Vaughn",
+    "Natalie Martinez",
+    "L. Scott Caldwell"
+   ],
+   "description": "Um detetive que se tornou inspetor de restauração no sul da Florida é atraído para um mundo de ganância e corrupção depois de um turista encontrar um braço cortado enquanto pescava. E, sim, há um macaco.",
+   "genre": [
+    "Comedy",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "7.4",
+   "released": "2024-08-14T00:00:00.000Z",
+   "writer": [
+    "Bill Lawrence"
+   ],
+   "year": "2024–",
+   "runtime": "46 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "RokJ4M2UjNc",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt15203646/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15203646/img",
+   "country": "United States",
+   "awards": "3 nominations total",
+   "id": "tt15203646",
+   "genres": [
+    "Comédia",
+    "Crime"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Bad Monkey",
+     "ytId": "RokJ4M2UjNc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt15203646"
+    },
+    {
+     "name": "Bad Monkey",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/bad-monkey-15203646"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Vince Vaughn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vince%20Vaughn"
+    },
+    {
+     "name": "Natalie Martinez",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalie%20Martinez"
+    },
+    {
+     "name": "L. Scott Caldwell",
+     "category": "Cast",
+     "url": "stremio:///search?search=L.%20Scott%20Caldwell"
+    },
+    {
+     "name": "Bill Lawrence",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bill%20Lawrence"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15203646.jpg"
   }
  ]
 }
