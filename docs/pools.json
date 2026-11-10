@@ -31,26 +31,6 @@
    "rise": 0
   },
   {
-   "title": "Lupin",
-   "imdbId": "tt2531336",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 2,
-   "rise": 0
-  },
-  {
-   "title": "Tony",
-   "imdbId": "tt33095251",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 3,
-   "rise": 0
-  },
-  {
    "title": "MobLand",
    "imdbId": "tt31510819",
    "kind": "SHOW",
@@ -58,8 +38,8 @@
     "sst",
     "sml"
    ],
-   "rank": 3,
-   "rise": 0
+   "rank": 2,
+   "rise": 1
   },
   {
    "title": "Twisters",
@@ -72,8 +52,30 @@
     "wki",
     "amz"
    ],
-   "rank": 4,
+   "rank": 3,
+   "rise": 1
+  },
+  {
+   "title": "Lupin",
+   "imdbId": "tt2531336",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 3,
    "rise": 0
+  },
+  {
+   "title": "Todo lo que nunca fuimos",
+   "imdbId": "tt37284855",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "fip",
+    "wki"
+   ],
+   "rank": 4,
+   "rise": 447
   },
   {
    "title": "Black Doves",
@@ -86,35 +88,39 @@
    "rise": 0
   },
   {
-   "title": "The Mongoose",
-   "imdbId": "tt13611778",
+   "title": "I Swear",
+   "imdbId": "tt31514146",
    "kind": "MOVIE",
    "pk": [
-    "prv"
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
    ],
    "rank": 5,
-   "rise": 5
+   "rise": 79
   },
   {
-   "title": "The Diplomat",
-   "imdbId": "tt17491088",
+   "title": "Slow Horses",
+   "imdbId": "tt5875444",
    "kind": "SHOW",
+   "pk": [
+    "prv",
+    "atp",
+    "avl"
+   ],
+   "rank": 5,
+   "rise": 1
+  },
+  {
+   "title": "Minha Melhor Amiga",
+   "imdbId": "tt37458193",
+   "kind": "MOVIE",
    "pk": [
     "nfx"
    ],
-   "rank": 5,
-   "rise": 5
-  },
-  {
-   "title": "Sorry, Baby",
-   "imdbId": "tt32843349",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "wki"
-   ],
    "rank": 6,
-   "rise": 8
+   "rise": 1
   },
   {
    "title": "The Institute",
@@ -127,36 +133,39 @@
    "rise": 1
   },
   {
-   "title": "Minha Melhor Amiga",
-   "imdbId": "tt37458193",
+   "title": "Sorry, Baby",
+   "imdbId": "tt32843349",
    "kind": "MOVIE",
    "pk": [
-    "nfx"
+    "mxx",
+    "wki"
    ],
    "rank": 7,
-   "rise": 0
+   "rise": 7
   },
   {
-   "title": "Slow Horses",
-   "imdbId": "tt5875444",
+   "title": "Lioness",
+   "imdbId": "tt13111078",
    "kind": "SHOW",
    "pk": [
-    "prv",
-    "atp",
-    "avl"
+    "sst",
+    "sml"
    ],
    "rank": 7,
-   "rise": 0
+   "rise": 40
   },
   {
-   "title": "The Whisper Man",
-   "imdbId": "tt11561116",
+   "title": "The Gentlemen",
+   "imdbId": "tt8367814",
    "kind": "MOVIE",
    "pk": [
-    "nfx"
+    "prv",
+    "wki",
+    "itu",
+    "amz"
    ],
    "rank": 8,
-   "rise": 9
+   "rise": 49
   },
   {
    "title": "Nocturne",
@@ -180,14 +189,14 @@
    "rise": 2
   },
   {
-   "title": "Crystal Lake",
-   "imdbId": "tt23148340",
+   "title": "The Diplomat",
+   "imdbId": "tt17491088",
    "kind": "SHOW",
    "pk": [
-    "mxx"
+    "nfx"
    ],
    "rank": 9,
-   "rise": 8
+   "rise": 1
   },
   {
    "title": "The Hunger Games: Mockingjay - Part 1",
@@ -202,30 +211,6 @@
    "rise": 12
   },
   {
-   "title": "VisionQuest",
-   "imdbId": "tt23112594",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 10,
-   "rise": 0
-  },
-  {
-   "title": "The Hunger Games",
-   "imdbId": "tt1392170",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "prv",
-    "alg",
-    "itu",
-    "amz"
-   ],
-   "rank": 11,
-   "rise": 2
-  },
-  {
    "title": "Dexter: Resurrection",
    "imdbId": "tt33043892",
    "kind": "SHOW",
@@ -233,8 +218,48 @@
     "sst",
     "sml"
    ],
+   "rank": 10,
+   "rise": 12
+  },
+  {
+   "title": "Masterplan",
+   "imdbId": "tt38672588",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
    "rank": 11,
-   "rise": 11
+   "rise": 163
+  },
+  {
+   "title": "Crystal Lake",
+   "imdbId": "tt23148340",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 11,
+   "rise": 6
+  },
+  {
+   "title": "The Mongoose",
+   "imdbId": "tt13611778",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
+   "rank": 12,
+   "rise": 0
+  },
+  {
+   "title": "VisionQuest",
+   "imdbId": "tt23112594",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 12,
+   "rise": 0
   },
   {
    "title": "Clean",
@@ -243,31 +268,8 @@
    "pk": [
     "prv"
    ],
-   "rank": 12,
-   "rise": 52
-  },
-  {
-   "title": "Carrie",
-   "imdbId": "tt11540908",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 12,
-   "rise": 0
-  },
-  {
-   "title": "I Swear",
-   "imdbId": "tt31514146",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu",
-    "wki",
-    "amz"
-   ],
    "rank": 13,
-   "rise": 71
+   "rise": 51
   },
   {
    "title": "The Rainmaker",
@@ -281,94 +283,28 @@
    "rise": 8
   },
   {
-   "title": "The Hunger Games: Catching Fire",
-   "imdbId": "tt1951264",
+   "title": "The Hunger Games",
+   "imdbId": "tt1392170",
    "kind": "MOVIE",
    "pk": [
     "nfx",
     "prv",
     "alg",
-    "itu"
-   ],
-   "rank": 14,
-   "rise": 39
-  },
-  {
-   "title": "Palace",
-   "imdbId": "tt37762350",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 14,
-   "rise": 0
-  },
-  {
-   "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-   "imdbId": "tt10545296",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu"
-   ],
-   "rank": 15,
-   "rise": 4
-  },
-  {
-   "title": "Lioness",
-   "imdbId": "tt13111078",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ],
-   "rank": 15,
-   "rise": 32
-  },
-  {
-   "title": "Weapons",
-   "imdbId": "tt26581740",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "wki",
     "itu",
     "amz"
    ],
-   "rank": 16,
-   "rise": 32
-  },
-  {
-   "title": "9-1-1",
-   "imdbId": "tt7235466",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 16,
+   "rank": 14,
    "rise": 0
   },
   {
-   "title": "Animals",
-   "imdbId": "tt31049299",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 17,
-   "rise": 21
-  },
-  {
-   "title": "Tulsa King",
-   "imdbId": "tt16358384",
+   "title": "The Terminal List",
+   "imdbId": "tt11743610",
    "kind": "SHOW",
    "pk": [
-    "sst",
-    "sml",
-    "amz"
+    "prv"
    ],
-   "rank": 17,
-   "rise": 0
+   "rank": 14,
+   "rise": 9
   },
   {
    "title": "Project Hail Mary",
@@ -380,20 +316,40 @@
     "wki",
     "amz"
    ],
-   "rank": 18,
+   "rank": 15,
    "rise": 0
   },
   {
-   "title": "Dragon Ball Super: Beerus",
-   "imdbId": "tt39395275",
+   "title": "FROM",
+   "imdbId": "tt9813792",
+   "kind": "SHOW",
+   "pk": [
+    "mxx",
+    "amz"
+   ],
+   "rank": 15,
+   "rise": 12
+  },
+  {
+   "title": "Tony",
+   "imdbId": "tt33095251",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
+   "rank": 16,
+   "rise": 0
+  },
+  {
+   "title": "East of Eden",
+   "imdbId": "tt21097264",
    "kind": "SHOW",
    "pk": [
     "nfx",
-    "cru",
-    "cra"
+    "sic"
    ],
-   "rank": 18,
-   "rise": 0
+   "rank": 16,
+   "rise": 2
   },
   {
    "title": "The Drama",
@@ -406,8 +362,29 @@
     "fip",
     "wki"
    ],
-   "rank": 19,
-   "rise": 9
+   "rank": 17,
+   "rise": 11
+  },
+  {
+   "title": "Carrie",
+   "imdbId": "tt11540908",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 17,
+   "rise": 0
+  },
+  {
+   "title": "The Butterfly Effect",
+   "imdbId": "tt0289879",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu"
+   ],
+   "rank": 18,
+   "rise": 0
   },
   {
    "title": "Cidade de Deus: A Luta Não Para",
@@ -416,22 +393,46 @@
    "pk": [
     "mxx"
    ],
+   "rank": 18,
+   "rise": 0
+  },
+  {
+   "title": "Spider-Man: No Way Home",
+   "imdbId": "tt10872600",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "mxx",
+    "itu",
+    "amz"
+   ],
+   "rank": 19,
+   "rise": 68
+  },
+  {
+   "title": "Dragon Ball Super: Beerus",
+   "imdbId": "tt39395275",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "cru",
+    "cra"
+   ],
    "rank": 19,
    "rise": 0
   },
   {
-   "title": "Dune",
-   "imdbId": "tt1160419",
+   "title": "Weapons",
+   "imdbId": "tt26581740",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "mxx",
-    "itu",
+    "nfx",
     "wki",
+    "itu",
     "amz"
    ],
    "rank": 20,
-   "rise": 1
+   "rise": 28
   },
   {
    "title": "Ted Lasso",
@@ -445,161 +446,24 @@
    "rise": 11
   },
   {
-   "title": "Super Troopers 3",
-   "imdbId": "tt8820258",
+   "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+   "imdbId": "tt10545296",
    "kind": "MOVIE",
    "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 21,
-   "rise": 30
-  },
-  {
-   "title": "East of Eden",
-   "imdbId": "tt21097264",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "sic"
+    "prv",
+    "itu"
    ],
    "rank": 21,
    "rise": 0
   },
   {
-   "title": "Spider-Man: No Way Home",
-   "imdbId": "tt10872600",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "mxx",
-    "itu",
-    "amz"
-   ],
-   "rank": 22,
-   "rise": 65
-  },
-  {
-   "title": "The Terminal List",
-   "imdbId": "tt11743610",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 22,
-   "rise": 1
-  },
-  {
-   "title": "Harry Potter and the Philosopher's Stone",
-   "imdbId": "tt0241527",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "mxx",
-    "itu",
-    "wki"
-   ],
-   "rank": 23,
-   "rise": 7
-  },
-  {
-   "title": "The Lord of the Rings: The Rings of Power",
-   "imdbId": "tt7631058",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 23,
-   "rise": 1
-  },
-  {
-   "title": "Sinners",
-   "imdbId": "tt31193180",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "wki",
-    "itu",
-    "amz"
-   ],
-   "rank": 24,
-   "rise": 20
-  },
-  {
-   "title": "Nobody Wants This",
-   "imdbId": "tt26933824",
+   "title": "Palace",
+   "imdbId": "tt37762350",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ],
-   "rank": 24,
-   "rise": 0
-  },
-  {
-   "title": "The Way of the Gun",
-   "imdbId": "tt0202677",
-   "kind": "MOVIE",
-   "pk": [
-    "wki",
-    "alg",
-    "itu",
-    "amz"
-   ],
-   "rank": 25,
-   "rise": 78
-  },
-  {
-   "title": "The Gift of Deceit",
-   "imdbId": "tt45854934",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 25,
-   "rise": 294
-  },
-  {
-   "title": "Enemy",
-   "imdbId": "tt2316411",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki"
-   ],
-   "rank": 26,
-   "rise": 60
-  },
-  {
-   "title": "FROM",
-   "imdbId": "tt9813792",
-   "kind": "SHOW",
-   "pk": [
-    "mxx",
-    "amz"
-   ],
-   "rank": 26,
-   "rise": 1
-  },
-  {
-   "title": "The Love Hypothesis",
-   "imdbId": "tt22526100",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 27,
-   "rise": 29
-  },
-  {
-   "title": "9-1-1: Nashville",
-   "imdbId": "tt33550053",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 27,
+   "rank": 21,
    "rise": 0
   },
   {
@@ -612,97 +476,94 @@
     "itu",
     "amz"
    ],
-   "rank": 28,
-   "rise": 143
+   "rank": 22,
+   "rise": 149
   },
   {
-   "title": "Dead-End Job",
-   "imdbId": "tt36458668",
+   "title": "9-1-1",
+   "imdbId": "tt7235466",
    "kind": "SHOW",
    "pk": [
-    "nfx"
+    "dnp"
    ],
-   "rank": 28,
-   "rise": 14
-  },
-  {
-   "title": "Tenzing",
-   "imdbId": "tt6262770",
-   "kind": "MOVIE",
-   "pk": [
-    "atp",
-    "avl"
-   ],
-   "rank": 29,
+   "rank": 22,
    "rise": 0
   },
   {
-   "title": "YAGA",
-   "imdbId": "tt39980704",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 29,
-   "rise": 1
-  },
-  {
-   "title": "Collision Course",
-   "imdbId": "tt38793125",
+   "title": "Super Troopers 3",
+   "imdbId": "tt8820258",
    "kind": "MOVIE",
    "pk": [
-    "nfx"
-   ],
-   "rank": 30,
-   "rise": 35
-  },
-  {
-   "title": "Silo",
-   "imdbId": "tt14688458",
-   "kind": "SHOW",
-   "pk": [
-    "atp",
-    "avl"
-   ],
-   "rank": 30,
-   "rise": 13
-  },
-  {
-   "title": "In the Grey",
-   "imdbId": "tt27681354",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "fip",
+    "dnp",
     "itu",
     "wki",
     "amz"
    ],
-   "rank": 31,
-   "rise": 0
+   "rank": 23,
+   "rise": 28
   },
   {
-   "title": "Jujutsu Kaisen",
-   "imdbId": "tt12343534",
+   "title": "The Lord of the Rings: The Rings of Power",
+   "imdbId": "tt7631058",
    "kind": "SHOW",
-   "pk": [
-    "cra",
-    "nfx",
-    "prv",
-    "cru"
-   ],
-   "rank": 31,
-   "rise": 136
-  },
-  {
-   "title": "The Life of Chuck",
-   "imdbId": "tt12908150",
-   "kind": "MOVIE",
    "pk": [
     "prv"
    ],
-   "rank": 32,
+   "rank": 23,
+   "rise": 1
+  },
+  {
+   "title": "The Way of the Gun",
+   "imdbId": "tt0202677",
+   "kind": "MOVIE",
+   "pk": [
+    "wki",
+    "alg",
+    "itu",
+    "amz"
+   ],
+   "rank": 24,
+   "rise": 79
+  },
+  {
+   "title": "The Remarried Empress",
+   "imdbId": "tt39325975",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 24,
+   "rise": 17
+  },
+  {
+   "title": "Meu Sangue Ferve por Você",
+   "imdbId": "tt9125246",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 25,
+   "rise": 499
+  },
+  {
+   "title": "Nobody Wants This",
+   "imdbId": "tt26933824",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 25,
    "rise": 0
+  },
+  {
+   "title": "Animals",
+   "imdbId": "tt31049299",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 26,
+   "rise": 12
   },
   {
    "title": "The Gilded Age",
@@ -711,64 +572,69 @@
    "pk": [
     "mxx"
    ],
-   "rank": 32,
+   "rank": 26,
+   "rise": 3
+  },
+  {
+   "title": "Last Night of Amore",
+   "imdbId": "tt20465746",
+   "kind": "MOVIE",
+   "pk": [
+    "rtp",
+    "fil"
+   ],
+   "rank": 27,
+   "rise": 3346
+  },
+  {
+   "title": "Tulsa King",
+   "imdbId": "tt16358384",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml",
+    "amz"
+   ],
+   "rank": 27,
    "rise": 0
   },
   {
-   "title": "A Dog's Perfect Christmas",
-   "imdbId": "tt38515310",
+   "title": "Dune",
+   "imdbId": "tt1160419",
    "kind": "MOVIE",
    "pk": [
-    "nfx"
-   ],
-   "rank": 33,
-   "rise": 48
-  },
-  {
-   "title": "Shingeki no Kyojin",
-   "imdbId": "tt2560140",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "cru",
-    "cra",
-    "prv"
-   ],
-   "rank": 33,
-   "rise": 17
-  },
-  {
-   "title": "Portrait of a Lady on Fire",
-   "imdbId": "tt8613070",
-   "kind": "MOVIE",
-   "pk": [
-    "fil"
-   ],
-   "rank": 34,
-   "rise": 32
-  },
-  {
-   "title": "Phony",
-   "imdbId": "tt21952924",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 34,
-   "rise": 6
-  },
-  {
-   "title": "The Five-Year Engagement",
-   "imdbId": "tt1195478",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
+    "prv",
+    "mxx",
     "itu",
     "wki",
     "amz"
    ],
-   "rank": 35,
+   "rank": 28,
    "rise": 0
+  },
+  {
+   "title": "Stick",
+   "imdbId": "tt31710249",
+   "kind": "SHOW",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 28,
+   "rise": 0
+  },
+  {
+   "title": "Sinners",
+   "imdbId": "tt31193180",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "wki",
+    "itu",
+    "amz"
+   ],
+   "rank": 29,
+   "rise": 15
   },
   {
    "title": "Dark Matter",
@@ -778,8 +644,78 @@
     "atp",
     "avl"
    ],
-   "rank": 35,
-   "rise": 1
+   "rank": 29,
+   "rise": 7
+  },
+  {
+   "title": "Harry Potter and the Philosopher's Stone",
+   "imdbId": "tt0241527",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "mxx",
+    "itu",
+    "wki"
+   ],
+   "rank": 30,
+   "rise": 0
+  },
+  {
+   "title": "Ghosts",
+   "imdbId": "tt11379026",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "plx"
+   ],
+   "rank": 30,
+   "rise": 2
+  },
+  {
+   "title": "Past Lives",
+   "imdbId": "tt13238346",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "wki"
+   ],
+   "rank": 31,
+   "rise": 348
+  },
+  {
+   "title": "The Rookie",
+   "imdbId": "tt7587890",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "dnp",
+    "amz",
+    "alg"
+   ],
+   "rank": 31,
+   "rise": 4
+  },
+  {
+   "title": "Supergirl",
+   "imdbId": "tt8814476",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "itu",
+    "amz"
+   ],
+   "rank": 32,
+   "rise": 0
+  },
+  {
+   "title": "Dead-End Job",
+   "imdbId": "tt36458668",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 32,
+   "rise": 10
   },
   {
    "title": "Dune: Part Two",
@@ -792,19 +728,199 @@
     "amz",
     "wki"
    ],
-   "rank": 36,
-   "rise": 28
+   "rank": 33,
+   "rise": 32
   },
   {
-   "title": "Stick",
-   "imdbId": "tt31710249",
+   "title": "Silo",
+   "imdbId": "tt14688458",
    "kind": "SHOW",
    "pk": [
     "atp",
     "avl"
    ],
+   "rank": 33,
+   "rise": 10
+  },
+  {
+   "title": "In the Heart of the Sea",
+   "imdbId": "tt1390411",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 34,
+   "rise": 314
+  },
+  {
+   "title": "Small Prophets",
+   "imdbId": "tt38504111",
+   "kind": "SHOW",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 34,
+   "rise": 0
+  },
+  {
+   "title": "Tenzing",
+   "imdbId": "tt6262770",
+   "kind": "MOVIE",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 35,
+   "rise": 0
+  },
+  {
+   "title": "Widow's Bay",
+   "imdbId": "tt33332385",
+   "kind": "SHOW",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 35,
+   "rise": 10
+  },
+  {
+   "title": "Enemy",
+   "imdbId": "tt2316411",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki"
+   ],
+   "rank": 36,
+   "rise": 50
+  },
+  {
+   "title": "American Horror Story",
+   "imdbId": "tt1844624",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
    "rank": 36,
    "rise": 0
+  },
+  {
+   "title": "The Hunger Games: Catching Fire",
+   "imdbId": "tt1951264",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "prv",
+    "alg",
+    "itu"
+   ],
+   "rank": 37,
+   "rise": 16
+  },
+  {
+   "title": "The Mentalist",
+   "imdbId": "tt1196946",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "prv"
+   ],
+   "rank": 37,
+   "rise": 12
+  },
+  {
+   "title": "Homesick",
+   "imdbId": "tt3166500",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 38,
+   "rise": 45
+  },
+  {
+   "title": "Game of Thrones",
+   "imdbId": "tt0944947",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 38,
+   "rise": 6
+  },
+  {
+   "title": "The Whale",
+   "imdbId": "tt13833688",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "wki"
+   ],
+   "rank": 39,
+   "rise": 333
+  },
+  {
+   "title": "12 Monkeys",
+   "imdbId": "tt3148266",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml",
+    "amz"
+   ],
+   "rank": 39,
+   "rise": 166
+  },
+  {
+   "title": "Idiocracy",
+   "imdbId": "tt0387808",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 40,
+   "rise": 90
+  },
+  {
+   "title": "Shingeki no Kyojin",
+   "imdbId": "tt2560140",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "cru",
+    "cra",
+    "prv"
+   ],
+   "rank": 40,
+   "rise": 10
+  },
+  {
+   "title": "Drive - The Pretenders",
+   "imdbId": "tt37180686",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
+   "rank": 41,
+   "rise": 0
+  },
+  {
+   "title": "The Rehearsal",
+   "imdbId": "tt10802170",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 41,
+   "rise": 48
   },
   {
    "title": "Gail Daughtry and the Celebrity Sex Pass",
@@ -816,7 +932,7 @@
     "itu",
     "wki"
    ],
-   "rank": 37,
+   "rank": 42,
    "rise": 0
   },
   {
@@ -826,139 +942,7 @@
    "pk": [
     "nfx"
    ],
-   "rank": 37,
-   "rise": 0
-  },
-  {
-   "title": "Toy Story 5",
-   "imdbId": "tt29355505",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 38,
-   "rise": 0
-  },
-  {
-   "title": "The Rookie",
-   "imdbId": "tt7587890",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "dnp",
-    "amz",
-    "alg"
-   ],
-   "rank": 38,
-   "rise": 0
-  },
-  {
-   "title": "Homesick",
-   "imdbId": "tt3166500",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 39,
-   "rise": 43
-  },
-  {
-   "title": "Small Prophets",
-   "imdbId": "tt38504111",
-   "kind": "SHOW",
-   "pk": [
-    "atp",
-    "avl"
-   ],
-   "rank": 39,
-   "rise": 0
-  },
-  {
-   "title": "Unabomber",
-   "imdbId": "tt6933238",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 40,
-   "rise": 52
-  },
-  {
-   "title": "Off Campus",
-   "imdbId": "tt33546863",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 40,
-   "rise": 17
-  },
-  {
-   "title": "The Butterfly Effect",
-   "imdbId": "tt0289879",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu"
-   ],
-   "rank": 41,
-   "rise": 0
-  },
-  {
-   "title": "American Horror Story",
-   "imdbId": "tt1844624",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 41,
-   "rise": 0
-  },
-  {
-   "title": "Last Night of Amore",
-   "imdbId": "tt20465746",
-   "kind": "MOVIE",
-   "pk": [
-    "rtp",
-    "fil"
-   ],
    "rank": 42,
-   "rise": 3330
-  },
-  {
-   "title": "Game of Thrones",
-   "imdbId": "tt0944947",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 42,
-   "rise": 2
-  },
-  {
-   "title": "Supergirl",
-   "imdbId": "tt8814476",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "itu",
-    "amz"
-   ],
-   "rank": 43,
-   "rise": 0
-  },
-  {
-   "title": "Ghosts",
-   "imdbId": "tt11379026",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "plx"
-   ],
-   "rank": 43,
    "rise": 0
   },
   {
@@ -968,41 +952,79 @@
    "pk": [
     "amu"
    ],
-   "rank": 44,
+   "rank": 43,
+   "rise": 17
+  },
+  {
+   "title": "Off Campus",
+   "imdbId": "tt33546863",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 43,
    "rise": 14
   },
   {
-   "title": "The Mentalist",
-   "imdbId": "tt1196946",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "prv"
-   ],
-   "rank": 44,
-   "rise": 5
-  },
-  {
-   "title": "Dracula: A Love Tale",
-   "imdbId": "tt31434030",
+   "title": "Collision Course",
+   "imdbId": "tt38793125",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "wki"
+    "nfx"
    ],
-   "rank": 45,
-   "rise": 2
+   "rank": 44,
+   "rise": 22
   },
   {
-   "title": "Widow's Bay",
-   "imdbId": "tt33332385",
+   "title": "Below",
+   "imdbId": "tt35934755",
    "kind": "SHOW",
    "pk": [
-    "atp",
-    "avl"
+    "nfx"
+   ],
+   "rank": 44,
+   "rise": 0
+  },
+  {
+   "title": "A Dog's Perfect Christmas",
+   "imdbId": "tt38515310",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
    ],
    "rank": 45,
-   "rise": 0
+   "rise": 36
+  },
+  {
+   "title": "The Dropout",
+   "imdbId": "tt10166622",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 45,
+   "rise": 21
+  },
+  {
+   "title": "The Sheep Detectives",
+   "imdbId": "tt32565993",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
+   "rank": 46,
+   "rise": 28
+  },
+  {
+   "title": "Lanterns",
+   "imdbId": "tt26545992",
+   "kind": "SHOW",
+   "pk": [
+    "mxx",
+    "amz"
+   ],
+   "rank": 46,
+   "rise": 6
   },
   {
    "title": "Interstellar",
@@ -1016,18 +1038,128 @@
     "wki",
     "amz"
    ],
-   "rank": 46,
+   "rank": 47,
    "rise": 21
   },
   {
-   "title": "Below",
-   "imdbId": "tt35934755",
+   "title": "A Couple of Lies",
+   "imdbId": "tt42767924",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ],
-   "rank": 46,
+   "rank": 47,
+   "rise": 9
+  },
+  {
+   "title": "Unabomber",
+   "imdbId": "tt6933238",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 48,
+   "rise": 44
+  },
+  {
+   "title": "Sons of Anarchy",
+   "imdbId": "tt1124373",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 48,
+   "rise": 12
+  },
+  {
+   "title": "Marty Supreme",
+   "imdbId": "tt32916440",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu",
+    "amz",
+    "fip",
+    "wki"
+   ],
+   "rank": 49,
    "rise": 0
+  },
+  {
+   "title": "Phony",
+   "imdbId": "tt21952924",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 49,
+   "rise": 0
+  },
+  {
+   "title": "O Agente Secreto",
+   "imdbId": "tt27847051",
+   "kind": "MOVIE",
+   "pk": [
+    "fil",
+    "mxx"
+   ],
+   "rank": 50,
+   "rise": 0
+  },
+  {
+   "title": "House of the Dragon",
+   "imdbId": "tt11198330",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 50,
+   "rise": 9
+  },
+  {
+   "title": "The Love Hypothesis",
+   "imdbId": "tt22526100",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
+   "rank": 51,
+   "rise": 4
+  },
+  {
+   "title": "YAGA",
+   "imdbId": "tt39980704",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 51,
+   "rise": 0
+  },
+  {
+   "title": "Skyfall",
+   "imdbId": "tt1074638",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 52,
+   "rise": 49
+  },
+  {
+   "title": "Chicago P.D.",
+   "imdbId": "tt2805096",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "amz",
+    "nfx"
+   ],
+   "rank": 52,
+   "rise": 64
   },
   {
    "title": "A Time to Kill",
@@ -1038,17 +1170,39 @@
     "wki",
     "amz"
    ],
-   "rank": 47,
+   "rank": 53,
    "rise": 0
   },
   {
-   "title": "Steal",
-   "imdbId": "tt32499731",
+   "title": "The Pitt",
+   "imdbId": "tt31938062",
    "kind": "SHOW",
    "pk": [
-    "prv"
+    "mxx"
    ],
-   "rank": 47,
+   "rank": 53,
+   "rise": 8
+  },
+  {
+   "title": "Escape from Pretoria",
+   "imdbId": "tt5797184",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "amz",
+    "wki"
+   ],
+   "rank": 54,
+   "rise": 307
+  },
+  {
+   "title": "Grey's Anatomy",
+   "imdbId": "tt0413573",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 54,
    "rise": 0
   },
   {
@@ -1060,73 +1214,31 @@
     "itu",
     "amz"
    ],
-   "rank": 48,
-   "rise": 22
+   "rank": 55,
+   "rise": 16
   },
   {
-   "title": "The Remarried Empress",
-   "imdbId": "tt39325975",
+   "title": "Dexter",
+   "imdbId": "tt0773262",
    "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 48,
-   "rise": 0
-  },
-  {
-   "title": "In the Heart of the Sea",
-   "imdbId": "tt1390411",
-   "kind": "MOVIE",
    "pk": [
     "nfx",
-    "itu",
-    "wki",
-    "amz"
+    "sst"
    ],
-   "rank": 49,
-   "rise": 297
-  },
-  {
-   "title": "House of the Dragon",
-   "imdbId": "tt11198330",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 49,
-   "rise": 10
-  },
-  {
-   "title": "The Wonder",
-   "imdbId": "tt9288822",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 50,
+   "rank": 55,
    "rise": 0
   },
   {
-   "title": "Lanterns",
-   "imdbId": "tt26545992",
-   "kind": "SHOW",
-   "pk": [
-    "mxx",
-    "amz"
-   ],
-   "rank": 50,
-   "rise": 2
-  },
-  {
-   "title": "The Whale",
-   "imdbId": "tt13833688",
+   "title": "Mrs. Doubtfire",
+   "imdbId": "tt0107614",
    "kind": "MOVIE",
    "pk": [
-    "mxx",
-    "wki"
+    "dnp",
+    "itu",
+    "amz"
    ],
-   "rank": 51,
-   "rise": 319
+   "rank": 56,
+   "rise": 2212
   },
   {
    "title": "Reacher",
@@ -1135,49 +1247,73 @@
    "pk": [
     "prv"
    ],
-   "rank": 51,
+   "rank": 56,
    "rise": 0
   },
   {
-   "title": "Incendies",
-   "imdbId": "tt1255953",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "fil"
-   ],
-   "rank": 52,
-   "rise": 1
-  },
-  {
-   "title": "Grey's Anatomy",
-   "imdbId": "tt0413573",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 52,
-   "rise": 0
-  },
-  {
-   "title": "Meu Sangue Ferve por Você",
-   "imdbId": "tt9125246",
+   "title": "Apex",
+   "imdbId": "tt16431404",
    "kind": "MOVIE",
    "pk": [
     "nfx"
    ],
-   "rank": 53,
-   "rise": 469
+   "rank": 57,
+   "rise": 61
   },
   {
-   "title": "100 Days of Deception",
-   "imdbId": "tt39201866",
+   "title": "Friends",
+   "imdbId": "tt0108778",
    "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "mxx",
+    "amz"
+   ],
+   "rank": 57,
+   "rise": 12
+  },
+  {
+   "title": "The Wonder",
+   "imdbId": "tt9288822",
+   "kind": "MOVIE",
    "pk": [
     "nfx"
    ],
-   "rank": 53,
+   "rank": 58,
+   "rise": 0
+  },
+  {
+   "title": "Final Table",
+   "imdbId": "tt49692512",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 58,
+   "rise": 0
+  },
+  {
+   "title": "In Bruges",
+   "imdbId": "tt0780536",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml",
+    "itu",
+    "amz"
+   ],
+   "rank": 59,
    "rise": 11
+  },
+  {
+   "title": "Love Is Blind",
+   "imdbId": "tt11704040",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 59,
+   "rise": 253
   },
   {
    "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -1190,64 +1326,202 @@
     "amz",
     "wki"
    ],
-   "rank": 54,
-   "rise": 14
+   "rank": 60,
+   "rise": 9
   },
   {
-   "title": "The Pitt",
-   "imdbId": "tt31938062",
+   "title": "Neagley",
+   "imdbId": "tt33539520",
    "kind": "SHOW",
    "pk": [
-    "mxx"
+    "prv"
    ],
-   "rank": 54,
-   "rise": 7
+   "rank": 60,
+   "rise": 41
   },
   {
-   "title": "Todo lo que nunca fuimos",
-   "imdbId": "tt37284855",
+   "title": "Incendies",
+   "imdbId": "tt1255953",
    "kind": "MOVIE",
    "pk": [
-    "mxx",
-    "fip",
-    "wki"
+    "prv",
+    "fil"
    ],
-   "rank": 55,
-   "rise": 394
+   "rank": 61,
+   "rise": 0
   },
   {
-   "title": "Outlander",
-   "imdbId": "tt3006802",
+   "title": "Marshals",
+   "imdbId": "tt36849871",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml",
+    "amz"
+   ],
+   "rank": 61,
+   "rise": 52
+  },
+  {
+   "title": "Toy Story 5",
+   "imdbId": "tt29355505",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 62,
+   "rise": 0
+  },
+  {
+   "title": "The Legend of Vox Machina",
+   "imdbId": "tt11247158",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 62,
+   "rise": 486
+  },
+  {
+   "title": "Once Upon a Time in… Hollywood",
+   "imdbId": "tt7131622",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "mxx",
+    "amz",
+    "itu",
+    "wki"
+   ],
+   "rank": 63,
+   "rise": 70
+  },
+  {
+   "title": "Will Trent",
+   "imdbId": "tt17543592",
    "kind": "SHOW",
    "pk": [
     "nfx",
-    "amz"
+    "dnp"
    ],
-   "rank": 55,
-   "rise": 7
+   "rank": 63,
+   "rise": 33
   },
   {
-   "title": "In Bruges",
-   "imdbId": "tt0780536",
+   "title": "Final Destination 3",
+   "imdbId": "tt0414982",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "mxx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 64,
+   "rise": 816
+  },
+  {
+   "title": "The Americans",
+   "imdbId": "tt2149175",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 64,
+   "rise": 12
+  },
+  {
+   "title": "Unprotected: Murder in Galicia",
+   "imdbId": "tt48500521",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 65,
+   "rise": 122
+  },
+  {
+   "title": "Furious",
+   "imdbId": "tt36303968",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 65,
+   "rise": 0
+  },
+  {
+   "title": "Bugonia",
+   "imdbId": "tt12300742",
    "kind": "MOVIE",
    "pk": [
     "sst",
     "sml",
+    "wki",
     "itu",
     "amz"
    ],
-   "rank": 56,
-   "rise": 13
+   "rank": 66,
+   "rise": 31
   },
   {
-   "title": "A Couple of Lies",
-   "imdbId": "tt42767924",
+   "title": "Aoashi",
+   "imdbId": "tt15792808",
+   "kind": "SHOW",
+   "pk": [
+    "cru",
+    "cra"
+   ],
+   "rank": 66,
+   "rise": 748
+  },
+  {
+   "title": "Dracula: A Love Tale",
+   "imdbId": "tt31434030",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki"
+   ],
+   "rank": 67,
+   "rise": 0
+  },
+  {
+   "title": "9-1-1: Nashville",
+   "imdbId": "tt33550053",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 67,
+   "rise": 0
+  },
+  {
+   "title": "The Five-Year Engagement",
+   "imdbId": "tt1195478",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 68,
+   "rise": 0
+  },
+  {
+   "title": "Monster: The Lizzie Borden Story",
+   "imdbId": "tt13207736",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ],
-   "rank": 56,
-   "rise": 0
+   "rank": 68,
+   "rise": 144
   },
   {
    "title": "Memento",
@@ -1256,62 +1530,18 @@
    "pk": [
     "fil"
    ],
-   "rank": 57,
-   "rise": 65
+   "rank": 69,
+   "rise": 53
   },
   {
-   "title": "Dexter",
-   "imdbId": "tt0773262",
+   "title": "The Sopranos",
+   "imdbId": "tt0141842",
    "kind": "SHOW",
    "pk": [
-    "nfx",
-    "sst"
+    "mxx"
    ],
-   "rank": 57,
-   "rise": 0
-  },
-  {
-   "title": "The Sheep Detectives",
-   "imdbId": "tt32565993",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 58,
-   "rise": 15
-  },
-  {
-   "title": "MEGASTORM",
-   "imdbId": "tt50707598",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 58,
-   "rise": 0
-  },
-  {
-   "title": "The Gentlemen",
-   "imdbId": "tt8367814",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "itu",
-    "amz"
-   ],
-   "rank": 59,
-   "rise": 0
-  },
-  {
-   "title": "Final Table",
-   "imdbId": "tt49692512",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 59,
-   "rise": 0
+   "rank": 69,
+   "rise": 25
   },
   {
    "title": "Green Room",
@@ -1321,82 +1551,67 @@
     "fil",
     "amz"
    ],
-   "rank": 60,
-   "rise": 28
+   "rank": 70,
+   "rise": 18
   },
   {
-   "title": "Friends",
-   "imdbId": "tt0108778",
+   "title": "The Curse",
+   "imdbId": "tt13623608",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ],
+   "rank": 70,
+   "rise": 75
+  },
+  {
+   "title": "Black Bag",
+   "imdbId": "tt30988739",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu",
+    "amz",
+    "wki"
+   ],
+   "rank": 71,
+   "rise": 68
+  },
+  {
+   "title": "Brooklyn Nine-Nine",
+   "imdbId": "tt2467372",
    "kind": "SHOW",
    "pk": [
     "nfx",
-    "mxx",
-    "amz"
+    "sst",
+    "amz",
+    "sml"
    ],
-   "rank": 60,
-   "rise": 9
+   "rank": 71,
+   "rise": 83
   },
   {
-   "title": "O Agente Secreto",
-   "imdbId": "tt27847051",
+   "title": "Perfect Days",
+   "imdbId": "tt27503384",
    "kind": "MOVIE",
    "pk": [
-    "fil",
-    "mxx"
+    "prv",
+    "fil"
    ],
-   "rank": 61,
-   "rise": 0
+   "rank": 72,
+   "rise": 27
   },
   {
-   "title": "Sons of Anarchy",
-   "imdbId": "tt1124373",
+   "title": "Shining Girls",
+   "imdbId": "tt2953250",
    "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 61,
-   "rise": 0
-  },
-  {
-   "title": "Matchbox the Movie",
-   "imdbId": "tt28498219",
-   "kind": "MOVIE",
    "pk": [
     "atp",
     "avl"
    ],
-   "rank": 62,
-   "rise": 10
-  },
-  {
-   "title": "The Americans",
-   "imdbId": "tt2149175",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 62,
-   "rise": 14
-  },
-  {
-   "title": "Apocalypse Z: New World",
-   "imdbId": "tt37522541",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 63,
-   "rise": 14
-  },
-  {
-   "title": "Furious",
-   "imdbId": "tt36303968",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 63,
-   "rise": 0
+   "rank": 72,
+   "rise": 493
   },
   {
    "title": "Good Will Hunting",
@@ -1410,55 +1625,8 @@
     "itu",
     "amz"
    ],
-   "rank": 64,
-   "rise": 45
-  },
-  {
-   "title": "Marshals",
-   "imdbId": "tt36849871",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml",
-    "amz"
-   ],
-   "rank": 64,
-   "rise": 49
-  },
-  {
-   "title": "Burn After Reading",
-   "imdbId": "tt0887883",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "fil",
-    "amz"
-   ],
-   "rank": 65,
-   "rise": 169
-  },
-  {
-   "title": "The Dropout",
-   "imdbId": "tt10166622",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 65,
-   "rise": 1
-  },
-  {
-   "title": "V for Vendetta",
-   "imdbId": "tt0434409",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 66,
-   "rise": 9
+   "rank": 73,
+   "rise": 37
   },
   {
    "title": "One Piece",
@@ -1468,68 +1636,89 @@
     "cra",
     "cru"
    ],
-   "rank": 66,
-   "rise": 4
+   "rank": 73,
+   "rise": 0
   },
   {
-   "title": "Skyfall",
-   "imdbId": "tt1074638",
+   "title": "The Mandalorian and Grogu",
+   "imdbId": "tt30825738",
    "kind": "MOVIE",
    "pk": [
-    "prv",
+    "dnp",
     "itu",
     "wki",
     "amz"
    ],
-   "rank": 67,
-   "rise": 32
+   "rank": 74,
+   "rise": 0
   },
   {
-   "title": "Will Trent",
-   "imdbId": "tt17543592",
+   "title": "Jujutsu Kaisen",
+   "imdbId": "tt12343534",
    "kind": "SHOW",
    "pk": [
+    "cra",
     "nfx",
-    "dnp"
+    "prv",
+    "cru"
    ],
-   "rank": 67,
-   "rise": 29
+   "rank": 74,
+   "rise": 93
   },
   {
-   "title": "Once Upon a Time in… Hollywood",
-   "imdbId": "tt7131622",
+   "title": "F1",
+   "imdbId": "tt16311594",
+   "kind": "MOVIE",
+   "pk": [
+    "atp",
+    "avl",
+    "itu",
+    "amz",
+    "wki"
+   ],
+   "rank": 75,
+   "rise": 83
+  },
+  {
+   "title": "Abbott Elementary",
+   "imdbId": "tt14218830",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 75,
+   "rise": 0
+  },
+  {
+   "title": "Balas & Bolinhos",
+   "imdbId": "tt0414850",
    "kind": "MOVIE",
    "pk": [
     "prv",
-    "mxx",
-    "amz",
-    "itu",
-    "wki"
-   ],
-   "rank": 68,
-   "rise": 63
-  },
-  {
-   "title": "The Sopranos",
-   "imdbId": "tt0141842",
-   "kind": "SHOW",
-   "pk": [
     "mxx"
    ],
-   "rank": 68,
-   "rise": 26
+   "rank": 76,
+   "rise": 0
   },
   {
-   "title": "Christmas in Love",
-   "imdbId": "tt9033712",
+   "title": "Love in Disguise",
+   "imdbId": "tt45246384",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 76,
+   "rise": 79
+  },
+  {
+   "title": "Leave the World Behind",
+   "imdbId": "tt12747748",
    "kind": "MOVIE",
    "pk": [
-    "nfx",
-    "sst",
-    "sml"
+    "nfx"
    ],
-   "rank": 69,
-   "rise": 245
+   "rank": 77,
+   "rise": 191
   },
   {
    "title": "Cyberpunk: Edgerunners",
@@ -1538,7 +1727,28 @@
    "pk": [
     "nfx"
    ],
-   "rank": 69,
+   "rank": 77,
+   "rise": 0
+  },
+  {
+   "title": "Matchbox the Movie",
+   "imdbId": "tt28498219",
+   "kind": "MOVIE",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 78,
+   "rise": 0
+  },
+  {
+   "title": "True Detective",
+   "imdbId": "tt2356777",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 78,
    "rise": 0
   },
   {
@@ -1551,96 +1761,8 @@
     "wki",
     "amz"
    ],
-   "rank": 70,
-   "rise": 50
-  },
-  {
-   "title": "Criminal Minds",
-   "imdbId": "tt0460633",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 70,
-   "rise": 22
-  },
-  {
-   "title": "Perfect Days",
-   "imdbId": "tt27503384",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "fil"
-   ],
-   "rank": 71,
-   "rise": 27
-  },
-  {
-   "title": "The Rehearsal",
-   "imdbId": "tt10802170",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 71,
-   "rise": 18
-  },
-  {
-   "title": "A Quiet Place",
-   "imdbId": "tt6644200",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "dnp",
-    "itu",
-    "amz"
-   ],
-   "rank": 72,
-   "rise": 36
-  },
-  {
-   "title": "True Detective",
-   "imdbId": "tt2356777",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 72,
-   "rise": 2
-  },
-  {
-   "title": "365 dni",
-   "imdbId": "tt10886166",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 73,
-   "rise": 68
-  },
-  {
-   "title": "Twin Peaks",
-   "imdbId": "tt0098936",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ],
-   "rank": 73,
-   "rise": 0
-  },
-  {
-   "title": "Heat",
-   "imdbId": "tt0113277",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "itu",
-    "amz"
-   ],
-   "rank": 74,
-   "rise": 0
+   "rank": 79,
+   "rise": 41
   },
   {
    "title": "Breaking Bad",
@@ -1650,506 +1772,18 @@
     "nfx",
     "amz"
    ],
-   "rank": 74,
-   "rise": 4
-  },
-  {
-   "title": "The Mandalorian and Grogu",
-   "imdbId": "tt30825738",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 75,
+   "rank": 79,
    "rise": 0
   },
   {
-   "title": "The Bear",
-   "imdbId": "tt14452776",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 75,
-   "rise": 7
-  },
-  {
-   "title": "Sunshine",
-   "imdbId": "tt0448134",
+   "title": "Apocalypse Z: New World",
+   "imdbId": "tt37522541",
    "kind": "MOVIE",
    "pk": [
-    "atp",
-    "dnp",
-    "avl",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 76,
-   "rise": 39
-  },
-  {
-   "title": "Abbott Elementary",
-   "imdbId": "tt14218830",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 76,
-   "rise": 0
-  },
-  {
-   "title": "Black Swan",
-   "imdbId": "tt0947798",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 77,
-   "rise": 33
-  },
-  {
-   "title": "Aoashi",
-   "imdbId": "tt15792808",
-   "kind": "SHOW",
-   "pk": [
-    "cru",
-    "cra"
-   ],
-   "rank": 77,
-   "rise": 737
-  },
-  {
-   "title": "Bugonia",
-   "imdbId": "tt12300742",
-   "kind": "MOVIE",
-   "pk": [
-    "sst",
-    "sml",
-    "wki",
-    "itu",
-    "amz"
-   ],
-   "rank": 78,
-   "rise": 17
-  },
-  {
-   "title": "The Walking Dead",
-   "imdbId": "tt1520211",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "prv",
-    "dnp"
-   ],
-   "rank": 78,
-   "rise": 26
-  },
-  {
-   "title": "Apex",
-   "imdbId": "tt16431404",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 79,
-   "rise": 37
-  },
-  {
-   "title": "The Curse",
-   "imdbId": "tt13623608",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ],
-   "rank": 79,
-   "rise": 66
-  },
-  {
-   "title": "Mrs. Doubtfire",
-   "imdbId": "tt0107614",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "amz"
+    "prv"
    ],
    "rank": 80,
-   "rise": 2186
-  },
-  {
-   "title": "North of North",
-   "imdbId": "tt27370649",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 80,
-   "rise": 1
-  },
-  {
-   "title": "Escape from Pretoria",
-   "imdbId": "tt5797184",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "amz",
-    "wki"
-   ],
-   "rank": 81,
-   "rise": 278
-  },
-  {
-   "title": "Chicago Med",
-   "imdbId": "tt4655480",
-   "kind": "SHOW",
-   "pk": [
-    "amz",
-    "prv"
-   ],
-   "rank": 81,
    "rise": 0
-  },
-  {
-   "title": "A Story of Derry",
-   "imdbId": "tt50426072",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 82,
-   "rise": 50
-  },
-  {
-   "title": "The Lowdown",
-   "imdbId": "tt31289994",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 82,
-   "rise": 0
-  },
-  {
-   "title": "Fight Club",
-   "imdbId": "tt0137523",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "wki",
-    "amz"
-   ],
-   "rank": 83,
-   "rise": 10
-  },
-  {
-   "title": "Georgie & Mandy's First Marriage",
-   "imdbId": "tt31589662",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 83,
-   "rise": 3
-  },
-  {
-   "title": "Nosferatu",
-   "imdbId": "tt5040012",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 84,
-   "rise": 59
-  },
-  {
-   "title": "Supernatural",
-   "imdbId": "tt0460681",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "mxx"
-   ],
-   "rank": 84,
-   "rise": 18
-  },
-  {
-   "title": "Ali G: Who Iz I?",
-   "imdbId": "tt43655467",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 85,
-   "rise": 0
-  },
-  {
-   "title": "Law & Order: Special Victims Unit",
-   "imdbId": "tt0203259",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "amz",
-    "nfx",
-    "dnp",
-    "sst",
-    "sml"
-   ],
-   "rank": 85,
-   "rise": 0
-  },
-  {
-   "title": "One Battle After Another",
-   "imdbId": "tt30144839",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "fip",
-    "wki",
-    "itu",
-    "amz"
-   ],
-   "rank": 86,
-   "rise": 0
-  },
-  {
-   "title": "All's Fair",
-   "imdbId": "tt30291387",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ],
-   "rank": 86,
-   "rise": 9
-  },
-  {
-   "title": "A Working Man",
-   "imdbId": "tt9150192",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 87,
-   "rise": 46
-  },
-  {
-   "title": "Avatar: Seven Havens",
-   "imdbId": "tt35854736",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ],
-   "rank": 87,
-   "rise": 20
-  },
-  {
-   "title": "The Matrix",
-   "imdbId": "tt0133093",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 88,
-   "rise": 0
-  },
-  {
-   "title": "Babylon Berlin",
-   "imdbId": "tt4378376",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 88,
-   "rise": 0
-  },
-  {
-   "title": "Black Bag",
-   "imdbId": "tt30988739",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu",
-    "amz",
-    "wki"
-   ],
-   "rank": 89,
-   "rise": 49
-  },
-  {
-   "title": "The X-Files",
-   "imdbId": "tt0106179",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "dnp"
-   ],
-   "rank": 89,
-   "rise": 28
-  },
-  {
-   "title": "In the Lost Lands",
-   "imdbId": "tt4419684",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki"
-   ],
-   "rank": 90,
-   "rise": 0
-  },
-  {
-   "title": "NCIS",
-   "imdbId": "tt0364845",
-   "kind": "SHOW",
-   "pk": [
-    "dnp",
-    "prv",
-    "sst",
-    "sml"
-   ],
-   "rank": 90,
-   "rise": 25
-  },
-  {
-   "title": "Eyes Wide Shut",
-   "imdbId": "tt0120663",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 91,
-   "rise": 51
-  },
-  {
-   "title": "Neagley",
-   "imdbId": "tt33539520",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 91,
-   "rise": 10
-  },
-  {
-   "title": "Meet the Parents",
-   "imdbId": "tt0212338",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "sst",
-    "mxx",
-    "sml",
-    "amz",
-    "itu"
-   ],
-   "rank": 92,
-   "rise": 36
-  },
-  {
-   "title": "The Last of Us",
-   "imdbId": "tt3581920",
-   "kind": "SHOW",
-   "pk": [
-    "mxx",
-    "amz"
-   ],
-   "rank": 92,
-   "rise": 38
-  },
-  {
-   "title": "Spectral",
-   "imdbId": "tt2106651",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 93,
-   "rise": 44
-  },
-  {
-   "title": "The Chosen",
-   "imdbId": "tt5622316",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 93,
-   "rise": 0
-  },
-  {
-   "title": "Balas & Bolinhos - O Regresso",
-   "imdbId": "tt0414851",
-   "kind": "MOVIE",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 94,
-   "rise": 0
-  },
-  {
-   "title": "Fargo",
-   "imdbId": "tt2802850",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ],
-   "rank": 94,
-   "rise": 18
-  },
-  {
-   "title": "The Hunger Games: Mockingjay - Part 2",
-   "imdbId": "tt1951266",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ],
-   "rank": 95,
-   "rise": 32
-  },
-  {
-   "title": "The Big Bang Theory",
-   "imdbId": "tt0898266",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 95,
-   "rise": 11
-  },
-  {
-   "title": "Top Gun: Maverick",
-   "imdbId": "tt1745960",
-   "kind": "MOVIE",
-   "pk": [
-    "sst",
-    "sml",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 96,
-   "rise": 87
   },
   {
    "title": "Alice in Borderland",
@@ -2158,59 +1792,8 @@
    "pk": [
     "nfx"
    ],
-   "rank": 96,
-   "rise": 356
-  },
-  {
-   "title": "Marty Supreme",
-   "imdbId": "tt32916440",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu",
-    "amz",
-    "fip",
-    "wki"
-   ],
-   "rank": 97,
-   "rise": 0
-  },
-  {
-   "title": "Chicago P.D.",
-   "imdbId": "tt2805096",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "amz",
-    "nfx"
-   ],
-   "rank": 97,
-   "rise": 19
-  },
-  {
-   "title": "Inception",
-   "imdbId": "tt1375666",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ],
-   "rank": 98,
-   "rise": 68
-  },
-  {
-   "title": "Severance",
-   "imdbId": "tt11280740",
-   "kind": "SHOW",
-   "pk": [
-    "atp",
-    "avl"
-   ],
-   "rank": 98,
-   "rise": 1
+   "rank": 80,
+   "rise": 372
   },
   {
    "title": "Ready Player One",
@@ -2226,32 +1809,363 @@
     "amz",
     "wki"
    ],
-   "rank": 99,
-   "rise": 256
+   "rank": 81,
+   "rise": 273
   },
   {
-   "title": "Anaesthesia",
-   "imdbId": "tt38681812",
+   "title": "Twin Peaks",
+   "imdbId": "tt0098936",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ],
+   "rank": 81,
+   "rise": 0
+  },
+  {
+   "title": "Top Gun: Maverick",
+   "imdbId": "tt1745960",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 82,
+   "rise": 100
+  },
+  {
+   "title": "The Walking Dead",
+   "imdbId": "tt1520211",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "prv",
+    "dnp"
+   ],
+   "rank": 82,
+   "rise": 22
+  },
+  {
+   "title": "A Story of Derry",
+   "imdbId": "tt50426072",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 83,
+   "rise": 49
+  },
+  {
+   "title": "Supernatural",
+   "imdbId": "tt0460681",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "mxx"
+   ],
+   "rank": 83,
+   "rise": 19
+  },
+  {
+   "title": "Sunshine",
+   "imdbId": "tt0448134",
+   "kind": "MOVIE",
+   "pk": [
+    "atp",
+    "dnp",
+    "avl",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 84,
+   "rise": 31
+  },
+  {
+   "title": "100 Days of Deception",
+   "imdbId": "tt39201866",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ],
-   "rank": 99,
+   "rank": 84,
    "rise": 0
   },
   {
-   "title": "Final Destination 3",
-   "imdbId": "tt0414982",
+   "title": "A Quiet Place",
+   "imdbId": "tt6644200",
    "kind": "MOVIE",
    "pk": [
     "nfx",
+    "dnp",
+    "itu",
+    "amz"
+   ],
+   "rank": 85,
+   "rise": 23
+  },
+  {
+   "title": "Avatar: Seven Havens",
+   "imdbId": "tt35854736",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ],
+   "rank": 85,
+   "rise": 22
+  },
+  {
+   "title": "Heat",
+   "imdbId": "tt0113277",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki",
+    "itu",
+    "amz"
+   ],
+   "rank": 86,
+   "rise": 0
+  },
+  {
+   "title": "Parks and Recreation",
+   "imdbId": "tt1266020",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "amz"
+   ],
+   "rank": 86,
+   "rise": 49
+  },
+  {
+   "title": "Case 137",
+   "imdbId": "tt34794183",
+   "kind": "MOVIE",
+   "pk": [
+    "fil"
+   ],
+   "rank": 87,
+   "rise": 444
+  },
+  {
+   "title": "The Bear",
+   "imdbId": "tt14452776",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 87,
+   "rise": 0
+  },
+  {
+   "title": "V for Vendetta",
+   "imdbId": "tt0434409",
+   "kind": "MOVIE",
+   "pk": [
     "mxx",
     "itu",
     "wki",
     "amz"
    ],
-   "rank": 100,
-   "rise": 779
+   "rank": 88,
+   "rise": 0
+  },
+  {
+   "title": "Law & Order: Special Victims Unit",
+   "imdbId": "tt0203259",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "amz",
+    "nfx",
+    "dnp",
+    "sst",
+    "sml"
+   ],
+   "rank": 88,
+   "rise": 0
+  },
+  {
+   "title": "Travis: The True Story of Travis Walton",
+   "imdbId": "tt4762684",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "jfb",
+    "mgl",
+    "fmz",
+    "plx",
+    "itu"
+   ],
+   "rank": 89,
+   "rise": 0
+  },
+  {
+   "title": "The Lowdown",
+   "imdbId": "tt31289994",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 89,
+   "rise": 0
+  },
+  {
+   "title": "Erin Brockovich",
+   "imdbId": "tt0195685",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 90,
+   "rise": 0
+  },
+  {
+   "title": "North of North",
+   "imdbId": "tt27370649",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ],
+   "rank": 90,
+   "rise": 0
+  },
+  {
+   "title": "Toy Story",
+   "imdbId": "tt0114709",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 91,
+   "rise": 583
+  },
+  {
+   "title": "All's Fair",
+   "imdbId": "tt30291387",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 91,
+   "rise": 4
+  },
+  {
+   "title": "Eyes Wide Shut",
+   "imdbId": "tt0120663",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "mxx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 92,
+   "rise": 50
+  },
+  {
+   "title": "Georgie & Mandy's First Marriage",
+   "imdbId": "tt31589662",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 92,
+   "rise": 0
+  },
+  {
+   "title": "Inception",
+   "imdbId": "tt1375666",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "mxx",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 93,
+   "rise": 72
+  },
+  {
+   "title": "Mr. Robot",
+   "imdbId": "tt4158110",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "sst",
+    "sml",
+    "amz"
+   ],
+   "rank": 93,
+   "rise": 31
+  },
+  {
+   "title": "Balas & Bolinhos - O Regresso",
+   "imdbId": "tt0414851",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 94,
+   "rise": 0
+  },
+  {
+   "title": "Los Hilos del Miedo",
+   "imdbId": "tt43707668",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 94,
+   "rise": 473
+  },
+  {
+   "title": "The Nice Guys",
+   "imdbId": "tt3799694",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "mxx",
+    "wki"
+   ],
+   "rank": 95,
+   "rise": 0
+  },
+  {
+   "title": "Severance",
+   "imdbId": "tt11280740",
+   "kind": "SHOW",
+   "pk": [
+    "atp",
+    "avl"
+   ],
+   "rank": 95,
+   "rise": 4
+  },
+  {
+   "title": "1408",
+   "imdbId": "tt0450385",
+   "kind": "MOVIE",
+   "pk": [
+    "alg",
+    "amz"
+   ],
+   "rank": 96,
+   "rise": 29
   },
   {
    "title": "Youth",
@@ -2260,8 +2174,107 @@
    "pk": [
     "mxx"
    ],
-   "rank": 100,
+   "rank": 96,
+   "rise": 1
+  },
+  {
+   "title": "In the Grey",
+   "imdbId": "tt27681354",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "fip",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 97,
    "rise": 0
+  },
+  {
+   "title": "The X-Files",
+   "imdbId": "tt0106179",
+   "kind": "SHOW",
+   "pk": [
+    "prv",
+    "dnp"
+   ],
+   "rank": 97,
+   "rise": 20
+  },
+  {
+   "title": "One Battle After Another",
+   "imdbId": "tt30144839",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "fip",
+    "wki",
+    "itu",
+    "amz"
+   ],
+   "rank": 98,
+   "rise": 0
+  },
+  {
+   "title": "The Simpsons",
+   "imdbId": "tt0096697",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ],
+   "rank": 98,
+   "rise": 33
+  },
+  {
+   "title": "Three Billboards Outside Ebbing, Missouri",
+   "imdbId": "tt5027774",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 99,
+   "rise": 79
+  },
+  {
+   "title": "Fargo",
+   "imdbId": "tt2802850",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ],
+   "rank": 99,
+   "rise": 13
+  },
+  {
+   "title": "Being John Malkovich",
+   "imdbId": "tt0120601",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml",
+    "itu",
+    "wki",
+    "amz"
+   ],
+   "rank": 100,
+   "rise": 207
+  },
+  {
+   "title": "NCIS",
+   "imdbId": "tt0364845",
+   "kind": "SHOW",
+   "pk": [
+    "dnp",
+    "prv",
+    "sst",
+    "sml"
+   ],
+   "rank": 100,
+   "rise": 15
   }
  ],
  "WEEKLY": [
@@ -3151,17 +3164,16 @@
    "rise": 0
   },
   {
-   "title": "V for Vendetta",
-   "imdbId": "tt0434409",
+   "title": "mother!",
+   "imdbId": "tt5109784",
    "kind": "MOVIE",
    "pk": [
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
+    "dnp",
+    "amz",
+    "itu"
    ],
    "rank": 41,
-   "rise": 197
+   "rise": 536
   },
   {
    "title": "Miraculous: Les aventures de Ladybug et Chat Noir",
@@ -3196,16 +3208,17 @@
    "rise": 40
   },
   {
-   "title": "mother!",
-   "imdbId": "tt5109784",
+   "title": "V for Vendetta",
+   "imdbId": "tt0434409",
    "kind": "MOVIE",
    "pk": [
-    "dnp",
-    "amz",
-    "itu"
+    "mxx",
+    "itu",
+    "wki",
+    "amz"
    ],
    "rank": 43,
-   "rise": 535
+   "rise": 196
   },
   {
    "title": "Youth",
@@ -3420,16 +3433,15 @@
    "rise": 0
   },
   {
-   "title": "American Beauty",
-   "imdbId": "tt0169547",
+   "title": "Parasite",
+   "imdbId": "tt6751668",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "amz",
-    "itu"
+    "fil",
+    "mxx"
    ],
    "rank": 53,
-   "rise": 533
+   "rise": 355
   },
   {
    "title": "Reacher",
@@ -3442,15 +3454,17 @@
    "rise": 0
   },
   {
-   "title": "Parasite",
-   "imdbId": "tt6751668",
+   "title": "Arrival",
+   "imdbId": "tt2543164",
    "kind": "MOVIE",
    "pk": [
-    "fil",
-    "mxx"
+    "nfx",
+    "amz",
+    "wki",
+    "itu"
    ],
    "rank": 54,
-   "rise": 354
+   "rise": 147
   },
   {
    "title": "FROM",
@@ -3464,17 +3478,17 @@
    "rise": 0
   },
   {
-   "title": "Arrival",
-   "imdbId": "tt2543164",
+   "title": "The Godfather",
+   "imdbId": "tt0068646",
    "kind": "MOVIE",
    "pk": [
-    "nfx",
-    "amz",
-    "wki",
-    "itu"
+    "sst",
+    "sml",
+    "itu",
+    "amz"
    ],
    "rank": 55,
-   "rise": 146
+   "rise": 160
   },
   {
    "title": "Love in Disguise",
@@ -3487,17 +3501,16 @@
    "rise": 22
   },
   {
-   "title": "The Godfather",
-   "imdbId": "tt0068646",
+   "title": "The Silence of the Lambs",
+   "imdbId": "tt0102926",
    "kind": "MOVIE",
    "pk": [
-    "sst",
-    "sml",
+    "mgp",
     "itu",
     "amz"
    ],
    "rank": 56,
-   "rise": 159
+   "rise": 308
   },
   {
    "title": "A Couple of Lies",
@@ -3510,16 +3523,14 @@
    "rise": 45
   },
   {
-   "title": "The Silence of the Lambs",
-   "imdbId": "tt0102926",
+   "title": "A Great Awakening",
+   "imdbId": "tt33305882",
    "kind": "MOVIE",
    "pk": [
-    "mgp",
-    "itu",
-    "amz"
+    "nfx"
    ],
    "rank": 57,
-   "rise": 307
+   "rise": 4154
   },
   {
    "title": "Below",
@@ -3532,14 +3543,16 @@
    "rise": 0
   },
   {
-   "title": "A Great Awakening",
-   "imdbId": "tt33305882",
+   "title": "A Time to Kill",
+   "imdbId": "tt0117913",
    "kind": "MOVIE",
    "pk": [
-    "nfx"
+    "nfx",
+    "wki",
+    "amz"
    ],
    "rank": 58,
-   "rise": 4153
+   "rise": 340
   },
   {
    "title": "Shingeki no Kyojin",
@@ -3555,16 +3568,14 @@
    "rise": 31
   },
   {
-   "title": "A Time to Kill",
-   "imdbId": "tt0117913",
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "imdbId": "tt35298123",
    "kind": "MOVIE",
    "pk": [
-    "nfx",
-    "wki",
-    "amz"
+    "amu"
    ],
    "rank": 59,
-   "rise": 339
+   "rise": 52
   },
   {
    "title": "Where the Mask Ends",
@@ -3577,14 +3588,16 @@
    "rise": 38
   },
   {
-   "title": "Teenage Sex and Death at Camp Miasma",
-   "imdbId": "tt35298123",
+   "title": "The Departed",
+   "imdbId": "tt0407887",
    "kind": "MOVIE",
    "pk": [
-    "amu"
+    "prv",
+    "itu",
+    "amz"
    ],
    "rank": 60,
-   "rise": 51
+   "rise": 162
   },
   {
    "title": "ER",
@@ -3597,16 +3610,17 @@
    "rise": 52
   },
   {
-   "title": "The Departed",
-   "imdbId": "tt0407887",
+   "title": "I Swear",
+   "imdbId": "tt31514146",
    "kind": "MOVIE",
    "pk": [
-    "prv",
+    "nfx",
     "itu",
+    "wki",
     "amz"
    ],
    "rank": 61,
-   "rise": 161
+   "rise": 0
   },
   {
    "title": "Dead-End Job",
@@ -3619,14 +3633,12 @@
    "rise": 0
   },
   {
-   "title": "I Swear",
-   "imdbId": "tt31514146",
+   "title": "Christy",
+   "imdbId": "tt32323252",
    "kind": "MOVIE",
    "pk": [
-    "nfx",
-    "itu",
-    "wki",
-    "amz"
+    "mxx",
+    "wki"
    ],
    "rank": 62,
    "rise": 0
@@ -3642,15 +3654,15 @@
    "rise": 0
   },
   {
-   "title": "Christy",
-   "imdbId": "tt32323252",
+   "title": "O Agente Secreto",
+   "imdbId": "tt27847051",
    "kind": "MOVIE",
    "pk": [
-    "mxx",
-    "wki"
+    "fil",
+    "mxx"
    ],
    "rank": 63,
-   "rise": 0
+   "rise": 359
   },
   {
    "title": "Palace",
@@ -3663,15 +3675,16 @@
    "rise": 2134
   },
   {
-   "title": "O Agente Secreto",
-   "imdbId": "tt27847051",
+   "title": "The Nice Guys",
+   "imdbId": "tt3799694",
    "kind": "MOVIE",
    "pk": [
-    "fil",
-    "mxx"
+    "prv",
+    "mxx",
+    "wki"
    ],
    "rank": 64,
-   "rise": 358
+   "rise": 0
   },
   {
    "title": "The Institute",
@@ -3684,13 +3697,14 @@
    "rise": 23
   },
   {
-   "title": "The Nice Guys",
-   "imdbId": "tt3799694",
+   "title": "Moana",
+   "imdbId": "tt27419466",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "mxx",
-    "wki"
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
    ],
    "rank": 65,
    "rise": 0
@@ -3708,17 +3722,16 @@
    "rise": 224
   },
   {
-   "title": "Moana",
-   "imdbId": "tt27419466",
+   "title": "The Wolf of Wall Street",
+   "imdbId": "tt0993846",
    "kind": "MOVIE",
    "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
+    "prv",
+    "mxx",
+    "wki"
    ],
    "rank": 66,
-   "rise": 0
+   "rise": 180
   },
   {
    "title": "Small Prophets",
@@ -3732,16 +3745,14 @@
    "rise": 27
   },
   {
-   "title": "The Wolf of Wall Street",
-   "imdbId": "tt0993846",
+   "title": "The Whisper Man",
+   "imdbId": "tt11561116",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "mxx",
-    "wki"
+    "nfx"
    ],
    "rank": 67,
-   "rise": 179
+   "rise": 0
   },
   {
    "title": "Balaraw: Blood Island",
@@ -3751,26 +3762,6 @@
     "nfx"
    ],
    "rank": 67,
-   "rise": 0
-  },
-  {
-   "title": "The Whisper Man",
-   "imdbId": "tt11561116",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ],
-   "rank": 68,
-   "rise": 0
-  },
-  {
-   "title": "Over the Garden Wall",
-   "imdbId": "tt3718778",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ],
-   "rank": 68,
    "rise": 0
   },
   {
@@ -3785,8 +3776,28 @@
     "wki",
     "amz"
    ],
+   "rank": 68,
+   "rise": 219
+  },
+  {
+   "title": "Over the Garden Wall",
+   "imdbId": "tt3718778",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ],
+   "rank": 68,
+   "rise": 0
+  },
+  {
+   "title": "Clean",
+   "imdbId": "tt10023022",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ],
    "rank": 69,
-   "rise": 218
+   "rise": 4719
   },
   {
    "title": "The One About Matthew Perry",
@@ -3822,14 +3833,18 @@
    "rise": 198
   },
   {
-   "title": "Clean",
-   "imdbId": "tt10023022",
+   "title": "Passenger",
+   "imdbId": "tt33763941",
    "kind": "MOVIE",
    "pk": [
-    "prv"
+    "sst",
+    "sml",
+    "itu",
+    "wki",
+    "amz"
    ],
    "rank": 71,
-   "rise": 4718
+   "rise": 239
   },
   {
    "title": "Law & Order: Special Victims Unit",
@@ -3847,18 +3862,16 @@
    "rise": 0
   },
   {
-   "title": "Passenger",
-   "imdbId": "tt33763941",
+   "title": "American Beauty",
+   "imdbId": "tt0169547",
    "kind": "MOVIE",
    "pk": [
-    "sst",
-    "sml",
-    "itu",
-    "wki",
-    "amz"
+    "prv",
+    "amz",
+    "itu"
    ],
    "rank": 72,
-   "rise": 238
+   "rise": 515
   },
   {
    "title": "For All Mankind",
@@ -4489,8 +4502,8 @@
    "rise": 14
   },
   {
-   "title": "Bram Stoker's Dracula",
-   "imdbId": "tt0103874",
+   "title": "Far and Away",
+   "imdbId": "tt0104231",
    "kind": "MOVIE",
    "pk": [
     "nfx",
@@ -5438,17 +5451,14 @@
    "rise": 81
   },
   {
-   "title": "The Unbearable Weight of Massive Talent",
-   "imdbId": "tt11291274",
+   "title": "Teenage Sex and Death at Camp Miasma",
+   "imdbId": "tt35298123",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "wki",
-    "amz",
-    "itu"
+    "amu"
    ],
    "rank": 42,
-   "rise": 1265
+   "rise": 17
   },
   {
    "title": "The Handmaid's Tale",
@@ -5462,14 +5472,17 @@
    "rise": 0
   },
   {
-   "title": "Teenage Sex and Death at Camp Miasma",
-   "imdbId": "tt35298123",
+   "title": "The Unbearable Weight of Massive Talent",
+   "imdbId": "tt11291274",
    "kind": "MOVIE",
    "pk": [
-    "amu"
+    "prv",
+    "wki",
+    "amz",
+    "itu"
    ],
    "rank": 43,
-   "rise": 16
+   "rise": 1264
   },
   {
    "title": "The Boys",
@@ -6728,16 +6741,17 @@
    "rise": 78
   },
   {
-   "title": "American Beauty",
-   "imdbId": "tt0169547",
+   "title": "Arrival",
+   "imdbId": "tt2543164",
    "kind": "MOVIE",
    "pk": [
-    "prv",
+    "nfx",
     "amz",
+    "wki",
     "itu"
    ],
    "rank": 99,
-   "rise": 136
+   "rise": 0
   },
   {
    "title": "The Office",
@@ -6755,14 +6769,14 @@
    "rise": 0
   },
   {
-   "title": "Arrival",
-   "imdbId": "tt2543164",
+   "title": "28 Years Later: The Bone Temple",
+   "imdbId": "tt32141377",
    "kind": "MOVIE",
    "pk": [
     "nfx",
-    "amz",
+    "itu",
     "wki",
-    "itu"
+    "amz"
    ],
    "rank": 100,
    "rise": 0
@@ -7389,12 +7403,6 @@
    ]
   },
   {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "The Ramparts of Ice",
    "imdbId": "tt39123061",
    "kind": "SHOW",
@@ -7652,6 +7660,16 @@
    ]
   },
   {
+   "title": "mother!",
+   "imdbId": "tt5109784",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu"
+   ]
+  },
+  {
    "title": "Hotaru no Yomeiri",
    "imdbId": "tt39394153",
    "kind": "SHOW",
@@ -7740,14 +7758,6 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Tracker",
    "imdbId": "tt13875494",
    "kind": "SHOW",
@@ -7819,16 +7829,6 @@
    "kind": "MOVIE",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "mother!",
-   "imdbId": "tt5109784",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu"
    ]
   },
   {
@@ -8186,16 +8186,6 @@
    ]
   },
   {
-   "title": "American Beauty",
-   "imdbId": "tt0169547",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "amz",
-    "itu"
-   ]
-  },
-  {
    "title": "The Wire",
    "imdbId": "tt0306414",
    "kind": "SHOW",
@@ -8226,6 +8216,20 @@
    "pk": [
     "atp",
     "avl"
+   ]
+  },
+  {
+   "title": "Gunpowder",
+   "imdbId": "tt6128262",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -8332,12 +8336,10 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
+   "title": "Everybody Loves Raymond",
+   "imdbId": "tt0115167",
    "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
+   "pk": []
   },
   {
    "title": "Chernobyl",
@@ -8443,6 +8445,16 @@
    "pk": [
     "fil",
     "mxx"
+   ]
+  },
+  {
+   "title": "American Beauty",
+   "imdbId": "tt0169547",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "amz",
+    "itu"
    ]
   },
   {
@@ -8571,6 +8583,14 @@
    ]
   },
   {
+   "title": "The Last Kingdom",
+   "imdbId": "tt4179452",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "How I Met Your Mother",
    "imdbId": "tt0460649",
    "kind": "SHOW",
@@ -8672,13 +8692,21 @@
    ]
   },
   {
+   "title": "The Righteous Gemstones",
+   "imdbId": "tt8634332",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ]
+  },
+  {
    "title": "Practical Magic 2",
    "imdbId": "tt32588798",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -8786,14 +8814,6 @@
    ]
   },
   {
-   "title": "The Righteous Gemstones",
-   "imdbId": "tt8634332",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
-  },
-  {
    "title": "Dune",
    "imdbId": "tt1160419",
    "kind": "MOVIE",
@@ -8889,9 +8909,17 @@
    "imdbId": "tt27165187",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
+   ]
+  },
+  {
+   "title": "Two and a Half Men",
+   "imdbId": "tt0369179",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -8922,14 +8950,6 @@
    "pk": [
     "prv",
     "itu"
-   ]
-  },
-  {
-   "title": "WWE SmackDown",
-   "imdbId": "tt0227972",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -9334,15 +9354,6 @@
    ]
   },
   {
-   "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-   "imdbId": "tt31975847",
-   "kind": "SHOW",
-   "pk": [
-    "cru",
-    "cra"
-   ]
-  },
-  {
    "title": "Super Troopers 3",
    "imdbId": "tt8820258",
    "kind": "MOVIE",
@@ -9397,16 +9408,25 @@
    ]
   },
   {
-   "title": "Devils' Crest",
-   "imdbId": "tt41054228",
+   "title": "Midnight Mass",
+   "imdbId": "tt10574558",
    "kind": "SHOW",
    "pk": [
-    "prv"
+    "nfx"
    ]
   },
   {
-   "title": "Midnight Mass",
-   "imdbId": "tt10574558",
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
+   "kind": "SHOW",
+   "pk": [
+    "cru",
+    "cra"
+   ]
+  },
+  {
+   "title": "WWE SmackDown",
+   "imdbId": "tt0227972",
    "kind": "SHOW",
    "pk": [
     "nfx"
@@ -9497,12 +9517,6 @@
    ]
   },
   {
-   "title": "Reign",
-   "imdbId": "tt2710394",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "New Girl",
    "imdbId": "tt1826940",
    "kind": "SHOW",
@@ -9551,6 +9565,15 @@
    "kind": "MOVIE",
    "pk": [
     "rtp"
+   ]
+  },
+  {
+   "title": "Lockerbie: A Search for Truth",
+   "imdbId": "tt31029686",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "amz"
    ]
   },
   {
@@ -9880,17 +9903,6 @@
    ]
   },
   {
-   "title": "The Unbearable Weight of Massive Talent",
-   "imdbId": "tt11291274",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "amz",
-    "itu"
-   ]
-  },
-  {
    "title": "The Newsroom",
    "imdbId": "tt1870479",
    "kind": "SHOW",
@@ -10152,6 +10164,15 @@
    ]
   },
   {
+   "title": "Legend",
+   "imdbId": "tt0089469",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "amz"
+   ]
+  },
+  {
    "title": "Oblivion",
    "imdbId": "tt1483013",
    "kind": "MOVIE",
@@ -10198,14 +10219,6 @@
    ]
   },
   {
-   "title": "Arrow",
-   "imdbId": "tt2193021",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Andor",
    "imdbId": "tt9253284",
    "kind": "SHOW",
@@ -10227,6 +10240,14 @@
    "kind": "SHOW",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "Tokyo Vice",
+   "imdbId": "tt2887954",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   },
   {
@@ -10284,6 +10305,14 @@
     "nfx",
     "prv",
     "wki"
+   ]
+  },
+  {
+   "title": "Devils' Crest",
+   "imdbId": "tt41054228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -10568,17 +10597,6 @@
    ]
   },
   {
-   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-   "imdbId": "tt3949660",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
-   ]
-  },
-  {
    "title": "The Lobster",
    "imdbId": "tt3464902",
    "kind": "MOVIE",
@@ -10595,19 +10613,17 @@
    ]
   },
   {
+   "title": "Mr. Bean",
+   "imdbId": "tt0096657",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "The Sandman",
    "imdbId": "tt1751634",
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Harry Potter: Wizards of Baking",
-   "imdbId": "tt32374361",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -10640,12 +10656,6 @@
   {
    "title": "Shetland",
    "imdbId": "tt2396135",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
-   "title": "Everybody Loves Raymond",
-   "imdbId": "tt0115167",
    "kind": "SHOW",
    "pk": []
   },
@@ -10738,6 +10748,12 @@
    ]
   },
   {
+   "title": "Counterpart",
+   "imdbId": "tt4643084",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Plane",
    "imdbId": "tt5884796",
    "kind": "MOVIE",
@@ -10797,6 +10813,17 @@
    "kind": "SHOW",
    "pk": [
     "dnp"
+   ]
+  },
+  {
+   "title": "Bram Stoker's Dracula",
+   "imdbId": "tt0103874",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
    ]
   },
   {
@@ -10892,6 +10919,17 @@
    ]
   },
   {
+   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+   "imdbId": "tt3949660",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
+   ]
+  },
+  {
    "title": "Wednesday",
    "imdbId": "tt13443470",
    "kind": "SHOW",
@@ -10930,15 +10968,6 @@
    "kind": "MOVIE",
    "pk": [
     "prv"
-   ]
-  },
-  {
-   "title": "Dexter: Original Sin",
-   "imdbId": "tt32252772",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
    ]
   },
   {
@@ -10981,14 +11010,6 @@
    "pk": [
     "prv",
     "mxx"
-   ]
-  },
-  {
-   "title": "Neon Genesis Evangelion",
-   "imdbId": "tt0112159",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -11069,6 +11090,15 @@
    ]
   },
   {
+   "title": "Dexter: Original Sin",
+   "imdbId": "tt32252772",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ]
+  },
+  {
    "title": "Benefits with Friends",
    "imdbId": "tt27517632",
    "kind": "SHOW",
@@ -11090,14 +11120,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Tokyo Vice",
-   "imdbId": "tt2887954",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -11128,14 +11150,6 @@
     "amz",
     "itu",
     "wki"
-   ]
-  },
-  {
-   "title": "Lucifer",
-   "imdbId": "tt4052886",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -12234,9 +12248,9 @@
    "imdbId": "tt32588798",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -12244,9 +12258,9 @@
    "imdbId": "tt27165187",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -12571,12 +12585,6 @@
    ]
   },
   {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "Fury",
    "imdbId": "tt2713180",
    "kind": "MOVIE",
@@ -12658,6 +12666,16 @@
    ]
   },
   {
+   "title": "mother!",
+   "imdbId": "tt5109784",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu"
+   ]
+  },
+  {
    "title": "Yellowstone",
    "imdbId": "tt4236770",
    "kind": "SHOW",
@@ -12703,16 +12721,6 @@
     "nfx",
     "prv",
     "cru"
-   ]
-  },
-  {
-   "title": "mother!",
-   "imdbId": "tt5109784",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu"
    ]
   },
   {
@@ -12869,14 +12877,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "The Righteous Gemstones",
-   "imdbId": "tt8634332",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -13077,16 +13077,6 @@
    ]
   },
   {
-   "title": "American Beauty",
-   "imdbId": "tt0169547",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "amz",
-    "itu"
-   ]
-  },
-  {
    "title": "Friends Sex and Games",
    "imdbId": "tt37180305",
    "kind": "SHOW",
@@ -13254,14 +13244,6 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "School Spirits",
    "imdbId": "tt21057450",
    "kind": "SHOW",
@@ -13304,6 +13286,14 @@
    "kind": "MOVIE",
    "pk": [
     "fil",
+    "mxx"
+   ]
+  },
+  {
+   "title": "The Righteous Gemstones",
+   "imdbId": "tt8634332",
+   "kind": "SHOW",
+   "pk": [
     "mxx"
    ]
   },
@@ -13363,6 +13353,14 @@
    "pk": [
     "cru",
     "cra"
+   ]
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -13591,14 +13589,6 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "The Walking Dead: Daryl Dixon",
    "imdbId": "tt13062500",
    "kind": "SHOW",
@@ -13663,6 +13653,16 @@
    "kind": "SHOW",
    "pk": [
     "amz"
+   ]
+  },
+  {
+   "title": "American Beauty",
+   "imdbId": "tt0169547",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "amz",
+    "itu"
    ]
   },
   {
@@ -13754,6 +13754,20 @@
     "itu",
     "amz",
     "wki"
+   ]
+  },
+  {
+   "title": "The Texas Chain Saw Massacre",
+   "imdbId": "tt0072271",
+   "kind": "MOVIE",
+   "pk": []
+  },
+  {
+   "title": "Last Week Tonight with John Oliver",
+   "imdbId": "tt3530232",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   }
  ],
@@ -14449,9 +14463,9 @@
    "imdbId": "tt27165187",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -23022,30 +23036,6 @@
  ],
  "UPCOMING": [
   {
-   "title": "Last One Standing",
-   "imdbId": "tt18246842",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
-   "title": "Get Huge: Looksmaxxing to Death",
-   "imdbId": "tt50135019",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
-   "title": "The Devil's Plan",
-   "imdbId": "tt27995115",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "The Lord of the Rings: The Rings of Power",
    "imdbId": "tt7631058",
    "kind": "SHOW",
@@ -23134,19 +23124,19 @@
    ]
   },
   {
-   "title": "Stars and Vows: Anele & Buzza",
-   "imdbId": "tt45857574",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "ROCK PAPER LANDMINE",
    "imdbId": "tt44914557",
    "kind": "SHOW",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "Stars and Vows: Anele & Buzza",
+   "imdbId": "tt45857574",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -23302,16 +23292,16 @@
    ]
   },
   {
-   "title": "Collect & Praise",
-   "imdbId": "tt43728785",
+   "title": "Trinity",
+   "imdbId": "tt37433759",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ]
   },
   {
-   "title": "Trinity",
-   "imdbId": "tt37433759",
+   "title": "Collect & Praise",
+   "imdbId": "tt43728785",
    "kind": "SHOW",
    "pk": [
     "nfx"
@@ -23566,14 +23556,6 @@
    ]
   },
   {
-   "title": "Bloodaxe",
-   "imdbId": "tt36048621",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "The Eternaut",
    "imdbId": "tt27740241",
    "kind": "SHOW",
@@ -23590,27 +23572,19 @@
    ]
   },
   {
+   "title": "Bloodaxe",
+   "imdbId": "tt36048621",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
+  },
+  {
    "title": "Fisk",
    "imdbId": "tt13353168",
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Life Is Strange",
-   "imdbId": "tt15344990",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
-   "title": "Secret Level",
-   "imdbId": "tt33204697",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
    ]
   },
   {
@@ -23622,10 +23596,26 @@
    ]
   },
   {
+   "title": "Life Is Strange",
+   "imdbId": "tt15344990",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
+  },
+  {
    "title": "Star Trek: Strange New Worlds",
    "imdbId": "tt12327578",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "Secret Level",
+   "imdbId": "tt33204697",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
   },
   {
    "title": "#1 Happy Family USA",
@@ -23992,9 +23982,9 @@
    "imdbId": "tt32588798",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -24005,6 +23995,14 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "Two and a Half Men",
+   "imdbId": "tt0369179",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -24101,18 +24099,21 @@
    ]
   },
   {
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
+   "kind": "SHOW",
+   "pk": [
+    "cru",
+    "cra"
+   ]
+  },
+  {
    "title": "The Four Seasons",
    "imdbId": "tt30826447",
    "kind": "SHOW",
    "pk": [
     "nfx"
    ]
-  },
-  {
-   "title": "Reign",
-   "imdbId": "tt2710394",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "New Girl",
@@ -24179,6 +24180,15 @@
     "fil",
     "itu",
     "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Legend",
+   "imdbId": "tt0089469",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
     "amz"
    ]
   },
@@ -24305,6 +24315,17 @@
    ]
   },
   {
+   "title": "Bram Stoker's Dracula",
+   "imdbId": "tt0103874",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "Interview with the Vampire",
    "imdbId": "tt3960394",
    "kind": "SHOW",
@@ -24344,22 +24365,8 @@
    ]
   },
   {
-   "title": "Two and a Half Men",
-   "imdbId": "tt0369179",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "The Other Bennet Sister",
    "imdbId": "tt37022512",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
-   "title": "Sailor Moon",
-   "imdbId": "tt0103369",
    "kind": "SHOW",
    "pk": []
   },
@@ -24483,16 +24490,6 @@
    ]
   },
   {
-   "title": "Bridesmaids",
-   "imdbId": "tt1478338",
-   "kind": "MOVIE",
-   "pk": [
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Dorothy",
    "imdbId": "tt38915678",
    "kind": "MOVIE",
@@ -24514,14 +24511,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Buffy the Vampire Slayer",
-   "imdbId": "tt0118276",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
    ]
   },
   {
@@ -24574,6 +24563,14 @@
    "pk": [
     "sst",
     "sml"
+   ]
+  },
+  {
+   "title": "Riverdale",
+   "imdbId": "tt5420376",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -24681,14 +24678,6 @@
    ]
   },
   {
-   "title": "WWE SmackDown",
-   "imdbId": "tt0227972",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "F1",
    "imdbId": "tt16311594",
    "kind": "MOVIE",
@@ -24706,6 +24695,14 @@
    "kind": "SHOW",
    "pk": [
     "mxx"
+   ]
+  },
+  {
+   "title": "WWE SmackDown",
+   "imdbId": "tt0227972",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -24847,16 +24844,6 @@
    ]
   },
   {
-   "title": "The Next Karate Kid",
-   "imdbId": "tt0110657",
-   "kind": "MOVIE",
-   "pk": [
-    "amz",
-    "itu",
-    "wki"
-   ]
-  },
-  {
    "title": "Top Gear",
    "imdbId": "tt1628033",
    "kind": "SHOW",
@@ -24934,6 +24921,16 @@
    ]
   },
   {
+   "title": "Rocky IV",
+   "imdbId": "tt0089927",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu",
+    "amz"
+   ]
+  },
+  {
    "title": "Schumacher '94 – The Birth of a Legend",
    "imdbId": "tt39453404",
    "kind": "MOVIE",
@@ -24947,15 +24944,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "The Blind Side",
-   "imdbId": "tt0878804",
-   "kind": "MOVIE",
-   "pk": [
-    "itu",
-    "wki"
    ]
   },
   {
@@ -25018,6 +25006,12 @@
    "pk": [
     "dnp"
    ]
+  },
+  {
+   "title": "Bring It On",
+   "imdbId": "tt0204946",
+   "kind": "MOVIE",
+   "pk": []
   },
   {
    "title": "Twisted Metal",
@@ -25089,6 +25083,16 @@
    ]
   },
   {
+   "title": "Cinderella Man",
+   "imdbId": "tt0352248",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "The Hill",
    "imdbId": "tt8051894",
    "kind": "MOVIE",
@@ -25132,6 +25136,16 @@
    ]
   },
   {
+   "title": "The Next Karate Kid",
+   "imdbId": "tt0110657",
+   "kind": "MOVIE",
+   "pk": [
+    "amz",
+    "itu",
+    "wki"
+   ]
+  },
+  {
    "title": "In from the Side",
    "imdbId": "tt7947604",
    "kind": "MOVIE",
@@ -25172,15 +25186,6 @@
     "prv",
     "itu",
     "wki",
-    "amz"
-   ]
-  },
-  {
-   "title": "Rocky Balboa",
-   "imdbId": "tt0479143",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
     "amz"
    ]
   },
@@ -25285,16 +25290,6 @@
    ]
   },
   {
-   "title": "Rocky IV",
-   "imdbId": "tt0089927",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu",
-    "amz"
-   ]
-  },
-  {
    "title": "Brasil 70: A Saga do Tri",
    "imdbId": "tt37041010",
    "kind": "SHOW",
@@ -25349,12 +25344,6 @@
    ]
   },
   {
-   "title": "Bring It On",
-   "imdbId": "tt0204946",
-   "kind": "MOVIE",
-   "pk": []
-  },
-  {
    "title": "Days of Thunder",
    "imdbId": "tt0099371",
    "kind": "MOVIE",
@@ -25382,6 +25371,15 @@
    "pk": [
     "itu",
     "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Rocky Balboa",
+   "imdbId": "tt0479143",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
     "amz"
    ]
   },
@@ -25443,6 +25441,15 @@
    ]
   },
   {
+   "title": "The Blind Side",
+   "imdbId": "tt0878804",
+   "kind": "MOVIE",
+   "pk": [
+    "itu",
+    "wki"
+   ]
+  },
+  {
    "title": "A Shot at Glory",
    "imdbId": "tt0193854",
    "kind": "MOVIE",
@@ -25486,14 +25493,6 @@
    "pk": [
     "itu",
     "amz"
-   ]
-  },
-  {
-   "title": "Senna",
-   "imdbId": "tt1424432",
-   "kind": "MOVIE",
-   "pk": [
-    "itu"
    ]
   }
  ],
@@ -25668,6 +25667,14 @@
    "pk": []
   },
   {
+   "title": "Alone",
+   "imdbId": "tt4803766",
+   "kind": "SHOW",
+   "pk": [
+    "sic"
+   ]
+  },
+  {
    "title": "Lore",
    "imdbId": "tt6130902",
    "kind": "SHOW",
@@ -25774,6 +25781,17 @@
    ]
   },
   {
+   "title": "The Chronicles of Narnia: Prince Caspian",
+   "imdbId": "tt0499448",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "Conspiracies & Coverups",
    "imdbId": "tt40906167",
    "kind": "SHOW",
@@ -25868,23 +25886,6 @@
    ]
   },
   {
-   "title": "Wolves Up Close with Bertie Gregory",
-   "imdbId": "tt49241977",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
-   "title": "The Bad Guy",
-   "imdbId": "tt31924746",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "itu"
-   ]
-  },
-  {
    "title": "Jackass: Best and Last",
    "imdbId": "tt39316472",
    "kind": "MOVIE",
@@ -25900,6 +25901,15 @@
    "kind": "SHOW",
    "pk": [
     "mxx"
+   ]
+  },
+  {
+   "title": "The Bad Guy",
+   "imdbId": "tt31924746",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu"
    ]
   },
   {
@@ -25987,14 +25997,6 @@
    ]
   },
   {
-   "title": "Alone",
-   "imdbId": "tt4803766",
-   "kind": "SHOW",
-   "pk": [
-    "sic"
-   ]
-  },
-  {
    "title": "Should I Marry a Murderer?",
    "imdbId": "tt41082351",
    "kind": "SHOW",
@@ -26020,6 +26022,12 @@
    ]
   },
   {
+   "title": "Beyond Utopia",
+   "imdbId": "tt25470468",
+   "kind": "MOVIE",
+   "pk": []
+  },
+  {
    "title": "Band of Brothers: Legacy",
    "imdbId": "tt33510831",
    "kind": "MOVIE",
@@ -26038,8 +26046,16 @@
    ]
   },
   {
-   "title": "The Dark Wizard",
-   "imdbId": "tt39656291",
+   "title": "Wolves Up Close with Bertie Gregory",
+   "imdbId": "tt49241977",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp"
+   ]
+  },
+  {
+   "title": "90 Day Fiancé: The Other Way",
+   "imdbId": "tt9170070",
    "kind": "SHOW",
    "pk": [
     "mxx"
@@ -26090,25 +26106,11 @@
    ]
   },
   {
-   "title": "Beyond Utopia",
-   "imdbId": "tt25470468",
-   "kind": "MOVIE",
-   "pk": []
-  },
-  {
    "title": "The Other Side",
    "imdbId": "tt31410442",
    "kind": "MOVIE",
    "pk": [
     "prv"
-   ]
-  },
-  {
-   "title": "90 Day Fiancé: The Other Way",
-   "imdbId": "tt9170070",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -26158,8 +26160,8 @@
    ]
   },
   {
-   "title": "The Garden: Commune or Cult",
-   "imdbId": "tt29890377",
+   "title": "The Dark Wizard",
+   "imdbId": "tt39656291",
    "kind": "SHOW",
    "pk": [
     "mxx"
@@ -26171,6 +26173,14 @@
    "kind": "SHOW",
    "pk": [
     "rtp"
+   ]
+  },
+  {
+   "title": "The Garden: Commune or Cult",
+   "imdbId": "tt29890377",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   },
   {
@@ -26318,14 +26328,6 @@
    "imdbId": "tt1404702",
    "kind": "MOVIE",
    "pk": []
-  },
-  {
-   "title": "Clown Panic",
-   "imdbId": "tt46659729",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp"
-   ]
   }
  ],
  "G:drm": [
@@ -26777,12 +26779,6 @@
    ]
   },
   {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "The Ramparts of Ice",
    "imdbId": "tt39123061",
    "kind": "SHOW",
@@ -26969,6 +26965,16 @@
    ]
   },
   {
+   "title": "mother!",
+   "imdbId": "tt5109784",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu"
+   ]
+  },
+  {
    "title": "Hotaru no Yomeiri",
    "imdbId": "tt39394153",
    "kind": "SHOW",
@@ -27031,14 +27037,6 @@
   {
    "title": "Carrie",
    "imdbId": "tt11540908",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
    "kind": "SHOW",
    "pk": [
     "prv"
@@ -27119,16 +27117,6 @@
    ]
   },
   {
-   "title": "mother!",
-   "imdbId": "tt5109784",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu"
-   ]
-  },
-  {
    "title": "A Great Awakening",
    "imdbId": "tt33305882",
    "kind": "MOVIE",
@@ -27200,6 +27188,24 @@
     "amz",
     "nfx",
     "prv"
+   ]
+  },
+  {
+   "title": "Gomorra",
+   "imdbId": "tt2049116",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ]
+  },
+  {
+   "title": "Dexter",
+   "imdbId": "tt0773262",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "sst"
    ]
   }
  ],
@@ -27449,15 +27455,10 @@
    ]
   },
   {
-   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-   "imdbId": "tt3949660",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
-   ]
+   "title": "Mr. Bean",
+   "imdbId": "tt0096657",
+   "kind": "SHOW",
+   "pk": []
   },
   {
    "title": "Batman: The Animated Series",
@@ -27473,6 +27474,17 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+   "imdbId": "tt3949660",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
    ]
   },
   {
@@ -27493,12 +27505,6 @@
     "itu",
     "wki"
    ]
-  },
-  {
-   "title": "Sailor Moon",
-   "imdbId": "tt0103369",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Malcolm in the Middle",
@@ -27527,6 +27533,17 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "Soul",
+   "imdbId": "tt2948372",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
    ]
   },
   {
@@ -27562,28 +27579,10 @@
    ]
   },
   {
-   "title": "Mr. Bean",
-   "imdbId": "tt0096657",
+   "title": "The Fresh Prince of Bel-Air",
+   "imdbId": "tt0098800",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "Bluey",
-   "imdbId": "tt7678620",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
-   "title": "The NeverEnding Story",
-   "imdbId": "tt0088323",
-   "kind": "MOVIE",
-   "pk": [
-    "wki",
-    "alg",
-    "amz"
-   ]
   },
   {
    "title": "The Polar Express",
@@ -27670,8 +27669,20 @@
    ]
   },
   {
+   "title": "Sailor Moon",
+   "imdbId": "tt0103369",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Sabrina, the Teenage Witch",
    "imdbId": "tt0115341",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
+   "title": "Rebelde",
+   "imdbId": "tt0414766",
    "kind": "SHOW",
    "pk": []
   },
@@ -27692,14 +27703,6 @@
     "itu",
     "amz",
     "wki"
-   ]
-  },
-  {
-   "title": "Yu-Gi-Oh!",
-   "imdbId": "tt0247902",
-   "kind": "SHOW",
-   "pk": [
-    "cra"
    ]
   },
   {
@@ -27739,12 +27742,6 @@
    "pk": [
     "dnp"
    ]
-  },
-  {
-   "title": "Harry Potter and the Philosopher's Stone",
-   "imdbId": "tt13918446",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Shrek",
@@ -27811,29 +27808,28 @@
    "pk": []
   },
   {
+   "title": "Harry Potter and the Philosopher's Stone",
+   "imdbId": "tt13918446",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
+   "title": "Monsters, Inc.",
+   "imdbId": "tt0198781",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "Kubo and the Two Strings",
    "imdbId": "tt4302938",
    "kind": "MOVIE",
    "pk": [
     "itu"
-   ]
-  },
-  {
-   "title": "Mermaid Beach",
-   "imdbId": "tt36016626",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
-   "title": "Christmas at the Palace",
-   "imdbId": "tt9033632",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "sst",
-    "sml"
    ]
   },
   {
@@ -27862,10 +27858,12 @@
    ]
   },
   {
-   "title": "The Fresh Prince of Bel-Air",
-   "imdbId": "tt0098800",
-   "kind": "SHOW",
-   "pk": []
+   "title": "Mermaid Beach",
+   "imdbId": "tt36016626",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ]
   },
   {
    "title": "Dragon Ball Super",
@@ -27883,21 +27881,16 @@
    "pk": []
   },
   {
-   "title": "Monster House",
-   "imdbId": "tt0385880",
+   "title": "Harry Potter and the Goblet of Fire",
+   "imdbId": "tt0330373",
    "kind": "MOVIE",
    "pk": [
-    "nfx",
+    "prv",
+    "mxx",
     "itu",
     "wki",
     "amz"
    ]
-  },
-  {
-   "title": "Rebelde",
-   "imdbId": "tt0414766",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Frasier",
@@ -27933,13 +27926,14 @@
    ]
   },
   {
-   "title": "The Next Karate Kid",
-   "imdbId": "tt0110657",
+   "title": "The Chronicles of Narnia: Prince Caspian",
+   "imdbId": "tt0499448",
    "kind": "MOVIE",
    "pk": [
-    "amz",
+    "dnp",
     "itu",
-    "wki"
+    "wki",
+    "amz"
    ]
   },
   {
@@ -27976,14 +27970,13 @@
    ]
   },
   {
-   "title": "Soul",
-   "imdbId": "tt2948372",
+   "title": "The NeverEnding Story",
+   "imdbId": "tt0088323",
    "kind": "MOVIE",
    "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
+    "wki",
+    "alg",
+    "amz"
    ]
   },
   {
@@ -28050,15 +28043,6 @@
    "pk": [
     "ahy",
     "dnp"
-   ]
-  },
-  {
-   "title": "Hauru no ugoku shiro",
-   "imdbId": "tt0347149",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu"
    ]
   },
   {
@@ -28139,6 +28123,36 @@
    "pk": [
     "itu",
     "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Up",
+   "imdbId": "tt1049413",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "The Nanny",
+   "imdbId": "tt0106080",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
+  },
+  {
+   "title": "Addams Family Values",
+   "imdbId": "tt0106220",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml",
+    "itu",
     "amz"
    ]
   }
@@ -28561,6 +28575,12 @@
    ]
   },
   {
+   "title": "Everybody Loves Raymond",
+   "imdbId": "tt0115167",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "It's Always Sunny in Philadelphia",
    "imdbId": "tt0472954",
    "kind": "SHOW",
@@ -28623,13 +28643,21 @@
    ]
   },
   {
+   "title": "The Righteous Gemstones",
+   "imdbId": "tt8634332",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ]
+  },
+  {
    "title": "Practical Magic 2",
    "imdbId": "tt32588798",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -28675,14 +28703,6 @@
    ]
   },
   {
-   "title": "The Righteous Gemstones",
-   "imdbId": "tt8634332",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
-  },
-  {
    "title": "Chad Powers",
    "imdbId": "tt31449991",
    "kind": "SHOW",
@@ -28701,6 +28721,14 @@
     "sst",
     "sml",
     "amz"
+   ]
+  },
+  {
+   "title": "Two and a Half Men",
+   "imdbId": "tt0369179",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -28903,6 +28931,15 @@
    ]
   },
   {
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
+   "kind": "SHOW",
+   "pk": [
+    "cru",
+    "cra"
+   ]
+  },
+  {
    "title": "The Four Seasons",
    "imdbId": "tt30826447",
    "kind": "SHOW",
@@ -28993,29 +29030,6 @@
    "imdbId": "tt0121955",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "Aoashi",
-   "imdbId": "tt15792808",
-   "kind": "SHOW",
-   "pk": [
-    "cru",
-    "cra"
-   ]
-  },
-  {
-   "title": "Mike Tyson: Return of the Mike",
-   "imdbId": "tt46068179",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
-   "title": "Last One Laughing UK: Halloween",
-   "imdbId": "tt44385073",
-   "kind": "SHOW",
-   "pk": []
   }
  ],
  "G:msc": [
@@ -29070,6 +29084,17 @@
     "amz",
     "wki",
     "itu"
+   ]
+  },
+  {
+   "title": "Soul",
+   "imdbId": "tt2948372",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
    ]
   },
   {
@@ -29135,6 +29160,12 @@
    ]
   },
   {
+   "title": "Rebelde",
+   "imdbId": "tt0414766",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "The Drop: A Snowfall Saga",
    "imdbId": "tt36210894",
    "kind": "SHOW",
@@ -29165,29 +29196,12 @@
    ]
   },
   {
-   "title": "Rebelde",
-   "imdbId": "tt0414766",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "Rockstar",
    "imdbId": "tt1839596",
    "kind": "MOVIE",
    "pk": [
     "nfx",
     "itu"
-   ]
-  },
-  {
-   "title": "Soul",
-   "imdbId": "tt2948372",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
    ]
   },
   {
@@ -29222,18 +29236,6 @@
    ]
   },
   {
-   "title": "Elvis",
-   "imdbId": "tt3704428",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Chicago",
    "imdbId": "tt0299658",
    "kind": "MOVIE",
@@ -29262,15 +29264,6 @@
    ]
   },
   {
-   "title": "The Piano",
-   "imdbId": "tt0107822",
-   "kind": "MOVIE",
-   "pk": [
-    "rtp",
-    "fil"
-   ]
-  },
-  {
    "title": "Little Shop of Horrors",
    "imdbId": "tt0091419",
    "kind": "MOVIE",
@@ -29282,6 +29275,15 @@
    "kind": "SHOW",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "The History of Sound",
+   "imdbId": "tt15799524",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml"
    ]
   },
   {
@@ -29301,15 +29303,6 @@
    "imdbId": "tt0206275",
    "kind": "MOVIE",
    "pk": []
-  },
-  {
-   "title": "The History of Sound",
-   "imdbId": "tt15799524",
-   "kind": "MOVIE",
-   "pk": [
-    "sst",
-    "sml"
-   ]
   },
   {
    "title": "Pitch Perfect",
@@ -29395,6 +29388,18 @@
     "prv",
     "sst",
     "sml",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Elvis",
+   "imdbId": "tt3704428",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "mxx",
     "itu",
     "wki",
     "amz"
@@ -29507,16 +29512,6 @@
    "kind": "SHOW",
    "pk": [
     "prv"
-   ]
-  },
-  {
-   "title": "Les Misérables",
-   "imdbId": "tt1707386",
-   "kind": "MOVIE",
-   "pk": [
-    "wki",
-    "itu",
-    "amz"
    ]
   },
   {
@@ -29807,6 +29802,15 @@
    "pk": []
   },
   {
+   "title": "The Piano",
+   "imdbId": "tt0107822",
+   "kind": "MOVIE",
+   "pk": [
+    "rtp",
+    "fil"
+   ]
+  },
+  {
    "title": "Beauty and the Beast",
    "imdbId": "tt0101414",
    "kind": "MOVIE",
@@ -29904,6 +29908,16 @@
    "kind": "MOVIE",
    "pk": [
     "fil"
+   ]
+  },
+  {
+   "title": "The School of Rock",
+   "imdbId": "tt0332379",
+   "kind": "MOVIE",
+   "pk": [
+    "amz",
+    "itu",
+    "wki"
    ]
   }
  ],
@@ -30122,14 +30136,6 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Doctor Who",
    "imdbId": "tt0436992",
    "kind": "SHOW",
@@ -30253,6 +30259,14 @@
     "wki",
     "itu",
     "amz"
+   ]
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -30418,9 +30432,9 @@
    "imdbId": "tt27165187",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -30474,20 +30488,12 @@
    ]
   },
   {
-   "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-   "imdbId": "tt31975847",
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
    "kind": "SHOW",
    "pk": [
     "cru",
     "cra"
-   ]
-  },
-  {
-   "title": "Devils' Crest",
-   "imdbId": "tt41054228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
    ]
   },
   {
@@ -30750,14 +30756,6 @@
    ]
   },
   {
-   "title": "Arrow",
-   "imdbId": "tt2193021",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Andor",
    "imdbId": "tt9253284",
    "kind": "SHOW",
@@ -30786,6 +30784,14 @@
    ]
   },
   {
+   "title": "Devils' Crest",
+   "imdbId": "tt41054228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
+  },
+  {
    "title": "Naruto: Shippûden",
    "imdbId": "tt0988824",
    "kind": "SHOW",
@@ -30807,6 +30813,15 @@
    "kind": "SHOW",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "Percy Jackson and the Olympians",
+   "imdbId": "tt12324366",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "dnp"
    ]
   }
  ],
@@ -31336,14 +31351,6 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Solo Leveling",
    "imdbId": "tt21209876",
    "kind": "SHOW",
@@ -31380,6 +31387,14 @@
     "dnp",
     "amz",
     "alg"
+   ]
+  },
+  {
+   "title": "The Last Kingdom",
+   "imdbId": "tt4179452",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -31477,9 +31492,9 @@
    "imdbId": "tt27165187",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -31489,14 +31504,6 @@
    "pk": [
     "prv",
     "itu"
-   ]
-  },
-  {
-   "title": "WWE SmackDown",
-   "imdbId": "tt0227972",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -31642,11 +31649,11 @@
    ]
   },
   {
-   "title": "Devils' Crest",
-   "imdbId": "tt41054228",
+   "title": "WWE SmackDown",
+   "imdbId": "tt0227972",
    "kind": "SHOW",
    "pk": [
-    "prv"
+    "nfx"
    ]
   },
   {
@@ -31716,6 +31723,14 @@
   {
    "title": "ONE PIECE",
    "imdbId": "tt11737520",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
+   "title": "Arcane: League of Legends",
+   "imdbId": "tt11126994",
    "kind": "SHOW",
    "pk": [
     "nfx"
@@ -31904,20 +31919,12 @@
    ]
   },
   {
-   "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-   "imdbId": "tt31975847",
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
    "kind": "SHOW",
    "pk": [
     "cru",
     "cra"
-   ]
-  },
-  {
-   "title": "Devils' Crest",
-   "imdbId": "tt41054228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
    ]
   },
   {
@@ -32027,6 +32034,14 @@
    ]
   },
   {
+   "title": "Devils' Crest",
+   "imdbId": "tt41054228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
+   ]
+  },
+  {
    "title": "Naruto: Shippûden",
    "imdbId": "tt0988824",
    "kind": "SHOW",
@@ -32091,14 +32106,6 @@
    ]
   },
   {
-   "title": "Neon Genesis Evangelion",
-   "imdbId": "tt0112159",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Luca",
    "imdbId": "tt12801262",
    "kind": "MOVIE",
@@ -32107,6 +32114,14 @@
     "amz",
     "itu",
     "wki"
+   ]
+  },
+  {
+   "title": "Futurama",
+   "imdbId": "tt0149460",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
    ]
   },
   {
@@ -32125,12 +32140,6 @@
    "pk": [
     "dnp"
    ]
-  },
-  {
-   "title": "Sailor Moon",
-   "imdbId": "tt0103369",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Otaku ni Yasashii Gal wa inai!?",
@@ -32152,11 +32161,11 @@
    ]
   },
   {
-   "title": "Futurama",
-   "imdbId": "tt0149460",
+   "title": "Neon Genesis Evangelion",
+   "imdbId": "tt0112159",
    "kind": "SHOW",
    "pk": [
-    "dnp"
+    "nfx"
    ]
   },
   {
@@ -32177,6 +32186,17 @@
    "pk": [
     "cru",
     "cra"
+   ]
+  },
+  {
+   "title": "Soul",
+   "imdbId": "tt2948372",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
    ]
   },
   {
@@ -32223,14 +32243,6 @@
    ]
   },
   {
-   "title": "Bluey",
-   "imdbId": "tt7678620",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
    "title": "Haunted Hotel",
    "imdbId": "tt32499579",
    "kind": "SHOW",
@@ -32247,15 +32259,6 @@
     "itu",
     "wki",
     "amz"
-   ]
-  },
-  {
-   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
-   "imdbId": "tt43650300",
-   "kind": "SHOW",
-   "pk": [
-    "cru",
-    "cra"
    ]
   },
   {
@@ -32309,6 +32312,20 @@
    ]
   },
   {
+   "title": "Sailor Moon",
+   "imdbId": "tt0103369",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
+   "title": "Blue Eye Samurai",
+   "imdbId": "tt13309742",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "Mushoku Tensei: Jobless Reincarnation",
    "imdbId": "tt13293588",
    "kind": "SHOW",
@@ -32323,14 +32340,6 @@
    "kind": "SHOW",
    "pk": [
     "prv"
-   ]
-  },
-  {
-   "title": "Yu-Gi-Oh!",
-   "imdbId": "tt0247902",
-   "kind": "SHOW",
-   "pk": [
-    "cra"
    ]
   },
   {
@@ -32412,6 +32421,17 @@
    ]
   },
   {
+   "title": "Monsters, Inc.",
+   "imdbId": "tt0198781",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "Kubo and the Two Strings",
    "imdbId": "tt4302938",
    "kind": "MOVIE",
@@ -32433,14 +32453,6 @@
    "kind": "SHOW",
    "pk": [
     "dnp"
-   ]
-  },
-  {
-   "title": "Blue Eye Samurai",
-   "imdbId": "tt13309742",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -32484,17 +32496,6 @@
    ]
   },
   {
-   "title": "Monster House",
-   "imdbId": "tt0385880",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Hunter x Hunter",
    "imdbId": "tt2098220",
    "kind": "SHOW",
@@ -32529,23 +32530,6 @@
    "pk": [
     "cru",
     "cra"
-   ]
-  },
-  {
-   "title": "The Eminence in Shadow",
-   "imdbId": "tt14115938",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
-   "title": "Soul",
-   "imdbId": "tt2948372",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
    ]
   },
   {
@@ -32609,6 +32593,49 @@
     "amz",
     "wki"
    ]
+  },
+  {
+   "title": "PAW Patrol: The Dino Movie",
+   "imdbId": "tt29356163",
+   "kind": "MOVIE",
+   "pk": [
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Shrek 2",
+   "imdbId": "tt0298148",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "prv",
+    "sst",
+    "sml",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "PAW Patrol",
+   "imdbId": "tt3121722",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml",
+    "prv",
+    "nfx"
+   ]
+  },
+  {
+   "title": "Legend of Destruction",
+   "imdbId": "tt4534598",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "itu"
+   ]
   }
  ],
  "G:hst": [
@@ -32627,12 +32654,6 @@
    "pk": [
     "nfx"
    ]
-  },
-  {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Hotaru no Yomeiri",
@@ -32681,12 +32702,10 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
+   "title": "Gunpowder",
+   "imdbId": "tt6128262",
    "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
+   "pk": []
   },
   {
    "title": "Chernobyl",
@@ -32707,6 +32726,14 @@
    ]
   },
   {
+   "title": "The Last Kingdom",
+   "imdbId": "tt4179452",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "Babylon Berlin",
    "imdbId": "tt4378376",
    "kind": "SHOW",
@@ -32724,10 +32751,13 @@
    ]
   },
   {
-   "title": "Reign",
-   "imdbId": "tt2710394",
+   "title": "Lockerbie: A Search for Truth",
+   "imdbId": "tt31029686",
    "kind": "SHOW",
-   "pk": []
+   "pk": [
+    "sst",
+    "amz"
+   ]
   },
   {
    "title": "Vikings",
@@ -32824,13 +32854,10 @@
    ]
   },
   {
-   "title": "Lockerbie: A Search for Truth",
-   "imdbId": "tt31029686",
+   "title": "Reign",
+   "imdbId": "tt2710394",
    "kind": "SHOW",
-   "pk": [
-    "sst",
-    "amz"
-   ]
+   "pk": []
   },
   {
    "title": "Amadeus",
@@ -32865,6 +32892,16 @@
    "pk": [
     "plx",
     "dnp"
+   ]
+  },
+  {
+   "title": "Hiroshima Mon Amour",
+   "imdbId": "tt0052893",
+   "kind": "MOVIE",
+   "pk": [
+    "jfb",
+    "mbi",
+    "amu"
    ]
   },
   {
@@ -32948,12 +32985,11 @@
    ]
   },
   {
-   "title": "The Impossible",
-   "imdbId": "tt1649419",
-   "kind": "MOVIE",
+   "title": "Say Nothing",
+   "imdbId": "tt31122777",
+   "kind": "SHOW",
    "pk": [
-    "itu",
-    "amz"
+    "dnp"
    ]
   },
   {
@@ -32997,15 +33033,6 @@
     "wki",
     "itu",
     "amz"
-   ]
-  },
-  {
-   "title": "Black Hawk Down",
-   "imdbId": "tt0265086",
-   "kind": "MOVIE",
-   "pk": [
-    "amz",
-    "itu"
    ]
   },
   {
@@ -33061,15 +33088,6 @@
    ]
   },
   {
-   "title": "A Gentleman in Moscow",
-   "imdbId": "tt8230448",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ]
-  },
-  {
    "title": "The Last Duel",
    "imdbId": "tt4244994",
    "kind": "MOVIE",
@@ -33118,6 +33136,14 @@
    "pk": []
   },
   {
+   "title": "Young Washington",
+   "imdbId": "tt32104007",
+   "kind": "MOVIE",
+   "pk": [
+    "wki"
+   ]
+  },
+  {
    "title": "Victoria",
    "imdbId": "tt32535289",
    "kind": "SHOW",
@@ -33134,6 +33160,16 @@
     "itu",
     "amz",
     "wki"
+   ]
+  },
+  {
+   "title": "Apocalypto",
+   "imdbId": "tt0472043",
+   "kind": "MOVIE",
+   "pk": [
+    "alg",
+    "itu",
+    "amz"
    ]
   },
   {
@@ -33154,6 +33190,14 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "John Adams",
+   "imdbId": "tt0472027",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   },
   {
@@ -33184,33 +33228,11 @@
    ]
   },
   {
-   "title": "Elvis",
-   "imdbId": "tt3704428",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "mxx",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Sully",
    "imdbId": "tt3263904",
    "kind": "MOVIE",
    "pk": [
     "nfx",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
-   "title": "The Northman",
-   "imdbId": "tt11138512",
-   "kind": "MOVIE",
-   "pk": [
     "itu",
     "wki",
     "amz"
@@ -33244,17 +33266,6 @@
    ]
   },
   {
-   "title": "The Favourite",
-   "imdbId": "tt5083738",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Deadwood",
    "imdbId": "tt0348914",
    "kind": "SHOW",
@@ -33272,11 +33283,29 @@
    ]
   },
   {
+   "title": "The Impossible",
+   "imdbId": "tt1649419",
+   "kind": "MOVIE",
+   "pk": [
+    "itu",
+    "amz"
+   ]
+  },
+  {
    "title": "Cable Girls",
    "imdbId": "tt5674718",
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "The History of Sound",
+   "imdbId": "tt15799524",
+   "kind": "MOVIE",
+   "pk": [
+    "sst",
+    "sml"
    ]
   },
   {
@@ -33303,6 +33332,14 @@
    "pk": []
   },
   {
+   "title": "The 13th Warrior",
+   "imdbId": "tt0120657",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp"
+   ]
+  },
+  {
    "title": "Richard Jewell",
    "imdbId": "tt3513548",
    "kind": "MOVIE",
@@ -33310,25 +33347,6 @@
     "itu",
     "amz",
     "wki"
-   ]
-  },
-  {
-   "title": "The History of Sound",
-   "imdbId": "tt15799524",
-   "kind": "MOVIE",
-   "pk": [
-    "sst",
-    "sml"
-   ]
-  },
-  {
-   "title": "Apocalypto",
-   "imdbId": "tt0472043",
-   "kind": "MOVIE",
-   "pk": [
-    "alg",
-    "itu",
-    "amz"
    ]
   },
   {
@@ -33349,21 +33367,12 @@
    ]
   },
   {
-   "title": "Tombstone",
-   "imdbId": "tt0108358",
-   "kind": "MOVIE",
+   "title": "A Gentleman in Moscow",
+   "imdbId": "tt8230448",
+   "kind": "SHOW",
    "pk": [
-    "dnp"
-   ]
-  },
-  {
-   "title": "Hiroshima Mon Amour",
-   "imdbId": "tt0052893",
-   "kind": "MOVIE",
-   "pk": [
-    "jfb",
-    "mbi",
-    "amu"
+    "sst",
+    "sml"
    ]
   },
   {
@@ -33376,6 +33385,20 @@
    ]
   },
   {
+   "title": "Tombstone",
+   "imdbId": "tt0108358",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp"
+   ]
+  },
+  {
+   "title": "The Founder",
+   "imdbId": "tt4276820",
+   "kind": "MOVIE",
+   "pk": []
+  },
+  {
    "title": "The Big Short",
    "imdbId": "tt1596363",
    "kind": "MOVIE",
@@ -33384,6 +33407,23 @@
     "itu",
     "amz"
    ]
+  },
+  {
+   "title": "The Favourite",
+   "imdbId": "tt5083738",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Beyond Utopia",
+   "imdbId": "tt25470468",
+   "kind": "MOVIE",
+   "pk": []
   },
   {
    "title": "Elizabeth: The Golden Age",
@@ -33409,6 +33449,18 @@
    "kind": "MOVIE",
    "pk": [
     "prv",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "Elvis",
+   "imdbId": "tt3704428",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "mxx",
     "itu",
     "wki",
     "amz"
@@ -33448,38 +33500,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Manhattan",
-   "imdbId": "tt3231564",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
-   "title": "The Knick",
-   "imdbId": "tt2937900",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
-  },
-  {
-   "title": "Say Nothing",
-   "imdbId": "tt31122777",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
-   "title": "Band of Brothers",
-   "imdbId": "tt0185906",
-   "kind": "SHOW",
-   "pk": [
-    "prv",
-    "mxx",
-    "amz"
    ]
   }
  ],
@@ -33799,14 +33819,6 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Zodiac",
    "imdbId": "tt0443706",
    "kind": "MOVIE",
@@ -34095,6 +34107,14 @@
    "pk": [
     "atp",
     "avl"
+   ]
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -34394,12 +34414,6 @@
    ]
   },
   {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "Fury",
    "imdbId": "tt2713180",
    "kind": "MOVIE",
@@ -34420,12 +34434,10 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
+   "title": "Gunpowder",
+   "imdbId": "tt6128262",
    "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
+   "pk": []
   },
   {
    "title": "Incendies",
@@ -34441,6 +34453,14 @@
    "imdbId": "tt37433759",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "The Last Kingdom",
+   "imdbId": "tt4179452",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
   },
   {
    "title": "The Tudors",
@@ -34497,12 +34517,6 @@
    ]
   },
   {
-   "title": "Years and Years",
-   "imdbId": "tt8694364",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "The Last Samurai",
    "imdbId": "tt0325710",
    "kind": "MOVIE",
@@ -34515,18 +34529,18 @@
    ]
   },
   {
+   "title": "Years and Years",
+   "imdbId": "tt8694364",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Nuremberg",
    "imdbId": "tt29567915",
    "kind": "MOVIE",
    "pk": [
     "wki"
    ]
-  },
-  {
-   "title": "Has Fallen",
-   "imdbId": "tt33184638",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Gangs of London",
@@ -34560,6 +34574,12 @@
    "pk": [
     "mxx"
    ]
+  },
+  {
+   "title": "Has Fallen",
+   "imdbId": "tt33184638",
+   "kind": "SHOW",
+   "pk": []
   },
   {
    "title": "Fauda",
@@ -34645,12 +34665,6 @@
    ]
   },
   {
-   "title": "M*A*S*H",
-   "imdbId": "tt0068098",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "All Quiet on the Western Front",
    "imdbId": "tt1016150",
    "kind": "MOVIE",
@@ -34665,15 +34679,6 @@
    "pk": [
     "sst",
     "sml"
-   ]
-  },
-  {
-   "title": "Black Hawk Down",
-   "imdbId": "tt0265086",
-   "kind": "MOVIE",
-   "pk": [
-    "amz",
-    "itu"
    ]
   },
   {
@@ -34729,6 +34734,12 @@
    ]
   },
   {
+   "title": "M*A*S*H",
+   "imdbId": "tt0068098",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Star City",
    "imdbId": "tt32140872",
    "kind": "SHOW",
@@ -34749,6 +34760,14 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Young Washington",
+   "imdbId": "tt32104007",
+   "kind": "MOVIE",
+   "pk": [
+    "wki"
    ]
   },
   {
@@ -34898,17 +34917,6 @@
    ]
   },
   {
-   "title": "Master and Commander: The Far Side of the World",
-   "imdbId": "tt0311113",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "War Dogs",
    "imdbId": "tt2005151",
    "kind": "MOVIE",
@@ -34955,6 +34963,17 @@
    "pk": [
     "sst",
     "sml",
+    "amz"
+   ]
+  },
+  {
+   "title": "Master and Commander: The Far Side of the World",
+   "imdbId": "tt0311113",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
     "amz"
    ]
   },
@@ -35075,6 +35094,14 @@
    ]
   },
   {
+   "title": "Zero Day",
+   "imdbId": "tt23872886",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "Vikings: Valhalla",
    "imdbId": "tt11311302",
    "kind": "SHOW",
@@ -35113,14 +35140,6 @@
    "pk": []
   },
   {
-   "title": "Run Silent, Run Deep",
-   "imdbId": "tt0052151",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
    "imdbId": "tt0057012",
    "kind": "MOVIE",
@@ -35135,6 +35154,14 @@
    "imdbId": "tt5541338",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "Run Silent, Run Deep",
+   "imdbId": "tt0052151",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
+   ]
   },
   {
    "title": "Medici: Masters of Florence",
@@ -35217,12 +35244,6 @@
    "pk": [
     "prv"
    ]
-  },
-  {
-   "title": "Come and See",
-   "imdbId": "tt0091251",
-   "kind": "MOVIE",
-   "pk": []
   }
  ],
  "G:wsn": [
@@ -35429,6 +35450,12 @@
    ]
   },
   {
+   "title": "The English",
+   "imdbId": "tt11771270",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Deadwood",
    "imdbId": "tt0348914",
    "kind": "SHOW",
@@ -35482,14 +35509,6 @@
    "pk": []
   },
   {
-   "title": "Tombstone",
-   "imdbId": "tt0108358",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp"
-   ]
-  },
-  {
    "title": "The Good, the Bad and the Ugly",
    "imdbId": "tt0060196",
    "kind": "MOVIE",
@@ -35497,6 +35516,14 @@
     "mgp",
     "itu",
     "amz"
+   ]
+  },
+  {
+   "title": "Tombstone",
+   "imdbId": "tt0108358",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp"
    ]
   },
   {
@@ -35641,7 +35668,8 @@
    "imdbId": "tt35887288",
    "kind": "MOVIE",
    "pk": [
-    "mxx"
+    "mxx",
+    "amz"
    ]
   },
   {
@@ -35704,12 +35732,6 @@
     "itu",
     "amz"
    ]
-  },
-  {
-   "title": "The English",
-   "imdbId": "tt11771270",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "Chaos Walking",
@@ -36129,14 +36151,6 @@
    "pk": []
   },
   {
-   "title": "WWE SmackDown",
-   "imdbId": "tt0227972",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Bigg Boss",
    "imdbId": "tt1281973",
    "kind": "SHOW",
@@ -36153,6 +36167,14 @@
    "imdbId": "tt15557874",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "WWE SmackDown",
+   "imdbId": "tt0227972",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
   },
   {
    "title": "Last Week Tonight with John Oliver",
@@ -36184,19 +36206,19 @@
    ]
   },
   {
-   "title": "Harry Potter: Wizards of Baking",
-   "imdbId": "tt32374361",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
-  },
-  {
    "title": "100 Days of Deception",
    "imdbId": "tt39201866",
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Love Island",
+   "imdbId": "tt4770018",
+   "kind": "SHOW",
+   "pk": [
+    "sic"
    ]
   },
   {
@@ -36220,6 +36242,22 @@
    "pk": []
   },
   {
+   "title": "Married at First Sight Australia",
+   "imdbId": "tt4771108",
+   "kind": "SHOW",
+   "pk": [
+    "sic"
+   ]
+  },
+  {
+   "title": "Alone",
+   "imdbId": "tt4803766",
+   "kind": "SHOW",
+   "pk": [
+    "sic"
+   ]
+  },
+  {
    "title": "Naked and Afraid: Global Showdown",
    "imdbId": "tt40903597",
    "kind": "SHOW",
@@ -36228,18 +36266,18 @@
    ]
   },
   {
+   "title": "Rebelde",
+   "imdbId": "tt0414766",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Gold Rush",
    "imdbId": "tt1800864",
    "kind": "SHOW",
    "pk": [
     "mxx"
    ]
-  },
-  {
-   "title": "Love Island Australia",
-   "imdbId": "tt8467296",
-   "kind": "SHOW",
-   "pk": []
   },
   {
    "title": "LOL: Last One Laughing Philippines",
@@ -36264,10 +36302,12 @@
    ]
   },
   {
-   "title": "Rebelde",
-   "imdbId": "tt0414766",
+   "title": "Harry Potter: Wizards of Baking",
+   "imdbId": "tt32374361",
    "kind": "SHOW",
-   "pk": []
+   "pk": [
+    "mxx"
+   ]
   },
   {
    "title": "The O.C.",
@@ -36310,6 +36350,12 @@
     "ahy",
     "dnp"
    ]
+  },
+  {
+   "title": "Love Island Australia",
+   "imdbId": "tt8467296",
+   "kind": "SHOW",
+   "pk": []
   },
   {
    "title": "Deadly Tag",
@@ -36388,14 +36434,6 @@
    "pk": []
   },
   {
-   "title": "Alone",
-   "imdbId": "tt4803766",
-   "kind": "SHOW",
-   "pk": [
-    "sic"
-   ]
-  },
-  {
    "title": "The Voice",
    "imdbId": "tt1839337",
    "kind": "SHOW",
@@ -36418,10 +36456,26 @@
    ]
   },
   {
+   "title": "Real Time with Bill Maher",
+   "imdbId": "tt0350448",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ]
+  },
+  {
    "title": "The Traitors: UK",
    "imdbId": "tt23743442",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "90 Day Fiancé: The Other Way",
+   "imdbId": "tt9170070",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
+   ]
   },
   {
    "title": "Big Brother",
@@ -36438,6 +36492,15 @@
    ]
   },
   {
+   "title": "Ghostbreakers",
+   "imdbId": "tt1859810",
+   "kind": "SHOW",
+   "pk": [
+    "jfb",
+    "plx"
+   ]
+  },
+  {
    "title": "Ice Cold Gold",
    "imdbId": "tt2812850",
    "kind": "SHOW",
@@ -36448,14 +36511,6 @@
    "imdbId": "tt8819906",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "90 Day Fiancé: The Other Way",
-   "imdbId": "tt9170070",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
   },
   {
    "title": "You're the Worst",
@@ -36480,14 +36535,6 @@
    "imdbId": "tt0176095",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "The Garden: Commune or Cult",
-   "imdbId": "tt29890377",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
   },
   {
    "title": "Dance Moms",
@@ -36525,6 +36572,14 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "The Garden: Commune or Cult",
+   "imdbId": "tt29890377",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   },
   {
@@ -36587,14 +36642,6 @@
    ]
   },
   {
-   "title": "Squid Game: The Challenge",
-   "imdbId": "tt28104766",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Better Late Than Single",
    "imdbId": "tt35668156",
    "kind": "SHOW",
@@ -36628,14 +36675,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Married at First Sight Australia",
-   "imdbId": "tt4771108",
-   "kind": "SHOW",
-   "pk": [
-    "sic"
    ]
   },
   {
@@ -36686,19 +36725,19 @@
    ]
   },
   {
+   "title": "Squid Game: The Challenge",
+   "imdbId": "tt28104766",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "Below Deck Down Under",
    "imdbId": "tt14721554",
    "kind": "SHOW",
    "pk": [
     "ahy"
-   ]
-  },
-  {
-   "title": "Edge of Alaska",
-   "imdbId": "tt4287280",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -36710,11 +36749,11 @@
    ]
   },
   {
-   "title": "Último a Sair",
-   "imdbId": "tt1925393",
+   "title": "Edge of Alaska",
+   "imdbId": "tt4287280",
    "kind": "SHOW",
    "pk": [
-    "rtp"
+    "mxx"
    ]
   },
   {
@@ -36731,6 +36770,14 @@
    "kind": "SHOW",
    "pk": [
     "mxx"
+   ]
+  },
+  {
+   "title": "Último a Sair",
+   "imdbId": "tt1925393",
+   "kind": "SHOW",
+   "pk": [
+    "rtp"
    ]
   },
   {
@@ -36798,25 +36845,11 @@
    "pk": []
   },
   {
-   "title": "La Revuelta",
-   "imdbId": "tt33362276",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "ESPN Jeopardy!",
    "imdbId": "tt41983415",
    "kind": "SHOW",
    "pk": [
     "dnp"
-   ]
-  },
-  {
-   "title": "Real Time with Bill Maher",
-   "imdbId": "tt0350448",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
    ]
   },
   {
@@ -36830,23 +36863,9 @@
    "imdbId": "tt1827882",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "90 Day: Hunt for Love",
-   "imdbId": "tt48360139",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
   }
  ],
  "G:eur": [
-  {
-   "title": "Gunpowder",
-   "imdbId": "tt6128262",
-   "kind": "SHOW",
-   "pk": []
-  },
   {
    "title": "Perfume: The Story of a Murderer",
    "imdbId": "tt0396171",
@@ -36877,12 +36896,10 @@
    ]
   },
   {
-   "title": "The Last Kingdom",
-   "imdbId": "tt4179452",
+   "title": "Gunpowder",
+   "imdbId": "tt6128262",
    "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
+   "pk": []
   },
   {
    "title": "The Hunger Games: Mockingjay - Part 2",
@@ -36899,6 +36916,14 @@
    "pk": [
     "prv",
     "fil"
+   ]
+  },
+  {
+   "title": "The Last Kingdom",
+   "imdbId": "tt4179452",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -37045,6 +37070,12 @@
    ]
   },
   {
+   "title": "Mr. Bean",
+   "imdbId": "tt0096657",
+   "kind": "SHOW",
+   "pk": []
+  },
+  {
    "title": "Downton Abbey",
    "imdbId": "tt1606375",
    "kind": "SHOW",
@@ -37150,28 +37181,12 @@
    "pk": []
   },
   {
-   "title": "Mr. Bean",
-   "imdbId": "tt0096657",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
    "title": "The Commuter",
    "imdbId": "tt1590193",
    "kind": "MOVIE",
    "pk": [
     "nfx",
     "prv"
-   ]
-  },
-  {
-   "title": "The NeverEnding Story",
-   "imdbId": "tt0088323",
-   "kind": "MOVIE",
-   "pk": [
-    "wki",
-    "alg",
-    "amz"
    ]
   },
   {
@@ -37250,6 +37265,16 @@
    ]
   },
   {
+   "title": "Hiroshima Mon Amour",
+   "imdbId": "tt0052893",
+   "kind": "MOVIE",
+   "pk": [
+    "jfb",
+    "mbi",
+    "amu"
+   ]
+  },
+  {
    "title": "The IT Crowd",
    "imdbId": "tt0487831",
    "kind": "SHOW",
@@ -37269,6 +37294,12 @@
    "title": "Burning",
    "imdbId": "tt7282468",
    "kind": "MOVIE",
+   "pk": []
+  },
+  {
+   "title": "Deutschland 83",
+   "imdbId": "tt4445154",
+   "kind": "SHOW",
    "pk": []
   },
   {
@@ -37298,15 +37329,6 @@
     "nfx",
     "itu",
     "wki",
-    "amz"
-   ]
-  },
-  {
-   "title": "The Impossible",
-   "imdbId": "tt1649419",
-   "kind": "MOVIE",
-   "pk": [
-    "itu",
     "amz"
    ]
   },
@@ -37412,6 +37434,17 @@
    ]
   },
   {
+   "title": "The Chronicles of Narnia: Prince Caspian",
+   "imdbId": "tt0499448",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "National Lampoon's Christmas Vacation",
    "imdbId": "tt0097958",
    "kind": "MOVIE",
@@ -37456,6 +37489,16 @@
     "prv",
     "itu",
     "wki",
+    "amz"
+   ]
+  },
+  {
+   "title": "The NeverEnding Story",
+   "imdbId": "tt0088323",
+   "kind": "MOVIE",
+   "pk": [
+    "wki",
+    "alg",
     "amz"
    ]
   },
@@ -37557,16 +37600,6 @@
    "pk": []
   },
   {
-   "title": "C'era una volta in America",
-   "imdbId": "tt0087843",
-   "kind": "MOVIE",
-   "pk": [
-    "wki",
-    "itu",
-    "amz"
-   ]
-  },
-  {
    "title": "The Holiday",
    "imdbId": "tt0457939",
    "kind": "MOVIE",
@@ -37577,6 +37610,16 @@
     "itu",
     "amz",
     "wki"
+   ]
+  },
+  {
+   "title": "C'era una volta in America",
+   "imdbId": "tt0087843",
+   "kind": "MOVIE",
+   "pk": [
+    "wki",
+    "itu",
+    "amz"
    ]
   },
   {
@@ -37596,17 +37639,6 @@
    "imdbId": "tt0253474",
    "kind": "MOVIE",
    "pk": [
-    "amz"
-   ]
-  },
-  {
-   "title": "The Favourite",
-   "imdbId": "tt5083738",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "itu",
-    "wki",
     "amz"
    ]
   },
@@ -37683,14 +37715,6 @@
     "fil",
     "mbi",
     "amu"
-   ]
-  },
-  {
-   "title": "Borgen",
-   "imdbId": "tt1526318",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   }
  ],
@@ -38559,21 +38583,21 @@
    ]
   },
   {
-   "title": "The Unbearable Weight of Massive Talent",
-   "imdbId": "tt11291274",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "amz",
-    "itu"
-   ]
-  },
-  {
    "title": "Time",
    "imdbId": "tt13138834",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "12 Angry Men",
+   "imdbId": "tt0050083",
+   "kind": "MOVIE",
+   "pk": [
+    "mgp",
+    "itu",
+    "wki",
+    "amz"
+   ]
   }
  ],
  "G:fnt": [
@@ -38714,14 +38738,6 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Toy Story 5",
    "imdbId": "tt29355505",
    "kind": "MOVIE",
@@ -38776,6 +38792,14 @@
    "pk": [
     "prv",
     "mxx"
+   ]
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -38836,9 +38860,9 @@
    "imdbId": "tt32588798",
    "kind": "MOVIE",
    "pk": [
+    "wki",
     "amz",
-    "itu",
-    "wki"
+    "itu"
    ]
   },
   {
@@ -38884,15 +38908,6 @@
    ]
   },
   {
-   "title": "Tensei Kizoku, Kantei Skill de Nariagaru",
-   "imdbId": "tt31975847",
-   "kind": "SHOW",
-   "pk": [
-    "cru",
-    "cra"
-   ]
-  },
-  {
    "title": "Yoroï",
    "imdbId": "tt33402929",
    "kind": "MOVIE",
@@ -38909,6 +38924,15 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+   "imdbId": "tt43650300",
+   "kind": "SHOW",
+   "pk": [
+    "cru",
+    "cra"
    ]
   },
   {
@@ -39062,6 +39086,15 @@
    ]
   },
   {
+   "title": "Legend",
+   "imdbId": "tt0089469",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "amz"
+   ]
+  },
+  {
    "title": "Your Name.",
    "imdbId": "tt5311514",
    "kind": "MOVIE",
@@ -39158,17 +39191,6 @@
    ]
   },
   {
-   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
-   "imdbId": "tt3949660",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu",
-    "wki"
-   ]
-  },
-  {
    "title": "The Sandman",
    "imdbId": "tt1751634",
    "kind": "SHOW",
@@ -39217,6 +39239,17 @@
    ]
   },
   {
+   "title": "Bram Stoker's Dracula",
+   "imdbId": "tt0103874",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "Mayfair Witches",
    "imdbId": "tt15428778",
    "kind": "SHOW",
@@ -39240,6 +39273,17 @@
    "imdbId": "tt3960394",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+   "imdbId": "tt3949660",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
+   ]
   },
   {
    "title": "Wednesday",
@@ -39280,14 +39324,6 @@
    ]
   },
   {
-   "title": "Lucifer",
-   "imdbId": "tt4052886",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Death Note",
    "imdbId": "tt0877057",
    "kind": "SHOW",
@@ -39299,12 +39335,6 @@
   {
    "title": "The Nevers",
    "imdbId": "tt8697870",
-   "kind": "SHOW",
-   "pk": []
-  },
-  {
-   "title": "Sailor Moon",
-   "imdbId": "tt0103369",
    "kind": "SHOW",
    "pk": []
   },
@@ -39356,6 +39386,17 @@
    ]
   },
   {
+   "title": "Soul",
+   "imdbId": "tt2948372",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu",
+    "wki"
+   ]
+  },
+  {
    "title": "Pantheon",
    "imdbId": "tt11680642",
    "kind": "SHOW",
@@ -39369,14 +39410,6 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
-   ]
-  },
-  {
-   "title": "Buffy the Vampire Slayer",
-   "imdbId": "tt0118276",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
    ]
   },
   {
@@ -39555,6 +39588,16 @@
    ]
   },
   {
+   "title": "mother!",
+   "imdbId": "tt5109784",
+   "kind": "MOVIE",
+   "pk": [
+    "dnp",
+    "amz",
+    "itu"
+   ]
+  },
+  {
    "title": "Over the Garden Wall",
    "imdbId": "tt3718778",
    "kind": "SHOW",
@@ -39571,30 +39614,12 @@
    ]
   },
   {
-   "title": "Castle Rock",
-   "imdbId": "tt6548228",
-   "kind": "SHOW",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "Widow's Bay",
    "imdbId": "tt33332385",
    "kind": "SHOW",
    "pk": [
     "atp",
     "avl"
-   ]
-  },
-  {
-   "title": "mother!",
-   "imdbId": "tt5109784",
-   "kind": "MOVIE",
-   "pk": [
-    "dnp",
-    "amz",
-    "itu"
    ]
   },
   {
@@ -39630,6 +39655,14 @@
    "pk": [
     "prv",
     "mxx"
+   ]
+  },
+  {
+   "title": "Castle Rock",
+   "imdbId": "tt6548228",
+   "kind": "SHOW",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -39943,6 +39976,17 @@
    ]
   },
   {
+   "title": "Bram Stoker's Dracula",
+   "imdbId": "tt0103874",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
+    "itu",
+    "wki",
+    "amz"
+   ]
+  },
+  {
    "title": "The Returned",
    "imdbId": "tt2521668",
    "kind": "SHOW",
@@ -40063,30 +40107,10 @@
    ]
   },
   {
-   "title": "The Blair Witch Project",
-   "imdbId": "tt0185937",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "alg",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "The Body",
    "imdbId": "tt8014982",
    "kind": "SHOW",
    "pk": []
-  },
-  {
-   "title": "Buffy the Vampire Slayer",
-   "imdbId": "tt0118276",
-   "kind": "SHOW",
-   "pk": [
-    "dnp"
-   ]
   },
   {
    "title": "Black Christmas",
@@ -40225,17 +40249,6 @@
    ]
   },
   {
-   "title": "Bram Stoker's Dracula",
-   "imdbId": "tt0103874",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Dark Winds",
    "imdbId": "tt15017118",
    "kind": "SHOW",
@@ -40313,6 +40326,14 @@
    ]
   },
   {
+   "title": "Buffy the Vampire Slayer",
+   "imdbId": "tt0118276",
+   "kind": "SHOW",
+   "pk": [
+    "dnp"
+   ]
+  },
+  {
    "title": "Lore",
    "imdbId": "tt6130902",
    "kind": "SHOW",
@@ -40365,6 +40386,12 @@
     "sst",
     "sml"
    ]
+  },
+  {
+   "title": "Burning",
+   "imdbId": "tt7282468",
+   "kind": "MOVIE",
+   "pk": []
   }
  ]
 }

@@ -87,17 +87,65 @@
    "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
   },
   {
-   "id": "tt43681696",
-   "type": "series",
    "name": "Taken: Natalee Holloway",
-   "posterShape": "poster",
-   "poster": "https://image.tmdb.org/t/p/w500/lo1CMPtIlvI66w0PHjQ5s4TDSFx.jpg",
+   "cast": [
+    "Natalee Holloway",
+    "Beth Holloway"
+   ],
+   "country": "United States",
    "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
-   "releaseInfo": "2026",
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "imdbRating": "6.6",
+   "released": "2026-11-04T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "37 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
+   "background": "https://images.metahub.space/background/medium/tt43681696/img",
+   "id": "tt43681696",
    "genres": [
     "Documentário"
    ],
-   "imdbRating": "6.6"
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Taken: Natalee Holloway",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Natalee Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalee%20Holloway"
+    },
+    {
+     "name": "Beth Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Beth%20Holloway"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
   },
   {
    "name": "A Dog's Perfect Christmas",
