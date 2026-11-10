@@ -3774,7 +3774,7 @@
     "wki"
    ],
    "rank": 67,
-   "rise": 30
+   "rise": 32
   },
   {
    "title": "The Vampire Diaries",
@@ -3789,16 +3789,15 @@
    "rise": 238
   },
   {
-   "title": "The Wolf of Wall Street",
-   "imdbId": "tt0993846",
+   "title": "Christy",
+   "imdbId": "tt32323252",
    "kind": "MOVIE",
    "pk": [
-    "prv",
     "mxx",
     "wki"
    ],
    "rank": 68,
-   "rise": 124
+   "rise": 0
   },
   {
    "title": "The Dropout",
@@ -3811,15 +3810,16 @@
    "rise": 0
   },
   {
-   "title": "Christy",
-   "imdbId": "tt32323252",
+   "title": "The Wolf of Wall Street",
+   "imdbId": "tt0993846",
    "kind": "MOVIE",
    "pk": [
+    "prv",
     "mxx",
     "wki"
    ],
    "rank": 69,
-   "rise": 0
+   "rise": 124
   },
   {
    "title": "Furious",
@@ -8678,6 +8678,14 @@
    "pk": []
   },
   {
+   "title": "Money Trap",
+   "imdbId": "tt38732131",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
    "title": "American Beauty",
    "imdbId": "tt0169547",
    "kind": "MOVIE",
@@ -8685,14 +8693,6 @@
     "prv",
     "amz",
     "itu"
-   ]
-  },
-  {
-   "title": "Money Trap",
-   "imdbId": "tt38732131",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
    ]
   },
   {
@@ -9030,15 +9030,6 @@
    ]
   },
   {
-   "title": "Land of Bad",
-   "imdbId": "tt19864802",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki"
-   ]
-  },
-  {
    "title": "SCTV: The Greatest Show You've Never Heard Of",
    "imdbId": "tt44825373",
    "kind": "MOVIE",
@@ -9084,6 +9075,15 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "Land of Bad",
+   "imdbId": "tt19864802",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki"
    ]
   },
   {
@@ -9465,16 +9465,6 @@
    "pk": []
   },
   {
-   "title": "Barbarian",
-   "imdbId": "tt15791034",
-   "kind": "MOVIE",
-   "pk": [
-    "itu",
-    "wki",
-    "amz"
-   ]
-  },
-  {
    "title": "Mad Max: Fury Road",
    "imdbId": "tt1392190",
    "kind": "MOVIE",
@@ -9494,6 +9484,16 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Barbarian",
+   "imdbId": "tt15791034",
+   "kind": "MOVIE",
+   "pk": [
+    "itu",
+    "wki",
+    "amz"
    ]
   },
   {
@@ -10025,17 +10025,6 @@
    ]
   },
   {
-   "title": "Runner Runner",
-   "imdbId": "tt2364841",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "itu",
-    "amz"
-   ]
-  },
-  {
    "title": "Arrow",
    "imdbId": "tt2193021",
    "kind": "SHOW",
@@ -10146,6 +10135,17 @@
     "prv",
     "sst",
     "sml"
+   ]
+  },
+  {
+   "title": "Runner Runner",
+   "imdbId": "tt2364841",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki",
+    "itu",
+    "amz"
    ]
   },
   {
@@ -10871,16 +10871,6 @@
    "pk": []
   },
   {
-   "title": "Natural Born Killers",
-   "imdbId": "tt0110632",
-   "kind": "MOVIE",
-   "pk": [
-    "prv",
-    "wki",
-    "itu"
-   ]
-  },
-  {
    "title": "Saving Private Ryan",
    "imdbId": "tt0120815",
    "kind": "MOVIE",
@@ -10889,6 +10879,16 @@
     "amz",
     "itu",
     "wki"
+   ]
+  },
+  {
+   "title": "Natural Born Killers",
+   "imdbId": "tt0110632",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "wki",
+    "itu"
    ]
   },
   {
@@ -16501,6 +16501,15 @@
    ]
   },
   {
+   "title": "Will Trent",
+   "imdbId": "tt17543592",
+   "kind": "SHOW",
+   "pk": [
+    "nfx",
+    "dnp"
+   ]
+  },
+  {
    "title": "GOAT",
    "imdbId": "tt27613895",
    "kind": "MOVIE",
@@ -16509,15 +16518,6 @@
     "itu",
     "wki",
     "amz"
-   ]
-  },
-  {
-   "title": "Will Trent",
-   "imdbId": "tt17543592",
-   "kind": "SHOW",
-   "pk": [
-    "nfx",
-    "dnp"
    ]
   },
   {
@@ -23628,14 +23628,6 @@
    ]
   },
   {
-   "title": "Fisk",
-   "imdbId": "tt13353168",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "Star Trek: Strange New Worlds",
    "imdbId": "tt12327578",
    "kind": "SHOW",
@@ -23647,6 +23639,14 @@
    "kind": "SHOW",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "Fisk",
+   "imdbId": "tt13353168",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -23688,19 +23688,19 @@
    ]
   },
   {
-   "title": "Stuart Fails to Save the Universe",
-   "imdbId": "tt27497393",
-   "kind": "SHOW",
-   "pk": [
-    "mxx"
-   ]
-  },
-  {
    "title": "Maximum Pleasure Guaranteed",
    "imdbId": "tt35946742",
    "kind": "SHOW",
    "pk": [
     "atp"
+   ]
+  },
+  {
+   "title": "Stuart Fails to Save the Universe",
+   "imdbId": "tt27497393",
+   "kind": "SHOW",
+   "pk": [
+    "mxx"
    ]
   },
   {
@@ -25423,21 +25423,21 @@
    ]
   },
   {
-   "title": "Field of Dreams",
-   "imdbId": "tt0097351",
-   "kind": "MOVIE",
-   "pk": [
-    "nfx",
-    "itu",
-    "amz"
-   ]
-  },
-  {
    "title": "Rocky IV",
    "imdbId": "tt0089927",
    "kind": "MOVIE",
    "pk": [
     "prv",
+    "itu",
+    "amz"
+   ]
+  },
+  {
+   "title": "Field of Dreams",
+   "imdbId": "tt0097351",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx",
     "itu",
     "amz"
    ]
@@ -26347,17 +26347,19 @@
    ]
   },
   {
-   "title": "Naked Ambition: An R Rated Look at an X Rated Industry",
-   "imdbId": "tt1404702",
-   "kind": "MOVIE",
-   "pk": []
-  },
-  {
    "title": "Journey through the Stars",
    "imdbId": "tt21908684",
    "kind": "MOVIE",
    "pk": [
     "prv"
+   ]
+  },
+  {
+   "title": "Eraserheads: Combo on the Run",
+   "imdbId": "tt36110471",
+   "kind": "MOVIE",
+   "pk": [
+    "nfx"
    ]
   }
  ],
@@ -28115,15 +28117,6 @@
    ]
   },
   {
-   "title": "It's the Great Pumpkin, Charlie Brown",
-   "imdbId": "tt0060550",
-   "kind": "MOVIE",
-   "pk": [
-    "atp",
-    "avl"
-   ]
-  },
-  {
    "title": "Spirited Away",
    "imdbId": "tt0245429",
    "kind": "MOVIE",
@@ -28138,6 +28131,14 @@
    "kind": "SHOW",
    "pk": [
     "nfx"
+   ]
+  },
+  {
+   "title": "Flow",
+   "imdbId": "tt4772188",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx"
    ]
   }
  ],
@@ -29775,6 +29776,15 @@
    "pk": []
   },
   {
+   "title": "Priscilla",
+   "imdbId": "tt22041854",
+   "kind": "MOVIE",
+   "pk": [
+    "mxx",
+    "wki"
+   ]
+  },
+  {
    "title": "Victorious",
    "imdbId": "tt1604099",
    "kind": "SHOW",
@@ -29875,12 +29885,6 @@
     "itu",
     "amz"
    ]
-  },
-  {
-   "title": "Spermageddon",
-   "imdbId": "tt14828040",
-   "kind": "MOVIE",
-   "pk": []
   }
  ],
  "G:scf": [
@@ -33088,13 +33092,13 @@
    ]
   },
   {
-   "title": "Apocalypto",
-   "imdbId": "tt0472043",
+   "title": "Elizabeth: The Golden Age",
+   "imdbId": "tt0414055",
    "kind": "MOVIE",
    "pk": [
-    "alg",
-    "itu",
-    "amz"
+    "prv",
+    "amz",
+    "itu"
    ]
   },
   {
@@ -33343,14 +33347,6 @@
    ]
   },
   {
-   "title": "Un delitto ideale",
-   "imdbId": "tt35318534",
-   "kind": "MOVIE",
-   "pk": [
-    "prv"
-   ]
-  },
-  {
    "title": "One Life",
    "imdbId": "tt13097932",
    "kind": "MOVIE",
@@ -33386,6 +33382,14 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "Un delitto ideale",
+   "imdbId": "tt35318534",
+   "kind": "MOVIE",
+   "pk": [
+    "prv"
    ]
   },
   {
@@ -34731,6 +34735,16 @@
    ]
   },
   {
+   "title": "Elizabeth: The Golden Age",
+   "imdbId": "tt0414055",
+   "kind": "MOVIE",
+   "pk": [
+    "prv",
+    "amz",
+    "itu"
+   ]
+  },
+  {
    "title": "Band of Brothers",
    "imdbId": "tt0185906",
    "kind": "SHOW",
@@ -35023,14 +35037,6 @@
    "pk": []
   },
   {
-   "title": "Traitors",
-   "imdbId": "tt7371896",
-   "kind": "SHOW",
-   "pk": [
-    "nfx"
-   ]
-  },
-  {
    "title": "The Tattooist of Auschwitz",
    "imdbId": "tt9022422",
    "kind": "SHOW",
@@ -35048,6 +35054,14 @@
     "mxx",
     "sst",
     "sml"
+   ]
+  },
+  {
+   "title": "Traitors",
+   "imdbId": "tt7371896",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
    ]
   },
   {
@@ -35121,15 +35135,6 @@
    ]
   },
   {
-   "title": "Shooter",
-   "imdbId": "tt4181172",
-   "kind": "SHOW",
-   "pk": [
-    "sst",
-    "sml"
-   ]
-  },
-  {
    "title": "Shine",
    "imdbId": "tt31116964",
    "kind": "SHOW",
@@ -35146,6 +35151,15 @@
    "imdbId": "tt3910804",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "Shooter",
+   "imdbId": "tt4181172",
+   "kind": "SHOW",
+   "pk": [
+    "sst",
+    "sml"
+   ]
   },
   {
    "title": "Love and Death",
@@ -35182,15 +35196,6 @@
     "dnp",
     "amz",
     "wki",
-    "itu"
-   ]
-  },
-  {
-   "title": "Cold Mountain",
-   "imdbId": "tt0159365",
-   "kind": "MOVIE",
-   "pk": [
-    "amz",
     "itu"
    ]
   }
@@ -35565,16 +35570,6 @@
     "wki",
     "amz",
     "itu"
-   ]
-  },
-  {
-   "title": "Blazing Saddles",
-   "imdbId": "tt0071230",
-   "kind": "MOVIE",
-   "pk": [
-    "itu",
-    "wki",
-    "amz"
    ]
   },
   {
@@ -36079,6 +36074,15 @@
     "itu",
     "wki",
     "amz"
+   ]
+  },
+  {
+   "title": "Fury",
+   "imdbId": "tt0047734",
+   "kind": "SHOW",
+   "pk": [
+    "jfb",
+    "plx"
    ]
   }
  ],
@@ -37222,12 +37226,6 @@
    ]
   },
   {
-   "title": "Dogville",
-   "imdbId": "tt0276919",
-   "kind": "MOVIE",
-   "pk": []
-  },
-  {
    "title": "Luther",
    "imdbId": "tt1474684",
    "kind": "SHOW",
@@ -37401,16 +37399,6 @@
    ]
   },
   {
-   "title": "Suburra",
-   "imdbId": "tt4025514",
-   "kind": "MOVIE",
-   "pk": [
-    "rtp",
-    "fil",
-    "amz"
-   ]
-  },
-  {
    "title": "Top Gear",
    "imdbId": "tt1628033",
    "kind": "SHOW",
@@ -37514,6 +37502,16 @@
    "imdbId": "tt1883092",
    "kind": "SHOW",
    "pk": []
+  },
+  {
+   "title": "Suburra",
+   "imdbId": "tt4025514",
+   "kind": "MOVIE",
+   "pk": [
+    "rtp",
+    "fil",
+    "amz"
+   ]
   },
   {
    "title": "Terminator 3: Rise of the Machines",
@@ -37648,6 +37646,14 @@
   {
    "title": "Money Heist",
    "imdbId": "tt6468322",
+   "kind": "SHOW",
+   "pk": [
+    "nfx"
+   ]
+  },
+  {
+   "title": "Borgen",
+   "imdbId": "tt1526318",
    "kind": "SHOW",
    "pk": [
     "nfx"
@@ -39400,14 +39406,14 @@
    ]
   },
   {
-   "title": "Ghostbusters: Frozen Empire",
-   "imdbId": "tt21235248",
+   "title": "Ratatouille",
+   "imdbId": "tt0382932",
    "kind": "MOVIE",
    "pk": [
-    "prv",
-    "amz",
+    "dnp",
     "itu",
-    "wki"
+    "wki",
+    "amz"
    ]
   }
  ],
