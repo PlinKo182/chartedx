@@ -1,92 +1,6 @@
 {
  "metas": [
   {
-   "name": "Minha Amiga",
-   "cast": [
-    "Albano Jerónimo",
-    "Ricardo Pereira",
-    "Ingrid Guimarães"
-   ],
-   "country": "Brazil",
-   "director": [
-    "Susana Garcia"
-   ],
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "6.3",
-   "released": null,
-   "writer": [
-    "Andrea Batitucci",
-    "Susana Garcia",
-    "Ingrid Guimarães"
-   ],
-   "year": "2026",
-   "runtime": "125 min",
-   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
-   "background": "https://images.metahub.space/background/medium/tt37458193/img",
-   "id": "tt37458193",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Minha Amiga",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Albano Jerónimo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
-    },
-    {
-     "name": "Ricardo Pereira",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ricardo%20Pereira"
-    },
-    {
-     "name": "Ingrid Guimarães",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Andrea Batitucci",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrea%20Batitucci"
-    },
-    {
-     "name": "Susana Garcia",
-     "category": "Writers",
-     "url": "stremio:///search?search=Susana%20Garcia"
-    },
-    {
-     "name": "Ingrid Guimarães",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
-    },
-    {
-     "name": "Susana Garcia",
-     "category": "Directors",
-     "url": "stremio:///search?search=Susana%20Garcia"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt37458193",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
-   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
-  },
-  {
    "name": "Sorry, Baby",
    "awards": "36 wins & 115 nominations total",
    "cast": [
@@ -200,6 +114,92 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32843349.jpg"
+  },
+  {
+   "name": "Minha Amiga",
+   "cast": [
+    "Albano Jerónimo",
+    "Ricardo Pereira",
+    "Ingrid Guimarães"
+   ],
+   "country": "Brazil",
+   "director": [
+    "Susana Garcia"
+   ],
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "6.2",
+   "released": null,
+   "writer": [
+    "Andrea Batitucci",
+    "Susana Garcia",
+    "Ingrid Guimarães"
+   ],
+   "year": "2026",
+   "runtime": "125 min",
+   "logo": "https://images.metahub.space/logo/medium/tt37458193/img",
+   "background": "https://images.metahub.space/background/medium/tt37458193/img",
+   "id": "tt37458193",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Minha Amiga",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/minha-amiga-37458193"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Albano Jerónimo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Albano%20Jer%C3%B3nimo"
+    },
+    {
+     "name": "Ricardo Pereira",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ricardo%20Pereira"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Andrea Batitucci",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrea%20Batitucci"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Writers",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    },
+    {
+     "name": "Ingrid Guimarães",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ingrid%20Guimar%C3%A3es"
+    },
+    {
+     "name": "Susana Garcia",
+     "category": "Directors",
+     "url": "stremio:///search?search=Susana%20Garcia"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt37458193",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
+   "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
   },
   {
    "name": "The Invite",
@@ -641,61 +641,63 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072251.jpg"
   },
   {
-   "name": "Marty Supreme",
+   "name": "Wunderschön",
    "cast": [
-    "Timothée Chalamet",
-    "Gwyneth Paltrow",
-    "Odessa A&apos;zion"
+    "Emilia Schüle",
+    "Martina Gedeck",
+    "Nora Tschirner"
    ],
-   "country": "United States, Finland",
-   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
+   "country": "Germany",
    "director": [
-    "Josh Safdie"
+    "Karoline Herfurth"
+   ],
+   "imdbRating": "7.0",
+   "released": "2022-02-03T00:00:00.000Z",
+   "writer": [
+    "Monika Fäßler",
+    "Karoline Herfurth",
+    "Lena Stahl"
+   ],
+   "year": "2022",
+   "trailers": [
+    {
+     "source": "przVUdwnm10",
+     "type": "Trailer"
+    }
    ],
    "genre": [
     "Comedy",
     "Drama",
-    "Sport"
+    "Romance"
    ],
-   "imdbRating": "7.5",
-   "released": "2025-12-25T00:00:00.000Z",
-   "writer": [
-    "Ronald Bronstein",
-    "Josh Safdie"
-   ],
-   "year": "2025",
-   "runtime": "150 min",
-   "background": "https://images.metahub.space/background/medium/tt32916440/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
-   "trailers": [
-    {
-     "source": "s9gSuKaKcqM",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
-   "id": "tt32916440",
+   "description": "Beleza é uma histório sobre episódica sobre mulheres muito diferentes e sua difícil tarefa de descobrir o que é a beleza.\r Cinco mulheres de diferentes idades são confrontadas com a sua auto-imagem e as exigências de si e dos outros.",
+   "background": "https://images.metahub.space/background/medium/tt12194006/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12194006/img",
+   "awards": "3 wins & 2 nominations",
+   "runtime": "132 min",
+   "id": "tt12194006",
    "genres": [
     "Drama",
-    "Thriller"
+    "Comédia",
+    "Romance"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Marty Supreme",
-     "ytId": "s9gSuKaKcqM"
+     "title": "Wunderschön",
+     "ytId": "przVUdwnm10"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "7.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt32916440"
+     "url": "https://imdb.com/title/tt12194006"
     },
     {
-     "name": "Marty Supreme",
+     "name": "Wunderschön",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
+     "url": "https://www.strem.io/s/movie/wunderschn-12194006"
     },
     {
      "name": "Comedy",
@@ -708,48 +710,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Sport",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Timothée Chalamet",
+     "name": "Emilia Schüle",
      "category": "Cast",
-     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+     "url": "stremio:///search?search=Emilia%20Sch%C3%BCle"
     },
     {
-     "name": "Gwyneth Paltrow",
+     "name": "Martina Gedeck",
      "category": "Cast",
-     "url": "stremio:///search?search=Gwyneth%20Paltrow"
+     "url": "stremio:///search?search=Martina%20Gedeck"
     },
     {
-     "name": "Odessa A&apos;zion",
+     "name": "Nora Tschirner",
      "category": "Cast",
-     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
+     "url": "stremio:///search?search=Nora%20Tschirner"
     },
     {
-     "name": "Ronald Bronstein",
+     "name": "Monika Fäßler",
      "category": "Writers",
-     "url": "stremio:///search?search=Ronald%20Bronstein"
+     "url": "stremio:///search?search=Monika%20F%C3%A4%C3%9Fler"
     },
     {
-     "name": "Josh Safdie",
+     "name": "Karoline Herfurth",
      "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Safdie"
+     "url": "stremio:///search?search=Karoline%20Herfurth"
     },
     {
-     "name": "Josh Safdie",
+     "name": "Lena Stahl",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lena%20Stahl"
+    },
+    {
+     "name": "Karoline Herfurth",
      "category": "Directors",
-     "url": "stremio:///search?search=Josh%20Safdie"
+     "url": "stremio:///search?search=Karoline%20Herfurth"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt32916440",
+    "defaultVideoId": "tt12194006",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12194006.jpg"
   },
   {
    "cast": [
@@ -879,81 +886,155 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
   },
   {
-   "name": "Toy Story 5",
-   "awards": "4 nominations total",
+   "name": "Masterplan",
    "cast": [
-    "Tom Hanks",
-    "Tim Allen",
-    "Joan Cusack"
+    "Stanley Tucci",
+    "Victor Belmondo",
+    "Simona Tabasco"
    ],
-   "country": "United States",
-   "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
+   "country": "France, Italy",
+   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
    "director": [
-    "McKenna Harris",
-    "Andrew Stanton"
+    "Thomas Vincent"
    ],
    "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
+    "Action",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "7.3",
-   "released": "2026-06-19T00:00:00.000Z",
+   "imdbRating": "5.4",
+   "released": "2026-10-16T00:00:00.000Z",
    "writer": [
-    "Andrew Stanton",
-    "McKenna Harris"
+    "Giacomo Durzi",
+    "Alessandro Fabbri",
+    "Alberto Vignati"
    ],
    "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
+   "background": "https://images.metahub.space/background/medium/tt38672588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
+   "id": "tt38672588",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "links": [
     {
-     "source": "QftAW9TTmuQ",
-     "type": "Trailer"
+     "name": "Masterplan",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/masterplan-38672588"
     },
     {
-     "source": "c51ND9Hdbw0",
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Stanley Tucci",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stanley%20Tucci"
+    },
+    {
+     "name": "Victor Belmondo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Victor%20Belmondo"
+    },
+    {
+     "name": "Simona Tabasco",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simona%20Tabasco"
+    },
+    {
+     "name": "Giacomo Durzi",
+     "category": "Writers",
+     "url": "stremio:///search?search=Giacomo%20Durzi"
+    },
+    {
+     "name": "Alessandro Fabbri",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alessandro%20Fabbri"
+    },
+    {
+     "name": "Alberto Vignati",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alberto%20Vignati"
+    },
+    {
+     "name": "Thomas Vincent",
+     "category": "Directors",
+     "url": "stremio:///search?search=Thomas%20Vincent"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38672588",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+  },
+  {
+   "name": "Practical Magic 2",
+   "cast": [
+    "Lee Pace",
+    "Nicole Kidman",
+    "Maisie Williams"
+   ],
+   "country": "United States",
+   "description": "As irmãs Owens têm de enfrentar a maldição sombria que ameaça destruir a sua família de uma vez por todas.",
+   "director": [
+    "Susanne Bier"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "6.0",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Akiva Goldsman",
+    "Alice Hoffman",
+    "Georgia Pritchett"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt32588798/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32588798/img",
+   "trailers": [
+    {
+     "source": "iSWP2feb4rw",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt29355505/img",
-   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
-   "id": "tt29355505",
+   "awards": "1 nomination total",
+   "id": "tt32588798",
    "genres": [
-    "Animação",
-    "Família",
+    "Romance",
+    "Fantasia",
     "Comédia"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Toy Story 5",
-     "ytId": "QftAW9TTmuQ"
-    },
-    {
-     "title": "Toy Story 5",
-     "ytId": "c51ND9Hdbw0"
+     "title": "Practical Magic 2",
+     "ytId": "iSWP2feb4rw"
     }
    ],
    "links": [
     {
-     "name": "7.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt29355505"
-    },
-    {
-     "name": "Toy Story 5",
+     "name": "Practical Magic 2",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "https://www.strem.io/s/movie/practical-magic-2-32588798"
     },
     {
      "name": "Comedy",
@@ -961,159 +1042,58 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Tom Hanks",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Tim Allen",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Allen"
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
-     "name": "Joan Cusack",
+     "name": "Lee Pace",
      "category": "Cast",
-     "url": "stremio:///search?search=Joan%20Cusack"
+     "url": "stremio:///search?search=Lee%20Pace"
     },
     {
-     "name": "Andrew Stanton",
+     "name": "Nicole Kidman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicole%20Kidman"
+    },
+    {
+     "name": "Maisie Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maisie%20Williams"
+    },
+    {
+     "name": "Akiva Goldsman",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Stanton"
+     "url": "stremio:///search?search=Akiva%20Goldsman"
     },
     {
-     "name": "McKenna Harris",
+     "name": "Alice Hoffman",
      "category": "Writers",
-     "url": "stremio:///search?search=McKenna%20Harris"
+     "url": "stremio:///search?search=Alice%20Hoffman"
     },
     {
-     "name": "McKenna Harris",
-     "category": "Directors",
-     "url": "stremio:///search?search=McKenna%20Harris"
+     "name": "Georgia Pritchett",
+     "category": "Writers",
+     "url": "stremio:///search?search=Georgia%20Pritchett"
     },
     {
-     "name": "Andrew Stanton",
+     "name": "Susanne Bier",
      "category": "Directors",
-     "url": "stremio:///search?search=Andrew%20Stanton"
+     "url": "stremio:///search?search=Susanne%20Bier"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt29355505",
+    "defaultVideoId": "tt32588798",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
-  },
-  {
-   "name": "Bad Apples",
-   "cast": [
-    "Eddie Waller",
-    "Sean Gilder",
-    "Harvey Ip"
-   ],
-   "country": "United Kingdom",
-   "description": "Uma professora primária em dificuldades é forçada a tomar medidas drásticas por causa de um aluno violento e desbocado, e descobre como a sua comunidade fecha os olhos aos acontecimentos mais ultrajantes para preservar a harmonia e a sua sensação de segurança.",
-   "director": [
-    "Jonatan Etzler"
-   ],
-   "genre": [
-    "Comedy",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "6.7",
-   "released": "2026-09-18T00:00:00.000Z",
-   "writer": [
-    "Jess O&apos;Kane",
-    "Rasmus Lindgren"
-   ],
-   "year": "2026",
-   "runtime": "100 min",
-   "trailers": [
-    {
-     "source": "4nhu80EmVQE",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "2 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt29714073/img",
-   "logo": "https://images.metahub.space/logo/medium/tt29714073/img",
-   "id": "tt29714073",
-   "genres": [
-    "Comédia",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Bad Apples",
-     "ytId": "4nhu80EmVQE"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt29714073"
-    },
-    {
-     "name": "Bad Apples",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/bad-apples-29714073"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Eddie Waller",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eddie%20Waller"
-    },
-    {
-     "name": "Sean Gilder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sean%20Gilder"
-    },
-    {
-     "name": "Harvey Ip",
-     "category": "Cast",
-     "url": "stremio:///search?search=Harvey%20Ip"
-    },
-    {
-     "name": "Jess O&apos;Kane",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jess%20O%26apos%3BKane"
-    },
-    {
-     "name": "Rasmus Lindgren",
-     "category": "Writers",
-     "url": "stremio:///search?search=Rasmus%20Lindgren"
-    },
-    {
-     "name": "Jonatan Etzler",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jonatan%20Etzler"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt29714073",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29714073.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32588798.jpg"
   }
  ]
 }

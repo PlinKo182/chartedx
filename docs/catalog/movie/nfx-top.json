@@ -14,7 +14,7 @@
    "genre": [
     "Comedy"
    ],
-   "imdbRating": "6.3",
+   "imdbRating": "6.2",
    "released": null,
    "writer": [
     "Andrea Batitucci",
@@ -190,7 +190,7 @@
    "director": [
     "Daniel Sánchez Arévalo"
    ],
-   "imdbRating": "5.6",
+   "imdbRating": "5.7",
    "released": null,
    "writer": [
     "Ramón Campos",
@@ -264,6 +264,111 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
    "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
+  },
+  {
+   "name": "Christmas in Love",
+   "cast": [
+    "Brooke D'Orsay",
+    "Daniel Lissing",
+    "Mary-Margaret Humes"
+   ],
+   "country": "United States",
+   "description": "Ellie Hartman, uma aspirante a artesã que trabalha na padaria de sua pequena cidade, mostra a Nick Carlingson - o novo CEO da cidade grande durante sua visita ao andar principal da padaria - que são as pessoas e não as máquinas que tornam o negócio um sucesso.",
+   "director": [
+    "Don McBrearty"
+   ],
+   "imdbRating": "6.3",
+   "released": "2018-11-11T00:00:00.000Z",
+   "writer": [
+    "Stephen A. Stewart",
+    "Bob Sáenz"
+   ],
+   "year": "2018",
+   "trailers": [
+    {
+     "source": "7mfuQl0Ov3o",
+     "type": "Trailer"
+    }
+   ],
+   "genre": [
+    "Drama",
+    "Romance"
+   ],
+   "runtime": "90 min",
+   "background": "https://images.metahub.space/background/medium/tt9033712/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9033712/img",
+   "id": "tt9033712",
+   "genres": [
+    "Cinema TV",
+    "Romance",
+    "Família"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "Christmas in Love",
+     "ytId": "7mfuQl0Ov3o"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9033712"
+    },
+    {
+     "name": "Christmas in Love",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/christmas-in-love-9033712"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Brooke D'Orsay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brooke%20D'Orsay"
+    },
+    {
+     "name": "Daniel Lissing",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Lissing"
+    },
+    {
+     "name": "Mary-Margaret Humes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mary-Margaret%20Humes"
+    },
+    {
+     "name": "Stephen A. Stewart",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stephen%20A.%20Stewart"
+    },
+    {
+     "name": "Bob Sáenz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bob%20S%C3%A1enz"
+    },
+    {
+     "name": "Don McBrearty",
+     "category": "Directors",
+     "url": "stremio:///search?search=Don%20McBrearty"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9033712",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033712.jpg"
   },
   {
    "awards": null,
@@ -373,60 +478,220 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0252503.jpg"
   },
   {
-   "name": "Christmas in Love",
+   "id": "tt48500521",
+   "behaviorHints": {
+    "defaultVideoId": "tt48500521",
+    "hasScheduledVideos": false
+   },
+   "links": [
+    {
+     "name": "Desprotexida: El crimen de Pazos",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Jorge Laplace",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jorge%20Laplace"
+    },
+    {
+     "name": "Jorge Laplace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jorge%20Laplace"
+    }
+   ],
+   "name": "Desprotexida: El crimen de Pazos",
+   "year": "2026",
+   "releaseInfo": "2026",
+   "genre": [
+    "Documentary"
+   ],
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "writer": [
+    "Jorge Laplace"
+   ],
+   "director": [
+    "Jorge Laplace"
+   ],
+   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
+   "language": "Spanish",
+   "country": "Spain",
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
+   "imdbRating": "6.2"
+  },
+  {
+   "name": "Christmas at the Palace",
    "cast": [
-    "Brooke D'Orsay",
-    "Daniel Lissing",
-    "Mary-Margaret Humes"
+    "Merritt Patterson",
+    "Andrew Cooper",
+    "Brittany Bristow"
    ],
    "country": "United States",
-   "description": "Ellie Hartman, uma aspirante a artesã que trabalha na padaria de sua pequena cidade, mostra a Nick Carlingson - o novo CEO da cidade grande durante sua visita ao andar principal da padaria - que são as pessoas e não as máquinas que tornam o negócio um sucesso.",
-   "director": [
-    "Don McBrearty"
+   "description": "Katie é uma patinadora do gelo olímpica aposentada que aceita um novo desafio. Ela terá que treinar uma princesa que precisa se preparar para uma tradição de Natal em seu palácio. Porém, ela se surpreende com a rotina real e descobre que a vida deles não é um conto de fadas.",
+   "genre": [
+    "Romance"
    ],
    "imdbRating": "6.3",
-   "released": "2018-11-11T00:00:00.000Z",
+   "released": "2018-11-22T00:00:00.000Z",
    "writer": [
-    "Stephen A. Stewart",
-    "Bob Sáenz"
+    "Joie Botkin",
+    "Matthew Coppola",
+    "Rick Garman"
    ],
    "year": "2018",
    "trailers": [
     {
-     "source": "7mfuQl0Ov3o",
+     "source": "gvoIawc8wpc",
      "type": "Trailer"
     }
    ],
-   "genre": [
-    "Drama",
-    "Romance"
+   "director": [
+    "Peter Hewitt"
    ],
    "runtime": "90 min",
-   "background": "https://images.metahub.space/background/medium/tt9033712/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9033712/img",
-   "id": "tt9033712",
+   "dvdRelease": "2019-10-22T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt9033632/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9033632/img",
+   "id": "tt9033632",
    "genres": [
-    "Cinema TV",
     "Romance",
-    "Família"
+    "Cinema TV"
    ],
    "releaseInfo": "2018",
    "trailerStreams": [
     {
-     "title": "Christmas in Love",
-     "ytId": "7mfuQl0Ov3o"
+     "title": "Christmas at the Palace",
+     "ytId": "gvoIawc8wpc"
     }
    ],
    "links": [
     {
      "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9033712"
+     "url": "https://imdb.com/title/tt9033632"
     },
     {
-     "name": "Christmas in Love",
+     "name": "Christmas at the Palace",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/christmas-in-love-9033712"
+     "url": "https://www.strem.io/s/movie/christmas-at-the-palace-9033632"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Merritt Patterson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Merritt%20Patterson"
+    },
+    {
+     "name": "Andrew Cooper",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrew%20Cooper"
+    },
+    {
+     "name": "Brittany Bristow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brittany%20Bristow"
+    },
+    {
+     "name": "Joie Botkin",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joie%20Botkin"
+    },
+    {
+     "name": "Matthew Coppola",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matthew%20Coppola"
+    },
+    {
+     "name": "Rick Garman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Rick%20Garman"
+    },
+    {
+     "name": "Peter Hewitt",
+     "category": "Directors",
+     "url": "stremio:///search?search=Peter%20Hewitt"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9033632",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033632.jpg"
+  },
+  {
+   "awards": "2 wins & 14 nominations total",
+   "cast": [
+    "Matt Damon",
+    "Penélope Cruz",
+    "Henry Thomas"
+   ],
+   "country": "United States",
+   "description": "O vencedor de um Oscar da Academia Matt Damon (O Resgate do Soldado Ryan, O Bom Rebelde), protagoniza esta aventura cheia de acção e paixão realizada por Billy Bob Thornton, baseada no best-seller de Comarc McCarthy.John Grady Cole (Damon) e o seu melhor amigo Lacey Rawlins (Henry Thomas, Lendas de Paixão) deixam o Texas dirigindo-se para o outro lado da fronteira em busca de aventura. Uma vez no México, ambos encontram trabalho num rancho, mas quando Cole embarca num perigoso e apaixonado romance com a bela filha do proprietário (Penélope Cruz, Tudo Sobre a Minha Mãe), desencadeia uma série de acontecimentos que irão transformar as suas vidas para sempre...",
+   "director": [
+    "Billy Bob Thornton"
+   ],
+   "dvdRelease": "2013-01-01T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Romance",
+    "Western"
+   ],
+   "imdbRating": "5.8",
+   "name": "All the Pretty Horses",
+   "released": "2000-12-25T00:00:00.000Z",
+   "runtime": "117 min",
+   "trailers": [
+    {
+     "source": "yygkQ8SjjQk",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Cormac McCarthy",
+    "Ted Tally"
+   ],
+   "year": "2000",
+   "background": "https://images.metahub.space/background/medium/tt0149624/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0149624/img",
+   "id": "tt0149624",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Faroeste"
+   ],
+   "releaseInfo": "2000",
+   "trailerStreams": [
+    {
+     "title": "All the Pretty Horses",
+     "ytId": "yygkQ8SjjQk"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0149624"
+    },
+    {
+     "name": "All the Pretty Horses",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/all-the-pretty-horses-0149624"
     },
     {
      "name": "Drama",
@@ -439,43 +704,121 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "Brooke D'Orsay",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brooke%20D'Orsay"
+     "name": "Western",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Western"
     },
     {
-     "name": "Daniel Lissing",
+     "name": "Matt Damon",
      "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Lissing"
+     "url": "stremio:///search?search=Matt%20Damon"
     },
     {
-     "name": "Mary-Margaret Humes",
+     "name": "Penélope Cruz",
      "category": "Cast",
-     "url": "stremio:///search?search=Mary-Margaret%20Humes"
+     "url": "stremio:///search?search=Pen%C3%A9lope%20Cruz"
     },
     {
-     "name": "Stephen A. Stewart",
+     "name": "Henry Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Henry%20Thomas"
+    },
+    {
+     "name": "Cormac McCarthy",
      "category": "Writers",
-     "url": "stremio:///search?search=Stephen%20A.%20Stewart"
+     "url": "stremio:///search?search=Cormac%20McCarthy"
     },
     {
-     "name": "Bob Sáenz",
+     "name": "Ted Tally",
      "category": "Writers",
-     "url": "stremio:///search?search=Bob%20S%C3%A1enz"
+     "url": "stremio:///search?search=Ted%20Tally"
     },
     {
-     "name": "Don McBrearty",
+     "name": "Billy Bob Thornton",
      "category": "Directors",
-     "url": "stremio:///search?search=Don%20McBrearty"
+     "url": "stremio:///search?search=Billy%20Bob%20Thornton"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt9033712",
+    "defaultVideoId": "tt0149624",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033712.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0149624.jpg"
+  },
+  {
+   "name": "L'Avocat",
+   "cast": [
+    "Vincent Cassel",
+    "Carole Bouquet",
+    "Mélanie Thierry"
+   ],
+   "country": "France",
+   "director": [
+    "Tristan Séguéla"
+   ],
+   "imdbRating": "6.2",
+   "released": null,
+   "year": "2027",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "3Ep7Rq24jDA",
+     "type": "Trailer"
+    }
+   ],
+   "genre": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39453578/img",
+   "background": "https://images.metahub.space/background/medium/tt39453578/img",
+   "id": "tt39453578",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "L'Avocat",
+     "ytId": "3Ep7Rq24jDA"
+    }
+   ],
+   "links": [
+    {
+     "name": "L'Avocat",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/lavocat-39453578"
+    },
+    {
+     "name": "Vincent Cassel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vincent%20Cassel"
+    },
+    {
+     "name": "Carole Bouquet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carole%20Bouquet"
+    },
+    {
+     "name": "Mélanie Thierry",
+     "category": "Cast",
+     "url": "stremio:///search?search=M%C3%A9lanie%20Thierry"
+    },
+    {
+     "name": "Tristan Séguéla",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tristan%20S%C3%A9gu%C3%A9la"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39453578",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453578.jpg",
+   "description": "Após sofrer uma overdose em tribunal, um advogado tem apenas uma semana para salvar a carreira e preparar a própria defesa, com a ajuda de uma estagiária determinada."
   },
   {
    "name": "Sing 2",
@@ -588,408 +931,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6467266.jpg"
-  },
-  {
-   "id": "tt48500521",
-   "behaviorHints": {
-    "defaultVideoId": "tt48500521",
-    "hasScheduledVideos": false
-   },
-   "links": [
-    {
-     "name": "Desprotexida: El crimen de Pazos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    }
-   ],
-   "name": "Desprotexida: El crimen de Pazos",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "genre": [
-    "Documentary"
-   ],
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "writer": [
-    "Jorge Laplace"
-   ],
-   "director": [
-    "Jorge Laplace"
-   ],
-   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
-   "language": "Spanish",
-   "country": "Spain",
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
-   "imdbRating": "6.3"
-  },
-  {
-   "name": "Animals",
-   "cast": [
-    "Gillian Anderson",
-    "Ben Affleck",
-    "Steven Yeun"
-   ],
-   "country": "United States",
-   "description": "Quando o filho é raptado, um candidato à câmara de Los Angeles e a mulher lutam para conseguir o resgate e tomam decisões que podem destruir tudo o que construíram.",
-   "director": [
-    "Ben Affleck"
-   ],
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "5.7",
-   "released": "2026-10-09T00:00:00.000Z",
-   "writer": [
-    "Connor O. McIntyre",
-    "Billy Ray",
-    "Ben Affleck"
-   ],
-   "year": "2026",
-   "runtime": "109 min",
-   "trailers": [
-    {
-     "source": "ZkN2M4ODdys",
-     "type": "Trailer"
-    },
-    {
-     "source": "mlBfQJ8oxB0",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt31049299/img",
-   "background": "https://images.metahub.space/background/medium/tt31049299/img",
-   "id": "tt31049299",
-   "genres": [
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Animals",
-     "ytId": "ZkN2M4ODdys"
-    },
-    {
-     "title": "Animals",
-     "ytId": "mlBfQJ8oxB0"
-    }
-   ],
-   "links": [
-    {
-     "name": "Animals",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/animals-31049299"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Gillian Anderson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gillian%20Anderson"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    },
-    {
-     "name": "Steven Yeun",
-     "category": "Cast",
-     "url": "stremio:///search?search=Steven%20Yeun"
-    },
-    {
-     "name": "Connor O. McIntyre",
-     "category": "Writers",
-     "url": "stremio:///search?search=Connor%20O.%20McIntyre"
-    },
-    {
-     "name": "Billy Ray",
-     "category": "Writers",
-     "url": "stremio:///search?search=Billy%20Ray"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    },
-    {
-     "name": "Ben Affleck",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ben%20Affleck"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt31049299",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
-  },
-  {
-   "name": "Blacklight",
-   "cast": [
-    "Liam Neeson",
-    "Aidan Quinn",
-    "Taylor John Smith"
-   ],
-   "country": "United States, Australia, China",
-   "description": "Travis Block trabalha para o FBI, mas não é um agente comum. Ele se move pelo mundo das sombras, pelos bastidores, ajudando agentes secretos que se veem em uma situação da qual não conseguem escapar. Ele acaba envolvido em uma conspiração quando um agente secreto questiona os seus superiores. Agora, cabe a Block encontrar esse sujeito, e também descobrir se não está sendo usado pelo homem em quem confia.",
-   "director": [
-    "Mark Williams"
-   ],
-   "genre": [
-    "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "4.9",
-   "released": "2022-02-11T00:00:00.000Z",
-   "runtime": "104 min",
-   "writer": [
-    "Nick May",
-    "Mark Williams",
-    "Brandon Reavis"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "k_N9pU4FMOs",
-     "type": "Trailer"
-    },
-    {
-     "source": "d4K9Rzy2_DA",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt14060094/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14060094/img",
-   "awards": "1 win & 5 nominations total",
-   "id": "tt14060094",
-   "genres": [
-    "Ação",
-    "Thriller",
-    "Aventura"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Blacklight",
-     "ytId": "k_N9pU4FMOs"
-    },
-    {
-     "title": "Blacklight",
-     "ytId": "d4K9Rzy2_DA"
-    }
-   ],
-   "links": [
-    {
-     "name": "4.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14060094"
-    },
-    {
-     "name": "Blacklight",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/blacklight-14060094"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Liam Neeson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Liam%20Neeson"
-    },
-    {
-     "name": "Aidan Quinn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Aidan%20Quinn"
-    },
-    {
-     "name": "Taylor John Smith",
-     "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20John%20Smith"
-    },
-    {
-     "name": "Nick May",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20May"
-    },
-    {
-     "name": "Mark Williams",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mark%20Williams"
-    },
-    {
-     "name": "Brandon Reavis",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brandon%20Reavis"
-    },
-    {
-     "name": "Mark Williams",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mark%20Williams"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt14060094",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14060094.jpg"
-  },
-  {
-   "name": "Christmas at the Palace",
-   "cast": [
-    "Merritt Patterson",
-    "Andrew Cooper",
-    "Brittany Bristow"
-   ],
-   "country": "United States",
-   "description": "Katie é uma patinadora do gelo olímpica aposentada que aceita um novo desafio. Ela terá que treinar uma princesa que precisa se preparar para uma tradição de Natal em seu palácio. Porém, ela se surpreende com a rotina real e descobre que a vida deles não é um conto de fadas.",
-   "genre": [
-    "Romance"
-   ],
-   "imdbRating": "6.4",
-   "released": "2018-11-22T00:00:00.000Z",
-   "writer": [
-    "Joie Botkin",
-    "Matthew Coppola",
-    "Rick Garman"
-   ],
-   "year": "2018",
-   "trailers": [
-    {
-     "source": "gvoIawc8wpc",
-     "type": "Trailer"
-    }
-   ],
-   "director": [
-    "Peter Hewitt"
-   ],
-   "runtime": "90 min",
-   "dvdRelease": "2019-10-22T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt9033632/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9033632/img",
-   "id": "tt9033632",
-   "genres": [
-    "Romance",
-    "Cinema TV"
-   ],
-   "releaseInfo": "2018",
-   "trailerStreams": [
-    {
-     "title": "Christmas at the Palace",
-     "ytId": "gvoIawc8wpc"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt9033632"
-    },
-    {
-     "name": "Christmas at the Palace",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/christmas-at-the-palace-9033632"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Merritt Patterson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Merritt%20Patterson"
-    },
-    {
-     "name": "Andrew Cooper",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Cooper"
-    },
-    {
-     "name": "Brittany Bristow",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brittany%20Bristow"
-    },
-    {
-     "name": "Joie Botkin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joie%20Botkin"
-    },
-    {
-     "name": "Matthew Coppola",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20Coppola"
-    },
-    {
-     "name": "Rick Garman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Rick%20Garman"
-    },
-    {
-     "name": "Peter Hewitt",
-     "category": "Directors",
-     "url": "stremio:///search?search=Peter%20Hewitt"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt9033632",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033632.jpg"
   }
  ]
 }

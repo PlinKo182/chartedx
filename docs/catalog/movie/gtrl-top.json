@@ -217,16 +217,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1392214.jpg"
   },
   {
-   "id": "tt50426072",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "name": "A Story of Derry",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50426072.jpg"
-  },
-  {
    "id": "tt18376344",
    "logo": "https://live.metahub.space/logo/medium/tt18376344/img",
    "background": "https://live.metahub.space/background/medium/tt18376344/img",
@@ -349,71 +339,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18376344.jpg"
   },
   {
-   "awards": "Nominated for 2 BAFTA Awards. 3 nominations total",
+   "awards": "1 win & 6 nominations total",
    "cast": [
-    "Walter Matthau",
-    "Robert Shaw",
-    "Martin Balsam"
+    "Chris Hemsworth",
+    "Cillian Murphy",
+    "Brendan Gleeson"
    ],
-   "country": "United States",
-   "description": "Em um dia aparentemente comum, o policial Zach Garber, responsável pela segurança no metrô de Nova York, é surpreendido pelo sequestro de um vagão do metrô Pelham 123 por um bando misterioso. Os quatro criminosos, liderados por Blue e fortemente armados, exigem US$ 1 milhão para libertar os dezessete reféns com vida. Comandando a negociação, Garber tem uma hora para encontrar uma solução para o impasse.",
+   "country": "Spain, Australia, United States, United Kingdom",
+   "description": "No inverno de 1820, o baleeiro Essex, da Nova Inglaterra, foi atacado por algo inacreditável: uma baleia de um tamanho e vontade descomunais, e uma quase humana sede de vingança.",
    "director": [
-    "Joseph Sargent"
+    "Ron Howard"
    ],
-   "dvdRelease": "2010-11-06T00:00:00.000Z",
    "genre": [
     "Action",
-    "Crime",
-    "Thriller"
+    "Adventure",
+    "Biography"
    ],
-   "imdbRating": "7.6",
-   "name": "The Taking of Pelham One Two Three",
-   "released": "1974-10-02T00:00:00.000Z",
-   "runtime": "105 min",
+   "imdbRating": "6.9",
+   "name": "In the Heart of the Sea",
+   "released": "2015-12-11T00:00:00.000Z",
+   "runtime": "122 min",
+   "writer": [
+    "Charles Leavitt",
+    "Rick Jaffa",
+    "Amanda Silver"
+   ],
+   "year": "2015",
    "trailers": [
     {
-     "source": "_WnD63TiceA",
+     "source": "VewQ4Yv6304",
      "type": "Trailer"
     },
     {
-     "source": "lFl_XI3H1Z0",
+     "source": "K-H35Mpj4uk",
+     "type": "Trailer"
+    },
+    {
+     "source": "8L4KvJv_O-c",
+     "type": "Trailer"
+    },
+    {
+     "source": "TAqNRH6arUI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "John Godey",
-    "Peter Stone"
-   ],
-   "year": "1974",
-   "background": "https://images.metahub.space/background/medium/tt0072251/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0072251/img",
-   "id": "tt0072251",
+   "dvdRelease": "2016-08-10T00:00:00.000Z",
+   "affiliates": {
+    "fandango_embed": "<a href=\"/in-the-heart-of-the-sea_178191/movieoverview\">\n    <img src=\"http://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/178191/INTHEHEARTOFTHESEA.jpg\" alt=\"In the Heart of the Sea poster\" />\n</a>\n<div>\n    <a href=\"/in-the-heart-of-the-sea_178191/movieoverview\">In the Heart of the Sea</a>\n    <time datetime=\"2015-12-11T00:00:00.000Z\">December 11, 2015</time>\n</div>\n",
+    "fandango_link": "/in-the-heart-of-the-sea_178191/movieoverview"
+   },
+   "background": "https://images.metahub.space/background/medium/tt1390411/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1390411/img",
+   "id": "tt1390411",
    "genres": [
-    "Crime",
     "Thriller",
-    "Ação"
+    "Drama",
+    "Aventura"
    ],
-   "releaseInfo": "1974",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "The Taking of Pelham One Two Three",
-     "ytId": "_WnD63TiceA"
+     "title": "In the Heart of the Sea",
+     "ytId": "VewQ4Yv6304"
     },
     {
-     "title": "The Taking of Pelham One Two Three",
-     "ytId": "lFl_XI3H1Z0"
+     "title": "In the Heart of the Sea",
+     "ytId": "K-H35Mpj4uk"
+    },
+    {
+     "title": "In the Heart of the Sea",
+     "ytId": "8L4KvJv_O-c"
+    },
+    {
+     "title": "In the Heart of the Sea",
+     "ytId": "TAqNRH6arUI"
     }
    ],
    "links": [
     {
-     "name": "7.6",
+     "name": "6.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0072251"
+     "url": "https://imdb.com/title/tt1390411"
     },
     {
-     "name": "The Taking of Pelham One Two Three",
+     "name": "In the Heart of the Sea",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-taking-of-pelham-one-two-three-0072251"
+     "url": "https://www.strem.io/s/movie/in-the-heart-of-the-sea-1390411"
     },
     {
      "name": "Action",
@@ -421,53 +432,58 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Crime",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Thriller",
+     "name": "Biography",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
-     "name": "Walter Matthau",
+     "name": "Chris Hemsworth",
      "category": "Cast",
-     "url": "stremio:///search?search=Walter%20Matthau"
+     "url": "stremio:///search?search=Chris%20Hemsworth"
     },
     {
-     "name": "Robert Shaw",
+     "name": "Cillian Murphy",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Shaw"
+     "url": "stremio:///search?search=Cillian%20Murphy"
     },
     {
-     "name": "Martin Balsam",
+     "name": "Brendan Gleeson",
      "category": "Cast",
-     "url": "stremio:///search?search=Martin%20Balsam"
+     "url": "stremio:///search?search=Brendan%20Gleeson"
     },
     {
-     "name": "John Godey",
+     "name": "Charles Leavitt",
      "category": "Writers",
-     "url": "stremio:///search?search=John%20Godey"
+     "url": "stremio:///search?search=Charles%20Leavitt"
     },
     {
-     "name": "Peter Stone",
+     "name": "Rick Jaffa",
      "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Stone"
+     "url": "stremio:///search?search=Rick%20Jaffa"
     },
     {
-     "name": "Joseph Sargent",
+     "name": "Amanda Silver",
+     "category": "Writers",
+     "url": "stremio:///search?search=Amanda%20Silver"
+    },
+    {
+     "name": "Ron Howard",
      "category": "Directors",
-     "url": "stremio:///search?search=Joseph%20Sargent"
+     "url": "stremio:///search?search=Ron%20Howard"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0072251",
+    "defaultVideoId": "tt1390411",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072251.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1390411.jpg"
   },
   {
    "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
@@ -600,183 +616,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0209144.jpg"
   },
   {
-   "name": "Marty Supreme",
+   "name": "Clean",
    "cast": [
-    "Timothée Chalamet",
-    "Gwyneth Paltrow",
-    "Odessa A&apos;zion"
+    "Adrien Brody",
+    "Glenn Fleshler",
+    "Richie Merritt"
    ],
-   "country": "United States, Finland",
-   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
+   "country": "United States, Germany",
+   "description": "Um coletor de lixo que tenta ativamente reparar seu passado sombrio e trágico. Mas quando suas boas intenções o marcam como alvo do chefe do crime local, ele é forçado a se reconciliar com a violência de seu passado.",
    "director": [
-    "Josh Safdie"
-   ],
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Sport"
-   ],
-   "imdbRating": "7.5",
-   "released": "2025-12-25T00:00:00.000Z",
-   "writer": [
-    "Ronald Bronstein",
-    "Josh Safdie"
-   ],
-   "year": "2025",
-   "runtime": "150 min",
-   "background": "https://images.metahub.space/background/medium/tt32916440/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
-   "trailers": [
-    {
-     "source": "s9gSuKaKcqM",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
-   "id": "tt32916440",
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Marty Supreme",
-     "ytId": "s9gSuKaKcqM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32916440"
-    },
-    {
-     "name": "Marty Supreme",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
-    },
-    {
-     "name": "Timothée Chalamet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
-    },
-    {
-     "name": "Gwyneth Paltrow",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gwyneth%20Paltrow"
-    },
-    {
-     "name": "Odessa A&apos;zion",
-     "category": "Cast",
-     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
-    },
-    {
-     "name": "Ronald Bronstein",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronald%20Bronstein"
-    },
-    {
-     "name": "Josh Safdie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Safdie"
-    },
-    {
-     "name": "Josh Safdie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Josh%20Safdie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32916440",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
-  },
-  {
-   "cast": [
-    "Matthew McConaughey",
-    "Charlie Hunnam",
-    "Michelle Dockery"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
-   "director": [
-    "Guy Ritchie"
+    "Paul Solet"
    ],
    "genre": [
     "Action",
-    "Comedy",
-    "Crime"
+    "Crime",
+    "Drama"
    ],
-   "imdbRating": "7.8",
-   "name": "The Gentlemen",
-   "released": "2020-01-24T00:00:00.000Z",
+   "imdbRating": "5.6",
+   "released": "2022-01-28T00:00:00.000Z",
+   "runtime": "93 min",
    "writer": [
-    "Guy Ritchie",
-    "Ivan Atkinson",
-    "Marn Davies"
+    "Paul Solet",
+    "Adrien Brody"
    ],
-   "year": "2020",
+   "year": "2022",
    "trailers": [
     {
-     "source": "KlXsguV9g0E",
+     "source": "AKMpdq04Q84",
      "type": "Trailer"
     },
     {
-     "source": "2B0RpUGss2c",
+     "source": "G747avZgnSc",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt8367814/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
-   "runtime": "113 min",
-   "awards": "1 win & 4 nominations total",
-   "dvdRelease": "2020-03-24T00:00:00.000Z",
-   "id": "tt8367814",
+   "background": "https://images.metahub.space/background/medium/tt10023022/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10023022/img",
+   "dvdRelease": "2022-01-28T00:00:00.000Z",
+   "id": "tt10023022",
    "genres": [
+    "Crime",
     "Ação",
-    "Comédia",
-    "Crime"
+    "Drama"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "The Gentlemen",
-     "ytId": "KlXsguV9g0E"
+     "title": "Clean",
+     "ytId": "AKMpdq04Q84"
     },
     {
-     "title": "The Gentlemen",
-     "ytId": "2B0RpUGss2c"
+     "title": "Clean",
+     "ytId": "G747avZgnSc"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "5.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt8367814"
+     "url": "https://imdb.com/title/tt10023022"
     },
     {
-     "name": "The Gentlemen",
+     "name": "Clean",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
+     "url": "https://www.strem.io/s/movie/clean-10023022"
     },
     {
      "name": "Action",
@@ -784,117 +687,135 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
      "name": "Crime",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Matthew McConaughey",
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Adrien Brody",
      "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20McConaughey"
+     "url": "stremio:///search?search=Adrien%20Brody"
     },
     {
-     "name": "Charlie Hunnam",
+     "name": "Glenn Fleshler",
      "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Hunnam"
+     "url": "stremio:///search?search=Glenn%20Fleshler"
     },
     {
-     "name": "Michelle Dockery",
+     "name": "Richie Merritt",
      "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Dockery"
+     "url": "stremio:///search?search=Richie%20Merritt"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Paul Solet",
      "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Paul%20Solet"
     },
     {
-     "name": "Ivan Atkinson",
+     "name": "Adrien Brody",
      "category": "Writers",
-     "url": "stremio:///search?search=Ivan%20Atkinson"
+     "url": "stremio:///search?search=Adrien%20Brody"
     },
     {
-     "name": "Marn Davies",
-     "category": "Writers",
-     "url": "stremio:///search?search=Marn%20Davies"
-    },
-    {
-     "name": "Guy Ritchie",
+     "name": "Paul Solet",
      "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Paul%20Solet"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt8367814",
+    "defaultVideoId": "tt10023022",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10023022.jpg"
   },
   {
-   "awards": "3 wins & 71 nominations total",
+   "name": "Tuner",
+   "awards": "5 nominations total",
    "cast": [
-    "Jake Gyllenhaal",
-    "Robert Downey Jr.",
-    "Mark Ruffalo"
+    "Leo Woodall",
+    "Dustin Hoffman",
+    "Alisen Richmond-Peck"
    ],
-   "country": "United States",
-   "description": "Há várias maneiras de perder a vida para um homicida. Estamos perante uma caça a um serial killer em São Francisco. Poucos casos na história do crime são tão intrigantes como o de Zodiac, um atirador bizarro com um capuz de carrasco que confunde a polícia com dúzias de cartas que contêm mensagens e criptogramas sinistros.",
+   "country": "Canada, United States",
+   "description": "Em Tuner, Niki, um jovem afinador de pianos com audição sobre-humana, vê o seu talento despertar o interesse de criminosos que encontram nos seus dons a ferramenta perfeita para abrir cofres. O que começa como uma oportunidade arrasta-o para uma vida cada vez mais perigosa.",
    "director": [
-    "David Fincher"
+    "Daniel Roher"
    ],
-   "dvdRelease": "2013-08-01T00:00:00.000Z",
    "genre": [
     "Crime",
     "Drama",
-    "Mystery"
+    "Music"
    ],
-   "imdbRating": "7.7",
-   "name": "Zodiac",
-   "released": "2007-03-02T00:00:00.000Z",
-   "runtime": "157 min",
+   "imdbRating": "7.2",
+   "released": "2026-05-29T00:00:00.000Z",
+   "writer": [
+    "Daniel Roher",
+    "Robert Ramsey"
+   ],
+   "year": "2026",
+   "runtime": "108 min",
    "trailers": [
     {
-     "source": "yNncHPl1UXg",
+     "source": "HYxzyLVJORA",
+     "type": "Trailer"
+    },
+    {
+     "source": "XiehvETTjTQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "zW1cRf5X8Hk",
+     "type": "Trailer"
+    },
+    {
+     "source": "rdlOZhl-nSA",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "James Vanderbilt",
-    "Robert Graysmith"
-   ],
-   "year": "2007",
-   "background": "https://images.metahub.space/background/medium/tt0443706/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0443706/img",
-   "id": "tt0443706",
+   "background": "https://images.metahub.space/background/medium/tt33296751/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33296751/img",
+   "id": "tt33296751",
    "genres": [
     "Crime",
-    "Mistério",
+    "Drama",
     "Thriller"
    ],
-   "releaseInfo": "2007",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Zodiac",
-     "ytId": "yNncHPl1UXg"
+     "title": "Tuner",
+     "ytId": "HYxzyLVJORA"
+    },
+    {
+     "title": "Tuner",
+     "ytId": "XiehvETTjTQ"
+    },
+    {
+     "title": "Tuner",
+     "ytId": "zW1cRf5X8Hk"
+    },
+    {
+     "title": "Tuner",
+     "ytId": "rdlOZhl-nSA"
     }
    ],
    "links": [
     {
-     "name": "7.7",
+     "name": "7.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0443706"
+     "url": "https://imdb.com/title/tt33296751"
     },
     {
-     "name": "Zodiac",
+     "name": "Tuner",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/zodiac-0443706"
+     "url": "https://www.strem.io/s/movie/tuner-33296751"
     },
     {
      "name": "Crime",
@@ -907,103 +828,115 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "Music",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Music"
     },
     {
-     "name": "Jake Gyllenhaal",
+     "name": "Leo Woodall",
      "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+     "url": "stremio:///search?search=Leo%20Woodall"
     },
     {
-     "name": "Robert Downey Jr.",
+     "name": "Dustin Hoffman",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Downey%20Jr."
+     "url": "stremio:///search?search=Dustin%20Hoffman"
     },
     {
-     "name": "Mark Ruffalo",
+     "name": "Alisen Richmond-Peck",
      "category": "Cast",
-     "url": "stremio:///search?search=Mark%20Ruffalo"
+     "url": "stremio:///search?search=Alisen%20Richmond-Peck"
     },
     {
-     "name": "James Vanderbilt",
+     "name": "Daniel Roher",
      "category": "Writers",
-     "url": "stremio:///search?search=James%20Vanderbilt"
+     "url": "stremio:///search?search=Daniel%20Roher"
     },
     {
-     "name": "Robert Graysmith",
+     "name": "Robert Ramsey",
      "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Graysmith"
+     "url": "stremio:///search?search=Robert%20Ramsey"
     },
     {
-     "name": "David Fincher",
+     "name": "Daniel Roher",
      "category": "Directors",
-     "url": "stremio:///search?search=David%20Fincher"
+     "url": "stremio:///search?search=Daniel%20Roher"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0443706",
+    "defaultVideoId": "tt33296751",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0443706.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33296751.jpg"
   },
   {
-   "name": "In the Grey",
+   "awards": "Nominated for 2 BAFTA Awards. 3 nominations total",
    "cast": [
-    "Henry Cavill",
-    "Jake Gyllenhaal",
-    "Eiza González"
+    "Walter Matthau",
+    "Robert Shaw",
+    "Martin Balsam"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
+   "country": "United States",
+   "description": "Em um dia aparentemente comum, o policial Zach Garber, responsável pela segurança no metrô de Nova York, é surpreendido pelo sequestro de um vagão do metrô Pelham 123 por um bando misterioso. Os quatro criminosos, liderados por Blue e fortemente armados, exigem US$ 1 milhão para libertar os dezessete reféns com vida. Comandando a negociação, Garber tem uma hora para encontrar uma solução para o impasse.",
    "director": [
-    "Guy Ritchie"
+    "Joseph Sargent"
    ],
+   "dvdRelease": "2010-11-06T00:00:00.000Z",
    "genre": [
     "Action",
     "Crime",
     "Thriller"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-05-15T00:00:00.000Z",
-   "writer": [
-    "Guy Ritchie"
-   ],
-   "year": "2026",
-   "runtime": "97 min",
+   "imdbRating": "7.6",
+   "name": "The Taking of Pelham One Two Three",
+   "released": "1974-10-02T00:00:00.000Z",
+   "runtime": "105 min",
    "trailers": [
     {
-     "source": "nufP15iN4GE",
+     "source": "_WnD63TiceA",
+     "type": "Trailer"
+    },
+    {
+     "source": "lFl_XI3H1Z0",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt27681354/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
-   "id": "tt27681354",
-   "genres": [
-    "Ação",
-    "Thriller"
+   "writer": [
+    "John Godey",
+    "Peter Stone"
    ],
-   "releaseInfo": "2026",
+   "year": "1974",
+   "background": "https://images.metahub.space/background/medium/tt0072251/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0072251/img",
+   "id": "tt0072251",
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Ação"
+   ],
+   "releaseInfo": "1974",
    "trailerStreams": [
     {
-     "title": "In the Grey",
-     "ytId": "nufP15iN4GE"
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "_WnD63TiceA"
+    },
+    {
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "lFl_XI3H1Z0"
     }
    ],
    "links": [
     {
-     "name": "6.3",
+     "name": "7.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt27681354"
+     "url": "https://imdb.com/title/tt0072251"
     },
     {
-     "name": "In the Grey",
+     "name": "The Taking of Pelham One Two Three",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
+     "url": "https://www.strem.io/s/movie/the-taking-of-pelham-one-two-three-0072251"
     },
     {
      "name": "Action",
@@ -1021,38 +954,335 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Henry Cavill",
+     "name": "Walter Matthau",
      "category": "Cast",
-     "url": "stremio:///search?search=Henry%20Cavill"
+     "url": "stremio:///search?search=Walter%20Matthau"
     },
     {
-     "name": "Jake Gyllenhaal",
+     "name": "Robert Shaw",
      "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+     "url": "stremio:///search?search=Robert%20Shaw"
     },
     {
-     "name": "Eiza González",
+     "name": "Martin Balsam",
      "category": "Cast",
-     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
+     "url": "stremio:///search?search=Martin%20Balsam"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "John Godey",
      "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=John%20Godey"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Peter Stone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Stone"
+    },
+    {
+     "name": "Joseph Sargent",
      "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Joseph%20Sargent"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27681354",
+    "defaultVideoId": "tt0072251",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072251.jpg"
+  },
+  {
+   "awards": "7 wins & 29 nominations total",
+   "cast": [
+    "Hugo Weaving",
+    "Natalie Portman",
+    "Rupert Graves"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "Na Inglaterra do futuro impera um regime totalitário e ditatorial. Evey Hammond é apenas mais uma cidadã oprimida até ser ajudada por V, um misterioso mascarado que decide opor-se ao governo e lutar contra a ditadura, anunciando que, dentro de um ano, irá derrubar o regime com a ajuda do povo. Enquanto Evey tenta saber mais sobre o passado de V, ela começa a tomar parte no plano dele para devolver a liberdade e a justiça ao país.",
+   "director": [
+    "James McTeigue"
+   ],
+   "dvdRelease": "2008-05-01T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "imdbRating": "8.1",
+   "name": "V for Vendetta",
+   "released": "2006-03-17T00:00:00.000Z",
+   "runtime": "132 min",
+   "trailers": [
+    {
+     "source": "krWn5ta9RG4",
+     "type": "Trailer"
+    },
+    {
+     "source": "3ge0navn9E0",
+     "type": "Trailer"
+    },
+    {
+     "source": "V5VGq23aZ-g",
+     "type": "Trailer"
+    },
+    {
+     "source": "lSA7mAHolAw",
+     "type": "Trailer"
+    },
+    {
+     "source": "IHVzzxrPt1c",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Lilly Wachowski",
+    "Lana Wachowski",
+    "David Lloyd"
+   ],
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0434409/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0434409/img",
+   "id": "tt0434409",
+   "genres": [
+    "Ação",
+    "Thriller",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2006",
+   "trailerStreams": [
+    {
+     "title": "V for Vendetta",
+     "ytId": "krWn5ta9RG4"
+    },
+    {
+     "title": "V for Vendetta",
+     "ytId": "3ge0navn9E0"
+    },
+    {
+     "title": "V for Vendetta",
+     "ytId": "V5VGq23aZ-g"
+    },
+    {
+     "title": "V for Vendetta",
+     "ytId": "lSA7mAHolAw"
+    },
+    {
+     "title": "V for Vendetta",
+     "ytId": "IHVzzxrPt1c"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0434409"
+    },
+    {
+     "name": "V for Vendetta",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/v-for-vendetta-0434409"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Hugo Weaving",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hugo%20Weaving"
+    },
+    {
+     "name": "Natalie Portman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalie%20Portman"
+    },
+    {
+     "name": "Rupert Graves",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rupert%20Graves"
+    },
+    {
+     "name": "Lilly Wachowski",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lilly%20Wachowski"
+    },
+    {
+     "name": "Lana Wachowski",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lana%20Wachowski"
+    },
+    {
+     "name": "David Lloyd",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Lloyd"
+    },
+    {
+     "name": "James McTeigue",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20McTeigue"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0434409",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0434409.jpg"
+  },
+  {
+   "name": "Twisters",
+   "cast": [
+    "Daisy Edgar-Jones",
+    "Glen Powell",
+    "Anthony Ramos"
+   ],
+   "country": "United States, Japan",
+   "description": "Kate Cooper, uma antiga caçadora de tempestades assombrada por um encontro devastador com um tornado, dedica-se agora a estudar os padrões das tempestades em Nova Iorque. O seu amigo Javi, que está a testar um sistema de rastreamento inovador, vai trazê-la de volta ao terreno onde se cruza com Tyler Owens, um influenciador digital, sedutor e imprudente que gosta de publicar as suas aventuras nas redes sociais. À medida que a temporada de tornados ganha intensidade, começa um fenómeno nunca visto: Katy, Tyler e a sua equipa estão no caminho de múltiplas tempestades que convergem para o centro do Oklahoma.",
+   "director": [
+    "Lee Isaac Chung"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "imdbRating": "6.5",
+   "released": "2024-07-19T00:00:00.000Z",
+   "writer": [
+    "Mark L. Smith",
+    "Joseph Kosinski",
+    "Michael Crichton"
+   ],
+   "year": "2024",
+   "trailers": [
+    {
+     "source": "AZbEi95SuMg",
+     "type": "Trailer"
+    },
+    {
+     "source": "jVOlBUF7l6I",
+     "type": "Trailer"
+    },
+    {
+     "source": "Jm27YjLnPHc",
+     "type": "Trailer"
+    },
+    {
+     "source": "wdok0rZdmx4",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12584954/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12584954/img",
+   "runtime": "123 min",
+   "awards": "37 nominations total",
+   "id": "tt12584954",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Twisters",
+     "ytId": "AZbEi95SuMg"
+    },
+    {
+     "title": "Twisters",
+     "ytId": "jVOlBUF7l6I"
+    },
+    {
+     "title": "Twisters",
+     "ytId": "Jm27YjLnPHc"
+    },
+    {
+     "title": "Twisters",
+     "ytId": "wdok0rZdmx4"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12584954"
+    },
+    {
+     "name": "Twisters",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/twisters-12584954"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daisy Edgar-Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daisy%20Edgar-Jones"
+    },
+    {
+     "name": "Glen Powell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Glen%20Powell"
+    },
+    {
+     "name": "Anthony Ramos",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anthony%20Ramos"
+    },
+    {
+     "name": "Mark L. Smith",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mark%20L.%20Smith"
+    },
+    {
+     "name": "Joseph Kosinski",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joseph%20Kosinski"
+    },
+    {
+     "name": "Michael Crichton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Crichton"
+    },
+    {
+     "name": "Lee Isaac Chung",
+     "category": "Directors",
+     "url": "stremio:///search?search=Lee%20Isaac%20Chung"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt12584954",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12584954.jpg"
   }
  ]
 }

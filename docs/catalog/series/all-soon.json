@@ -793,6 +793,13 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg"
   },
   {
+   "id": "tt45857574",
+   "type": "series",
+   "name": "Stars and Vows: Anele & Buzza",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt45857574/img"
+  },
+  {
    "id": "tt44914557",
    "logo": "https://live.metahub.space/logo/medium/tt44914557/img",
    "background": "https://live.metahub.space/background/medium/tt44914557/img",
@@ -886,13 +893,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://image.tmdb.org/t/p/w500/jvZkhyotvvEvyWLyLMT54cehMB7.jpg"
-  },
-  {
-   "id": "tt45857574",
-   "type": "series",
-   "name": "Stars and Vows: Anele & Buzza",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt45857574/img"
   },
   {
    "country": "Canada, United States",
@@ -1548,6 +1548,26 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36786185.jpg"
+  },
+  {
+   "status": "Continuing",
+   "id": "tt50666033",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "cast": [
+    "Melania Trump"
+   ],
+   "type": "series",
+   "name": "MELANIA the Series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50666033.jpg",
+   "releaseInfo": "2026",
+   "genres": [
+    "Documentário",
+    "War & Politics"
+   ]
   },
   {
    "id": "tt26778255",
@@ -2643,73 +2663,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37063558.jpg"
-  },
-  {
-   "id": "tt39749939",
-   "logo": "https://live.metahub.space/logo/medium/tt39749939/img",
-   "background": "https://live.metahub.space/background/medium/tt39749939/img",
-   "name": "Empress of Flames",
-   "description": "Born of royal blood, a fallen princess weaves through treachery and betrayal, trading her virtue for vengeance in a bid to reclaim her throne.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Pimchanok Luevisadpaibul",
-    "Narilya Gulmongkolpech",
-    "Khemanit Jamikorn"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Pimchanok Luevisadpaibul",
-     "profile_path": "/1dAa0G7gG3KbeF66HOof4DPXrpX.jpg",
-     "id": 127449
-    },
-    {
-     "character": "",
-     "name": "Narilya Gulmongkolpech",
-     "profile_path": "/eBa4fndcdfVcI4dNXi7ZFwMSXHL.jpg",
-     "id": 3131642
-    },
-    {
-     "character": "",
-     "name": "Khemanit Jamikorn",
-     "profile_path": "/jWnKARcHRRppqZWxelXWgFwARsq.jpg",
-     "id": 1259409
-    },
-    {
-     "character": "",
-     "name": "Prin Suparat",
-     "profile_path": "/lo6zChxhJrIGYaSZV46IG1K98Rw.jpg",
-     "id": 1256327
-    },
-    {
-     "character": "",
-     "name": "Pakorn Chatborirak",
-     "profile_path": "/91W248ta7g7htU9yTn7nxm4CMx6.jpg",
-     "id": 1339266
-    },
-    {
-     "character": "",
-     "name": "Amanda Chalisa Obdam",
-     "profile_path": "/3c3z0ErOaxWmxy7WWQSqEobTE08.jpg",
-     "id": 4118249
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "Thai",
-   "country": "Philippines, Thailand",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39749939.jpg"
   }
  ]
 }
