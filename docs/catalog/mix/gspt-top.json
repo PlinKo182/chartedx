@@ -83,7 +83,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15715850.jpg",
-   "imdbRating": "7.5"
+   "imdbRating": "7.6"
   },
   {
    "name": "Stick",
@@ -179,74 +179,232 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31710249.jpg"
   },
   {
-   "name": "Ted Lasso",
-   "cast": [
-    "Jason Sudeikis",
-    "Hannah Waddingham",
-    "Jeremy Swift"
+   "id": "tt35051210",
+   "logo": "https://live.metahub.space/logo/medium/tt35051210/img",
+   "background": "https://live.metahub.space/background/medium/tt35051210/img",
+   "name": "TYSON",
+   "description": "Esta série documental dividida em quatro partes analisa a vida explosiva de Mike Tyson, uma das figuras mais temidas e fascinantes da história do esporte.",
+   "genres": [
+    "Documentário"
    ],
-   "country": "United States, United Kingdom",
-   "description": "Ted Lasso, um treinador de futebol americano, muda-se para a Inglaterra quando é contratado para comandar uma equipa de futebol – apesarde não ter experiência. Com jogadores cínicos e uma cidade duvidosa, ele vai levá-los a ver o Ted Lasso Way?",
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "o1S5LsYhfEg",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Mike Tyson"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Mike Tyson",
+     "profile_path": "/7eI1WK9985q8XiUgg3rDjOwa3MR.jpg",
+     "id": 80757
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jenna Millman",
+     "profile_path": null,
+     "id": 2931785
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jacob Miller",
+     "profile_path": null,
+     "id": 6486205
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Alexa Ginsburg",
+     "profile_path": null,
+     "id": 3015586
+    }
+   ],
+   "director": [],
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
+   "imdbRating": "8.0"
+  },
+  {
+   "name": "Marty Supreme",
+   "cast": [
+    "Timothée Chalamet",
+    "Gwyneth Paltrow",
+    "Odessa A&apos;zion"
+   ],
+   "country": "United States, Finland",
+   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
+   "director": [
+    "Josh Safdie"
+   ],
    "genre": [
     "Comedy",
     "Drama",
     "Sport"
    ],
-   "imdbRating": "8.7",
-   "released": "2020-08-14T00:00:00.000Z",
+   "imdbRating": "7.5",
+   "released": "2025-12-25T00:00:00.000Z",
    "writer": [
-    "Jason Sudeikis",
-    "Brendan Hunt",
-    "Joe Kelly"
+    "Ronald Bronstein",
+    "Josh Safdie"
    ],
-   "year": "2020–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt10986410/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10986410/img",
-   "runtime": "43 min",
-   "awards": "Won 13 Primetime Emmys. 75 wins & 213 nominations total",
+   "year": "2025",
+   "runtime": "150 min",
+   "background": "https://images.metahub.space/background/medium/tt32916440/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
    "trailers": [
     {
-     "source": "BwPcMIDFVKw",
-     "type": "Trailer"
-    },
-    {
-     "source": "3u7EIiohs6U",
+     "source": "s9gSuKaKcqM",
      "type": "Trailer"
     }
    ],
-   "id": "tt10986410",
+   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
+   "id": "tt32916440",
    "genres": [
     "Drama",
-    "Comédia"
+    "Thriller"
    ],
-   "releaseInfo": "2020",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Ted Lasso",
-     "ytId": "BwPcMIDFVKw"
-    },
-    {
-     "title": "Ted Lasso",
-     "ytId": "3u7EIiohs6U"
+     "title": "Marty Supreme",
+     "ytId": "s9gSuKaKcqM"
     }
    ],
    "links": [
     {
-     "name": "8.7",
+     "name": "7.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10986410"
+     "url": "https://imdb.com/title/tt32916440"
     },
     {
-     "name": "Ted Lasso",
+     "name": "Marty Supreme",
      "category": "share",
-     "url": "https://www.strem.io/s/series/ted-lasso-10986410"
+     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
     },
     {
      "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Timothée Chalamet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
+    },
+    {
+     "name": "Gwyneth Paltrow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gwyneth%20Paltrow"
+    },
+    {
+     "name": "Odessa A&apos;zion",
+     "category": "Cast",
+     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
+    },
+    {
+     "name": "Ronald Bronstein",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ronald%20Bronstein"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Writers",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    },
+    {
+     "name": "Josh Safdie",
+     "category": "Directors",
+     "url": "stremio:///search?search=Josh%20Safdie"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32916440",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
+  },
+  {
+   "name": "Off Campus",
+   "cast": [
+    "Ella Bright",
+    "Belmont Cameli",
+    "Mika Abdalla"
+   ],
+   "country": "United States",
+   "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
+   "genre": [
+    "Drama",
+    "Romance",
+    "Sport"
+   ],
+   "imdbRating": "7.8",
+   "released": "2026-05-13T00:00:00.000Z",
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "wAozjf2frxw",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [
+    "Louisa Levy"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33546863/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
+   "awards": "1 win & 3 nominations total",
+   "id": "tt33546863",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Off Campus",
+     "ytId": "wAozjf2frxw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33546863"
+    },
+    {
+     "name": "Off Campus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/off-campus-33546863"
     },
     {
      "name": "Drama",
@@ -254,39 +412,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
      "name": "Sport",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Jason Sudeikis",
+     "name": "Ella Bright",
      "category": "Cast",
-     "url": "stremio:///search?search=Jason%20Sudeikis"
+     "url": "stremio:///search?search=Ella%20Bright"
     },
     {
-     "name": "Hannah Waddingham",
+     "name": "Belmont Cameli",
      "category": "Cast",
-     "url": "stremio:///search?search=Hannah%20Waddingham"
+     "url": "stremio:///search?search=Belmont%20Cameli"
     },
     {
-     "name": "Jeremy Swift",
+     "name": "Mika Abdalla",
      "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Swift"
+     "url": "stremio:///search?search=Mika%20Abdalla"
     },
     {
-     "name": "Jason Sudeikis",
+     "name": "Louisa Levy",
      "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Sudeikis"
-    },
-    {
-     "name": "Brendan Hunt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brendan%20Hunt"
-    },
-    {
-     "name": "Joe Kelly",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joe%20Kelly"
+     "url": "stremio:///search?search=Louisa%20Levy"
     }
    ],
    "behaviorHints": {
@@ -295,7 +448,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
   },
   {
    "name": "Christy",
@@ -415,215 +568,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32323252.jpg"
   },
   {
-   "name": "Off Campus",
-   "cast": [
-    "Ella Bright",
-    "Belmont Cameli",
-    "Mika Abdalla"
-   ],
-   "country": "United States",
-   "description": "Hannah Wells ajuda o capitão de hóquei Garrett Graham a conquistar a sua paixão. O acordo transforma-se numa ligação verdadeira enquanto enfrentam o passado. Os amigos Logan, Dean, Tucker e Allie exploram a vida universitária e o amor.",
-   "genre": [
-    "Drama",
-    "Romance",
-    "Sport"
-   ],
-   "imdbRating": "7.8",
-   "released": "2026-05-13T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "wAozjf2frxw",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Louisa Levy"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33546863/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33546863/img",
-   "awards": "1 win & 3 nominations total",
-   "id": "tt33546863",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Off Campus",
-     "ytId": "wAozjf2frxw"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33546863"
-    },
-    {
-     "name": "Off Campus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/off-campus-33546863"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Ella Bright",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ella%20Bright"
-    },
-    {
-     "name": "Belmont Cameli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Belmont%20Cameli"
-    },
-    {
-     "name": "Mika Abdalla",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mika%20Abdalla"
-    },
-    {
-     "name": "Louisa Levy",
-     "category": "Writers",
-     "url": "stremio:///search?search=Louisa%20Levy"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33546863.jpg"
-  },
-  {
-   "name": "Marty Supreme",
-   "cast": [
-    "Timothée Chalamet",
-    "Gwyneth Paltrow",
-    "Odessa A&apos;zion"
-   ],
-   "country": "United States, Finland",
-   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
-   "director": [
-    "Josh Safdie"
-   ],
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Sport"
-   ],
-   "imdbRating": "7.5",
-   "released": "2025-12-25T00:00:00.000Z",
-   "writer": [
-    "Ronald Bronstein",
-    "Josh Safdie"
-   ],
-   "year": "2025",
-   "runtime": "150 min",
-   "background": "https://images.metahub.space/background/medium/tt32916440/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
-   "trailers": [
-    {
-     "source": "s9gSuKaKcqM",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
-   "id": "tt32916440",
-   "genres": [
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Marty Supreme",
-     "ytId": "s9gSuKaKcqM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32916440"
-    },
-    {
-     "name": "Marty Supreme",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
-    },
-    {
-     "name": "Timothée Chalamet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
-    },
-    {
-     "name": "Gwyneth Paltrow",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gwyneth%20Paltrow"
-    },
-    {
-     "name": "Odessa A&apos;zion",
-     "category": "Cast",
-     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
-    },
-    {
-     "name": "Ronald Bronstein",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronald%20Bronstein"
-    },
-    {
-     "name": "Josh Safdie",
-     "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Safdie"
-    },
-    {
-     "name": "Josh Safdie",
-     "category": "Directors",
-     "url": "stremio:///search?search=Josh%20Safdie"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32916440",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
-  },
-  {
    "name": "Heated Rivalry",
    "country": "Canada",
    "description": "Duas das maiores estrelas da Major League Hockey estão ligadas pela ambição, pela rivalidade e por uma atração magnética que nenhum deles compreende totalmente. O que começa como um caso secreto entre dois jovens rookies evolui para uma jornada de vários anos marcada pelo amor, pela negação e pela autodescoberta.\n\nAo longo dos oito anos seguintes, enquanto perseguem a glória no gelo, lutam para compreender e gerir os sentimentos que têm um pelo outro. Divididos entre o desporto pelo qual vivem e o amor que não conseguem ignorar, terão de decidir se existe espaço, no seu mundo ferozmente competitivo, para algo tão frágil — e ao mesmo tempo tão poderoso — como o verdadeiro amor.",
@@ -722,226 +666,80 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35495073.jpg"
   },
   {
-   "name": "F1: The Movie",
+   "name": "Formula 1: Drive to Survive",
+   "country": "United Kingdom",
+   "description": "Pilotos, agentes e proprietários de equipas vivem a vida a mil — dentro e fora da pista — durante todas as implacáveis temporadas de corridas de Fórmula 1.",
+   "imdbRating": "8.4",
+   "released": "2019-03-08T00:00:00.000Z",
+   "year": "2019–",
+   "status": "Continuing",
    "cast": [
-    "Brad Pitt",
-    "Damson Idris",
-    "Javier Bardem"
+    "MoneyGram Haas F1 Team",
+    "Oracle Red Bull Racing",
+    "McLaren Formula 1 Team"
    ],
-   "country": "United States",
-   "description": "Sonny Hayes, uma lenda do automobilismo, é convidado a sair da reforma para liderar uma equipa de Fórmula 1 em dificuldades - e orientar um jovem piloto de sucesso - enquanto persegue mais uma oportunidade de glória.",
-   "director": [
-    "Joseph Kosinski"
-   ],
+   "director": [],
    "genre": [
-    "Drama",
+    "Documentary",
     "Sport"
    ],
-   "imdbRating": "7.6",
-   "released": "2025-06-27T00:00:00.000Z",
-   "writer": [
-    "Joseph Kosinski",
-    "Ehren Kruger"
-   ],
-   "year": "2025",
-   "background": "https://images.metahub.space/background/medium/tt16311594/img",
-   "logo": "https://images.metahub.space/logo/medium/tt16311594/img",
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt8289930/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8289930/img",
+   "runtime": "40 min",
+   "awards": "Nominated for 5 BAFTA Awards. 13 wins & 31 nominations total",
    "trailers": [
     {
-     "source": "ge_ABjtYx88",
-     "type": "Trailer"
-    },
-    {
-     "source": "8yh9BPUBbbQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "txy5_jLbFX8",
-     "type": "Trailer"
-    },
-    {
-     "source": "bqUUGtFhoac",
-     "type": "Trailer"
-    },
-    {
-     "source": "CT2_P2DZBR0",
-     "type": "Trailer"
-    },
-    {
-     "source": "J-eZpA8DdAg",
+     "source": "wtJPe1ksS6E",
      "type": "Trailer"
     }
    ],
-   "runtime": "156 min",
-   "awards": "Won 1 Oscar. 34 wins & 134 nominations total",
-   "id": "tt16311594",
+   "id": "tt8289930",
    "genres": [
-    "Ação",
-    "Drama"
+    "Documentário"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "F1: The Movie",
-     "ytId": "ge_ABjtYx88"
-    },
-    {
-     "title": "F1: The Movie",
-     "ytId": "8yh9BPUBbbQ"
-    },
-    {
-     "title": "F1: The Movie",
-     "ytId": "txy5_jLbFX8"
-    },
-    {
-     "title": "F1: The Movie",
-     "ytId": "bqUUGtFhoac"
-    },
-    {
-     "title": "F1: The Movie",
-     "ytId": "CT2_P2DZBR0"
-    },
-    {
-     "title": "F1: The Movie",
-     "ytId": "J-eZpA8DdAg"
+     "title": "Formula 1: Drive to Survive",
+     "ytId": "wtJPe1ksS6E"
     }
    ],
    "links": [
     {
-     "name": "7.6",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt16311594"
+     "url": "https://imdb.com/title/tt8289930"
     },
     {
-     "name": "F1: The Movie",
+     "name": "Formula 1: Drive to Survive",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/f1-the-movie-16311594"
+     "url": "https://www.strem.io/s/series/formula-1-drive-to-survive-8289930"
     },
     {
-     "name": "Drama",
+     "name": "Documentary",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
     },
     {
      "name": "Sport",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Brad Pitt",
+     "name": "MoneyGram Haas F1 Team",
      "category": "Cast",
-     "url": "stremio:///search?search=Brad%20Pitt"
+     "url": "stremio:///search?search=MoneyGram%20Haas%20F1%20Team"
     },
     {
-     "name": "Damson Idris",
+     "name": "Oracle Red Bull Racing",
      "category": "Cast",
-     "url": "stremio:///search?search=Damson%20Idris"
+     "url": "stremio:///search?search=Oracle%20Red%20Bull%20Racing"
     },
     {
-     "name": "Javier Bardem",
+     "name": "McLaren Formula 1 Team",
      "category": "Cast",
-     "url": "stremio:///search?search=Javier%20Bardem"
-    },
-    {
-     "name": "Joseph Kosinski",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joseph%20Kosinski"
-    },
-    {
-     "name": "Ehren Kruger",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ehren%20Kruger"
-    },
-    {
-     "name": "Joseph Kosinski",
-     "category": "Directors",
-     "url": "stremio:///search?search=Joseph%20Kosinski"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt16311594",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16311594.jpg"
-  },
-  {
-   "name": "Aoashi",
-   "cast": [
-    "Kôki Ôsuzu",
-    "Clifford Chapin",
-    "Ricco Fajardo"
-   ],
-   "country": "Japan",
-   "description": "Aoi Ashito é um jovem jogador de futebol aspirante de uma cidade remota no Japão. As suas esperanças de entrar numa escola secundária com um bom clube de futebol são desfeitas quando provoca um incidente durante um jogo crítico para a sua equipa, o que resulta na sua derrota e eliminação do torneio. No entanto, ele chama a atenção de alguém importante que estava a visitar de Tóquio. Como irão as coisas desenrolar-se para Ashito?",
-   "genre": [
-    "Animation",
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "8.1",
-   "released": "2022-04-09T00:00:00.000Z",
-   "year": "2022",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Yugo Kobayashi"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15792808/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15792808/img",
-   "runtime": "25 min",
-   "awards": "3 wins & 2 nominations total",
-   "id": "tt15792808",
-   "genres": [
-    "Animação"
-   ],
-   "releaseInfo": "2022",
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15792808"
-    },
-    {
-     "name": "Aoashi",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/aoashi-15792808"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Kôki Ôsuzu",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ki%20%C3%94suzu"
-    },
-    {
-     "name": "Clifford Chapin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Clifford%20Chapin"
-    },
-    {
-     "name": "Ricco Fajardo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ricco%20Fajardo"
-    },
-    {
-     "name": "Yugo Kobayashi",
-     "category": "Writers",
-     "url": "stremio:///search?search=Yugo%20Kobayashi"
+     "url": "stremio:///search?search=McLaren%20Formula%201%20Team"
     }
    ],
    "behaviorHints": {
@@ -950,7 +748,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15792808.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8289930.jpg"
   },
   {
    "awards": null,
@@ -1038,6 +836,49 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
+  },
+  {
+   "id": "tt14513646",
+   "logo": "https://live.metahub.space/logo/medium/tt14513646/img",
+   "background": "https://live.metahub.space/background/medium/tt14513646/img",
+   "name": "Race: Bubba Wallace",
+   "description": "Esta série documental mostra como Bubba Wallace, o único piloto negro da NASCAR Cup Series, usa sua voz e talento para mudar o esporte.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2022",
+   "status": "Ended",
+   "runtime": "45 min",
+   "trailers": [
+    {
+     "source": "l9n3z81fZ_Y",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Bubba Wallace"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Bubba Wallace",
+     "profile_path": "/yvTZHxcABTSxp148SpJGUfKziTH.jpg",
+     "id": 2483159
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "6.6",
+   "language": "English",
+   "country": "United States",
+   "awards": "1 win & 1 nomination",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14513646.jpg"
   }
  ]
 }

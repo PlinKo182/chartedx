@@ -402,51 +402,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
   },
   {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
    "name": "Slow Horses",
    "cast": [
     "Gary Oldman",
@@ -539,6 +494,51 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   },
   {
    "name": "Will Trent",
@@ -649,60 +649,116 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17543592.jpg"
   },
   {
+   "name": "Taken: Natalee Holloway",
    "cast": [
-    "Milo Callaghan",
-    "Lana Parrilla",
-    "Madison Iseman"
+    "Natalee Holloway",
+    "Beth Holloway"
    ],
    "country": "United States",
-   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
+   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-11-04T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "37 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
+   "background": "https://images.metahub.space/background/medium/tt43681696/img",
+   "id": "tt43681696",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Taken: Natalee Holloway",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Natalee Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalee%20Holloway"
+    },
+    {
+     "name": "Beth Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Beth%20Holloway"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
+  },
+  {
+   "name": "City of God: The Fight Rages On",
+   "cast": [
+    "Alexandre Rodrigues",
+    "Roberta Rodrigues",
+    "Andréia Horta"
+   ],
+   "country": "Brazil",
+   "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
    "genre": [
     "Crime",
-    "Drama",
-    "Thriller"
+    "Drama"
    ],
    "imdbRating": "7.2",
-   "name": "The Rainmaker",
-   "released": "2025-08-15T00:00:00.000Z",
-   "year": "2025–",
-   "runtime": "43 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Jason Richman",
-    "Michael Seitzman"
-   ],
+   "released": "2024-08-25T00:00:00.000Z",
+   "year": "2024–",
    "trailers": [
     {
-     "source": "-__6rI43NyE",
+     "source": "TmcoiA1iTYM",
      "type": "Trailer"
     }
    ],
-   "awards": "1 win & 4 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt6151526/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
-   "id": "tt6151526",
+   "director": [],
+   "writer": [],
+   "runtime": "50 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt27535062/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27535062/img",
+   "id": "tt27535062",
    "genres": [
-    "Drama",
-    "Mistério"
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "The Rainmaker",
-     "ytId": "-__6rI43NyE"
+     "title": "City of God: The Fight Rages On",
+     "ytId": "TmcoiA1iTYM"
     }
    ],
    "links": [
     {
-     "name": "7.1",
+     "name": "7.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt6151526"
+     "url": "https://imdb.com/title/tt27535062"
     },
     {
-     "name": "The Rainmaker",
+     "name": "City of God: The Fight Rages On",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
+     "url": "https://www.strem.io/s/series/city-of-god-the-fight-rages-on-27535062"
     },
     {
      "name": "Crime",
@@ -715,34 +771,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Milo Callaghan",
+     "name": "Alexandre Rodrigues",
      "category": "Cast",
-     "url": "stremio:///search?search=Milo%20Callaghan"
+     "url": "stremio:///search?search=Alexandre%20Rodrigues"
     },
     {
-     "name": "Lana Parrilla",
+     "name": "Roberta Rodrigues",
      "category": "Cast",
-     "url": "stremio:///search?search=Lana%20Parrilla"
+     "url": "stremio:///search?search=Roberta%20Rodrigues"
     },
     {
-     "name": "Madison Iseman",
+     "name": "Andréia Horta",
      "category": "Cast",
-     "url": "stremio:///search?search=Madison%20Iseman"
-    },
-    {
-     "name": "Jason Richman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Richman"
-    },
-    {
-     "name": "Michael Seitzman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Seitzman"
+     "url": "stremio:///search?search=Andr%C3%A9ia%20Horta"
     }
    ],
    "behaviorHints": {
@@ -751,7 +792,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
   },
   {
    "id": "tt37762350",
@@ -865,91 +906,6 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
    "imdbRating": "6.3"
-  },
-  {
-   "name": "City of God: The Fight Rages On",
-   "cast": [
-    "Alexandre Rodrigues",
-    "Roberta Rodrigues",
-    "Andréia Horta"
-   ],
-   "country": "Brazil",
-   "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-08-25T00:00:00.000Z",
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "TmcoiA1iTYM",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "runtime": "50 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt27535062/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27535062/img",
-   "id": "tt27535062",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "City of God: The Fight Rages On",
-     "ytId": "TmcoiA1iTYM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27535062"
-    },
-    {
-     "name": "City of God: The Fight Rages On",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/city-of-god-the-fight-rages-on-27535062"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Alexandre Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alexandre%20Rodrigues"
-    },
-    {
-     "name": "Roberta Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Roberta%20Rodrigues"
-    },
-    {
-     "name": "Andréia Horta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andr%C3%A9ia%20Horta"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
   }
  ]
 }

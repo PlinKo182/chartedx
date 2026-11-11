@@ -1,85 +1,48 @@
 {
  "metas": [
   {
-   "status": "Ended",
-   "id": "tt50135019",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "name": "Get Huge: Looksmaxxing to Death",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ]
-  },
-  {
-   "name": "Sugar",
+   "awards": "Won 1 BAFTA Award2 wins & 9 nominations total",
    "cast": [
-    "Colin Farrell",
-    "Kirby Howell-Baptiste",
-    "James Cromwell"
+    "Eddie Redmayne",
+    "Clémence Poésy",
+    "Matthew Goode"
    ],
-   "country": "United States",
-   "description": "John Sugar é um detetive privado arrojado nas ruas obscuras de uma LA soalheira. Apesar de ver apenas o lado bom da humanidade, Sugar é assombrado por um segredo demasiado perigoso para revelar.",
+   "country": "United Kingdom",
+   "description": "Enquanto um soldado Inglês luta nas trincheiras horríveis do norte da França, ele é assombrado pelas lembranças de seu amor proibido com uma mulher francesa.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Action",
-    "Crime",
-    "Drama"
+    "Drama",
+    "Romance",
+    "War"
    ],
-   "imdbRating": "7.4",
-   "released": "2024-04-05T00:00:00.000Z",
-   "year": "2024–",
-   "runtime": "38 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "twvPGxuEOEA",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Mark Protosevich"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt16418808/img",
-   "logo": "https://images.metahub.space/logo/medium/tt16418808/img",
-   "awards": "Nominated for 1 Primetime Emmy. 1 win & 11 nominations total",
-   "id": "tt16418808",
+   "imdbRating": "7.3",
+   "name": "Birdsong",
+   "released": "2012-04-22T00:00:00.000Z",
+   "runtime": "165 min",
+   "status": "Ended",
+   "trailers": [],
+   "writer": null,
+   "year": "2012",
+   "background": "https://images.metahub.space/background/medium/tt1127876/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1127876/img",
+   "id": "tt1127876",
    "genres": [
     "Drama",
-    "Mistério"
+    "War & Politics"
    ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Sugar",
-     "ytId": "twvPGxuEOEA"
-    }
-   ],
+   "releaseInfo": "2012",
+   "trailerStreams": [],
    "links": [
     {
-     "name": "7.4",
+     "name": "7.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt16418808"
+     "url": "https://imdb.com/title/tt1127876"
     },
     {
-     "name": "Sugar",
+     "name": "Birdsong",
      "category": "share",
-     "url": "https://www.strem.io/s/series/sugar-16418808"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "https://www.strem.io/s/series/birdsong-1127876"
     },
     {
      "name": "Drama",
@@ -87,24 +50,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Colin Farrell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Colin%20Farrell"
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Kirby Howell-Baptiste",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kirby%20Howell-Baptiste"
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
     },
     {
-     "name": "James Cromwell",
+     "name": "Eddie Redmayne",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Cromwell"
+     "url": "stremio:///search?search=Eddie%20Redmayne"
     },
     {
-     "name": "Mark Protosevich",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mark%20Protosevich"
+     "name": "Clémence Poésy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cl%C3%A9mence%20Po%C3%A9sy"
+    },
+    {
+     "name": "Matthew Goode",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Goode"
     }
    ],
    "behaviorHints": {
@@ -113,180 +81,72 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16418808.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1127876.jpg"
   },
   {
-   "id": "tt11243112",
-   "logo": "https://live.metahub.space/logo/medium/tt11243112/img",
-   "background": "https://live.metahub.space/background/medium/tt11243112/img",
-   "name": "Voltaire High",
-   "description": "É o primeiro dia de aula no Instituto Voltaire no ano de 1963. E pela primeira vez, meninas e meninos vão se misturar. Esse primeiro ano de ensino misto será cheio de surpresas para professores e alunos.",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2021",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "rKNuPDzF48U",
-     "type": "Trailer"
-    }
-   ],
+   "name": "One Punch Man",
+   "status": "Continuing",
    "cast": [
-    "Pierre Deladonchamps",
-    "Nina Meurisse",
-    "Maud Wyler"
+    "Makoto Furukawa",
+    "Kaito Ishikawa",
+    "Max Mittelman"
    ],
-   "credits_cast": [
-    {
-     "character": "Paul Bellanger",
-     "name": "Pierre Deladonchamps",
-     "profile_path": "/egIMzrrjVXVTMVsp7nrIXIfP7TD.jpg",
-     "id": 1071606
-    },
-    {
-     "character": "Camille Couret",
-     "name": "Nina Meurisse",
-     "profile_path": "/kLxpJGq269KEktzFh6DXoK2PsjR.jpg",
-     "id": 144763
-    },
-    {
-     "character": "Jeanne Bellanger",
-     "name": "Maud Wyler",
-     "profile_path": "/mOOZU8SgmuMHTiPJjq8AbcEzcow.jpg",
-     "id": 147882
-    },
-    {
-     "character": "Yves Lamazière",
-     "name": "Enzo Monchauzou",
-     "profile_path": "/1UEM1blvCPBFRWCbIZlARuoi48i.jpg",
-     "id": 3120438
-    },
-    {
-     "character": "Ahmed Belkacem",
-     "name": "Adil Mekki",
-     "profile_path": "/zEbpVbtQXIByQOkIZHvweT6iP5R.jpg",
-     "id": 3120439
-    },
-    {
-     "character": "Martine Gomez",
-     "name": "Meylie Vignaud",
-     "profile_path": null,
-     "id": 3127928
-    },
-    {
-     "character": "Françoise Martin",
-     "name": "Inès Domingo",
-     "profile_path": null,
-     "id": 4273599
-    },
-    {
-     "character": "Zappa",
-     "name": "Paul Barrier",
-     "profile_path": null,
-     "id": 4273600
-    },
-    {
-     "character": "",
-     "name": "Jean-Pierre Magnan",
-     "profile_path": null,
-     "id": 5848060
-    },
-    {
-     "character": "Nicole",
-     "name": "Céleste Pierron",
-     "profile_path": null,
-     "id": 5860949
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Marie Roussin",
-     "profile_path": null,
-     "id": 1409018
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Alexandre Castagnetti",
-     "profile_path": "/5qPYpnAs9xz7u7QbYuMr8khnv7Y.jpg",
-     "id": 225890
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Edouard Salier",
-     "profile_path": null,
-     "id": 1668438
-    }
-   ],
-   "director": [
-    "Alexandre Castagnetti",
-    "Edouard Salier"
-   ],
-   "imdbRating": "7.8",
-   "language": "French",
-   "country": "France",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11243112.jpg"
-  },
-  {
-   "name": "Get Jiro!",
-   "cast": [
-    "Titus Welliver",
-    "Brian Tee",
-    "Alison Pill"
-   ],
-   "country": "United States",
-   "description": "Num futuro em que Los Angeles é controlada por chefs de elite, um mestre de sushi chamado Jiro vê-se envolvido num conflito culinário feroz, procurando vingança através das suas habilidades culinárias no meio do competitivo mundo da restauração.",
+   "director": null,
    "genre": [
     "Animation",
     "Action",
-    "Thriller"
+    "Comedy"
    ],
-   "imdbRating": "7.0",
-   "released": "2026-10-03T00:00:00.000Z",
    "writer": [
-    "Brian Gatewood",
-    "Alessandro Tanaka"
+    "Yusuke Murata"
    ],
-   "year": "2026–",
+   "year": "2015–",
+   "runtime": "24 min",
+   "released": "2015-10-05T00:00:00.000Z",
+   "imdbRating": "8.6",
+   "description": "O mais poderoso super-herói do mundo pode matar qualquer um com um murro apenas. Mas, como não há quem o desafie, tem de lidar com o tédio.",
+   "country": "Japan",
+   "awards": "3 wins & 9 nominations total",
+   "dvdRelease": null,
+   "background": "https://images.metahub.space/background/medium/tt4508902/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4508902/img",
    "trailers": [
     {
-     "source": "i8WDv3J7das",
+     "source": "2JAElThbKrI",
+     "type": "Trailer"
+    },
+    {
+     "source": "Poo5lqoWSGw",
      "type": "Trailer"
     }
    ],
-   "runtime": "23 min",
-   "status": "Continuing",
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt33406999/img",
-   "background": "https://images.metahub.space/background/medium/tt33406999/img",
-   "id": "tt33406999",
+   "id": "tt4508902",
    "genres": [
     "Animação",
+    "Comédia",
     "Action & Adventure"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "Get Jiro!",
-     "ytId": "i8WDv3J7das"
+     "title": "One Punch Man",
+     "ytId": "2JAElThbKrI"
+    },
+    {
+     "title": "One Punch Man",
+     "ytId": "Poo5lqoWSGw"
     }
    ],
    "links": [
     {
-     "name": "Get Jiro!",
+     "name": "8.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4508902"
+    },
+    {
+     "name": "One Punch Man",
      "category": "share",
-     "url": "https://www.strem.io/s/series/get-jiro-33406999"
+     "url": "https://www.strem.io/s/series/one-punch-man-4508902"
     },
     {
      "name": "Animation",
@@ -299,34 +159,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Thriller",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Titus Welliver",
+     "name": "Makoto Furukawa",
      "category": "Cast",
-     "url": "stremio:///search?search=Titus%20Welliver"
+     "url": "stremio:///search?search=Makoto%20Furukawa"
     },
     {
-     "name": "Brian Tee",
+     "name": "Kaito Ishikawa",
      "category": "Cast",
-     "url": "stremio:///search?search=Brian%20Tee"
+     "url": "stremio:///search?search=Kaito%20Ishikawa"
     },
     {
-     "name": "Alison Pill",
+     "name": "Max Mittelman",
      "category": "Cast",
-     "url": "stremio:///search?search=Alison%20Pill"
+     "url": "stremio:///search?search=Max%20Mittelman"
     },
     {
-     "name": "Brian Gatewood",
+     "name": "Yusuke Murata",
      "category": "Writers",
-     "url": "stremio:///search?search=Brian%20Gatewood"
-    },
-    {
-     "name": "Alessandro Tanaka",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Tanaka"
+     "url": "stremio:///search?search=Yusuke%20Murata"
     }
    ],
    "behaviorHints": {
@@ -335,271 +190,65 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4508902.jpg"
   },
   {
-   "name": "Your Friends & Neighbors",
+   "awards": "Won 3 Primetime Emmys. 35 wins & 155 nominations total",
    "cast": [
-    "Jon Hamm",
-    "Amanda Peet",
-    "Olivia Munn"
+    "Tom Welling",
+    "Michael Rosenbaum",
+    "Allison Mack"
    ],
-   "country": "United States",
-   "description": "Quando um titã da alta finança se vê, de repente, divorciado e sem emprego, começa a roubar aos seus vizinhos abastados para se aguentar. Roubar ao seu círculo social torna-se estranhamente estimulante —mas, aos poucos, vai-se enredando numa teia mortal.",
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.6",
-   "released": "2025-04-11T00:00:00.000Z",
-   "writer": [
-    "Jonathan Tropper"
-   ],
-   "year": "2025–",
-   "trailers": [
-    {
-     "source": "iVRFMd6dEOE",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "54 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt30459041/img",
-   "logo": "https://images.metahub.space/logo/medium/tt30459041/img",
-   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 9 nominations total",
-   "id": "tt30459041",
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Your Friends & Neighbors",
-     "ytId": "iVRFMd6dEOE"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt30459041"
-    },
-    {
-     "name": "Your Friends & Neighbors",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/your-friends-neighbors-30459041"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Jon Hamm",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jon%20Hamm"
-    },
-    {
-     "name": "Amanda Peet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amanda%20Peet"
-    },
-    {
-     "name": "Olivia Munn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Olivia%20Munn"
-    },
-    {
-     "name": "Jonathan Tropper",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Tropper"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30459041.jpg"
-  },
-  {
-   "name": "Mr. Robot",
-   "year": "2015–2019",
-   "runtime": "50 min",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "released": "2015-06-24T00:00:00.000Z",
-   "director": null,
-   "writer": [
-    "Sam Esmail"
-   ],
-   "cast": [
-    "Rami Malek",
-    "Christian Slater",
-    "Carly Chaikin"
-   ],
-   "imdbRating": "8.5",
-   "description": "Elliot é um jovem programador que trabalha como engenheiro de segurança virtual durante o dia, e como hacker vigilante durante a noite. Elliot vê-se numa encruzilhada quando o líder de um misterioso grupo de hacker o recruta para destruir a companhia que ele é pago para proteger. Motivado pelas suas crenças pessoais, ele luta para resistir à chance de destruir os CEOs da multinacional que ele acredita estarem a controlar – e a destruir – o mundo.",
-   "country": "United States",
-   "awards": "Won 3 Primetime Emmys. 23 wins & 86 nominations total",
-   "dvdRelease": null,
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt4158110/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4158110/img",
-   "trailers": [
-    {
-     "source": "N6HGuJC--rk",
-     "type": "Trailer"
-    },
-    {
-     "source": "xIBiJ_SzJTA",
-     "type": "Trailer"
-    },
-    {
-     "source": "U94litUpZuc",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt4158110",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "Mr. Robot",
-     "ytId": "N6HGuJC--rk"
-    },
-    {
-     "title": "Mr. Robot",
-     "ytId": "xIBiJ_SzJTA"
-    },
-    {
-     "title": "Mr. Robot",
-     "ytId": "U94litUpZuc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4158110"
-    },
-    {
-     "name": "Mr. Robot",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/mr-robot-4158110"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Rami Malek",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rami%20Malek"
-    },
-    {
-     "name": "Christian Slater",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Slater"
-    },
-    {
-     "name": "Carly Chaikin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Carly%20Chaikin"
-    },
-    {
-     "name": "Sam Esmail",
-     "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Esmail"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4158110.jpg"
-  },
-  {
-   "awards": "7 wins & 26 nominations total",
-   "cast": [
-    "Taylor Kinney",
-    "Christian Stolte",
-    "Joe Minoso"
-   ],
-   "country": "United States",
-   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
+   "country": "United States, Canada",
+   "description": "Smallville, idílica e pequena cidade nunca mais foi a mesma depois da queda de uma chuva de meteoros...foi o dia em que Clark Kent aterrou na terra, onde cresceu e agora é adolescente com a agravante de ter de lidar com os emergentes superpoderes.",
    "director": null,
    "dvdRelease": null,
    "genre": [
     "Action",
+    "Adventure",
     "Drama"
    ],
-   "imdbRating": "8.0",
-   "name": "Chicago Fire",
-   "released": "2012-10-10T00:00:00.000Z",
-   "runtime": "42 min",
-   "status": "Continuing",
+   "imdbRating": "7.5",
+   "name": "Smallville",
+   "released": "2001-10-16T00:00:00.000Z",
+   "runtime": "1 min",
+   "status": "Ended",
    "writer": [
-    "Michael Brandt",
-    "Derek Haas"
+    "Alfred Gough",
+    "Miles Millar"
    ],
-   "year": "2012–",
-   "background": "https://images.metahub.space/background/medium/tt2261391/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
+   "year": "2001–2011",
+   "background": "https://images.metahub.space/background/medium/tt0279600/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0279600/img",
    "trailers": [
     {
-     "source": "IIeSDILTE5M",
+     "source": "70Y32si4yb8",
      "type": "Trailer"
     }
    ],
-   "id": "tt2261391",
+   "id": "tt0279600",
    "genres": [
+    "Sci-Fi & Fantasy",
+    "Action & Adventure",
     "Drama"
    ],
-   "releaseInfo": "2012",
+   "releaseInfo": "2001",
    "trailerStreams": [
     {
-     "title": "Chicago Fire",
-     "ytId": "IIeSDILTE5M"
+     "title": "Smallville",
+     "ytId": "70Y32si4yb8"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "7.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2261391"
+     "url": "https://imdb.com/title/tt0279600"
     },
     {
-     "name": "Chicago Fire",
+     "name": "Smallville",
      "category": "share",
-     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
+     "url": "https://www.strem.io/s/series/smallville-0279600"
     },
     {
      "name": "Action",
@@ -607,34 +256,39 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Taylor Kinney",
+     "name": "Tom Welling",
      "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kinney"
+     "url": "stremio:///search?search=Tom%20Welling"
     },
     {
-     "name": "Christian Stolte",
+     "name": "Michael Rosenbaum",
      "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Stolte"
+     "url": "stremio:///search?search=Michael%20Rosenbaum"
     },
     {
-     "name": "Joe Minoso",
+     "name": "Allison Mack",
      "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Minoso"
+     "url": "stremio:///search?search=Allison%20Mack"
     },
     {
-     "name": "Michael Brandt",
+     "name": "Alfred Gough",
      "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Brandt"
+     "url": "stremio:///search?search=Alfred%20Gough"
     },
     {
-     "name": "Derek Haas",
+     "name": "Miles Millar",
      "category": "Writers",
-     "url": "stremio:///search?search=Derek%20Haas"
+     "url": "stremio:///search?search=Miles%20Millar"
     }
    ],
    "behaviorHints": {
@@ -643,42 +297,61 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0279600.jpg"
   },
   {
-   "name": "Neagley",
+   "name": "Spider-Noir",
    "cast": [
-    "Maria Sten",
-    "Greyston Holt",
-    "Adeline Rudolph"
+    "Nicolas Cage",
+    "Lamorne Morris",
+    "Li Jun Li"
    ],
    "country": "United States",
-   "description": "Do universo de \"REACHER\", começa um novo capítulo. Frances Neagley é investigadora privada em Chicago e antiga colega militar de Jack Reacher na Unidade 110 de Investigações Especiais do Exército. Quando descobre que um amigo muito querido do seu passado morreu num acidente suspeito, fica determinada a fazer justiça.",
+   "description": "O detetive privado Ben Reilly é contratado para alguns casos simples... até que mafiosos, monstros e uma misteriosa femme fatale o põem frente a frente com a sua antiga vida como único super-herói de Nova Iorque: o Aranha.",
    "genre": [
     "Action",
-    "Crime",
-    "Drama"
+    "Adventure",
+    "Crime"
    ],
    "imdbRating": "7.6",
-   "released": "2026-09-16T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "49 min",
-   "status": "Continuing",
+   "released": "2026-05-25T00:00:00.000Z",
+   "writer": [
+    "Oren Uziel"
+   ],
+   "year": "2026",
    "trailers": [
     {
-     "source": "BOzNaa_o9_g",
+     "source": "e5QW457407U",
      "type": "Trailer"
     },
     {
-     "source": "e4R4guZS0WU",
+     "source": "IJ1j7hSU6aE",
+     "type": "Trailer"
+    },
+    {
+     "source": "LpN2RavI5C8",
+     "type": "Trailer"
+    },
+    {
+     "source": "DfowFyDxUXo",
+     "type": "Trailer"
+    },
+    {
+     "source": "b-Blr0_koQA",
+     "type": "Trailer"
+    },
+    {
+     "source": "HgMbkitzhEM",
      "type": "Trailer"
     }
    ],
+   "runtime": "44 min",
+   "status": "Ended",
    "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt33539520/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33539520/img",
-   "id": "tt33539520",
+   "background": "https://images.metahub.space/background/medium/tt30460310/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30460310/img",
+   "awards": "Won 5 Primetime Emmys. 7 wins & 9 nominations total",
+   "id": "tt30460310",
    "genres": [
     "Drama",
     "Mistério",
@@ -687,19 +360,40 @@
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Neagley",
-     "ytId": "BOzNaa_o9_g"
+     "title": "Spider-Noir",
+     "ytId": "e5QW457407U"
     },
     {
-     "title": "Neagley",
-     "ytId": "e4R4guZS0WU"
+     "title": "Spider-Noir",
+     "ytId": "IJ1j7hSU6aE"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "LpN2RavI5C8"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "DfowFyDxUXo"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "b-Blr0_koQA"
+    },
+    {
+     "title": "Spider-Noir",
+     "ytId": "HgMbkitzhEM"
     }
    ],
    "links": [
     {
-     "name": "Neagley",
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30460310"
+    },
+    {
+     "name": "Spider-Noir",
      "category": "share",
-     "url": "https://www.strem.io/s/series/neagley-33539520"
+     "url": "https://www.strem.io/s/series/spider-noir-30460310"
     },
     {
      "name": "Action",
@@ -707,29 +401,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
      "name": "Crime",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "name": "Nicolas Cage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicolas%20Cage"
     },
     {
-     "name": "Maria Sten",
+     "name": "Lamorne Morris",
      "category": "Cast",
-     "url": "stremio:///search?search=Maria%20Sten"
+     "url": "stremio:///search?search=Lamorne%20Morris"
     },
     {
-     "name": "Greyston Holt",
+     "name": "Li Jun Li",
      "category": "Cast",
-     "url": "stremio:///search?search=Greyston%20Holt"
+     "url": "stremio:///search?search=Li%20Jun%20Li"
     },
     {
-     "name": "Adeline Rudolph",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adeline%20Rudolph"
+     "name": "Oren Uziel",
+     "category": "Writers",
+     "url": "stremio:///search?search=Oren%20Uziel"
     }
    ],
    "behaviorHints": {
@@ -738,62 +437,62 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33539520.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30460310.jpg"
   },
   {
-   "awards": "15 wins & 22 nominations total",
+   "name": "Sex Education",
    "cast": [
-    "Mischa Barton",
-    "Adam Brody",
-    "Peter Gallagher"
+    "Asa Butterfield",
+    "Gillian Anderson",
+    "Ncuti Gatwa"
    ],
-   "country": "United States",
-   "description": "The O.C. relata a história de um grupo de adolescentes e das suas famílias que vivem em Newport Beach, do Condado Orange, na Califórnia.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "United Kingdom",
+   "description": "O inseguro Otis tem resposta para todas as questões sobre sexo, graças à sua mãe que é terapeuta sexual. Por isso, a rebelde Maeve propõe-lhe abrir uma clínica na escola.",
    "genre": [
     "Comedy",
     "Drama",
     "Romance"
    ],
-   "imdbRating": "7.6",
-   "name": "The O.C.",
-   "released": "2003-08-05T00:00:00.000Z",
-   "runtime": "40S min",
+   "imdbRating": "8.2",
+   "released": "2019-01-11T00:00:00.000Z",
+   "runtime": "55 min",
+   "year": "2019–2023",
    "status": "Ended",
+   "director": [],
    "writer": [
-    "Josh Schwartz"
+    "Laurie Nunn"
    ],
-   "year": "2003–2007",
-   "background": "https://images.metahub.space/background/medium/tt0362359/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0362359/img",
+   "background": "https://images.metahub.space/background/medium/tt7767422/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7767422/img",
+   "awards": "Won 1 BAFTA Award. 20 wins & 63 nominations total",
    "trailers": [
     {
-     "source": "83luogMA61c",
+     "source": "Hd2ldTR-WpI",
      "type": "Trailer"
     }
    ],
-   "id": "tt0362359",
+   "id": "tt7767422",
    "genres": [
+    "Comédia",
     "Drama"
    ],
-   "releaseInfo": "2003",
+   "releaseInfo": "2019",
    "trailerStreams": [
     {
-     "title": "The O.C.",
-     "ytId": "83luogMA61c"
+     "title": "Sex Education",
+     "ytId": "Hd2ldTR-WpI"
     }
    ],
    "links": [
     {
-     "name": "7.6",
+     "name": "8.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0362359"
+     "url": "https://imdb.com/title/tt7767422"
     },
     {
-     "name": "The O.C.",
+     "name": "Sex Education",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-oc-0362359"
+     "url": "https://www.strem.io/s/series/sex-education-7767422"
     },
     {
      "name": "Comedy",
@@ -811,24 +510,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
     },
     {
-     "name": "Mischa Barton",
+     "name": "Asa Butterfield",
      "category": "Cast",
-     "url": "stremio:///search?search=Mischa%20Barton"
+     "url": "stremio:///search?search=Asa%20Butterfield"
     },
     {
-     "name": "Adam Brody",
+     "name": "Gillian Anderson",
      "category": "Cast",
-     "url": "stremio:///search?search=Adam%20Brody"
+     "url": "stremio:///search?search=Gillian%20Anderson"
     },
     {
-     "name": "Peter Gallagher",
+     "name": "Ncuti Gatwa",
      "category": "Cast",
-     "url": "stremio:///search?search=Peter%20Gallagher"
+     "url": "stremio:///search?search=Ncuti%20Gatwa"
     },
     {
-     "name": "Josh Schwartz",
+     "name": "Laurie Nunn",
      "category": "Writers",
-     "url": "stremio:///search?search=Josh%20Schwartz"
+     "url": "stremio:///search?search=Laurie%20Nunn"
     }
    ],
    "behaviorHints": {
@@ -837,91 +536,97 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0362359.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7767422.jpg"
   },
   {
-   "awards": "Nominated for 3 Primetime Emmys. 4 wins & 17 nominations total",
-   "cast": [
-    "Charlie Day",
-    "Glenn Howerton",
-    "Rob Mac"
-   ],
-   "country": "United States",
-   "description": "Ser depravado e falhado pode parecer fácil, mas para os egocêntricos Mac, Charlie, Dennis, Frank e Dee é uma arte. Nunca Chove em Filadélfia segue “o gangue”, os donos do Paddy’s Pub, sem sucesso, um grupo de degenerados que adora tramar, conspirar e sobretudo deleitar-se com a desgraça uns dos outros. Quer seja a contornar o sistema da segurança social, a explorar infelizes, a fingir-se estropiados, a fazer-se passar por agentes ou a simular funerais, o gangue nunca desce baixo demais para ganhar algum.",
-   "director": null,
-   "dvdRelease": "2007-09-04T00:00:00.000Z",
+   "name": "Chicago Med",
+   "year": "2015–",
+   "runtime": "44 min",
    "genre": [
-    "Comedy"
+    "Drama"
    ],
-   "imdbRating": "8.8",
-   "name": "It's Always Sunny in Philadelphia",
-   "released": "2005-08-04T00:00:00.000Z",
-   "runtime": "25 min",
-   "status": "Continuing",
+   "released": "2015-11-17T00:00:00.000Z",
+   "director": null,
    "writer": [
-    "Glenn Howerton",
-    "Rob Mac"
+    "Michael Brandt",
+    "Derek Haas",
+    "Matt Olmstead"
    ],
-   "year": "2005–",
-   "background": "https://images.metahub.space/background/medium/tt0472954/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0472954/img",
+   "cast": [
+    "S. Epatha Merkerson",
+    "Oliver Platt",
+    "Marlyne Barrett"
+   ],
+   "imdbRating": "7.6",
+   "description": "Apresentado na narrativa de Chicago Fire, a nova atração produzida por Dick Wolf acompanha a narrativa emocional do caos do dia a dia no hospital mais explosivo da cidade e a equipa de médicos que mantém tudo a funcionar.",
+   "country": "United States",
+   "awards": "6 wins & 7 nominations total",
+   "dvdRelease": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt4655480/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4655480/img",
    "trailers": [
     {
-     "source": "blLAdGYPhiQ",
+     "source": "U2NZ7G02e40",
      "type": "Trailer"
     }
    ],
-   "id": "tt0472954",
+   "id": "tt4655480",
    "genres": [
-    "Comédia"
+    "Drama"
    ],
-   "releaseInfo": "2005",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "It's Always Sunny in Philadelphia",
-     "ytId": "blLAdGYPhiQ"
+     "title": "Chicago Med",
+     "ytId": "U2NZ7G02e40"
     }
    ],
    "links": [
     {
-     "name": "8.8",
+     "name": "7.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0472954"
+     "url": "https://imdb.com/title/tt4655480"
     },
     {
-     "name": "It's Always Sunny in Philadelphia",
+     "name": "Chicago Med",
      "category": "share",
-     "url": "https://www.strem.io/s/series/its-always-sunny-in-philadelphia-0472954"
+     "url": "https://www.strem.io/s/series/chicago-med-4655480"
     },
     {
-     "name": "Comedy",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Charlie Day",
+     "name": "S. Epatha Merkerson",
      "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Day"
+     "url": "stremio:///search?search=S.%20Epatha%20Merkerson"
     },
     {
-     "name": "Glenn Howerton",
+     "name": "Oliver Platt",
      "category": "Cast",
-     "url": "stremio:///search?search=Glenn%20Howerton"
+     "url": "stremio:///search?search=Oliver%20Platt"
     },
     {
-     "name": "Rob Mac",
+     "name": "Marlyne Barrett",
      "category": "Cast",
-     "url": "stremio:///search?search=Rob%20Mac"
+     "url": "stremio:///search?search=Marlyne%20Barrett"
     },
     {
-     "name": "Glenn Howerton",
+     "name": "Michael Brandt",
      "category": "Writers",
-     "url": "stremio:///search?search=Glenn%20Howerton"
+     "url": "stremio:///search?search=Michael%20Brandt"
     },
     {
-     "name": "Rob Mac",
+     "name": "Derek Haas",
      "category": "Writers",
-     "url": "stremio:///search?search=Rob%20Mac"
+     "url": "stremio:///search?search=Derek%20Haas"
+    },
+    {
+     "name": "Matt Olmstead",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Olmstead"
     }
    ],
    "behaviorHints": {
@@ -930,7 +635,446 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0472954.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4655480.jpg"
+  },
+  {
+   "cast": [
+    "Holliday Grainger",
+    "Lia Williams",
+    "Ben Miles"
+   ],
+   "country": "United Kingdom",
+   "description": "Quando um soldado britânico é acusado de um crime, a jovem e obstinada inspetora a cargo do caso começa a desvendar uma conspiração de várias camadas.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.0",
+   "name": "The Capture",
+   "released": "2020-07-15T00:00:00.000Z",
+   "year": "2019–2026",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Ben Chanan"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt8201186/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8201186/img",
+   "runtime": "59 min",
+   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
+   "trailers": [
+    {
+     "source": "b-D2I5tE898",
+     "type": "Trailer"
+    },
+    {
+     "source": "YSSmitzvmUU",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt8201186",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Capture",
+     "ytId": "b-D2I5tE898"
+    },
+    {
+     "title": "The Capture",
+     "ytId": "YSSmitzvmUU"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8201186"
+    },
+    {
+     "name": "The Capture",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-capture-8201186"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Holliday Grainger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Holliday%20Grainger"
+    },
+    {
+     "name": "Lia Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lia%20Williams"
+    },
+    {
+     "name": "Ben Miles",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Miles"
+    },
+    {
+     "name": "Ben Chanan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Chanan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8201186.jpg"
+  },
+  {
+   "name": "Chernobyl",
+   "cast": [
+    "Jared Harris",
+    "Jessie Buckley",
+    "Stellan Skarsgård"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "Uma minissérie épica que dramatiza os acontecimentos do acidente nuclear de Chernobil em 1986, contado pelas histórias das pessoas que fizeram sacrifícios incríveis para salvar a Europa de um desastre inimaginável.",
+   "director": null,
+   "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "imdbRating": "9.3",
+   "released": "2019-05-06T00:00:00.000Z",
+   "runtime": "65 min",
+   "writer": [
+    "Craig Mazin"
+   ],
+   "year": "2019",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt7366338/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7366338/img",
+   "awards": "Won 10 Primetime Emmys. 87 wins & 60 nominations total",
+   "trailers": [
+    {
+     "source": "s9APLXM9Ei8",
+     "type": "Trailer"
+    },
+    {
+     "source": "PMlwjCID3Io",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7366338",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Chernobyl",
+     "ytId": "s9APLXM9Ei8"
+    },
+    {
+     "title": "Chernobyl",
+     "ytId": "PMlwjCID3Io"
+    }
+   ],
+   "links": [
+    {
+     "name": "9.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7366338"
+    },
+    {
+     "name": "Chernobyl",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/chernobyl-7366338"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Jared Harris",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jared%20Harris"
+    },
+    {
+     "name": "Jessie Buckley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jessie%20Buckley"
+    },
+    {
+     "name": "Stellan Skarsgård",
+     "category": "Cast",
+     "url": "stremio:///search?search=Stellan%20Skarsg%C3%A5rd"
+    },
+    {
+     "name": "Craig Mazin",
+     "category": "Writers",
+     "url": "stremio:///search?search=Craig%20Mazin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7366338.jpg"
+  },
+  {
+   "name": "9-1-1",
+   "year": "2018–",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "released": "2018-01-03T00:00:00.000Z",
+   "cast": [
+    "Angela Bassett",
+    "Oliver Stark",
+    "Aisha Hinds"
+   ],
+   "imdbRating": "7.8",
+   "description": "Explore as experiências de alta pressão de policiais, paramédicos e bombeiros que são levados às situações mais assustadoras, chocantes e de parar o coração. Esses socorristas devem tentar equilibrar a economia daqueles que estão mais vulneráveis na solução dos problemas em suas próprias vidas.",
+   "country": "United States",
+   "director": [],
+   "writer": [
+    "Brad Falchuk",
+    "Tim Minear",
+    "Ryan Murphy"
+   ],
+   "status": "Continuing",
+   "runtime": "43 min",
+   "background": "https://images.metahub.space/background/medium/tt7235466/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7235466/img",
+   "awards": "25 wins & 46 nominations total",
+   "trailers": [
+    {
+     "source": "_8MHJfUMqPA",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7235466",
+   "genres": [
+    "Drama",
+    "Crime",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "9-1-1",
+     "ytId": "_8MHJfUMqPA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7235466"
+    },
+    {
+     "name": "9-1-1",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/9-1-1-7235466"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Angela Bassett",
+     "category": "Cast",
+     "url": "stremio:///search?search=Angela%20Bassett"
+    },
+    {
+     "name": "Oliver Stark",
+     "category": "Cast",
+     "url": "stremio:///search?search=Oliver%20Stark"
+    },
+    {
+     "name": "Aisha Hinds",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aisha%20Hinds"
+    },
+    {
+     "name": "Brad Falchuk",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brad%20Falchuk"
+    },
+    {
+     "name": "Tim Minear",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Minear"
+    },
+    {
+     "name": "Ryan Murphy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20Murphy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7235466.jpg"
+  },
+  {
+   "name": "Yellowjackets",
+   "cast": [
+    "Melanie Lynskey",
+    "Sophie Nélisse",
+    "Jasmin Savoy Brown"
+   ],
+   "country": "United States",
+   "description": "Nesta épica série de sobrevivência, acompanhamos uma história de terror com uma equipa de futebol do secundário extremamente, talentosa, que se torna nos (ou não)sortudos sobreviventes de um acidente de avião numa terra remota no norte. A série narra a história de sobrevivência desta equipa, que acabou por sobreviver a estes eventos aterradores. Prepara-te para o que aconteceu 25 anos depois.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.7",
+   "released": "2021-11-14T00:00:00.000Z",
+   "writer": [
+    "Ashley Lyle",
+    "Bart Nickerson"
+   ],
+   "year": "2021–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11041332/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11041332/img",
+   "awards": "Nominated for 10 Primetime Emmys. 23 wins & 107 nominations total",
+   "runtime": "57 min",
+   "trailers": [
+    {
+     "source": "Axx9Qhct49w",
+     "type": "Trailer"
+    },
+    {
+     "source": "mX22D65TqAs",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11041332",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "Yellowjackets",
+     "ytId": "Axx9Qhct49w"
+    },
+    {
+     "title": "Yellowjackets",
+     "ytId": "mX22D65TqAs"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11041332"
+    },
+    {
+     "name": "Yellowjackets",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/yellowjackets-11041332"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Melanie Lynskey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melanie%20Lynskey"
+    },
+    {
+     "name": "Sophie Nélisse",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sophie%20N%C3%A9lisse"
+    },
+    {
+     "name": "Jasmin Savoy Brown",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jasmin%20Savoy%20Brown"
+    },
+    {
+     "name": "Ashley Lyle",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ashley%20Lyle"
+    },
+    {
+     "name": "Bart Nickerson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bart%20Nickerson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11041332.jpg"
   }
  ]
 }

@@ -5,8 +5,18 @@
   "genre": false
  },
  {
-  "shortName": "gwsn",
-  "name": "Western",
+  "shortName": "gact",
+  "name": "Ação & Aventura",
+  "genre": true
+ },
+ {
+  "shortName": "gcmy",
+  "name": "Comédia",
+  "genre": true
+ },
+ {
+  "shortName": "gdoc",
+  "name": "Documentário",
   "genre": true
  },
  {
@@ -20,28 +30,13 @@
   "genre": true
  },
  {
-  "shortName": "ghrr",
-  "name": "Terror",
+  "shortName": "gmsc",
+  "name": "Música & Musical",
   "genre": true
  },
  {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
-  "genre": true
- },
- {
-  "shortName": "ghst",
-  "name": "História",
-  "genre": true
- },
- {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
-  "genre": true
- },
- {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
   "genre": true
  },
  {
@@ -55,18 +50,8 @@
   "genre": true
  },
  {
-  "shortName": "gcmy",
-  "name": "Comédia",
-  "genre": true
- },
- {
-  "shortName": "gcrm",
-  "name": "Crime",
-  "genre": true
- },
- {
-  "shortName": "gdoc",
-  "name": "Documentário",
+  "shortName": "ghst",
+  "name": "História",
   "genre": true
  },
  {
@@ -75,18 +60,18 @@
   "genre": true
  },
  {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
   "genre": true
  },
  {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "gcrm",
+  "name": "Crime",
   "genre": true
  },
  {
-  "shortName": "gmsc",
-  "name": "Música & Musical",
+  "shortName": "ghrr",
+  "name": "Terror",
   "genre": true
  },
  {
@@ -95,8 +80,23 @@
   "genre": true
  },
  {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
+  "shortName": "gscf",
+  "name": "Ficção Científica",
+  "genre": true
+ },
+ {
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
   "genre": true
  }
 ]
