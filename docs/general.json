@@ -5,48 +5,18 @@
   "genre": false
  },
  {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
+  "shortName": "ghrr",
+  "name": "Terror",
+  "genre": true
+ },
+ {
+  "shortName": "gspt",
+  "name": "Esporte & Fitness",
   "genre": true
  },
  {
   "shortName": "gcmy",
   "name": "Comédia",
-  "genre": true
- },
- {
-  "shortName": "gdoc",
-  "name": "Documentário",
-  "genre": true
- },
- {
-  "shortName": "gdrm",
-  "name": "Drama",
-  "genre": true
- },
- {
-  "shortName": "gfnt",
-  "name": "Fantasia",
-  "genre": true
- },
- {
-  "shortName": "gmsc",
-  "name": "Música & Musical",
-  "genre": true
- },
- {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
-  "genre": true
- },
- {
-  "shortName": "grly",
-  "name": "Reality TV",
-  "genre": true
- },
- {
-  "shortName": "gani",
-  "name": "Animação",
   "genre": true
  },
  {
@@ -65,13 +35,28 @@
   "genre": true
  },
  {
-  "shortName": "gcrm",
-  "name": "Crime",
+  "shortName": "gscf",
+  "name": "Ficção Científica",
   "genre": true
  },
  {
-  "shortName": "ghrr",
-  "name": "Terror",
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
+  "genre": true
+ },
+ {
+  "shortName": "grly",
+  "name": "Reality TV",
+  "genre": true
+ },
+ {
+  "shortName": "gani",
+  "name": "Animação",
+  "genre": true
+ },
+ {
+  "shortName": "gfnt",
+  "name": "Fantasia",
   "genre": true
  },
  {
@@ -80,13 +65,23 @@
   "genre": true
  },
  {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
+  "shortName": "geur",
+  "name": "Europeu",
   "genre": true
  },
  {
-  "shortName": "gspt",
-  "name": "Esporte & Fitness",
+  "shortName": "gact",
+  "name": "Ação & Aventura",
+  "genre": true
+ },
+ {
+  "shortName": "gcrm",
+  "name": "Crime",
+  "genre": true
+ },
+ {
+  "shortName": "gmsc",
+  "name": "Música & Musical",
   "genre": true
  },
  {
@@ -95,8 +90,13 @@
   "genre": true
  },
  {
-  "shortName": "geur",
-  "name": "Europeu",
+  "shortName": "gdoc",
+  "name": "Documentário",
+  "genre": true
+ },
+ {
+  "shortName": "gdrm",
+  "name": "Drama",
   "genre": true
  }
 ]

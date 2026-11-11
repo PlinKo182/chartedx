@@ -1885,46 +1885,65 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg"
   },
   {
-   "awards": "Won 4 Primetime Emmys. 90 wins & 253 nominations total",
    "cast": [
-    "Ellen Pompeo",
-    "Chandra Wilson",
-    "James Pickens Jr."
+    "Milo Callaghan",
+    "Lana Parrilla",
+    "Madison Iseman"
    ],
    "country": "United States",
-   "description": "Os médicos do Grey Sloan Memorial Hospital lidam com consequências de vida ou morte todos os dias - é uns nos outros que encontram conforto, amizade e, por vezes, mais do que amizade. Juntos, descobrem que nem a medicina nem as relações humanas são a preto e branco. A vida real tem vários tons de cinzento.",
-   "director": null,
-   "dvdRelease": null,
+   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
    "genre": [
+    "Crime",
     "Drama",
-    "Romance"
+    "Thriller"
    ],
-   "imdbRating": "7.6",
-   "name": "Grey's Anatomy",
-   "released": "2005-03-27T00:00:00.000Z",
+   "imdbRating": "7.2",
+   "name": "The Rainmaker",
+   "released": "2025-08-15T00:00:00.000Z",
+   "year": "2025–",
    "runtime": "43 min",
    "status": "Continuing",
+   "director": [],
    "writer": [
-    "Shonda Rhimes"
+    "Jason Richman",
+    "Michael Seitzman"
    ],
-   "year": "2005–",
-   "background": "https://images.metahub.space/background/medium/tt0413573/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0413573/img",
-   "id": "tt0413573",
+   "trailers": [
+    {
+     "source": "-__6rI43NyE",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "1 win & 4 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt6151526/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
+   "id": "tt6151526",
    "genres": [
-    "Drama"
+    "Drama",
+    "Mistério"
    ],
-   "releaseInfo": "2005",
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Rainmaker",
+     "ytId": "-__6rI43NyE"
+    }
+   ],
    "links": [
     {
-     "name": "7.6",
+     "name": "7.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0413573"
+     "url": "https://imdb.com/title/tt6151526"
     },
     {
-     "name": "Grey's Anatomy",
+     "name": "The Rainmaker",
      "category": "share",
-     "url": "https://www.strem.io/s/series/greys-anatomy-0413573"
+     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -1932,29 +1951,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Ellen Pompeo",
+     "name": "Milo Callaghan",
      "category": "Cast",
-     "url": "stremio:///search?search=Ellen%20Pompeo"
+     "url": "stremio:///search?search=Milo%20Callaghan"
     },
     {
-     "name": "Chandra Wilson",
+     "name": "Lana Parrilla",
      "category": "Cast",
-     "url": "stremio:///search?search=Chandra%20Wilson"
+     "url": "stremio:///search?search=Lana%20Parrilla"
     },
     {
-     "name": "James Pickens Jr.",
+     "name": "Madison Iseman",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Pickens%20Jr."
+     "url": "stremio:///search?search=Madison%20Iseman"
     },
     {
-     "name": "Shonda Rhimes",
+     "name": "Jason Richman",
      "category": "Writers",
-     "url": "stremio:///search?search=Shonda%20Rhimes"
+     "url": "stremio:///search?search=Jason%20Richman"
+    },
+    {
+     "name": "Michael Seitzman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Seitzman"
     }
    ],
    "behaviorHints": {
@@ -1963,7 +1987,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0413573.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
   }
  ]
 }

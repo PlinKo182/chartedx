@@ -831,105 +831,134 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1392214.jpg"
   },
   {
-   "name": "The Whale",
-   "awards": "Won 2 Oscars. 52 wins & 124 nominations total",
+   "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
    "cast": [
-    "Brendan Fraser",
-    "Sadie Sink",
-    "Ty Simpkins"
+    "Guy Pearce",
+    "Carrie-Anne Moss",
+    "Joe Pantoliano"
    ],
    "country": "United States",
-   "description": "Um professor de inglês recluso que vive com obesidade severa tenta se reconectar com sua distante filha adolescente para uma última chance de redenção.",
+   "description": "Leonard é um investigador de seguros que deixou de conseguir manter uma memória de curto prazo após ter sofrido um traumatismo no seguimento do assassinato da sua esposa. Com a sua vida profundamente marcada, ele dedica agora todo o seu tempo a investigar o crime, à procura do assassino.",
    "director": [
-    "Darren Aronofsky"
+    "Christopher Nolan"
    ],
+   "dvdRelease": "2017-03-01T00:00:00.000Z",
    "genre": [
-    "Drama"
+    "Mystery",
+    "Thriller"
    ],
-   "imdbRating": "7.6",
-   "released": "2022-12-21T00:00:00.000Z",
-   "runtime": "117 min",
-   "writer": [
-    "Samuel D. Hunter"
-   ],
-   "year": "2022",
+   "imdbRating": "8.4",
+   "name": "Memento",
+   "released": "2001-05-25T00:00:00.000Z",
+   "runtime": "113 min",
    "trailers": [
     {
-     "source": "nWiQodhMvz4",
+     "source": "Wyc9TpJxf4A",
      "type": "Trailer"
     },
     {
-     "source": "D30r0CwtIKc",
+     "source": "lTV-UJqqRRY",
+     "type": "Trailer"
+    },
+    {
+     "source": "-Dt_pjGQFbU",
+     "type": "Trailer"
+    },
+    {
+     "source": "Rq9eM4ZXRgs",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt13833688/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13833688/img",
-   "dvdRelease": "2023-02-21T00:00:00.000Z",
-   "id": "tt13833688",
-   "genres": [
-    "Drama"
+   "writer": [
+    "Christopher Nolan",
+    "Jonathan Nolan"
    ],
-   "releaseInfo": "2022",
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0209144/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0209144/img",
+   "id": "tt0209144",
+   "genres": [
+    "Mistério",
+    "Thriller"
+   ],
+   "releaseInfo": "2000",
    "trailerStreams": [
     {
-     "title": "The Whale",
-     "ytId": "nWiQodhMvz4"
+     "title": "Memento",
+     "ytId": "Wyc9TpJxf4A"
     },
     {
-     "title": "The Whale",
-     "ytId": "D30r0CwtIKc"
+     "title": "Memento",
+     "ytId": "lTV-UJqqRRY"
+    },
+    {
+     "title": "Memento",
+     "ytId": "-Dt_pjGQFbU"
+    },
+    {
+     "title": "Memento",
+     "ytId": "Rq9eM4ZXRgs"
     }
    ],
    "links": [
     {
-     "name": "7.6",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt13833688"
+     "url": "https://imdb.com/title/tt0209144"
     },
     {
-     "name": "The Whale",
+     "name": "Memento",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-whale-13833688"
+     "url": "https://www.strem.io/s/movie/memento-0209144"
     },
     {
-     "name": "Drama",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Brendan Fraser",
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Guy Pearce",
      "category": "Cast",
-     "url": "stremio:///search?search=Brendan%20Fraser"
+     "url": "stremio:///search?search=Guy%20Pearce"
     },
     {
-     "name": "Sadie Sink",
+     "name": "Carrie-Anne Moss",
      "category": "Cast",
-     "url": "stremio:///search?search=Sadie%20Sink"
+     "url": "stremio:///search?search=Carrie-Anne%20Moss"
     },
     {
-     "name": "Ty Simpkins",
+     "name": "Joe Pantoliano",
      "category": "Cast",
-     "url": "stremio:///search?search=Ty%20Simpkins"
+     "url": "stremio:///search?search=Joe%20Pantoliano"
     },
     {
-     "name": "Samuel D. Hunter",
+     "name": "Christopher Nolan",
      "category": "Writers",
-     "url": "stremio:///search?search=Samuel%20D.%20Hunter"
+     "url": "stremio:///search?search=Christopher%20Nolan"
     },
     {
-     "name": "Darren Aronofsky",
+     "name": "Jonathan Nolan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jonathan%20Nolan"
+    },
+    {
+     "name": "Christopher Nolan",
      "category": "Directors",
-     "url": "stremio:///search?search=Darren%20Aronofsky"
+     "url": "stremio:///search?search=Christopher%20Nolan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt13833688",
+    "defaultVideoId": "tt0209144",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13833688.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0209144.jpg"
   },
   {
    "awards": "1 win & 6 nominations total",
@@ -1079,134 +1108,115 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1390411.jpg"
   },
   {
-   "awards": "Nominated for 2 Oscars. 57 wins & 59 nominations total",
+   "name": "Marty Supreme",
    "cast": [
-    "Guy Pearce",
-    "Carrie-Anne Moss",
-    "Joe Pantoliano"
+    "Timothée Chalamet",
+    "Gwyneth Paltrow",
+    "Odessa A&apos;zion"
    ],
-   "country": "United States",
-   "description": "Leonard é um investigador de seguros que deixou de conseguir manter uma memória de curto prazo após ter sofrido um traumatismo no seguimento do assassinato da sua esposa. Com a sua vida profundamente marcada, ele dedica agora todo o seu tempo a investigar o crime, à procura do assassino.",
+   "country": "United States, Finland",
+   "description": "Ambientado no mundo da cultura do ténis de mesa dos anos 1950. Marty Mauser, um jovem com um sonho que ninguém respeita, vai ao inferno e volta em busca da grandeza.",
    "director": [
-    "Christopher Nolan"
+    "Josh Safdie"
    ],
-   "dvdRelease": "2017-03-01T00:00:00.000Z",
    "genre": [
-    "Mystery",
-    "Thriller"
+    "Comedy",
+    "Drama",
+    "Sport"
    ],
-   "imdbRating": "8.4",
-   "name": "Memento",
-   "released": "2001-05-25T00:00:00.000Z",
-   "runtime": "113 min",
+   "imdbRating": "7.5",
+   "released": "2025-12-25T00:00:00.000Z",
+   "writer": [
+    "Ronald Bronstein",
+    "Josh Safdie"
+   ],
+   "year": "2025",
+   "runtime": "150 min",
+   "background": "https://images.metahub.space/background/medium/tt32916440/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32916440/img",
    "trailers": [
     {
-     "source": "Wyc9TpJxf4A",
-     "type": "Trailer"
-    },
-    {
-     "source": "lTV-UJqqRRY",
-     "type": "Trailer"
-    },
-    {
-     "source": "-Dt_pjGQFbU",
-     "type": "Trailer"
-    },
-    {
-     "source": "Rq9eM4ZXRgs",
+     "source": "s9gSuKaKcqM",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Christopher Nolan",
-    "Jonathan Nolan"
-   ],
-   "year": "2001",
-   "background": "https://images.metahub.space/background/medium/tt0209144/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0209144/img",
-   "id": "tt0209144",
+   "awards": "Nominated for 9 Oscars. 44 wins & 302 nominations total",
+   "id": "tt32916440",
    "genres": [
-    "Mistério",
+    "Drama",
     "Thriller"
    ],
-   "releaseInfo": "2000",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Memento",
-     "ytId": "Wyc9TpJxf4A"
-    },
-    {
-     "title": "Memento",
-     "ytId": "lTV-UJqqRRY"
-    },
-    {
-     "title": "Memento",
-     "ytId": "-Dt_pjGQFbU"
-    },
-    {
-     "title": "Memento",
-     "ytId": "Rq9eM4ZXRgs"
+     "title": "Marty Supreme",
+     "ytId": "s9gSuKaKcqM"
     }
    ],
    "links": [
     {
-     "name": "8.4",
+     "name": "7.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0209144"
+     "url": "https://imdb.com/title/tt32916440"
     },
     {
-     "name": "Memento",
+     "name": "Marty Supreme",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/memento-0209144"
+     "url": "https://www.strem.io/s/movie/marty-supreme-32916440"
     },
     {
-     "name": "Mystery",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Thriller",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Guy Pearce",
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sport"
+    },
+    {
+     "name": "Timothée Chalamet",
      "category": "Cast",
-     "url": "stremio:///search?search=Guy%20Pearce"
+     "url": "stremio:///search?search=Timoth%C3%A9e%20Chalamet"
     },
     {
-     "name": "Carrie-Anne Moss",
+     "name": "Gwyneth Paltrow",
      "category": "Cast",
-     "url": "stremio:///search?search=Carrie-Anne%20Moss"
+     "url": "stremio:///search?search=Gwyneth%20Paltrow"
     },
     {
-     "name": "Joe Pantoliano",
+     "name": "Odessa A&apos;zion",
      "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Pantoliano"
+     "url": "stremio:///search?search=Odessa%20A%26apos%3Bzion"
     },
     {
-     "name": "Christopher Nolan",
+     "name": "Ronald Bronstein",
      "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20Nolan"
+     "url": "stremio:///search?search=Ronald%20Bronstein"
     },
     {
-     "name": "Jonathan Nolan",
+     "name": "Josh Safdie",
      "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Nolan"
+     "url": "stremio:///search?search=Josh%20Safdie"
     },
     {
-     "name": "Christopher Nolan",
+     "name": "Josh Safdie",
      "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20Nolan"
+     "url": "stremio:///search?search=Josh%20Safdie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0209144",
+    "defaultVideoId": "tt32916440",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0209144.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg"
   }
  ]
 }
