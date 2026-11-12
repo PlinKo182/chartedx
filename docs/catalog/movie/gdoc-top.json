@@ -186,7 +186,7 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49813394.jpg",
    "releaseInfo": "2026",
-   "imdbRating": "4.6"
+   "imdbRating": "4.7"
   },
   {
    "name": "Once Upon a Time in... Hollywood",
@@ -415,6 +415,56 @@
    "imdbRating": "7.6"
   },
   {
+   "id": "tt21346758",
+   "logo": "https://live.metahub.space/logo/medium/tt21346758/img",
+   "background": "https://live.metahub.space/background/medium/tt21346758/img",
+   "name": "Truth and Lies: The Last Gangster",
+   "description": "Uma entrevista com um dos assassinos mais notórios da história da máfia, Sammy “The Bull” Gravano. Durante anos, ele e John Gotti, o chefe da família Gambino, controlaram partes da economia da cidade de Nova York sob um regime de medo e intimidação, e sua lealdade à “Família” teve um preço devastador.",
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "releaseInfo": "2022",
+   "runtime": "82 min",
+   "trailers": [
+    {
+     "source": "Vch0GURiNzs",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Bram Harris",
+     "profile_path": null,
+     "id": 3666309
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Dave Hoffman",
+     "profile_path": null,
+     "id": 3809056
+    }
+   ],
+   "director": [
+    "Dave Hoffman"
+   ],
+   "imdbRating": "6.5",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": "tt21346758",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21346758.jpg"
+  },
+  {
    "name": "Wick Is Pain",
    "cast": [
     "Keanu Reeves",
@@ -499,54 +549,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36751759.jpg"
   },
   {
-   "id": "tt21346758",
-   "logo": "https://live.metahub.space/logo/medium/tt21346758/img",
-   "background": "https://live.metahub.space/background/medium/tt21346758/img",
-   "name": "Truth and Lies: The Last Gangster",
-   "description": "Uma entrevista com um dos assassinos mais notórios da história da máfia, Sammy “The Bull” Gravano. Durante anos, ele e John Gotti, o chefe da família Gambino, controlaram partes da economia da cidade de Nova York sob um regime de medo e intimidação, e sua lealdade à “Família” teve um preço devastador.",
+   "id": "tt41593493",
+   "logo": "https://live.metahub.space/logo/medium/tt41593493/img",
+   "background": "https://live.metahub.space/background/medium/tt41593493/img",
+   "name": "Avedon",
+   "description": "As fotografias de Richard Avedon não só reflectiram a cultura, como a moldaram, e continuam a fazê-lo. O documentário AVEDON traça a vida e o legado de um artista que usou a moda, o retrato e a fotografia comercial para explorar a identidade, o poder, o medo e a beleza. Com acesso inédito ao arquivo de Avedon, incluindo fotos nunca antes vistas, gravações de bastidores e entrevistas com aqueles que o conheceram melhor, AVEDON é um exame visualmente deslumbrante da mente de um artista que moldou a nossa imagem coletiva do século XX.",
    "genres": [
-    "Documentário",
-    "Crime"
+    "Documentário"
    ],
-   "releaseInfo": "2022",
-   "runtime": "82 min",
-   "trailers": [
+   "releaseInfo": "2026",
+   "runtime": "104 min",
+   "trailers": [],
+   "cast": [
+    "Richard Avedon"
+   ],
+   "credits_cast": [
     {
-     "source": "Vch0GURiNzs",
-     "type": "Trailer"
+     "character": "",
+     "name": "Richard Avedon",
+     "profile_path": "/rIfO9OhQiRXB4dxW7D5Fr04EcNt.jpg",
+     "id": 1928722
     }
    ],
-   "cast": [],
-   "credits_cast": [],
    "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Bram Harris",
-     "profile_path": null,
-     "id": 3666309
-    },
     {
      "department": "Directing",
      "job": "Director",
-     "name": "Dave Hoffman",
+     "name": "Ron Howard",
+     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+     "id": 6159
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Brian Grazer",
+     "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
+     "id": 339
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Ron Howard",
+     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+     "id": 6159
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Dallas Brennan Rexer",
      "profile_path": null,
-     "id": 3809056
+     "id": 2671907
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Sara Bernstein",
+     "profile_path": "/lHxgVjuHFdionBpk8BdQMf3Q95z.jpg",
+     "id": 81150
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Christopher St. John",
+     "profile_path": null,
+     "id": 4259996
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Justin Wilkes",
+     "profile_path": "/aeMYv3qHqk1XUXuLAprSEbIm6dm.jpg",
+     "id": 111406
     }
    ],
    "director": [
-    "Dave Hoffman"
+    "Ron Howard"
    ],
-   "imdbRating": "6.5",
-   "language": "English",
+   "imdbRating": "7.7",
    "country": "United States",
+   "awards": "1 nomination total",
    "behaviorHints": {
-    "defaultVideoId": "tt21346758",
+    "defaultVideoId": "tt41593493",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21346758.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41593493.jpg"
   },
   {
    "id": "tt36057363",
@@ -557,25 +645,6 @@
    "name": "Cozy Fireplace",
    "posterShape": "poster",
    "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
-  },
-  {
-   "id": "tt46027225",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "cast": [
-    "Mariana van Zeller"
-   ],
-   "type": "movie",
-   "name": "Super Scam Me",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
-   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário"
-   ],
-   "imdbRating": "6.5"
   }
  ]
 }

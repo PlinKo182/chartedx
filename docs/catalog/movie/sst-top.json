@@ -1,74 +1,61 @@
 {
  "metas": [
   {
-   "awards": "Won 3 Oscars. 31 wins & 31 nominations total",
+   "name": "Hallow Road",
    "cast": [
-    "Marlon Brando",
-    "Al Pacino",
-    "James Caan"
+    "Rosamund Pike",
+    "Matthew Rhys",
+    "Megan McDonnell"
    ],
-   "country": "United States",
-   "description": "Baseado no best-seller de Mário Puzo, o filme acompanha o percurso de Don Vito Corleone, o patriarca de uma das mais notáveis e importantes famílias da máfia italiana de Nova Iorque.",
+   "country": "Ireland, United Kingdom, Czech Republic",
+   "description": "Dois pais entram numa corrida contra o tempo ao receberem um telefonema angustiante da filha, a meio da noite, depois de esta ter provocado um trágico acidente de viação.",
    "director": [
-    "Francis Ford Coppola"
+    "Babak Anvari"
    ],
-   "dvdRelease": "2013-08-01T00:00:00.000Z",
    "genre": [
-    "Crime",
-    "Drama"
+    "Drama",
+    "Horror",
+    "Thriller"
    ],
-   "imdbRating": "9.2",
-   "name": "The Godfather",
-   "released": "1972-03-24T00:00:00.000Z",
-   "runtime": "175 min",
+   "imdbRating": "6.0",
+   "released": "2025-05-16T00:00:00.000Z",
+   "writer": [
+    "William Gillies"
+   ],
+   "year": "2025",
+   "runtime": "80 min",
    "trailers": [
     {
-     "source": "Ew9ngL1GZvs",
-     "type": "Trailer"
-    },
-    {
-     "source": "8V2k2YQEQJ4",
+     "source": "DXGL49DpjJo",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Mario Puzo",
-    "Francis Ford Coppola"
-   ],
-   "year": "1972",
-   "background": "https://images.metahub.space/background/medium/tt0068646/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0068646/img",
-   "id": "tt0068646",
+   "background": "https://images.metahub.space/background/medium/tt19403516/img",
+   "logo": "https://images.metahub.space/logo/medium/tt19403516/img",
+   "awards": "1 win total",
+   "id": "tt19403516",
    "genres": [
-    "Drama",
-    "Crime"
+    "Mistério",
+    "Thriller",
+    "Terror"
    ],
-   "releaseInfo": "1972",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "The Godfather",
-     "ytId": "Ew9ngL1GZvs"
-    },
-    {
-     "title": "The Godfather",
-     "ytId": "8V2k2YQEQJ4"
+     "title": "Hallow Road",
+     "ytId": "DXGL49DpjJo"
     }
    ],
    "links": [
     {
-     "name": "9.2",
+     "name": "6.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0068646"
+     "url": "https://imdb.com/title/tt19403516"
     },
     {
-     "name": "The Godfather",
+     "name": "Hallow Road",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-godfather-0068646"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "https://www.strem.io/s/movie/hallow-road-19403516"
     },
     {
      "name": "Drama",
@@ -76,43 +63,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Marlon Brando",
-     "category": "Cast",
-     "url": "stremio:///search?search=Marlon%20Brando"
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Al Pacino",
-     "category": "Cast",
-     "url": "stremio:///search?search=Al%20Pacino"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "James Caan",
+     "name": "Rosamund Pike",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Caan"
+     "url": "stremio:///search?search=Rosamund%20Pike"
     },
     {
-     "name": "Mario Puzo",
+     "name": "Matthew Rhys",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Rhys"
+    },
+    {
+     "name": "Megan McDonnell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Megan%20McDonnell"
+    },
+    {
+     "name": "William Gillies",
      "category": "Writers",
-     "url": "stremio:///search?search=Mario%20Puzo"
+     "url": "stremio:///search?search=William%20Gillies"
     },
     {
-     "name": "Francis Ford Coppola",
-     "category": "Writers",
-     "url": "stremio:///search?search=Francis%20Ford%20Coppola"
-    },
-    {
-     "name": "Francis Ford Coppola",
+     "name": "Babak Anvari",
      "category": "Directors",
-     "url": "stremio:///search?search=Francis%20Ford%20Coppola"
+     "url": "stremio:///search?search=Babak%20Anvari"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0068646",
+    "defaultVideoId": "tt19403516",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0068646.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19403516.jpg"
   },
   {
    "name": "Passenger",
@@ -208,174 +200,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33763941.jpg"
   },
   {
-   "awards": "11 wins & 66 nominations total",
-   "cast": [
-    "Leonardo DiCaprio",
-    "Emily Mortimer",
-    "Mark Ruffalo"
-   ],
-   "country": "Canada, United States",
-   "description": "1954, o pico da Guerra Fria, os agentes Teddy Daniels e Chuck Aule são convocados a \"Shutter Island\" para investigar o improvável desaparecimento de uma criminosa do impenetrável Ashecliffe Hospital. Rodeados por circunspectos psiquiatras e perigosos pacientes psicopatas, eles vêem-se envolvidos numa atmosfera misteriosa e volátil que sugere que nada é o que parece…",
-   "director": [
-    "Martin Scorsese"
-   ],
-   "dvdRelease": "2013-08-01T00:00:00.000Z",
+   "name": "Reminders of Him",
    "genre": [
-    "Mystery",
-    "Thriller"
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "8.2",
-   "name": "Shutter Island",
-   "released": "2010-02-19T00:00:00.000Z",
-   "runtime": "138 min",
+   "imdbRating": "6.3",
+   "released": "2026-03-13T00:00:00.000Z",
+   "year": "2026",
    "trailers": [
     {
-     "source": "qdPw9x9h5CY",
+     "source": "i36Zw32GfRQ",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Laeta Kalogridis",
-    "Dennis Lehane"
-   ],
-   "year": "2010",
-   "background": "https://images.metahub.space/background/medium/tt1130884/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1130884/img",
-   "id": "tt1130884",
-   "genres": [
-    "Drama",
-    "Thriller",
-    "Mistério"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [
-    {
-     "title": "Shutter Island",
-     "ytId": "qdPw9x9h5CY"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1130884"
-    },
-    {
-     "name": "Shutter Island",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/shutter-island-1130884"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Leonardo DiCaprio",
-     "category": "Cast",
-     "url": "stremio:///search?search=Leonardo%20DiCaprio"
-    },
-    {
-     "name": "Emily Mortimer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Mortimer"
-    },
-    {
-     "name": "Mark Ruffalo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mark%20Ruffalo"
-    },
-    {
-     "name": "Laeta Kalogridis",
-     "category": "Writers",
-     "url": "stremio:///search?search=Laeta%20Kalogridis"
-    },
-    {
-     "name": "Dennis Lehane",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dennis%20Lehane"
-    },
-    {
-     "name": "Martin Scorsese",
-     "category": "Directors",
-     "url": "stremio:///search?search=Martin%20Scorsese"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1130884",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1130884.jpg"
-  },
-  {
-   "awards": "Nominated for 3 Oscars. 49 wins & 79 nominations total",
    "cast": [
-    "John Cusack",
-    "Cameron Diaz",
-    "Catherine Keener"
+    "Maika Monroe",
+    "Tyriq Withers",
+    "Zoe Kosovic"
    ],
+   "director": [
+    "Vanessa Caswill"
+   ],
+   "writer": [
+    "Lauren Levine",
+    "Colleen Hoover"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33714084/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33714084/img",
    "country": "United States",
-   "description": "Craig Schwartz é um bonecreiro de rua que está casado há dez anos com Lotte, uma mulher obcecada pelo trabalho. É no seu escritório que Craig descobre um portal que o envia directamente para a mente de John Malkovich. A partir daí, estranhas relações se estabelecem entre os que estão dentro e fora da mente do actor...",
-   "director": [
-    "Spike Jonze"
-   ],
-   "dvdRelease": "2012-06-15T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Fantasy"
-   ],
-   "imdbRating": "7.7",
-   "name": "Being John Malkovich",
-   "released": "1999-12-03T00:00:00.000Z",
-   "runtime": "113 min",
-   "trailers": [
-    {
-     "source": "LEtlqumjXLw",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Charlie Kaufman"
-   ],
-   "year": "1999",
-   "background": "https://images.metahub.space/background/medium/tt0120601/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0120601/img",
-   "id": "tt0120601",
+   "description": "Depois de sair da prisão, uma mulher tenta restabelecer a ligação com a sua filha ainda jovem, mas enfrenta resistência de todos — exceto de um dono de bar com ligações à criança. À medida que se aproximam, vê-se obrigada a confrontar os erros do passado para conseguir construir um futuro com esperança.",
+   "runtime": "114 min",
+   "awards": "1 win total",
+   "id": "tt33714084",
    "genres": [
-    "Comédia",
-    "Drama",
-    "Fantasia"
+    "Romance",
+    "Drama"
    ],
-   "releaseInfo": "1999",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Being John Malkovich",
-     "ytId": "LEtlqumjXLw"
+     "title": "Reminders of Him",
+     "ytId": "i36Zw32GfRQ"
     }
    ],
    "links": [
     {
-     "name": "7.7",
+     "name": "6.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0120601"
+     "url": "https://imdb.com/title/tt33714084"
     },
     {
-     "name": "Being John Malkovich",
+     "name": "Reminders of Him",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/being-john-malkovich-0120601"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "https://www.strem.io/s/movie/reminders-of-him-33714084"
     },
     {
      "name": "Drama",
@@ -383,121 +261,392 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
+     "name": "Romance",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
     },
     {
-     "name": "John Cusack",
+     "name": "Maika Monroe",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Cusack"
+     "url": "stremio:///search?search=Maika%20Monroe"
     },
     {
-     "name": "Cameron Diaz",
+     "name": "Tyriq Withers",
      "category": "Cast",
-     "url": "stremio:///search?search=Cameron%20Diaz"
+     "url": "stremio:///search?search=Tyriq%20Withers"
     },
     {
-     "name": "Catherine Keener",
+     "name": "Zoe Kosovic",
      "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Keener"
+     "url": "stremio:///search?search=Zoe%20Kosovic"
     },
     {
-     "name": "Charlie Kaufman",
+     "name": "Lauren Levine",
      "category": "Writers",
-     "url": "stremio:///search?search=Charlie%20Kaufman"
+     "url": "stremio:///search?search=Lauren%20Levine"
     },
     {
-     "name": "Spike Jonze",
+     "name": "Colleen Hoover",
+     "category": "Writers",
+     "url": "stremio:///search?search=Colleen%20Hoover"
+    },
+    {
+     "name": "Vanessa Caswill",
      "category": "Directors",
-     "url": "stremio:///search?search=Spike%20Jonze"
+     "url": "stremio:///search?search=Vanessa%20Caswill"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0120601",
+    "defaultVideoId": "tt33714084",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0120601.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33714084.jpg"
   },
   {
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3/ImageRenderer/111/168/images/no_image_111x168.jpg/188528/images/masterrepository/fandango/188528/ouija2.jpg\" alt=\"Ouija: Origin of Evil\" title=\"Ouija: Origin of Evil\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fouija%3aoriginofevil-trailer%2f188528%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "name": "Ouija: Origin of Evil",
+   "awards": "1 nomination total",
+   "cast": [
+    "Benjamin Bratt",
+    "Joseph Fiennes",
+    "James Franco"
+   ],
+   "country": "United States, Australia",
+   "description": "O 6º batalhão do exército norte-americano recebe uma das missões mais ingratas possíveis: resgatar, nas Filipinas, cerca de 500 prisioneiros norte-americanos de guerra que estão nas mãos das tropas japonesas. Enfrentando as condições mais adversas, eles andam 30 milhas por trás das linhas inimigas para tentar cumprir a missão. Toda a tensão que os soldados enfrentam e o perigo iminente precisam ser controlados pelo líder da missão, que comanda tudo com braço firme, mas que também sabe dos perigos que serão enfrentados. A produção foi filmada em 2002, mas demorou algum tempo até ficar completamente pronta, sendo lançada somente em 2005. O filme apresenta uma história dramática ao mesmo tempo em que mescla ótimas cenas de ação, contando com fidelidade um caso real de heroísmo.",
+   "director": [
+    "John Dahl"
+   ],
+   "dvdRelease": "2016-04-19T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "imdbRating": "6.6",
+   "name": "The Great Raid",
+   "released": "2005-08-12T00:00:00.000Z",
+   "runtime": "132 min",
    "trailers": [
     {
-     "source": "uVXGLbhozK8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nDyOftZyVeA",
-     "type": "Trailer"
-    },
-    {
-     "source": "MJIcZGEjjwo",
+     "source": "N51IAYnlNK0",
      "type": "Trailer"
     }
    ],
-   "year": "2016",
-   "runtime": "99 min",
+   "writer": [
+    "William B. Breuer",
+    "Hampton Sides",
+    "Carlo Bernard"
+   ],
+   "year": "2005",
+   "background": "https://images.metahub.space/background/medium/tt0326905/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0326905/img",
+   "id": "tt0326905",
+   "genres": [
+    "Ação",
+    "História",
+    "Guerra"
+   ],
+   "releaseInfo": "2005",
+   "trailerStreams": [
+    {
+     "title": "The Great Raid",
+     "ytId": "N51IAYnlNK0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0326905"
+    },
+    {
+     "name": "The Great Raid",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-great-raid-0326905"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Benjamin Bratt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benjamin%20Bratt"
+    },
+    {
+     "name": "Joseph Fiennes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joseph%20Fiennes"
+    },
+    {
+     "name": "James Franco",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Franco"
+    },
+    {
+     "name": "William B. Breuer",
+     "category": "Writers",
+     "url": "stremio:///search?search=William%20B.%20Breuer"
+    },
+    {
+     "name": "Hampton Sides",
+     "category": "Writers",
+     "url": "stremio:///search?search=Hampton%20Sides"
+    },
+    {
+     "name": "Carlo Bernard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Carlo%20Bernard"
+    },
+    {
+     "name": "John Dahl",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20Dahl"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0326905",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0326905.jpg"
+  },
+  {
+   "name": "The Oath",
+   "cast": [
+    "Ike Barinholtz",
+    "Tiffany Haddish",
+    "Nora Dunn"
+   ],
+   "country": "United States",
+   "description": "Numa América politicamente dividida, um homem luta para passar o feriado do Dia de Ação de Graças sem destruir a sua família.",
+   "director": [
+    "Ike Barinholtz"
+   ],
+   "genre": [
+    "Comedy",
+    "Thriller"
+   ],
+   "imdbRating": "5.7",
+   "released": "2018-10-19T00:00:00.000Z",
+   "writer": [
+    "Ike Barinholtz"
+   ],
+   "year": "2018",
+   "trailers": [
+    {
+     "source": "4I8x79pgqok",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt7461200/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7461200/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.538/ImageRenderer/111/168/images/no_image_111x168.jpg/213601/images/masterrepository/fandango/213601/theoath_1sht_vf_72dpi.jpg\" alt=\"The Oath (2018)\" title=\"The Oath (2018)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2ftheoath2018-trailer%2f213601%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.538//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2ftheoath2018_213601%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "93 min",
+   "dvdRelease": "2018-12-28T00:00:00.000Z",
+   "id": "tt7461200",
+   "genres": [
+    "Comédia",
+    "Thriller"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "The Oath",
+     "ytId": "4I8x79pgqok"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7461200"
+    },
+    {
+     "name": "The Oath",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-oath-7461200"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    },
+    {
+     "name": "Tiffany Haddish",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tiffany%20Haddish"
+    },
+    {
+     "name": "Nora Dunn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nora%20Dunn"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7461200",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7461200.jpg"
+  },
+  {
+   "id": "tt43338428",
+   "logo": "https://live.metahub.space/logo/medium/tt43338428/img",
+   "background": "https://live.metahub.space/background/medium/tt43338428/img",
+   "name": "Savage Mountain",
+   "description": "Em 2023, Kristin Harila surpreendeu a comunidade do montanhismo ao decidir tornar-se a pessoa mais rápida a alcançar o topo das 14 montanhas mais altas do mundo. Ao lado do seu companheiro de escalada, Tenjen Lama Sherpa, ela conquistou o que muitos consideravam impossível: atingiu o cume de todas as 14 montanhas em apenas 92 dias, reduzindo para metade o recorde que pertencia a Nims Purja. No entanto, aquele que deveria ter sido o seu maior triunfo transformou-se num momento de ajuste de contas. Durante a última ascensão, Harila foi acusada de passar por cima de um carregador que estava a morrer — um episódio que gerou impacto mundial e um debate intenso sobre ambição, ética e quem detém o controlo da narrativa. Com imagens inéditas do K2, *Savage Mountain* explora a história por detrás desta controvérsia.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "100 min",
+   "trailers": [
+    {
+     "source": "A7-2I1IvONY",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Kristin Harila",
+    "Tenjen Sherpa"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Kristin Harila",
+     "profile_path": null,
+     "id": 5921621
+    },
+    {
+     "character": "Self",
+     "name": "Tenjen Sherpa",
+     "profile_path": null,
+     "id": 6182492
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Even Sigstad",
+     "profile_path": "/lM4lYBhQw5woyEZoyYvk1w4W1lC.jpg",
+     "id": 587888
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Filip Christensen",
+     "profile_path": "/a8wNtP19BHqYs57RUjzu5irs9Pp.jpg",
+     "id": 1151189
+    }
+   ],
+   "director": [
+    "Even Sigstad"
+   ],
+   "imdbRating": "7.7",
+   "language": "English, Norwegian, Nepali",
+   "country": "United Kingdom, Norway",
+   "behaviorHints": {
+    "defaultVideoId": "tt43338428",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43338428.jpg"
+  },
+  {
+   "name": "The Visitor",
+   "cast": [
+    "Finn Jones",
+    "Jessica McNamee",
+    "Thomas Francis Murphy"
+   ],
+   "country": "United States",
+   "description": "Após ir viver para a antiga casa de campo da família da sua nova esposa americana, um jovem britânico fica intrigado ao encontrar lá um retracto misterioso muito parecido consigo. Ao procurar saber mais sobre aquele homem, acaba por descobrir outros retractos, noutras casas da cidade, e parece tropeçar num segredo obscuro que, de alguma forma, tem relação com ele próprio.",
+   "director": [
+    "Justin P. Lange"
+   ],
+   "dvdRelease": "2022-10-07T00:00:00.000Z",
    "genre": [
     "Drama",
     "Horror",
     "Mystery"
    ],
-   "released": "2016-10-21T00:00:00.000Z",
-   "director": [
-    "Mike Flanagan"
-   ],
+   "imdbRating": "4.3",
+   "released": "2022-10-07T00:00:00.000Z",
+   "runtime": "86 min",
    "writer": [
-    "Mike Flanagan",
-    "Jeff Howard",
-    "Juliet Snowden"
+    "Simon Boyes",
+    "Adam Mason"
    ],
-   "cast": [
-    "Elizabeth Reaser",
-    "Lulu Wilson",
-    "Annalise Basso"
+   "year": "2022",
+   "trailers": [
+    {
+     "source": "QuNAnj3x4f8",
+     "type": "Trailer"
+    }
    ],
-   "imdbRating": "6.2",
-   "description": "Uma mãe viúva que vive com as suas duas filhas, é especialista em enganar clientes com sessões falsas, fingindo comunicar com os espíritos.\r Mas quando Doris, uma das filhas, começa a utilizar o tabuleiro de Ouija para estabelecer comunicação com o falecido pai, acaba por libertar uma série de seres malignos que se apoderam do seu corpo e ameaçam todos que a rodeiam.",
-   "country": "United States",
-   "awards": "2 wins & 7 nominations total",
-   "dvdRelease": "2017-01-11T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4361050/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4361050/img",
-   "id": "tt4361050",
+   "background": "https://images.metahub.space/background/medium/tt15558152/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15558152/img",
+   "id": "tt15558152",
    "genres": [
-    "Terror"
+    "Terror",
+    "Mistério"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "uVXGLbhozK8"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "nDyOftZyVeA"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "MJIcZGEjjwo"
+     "title": "The Visitor",
+     "ytId": "QuNAnj3x4f8"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "4.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4361050"
+     "url": "https://imdb.com/title/tt15558152"
     },
     {
-     "name": "Ouija: Origin of Evil",
+     "name": "The Visitor",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/ouija-origin-of-evil-4361050"
+     "url": "https://www.strem.io/s/movie/the-visitor-15558152"
     },
     {
      "name": "Drama",
@@ -515,131 +664,367 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Elizabeth Reaser",
+     "name": "Finn Jones",
      "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Reaser"
+     "url": "stremio:///search?search=Finn%20Jones"
     },
     {
-     "name": "Lulu Wilson",
+     "name": "Jessica McNamee",
      "category": "Cast",
-     "url": "stremio:///search?search=Lulu%20Wilson"
+     "url": "stremio:///search?search=Jessica%20McNamee"
     },
     {
-     "name": "Annalise Basso",
+     "name": "Thomas Francis Murphy",
      "category": "Cast",
-     "url": "stremio:///search?search=Annalise%20Basso"
+     "url": "stremio:///search?search=Thomas%20Francis%20Murphy"
     },
     {
-     "name": "Mike Flanagan",
+     "name": "Simon Boyes",
      "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
+     "url": "stremio:///search?search=Simon%20Boyes"
     },
     {
-     "name": "Jeff Howard",
+     "name": "Adam Mason",
      "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Howard"
+     "url": "stremio:///search?search=Adam%20Mason"
     },
     {
-     "name": "Juliet Snowden",
-     "category": "Writers",
-     "url": "stremio:///search?search=Juliet%20Snowden"
-    },
-    {
-     "name": "Mike Flanagan",
+     "name": "Justin P. Lange",
      "category": "Directors",
-     "url": "stremio:///search?search=Mike%20Flanagan"
+     "url": "stremio:///search?search=Justin%20P.%20Lange"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4361050",
+    "defaultVideoId": "tt15558152",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4361050.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15558152.jpg"
   },
   {
+   "awards": "2 nominations total",
    "cast": [
-    "Tom Cruise",
-    "Hayley Atwell",
-    "Ving Rhames"
+    "Leslie Nielsen",
+    "Priscilla Presley",
+    "O.J. Simpson"
    ],
-   "country": "United States, Norway, Canada",
-   "description": "Uma nova arma baseada em inteligência artificial ameaça o mundo como o conhecemos. Cabe a Ethan Hunt (mais uma vez interpretado por Tom Cruise) e à sua equipa da IMF (Impossible Mission Force) percorrer o globo para impedir que criminosos internacionais a obtenham e a usem para dominarem o mundo.\r Esta é a premissa do sétimo e agora deste oitavo filme da saga “Missão: Impossível”, adaptada da série televisiva da década de 1960 e iniciada no filme de Brian De Palma, em 1996. A realização fica a cargo de Christopher McQuarrie, que tem estado à frente de todos os filmes da saga desde “Missão: Impossível - Nação Secreta” (2015) e que também co-assina o argumento, em parceria com Erik Jendresen.\r Além de Cruise no papel principal, regressam à saga Ving Rhames, Vanessa Kirby, Hayley Atwell, Henry Czerny, Esai Morales e Angela Bassett.",
+   "country": "United States",
+   "description": "Leslie Nielsen interpreta o agente da Esquadra da Polícia Frank Drebin, com um rosto de granito e a cabeça ainda mais dura, que tropeça num plano para assassinar a Rainha Isabel. Priscilla Presley, O. J. Simpson, um castor embalsamado, duas equipas de basebol e um estranho conjunto de outras personagens avulsas juntam-se à tresloucada aventura, rebentando por completo a escala das gargalhadas.",
    "director": [
-    "Christopher McQuarrie"
+    "David Zucker"
    ],
+   "dvdRelease": "2013-08-01T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Adventure",
-    "Thriller"
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "7.1",
-   "name": "Mission: Impossible - The Final Reckoning",
-   "released": "2025-05-23T00:00:00.000Z",
-   "writer": [
-    "Christopher McQuarrie",
-    "Erik Jendresen",
-    "Bruce Geller"
-   ],
-   "year": "2025",
+   "imdbRating": "7.6",
+   "name": "The Naked Gun: From the Files of Police Squad!",
+   "released": "1988-12-02T00:00:00.000Z",
+   "runtime": "86 min",
    "trailers": [
     {
-     "source": "G1VBfMCZVkw",
-     "type": "Trailer"
-    },
-    {
-     "source": "GXfl6nyltRo",
-     "type": "Trailer"
-    },
-    {
-     "source": "fsQgc9pCyDU",
-     "type": "Trailer"
-    },
-    {
-     "source": "NOhDyUmT9z0",
+     "source": "PACTQutbow4",
      "type": "Trailer"
     }
    ],
-   "runtime": "170 min",
-   "background": "https://images.metahub.space/background/medium/tt9603208/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9603208/img",
-   "awards": "40 wins & 44 nominations total",
-   "id": "tt9603208",
-   "genres": [
-    "Ação",
-    "Thriller",
-    "Aventura"
+   "writer": [
+    "Jerry Zucker",
+    "Jim Abrahams",
+    "David Zucker"
    ],
-   "releaseInfo": "2025",
+   "year": "1988",
+   "background": "https://images.metahub.space/background/medium/tt0095705/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0095705/img",
+   "id": "tt0095705",
+   "genres": [
+    "Comédia",
+    "Crime"
+   ],
+   "releaseInfo": "1988",
    "trailerStreams": [
     {
-     "title": "Mission: Impossible - The Final Reckoning",
-     "ytId": "G1VBfMCZVkw"
-    },
-    {
-     "title": "Mission: Impossible - The Final Reckoning",
-     "ytId": "GXfl6nyltRo"
-    },
-    {
-     "title": "Mission: Impossible - The Final Reckoning",
-     "ytId": "fsQgc9pCyDU"
-    },
-    {
-     "title": "Mission: Impossible - The Final Reckoning",
-     "ytId": "NOhDyUmT9z0"
+     "title": "The Naked Gun: From the Files of Police Squad!",
+     "ytId": "PACTQutbow4"
     }
    ],
    "links": [
     {
-     "name": "7.1",
+     "name": "7.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9603208"
+     "url": "https://imdb.com/title/tt0095705"
     },
     {
-     "name": "Mission: Impossible - The Final Reckoning",
+     "name": "The Naked Gun: From the Files of Police Squad!",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/mission-impossible-the-final-reckoning-9603208"
+     "url": "https://www.strem.io/s/movie/the-naked-gun-from-the-files-of-police-squad-0095705"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Leslie Nielsen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Leslie%20Nielsen"
+    },
+    {
+     "name": "Priscilla Presley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Priscilla%20Presley"
+    },
+    {
+     "name": "O.J. Simpson",
+     "category": "Cast",
+     "url": "stremio:///search?search=O.J.%20Simpson"
+    },
+    {
+     "name": "Jerry Zucker",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jerry%20Zucker"
+    },
+    {
+     "name": "Jim Abrahams",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jim%20Abrahams"
+    },
+    {
+     "name": "David Zucker",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Zucker"
+    },
+    {
+     "name": "David Zucker",
+     "category": "Directors",
+     "url": "stremio:///search?search=David%20Zucker"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0095705",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0095705.jpg"
+  },
+  {
+   "name": "The Grinch",
+   "year": "2018",
+   "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "released": "2018-11-09T00:00:00.000Z",
+   "director": [
+    "Yarrow Cheney",
+    "Scott Mosier"
+   ],
+   "writer": [
+    "Michael LeSieur",
+    "Tommy Swerdlow",
+    "Dr. Seuss"
+   ],
+   "cast": [
+    "Benedict Cumberbatch",
+    "Cameron Seely",
+    "Rashida Jones"
+   ],
+   "imdbRating": "6.4",
+   "description": "O mal-humorado Grinch chega à conclusão que só tem uma forma de conseguir paz e sossego: roubar o Natal e acabar de vez com as celebrações dos Quem. Para levar a cabo o seu plano, Grinch disfarça-se de Pai Natal e arranja uma rena mal disfarçada...",
+   "country": "United States",
+   "trailers": [
+    {
+     "source": "_UOh0UX3alI",
+     "type": "Trailer"
+    },
+    {
+     "source": "L8LWUyUy7jM",
+     "type": "Trailer"
+    },
+    {
+     "source": "vjnqABgxfO0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt2709692/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2709692/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563/ImageRenderer/111/168/images/no_image_111x168.jpg/208498/images/masterrepository/fandango/208498/grc_tsr1sheet_grinchandmax_.jpg\" alt=\"Dr. Seuss' The Grinch (2018)\" title=\"Dr. Seuss' The Grinch (2018)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fdr.seussthegrinch2018-trailer%2f208498%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "85 min",
+   "dvdRelease": "2019-01-22T00:00:00.000Z",
+   "awards": "2 wins & 18 nominations total",
+   "id": "tt2709692",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "The Grinch",
+     "ytId": "_UOh0UX3alI"
+    },
+    {
+     "title": "The Grinch",
+     "ytId": "L8LWUyUy7jM"
+    },
+    {
+     "title": "The Grinch",
+     "ytId": "vjnqABgxfO0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2709692"
+    },
+    {
+     "name": "The Grinch",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-grinch-2709692"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benedict%20Cumberbatch"
+    },
+    {
+     "name": "Cameron Seely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cameron%20Seely"
+    },
+    {
+     "name": "Rashida Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rashida%20Jones"
+    },
+    {
+     "name": "Michael LeSieur",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20LeSieur"
+    },
+    {
+     "name": "Tommy Swerdlow",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tommy%20Swerdlow"
+    },
+    {
+     "name": "Dr. Seuss",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dr.%20Seuss"
+    },
+    {
+     "name": "Yarrow Cheney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Yarrow%20Cheney"
+    },
+    {
+     "name": "Scott Mosier",
+     "category": "Directors",
+     "url": "stremio:///search?search=Scott%20Mosier"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2709692",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2709692.jpg"
+  },
+  {
+   "awards": "5 wins & 22 nominations total",
+   "cast": [
+    "Matt Damon",
+    "Franka Potente",
+    "Joan Allen"
+   ],
+   "country": "United States, Germany, India, Russia",
+   "description": "Jason Bourne pensou ter deixado o seu passado para trás, no entanto, está prestes a tê-lo de volta. Há dois anos atrás Bourne deixou o mundo do crime e da espionagem e prometeu retaliação a quem tentasse manter contacto com ele. Agora que esse mundo reapareceu Bourne vai manter a sua palavra. Deviam-no ter deixado em paz...!",
+   "director": [
+    "Paul Greengrass"
+   ],
+   "dvdRelease": "2015-11-17T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "7.7",
+   "name": "The Bourne Supremacy",
+   "released": "2004-07-23T00:00:00.000Z",
+   "runtime": "108 min",
+   "trailers": [
+    {
+     "source": "zsrdBGr8NIk",
+     "type": "Trailer"
+    },
+    {
+     "source": "ofMkaGkyAPw",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Robert Ludlum",
+    "Tony Gilroy"
+   ],
+   "year": "2004",
+   "background": "https://images.metahub.space/background/medium/tt0372183/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0372183/img",
+   "id": "tt0372183",
+   "genres": [
+    "Ação",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [
+    {
+     "title": "The Bourne Supremacy",
+     "ytId": "zsrdBGr8NIk"
+    },
+    {
+     "title": "The Bourne Supremacy",
+     "ytId": "ofMkaGkyAPw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0372183"
+    },
+    {
+     "name": "The Bourne Supremacy",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-bourne-supremacy-0372183"
     },
     {
      "name": "Action",
@@ -647,9 +1032,9 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Adventure",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
      "name": "Thriller",
@@ -657,48 +1042,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Tom Cruise",
+     "name": "Matt Damon",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Cruise"
+     "url": "stremio:///search?search=Matt%20Damon"
     },
     {
-     "name": "Hayley Atwell",
+     "name": "Franka Potente",
      "category": "Cast",
-     "url": "stremio:///search?search=Hayley%20Atwell"
+     "url": "stremio:///search?search=Franka%20Potente"
     },
     {
-     "name": "Ving Rhames",
+     "name": "Joan Allen",
      "category": "Cast",
-     "url": "stremio:///search?search=Ving%20Rhames"
+     "url": "stremio:///search?search=Joan%20Allen"
     },
     {
-     "name": "Christopher McQuarrie",
+     "name": "Robert Ludlum",
      "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20McQuarrie"
+     "url": "stremio:///search?search=Robert%20Ludlum"
     },
     {
-     "name": "Erik Jendresen",
+     "name": "Tony Gilroy",
      "category": "Writers",
-     "url": "stremio:///search?search=Erik%20Jendresen"
+     "url": "stremio:///search?search=Tony%20Gilroy"
     },
     {
-     "name": "Bruce Geller",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bruce%20Geller"
-    },
-    {
-     "name": "Christopher McQuarrie",
+     "name": "Paul Greengrass",
      "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20McQuarrie"
+     "url": "stremio:///search?search=Paul%20Greengrass"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt9603208",
+    "defaultVideoId": "tt0372183",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9603208.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0372183.jpg"
   }
  ]
 }
