@@ -1,61 +1,120 @@
 {
  "metas": [
   {
-   "awards": "Nominated for 6 Primetime Emmys. 3 wins & 48 nominations total",
-   "cast": [
-    "Mireille Enos",
-    "Joel Kinnaman",
-    "Billy Campbell"
+   "id": "tt45114341",
+   "logo": "https://live.metahub.space/logo/medium/tt45114341/img",
+   "background": "https://live.metahub.space/background/medium/tt45114341/img",
+   "name": "Melania Rea",
+   "description": "A trágica história de Melania Rea, cujo caso revela um casamento tóxico, marcado pela mentira e pela manipulação.",
+   "genres": [
+    "Drama"
    ],
-   "country": "United States, Canada",
-   "description": "Em Seattle, a detetive Sarah Linden (Mireille Enos) está em seu último dia de trabalho, antes de partir com seu filho, Jack (Liam James), para encontrar seu noivo em Sonoma. O substituto de Sarah, Detetive Stephen Holder (Joel Kinnaman), está pronto para assumir o cargo, quando eles atendem a uma chamada de um policial em carro de patrulha, que encontrou um casaco manchado de sangue em um campo. O corpo da garota desaparecida, Rosie Lauren, é encontrado no porta-malas de um carro registrado no comitê de campanha do vereador Darren Richmond (Billy Campbell), que está concorrendo a prefeito. Linden, então, adia a sua partida, supostamente por uns dias, até que o caso seja resolvido.",
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Maria Esposito"
+   ],
+   "credits_cast": [
+    {
+     "character": "Melania Rea",
+     "name": "Maria Esposito",
+     "profile_path": "/ppViWeEsygc19YakUwLhYHMnzBH.jpg",
+     "id": 2886470
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Stefano Mordini",
+     "profile_path": "/o1eHRzQZGukPqBJEu7JfuQDqzwH.jpg",
+     "id": 236761
+    }
+   ],
+   "director": [
+    "Stefano Mordini"
+   ],
+   "language": "Italian",
+   "country": "Italy",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
+   "imdbRating": "4.7"
+  },
+  {
+   "awards": "Nominated for 5 Primetime Emmys. 10 wins & 43 nominations total",
+   "cast": [
+    "Charlie Cox",
+    "Vincent D&apos;Onofrio",
+    "Deborah Ann Woll"
+   ],
+   "country": "United States",
+   "description": "Cego desde criança, Matt Murdock luta contra a injustiça em Nova Iorque, durante o dia como advogado e à noite na pele do super-herói Demolidor.",
    "director": null,
    "dvdRelease": null,
    "genre": [
+    "Action",
     "Crime",
-    "Drama",
-    "Mystery"
+    "Drama"
    ],
-   "imdbRating": "8.3",
-   "name": "The Killing",
-   "released": "2011-04-03T00:00:00.000Z",
-   "runtime": "50 min",
+   "imdbRating": "8.6",
+   "name": "Daredevil",
+   "released": "2015-04-10T00:00:00.000Z",
+   "runtime": "53 min",
    "status": "Ended",
    "writer": [
-    "Veena Sud"
+    "Drew Goddard"
    ],
-   "year": "2011–2014",
-   "background": "https://images.metahub.space/background/medium/tt1637727/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1637727/img",
+   "year": "2015–2018",
+   "background": "https://images.metahub.space/background/medium/tt3322312/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3322312/img",
    "trailers": [
     {
-     "source": "OkbfvPeH3G0",
+     "source": "jAy6NJ_D5vU",
+     "type": "Trailer"
+    },
+    {
+     "source": "VK1mrTQd8D0",
      "type": "Trailer"
     }
    ],
-   "id": "tt1637727",
+   "id": "tt3322312",
    "genres": [
-    "Drama",
     "Crime",
-    "Mistério"
+    "Drama",
+    "Action & Adventure"
    ],
-   "releaseInfo": "2011",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "The Killing",
-     "ytId": "OkbfvPeH3G0"
+     "title": "Daredevil",
+     "ytId": "jAy6NJ_D5vU"
+    },
+    {
+     "title": "Daredevil",
+     "ytId": "VK1mrTQd8D0"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "8.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1637727"
+     "url": "https://imdb.com/title/tt3322312"
     },
     {
-     "name": "The Killing",
+     "name": "Daredevil",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-killing-1637727"
+     "url": "https://www.strem.io/s/series/daredevil-3322312"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Crime",
@@ -68,29 +127,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Mireille Enos",
+     "name": "Charlie Cox",
      "category": "Cast",
-     "url": "stremio:///search?search=Mireille%20Enos"
+     "url": "stremio:///search?search=Charlie%20Cox"
     },
     {
-     "name": "Joel Kinnaman",
+     "name": "Vincent D&apos;Onofrio",
      "category": "Cast",
-     "url": "stremio:///search?search=Joel%20Kinnaman"
+     "url": "stremio:///search?search=Vincent%20D%26apos%3BOnofrio"
     },
     {
-     "name": "Billy Campbell",
+     "name": "Deborah Ann Woll",
      "category": "Cast",
-     "url": "stremio:///search?search=Billy%20Campbell"
+     "url": "stremio:///search?search=Deborah%20Ann%20Woll"
     },
     {
-     "name": "Veena Sud",
+     "name": "Drew Goddard",
      "category": "Writers",
-     "url": "stremio:///search?search=Veena%20Sud"
+     "url": "stremio:///search?search=Drew%20Goddard"
     }
    ],
    "behaviorHints": {
@@ -99,400 +153,103 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1637727.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3322312.jpg"
   },
   {
-   "name": "You and I Are Polar Opposites",
-   "country": "Japan",
-   "genre": [
-    "Animation",
-    "Comedy",
-    "Romance"
-   ],
-   "imdbRating": "8.2",
-   "released": "2026-01-11T00:00:00.000Z",
-   "year": "2026–",
-   "runtime": "24 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "tCs7mtzrjpE",
-     "type": "Trailer"
-    },
-    {
-     "source": "jZVJLee_2Bw",
-     "type": "Trailer"
-    },
-    {
-     "source": "WqLYp6na6NU",
-     "type": "Trailer"
-    },
-    {
-     "source": "idsxG0Bodoc",
-     "type": "Trailer"
-    }
-   ],
+   "name": "Solo Leveling",
    "cast": [
-    "Sayumi Suzushiro",
-    "Shogo Sakata",
-    "Wataru Katoh"
+    "Taito Ban",
+    "Aleks Le",
+    "Makoto Furukawa"
    ],
-   "director": [],
-   "writer": [
-    "Agasawa Tea"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt36034547/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36034547/img",
-   "awards": "2 wins total",
-   "description": "Suzuki é uma garota animada e sociável, apaixonada pelo colega Yusuke Tani. O problema é que ele é o oposto completo: quieto, reservado e indiferente ao que os outros pensam. Será que Suzuki conseguirá vencer sua timidez e se declarar, ou descobrirá que os opostos realmente não se atraem?",
-   "id": "tt36034547",
-   "genres": [
-    "Animação",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "You and I Are Polar Opposites",
-     "ytId": "tCs7mtzrjpE"
-    },
-    {
-     "title": "You and I Are Polar Opposites",
-     "ytId": "jZVJLee_2Bw"
-    },
-    {
-     "title": "You and I Are Polar Opposites",
-     "ytId": "WqLYp6na6NU"
-    },
-    {
-     "title": "You and I Are Polar Opposites",
-     "ytId": "idsxG0Bodoc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt36034547"
-    },
-    {
-     "name": "You and I Are Polar Opposites",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/you-and-i-are-polar-opposites-36034547"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Sayumi Suzushiro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sayumi%20Suzushiro"
-    },
-    {
-     "name": "Shogo Sakata",
-     "category": "Cast",
-     "url": "stremio:///search?search=Shogo%20Sakata"
-    },
-    {
-     "name": "Wataru Katoh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Wataru%20Katoh"
-    },
-    {
-     "name": "Agasawa Tea",
-     "category": "Writers",
-     "url": "stremio:///search?search=Agasawa%20Tea"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36034547.jpg"
-  },
-  {
-   "name": "Ethos",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "8.4",
-   "released": "2020-11-12T00:00:00.000Z",
-   "year": "2020",
-   "status": "Continuing",
-   "cast": [
-    "Öykü Karayel",
-    "Fatih Artman",
-    "Funda Eryigit"
-   ],
-   "director": [],
-   "writer": [],
-   "country": "Turkey",
-   "description": "Em Istambul, um grupo de pessoas precisa transcender fronteiras socioculturais para fazer novas amizades, mesmo quando suas crenças, desejos e medos se misturam.",
-   "background": "https://images.metahub.space/background/medium/tt11301642/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11301642/img",
-   "runtime": "48 min",
-   "awards": "2 wins & 3 nominations total",
-   "id": "tt11301642",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2020",
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11301642"
-    },
-    {
-     "name": "Ethos",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/ethos-11301642"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Öykü Karayel",
-     "category": "Cast",
-     "url": "stremio:///search?search=%C3%96yk%C3%BC%20Karayel"
-    },
-    {
-     "name": "Fatih Artman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Fatih%20Artman"
-    },
-    {
-     "name": "Funda Eryigit",
-     "category": "Cast",
-     "url": "stremio:///search?search=Funda%20Eryigit"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11301642.jpg"
-  },
-  {
-   "name": "The Empress",
-   "cast": [
-    "Devrim Lingnau",
-    "Philip Froissant",
-    "Melika Foroutan"
-   ],
-   "country": "Germany",
-   "description": "A rebelde Isabel apaixona-se pelo Imperador Francisco e torna-se a sua noiva, mergulhando no mundo de tensões e intrigas da corte vienense.",
-   "genre": [
-    "Drama",
-    "History",
-    "Romance"
-   ],
-   "imdbRating": "7.8",
-   "released": "2022-09-29T00:00:00.000Z",
-   "year": "2022–",
-   "director": null,
-   "writer": [
-    "Katharina Eyssen"
-   ],
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt13720112/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13720112/img",
-   "runtime": "56 min",
-   "trailers": [
-    {
-     "source": "KfySe96FPr8",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "5 wins & 2 nominations total",
-   "id": "tt13720112",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Empress",
-     "ytId": "KfySe96FPr8"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt13720112"
-    },
-    {
-     "name": "The Empress",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-empress-13720112"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
-    },
-    {
-     "name": "Devrim Lingnau",
-     "category": "Cast",
-     "url": "stremio:///search?search=Devrim%20Lingnau"
-    },
-    {
-     "name": "Philip Froissant",
-     "category": "Cast",
-     "url": "stremio:///search?search=Philip%20Froissant"
-    },
-    {
-     "name": "Melika Foroutan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Melika%20Foroutan"
-    },
-    {
-     "name": "Katharina Eyssen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Katharina%20Eyssen"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
-  },
-  {
-   "name": "Miraculous: Tales of Ladybug & Cat Noir",
-   "year": "2015–",
-   "runtime": "24 min",
+   "country": "Japan, South Korea",
+   "description": "Há mais de uma década, surgiu uma misteriosa passagem chamada \"portal\", que conecta este mundo a uma dimensão diferente, o que fez com que pessoas despertassem poderes únicos… e essas pessoas são chamadas de \"caçadores\". Os caçadores usam seus poderes sobre-humanos para conquistar masmorras dentro dos portais e assim ganhar a vida. Sung Jinwoo, um caçador de nível baixo, é considerado o caçador mais fraco de toda a humanidade. Certo dia, ele se depara com uma \"masmorra dupla\", que tem uma masmorra de nível alto escondida dentro de uma masmorra de nível baixo. Diante de um Jinwoo gravemente ferido, surge uma misteriosa missão! À beira da morte, Jinwoo decide aceitar essa missão, tornando-se assim a única pessoa capaz de subir de nível!",
    "genre": [
     "Animation",
     "Action",
     "Adventure"
    ],
-   "released": "2015-09-05T00:00:00.000Z",
-   "cast": [
-    "Anouck Hautbois",
-    "Benjamin Bollen",
-    "Cristina Valenzuela"
-   ],
-   "imdbRating": "7.5",
-   "description": "Dois adolescentes parisienses, a Marinette Dupain-Cheng e o Adrien Agreste, transformam-se nos super-heróis Ladybug e Gato Noir, para proteger a cidade de supervilões.",
-   "country": "France, South Korea, Japan, United States, Brazil, Canada, Italy",
-   "director": [],
+   "imdbRating": "8.5",
+   "released": "2024-01-06T00:00:00.000Z",
    "writer": [
-    "Thomas Astruc"
+    "Chugong"
    ],
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt2580046/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2580046/img",
-   "awards": "2 wins & 1 nomination total",
+   "year": "2024–",
    "trailers": [
     {
-     "source": "XgNrydM9UBI",
+     "source": "HkIKAnwLZCw",
      "type": "Trailer"
     },
     {
-     "source": "stejWyijl1A",
+     "source": "LrNvF8gcJPM",
      "type": "Trailer"
     },
     {
-     "source": "LkOLnaSGvZw",
+     "source": "NtssbUbxDDM",
      "type": "Trailer"
     },
     {
-     "source": "6ImnuM-pAZk",
+     "source": "n24l9gvM3XM",
      "type": "Trailer"
     },
     {
-     "source": "91RrcGX1HXI",
+     "source": "9vIxi5XkQ8Y",
      "type": "Trailer"
     },
     {
-     "source": "Eo73DkyXywE",
-     "type": "Trailer"
-    },
-    {
-     "source": "04mqq9T6y_c",
+     "source": "YvGSK8mIlt8",
      "type": "Trailer"
     }
    ],
-   "id": "tt2580046",
+   "runtime": "24 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt21209876/img",
+   "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+   "awards": "13 wins & 27 nominations total",
+   "id": "tt21209876",
    "genres": [
-    "Action & Adventure",
     "Animação",
-    "Kids"
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2015",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "XgNrydM9UBI"
+     "title": "Solo Leveling",
+     "ytId": "HkIKAnwLZCw"
     },
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "stejWyijl1A"
+     "title": "Solo Leveling",
+     "ytId": "LrNvF8gcJPM"
     },
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "LkOLnaSGvZw"
+     "title": "Solo Leveling",
+     "ytId": "NtssbUbxDDM"
     },
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "6ImnuM-pAZk"
+     "title": "Solo Leveling",
+     "ytId": "n24l9gvM3XM"
     },
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "91RrcGX1HXI"
+     "title": "Solo Leveling",
+     "ytId": "9vIxi5XkQ8Y"
     },
     {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "Eo73DkyXywE"
-    },
-    {
-     "title": "Miraculous: Tales of Ladybug & Cat Noir",
-     "ytId": "04mqq9T6y_c"
+     "title": "Solo Leveling",
+     "ytId": "YvGSK8mIlt8"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "8.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2580046"
+     "url": "https://imdb.com/title/tt21209876"
     },
     {
-     "name": "Miraculous: Tales of Ladybug & Cat Noir",
+     "name": "Solo Leveling",
      "category": "share",
-     "url": "https://www.strem.io/s/series/miraculous-tales-of-ladybug-cat-noir-2580046"
+     "url": "https://www.strem.io/s/series/solo-leveling-21209876"
     },
     {
      "name": "Animation",
@@ -510,24 +267,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Anouck Hautbois",
+     "name": "Taito Ban",
      "category": "Cast",
-     "url": "stremio:///search?search=Anouck%20Hautbois"
+     "url": "stremio:///search?search=Taito%20Ban"
     },
     {
-     "name": "Benjamin Bollen",
+     "name": "Aleks Le",
      "category": "Cast",
-     "url": "stremio:///search?search=Benjamin%20Bollen"
+     "url": "stremio:///search?search=Aleks%20Le"
     },
     {
-     "name": "Cristina Valenzuela",
+     "name": "Makoto Furukawa",
      "category": "Cast",
-     "url": "stremio:///search?search=Cristina%20Valenzuela"
+     "url": "stremio:///search?search=Makoto%20Furukawa"
     },
     {
-     "name": "Thomas Astruc",
+     "name": "Chugong",
      "category": "Writers",
-     "url": "stremio:///search?search=Thomas%20Astruc"
+     "url": "stremio:///search?search=Chugong"
     }
    ],
    "behaviorHints": {
@@ -536,275 +293,53 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2580046.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21209876.jpg"
   },
   {
-   "name": "Dexter: New Blood",
    "cast": [
-    "Michael C. Hall",
-    "Jack Alcott",
-    "Julia Jones"
+    "Patrick Brammall",
+    "Maxine Peake",
+    "Daniel Henshall"
    ],
-   "country": "United States",
-   "description": "O ex-assassino em série, Dexter Morgan, desapareceu, foi dado como morto e vive uma vida sem homicídios com uma nova identidade numa vila quando o filho aparece. Dexter descobre rapidamente que o seu Passageiro Sombrio ainda vive e que tem vizinhos muito perigosos.",
+   "country": "United States, Australia",
+   "description": "Quando o técnico de emergências Ian Ridley recebe uma chamada agitada de uma adolescente que ele acha poder ser a sua filha há muito desaparecida, nada o impedirá de a procurar.",
    "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Thriller"
    ],
-   "imdbRating": "8.0",
-   "released": "2021-11-07T00:00:00.000Z",
-   "year": "2021–2022",
-   "director": [],
-   "writer": [
-    "Clyde Phillips"
-   ],
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt14164730/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14164730/img",
-   "awards": "6 nominations total",
-   "runtime": "50 min",
-   "trailers": [
-    {
-     "source": "A9HLoxCe0Pk",
-     "type": "Trailer"
-    },
-    {
-     "source": "g6Vn00i4Qys",
-     "type": "Trailer"
-    },
-    {
-     "source": "mzUx1hyL-yk",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt14164730",
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2021",
-   "trailerStreams": [
-    {
-     "title": "Dexter: New Blood",
-     "ytId": "A9HLoxCe0Pk"
-    },
-    {
-     "title": "Dexter: New Blood",
-     "ytId": "g6Vn00i4Qys"
-    },
-    {
-     "title": "Dexter: New Blood",
-     "ytId": "mzUx1hyL-yk"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14164730"
-    },
-    {
-     "name": "Dexter: New Blood",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-new-blood-14164730"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Michael C. Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
-    },
-    {
-     "name": "Jack Alcott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jack%20Alcott"
-    },
-    {
-     "name": "Julia Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julia%20Jones"
-    },
-    {
-     "name": "Clyde Phillips",
-     "category": "Writers",
-     "url": "stremio:///search?search=Clyde%20Phillips"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14164730.jpg"
-  },
-  {
-   "name": "The Pendragon Cycle: Rise of the Merlin",
-   "cast": [
-    "Tom Sharp",
-    "Rose Reid",
-    "Alex Laurence-Phillips"
-   ],
-   "country": "United States",
-   "description": "Merlin, o filho imortal do bardo Taliesin e da princesa atlante Charis, é acompanhado ao longo da sua infância trágica, da sua descida à loucura e do seu desaparecimento chocante, que deu origem à lenda que o rodeia. Passando-se antes do nascimento do Rei Artur, Merlin, que se pensava morto ou que fosse apenas um mito, reaparece na Grã-Bretanha pós-romana para unir os reinos fragmentados, ameaçados pelos invasores saxões.",
-   "genre": [
-    "Drama",
-    "Fantasy"
-   ],
-   "imdbRating": "6.3",
-   "released": "2026-01-22T00:00:00.000Z",
+   "imdbRating": "7.0",
+   "name": "Last Seen",
+   "released": "2026-09-09T00:00:00.000Z",
    "year": "2026–",
-   "runtime": "66 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "RkmT-kZIHNU",
-     "type": "Trailer"
-    }
-   ],
+   "runtime": "49 min",
+   "status": "Ended",
    "director": [],
    "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt23734948/img",
-   "logo": "https://images.metahub.space/logo/medium/tt23734948/img",
-   "awards": "1 win total",
-   "id": "tt23734948",
+   "trailers": [
+    {
+     "source": "M8nHySkLb64",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt6037988/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6037988/img",
+   "id": "tt6037988",
    "genres": [
-    "Sci-Fi & Fantasy",
-    "Action & Adventure",
-    "Drama"
+    "Crime",
+    "Drama",
+    "Mistério"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Pendragon Cycle: Rise of the Merlin",
-     "ytId": "RkmT-kZIHNU"
+     "title": "Last Seen",
+     "ytId": "M8nHySkLb64"
     }
    ],
    "links": [
     {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt23734948"
-    },
-    {
-     "name": "The Pendragon Cycle: Rise of the Merlin",
+     "name": "Last Seen",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-pendragon-cycle-rise-of-the-merlin-23734948"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Tom Sharp",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Sharp"
-    },
-    {
-     "name": "Rose Reid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rose%20Reid"
-    },
-    {
-     "name": "Alex Laurence-Phillips",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alex%20Laurence-Phillips"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23734948.jpg"
-  },
-  {
-   "cast": [
-    "Milo Callaghan",
-    "Lana Parrilla",
-    "Madison Iseman"
-   ],
-   "country": "United States",
-   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.2",
-   "name": "The Rainmaker",
-   "released": "2025-08-15T00:00:00.000Z",
-   "year": "2025–",
-   "runtime": "43 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Jason Richman",
-    "Michael Seitzman"
-   ],
-   "trailers": [
-    {
-     "source": "-__6rI43NyE",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "1 win & 4 nominations total",
-   "background": "https://images.metahub.space/background/medium/tt6151526/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
-   "id": "tt6151526",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Rainmaker",
-     "ytId": "-__6rI43NyE"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6151526"
-    },
-    {
-     "name": "The Rainmaker",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "https://www.strem.io/s/series/last-seen-6037988"
     },
     {
      "name": "Thriller",
@@ -812,29 +347,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Milo Callaghan",
+     "name": "Patrick Brammall",
      "category": "Cast",
-     "url": "stremio:///search?search=Milo%20Callaghan"
+     "url": "stremio:///search?search=Patrick%20Brammall"
     },
     {
-     "name": "Lana Parrilla",
+     "name": "Maxine Peake",
      "category": "Cast",
-     "url": "stremio:///search?search=Lana%20Parrilla"
+     "url": "stremio:///search?search=Maxine%20Peake"
     },
     {
-     "name": "Madison Iseman",
+     "name": "Daniel Henshall",
      "category": "Cast",
-     "url": "stremio:///search?search=Madison%20Iseman"
-    },
-    {
-     "name": "Jason Richman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Richman"
-    },
-    {
-     "name": "Michael Seitzman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Seitzman"
+     "url": "stremio:///search?search=Daniel%20Henshall"
     }
    ],
    "behaviorHints": {
@@ -843,146 +368,164 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6037988.jpg"
   },
   {
-   "name": "Youth",
-   "cast": [
-    "Nadia Parkes",
-    "Andrea Vasiliou",
-    "Sophia Feliciano"
-   ],
-   "description": "Uma divorciada de 50 anos procura sexo e amor enquanto concilia os cuidados aos pais doentes e a educação do filho, que já deveria ser adulto.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "6.8",
-   "released": null,
-   "year": "2026–",
-   "trailers": [
-    {
-     "source": "XwuDMSlErkk",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "31 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt35949226/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35949226/img",
-   "id": "tt35949226",
+   "id": "tt38732131",
+   "logo": "https://live.metahub.space/logo/medium/tt38732131/img",
+   "background": "https://live.metahub.space/background/medium/tt38732131/img",
+   "name": "Money Trap",
+   "description": "Um mapa mítico vai parar nas mãos de um lendário golpista, e ele embarca em uma última tramoia antes de deixar o mundo do crime para trás.",
    "genres": [
     "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Youth",
-     "ytId": "XwuDMSlErkk"
-    }
-   ],
-   "links": [
-    {
-     "name": "Youth",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/youth-35949226"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Nadia Parkes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nadia%20Parkes"
-    },
-    {
-     "name": "Andrea Vasiliou",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrea%20Vasiliou"
-    },
-    {
-     "name": "Sophia Feliciano",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sophia%20Feliciano"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35949226.jpg"
-  },
-  {
-   "cast": [
-    "Jeremy Renner",
-    "Hailee Steinfeld",
-    "Florence Pugh"
-   ],
-   "country": "United States",
-   "description": "Na cidade de Nova Iorque, onde o antigo Vingador Clint Barton, também conhecido como Gavião Arqueiro, tem uma missão aparentemente simples: regressar à sua família para o Natal. Mas quando aparece uma ameaça do seu passado, o Gavião Arqueiro junta-se relutantemente a Kate Bishop, uma hábil arqueira de 22 anos e sua maior fã, para desvendar uma conspiração criminosa.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Crime"
-   ],
-   "imdbRating": "7.4",
-   "name": "Hawkeye",
-   "released": "2021-11-24T00:00:00.000Z",
-   "runtime": "47 min",
-   "year": "2021",
-   "director": null,
-   "writer": [
-    "Jonathan Igla"
-   ],
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt10160804/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10160804/img",
-   "awards": "Nominated for 2 Primetime Emmys. 2 wins & 16 nominations total",
-   "trailers": [
-    {
-     "source": "5VYb3B1ETlk",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10160804",
-   "genres": [
-    "Drama",
-    "Comédia",
+    "Crime",
     "Action & Adventure"
    ],
-   "releaseInfo": "2021",
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "bCxYPFYb_zU",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Yılmaz Erdoğan",
+    "Kıvanç Tatlıtuğ",
+    "Ezgi Mola"
+   ],
+   "credits_cast": [
+    {
+     "character": "Asım Noyan",
+     "name": "Yılmaz Erdoğan",
+     "profile_path": "/nl7WulHPoP6bw4phMwp0VuuJgyL.jpg",
+     "id": 99314
+    },
+    {
+     "character": "Sarı Saruhan",
+     "name": "Kıvanç Tatlıtuğ",
+     "profile_path": "/rs7Z3PKa82UhKGQLrBNAy0JAWV5.jpg",
+     "id": 1078769
+    },
+    {
+     "character": "Lerzan Berrak",
+     "name": "Ezgi Mola",
+     "profile_path": "/dXZJOJr8bpUaCyUEBpNKs8e1Utx.jpg",
+     "id": 1255742
+    },
+    {
+     "character": "Nazlı Noyan",
+     "name": "Bensu Soral",
+     "profile_path": "/ti3PfqOgXmbJIQtwQl1yH5i1WnU.jpg",
+     "id": 1584271
+    },
+    {
+     "character": "Arıza Rıza",
+     "name": "Rıza Kocaoğlu",
+     "profile_path": "/b0Bp9W1VIaVzCzzUCMwBc7fe005.jpg",
+     "id": 145735
+    },
+    {
+     "character": "",
+     "name": "Kubilay Aka",
+     "profile_path": "/mSk2nqlDcdEJDbWKdSUk3B2GpWV.jpg",
+     "id": 1930511
+    },
+    {
+     "character": "",
+     "name": "Burcu Özberk",
+     "profile_path": "/wDhKUUR7pRzgVolACed0YnSozbL.jpg",
+     "id": 1522700
+    },
+    {
+     "character": "",
+     "name": "Uraz Kaygılaroğlu",
+     "profile_path": "/7rdov56gMxgsBhOMeqdwv1cgOiW.jpg",
+     "id": 1258831
+    },
+    {
+     "character": "",
+     "name": "Demet Akbağ",
+     "profile_path": "/eGuozRn0wfZlzxVBlLigT0yI8Zh.jpg",
+     "id": 59754
+    },
+    {
+     "character": "",
+     "name": "Şükran Ovalı",
+     "profile_path": "/2mq5fq3GEoqGWjSvNjTl7nZ7eL3.jpg",
+     "id": 1042721
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "Turkish",
+   "country": "Turkey",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38732131.jpg",
+   "imdbRating": "2.5"
+  },
+  {
+   "awards": "Won 9 Primetime Emmys. 95 wins & 185 nominations total",
+   "cast": [
+    "Benedict Cumberbatch",
+    "Martin Freeman",
+    "Una Stubbs"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "O Dr. John Watson precisa de um lugar para morar em Londres. Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais. Tudo isso em pleno século XXI.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "9.0",
+   "name": "Sherlock",
+   "released": "2010-10-24T00:00:00.000Z",
+   "runtime": "88 min",
+   "status": "Ended",
+   "writer": [
+    "Mark Gatiss",
+    "Steven Moffat"
+   ],
+   "year": "2010–2017",
+   "background": "https://images.metahub.space/background/medium/tt1475582/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
+   "trailers": [
+    {
+     "source": "gGqWqGOSTGQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1475582",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "Hawkeye",
-     "ytId": "5VYb3B1ETlk"
+     "title": "Sherlock",
+     "ytId": "gGqWqGOSTGQ"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "9.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt10160804"
+     "url": "https://imdb.com/title/tt1475582"
     },
     {
-     "name": "Hawkeye",
+     "name": "Sherlock",
      "category": "share",
-     "url": "https://www.strem.io/s/series/hawkeye-10160804"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "https://www.strem.io/s/series/sherlock-1475582"
     },
     {
      "name": "Crime",
@@ -990,24 +533,39 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Jeremy Renner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Renner"
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Hailee Steinfeld",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hailee%20Steinfeld"
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Florence Pugh",
+     "name": "Benedict Cumberbatch",
      "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
+     "url": "stremio:///search?search=Benedict%20Cumberbatch"
     },
     {
-     "name": "Jonathan Igla",
+     "name": "Martin Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Freeman"
+    },
+    {
+     "name": "Una Stubbs",
+     "category": "Cast",
+     "url": "stremio:///search?search=Una%20Stubbs"
+    },
+    {
+     "name": "Mark Gatiss",
      "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Igla"
+     "url": "stremio:///search?search=Mark%20Gatiss"
+    },
+    {
+     "name": "Steven Moffat",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Moffat"
     }
    ],
    "behaviorHints": {
@@ -1016,7 +574,410 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10160804.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1475582.jpg"
+  },
+  {
+   "name": "Yellowjackets",
+   "cast": [
+    "Melanie Lynskey",
+    "Sophie Nélisse",
+    "Jasmin Savoy Brown"
+   ],
+   "country": "United States",
+   "description": "Nesta épica série de sobrevivência, acompanhamos uma história de terror com uma equipa de futebol do secundário extremamente, talentosa, que se torna nos (ou não)sortudos sobreviventes de um acidente de avião numa terra remota no norte. A série narra a história de sobrevivência desta equipa, que acabou por sobreviver a estes eventos aterradores. Prepara-te para o que aconteceu 25 anos depois.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+   ],
+   "imdbRating": "7.7",
+   "released": "2021-11-14T00:00:00.000Z",
+   "writer": [
+    "Ashley Lyle",
+    "Bart Nickerson"
+   ],
+   "year": "2021–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11041332/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11041332/img",
+   "awards": "Nominated for 10 Primetime Emmys. 23 wins & 107 nominations total",
+   "runtime": "57 min",
+   "trailers": [
+    {
+     "source": "Axx9Qhct49w",
+     "type": "Trailer"
+    },
+    {
+     "source": "mX22D65TqAs",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11041332",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "Yellowjackets",
+     "ytId": "Axx9Qhct49w"
+    },
+    {
+     "title": "Yellowjackets",
+     "ytId": "mX22D65TqAs"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11041332"
+    },
+    {
+     "name": "Yellowjackets",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/yellowjackets-11041332"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Melanie Lynskey",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melanie%20Lynskey"
+    },
+    {
+     "name": "Sophie Nélisse",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sophie%20N%C3%A9lisse"
+    },
+    {
+     "name": "Jasmin Savoy Brown",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jasmin%20Savoy%20Brown"
+    },
+    {
+     "name": "Ashley Lyle",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ashley%20Lyle"
+    },
+    {
+     "name": "Bart Nickerson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bart%20Nickerson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11041332.jpg"
+  },
+  {
+   "awards": "Won 6 Primetime Emmys. 59 wins & 181 nominations total",
+   "cast": [
+    "Mariska Hargitay",
+    "Christopher Meloni",
+    "Ice-T"
+   ],
+   "country": "United States",
+   "description": "Do criador da série de drama com maior duração da televisão, \"Law & Order\", vem uma série poderosa que conta a vida e os crimes da Unidade de Vítimas Especiais da NYPD. Cada episódio segue as investigações dos detetives Elliot Stabler, Olivia Benson, John Munch e Odafin Tutuola enquanto tentam resolver os casos mais complexos da cidade. Seguem meticulosamente pista atrás de pista na sua busca por justiça e por descobrir a verdade.",
+   "director": null,
+   "dvdRelease": "2010-01-19T00:00:00.000Z",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "8.1",
+   "name": "Law & Order: Special Victims Unit",
+   "released": "1999-09-20T00:00:00.000Z",
+   "runtime": "44 min",
+   "status": "Continuing",
+   "writer": [
+    "Dick Wolf"
+   ],
+   "year": "1999–",
+   "background": "https://images.metahub.space/background/medium/tt0203259/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0203259/img",
+   "id": "tt0203259",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "1999",
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0203259"
+    },
+    {
+     "name": "Law & Order: Special Victims Unit",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/law-order-special-victims-unit-0203259"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Mariska Hargitay",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mariska%20Hargitay"
+    },
+    {
+     "name": "Christopher Meloni",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christopher%20Meloni"
+    },
+    {
+     "name": "Ice-T",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ice-T"
+    },
+    {
+     "name": "Dick Wolf",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dick%20Wolf"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0203259.jpg"
+  },
+  {
+   "name": "The Handmaid's Tale",
+   "year": "2017–2025",
+   "runtime": "51 min",
+   "genre": [
+    "Drama",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "released": "2017-04-26T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Bruce Miller"
+   ],
+   "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Ann Dowd"
+   ],
+   "imdbRating": "8.3",
+   "description": "Face a uma taxa de natalidade em queda, um regime fundamentalista começou a tratar as mulheres como propriedade. Offred é uma das poucas mulheres férteis que restam, ela é uma Serva, uma das castas de mulheres submetidas à escravatura sexual numa tentativa de repovoar o mundo.",
+   "country": "United States",
+   "awards": "Won 15 Primetime Emmys. 98 wins & 298 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt5834204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5834204/img",
+   "trailers": [
+    {
+     "source": "81PyH5TH-NQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5834204",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "The Handmaid's Tale",
+     "ytId": "81PyH5TH-NQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5834204"
+    },
+    {
+     "name": "The Handmaid's Tale",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-handmaids-tale-5834204"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Elisabeth Moss",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elisabeth%20Moss"
+    },
+    {
+     "name": "Yvonne Strahovski",
+     "category": "Cast",
+     "url": "stremio:///search?search=Yvonne%20Strahovski"
+    },
+    {
+     "name": "Ann Dowd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ann%20Dowd"
+    },
+    {
+     "name": "Bruce Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bruce%20Miller"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5834204.jpg"
+  },
+  {
+   "name": "North of North",
+   "awards": "18 wins & 21 nominations total",
+   "cast": [
+    "Anna Lambe",
+    "Maika Harper",
+    "Braeden Clarke"
+   ],
+   "country": "Canada, United States",
+   "description": "Uma jovem otimista embarca numa jornada de reinvenção pessoal na sua pequena cidade no Ártico, onde a vida de cada um é assunto de todos.",
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "7.5",
+   "released": "2025-04-10T00:00:00.000Z",
+   "writer": [
+    "Stacey Aglok MacDonald",
+    "Alethea Arnaquq-Baril"
+   ],
+   "year": "2025–",
+   "runtime": "23 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "xz2ty6KGBSg",
+     "type": "Trailer"
+    },
+    {
+     "source": "--ehiACRZ-0",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt27370649/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27370649/img",
+   "id": "tt27370649",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "North of North",
+     "ytId": "xz2ty6KGBSg"
+    },
+    {
+     "title": "North of North",
+     "ytId": "--ehiACRZ-0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27370649"
+    },
+    {
+     "name": "North of North",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/north-of-north-27370649"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Anna Lambe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anna%20Lambe"
+    },
+    {
+     "name": "Maika Harper",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maika%20Harper"
+    },
+    {
+     "name": "Braeden Clarke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Braeden%20Clarke"
+    },
+    {
+     "name": "Stacey Aglok MacDonald",
+     "category": "Writers",
+     "url": "stremio:///search?search=Stacey%20Aglok%20MacDonald"
+    },
+    {
+     "name": "Alethea Arnaquq-Baril",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alethea%20Arnaquq-Baril"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27370649.jpg"
   }
  ]
 }
