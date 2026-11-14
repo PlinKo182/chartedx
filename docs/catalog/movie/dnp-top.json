@@ -364,75 +364,363 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "name": "Moana",
+   "awards": "Nominated for 2 Oscars. 13 wins & 8 nominations total",
    "cast": [
-    "Dwayne Johnson",
-    "Catherine Laga&apos;aia",
-    "Rena Owen"
+    "Macaulay Culkin",
+    "Joe Pesci",
+    "Daniel Stern"
    ],
-   "country": "United States, New Zealand, Canada, Hungary",
-   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
+   "country": "United States",
+   "description": "Kevin McCallister, de oito anos, torna-se, da noite para o dia, o homem da casa! Deixado acidentalmente para trás pela sua família nas férias de Natal, Kevin ocupa-se a decorar a casa, mas não com luzes e azevinho. Dois ladrões desastrados tentam assaltar a casa e Kevin monta uma quantidade impressionante de armadilhas para lhes dar as boas-vindas!",
    "director": [
-    "Thomas Kail"
+    "Chris Columbus"
    ],
+   "dvdRelease": "2013-03-01T00:00:00.000Z",
    "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
+    "Comedy",
+    "Family"
    ],
-   "imdbRating": "5.8",
-   "released": "2026-07-10T00:00:00.000Z",
-   "writer": [
-    "Jared Bush",
-    "Dana Ledoux Miller",
-    "Ron Clements"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt27419466/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
+   "imdbRating": "7.8",
+   "name": "Home Alone",
+   "released": "1990-11-16T00:00:00.000Z",
+   "runtime": "103 min",
    "trailers": [
     {
-     "source": "EEz5xbzYPKI",
+     "source": "sptc2IcHnc4",
      "type": "Trailer"
     },
     {
-     "source": "n7f6hlKsxxo",
+     "source": "dzdpqRGA1qc",
+     "type": "Trailer"
+    },
+    {
+     "source": "1iZBw5Qybuo",
      "type": "Trailer"
     }
    ],
-   "runtime": "115 min",
-   "id": "tt27419466",
-   "genres": [
-    "Família",
-    "Fantasia",
-    "Comédia"
+   "writer": [
+    "John Hughes"
    ],
-   "releaseInfo": "2026",
+   "year": "1990",
+   "background": "https://images.metahub.space/background/medium/tt0099785/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0099785/img",
+   "id": "tt0099785",
+   "genres": [
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "1990",
    "trailerStreams": [
     {
-     "title": "Moana",
-     "ytId": "EEz5xbzYPKI"
+     "title": "Home Alone",
+     "ytId": "sptc2IcHnc4"
     },
     {
-     "title": "Moana",
-     "ytId": "n7f6hlKsxxo"
+     "title": "Home Alone",
+     "ytId": "dzdpqRGA1qc"
+    },
+    {
+     "title": "Home Alone",
+     "ytId": "1iZBw5Qybuo"
     }
    ],
    "links": [
     {
-     "name": "5.8",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt27419466"
+     "url": "https://imdb.com/title/tt0099785"
     },
     {
-     "name": "Moana",
+     "name": "Home Alone",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/moana-27419466"
+     "url": "https://www.strem.io/s/movie/home-alone-0099785"
     },
     {
-     "name": "Action",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Macaulay Culkin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Macaulay%20Culkin"
+    },
+    {
+     "name": "Joe Pesci",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joe%20Pesci"
+    },
+    {
+     "name": "Daniel Stern",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Stern"
+    },
+    {
+     "name": "John Hughes",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Hughes"
+    },
+    {
+     "name": "Chris Columbus",
+     "category": "Directors",
+     "url": "stremio:///search?search=Chris%20Columbus"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0099785",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0099785.jpg"
+  },
+  {
+   "name": "The Grinch",
+   "year": "2018",
+   "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "released": "2018-11-09T00:00:00.000Z",
+   "director": [
+    "Yarrow Cheney",
+    "Scott Mosier"
+   ],
+   "writer": [
+    "Michael LeSieur",
+    "Tommy Swerdlow",
+    "Dr. Seuss"
+   ],
+   "cast": [
+    "Benedict Cumberbatch",
+    "Cameron Seely",
+    "Rashida Jones"
+   ],
+   "imdbRating": "6.4",
+   "description": "O mal-humorado Grinch chega à conclusão que só tem uma forma de conseguir paz e sossego: roubar o Natal e acabar de vez com as celebrações dos Quem. Para levar a cabo o seu plano, Grinch disfarça-se de Pai Natal e arranja uma rena mal disfarçada...",
+   "country": "United States",
+   "trailers": [
+    {
+     "source": "_UOh0UX3alI",
+     "type": "Trailer"
+    },
+    {
+     "source": "L8LWUyUy7jM",
+     "type": "Trailer"
+    },
+    {
+     "source": "vjnqABgxfO0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt2709692/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2709692/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563/ImageRenderer/111/168/images/no_image_111x168.jpg/208498/images/masterrepository/fandango/208498/grc_tsr1sheet_grinchandmax_.jpg\" alt=\"Dr. Seuss' The Grinch (2018)\" title=\"Dr. Seuss' The Grinch (2018)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fdr.seussthegrinch2018-trailer%2f208498%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "runtime": "85 min",
+   "dvdRelease": "2019-01-22T00:00:00.000Z",
+   "awards": "2 wins & 18 nominations total",
+   "id": "tt2709692",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "The Grinch",
+     "ytId": "_UOh0UX3alI"
+    },
+    {
+     "title": "The Grinch",
+     "ytId": "L8LWUyUy7jM"
+    },
+    {
+     "title": "The Grinch",
+     "ytId": "vjnqABgxfO0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2709692"
+    },
+    {
+     "name": "The Grinch",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-grinch-2709692"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benedict%20Cumberbatch"
+    },
+    {
+     "name": "Cameron Seely",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cameron%20Seely"
+    },
+    {
+     "name": "Rashida Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rashida%20Jones"
+    },
+    {
+     "name": "Michael LeSieur",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20LeSieur"
+    },
+    {
+     "name": "Tommy Swerdlow",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tommy%20Swerdlow"
+    },
+    {
+     "name": "Dr. Seuss",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dr.%20Seuss"
+    },
+    {
+     "name": "Yarrow Cheney",
+     "category": "Directors",
+     "url": "stremio:///search?search=Yarrow%20Cheney"
+    },
+    {
+     "name": "Scott Mosier",
+     "category": "Directors",
+     "url": "stremio:///search?search=Scott%20Mosier"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2709692",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2709692.jpg"
+  },
+  {
+   "awards": "Won 1 Oscar. 99 wins & 120 nominations total",
+   "cast": [
+    "Amy Poehler",
+    "Bill Hader",
+    "Lewis Black"
+   ],
+   "country": "United States, Japan",
+   "description": "Crescer pode ser um desafio, e não é exceção para Riley, que é arrancada da sua vida no Minnesota quando o pai arranja um novo emprego em São Francisco. Como todos nós, Riley é guiada pelas suas emoções: Alegria, Medo, Raiva, Repulsa e Tristeza. As emoções vivem no Quartel-general, o centro de controlo da mente de Riley, onde ajudam a encaminhá-la no dia-a-dia. Apesar de Alegria, a emoção principal e mais importante de Riley, tentar manter tudo positivo, as emoções entram em conflito sobre como navegar por uma nova cidade, uma nova casa e uma nova escola.",
+   "director": [
+    "Ronnie Del Carmen",
+    "Pete Docter"
+   ],
+   "dvdRelease": "2015-11-03T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "8.1",
+   "name": "Inside Out",
+   "released": "2015-06-19T00:00:00.000Z",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "1HFv47QHWJU",
+     "type": "Trailer"
+    },
+    {
+     "source": "Yr3tv1hW1gg",
+     "type": "Trailer"
+    },
+    {
+     "source": "yRUAzGQ3nSY",
+     "type": "Trailer"
+    },
+    {
+     "source": "_MC3XuMvsDI",
+     "type": "Trailer"
+    },
+    {
+     "source": "1t0A_tZGrYw",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Pete Docter",
+    "Ronnie Del Carmen",
+    "Meg LeFauve"
+   ],
+   "year": "2015",
+   "background": "https://images.metahub.space/background/medium/tt2096673/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2096673/img",
+   "id": "tt2096673",
+   "genres": [
+    "Animação",
+    "Família",
+    "Aventura"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Inside Out",
+     "ytId": "1HFv47QHWJU"
+    },
+    {
+     "title": "Inside Out",
+     "ytId": "Yr3tv1hW1gg"
+    },
+    {
+     "title": "Inside Out",
+     "ytId": "yRUAzGQ3nSY"
+    },
+    {
+     "title": "Inside Out",
+     "ytId": "_MC3XuMvsDI"
+    },
+    {
+     "title": "Inside Out",
+     "ytId": "1t0A_tZGrYw"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2096673"
+    },
+    {
+     "name": "Inside Out",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/inside-out-2096673"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
     },
     {
      "name": "Adventure",
@@ -445,48 +733,170 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Dwayne Johnson",
+     "name": "Amy Poehler",
      "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
+     "url": "stremio:///search?search=Amy%20Poehler"
     },
     {
-     "name": "Catherine Laga&apos;aia",
+     "name": "Bill Hader",
      "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
+     "url": "stremio:///search?search=Bill%20Hader"
     },
     {
-     "name": "Rena Owen",
+     "name": "Lewis Black",
      "category": "Cast",
-     "url": "stremio:///search?search=Rena%20Owen"
+     "url": "stremio:///search?search=Lewis%20Black"
     },
     {
-     "name": "Jared Bush",
+     "name": "Pete Docter",
      "category": "Writers",
-     "url": "stremio:///search?search=Jared%20Bush"
+     "url": "stremio:///search?search=Pete%20Docter"
     },
     {
-     "name": "Dana Ledoux Miller",
+     "name": "Ronnie Del Carmen",
      "category": "Writers",
-     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
+     "url": "stremio:///search?search=Ronnie%20Del%20Carmen"
     },
     {
-     "name": "Ron Clements",
+     "name": "Meg LeFauve",
      "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Clements"
+     "url": "stremio:///search?search=Meg%20LeFauve"
     },
     {
-     "name": "Thomas Kail",
+     "name": "Ronnie Del Carmen",
      "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Kail"
+     "url": "stremio:///search?search=Ronnie%20Del%20Carmen"
+    },
+    {
+     "name": "Pete Docter",
+     "category": "Directors",
+     "url": "stremio:///search?search=Pete%20Docter"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27419466",
+    "defaultVideoId": "tt2096673",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2096673.jpg"
+  },
+  {
+   "cast": [
+    "Kevin Heffernan",
+    "Paul Soter",
+    "Erik Stolhanske"
+   ],
+   "country": "United States",
+   "description": "Quando o extravagante noivado indiano de Farva com a irmã de Thorny se transforma num caos, os Super Troopers têm de lidar com os planos de Thorny para acabar com a relação, enquanto tentam desmantelar uma nova e perigosa rede de tráfico de droga.",
+   "director": [
+    "Jay Chandrasekhar"
+   ],
+   "genre": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+   ],
+   "imdbRating": "5.7",
+   "name": "Super Troopers 3",
+   "released": "2026-08-07T00:00:00.000Z",
+   "writer": [
+    "Jay Chandrasekhar",
+    "Kevin Heffernan",
+    "Steve Lemme"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt8820258/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8820258/img",
+   "trailers": [
+    {
+     "source": "cYFevn5frf0",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "104 min",
+   "id": "tt8820258",
+   "genres": [
+    "Comédia",
+    "Crime",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Super Troopers 3",
+     "ytId": "cYFevn5frf0"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt8820258"
+    },
+    {
+     "name": "Super Troopers 3",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/super-troopers-3-8820258"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Kevin Heffernan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Heffernan"
+    },
+    {
+     "name": "Paul Soter",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Soter"
+    },
+    {
+     "name": "Erik Stolhanske",
+     "category": "Cast",
+     "url": "stremio:///search?search=Erik%20Stolhanske"
+    },
+    {
+     "name": "Jay Chandrasekhar",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jay%20Chandrasekhar"
+    },
+    {
+     "name": "Kevin Heffernan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kevin%20Heffernan"
+    },
+    {
+     "name": "Steve Lemme",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Lemme"
+    },
+    {
+     "name": "Jay Chandrasekhar",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jay%20Chandrasekhar"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt8820258",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8820258.jpg"
   },
   {
    "awards": "Nominated for 1 Oscar. 29 wins & 82 nominations total",
@@ -628,141 +1038,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3315342.jpg"
   },
   {
-   "name": "A Quiet Place",
-   "year": "2018",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "released": "2018-04-06T00:00:00.000Z",
-   "director": [
-    "John Krasinski"
-   ],
-   "writer": [
-    "Bryan Woods",
-    "Scott Beck",
-    "John Krasinski"
-   ],
-   "cast": [
-    "Emily Blunt",
-    "John Krasinski",
-    "Millicent Simmonds"
-   ],
-   "imdbRating": "7.5",
-   "description": "No thriller “Um Lugar Silencioso”, uma família vive em silêncio ameaçada por misteriosas criaturas que caçam através do som.",
-   "country": "United States",
-   "trailers": [
-    {
-     "source": "rqEnM25BsNQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "WR7cc5t7tv8",
-     "type": "Trailer"
-    },
-    {
-     "source": "p9wE8dyzEJE",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "91 min",
-   "background": "https://images.metahub.space/background/medium/tt6644200/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6644200/img",
-   "dvdRelease": "2018-06-26T00:00:00.000Z",
-   "awards": "Nominated for 1 Oscar. 38 wins & 129 nominations total",
-   "id": "tt6644200",
-   "genres": [
-    "Terror",
-    "Drama",
-    "Ficção científica"
-   ],
-   "releaseInfo": "2018",
-   "trailerStreams": [
-    {
-     "title": "A Quiet Place",
-     "ytId": "rqEnM25BsNQ"
-    },
-    {
-     "title": "A Quiet Place",
-     "ytId": "WR7cc5t7tv8"
-    },
-    {
-     "title": "A Quiet Place",
-     "ytId": "p9wE8dyzEJE"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6644200"
-    },
-    {
-     "name": "A Quiet Place",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/a-quiet-place-6644200"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Emily Blunt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Blunt"
-    },
-    {
-     "name": "John Krasinski",
-     "category": "Cast",
-     "url": "stremio:///search?search=John%20Krasinski"
-    },
-    {
-     "name": "Millicent Simmonds",
-     "category": "Cast",
-     "url": "stremio:///search?search=Millicent%20Simmonds"
-    },
-    {
-     "name": "Bryan Woods",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Woods"
-    },
-    {
-     "name": "Scott Beck",
-     "category": "Writers",
-     "url": "stremio:///search?search=Scott%20Beck"
-    },
-    {
-     "name": "John Krasinski",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Krasinski"
-    },
-    {
-     "name": "John Krasinski",
-     "category": "Directors",
-     "url": "stremio:///search?search=John%20Krasinski"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt6644200",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6644200.jpg"
-  },
-  {
    "name": "Hidden Figures",
    "trailers": [
     {
@@ -885,385 +1160,23 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4846340.jpg"
   },
   {
-   "awards": "4 wins & 5 nominations total",
-   "cast": [
-    "Sandra Bullock",
-    "Bill Pullman",
-    "Peter Gallagher"
-   ],
-   "country": "United States",
-   "description": "Desde Uma Linda Mulher não acontecia uma comédia romântica tão encantadora e com tanto charme! Lucy, uma solitária funcionária do metrô, é apaixonada por um homem muito bonito que só vê de longe. Depois que salva sua vida num acidente, todos pensam que ela é a noiva dele, porque inconcientemente ela inventa uma mentira no hospital. De repente, Lucy encontra-se nos braços carinhosos da família dele e apaixonando-se pelo irmão, Jack. Mas quando o doente acorda do coma, Lucy percebe que se encontra na pior situação de sua vida! Aplaudido pela crítica e audiência do mundo inteiro, Enquanto Você Dormia é sem dúvida a melhor comédia romântica do ano!",
-   "director": [
-    "Jon Turteltaub"
-   ],
-   "dvdRelease": "2014-01-01T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "6.8",
-   "name": "While You Were Sleeping",
-   "released": "1995-04-21T00:00:00.000Z",
-   "runtime": "103 min",
-   "trailers": [
-    {
-     "source": "nsJxyUvkB_E",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Daniel G. Sullivan",
-    "Fred Lebow"
-   ],
-   "year": "1995",
-   "background": "https://images.metahub.space/background/medium/tt0114924/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0114924/img",
-   "id": "tt0114924",
-   "genres": [
-    "Romance",
-    "Comédia"
-   ],
-   "releaseInfo": "1995",
-   "trailerStreams": [
-    {
-     "title": "While You Were Sleeping",
-     "ytId": "nsJxyUvkB_E"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0114924"
-    },
-    {
-     "name": "While You Were Sleeping",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/while-you-were-sleeping-0114924"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Sandra Bullock",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sandra%20Bullock"
-    },
-    {
-     "name": "Bill Pullman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bill%20Pullman"
-    },
-    {
-     "name": "Peter Gallagher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Peter%20Gallagher"
-    },
-    {
-     "name": "Daniel G. Sullivan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20G.%20Sullivan"
-    },
-    {
-     "name": "Fred Lebow",
-     "category": "Writers",
-     "url": "stremio:///search?search=Fred%20Lebow"
-    },
-    {
-     "name": "Jon Turteltaub",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jon%20Turteltaub"
-    }
-   ],
+   "id": "tt46027225",
    "behaviorHints": {
-    "defaultVideoId": "tt0114924",
     "hasScheduledVideos": false
    },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0114924.jpg"
-  },
-  {
-   "name": "Coco",
-   "year": "2017",
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Drama"
-   ],
-   "released": "2017-11-22T00:00:00.000Z",
-   "director": [
-    "Adrian Molina",
-    "Lee Unkrich"
-   ],
-   "writer": [
-    "Lee Unkrich",
-    "Jason Katz",
-    "Matthew Aldrich"
-   ],
    "cast": [
-    "Anthony Gonzalez",
-    "Gael García Bernal",
-    "Benjamin Bratt"
+    "Mariana van Zeller"
    ],
-   "imdbRating": "8.4",
-   "description": "Miguel é um menino de 12 anos que sonha vir a ser um músico famoso, mas que vive contrariado pela família. Ainda assim, Miguel vive com a determinação de tornar o seu sonho em realidade e pelo caminho acaba desencadeando uma série de acontecimentos ligados a um mistério de 100 anos...",
-   "country": "United States, Mexico, Japan",
-   "trailers": [
-    {
-     "source": "Rvr68u6k5sI",
-     "type": "Trailer"
-    },
-    {
-     "source": "bvomHFZO0mk",
-     "type": "Trailer"
-    },
-    {
-     "source": "xlnPHQ3TLX8",
-     "type": "Trailer"
-    },
-    {
-     "source": "zNCz4mQzfEI",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "105 min",
-   "awards": "Won 2 Oscars. 113 wins & 42 nominations total",
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fcoco2017_185799%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fcoco2017_185799%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.695/ImageRenderer/111/168/images/no_image_111x168.jpg/185799/images/masterrepository/fandango/185799/coco_dom-payoff_v110_mech6.jpg\" alt=\"Coco (2017)\" title=\"Coco (2017)\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fcoco2017_185799%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.695//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fcoco2017-trailer%2f185799%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "dvdRelease": "2018-02-13T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt2380307/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2380307/img",
-   "id": "tt2380307",
-   "genres": [
-    "Família",
-    "Animação",
-    "Música"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Coco",
-     "ytId": "Rvr68u6k5sI"
-    },
-    {
-     "title": "Coco",
-     "ytId": "bvomHFZO0mk"
-    },
-    {
-     "title": "Coco",
-     "ytId": "xlnPHQ3TLX8"
-    },
-    {
-     "title": "Coco",
-     "ytId": "zNCz4mQzfEI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2380307"
-    },
-    {
-     "name": "Coco",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/coco-2380307"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Anthony Gonzalez",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anthony%20Gonzalez"
-    },
-    {
-     "name": "Gael García Bernal",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gael%20Garc%C3%ADa%20Bernal"
-    },
-    {
-     "name": "Benjamin Bratt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benjamin%20Bratt"
-    },
-    {
-     "name": "Lee Unkrich",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lee%20Unkrich"
-    },
-    {
-     "name": "Jason Katz",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jason%20Katz"
-    },
-    {
-     "name": "Matthew Aldrich",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20Aldrich"
-    },
-    {
-     "name": "Adrian Molina",
-     "category": "Directors",
-     "url": "stremio:///search?search=Adrian%20Molina"
-    },
-    {
-     "name": "Lee Unkrich",
-     "category": "Directors",
-     "url": "stremio:///search?search=Lee%20Unkrich"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt2380307",
-    "hasScheduledVideos": false
-   },
    "type": "movie",
+   "name": "Super Scam Me",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2380307.jpg"
-  },
-  {
-   "awards": "Nominated for 2 Oscars. 13 wins & 8 nominations total",
-   "cast": [
-    "Macaulay Culkin",
-    "Joe Pesci",
-    "Daniel Stern"
-   ],
-   "country": "United States",
-   "description": "Kevin McCallister, de oito anos, torna-se, da noite para o dia, o homem da casa! Deixado acidentalmente para trás pela sua família nas férias de Natal, Kevin ocupa-se a decorar a casa, mas não com luzes e azevinho. Dois ladrões desastrados tentam assaltar a casa e Kevin monta uma quantidade impressionante de armadilhas para lhes dar as boas-vindas!",
-   "director": [
-    "Chris Columbus"
-   ],
-   "dvdRelease": "2013-03-01T00:00:00.000Z",
-   "genre": [
-    "Comedy",
-    "Family"
-   ],
-   "imdbRating": "7.8",
-   "name": "Home Alone",
-   "released": "1990-11-16T00:00:00.000Z",
-   "runtime": "103 min",
-   "trailers": [
-    {
-     "source": "sptc2IcHnc4",
-     "type": "Trailer"
-    },
-    {
-     "source": "dzdpqRGA1qc",
-     "type": "Trailer"
-    },
-    {
-     "source": "1iZBw5Qybuo",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "John Hughes"
-   ],
-   "year": "1990",
-   "background": "https://images.metahub.space/background/medium/tt0099785/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0099785/img",
-   "id": "tt0099785",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46027225.jpg",
+   "description": "Em 2025, golpistas do amor roubaram mais de 1 bilhão de dólares de vítimas nos EUA. A premiada jornalista Mariana van Zeller quer descobrir como eles agem. Para isso, ela se infiltra e se torna o alvo de um golpe.",
+   "releaseInfo": "2026",
    "genres": [
-    "Comédia",
-    "Família"
+    "Documentário"
    ],
-   "releaseInfo": "1990",
-   "trailerStreams": [
-    {
-     "title": "Home Alone",
-     "ytId": "sptc2IcHnc4"
-    },
-    {
-     "title": "Home Alone",
-     "ytId": "dzdpqRGA1qc"
-    },
-    {
-     "title": "Home Alone",
-     "ytId": "1iZBw5Qybuo"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0099785"
-    },
-    {
-     "name": "Home Alone",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/home-alone-0099785"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Macaulay Culkin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Macaulay%20Culkin"
-    },
-    {
-     "name": "Joe Pesci",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Pesci"
-    },
-    {
-     "name": "Daniel Stern",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Stern"
-    },
-    {
-     "name": "John Hughes",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Hughes"
-    },
-    {
-     "name": "Chris Columbus",
-     "category": "Directors",
-     "url": "stremio:///search?search=Chris%20Columbus"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0099785",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0099785.jpg"
+   "imdbRating": "6.5"
   }
  ]
 }

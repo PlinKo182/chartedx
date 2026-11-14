@@ -112,43 +112,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
-   "name": "Masterplan",
+   "name": "In the Grey",
    "cast": [
-    "Stanley Tucci",
-    "Victor Belmondo",
-    "Simona Tabasco"
+    "Henry Cavill",
+    "Jake Gyllenhaal",
+    "Eiza González"
    ],
-   "country": "France, Italy",
-   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
+   "country": "United Kingdom, United States",
+   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
    "director": [
-    "Thomas Vincent"
+    "Guy Ritchie"
    ],
    "genre": [
     "Action",
-    "Comedy",
-    "Crime"
+    "Crime",
+    "Thriller"
    ],
-   "imdbRating": "5.4",
-   "released": "2026-10-16T00:00:00.000Z",
+   "imdbRating": "6.3",
+   "released": "2026-05-15T00:00:00.000Z",
    "writer": [
-    "Giacomo Durzi",
-    "Alessandro Fabbri",
-    "Alberto Vignati"
+    "Guy Ritchie"
    ],
    "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt38672588/img",
-   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
-   "id": "tt38672588",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "nufP15iN4GE",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt27681354/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
+   "id": "tt27681354",
    "genres": [
     "Ação",
     "Thriller"
    ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "In the Grey",
+     "ytId": "nufP15iN4GE"
+    }
+   ],
    "links": [
     {
-     "name": "Masterplan",
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27681354"
+    },
+    {
+     "name": "In the Grey",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/masterplan-38672588"
+     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
     },
     {
      "name": "Action",
@@ -156,58 +172,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
      "name": "Crime",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Stanley Tucci",
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Henry Cavill",
      "category": "Cast",
-     "url": "stremio:///search?search=Stanley%20Tucci"
+     "url": "stremio:///search?search=Henry%20Cavill"
     },
     {
-     "name": "Victor Belmondo",
+     "name": "Jake Gyllenhaal",
      "category": "Cast",
-     "url": "stremio:///search?search=Victor%20Belmondo"
+     "url": "stremio:///search?search=Jake%20Gyllenhaal"
     },
     {
-     "name": "Simona Tabasco",
+     "name": "Eiza González",
      "category": "Cast",
-     "url": "stremio:///search?search=Simona%20Tabasco"
+     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
     },
     {
-     "name": "Giacomo Durzi",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Giacomo%20Durzi"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     },
     {
-     "name": "Alessandro Fabbri",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Fabbri"
-    },
-    {
-     "name": "Alberto Vignati",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alberto%20Vignati"
-    },
-    {
-     "name": "Thomas Vincent",
+     "name": "Guy Ritchie",
      "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Vincent"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt38672588",
+    "defaultVideoId": "tt27681354",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
   },
   {
    "awards": "Nominated for 1 Oscar. 10 wins & 38 nominations total",
@@ -333,143 +339,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1392214.jpg"
   },
   {
-   "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
-   "cast": [
-    "Jodie Foster",
-    "Anthony Hopkins",
-    "Scott Glenn"
-   ],
-   "country": "United States",
-   "description": "Clarice Starling, uma jovem agente do FBI, é destacada para encontrar uma mulher raptada e salvá-la de um psicopata homicida que anda a criar o pânico. Para perceber a mente do assassino, Clarice vai procurar outro género de assassino, o brilhante mas demente Hannibal Lecter, que poderá fornecer pistas para acabar com as mortes. Mas Hannibal, um psiquiatra condenado por ser um assassino canibal, só concorda ajudar Clarice se esta lhe abrir a sua vida e os seus pormenores intímos...",
-   "director": [
-    "Jonathan Demme"
-   ],
-   "dvdRelease": "2015-08-27T00:00:00.000Z",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Horror"
-   ],
-   "imdbRating": "8.6",
-   "name": "The Silence of the Lambs",
-   "released": "1991-02-14T00:00:00.000Z",
-   "runtime": "119 min",
-   "trailers": [
-    {
-     "source": "6iB21hsprAQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "Msigx2eqO6s",
-     "type": "Trailer"
-    },
-    {
-     "source": "gSQciiKhqXc",
-     "type": "Trailer"
-    },
-    {
-     "source": "W6Mm8Sbe__o",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Thomas Harris",
-    "Ted Tally"
-   ],
-   "year": "1991",
-   "background": "https://images.metahub.space/background/medium/tt0102926/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0102926/img",
-   "id": "tt0102926",
-   "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "1991",
-   "trailerStreams": [
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "6iB21hsprAQ"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "Msigx2eqO6s"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "gSQciiKhqXc"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "W6Mm8Sbe__o"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0102926"
-    },
-    {
-     "name": "The Silence of the Lambs",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-silence-of-the-lambs-0102926"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Jodie Foster",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jodie%20Foster"
-    },
-    {
-     "name": "Anthony Hopkins",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anthony%20Hopkins"
-    },
-    {
-     "name": "Scott Glenn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Scott%20Glenn"
-    },
-    {
-     "name": "Thomas Harris",
-     "category": "Writers",
-     "url": "stremio:///search?search=Thomas%20Harris"
-    },
-    {
-     "name": "Ted Tally",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ted%20Tally"
-    },
-    {
-     "name": "Jonathan Demme",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Demme"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0102926",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0102926.jpg"
-  },
-  {
    "name": "Animals",
    "cast": [
     "Gillian Anderson",
@@ -589,59 +458,43 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "In the Grey",
+   "name": "Masterplan",
    "cast": [
-    "Henry Cavill",
-    "Jake Gyllenhaal",
-    "Eiza González"
+    "Stanley Tucci",
+    "Victor Belmondo",
+    "Simona Tabasco"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Uma equipa secreta de operacionais de elite vive nas sombras do mundo, tão à vontade a exercer poder e influência como a manusear armas automáticas e explosivos. Quando um déspota implacável rouba uma fortuna de mil milhões de dólares, a equipa é enviada para a recuperar numa missão que, para qualquer outra pessoa, seria suicida. O que começa como um assalto impossível rapidamente se complica, transformando-se numa guerra total de estratégia, engano e sobrevivência.",
+   "country": "France, Italy",
+   "description": "Quando um ladrão lendário decide roubar a Mona Lisa, ele recruta dois jovens para ajudá-lo: Chiara, especialista italiana em crimes cibernéticos, e Jay, especialista francês em explosivos. Eles só não sabem que ele é pai dos dois. Em meio a um reencontro caótico, a nova família terá que aprender a trabalhar em equipe – e tentar não se matar - se quiser ter chances de realizar o roubo do século.",
    "director": [
-    "Guy Ritchie"
+    "Thomas Vincent"
    ],
    "genre": [
     "Action",
-    "Crime",
-    "Thriller"
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "6.3",
-   "released": "2026-05-15T00:00:00.000Z",
+   "imdbRating": "5.4",
+   "released": "2026-10-16T00:00:00.000Z",
    "writer": [
-    "Guy Ritchie"
+    "Giacomo Durzi",
+    "Alessandro Fabbri",
+    "Alberto Vignati"
    ],
    "year": "2026",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "nufP15iN4GE",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt27681354/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27681354/img",
-   "id": "tt27681354",
+   "background": "https://images.metahub.space/background/medium/tt38672588/img",
+   "logo": "https://images.metahub.space/logo/medium/tt38672588/img",
+   "id": "tt38672588",
    "genres": [
     "Ação",
     "Thriller"
    ],
    "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "In the Grey",
-     "ytId": "nufP15iN4GE"
-    }
-   ],
    "links": [
     {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27681354"
-    },
-    {
-     "name": "In the Grey",
+     "name": "Masterplan",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/in-the-grey-27681354"
+     "url": "https://www.strem.io/s/movie/masterplan-38672588"
     },
     {
      "name": "Action",
@@ -649,48 +502,148 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
      "name": "Crime",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Henry Cavill",
+     "name": "Stanley Tucci",
      "category": "Cast",
-     "url": "stremio:///search?search=Henry%20Cavill"
+     "url": "stremio:///search?search=Stanley%20Tucci"
     },
     {
-     "name": "Jake Gyllenhaal",
+     "name": "Victor Belmondo",
      "category": "Cast",
-     "url": "stremio:///search?search=Jake%20Gyllenhaal"
+     "url": "stremio:///search?search=Victor%20Belmondo"
     },
     {
-     "name": "Eiza González",
+     "name": "Simona Tabasco",
      "category": "Cast",
-     "url": "stremio:///search?search=Eiza%20Gonz%C3%A1lez"
+     "url": "stremio:///search?search=Simona%20Tabasco"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Giacomo Durzi",
      "category": "Writers",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Giacomo%20Durzi"
     },
     {
-     "name": "Guy Ritchie",
+     "name": "Alessandro Fabbri",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alessandro%20Fabbri"
+    },
+    {
+     "name": "Alberto Vignati",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alberto%20Vignati"
+    },
+    {
+     "name": "Thomas Vincent",
      "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Ritchie"
+     "url": "stremio:///search?search=Thomas%20Vincent"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27681354",
+    "defaultVideoId": "tt38672588",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27681354.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg"
+  },
+  {
+   "name": "Balas & Bolinhos",
+   "year": "2001",
+   "runtime": "62 min",
+   "genre": [
+    "Comedy",
+    "Crime"
+   ],
+   "released": "2001-02-23T00:00:00.000Z",
+   "director": [
+    "Luis Ismael"
+   ],
+   "writer": [
+    "Luis Ismael"
+   ],
+   "cast": [
+    "Jorge Neto",
+    "Luis Ismael",
+    "J.D. Duarte"
+   ],
+   "imdbRating": "6.3",
+   "description": "Tone, a mente brilhante do crime, saiu da prisão e voltou cheio de ideias. Depois de reunir os seus antigos companheiros, tudo está preparado para o golpe final. Desta vez é que vai ser... Vai haver dinheiro a jorrar por todos os lados...  E porque o Tone é demais, os seus companheiros seguem à risca o plano, sem mais questões! O resultado... só vendo para crer!",
+   "country": "Portugal",
+   "awards": null,
+   "dvdRelease": null,
+   "trailers": [],
+   "background": "https://images.metahub.space/background/medium/tt0414850/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0414850/img",
+   "id": "tt0414850",
+   "genres": [
+    "Comédia",
+    "Crime"
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0414850"
+    },
+    {
+     "name": "Balas & Bolinhos",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/balas-bolinhos-0414850"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Jorge Neto",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jorge%20Neto"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Cast",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "J.D. Duarte",
+     "category": "Cast",
+     "url": "stremio:///search?search=J.D.%20Duarte"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Writers",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Directors",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0414850",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414850.jpg"
   },
   {
    "name": "The Drama",
@@ -807,59 +760,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
   },
   {
-   "awards": "Nominated for 3 Oscars. 16 wins & 12 nominations total",
-   "cast": [
-    "Henry Fonda",
-    "Lee J. Cobb",
-    "Martin Balsam"
-   ],
-   "country": "United States",
-   "description": "O júri de um julgamento por homicídio na cidade de Nova Iorque sente-se frustrado por causa de um único membro, cuja cautela céptica os obriga a analisar as provas com mais cuidado antes de chegarem a um veredicto precipitado.",
-   "director": [
-    "Sidney Lumet"
-   ],
-   "dvdRelease": "2012-04-04T00:00:00.000Z",
+   "name": "Peaky Blinders: The Immortal Man",
+   "country": "United Kingdom, France, United States",
+   "description": "Quando o filho, de quem estava afastado, se envolve numa conspiração nazi, o autoexilado gângster Tommy Shelby regressa a Birmingham para salvar a família e a pátria.",
    "genre": [
     "Crime",
-    "Drama"
+    "Drama",
+    "History"
    ],
-   "imdbRating": "9.0",
-   "name": "12 Angry Men",
-   "released": "1957-04-10T00:00:00.000Z",
-   "runtime": "97 min",
+   "imdbRating": "6.5",
+   "released": "2026-03-20T00:00:00.000Z",
+   "year": "2026",
+   "cast": [
+    "Cillian Murphy",
+    "Rebecca Ferguson",
+    "Tim Roth"
+   ],
+   "director": [
+    "Tom Harper"
+   ],
+   "writer": [
+    "Steven Knight"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt15574124/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15574124/img",
+   "runtime": "112 min",
    "trailers": [
     {
-     "source": "TEN-2uTi2c0",
+     "source": "lcvUGs3xaDM",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Reginald Rose"
-   ],
-   "year": "1957",
-   "background": "https://images.metahub.space/background/medium/tt0050083/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0050083/img",
-   "id": "tt0050083",
+   "awards": "1 win & 5 nominations total",
+   "id": "tt15574124",
    "genres": [
+    "Crime",
     "Drama"
    ],
-   "releaseInfo": "1957",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "12 Angry Men",
-     "ytId": "TEN-2uTi2c0"
+     "title": "Peaky Blinders: The Immortal Man",
+     "ytId": "lcvUGs3xaDM"
     }
    ],
    "links": [
     {
-     "name": "9.0",
+     "name": "6.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0050083"
+     "url": "https://imdb.com/title/tt15574124"
     },
     {
-     "name": "12 Angry Men",
+     "name": "Peaky Blinders: The Immortal Man",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/12-angry-men-0050083"
+     "url": "https://www.strem.io/s/movie/peaky-blinders-the-immortal-man-15574124"
     },
     {
      "name": "Crime",
@@ -872,112 +826,99 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Henry Fonda",
-     "category": "Cast",
-     "url": "stremio:///search?search=Henry%20Fonda"
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
     },
     {
-     "name": "Lee J. Cobb",
+     "name": "Cillian Murphy",
      "category": "Cast",
-     "url": "stremio:///search?search=Lee%20J.%20Cobb"
+     "url": "stremio:///search?search=Cillian%20Murphy"
     },
     {
-     "name": "Martin Balsam",
+     "name": "Rebecca Ferguson",
      "category": "Cast",
-     "url": "stremio:///search?search=Martin%20Balsam"
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
     },
     {
-     "name": "Reginald Rose",
+     "name": "Tim Roth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Roth"
+    },
+    {
+     "name": "Steven Knight",
      "category": "Writers",
-     "url": "stremio:///search?search=Reginald%20Rose"
+     "url": "stremio:///search?search=Steven%20Knight"
     },
     {
-     "name": "Sidney Lumet",
+     "name": "Tom Harper",
      "category": "Directors",
-     "url": "stremio:///search?search=Sidney%20Lumet"
+     "url": "stremio:///search?search=Tom%20Harper"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0050083",
+    "defaultVideoId": "tt15574124",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0050083.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15574124.jpg"
   },
   {
-   "awards": "Won 2 Oscars. 37 wins & 17 nominations total",
    "cast": [
-    "Kevin Spacey",
-    "Gabriel Byrne",
-    "Chazz Palminteri"
+    "Jorge Neto",
+    "Luis Ismael",
+    "J.D. Duarte"
    ],
-   "country": "United States, Germany",
-   "description": "Após uma explosão, a polícia conta 27 corpos e há apenas duas testemunhas: um húngaro em estado crítico e um conhecido ladrão, portador de um defeito físico, que testemunhou o ocorrido no cais e saiu completamente ileso. Quando os dois dão os seus depoimentos, fica clara a participação de Keyser Soze, um húngaro misterioso e impiedoso, como o homem que foi o mentor intelectual de um golpe contra um grupo de traficantes de drogas da Argentina. O prémio pelos sobreviventes que desapareceram foi estipulado em 91 milhões de dólares e o delegado encarregado das investigações acha que falta algo no caso para que seja possível saber quem é Keyser Soze.",
+   "country": "Portugal",
+   "description": "Rato está com problemas de dinheiro. Culatra anda teso e com problemas. Mas um dia descobrem a solução para todos os seus males... roubar o mapa de um tesouro, o que vai despoletar novamente uma série de confusões ...  É preciso reunir o grupo, mas falta um líder. Tone está de regresso para comandar a legião dos \"duros\". Contra tudo e contra todos.",
    "director": [
-    "Bryan Singer"
+    "Luis Ismael"
    ],
-   "dvdRelease": "2015-08-27T00:00:00.000Z",
    "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
+    "Adventure",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "8.5",
-   "name": "The Usual Suspects",
-   "released": "1995-08-16T00:00:00.000Z",
-   "runtime": "106 min",
-   "trailers": [
-    {
-     "source": "jM3jrHGAsIE",
-     "type": "Trailer"
-    },
-    {
-     "source": "byMcINu1G5M",
-     "type": "Trailer"
-    },
-    {
-     "source": "x3t0Nc6fg7w",
-     "type": "Trailer"
-    }
-   ],
+   "imdbRating": "6.9",
+   "name": "Balas & Bolinhos - O Regresso",
+   "released": "2004-09-30T00:00:00.000Z",
+   "runtime": "108 min",
    "writer": [
-    "Christopher McQuarrie"
+    "Luis Ismael"
    ],
-   "year": "1995",
-   "background": "https://images.metahub.space/background/medium/tt0114814/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0114814/img",
-   "id": "tt0114814",
+   "year": "2004",
+   "trailers": [],
+   "background": "https://images.metahub.space/background/medium/tt0414851/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0414851/img",
+   "id": "tt0414851",
    "genres": [
-    "Drama",
+    "Aventura",
     "Crime",
-    "Thriller"
+    "Comédia"
    ],
-   "releaseInfo": "1995",
-   "trailerStreams": [
-    {
-     "title": "The Usual Suspects",
-     "ytId": "jM3jrHGAsIE"
-    },
-    {
-     "title": "The Usual Suspects",
-     "ytId": "byMcINu1G5M"
-    },
-    {
-     "title": "The Usual Suspects",
-     "ytId": "x3t0Nc6fg7w"
-    }
-   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [],
    "links": [
     {
-     "name": "8.5",
+     "name": "6.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0114814"
+     "url": "https://imdb.com/title/tt0414851"
     },
     {
-     "name": "The Usual Suspects",
+     "name": "Balas & Bolinhos - O Regresso",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-usual-suspects-0114814"
+     "url": "https://www.strem.io/s/movie/balas-bolinhos-o-regresso-0414851"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
      "name": "Crime",
@@ -985,115 +926,116 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Kevin Spacey",
+     "name": "Jorge Neto",
      "category": "Cast",
-     "url": "stremio:///search?search=Kevin%20Spacey"
+     "url": "stremio:///search?search=Jorge%20Neto"
     },
     {
-     "name": "Gabriel Byrne",
+     "name": "Luis Ismael",
      "category": "Cast",
-     "url": "stremio:///search?search=Gabriel%20Byrne"
+     "url": "stremio:///search?search=Luis%20Ismael"
     },
     {
-     "name": "Chazz Palminteri",
+     "name": "J.D. Duarte",
      "category": "Cast",
-     "url": "stremio:///search?search=Chazz%20Palminteri"
+     "url": "stremio:///search?search=J.D.%20Duarte"
     },
     {
-     "name": "Christopher McQuarrie",
+     "name": "Luis Ismael",
      "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20McQuarrie"
+     "url": "stremio:///search?search=Luis%20Ismael"
     },
     {
-     "name": "Bryan Singer",
+     "name": "Luis Ismael",
      "category": "Directors",
-     "url": "stremio:///search?search=Bryan%20Singer"
+     "url": "stremio:///search?search=Luis%20Ismael"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0114814",
+    "defaultVideoId": "tt0414851",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0114814.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414851.jpg"
   },
   {
-   "awards": "5 wins & 10 nominations total",
    "cast": [
-    "Woody Harrelson",
-    "Juliette Lewis",
-    "O-Lan Jones"
+    "Matthew McConaughey",
+    "Charlie Hunnam",
+    "Michelle Dockery"
    ],
-   "country": "United States",
-   "description": "Mickey e Mallory Knox são dois assassinos que percorrem a Route 66, provocando um banho de sangue no seu caminho. A polícia esforça-se para conseguir detê-los, mas as dificuldades são tantas que levam à morte de muitos agentes.",
+   "country": "United States, United Kingdom",
+   "description": "A história do expatriado americano Mickey Pearson, um homem que criou um império de marijuana altamente lucrativo em Londres. Quando começa a constar que ele está a tentar lucrar com os negócios para se poder reformar, desencadeiam-se conspirações, esquemas, suborno e chantagem, na tentativa de sabotar o seu domínio.",
    "director": [
-    "Oliver Stone"
+    "Guy Ritchie"
    ],
-   "dvdRelease": "2015-05-08T00:00:00.000Z",
    "genre": [
-    "Crime",
-    "Romance"
+    "Action",
+    "Comedy",
+    "Crime"
    ],
-   "imdbRating": "7.2",
-   "name": "Natural Born Killers",
-   "released": "1994-08-26T00:00:00.000Z",
-   "runtime": "119 min",
+   "imdbRating": "7.8",
+   "name": "The Gentlemen",
+   "released": "2020-01-24T00:00:00.000Z",
+   "writer": [
+    "Guy Ritchie",
+    "Ivan Atkinson",
+    "Marn Davies"
+   ],
+   "year": "2020",
    "trailers": [
     {
-     "source": "Quh24cn7-E8",
+     "source": "KlXsguV9g0E",
      "type": "Trailer"
     },
     {
-     "source": "PgxH1-yeWNI",
+     "source": "2B0RpUGss2c",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Quentin Tarantino",
-    "David Veloz",
-    "Richard Rutowski"
-   ],
-   "year": "1994",
-   "background": "https://images.metahub.space/background/medium/tt0110632/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0110632/img",
-   "id": "tt0110632",
+   "background": "https://images.metahub.space/background/medium/tt8367814/img",
+   "logo": "https://images.metahub.space/logo/medium/tt8367814/img",
+   "runtime": "113 min",
+   "awards": "1 win & 4 nominations total",
+   "dvdRelease": "2020-03-24T00:00:00.000Z",
+   "id": "tt8367814",
    "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
+    "Ação",
+    "Comédia",
+    "Crime"
    ],
-   "releaseInfo": "1994",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "Natural Born Killers",
-     "ytId": "Quh24cn7-E8"
+     "title": "The Gentlemen",
+     "ytId": "KlXsguV9g0E"
     },
     {
-     "title": "Natural Born Killers",
-     "ytId": "PgxH1-yeWNI"
+     "title": "The Gentlemen",
+     "ytId": "2B0RpUGss2c"
     }
    ],
    "links": [
     {
-     "name": "7.2",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0110632"
+     "url": "https://imdb.com/title/tt8367814"
     },
     {
-     "name": "Natural Born Killers",
+     "name": "The Gentlemen",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/natural-born-killers-0110632"
+     "url": "https://www.strem.io/s/movie/the-gentlemen-8367814"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
      "name": "Crime",
@@ -1101,53 +1043,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Woody Harrelson",
+     "name": "Matthew McConaughey",
      "category": "Cast",
-     "url": "stremio:///search?search=Woody%20Harrelson"
+     "url": "stremio:///search?search=Matthew%20McConaughey"
     },
     {
-     "name": "Juliette Lewis",
+     "name": "Charlie Hunnam",
      "category": "Cast",
-     "url": "stremio:///search?search=Juliette%20Lewis"
+     "url": "stremio:///search?search=Charlie%20Hunnam"
     },
     {
-     "name": "O-Lan Jones",
+     "name": "Michelle Dockery",
      "category": "Cast",
-     "url": "stremio:///search?search=O-Lan%20Jones"
+     "url": "stremio:///search?search=Michelle%20Dockery"
     },
     {
-     "name": "Quentin Tarantino",
+     "name": "Guy Ritchie",
      "category": "Writers",
-     "url": "stremio:///search?search=Quentin%20Tarantino"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     },
     {
-     "name": "David Veloz",
+     "name": "Ivan Atkinson",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20Veloz"
+     "url": "stremio:///search?search=Ivan%20Atkinson"
     },
     {
-     "name": "Richard Rutowski",
+     "name": "Marn Davies",
      "category": "Writers",
-     "url": "stremio:///search?search=Richard%20Rutowski"
+     "url": "stremio:///search?search=Marn%20Davies"
     },
     {
-     "name": "Oliver Stone",
+     "name": "Guy Ritchie",
      "category": "Directors",
-     "url": "stremio:///search?search=Oliver%20Stone"
+     "url": "stremio:///search?search=Guy%20Ritchie"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0110632",
+    "defaultVideoId": "tt8367814",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0110632.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8367814.jpg"
   }
  ]
 }

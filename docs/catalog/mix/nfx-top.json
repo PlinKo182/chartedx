@@ -64,7 +64,7 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50817930.jpg",
-   "imdbRating": "4.9"
+   "imdbRating": "5.6"
   },
   {
    "name": "The Empress",
@@ -165,6 +165,144 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
   },
   {
+   "name": "Bara till jul",
+   "cast": [
+    "Felice Jankell",
+    "Happy Jankell",
+    "Christian Fandango Sundgren"
+   ],
+   "country": "Sweden",
+   "director": [
+    "Adam Pålsson"
+   ],
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "5.5",
+   "released": null,
+   "writer": [
+    "Christin Magdu",
+    "Eleonor Sager",
+    "Mikael Syrén"
+   ],
+   "year": "2026",
+   "runtime": "103 min",
+   "logo": "https://images.metahub.space/logo/medium/tt39313557/img",
+   "background": "https://images.metahub.space/background/medium/tt39313557/img",
+   "id": "tt39313557",
+   "genres": [
+    "Romance",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Bara till jul",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/bara-till-jul-39313557"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Felice Jankell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Felice%20Jankell"
+    },
+    {
+     "name": "Happy Jankell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Happy%20Jankell"
+    },
+    {
+     "name": "Christian Fandango Sundgren",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christian%20Fandango%20Sundgren"
+    },
+    {
+     "name": "Christin Magdu",
+     "category": "Writers",
+     "url": "stremio:///search?search=Christin%20Magdu"
+    },
+    {
+     "name": "Eleonor Sager",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eleonor%20Sager"
+    },
+    {
+     "name": "Mikael Syrén",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mikael%20Syr%C3%A9n"
+    },
+    {
+     "name": "Adam Pålsson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Adam%20P%C3%A5lsson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39313557",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39313557.jpg",
+   "description": "No Natal, uma rapariga da cidade, habituada a trabalhar muito e a divertir-se ainda mais, troca de vida com a pacata irmã… e acaba por desembrulhar uma grande confusão."
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
    "name": "Minha Amiga",
    "cast": [
     "Albano Jerónimo",
@@ -251,142 +389,350 @@
    "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
   },
   {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
+   "cast": [
+    "Sara Boustany",
+    "Bella Neuspiel",
+    "Al Sapienza"
    ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
+   "country": "United States",
+   "description": "Depois que sua iniciação na dança dá errado, um grupo de garotas indisciplinadas de um colégio católico começa a ter visões proféticas que deixam a cidade toda em pânico.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "7.5",
+   "name": "The Body",
+   "released": "2026-11-11T00:00:00.000Z",
+   "writer": [
+    "Quinn Shephard"
+   ],
+   "year": "2026–",
+   "runtime": null,
+   "status": "Upcoming",
    "trailers": [
     {
-     "source": "ga0iTWXCGa0",
+     "source": "wl7uj7n7DoY",
      "type": "Trailer"
     }
    ],
-   "cast": [
-    "Omar Sy"
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt8014982/img",
+   "background": "https://images.metahub.space/background/medium/tt8014982/img",
+   "id": "tt8014982",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "credits_cast": [
+   "releaseInfo": "2026",
+   "trailerStreams": [
     {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
+     "title": "The Body",
+     "ytId": "wl7uj7n7DoY"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "links": [
+    {
+     "name": "The Body",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-body-8014982"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Sara Boustany",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sara%20Boustany"
+    },
+    {
+     "name": "Bella Neuspiel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bella%20Neuspiel"
+    },
+    {
+     "name": "Al Sapienza",
+     "category": "Cast",
+     "url": "stremio:///search?search=Al%20Sapienza"
+    },
+    {
+     "name": "Quinn Shephard",
+     "category": "Writers",
+     "url": "stremio:///search?search=Quinn%20Shephard"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
   },
   {
-   "name": "Bara till jul",
+   "name": "Never Surrender",
    "cast": [
-    "Felice Jankell",
-    "Happy Jankell",
-    "Christian Fandango Sundgren"
+    "Lukman Sardi",
+    "Derby Romero",
+    "Donny Alamsyah"
    ],
-   "country": "Sweden",
+   "country": "Indonesia",
+   "description": "Um grupo de criminosos invade a casa isolada de um veterano atormentado pela culpa. Agora, este ex-soldado e os netos que mal conhece terão de unir forças para sobreviver.",
    "director": [
-    "Adam Pålsson"
+    "Sidharta Tata"
    ],
    "genre": [
-    "Comedy",
-    "Romance"
+    "Action",
+    "Crime",
+    "Drama"
    ],
-   "imdbRating": "",
+   "imdbRating": "5.9",
    "released": null,
-   "writer": [
-    "Christin Magdu",
-    "Eleonor Sager",
-    "Mikael Syrén"
-   ],
    "year": "2026",
-   "runtime": "103 min",
-   "logo": "https://images.metahub.space/logo/medium/tt39313557/img",
-   "background": "https://images.metahub.space/background/medium/tt39313557/img",
-   "id": "tt39313557",
+   "runtime": "137 min",
+   "trailers": [
+    {
+     "source": "o0d1IA85D9o",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39370926/img",
+   "background": "https://images.metahub.space/background/medium/tt39370926/img",
+   "id": "tt39370926",
    "genres": [
-    "Romance",
-    "Comédia"
+    "Ação",
+    "Crime",
+    "Thriller"
    ],
    "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Never Surrender",
+     "ytId": "o0d1IA85D9o"
+    }
+   ],
    "links": [
     {
-     "name": "Bara till jul",
+     "name": "Never Surrender",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/bara-till-jul-39313557"
+     "url": "https://www.strem.io/s/movie/never-surrender-39370926"
     },
     {
-     "name": "Comedy",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Romance",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
-     "name": "Felice Jankell",
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Lukman Sardi",
      "category": "Cast",
-     "url": "stremio:///search?search=Felice%20Jankell"
+     "url": "stremio:///search?search=Lukman%20Sardi"
     },
     {
-     "name": "Happy Jankell",
+     "name": "Derby Romero",
      "category": "Cast",
-     "url": "stremio:///search?search=Happy%20Jankell"
+     "url": "stremio:///search?search=Derby%20Romero"
     },
     {
-     "name": "Christian Fandango Sundgren",
+     "name": "Donny Alamsyah",
      "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Fandango%20Sundgren"
+     "url": "stremio:///search?search=Donny%20Alamsyah"
     },
     {
-     "name": "Christin Magdu",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christin%20Magdu"
-    },
-    {
-     "name": "Eleonor Sager",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eleonor%20Sager"
-    },
-    {
-     "name": "Mikael Syrén",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mikael%20Syr%C3%A9n"
-    },
-    {
-     "name": "Adam Pålsson",
+     "name": "Sidharta Tata",
      "category": "Directors",
-     "url": "stremio:///search?search=Adam%20P%C3%A5lsson"
+     "url": "stremio:///search?search=Sidharta%20Tata"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt39313557",
+    "defaultVideoId": "tt39370926",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39313557.jpg",
-   "description": "No Natal, uma rapariga da cidade, habituada a trabalhar muito e a divertir-se ainda mais, troca de vida com a pacata irmã… e acaba por desembrulhar uma grande confusão."
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg"
+  },
+  {
+   "id": "tt38707741",
+   "logo": "https://live.metahub.space/logo/medium/tt38707741/img",
+   "background": "https://live.metahub.space/background/medium/tt38707741/img",
+   "name": "Murder in Galicia",
+   "description": "Quando uma mulher é atacada à noite, um sargento desconfia que o marido dela não seja tão inocente quanto parece.",
+   "genres": [
+    "Crime",
+    "Mistério",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Tristán Ulloa",
+    "Carlos Blanco",
+    "Fer Fraga"
+   ],
+   "credits_cast": [
+    {
+     "character": "Elías",
+     "name": "Tristán Ulloa",
+     "profile_path": "/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg",
+     "id": 16441
+    },
+    {
+     "character": "",
+     "name": "Carlos Blanco",
+     "profile_path": null,
+     "id": 4363
+    },
+    {
+     "character": "",
+     "name": "Fer Fraga",
+     "profile_path": "/k88nGh91fLjdnS0etnU8BrkGwlh.jpg",
+     "id": 4970048
+    },
+    {
+     "character": "Aniceto",
+     "name": "Miguel Borines",
+     "profile_path": "/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg",
+     "id": 938034
+    },
+    {
+     "character": "",
+     "name": "Marta Nieto",
+     "profile_path": "/59261r4l1nqgdnvRPmmCBa7y98M.jpg",
+     "id": 588636
+    },
+    {
+     "character": "",
+     "name": "Verónica Sánchez",
+     "profile_path": "/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg",
+     "id": 90773
+    },
+    {
+     "character": "",
+     "name": "Fernando Guillén Cuervo",
+     "profile_path": "/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg",
+     "id": 149307
+    },
+    {
+     "character": "",
+     "name": "Nacho Fresneda",
+     "profile_path": "/hFADbva2aAycgRCSlQtJW9Ua4Rg.jpg",
+     "id": 961990
+    },
+    {
+     "character": "",
+     "name": "Tito Asorey",
+     "profile_path": "/70F60qTi59F9hiKcKky2pIpV5zK.jpg",
+     "id": 1742772
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "Spanish",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg"
+  },
+  {
+   "name": "L'Avocat",
+   "cast": [
+    "Vincent Cassel",
+    "Carole Bouquet",
+    "Mélanie Thierry"
+   ],
+   "country": "France",
+   "director": [
+    "Tristan Séguéla"
+   ],
+   "imdbRating": "6.4",
+   "released": null,
+   "year": "2027",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "3Ep7Rq24jDA",
+     "type": "Trailer"
+    }
+   ],
+   "genre": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39453578/img",
+   "background": "https://images.metahub.space/background/medium/tt39453578/img",
+   "id": "tt39453578",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "L'Avocat",
+     "ytId": "3Ep7Rq24jDA"
+    }
+   ],
+   "links": [
+    {
+     "name": "L'Avocat",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/lavocat-39453578"
+    },
+    {
+     "name": "Vincent Cassel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vincent%20Cassel"
+    },
+    {
+     "name": "Carole Bouquet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carole%20Bouquet"
+    },
+    {
+     "name": "Mélanie Thierry",
+     "category": "Cast",
+     "url": "stremio:///search?search=M%C3%A9lanie%20Thierry"
+    },
+    {
+     "name": "Tristan Séguéla",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tristan%20S%C3%A9gu%C3%A9la"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39453578",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453578.jpg",
+   "description": "Após sofrer uma overdose em tribunal, um advogado tem apenas uma semana para salvar a carreira e preparar a própria defesa, com a ajuda de uma estagiária determinada."
   },
   {
    "name": "Black Doves",
@@ -497,160 +843,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
   },
   {
-   "name": "Never Surrender",
-   "cast": [
-    "Lukman Sardi",
-    "Derby Romero",
-    "Donny Alamsyah"
-   ],
-   "country": "Indonesia",
-   "description": "Um grupo de criminosos invade a casa isolada de um veterano atormentado pela culpa. Agora, este ex-soldado e os netos que mal conhece terão de unir forças para sobreviver.",
-   "director": [
-    "Sidharta Tata"
-   ],
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "",
-   "released": null,
-   "year": "2026",
-   "runtime": "137 min",
-   "trailers": [
-    {
-     "source": "o0d1IA85D9o",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39370926/img",
-   "background": "https://images.metahub.space/background/medium/tt39370926/img",
-   "id": "tt39370926",
-   "genres": [
-    "Ação",
-    "Crime",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Never Surrender",
-     "ytId": "o0d1IA85D9o"
-    }
-   ],
-   "links": [
-    {
-     "name": "Never Surrender",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/never-surrender-39370926"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Lukman Sardi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lukman%20Sardi"
-    },
-    {
-     "name": "Derby Romero",
-     "category": "Cast",
-     "url": "stremio:///search?search=Derby%20Romero"
-    },
-    {
-     "name": "Donny Alamsyah",
-     "category": "Cast",
-     "url": "stremio:///search?search=Donny%20Alamsyah"
-    },
-    {
-     "name": "Sidharta Tata",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sidharta%20Tata"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt39370926",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg"
-  },
-  {
-   "name": "Taken: Natalee Holloway",
-   "cast": [
-    "Natalee Holloway",
-    "Beth Holloway"
-   ],
-   "country": "United States",
-   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
-   "genre": [
-    "Documentary",
-    "Crime"
-   ],
-   "imdbRating": "6.5",
-   "released": "2026-11-04T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "37 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
-   "background": "https://images.metahub.space/background/medium/tt43681696/img",
-   "id": "tt43681696",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Taken: Natalee Holloway",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Natalee Holloway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Natalee%20Holloway"
-    },
-    {
-     "name": "Beth Holloway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Beth%20Holloway"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
-  },
-  {
    "name": "A Dog's Perfect Christmas",
    "cast": [
     "Mary Steenburgen",
@@ -742,172 +934,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg"
-  },
-  {
-   "cast": [
-    "Sara Boustany",
-    "Bella Neuspiel",
-    "Al Sapienza"
-   ],
-   "country": "United States",
-   "description": "Depois que sua iniciação na dança dá errado, um grupo de garotas indisciplinadas de um colégio católico começa a ter visões proféticas que deixam a cidade toda em pânico.",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Thriller"
-   ],
-   "imdbRating": "7.2",
-   "name": "The Body",
-   "released": "2026-11-11T00:00:00.000Z",
-   "writer": [
-    "Quinn Shephard"
-   ],
-   "year": "2026–",
-   "runtime": null,
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "wl7uj7n7DoY",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt8014982/img",
-   "background": "https://images.metahub.space/background/medium/tt8014982/img",
-   "id": "tt8014982",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Body",
-     "ytId": "wl7uj7n7DoY"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Body",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-body-8014982"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Sara Boustany",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sara%20Boustany"
-    },
-    {
-     "name": "Bella Neuspiel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bella%20Neuspiel"
-    },
-    {
-     "name": "Al Sapienza",
-     "category": "Cast",
-     "url": "stremio:///search?search=Al%20Sapienza"
-    },
-    {
-     "name": "Quinn Shephard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Quinn%20Shephard"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
-  },
-  {
-   "name": "L'Avocat",
-   "cast": [
-    "Vincent Cassel",
-    "Carole Bouquet",
-    "Mélanie Thierry"
-   ],
-   "country": "France",
-   "director": [
-    "Tristan Séguéla"
-   ],
-   "imdbRating": "6.5",
-   "released": null,
-   "year": "2027",
-   "runtime": "114 min",
-   "trailers": [
-    {
-     "source": "3Ep7Rq24jDA",
-     "type": "Trailer"
-    }
-   ],
-   "genre": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39453578/img",
-   "background": "https://images.metahub.space/background/medium/tt39453578/img",
-   "id": "tt39453578",
-   "genres": [
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "L'Avocat",
-     "ytId": "3Ep7Rq24jDA"
-    }
-   ],
-   "links": [
-    {
-     "name": "L'Avocat",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/lavocat-39453578"
-    },
-    {
-     "name": "Vincent Cassel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vincent%20Cassel"
-    },
-    {
-     "name": "Carole Bouquet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Carole%20Bouquet"
-    },
-    {
-     "name": "Mélanie Thierry",
-     "category": "Cast",
-     "url": "stremio:///search?search=M%C3%A9lanie%20Thierry"
-    },
-    {
-     "name": "Tristan Séguéla",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tristan%20S%C3%A9gu%C3%A9la"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt39453578",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453578.jpg",
-   "description": "Após sofrer uma overdose em tribunal, um advogado tem apenas uma semana para salvar a carreira e preparar a própria defesa, com a ajuda de uma estagiária determinada."
   },
   {
    "awards": "15 wins & 29 nominations total",
@@ -1090,6 +1116,160 @@
    "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
   },
   {
+   "name": "Taken: Natalee Holloway",
+   "cast": [
+    "Natalee Holloway",
+    "Beth Holloway"
+   ],
+   "country": "United States",
+   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-11-04T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "37 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
+   "background": "https://images.metahub.space/background/medium/tt43681696/img",
+   "id": "tt43681696",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "links": [
+    {
+     "name": "Taken: Natalee Holloway",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Natalee Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalee%20Holloway"
+    },
+    {
+     "name": "Beth Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Beth%20Holloway"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
+  },
+  {
+   "name": "Heartland",
+   "cast": [
+    "Jessica Chastain",
+    "Garrett Hedlund",
+    "John Hawkes"
+   ],
+   "country": "United States",
+   "description": "A ex-estrela da música country Misty Jones sai do seu isolamento para procurar a sua sobrinha desaparecida, uma música em ascensão, em Nashville. A sua investigação revela segredos obscuros e obriga-a a enfrentar o seu próprio passado.",
+   "director": [
+    "Shana Feste"
+   ],
+   "genre": [
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "",
+   "released": "2026-11-13T00:00:00.000Z",
+   "writer": [
+    "Shana Feste"
+   ],
+   "year": "2026",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "ziIz59enN1c",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt38213251/img",
+   "background": "https://images.metahub.space/background/medium/tt38213251/img",
+   "id": "tt38213251",
+   "genres": [
+    "Thriller",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Heartland",
+     "ytId": "ziIz59enN1c"
+    }
+   ],
+   "links": [
+    {
+     "name": "Heartland",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/heartland-38213251"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jessica Chastain",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jessica%20Chastain"
+    },
+    {
+     "name": "Garrett Hedlund",
+     "category": "Cast",
+     "url": "stremio:///search?search=Garrett%20Hedlund"
+    },
+    {
+     "name": "John Hawkes",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Hawkes"
+    },
+    {
+     "name": "Shana Feste",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shana%20Feste"
+    },
+    {
+     "name": "Shana Feste",
+     "category": "Directors",
+     "url": "stremio:///search?search=Shana%20Feste"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38213251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38213251.jpg"
+  },
+  {
    "id": "tt39390491",
    "logo": "https://live.metahub.space/logo/medium/tt39390491/img",
    "background": "https://live.metahub.space/background/medium/tt39390491/img",
@@ -1155,112 +1335,134 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39390491.jpg",
-   "imdbRating": "6.2"
+   "imdbRating": "6.3"
   },
   {
-   "name": "Christmas in Love",
+   "awards": "Won 1 Oscar. 18 wins & 37 nominations total",
    "cast": [
-    "Brooke D'Orsay",
-    "Daniel Lissing",
-    "Mary-Margaret Humes"
+    "Jim Carrey",
+    "Taylor Momsen",
+    "Kelley"
    ],
-   "country": "United States",
-   "description": "Ellie Hartman, uma aspirante a artesã que trabalha na padaria de sua pequena cidade, mostra a Nick Carlingson - o novo CEO da cidade grande durante sua visita ao andar principal da padaria - que são as pessoas e não as máquinas que tornam o negócio um sucesso.",
+   "country": "Germany, United States",
+   "description": "Um Grinch (Jim Carrey) que odeia o Natal resolve criar um plano para impedir que os habitantes da pequena cidade de Quemlândia possam comemorar a data festiva. Para tanto, na véspera do grande dia, o Grinch resolve invadir as casas das pessoas e furtivamente roubar delas tudo o que esteja relacionado ao Natal.",
    "director": [
-    "Don McBrearty"
+    "Ron Howard"
    ],
-   "imdbRating": "6.3",
-   "released": "2018-11-11T00:00:00.000Z",
-   "writer": [
-    "Stephen A. Stewart",
-    "Bob Sáenz"
+   "dvdRelease": "2015-12-01T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Family",
+    "Fantasy"
    ],
-   "year": "2018",
+   "imdbRating": "6.4",
+   "name": "How the Grinch Stole Christmas",
+   "released": "2000-11-17T00:00:00.000Z",
+   "runtime": "105 min",
    "trailers": [
     {
-     "source": "7mfuQl0Ov3o",
+     "source": "UnyPPS1Z-Vs",
+     "type": "Trailer"
+    },
+    {
+     "source": "myTaigPrbsg",
      "type": "Trailer"
     }
    ],
-   "genre": [
-    "Drama",
-    "Romance"
+   "writer": [
+    "Dr. Seuss",
+    "Jeffrey Price",
+    "Peter S. Seaman"
    ],
-   "runtime": "90 min",
-   "background": "https://images.metahub.space/background/medium/tt9033712/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9033712/img",
-   "id": "tt9033712",
+   "year": "2000",
+   "background": "https://images.metahub.space/background/medium/tt0170016/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0170016/img",
+   "id": "tt0170016",
    "genres": [
-    "Cinema TV",
-    "Romance",
-    "Família"
+    "Família",
+    "Comédia",
+    "Fantasia"
    ],
-   "releaseInfo": "2018",
+   "releaseInfo": "2000",
    "trailerStreams": [
     {
-     "title": "Christmas in Love",
-     "ytId": "7mfuQl0Ov3o"
+     "title": "How the Grinch Stole Christmas",
+     "ytId": "UnyPPS1Z-Vs"
+    },
+    {
+     "title": "How the Grinch Stole Christmas",
+     "ytId": "myTaigPrbsg"
     }
    ],
    "links": [
     {
-     "name": "6.3",
+     "name": "6.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt9033712"
+     "url": "https://imdb.com/title/tt0170016"
     },
     {
-     "name": "Christmas in Love",
+     "name": "How the Grinch Stole Christmas",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/christmas-in-love-9033712"
+     "url": "https://www.strem.io/s/movie/how-the-grinch-stole-christmas-0170016"
     },
     {
-     "name": "Drama",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Romance",
+     "name": "Family",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
     },
     {
-     "name": "Brooke D'Orsay",
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Jim Carrey",
      "category": "Cast",
-     "url": "stremio:///search?search=Brooke%20D'Orsay"
+     "url": "stremio:///search?search=Jim%20Carrey"
     },
     {
-     "name": "Daniel Lissing",
+     "name": "Taylor Momsen",
      "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Lissing"
+     "url": "stremio:///search?search=Taylor%20Momsen"
     },
     {
-     "name": "Mary-Margaret Humes",
+     "name": "Kelley",
      "category": "Cast",
-     "url": "stremio:///search?search=Mary-Margaret%20Humes"
+     "url": "stremio:///search?search=Kelley"
     },
     {
-     "name": "Stephen A. Stewart",
+     "name": "Dr. Seuss",
      "category": "Writers",
-     "url": "stremio:///search?search=Stephen%20A.%20Stewart"
+     "url": "stremio:///search?search=Dr.%20Seuss"
     },
     {
-     "name": "Bob Sáenz",
+     "name": "Jeffrey Price",
      "category": "Writers",
-     "url": "stremio:///search?search=Bob%20S%C3%A1enz"
+     "url": "stremio:///search?search=Jeffrey%20Price"
     },
     {
-     "name": "Don McBrearty",
+     "name": "Peter S. Seaman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20S.%20Seaman"
+    },
+    {
+     "name": "Ron Howard",
      "category": "Directors",
-     "url": "stremio:///search?search=Don%20McBrearty"
+     "url": "stremio:///search?search=Ron%20Howard"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt9033712",
+    "defaultVideoId": "tt0170016",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033712.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0170016.jpg"
   },
   {
    "id": "tt38681812",
@@ -1341,56 +1543,116 @@
    "imdbRating": "7.2"
   },
   {
-   "id": "tt48500521",
-   "behaviorHints": {
-    "defaultVideoId": "tt48500521",
-    "hasScheduledVideos": false
-   },
-   "links": [
+   "name": "Allen",
+   "cast": [
+    "Scarlett Crabtree",
+    "Josephine Flynn",
+    "Benedict Hardie"
+   ],
+   "country": "Australia",
+   "director": [
+    "Daley Pearson",
+    "Jeffrey Walker"
+   ],
+   "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "imdbRating": "5.2",
+   "released": "2026-11-12T00:00:00.000Z",
+   "writer": [
+    "Sophie Miller",
+    "Daley Pearson"
+   ],
+   "year": "2026",
+   "runtime": "105 min",
+   "trailers": [
     {
-     "name": "Desprotexida: El crimen de Pazos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Laplace"
+     "source": "P8G5Y25W3eA",
+     "type": "Trailer"
     }
    ],
-   "name": "Desprotexida: El crimen de Pazos",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "genre": [
-    "Documentary"
-   ],
+   "logo": "https://images.metahub.space/logo/medium/tt37675123/img",
+   "background": "https://images.metahub.space/background/medium/tt37675123/img",
+   "id": "tt37675123",
    "genres": [
-    "Documentário",
-    "Crime"
+    "Ficção científica",
+    "Aventura",
+    "Comédia"
    ],
-   "writer": [
-    "Jorge Laplace"
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Allen",
+     "ytId": "P8G5Y25W3eA"
+    }
    ],
-   "director": [
-    "Jorge Laplace"
+   "links": [
+    {
+     "name": "Allen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/allen-37675123"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Scarlett Crabtree",
+     "category": "Cast",
+     "url": "stremio:///search?search=Scarlett%20Crabtree"
+    },
+    {
+     "name": "Josephine Flynn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josephine%20Flynn"
+    },
+    {
+     "name": "Benedict Hardie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benedict%20Hardie"
+    },
+    {
+     "name": "Sophie Miller",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sophie%20Miller"
+    },
+    {
+     "name": "Daley Pearson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Daley%20Pearson"
+    },
+    {
+     "name": "Daley Pearson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Daley%20Pearson"
+    },
+    {
+     "name": "Jeffrey Walker",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jeffrey%20Walker"
+    }
    ],
-   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
-   "language": "Spanish",
-   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": "tt37675123",
+    "hasScheduledVideos": false
+   },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
-   "imdbRating": "6.2"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37675123.jpg",
+   "description": "Vinte anos após o seu encontro com um alienígena, Petey nunca conseguiu avançar. Agora, o seu velho amigo regressou, e a razão para tal é complicada — e inesperada."
   },
   {
    "id": "tt45854934",
@@ -1500,139 +1762,6 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
    "imdbRating": "5.8"
-  },
-  {
-   "name": "Christmas at the Palace",
-   "cast": [
-    "Merritt Patterson",
-    "Andrew Cooper",
-    "Brittany Bristow"
-   ],
-   "country": "United States",
-   "description": "Katie é uma patinadora do gelo olímpica aposentada que aceita um novo desafio. Ela terá que treinar uma princesa que precisa se preparar para uma tradição de Natal em seu palácio. Porém, ela se surpreende com a rotina real e descobre que a vida deles não é um conto de fadas.",
-   "genre": [
-    "Romance"
-   ],
-   "imdbRating": "6.3",
-   "released": "2018-11-22T00:00:00.000Z",
-   "writer": [
-    "Joie Botkin",
-    "Matthew Coppola",
-    "Rick Garman"
-   ],
-   "year": "2018",
-   "trailers": [
-    {
-     "source": "gvoIawc8wpc",
-     "type": "Trailer"
-    }
-   ],
-   "director": [
-    "Peter Hewitt"
-   ],
-   "runtime": "90 min",
-   "dvdRelease": "2019-10-22T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt9033632/img",
-   "logo": "https://images.metahub.space/logo/medium/tt9033632/img",
-   "id": "tt9033632",
-   "genres": [
-    "Romance",
-    "Cinema TV"
-   ],
-   "releaseInfo": "2018",
-   "trailerStreams": [
-    {
-     "title": "Christmas at the Palace",
-     "ytId": "gvoIawc8wpc"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt9033632"
-    },
-    {
-     "name": "Christmas at the Palace",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/christmas-at-the-palace-9033632"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Merritt Patterson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Merritt%20Patterson"
-    },
-    {
-     "name": "Andrew Cooper",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Cooper"
-    },
-    {
-     "name": "Brittany Bristow",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brittany%20Bristow"
-    },
-    {
-     "name": "Joie Botkin",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joie%20Botkin"
-    },
-    {
-     "name": "Matthew Coppola",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20Coppola"
-    },
-    {
-     "name": "Rick Garman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Rick%20Garman"
-    },
-    {
-     "name": "Peter Hewitt",
-     "category": "Directors",
-     "url": "stremio:///search?search=Peter%20Hewitt"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt9033632",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9033632.jpg"
-  },
-  {
-   "id": "tt42767924",
-   "logo": "https://live.metahub.space/logo/medium/tt42767924/img",
-   "background": "https://live.metahub.space/background/medium/tt42767924/img",
-   "name": "A Couple of Lies",
-   "description": "Uma troca de casas perfeita entre Sicília e Estocolmo se torna tóxica à medida que dois casais fazem de tudo para se proteger e manter seus segredos.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
-   "language": "Swedish",
-   "country": "Sweden",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42767924.jpg",
-   "imdbRating": "6.0"
   }
  ]
 }
