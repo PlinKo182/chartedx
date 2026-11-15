@@ -1,82 +1,185 @@
 {
  "metas": [
   {
-   "id": "tt26598805",
-   "logo": "https://live.metahub.space/logo/medium/tt26598805/img",
-   "background": "https://live.metahub.space/background/medium/tt26598805/img",
-   "name": "Nocturne",
-   "description": "Quando uma vítima do famoso assassino em série, Jurek Walter, aparece viva inesperadamente, o inspetor Jonah Lynn luta contra o tempo para encontrar a pessoa desaparecida que falta, enquanto a sua protegida, Saga Bauer, infiltra-se para obter respostas do próprio assassino.",
+   "cast": [
+    "Morfydd Clark",
+    "Ismael Cruz Cordova",
+    "Robert Aramayo"
+   ],
+   "country": "United States, New Zealand, Canada",
+   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "6.8",
+   "name": "The Lord of the Rings: The Rings of Power",
+   "released": "2022-09-01T00:00:00.000Z",
+   "writer": [
+    "Patrick McKay",
+    "John D. Payne"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt7631058/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
+   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
+   "runtime": "69 min",
+   "trailers": [
+    {
+     "source": "x8UAUAuKNcU",
+     "type": "Trailer"
+    },
+    {
+     "source": "uYnQDsaxHZU",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7631058",
    "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "x8UAUAuKNcU"
+    },
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "uYnQDsaxHZU"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7631058"
+    },
+    {
+     "name": "The Lord of the Rings: The Rings of Power",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Morfydd Clark",
+     "category": "Cast",
+     "url": "stremio:///search?search=Morfydd%20Clark"
+    },
+    {
+     "name": "Ismael Cruz Cordova",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
+    },
+    {
+     "name": "Robert Aramayo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Aramayo"
+    },
+    {
+     "name": "Patrick McKay",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20McKay"
+    },
+    {
+     "name": "John D. Payne",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20D.%20Payne"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
+  },
+  {
+   "id": "tt32375763",
+   "logo": "https://live.metahub.space/logo/medium/tt32375763/img",
+   "background": "https://live.metahub.space/background/medium/tt32375763/img",
+   "name": "12 12 12",
+   "description": "Um assalto leva 12 meses a planear, 12 horas a executar, e, um ladrão que não seja apanhado nos 12 dias seguintes, não é apanhado de todo. Através destas três linhas temporais entusiasmantes, um agente do FBI e um criminoso reincidente enfrentam-se num jogo mortífero do gato e do rato pela Europa.",
+   "genres": [
+    "Action & Adventure",
     "Crime",
-    "Mistério"
+    "Drama"
    ],
    "releaseInfo": "2026",
    "status": "Upcoming",
    "trailers": [
     {
-     "source": "AaEy1f2Dgys",
+     "source": "pWdt8WMCqnc",
      "type": "Trailer"
     }
    ],
    "cast": [
-    "Liev Schreiber",
-    "Zazie Beetz",
-    "Stephen Graham"
+    "Anthony Mackie",
+    "Jamie Dornan",
+    "Jack Kesy"
    ],
    "credits_cast": [
     {
-     "character": "Jonah Lynn",
-     "name": "Liev Schreiber",
-     "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg",
-     "id": 23626
+     "character": "Jack Strickland",
+     "name": "Anthony Mackie",
+     "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+     "id": 53650
     },
     {
-     "character": "FBI Agent Saga Bauer",
-     "name": "Zazie Beetz",
-     "profile_path": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg",
-     "id": 1545693
+     "character": "Paul Galvin",
+     "name": "Jamie Dornan",
+     "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+     "id": 1254583
     },
     {
-     "character": "Jurek Walter",
-     "name": "Stephen Graham",
-     "profile_path": "/yguEO9zFvuccq87kOJpFLsmUgvs.jpg",
-     "id": 1115
+     "character": "Bobby Galvin",
+     "name": "Jack Kesy",
+     "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
+     "id": 1292258
     },
     {
-     "character": "Chief Dave Ellison",
-     "name": "Bill Camp",
-     "profile_path": "/wxYyJSltCHwU0MTg838SllOlvNT.jpg",
-     "id": 121718
+     "character": "Severine",
+     "name": "Agathe Rousselle",
+     "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+     "id": 2418333
     },
     {
-     "character": "Karl Anders",
-     "name": "Rory Culkin",
-     "profile_path": "/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg",
-     "id": 28042
-    },
-    {
-     "character": "Ida Frost",
-     "name": "Chrissy Metz",
-     "profile_path": "/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg",
-     "id": 1655001
+     "character": "Lena",
+     "name": "Sallie Harmsen",
+     "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+     "id": 544096
     },
     {
      "character": "",
-     "name": "Poorna Jagannathan",
-     "profile_path": "/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg",
-     "id": 428440
+     "name": "Kali Reis",
+     "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+     "id": 3119545
     },
     {
-     "character": "Nathan Pollock",
-     "name": "Gary Carr",
-     "profile_path": "/nY9pVfJG70QojfwgCiW5Kja4HjU.jpg",
-     "id": 1255388
-    },
-    {
-     "character": "Michael Frost",
-     "name": "Landon Valentin",
-     "profile_path": null,
-     "id": 3095169
+     "character": "",
+     "name": "José Garcia",
+     "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
+     "id": 24895
     }
    ],
    "credits_crew": [],
@@ -89,8 +192,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
-   "imdbRating": "7.4"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg",
+   "imdbRating": "5.8"
   },
   {
    "id": "tt23112594",
@@ -207,63 +310,98 @@
    "imdbRating": "7.8"
   },
   {
-   "name": "MobLand",
-   "imdbRating": "8.3",
-   "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
-   "genre": [
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
     "Crime",
-    "Drama"
+    "Drama",
+    "Mistério"
    ],
-   "released": "2025-03-30T00:00:00.000Z",
-   "writer": [
-    "Ronan Bennett"
-   ],
-   "year": "2025–",
+   "releaseInfo": "2021",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "qKGgw7Ob5f4",
+     "source": "ga0iTWXCGa0",
      "type": "Trailer"
     }
    ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
-   "genres": [
-    "Crime",
-    "Drama"
+   "cast": [
+    "Omar Sy"
    ],
-   "releaseInfo": "2025",
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
+   "cast": [
+    "Sara Boustany",
+    "Bella Neuspiel",
+    "Al Sapienza"
+   ],
+   "country": "United States",
+   "description": "Depois que sua iniciação na dança dá errado, um grupo de garotas indisciplinadas de um colégio católico começa a ter visões proféticas que deixam a cidade toda em pânico.",
+   "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "name": "The Body",
+   "released": "2026-11-11T00:00:00.000Z",
+   "writer": [
+    "Quinn Shephard"
+   ],
+   "year": "2026–",
+   "runtime": null,
+   "status": "Upcoming",
+   "trailers": [
+    {
+     "source": "wl7uj7n7DoY",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt8014982/img",
+   "background": "https://images.metahub.space/background/medium/tt8014982/img",
+   "id": "tt8014982",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
+     "title": "The Body",
+     "ytId": "wl7uj7n7DoY"
     }
    ],
    "links": [
     {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
-    },
-    {
-     "name": "MobLand",
+     "name": "The Body",
      "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "https://www.strem.io/s/series/the-body-8014982"
     },
     {
      "name": "Drama",
@@ -271,24 +409,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Tom Hardy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
     },
     {
-     "name": "Pierce Brosnan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Paddy Considine",
+     "name": "Sara Boustany",
      "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
+     "url": "stremio:///search?search=Sara%20Boustany"
     },
     {
-     "name": "Ronan Bennett",
+     "name": "Bella Neuspiel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bella%20Neuspiel"
+    },
+    {
+     "name": "Al Sapienza",
+     "category": "Cast",
+     "url": "stremio:///search?search=Al%20Sapienza"
+    },
+    {
+     "name": "Quinn Shephard",
      "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
+     "url": "stremio:///search?search=Quinn%20Shephard"
     }
    ],
    "behaviorHints": {
@@ -297,74 +445,85 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
   },
   {
-   "id": "tt32375763",
-   "logo": "https://live.metahub.space/logo/medium/tt32375763/img",
-   "background": "https://live.metahub.space/background/medium/tt32375763/img",
-   "name": "12 12 12",
-   "description": "Um assalto leva 12 meses a planear, 12 horas a executar, e, um ladrão que não seja apanhado nos 12 dias seguintes, não é apanhado de todo. Através destas três linhas temporais entusiasmantes, um agente do FBI e um criminoso reincidente enfrentam-se num jogo mortífero do gato e do rato pela Europa.",
+   "id": "tt26598805",
+   "logo": "https://live.metahub.space/logo/medium/tt26598805/img",
+   "background": "https://live.metahub.space/background/medium/tt26598805/img",
+   "name": "Nocturne",
+   "description": "Quando uma vítima do famoso assassino em série, Jurek Walter, aparece viva inesperadamente, o inspetor Jonah Lynn luta contra o tempo para encontrar a pessoa desaparecida que falta, enquanto a sua protegida, Saga Bauer, infiltra-se para obter respostas do próprio assassino.",
    "genres": [
-    "Action & Adventure",
     "Crime",
-    "Drama"
+    "Mistério"
    ],
    "releaseInfo": "2026",
    "status": "Upcoming",
    "trailers": [
     {
-     "source": "pWdt8WMCqnc",
+     "source": "AaEy1f2Dgys",
      "type": "Trailer"
     }
    ],
    "cast": [
-    "Anthony Mackie",
-    "Jamie Dornan",
-    "Jack Kesy"
+    "Liev Schreiber",
+    "Zazie Beetz",
+    "Stephen Graham"
    ],
    "credits_cast": [
     {
-     "character": "Jack Strickland",
-     "name": "Anthony Mackie",
-     "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
-     "id": 53650
+     "character": "Jonah Lynn",
+     "name": "Liev Schreiber",
+     "profile_path": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg",
+     "id": 23626
     },
     {
-     "character": "Paul Galvin",
-     "name": "Jamie Dornan",
-     "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
-     "id": 1254583
+     "character": "FBI Agent Saga Bauer",
+     "name": "Zazie Beetz",
+     "profile_path": "/ijrT4pvALvxU0gphea4YxDnDh6e.jpg",
+     "id": 1545693
     },
     {
-     "character": "Bobby Galvin",
-     "name": "Jack Kesy",
-     "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
-     "id": 1292258
+     "character": "Jurek Walter",
+     "name": "Stephen Graham",
+     "profile_path": "/yguEO9zFvuccq87kOJpFLsmUgvs.jpg",
+     "id": 1115
     },
     {
-     "character": "Severine",
-     "name": "Agathe Rousselle",
-     "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
-     "id": 2418333
+     "character": "Chief Dave Ellison",
+     "name": "Bill Camp",
+     "profile_path": "/wxYyJSltCHwU0MTg838SllOlvNT.jpg",
+     "id": 121718
     },
     {
-     "character": "Lena",
-     "name": "Sallie Harmsen",
-     "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
-     "id": 544096
+     "character": "Karl Anders",
+     "name": "Rory Culkin",
+     "profile_path": "/6SkUiLHFlPEEFtKpLc7VrczaqDx.jpg",
+     "id": 28042
+    },
+    {
+     "character": "Ida Frost",
+     "name": "Chrissy Metz",
+     "profile_path": "/d1qBoF1JQdLI8OF99sVeNQqjXZG.jpg",
+     "id": 1655001
     },
     {
      "character": "",
-     "name": "Kali Reis",
-     "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
-     "id": 3119545
+     "name": "Poorna Jagannathan",
+     "profile_path": "/o2BQX1tAgo47GGvpBy1k4LQLRs6.jpg",
+     "id": 428440
     },
     {
-     "character": "",
-     "name": "José Garcia",
-     "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
-     "id": 24895
+     "character": "Nathan Pollock",
+     "name": "Gary Carr",
+     "profile_path": "/nY9pVfJG70QojfwgCiW5Kja4HjU.jpg",
+     "id": 1255388
+    },
+    {
+     "character": "Michael Frost",
+     "name": "Landon Valentin",
+     "profile_path": null,
+     "id": 3095169
     }
    ],
    "credits_crew": [],
@@ -377,7 +536,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
+   "imdbRating": "7.4"
   },
   {
    "name": "Black Doves",
@@ -488,6 +648,133 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
   },
   {
+   "id": "tt39943756",
+   "logo": "https://live.metahub.space/logo/medium/tt39943756/img",
+   "background": "https://live.metahub.space/background/medium/tt39943756/img",
+   "name": "Campus Drivers",
+   "description": "Lois has everything going for her: she's been accepted into the prestigious Belrose University alongside her lifelong love, Max. Lane, on the other hand, lives by his own rules. Creator of Campus Drivers, the hottest app on campus, he is as famous for his devastating smile as for his inability to commit. Their paths were never supposed to cross. Until the night when Lois, heartbroken, shows up on his doorstep. An unexpected cohabitation. Two worlds colliding. And an attraction impossible to ignore. But some encounters change everything… even awakening buried wounds. And when love arrives uninvited, nothing is certain anymore.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "runtime": "45 min",
+   "trailers": [],
+   "cast": [
+    "Carmen Kassovitz",
+    "Baptiste Masseline",
+    "Prune Pauchet"
+   ],
+   "credits_cast": [
+    {
+     "character": "Loïs",
+     "name": "Carmen Kassovitz",
+     "profile_path": "/iNLGKtgKWrnHjfZtUbLEwTjJPlf.jpg",
+     "id": 2578180
+    },
+    {
+     "character": "Lane",
+     "name": "Baptiste Masseline",
+     "profile_path": "/yfTgeK8drcv5uEKi0ZS1a3tDy0s.jpg",
+     "id": 3120437
+    },
+    {
+     "character": "",
+     "name": "Prune Pauchet",
+     "profile_path": "/vBUANoC8vmMRBe7CGeMFV8juWst.jpg",
+     "id": 4027995
+    },
+    {
+     "character": "Lewis",
+     "name": "Esteban Vial",
+     "profile_path": null,
+     "id": 3059095
+    },
+    {
+     "character": "Donovan",
+     "name": "Madior Fall",
+     "profile_path": "/aHEr670j2N4VZuai0mF6XhkR9mY.jpg",
+     "id": 2997177
+    },
+    {
+     "character": "Adam",
+     "name": "Félix Nebel",
+     "profile_path": null,
+     "id": 5547858
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Tom Goris",
+     "profile_path": null,
+     "id": 2449887
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Vianney Lebasque",
+     "profile_path": null,
+     "id": 1185267
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Thomas Boullé",
+     "profile_path": null,
+     "id": 2413521
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Camille Couasse",
+     "profile_path": null,
+     "id": 1652582
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Chloé Glachant",
+     "profile_path": null,
+     "id": 2192582
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Anastasia Heinzl",
+     "profile_path": null,
+     "id": 2980094
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Marine Maugrain-Legagneur",
+     "profile_path": null,
+     "id": 2011261
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Mary Milojevic",
+     "profile_path": null,
+     "id": 3494685
+    }
+   ],
+   "director": [
+    "Tom Goris",
+    "Vianney Lebasque"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
+   "imdbRating": "7.3"
+  },
+  {
    "name": "Dexter: Resurrection",
    "cast": [
     "Michael C. Hall",
@@ -596,312 +883,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
   },
   {
+   "awards": "7 wins & 26 nominations total",
    "cast": [
-    "Sara Boustany",
-    "Bella Neuspiel",
-    "Al Sapienza"
+    "Taylor Kinney",
+    "Christian Stolte",
+    "Joe Minoso"
    ],
    "country": "United States",
-   "description": "Depois que sua iniciação na dança dá errado, um grupo de garotas indisciplinadas de um colégio católico começa a ter visões proféticas que deixam a cidade toda em pânico.",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Thriller"
-   ],
-   "imdbRating": "7.5",
-   "name": "The Body",
-   "released": "2026-11-11T00:00:00.000Z",
-   "writer": [
-    "Quinn Shephard"
-   ],
-   "year": "2026–",
-   "runtime": null,
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "wl7uj7n7DoY",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt8014982/img",
-   "background": "https://images.metahub.space/background/medium/tt8014982/img",
-   "id": "tt8014982",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Body",
-     "ytId": "wl7uj7n7DoY"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Body",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-body-8014982"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Sara Boustany",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sara%20Boustany"
-    },
-    {
-     "name": "Bella Neuspiel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bella%20Neuspiel"
-    },
-    {
-     "name": "Al Sapienza",
-     "category": "Cast",
-     "url": "stremio:///search?search=Al%20Sapienza"
-    },
-    {
-     "name": "Quinn Shephard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Quinn%20Shephard"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
-  },
-  {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
-   "cast": [
-    "Morfydd Clark",
-    "Ismael Cruz Cordova",
-    "Robert Aramayo"
-   ],
-   "country": "United States, New Zealand, Canada",
-   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
+   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
     "Action",
-    "Adventure",
     "Drama"
    ],
-   "imdbRating": "6.8",
-   "name": "The Lord of the Rings: The Rings of Power",
-   "released": "2022-09-01T00:00:00.000Z",
-   "writer": [
-    "Patrick McKay",
-    "John D. Payne"
-   ],
-   "year": "2022–",
+   "imdbRating": "8.0",
+   "name": "Chicago Fire",
+   "released": "2012-10-10T00:00:00.000Z",
+   "runtime": "42 min",
    "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt7631058/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
-   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
-   "runtime": "69 min",
+   "writer": [
+    "Michael Brandt",
+    "Derek Haas"
+   ],
+   "year": "2012–",
+   "background": "https://images.metahub.space/background/medium/tt2261391/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
    "trailers": [
     {
-     "source": "x8UAUAuKNcU",
-     "type": "Trailer"
-    },
-    {
-     "source": "uYnQDsaxHZU",
+     "source": "IIeSDILTE5M",
      "type": "Trailer"
     }
    ],
-   "id": "tt7631058",
+   "id": "tt2261391",
    "genres": [
-    "Action & Adventure",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Drama"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2012",
    "trailerStreams": [
     {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "x8UAUAuKNcU"
-    },
-    {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "uYnQDsaxHZU"
+     "title": "Chicago Fire",
+     "ytId": "IIeSDILTE5M"
     }
    ],
    "links": [
     {
-     "name": "6.8",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7631058"
+     "url": "https://imdb.com/title/tt2261391"
     },
     {
-     "name": "The Lord of the Rings: The Rings of Power",
+     "name": "Chicago Fire",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Morfydd Clark",
-     "category": "Cast",
-     "url": "stremio:///search?search=Morfydd%20Clark"
-    },
-    {
-     "name": "Ismael Cruz Cordova",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
-    },
-    {
-     "name": "Robert Aramayo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Aramayo"
-    },
-    {
-     "name": "Patrick McKay",
-     "category": "Writers",
-     "url": "stremio:///search?search=Patrick%20McKay"
-    },
-    {
-     "name": "John D. Payne",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20D.%20Payne"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
-  },
-  {
-   "name": "The Terminal List",
-   "cast": [
-    "Chris Pratt",
-    "Constance Wu",
-    "Taylor Kitsch"
-   ],
-   "country": "United States",
-   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
-   "genre": [
-    "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.9",
-   "released": "2022-07-01T00:00:00.000Z",
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Jack Carr",
-    "David DiGilio"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt11743610/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
-   "awards": "3 nominations total",
-   "runtime": "60 min",
-   "trailers": [
-    {
-     "source": "x9FvvsC0B5Q",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt11743610",
-   "genres": [
-    "Action & Adventure",
-    "Drama"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Terminal List",
-     "ytId": "x9FvvsC0B5Q"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11743610"
-    },
-    {
-     "name": "The Terminal List",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
     },
     {
      "name": "Action",
@@ -914,34 +948,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Chris Pratt",
+     "name": "Taylor Kinney",
      "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Pratt"
+     "url": "stremio:///search?search=Taylor%20Kinney"
     },
     {
-     "name": "Constance Wu",
+     "name": "Christian Stolte",
      "category": "Cast",
-     "url": "stremio:///search?search=Constance%20Wu"
+     "url": "stremio:///search?search=Christian%20Stolte"
     },
     {
-     "name": "Taylor Kitsch",
+     "name": "Joe Minoso",
      "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kitsch"
+     "url": "stremio:///search?search=Joe%20Minoso"
     },
     {
-     "name": "Jack Carr",
+     "name": "Michael Brandt",
      "category": "Writers",
-     "url": "stremio:///search?search=Jack%20Carr"
+     "url": "stremio:///search?search=Michael%20Brandt"
     },
     {
-     "name": "David DiGilio",
+     "name": "Derek Haas",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20DiGilio"
+     "url": "stremio:///search?search=Derek%20Haas"
     }
    ],
    "behaviorHints": {
@@ -950,7 +979,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
   }
  ]
 }

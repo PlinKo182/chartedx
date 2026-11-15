@@ -159,69 +159,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23289160.jpg"
   },
   {
-   "name": "Resident Evil",
+   "name": "Obsession",
+   "awards": "10 wins & 13 nominations total",
    "cast": [
-    "Austin Abrams",
-    "Paul Walter Hauser",
-    "Zach Cherry"
+    "Michael Johnston",
+    "Inde Navarrette",
+    "Cooper Tomlinson"
    ],
-   "country": "Germany, United States",
-   "description": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
+   "country": "United States",
+   "description": "Um jovem apaixonado recorre a um misterioso objecto sobrenatural para fazer com que a sua melhor amiga se apaixone por ele. O desejo concretiza-se, mas rapidamente se transforma num pesadelo, quando a obsessão resultante assume contornos perigosos e violentos.",
    "director": [
-    "Zach Cregger"
+    "Curry Barker"
    ],
    "genre": [
-    "Action",
     "Horror",
-    "Sci-Fi"
+    "Thriller"
    ],
-   "imdbRating": "7.4",
-   "released": "2026-09-18T00:00:00.000Z",
+   "imdbRating": "7.8",
+   "released": "2026-05-15T00:00:00.000Z",
    "writer": [
-    "Zach Cregger",
-    "Shay Hatten"
+    "Curry Barker"
    ],
    "year": "2026",
-   "runtime": "95 min",
+   "runtime": "109 min",
    "trailers": [
     {
-     "source": "mNd1gb19A-c",
-     "type": "Trailer"
-    },
-    {
-     "source": "SJPu1spHqfk",
+     "source": "gMC8kkwbIQQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt35538033/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35538033/img",
-   "id": "tt35538033",
+   "background": "https://images.metahub.space/background/medium/tt37287335/img",
+   "logo": "https://images.metahub.space/logo/medium/tt37287335/img",
+   "id": "tt37287335",
    "genres": [
     "Terror",
-    "Ficção científica",
-    "Aventura"
+    "Thriller"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Resident Evil",
-     "ytId": "mNd1gb19A-c"
-    },
-    {
-     "title": "Resident Evil",
-     "ytId": "SJPu1spHqfk"
+     "title": "Obsession",
+     "ytId": "gMC8kkwbIQQ"
     }
    ],
    "links": [
     {
-     "name": "Resident Evil",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/resident-evil-35538033"
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt37287335"
     },
     {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "name": "Obsession",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/obsession-37287335"
     },
     {
      "name": "Horror",
@@ -229,107 +219,98 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Sci-Fi",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Austin Abrams",
+     "name": "Michael Johnston",
      "category": "Cast",
-     "url": "stremio:///search?search=Austin%20Abrams"
+     "url": "stremio:///search?search=Michael%20Johnston"
     },
     {
-     "name": "Paul Walter Hauser",
+     "name": "Inde Navarrette",
      "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Walter%20Hauser"
+     "url": "stremio:///search?search=Inde%20Navarrette"
     },
     {
-     "name": "Zach Cherry",
+     "name": "Cooper Tomlinson",
      "category": "Cast",
-     "url": "stremio:///search?search=Zach%20Cherry"
+     "url": "stremio:///search?search=Cooper%20Tomlinson"
     },
     {
-     "name": "Zach Cregger",
+     "name": "Curry Barker",
      "category": "Writers",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=Curry%20Barker"
     },
     {
-     "name": "Shay Hatten",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shay%20Hatten"
-    },
-    {
-     "name": "Zach Cregger",
+     "name": "Curry Barker",
      "category": "Directors",
-     "url": "stremio:///search?search=Zach%20Cregger"
+     "url": "stremio:///search?search=Curry%20Barker"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt35538033",
+    "defaultVideoId": "tt37287335",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35538033.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
-   "name": "In the Lost Lands",
    "cast": [
-    "Milla Jovovich",
-    "Dave Bautista",
-    "Arly Jover"
+    "Rebecca Finch",
+    "Mike Kelson",
+    "Rita Di Tuccio"
    ],
-   "country": "Germany, United States, Switzerland, Poland, Canada",
-   "description": "Uma rainha, desesperada por obter o poder de mudar de forma, contrata a feiticeira Gray Alys, uma mulher temida e poderosa. Enviada para as misteriosas Terras Perdidas, Alys e o seu guia, o errante Boyce, enfrentam desafios sobrenaturais e humanos numa fábula que explora os limites entre o bem e o mal, dívida e realização, amor e perda.",
    "director": [
-    "Paul W.S. Anderson"
+    "Becca Hirani"
    ],
+   "imdbRating": "1.9",
+   "name": "Reign of Chaos",
+   "released": "2022-04-12T00:00:00.000Z",
+   "writer": [
+    "Tom Jolliffe"
+   ],
+   "year": "2022",
+   "description": "Quando o mundo é dominado por uma praga desencadeada pelo malvado senhor Caos, e os humanos são transformados em criaturas raivosas, a humanidade só pode ser salva por três jovens, descendentes de uma Deusa, com o poder de deter o mal do Caos.",
+   "dvdRelease": "2022-04-12T00:00:00.000Z",
    "genre": [
     "Action",
-    "Adventure",
-    "Fantasy"
+    "Sci-Fi"
    ],
-   "imdbRating": "4.7",
-   "released": "2025-03-07T00:00:00.000Z",
-   "writer": [
-    "Constantin Werner",
-    "Paul W.S. Anderson",
-    "George R.R. Martin"
-   ],
-   "year": "2025",
-   "runtime": "101 min",
+   "runtime": "77 min",
    "trailers": [
     {
-     "source": "CMyrp5Vk3mU",
+     "source": "12K6JVjEYGA",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt4419684/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4419684/img",
-   "awards": "3 nominations total",
-   "id": "tt4419684",
+   "background": "https://images.metahub.space/background/medium/tt7909204/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7909204/img",
+   "id": "tt7909204",
    "genres": [
     "Ação",
-    "Fantasia",
-    "Faroeste"
+    "Terror",
+    "Fantasia"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "In the Lost Lands",
-     "ytId": "CMyrp5Vk3mU"
+     "title": "Reign of Chaos",
+     "ytId": "12K6JVjEYGA"
     }
    ],
    "links": [
     {
-     "name": "4.7",
+     "name": "2.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4419684"
+     "url": "https://imdb.com/title/tt7909204"
     },
     {
-     "name": "In the Lost Lands",
+     "name": "Reign of Chaos",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/in-the-lost-lands-4419684"
+     "url": "https://www.strem.io/s/movie/reign-of-chaos-7909204"
     },
     {
      "name": "Action",
@@ -337,170 +318,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Adventure",
+     "name": "Sci-Fi",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Milla Jovovich",
+     "name": "Rebecca Finch",
      "category": "Cast",
-     "url": "stremio:///search?search=Milla%20Jovovich"
+     "url": "stremio:///search?search=Rebecca%20Finch"
     },
     {
-     "name": "Dave Bautista",
+     "name": "Mike Kelson",
      "category": "Cast",
-     "url": "stremio:///search?search=Dave%20Bautista"
+     "url": "stremio:///search?search=Mike%20Kelson"
     },
     {
-     "name": "Arly Jover",
+     "name": "Rita Di Tuccio",
      "category": "Cast",
-     "url": "stremio:///search?search=Arly%20Jover"
+     "url": "stremio:///search?search=Rita%20Di%20Tuccio"
     },
     {
-     "name": "Constantin Werner",
+     "name": "Tom Jolliffe",
      "category": "Writers",
-     "url": "stremio:///search?search=Constantin%20Werner"
+     "url": "stremio:///search?search=Tom%20Jolliffe"
     },
     {
-     "name": "Paul W.S. Anderson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Paul%20W.S.%20Anderson"
-    },
-    {
-     "name": "George R.R. Martin",
-     "category": "Writers",
-     "url": "stremio:///search?search=George%20R.R.%20Martin"
-    },
-    {
-     "name": "Paul W.S. Anderson",
+     "name": "Becca Hirani",
      "category": "Directors",
-     "url": "stremio:///search?search=Paul%20W.S.%20Anderson"
+     "url": "stremio:///search?search=Becca%20Hirani"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4419684",
+    "defaultVideoId": "tt7909204",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4419684.jpg"
-  },
-  {
-   "name": "The Whisper Man",
-   "cast": [
-    "Robert De Niro",
-    "Michelle Monaghan",
-    "Adam Scott"
-   ],
-   "country": "United States",
-   "description": "Quando o seu filho pequeno desaparece, um viúvo volta a aproximar-se do pai, um detetive reformado que prendeu o assassino em série ligado ao caso.",
-   "director": [
-    "James Ashcroft"
-   ],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "6.2",
-   "released": null,
-   "writer": [
-    "Ben Jacoby",
-    "Alex North",
-    "Chase Palmer"
-   ],
-   "year": "2026",
-   "runtime": "111 min",
-   "trailers": [
-    {
-     "source": "ZHRR-1CKYIQ",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt11561116/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11561116/img",
-   "id": "tt11561116",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Whisper Man",
-     "ytId": "ZHRR-1CKYIQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Whisper Man",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-whisper-man-11561116"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Robert De Niro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20De%20Niro"
-    },
-    {
-     "name": "Michelle Monaghan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Monaghan"
-    },
-    {
-     "name": "Adam Scott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adam%20Scott"
-    },
-    {
-     "name": "Ben Jacoby",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ben%20Jacoby"
-    },
-    {
-     "name": "Alex North",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alex%20North"
-    },
-    {
-     "name": "Chase Palmer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chase%20Palmer"
-    },
-    {
-     "name": "James Ashcroft",
-     "category": "Directors",
-     "url": "stremio:///search?search=James%20Ashcroft"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt11561116",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11561116.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7909204.jpg"
   },
   {
    "id": "tt37065072",
@@ -628,458 +482,57 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37065072.jpg"
   },
   {
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3/ImageRenderer/111/168/images/no_image_111x168.jpg/188528/images/masterrepository/fandango/188528/ouija2.jpg\" alt=\"Ouija: Origin of Evil\" title=\"Ouija: Origin of Evil\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fouija%3aoriginofevil-trailer%2f188528%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "name": "Ouija: Origin of Evil",
-   "trailers": [
-    {
-     "source": "uVXGLbhozK8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nDyOftZyVeA",
-     "type": "Trailer"
-    },
-    {
-     "source": "MJIcZGEjjwo",
-     "type": "Trailer"
-    }
-   ],
-   "year": "2016",
-   "runtime": "99 min",
-   "genre": [
-    "Drama",
-    "Horror",
-    "Mystery"
-   ],
-   "released": "2016-10-21T00:00:00.000Z",
-   "director": [
-    "Mike Flanagan"
-   ],
-   "writer": [
-    "Mike Flanagan",
-    "Jeff Howard",
-    "Juliet Snowden"
-   ],
+   "name": "The Whisper Man",
    "cast": [
-    "Elizabeth Reaser",
-    "Lulu Wilson",
-    "Annalise Basso"
+    "Robert De Niro",
+    "Michelle Monaghan",
+    "Adam Scott"
+   ],
+   "country": "United States",
+   "description": "Quando o seu filho pequeno desaparece, um viúvo volta a aproximar-se do pai, um detetive reformado que prendeu o assassino em série ligado ao caso.",
+   "director": [
+    "James Ashcroft"
+   ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
    ],
    "imdbRating": "6.2",
-   "description": "Uma mãe viúva que vive com as suas duas filhas, é especialista em enganar clientes com sessões falsas, fingindo comunicar com os espíritos.\r Mas quando Doris, uma das filhas, começa a utilizar o tabuleiro de Ouija para estabelecer comunicação com o falecido pai, acaba por libertar uma série de seres malignos que se apoderam do seu corpo e ameaçam todos que a rodeiam.",
-   "country": "United States",
-   "awards": "2 wins & 7 nominations total",
-   "dvdRelease": "2017-01-11T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4361050/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4361050/img",
-   "id": "tt4361050",
-   "genres": [
-    "Terror"
+   "released": null,
+   "writer": [
+    "Ben Jacoby",
+    "Alex North",
+    "Chase Palmer"
    ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "uVXGLbhozK8"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "nDyOftZyVeA"
-    },
-    {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "MJIcZGEjjwo"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4361050"
-    },
-    {
-     "name": "Ouija: Origin of Evil",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/ouija-origin-of-evil-4361050"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Elizabeth Reaser",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Reaser"
-    },
-    {
-     "name": "Lulu Wilson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lulu%20Wilson"
-    },
-    {
-     "name": "Annalise Basso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Annalise%20Basso"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    },
-    {
-     "name": "Jeff Howard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Howard"
-    },
-    {
-     "name": "Juliet Snowden",
-     "category": "Writers",
-     "url": "stremio:///search?search=Juliet%20Snowden"
-    },
-    {
-     "name": "Mike Flanagan",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mike%20Flanagan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt4361050",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4361050.jpg"
-  },
-  {
-   "awards": "6 wins & 6 nominations total",
-   "cast": [
-    "Emily Baldoni",
-    "Maury Sterling",
-    "Nicholas Brendon"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "Durante um jantar, oito amigos começam a falar sobre a proximidade de um cometa, e sobre os rumores de que a passagem deste corpo celestre é capaz de trazer mudanças graves no comportamento das pessoas. Logo após a discussão, a luz acaba, e estranhos fenômenos começam a acontecer com os convidados, questionando a noção de realidade.",
-   "director": [
-    "James Ward Byrkit"
-   ],
-   "dvdRelease": "2015-11-16T00:00:00.000Z",
-   "genre": [
-    "Mystery",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "imdbRating": "7.1",
-   "name": "Coherence",
-   "released": "2014-08-06T00:00:00.000Z",
-   "runtime": "89 min",
+   "year": "2026",
+   "runtime": "111 min",
    "trailers": [
     {
-     "source": "YixSld-6PqM",
-     "type": "Trailer"
-    },
-    {
-     "source": "sEceDz1Rodc",
+     "source": "ZHRR-1CKYIQ",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "James Ward Byrkit",
-    "Alex Manugian"
-   ],
-   "year": "2014",
-   "background": "https://images.metahub.space/background/medium/tt2866360/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2866360/img",
-   "id": "tt2866360",
+   "background": "https://images.metahub.space/background/medium/tt11561116/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11561116/img",
+   "id": "tt11561116",
    "genres": [
-    "Thriller",
-    "Ficção científica"
-   ],
-   "releaseInfo": "2014",
-   "trailerStreams": [
-    {
-     "title": "Coherence",
-     "ytId": "YixSld-6PqM"
-    },
-    {
-     "title": "Coherence",
-     "ytId": "sEceDz1Rodc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2866360"
-    },
-    {
-     "name": "Coherence",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/coherence-2866360"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Emily Baldoni",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Baldoni"
-    },
-    {
-     "name": "Maury Sterling",
-     "category": "Cast",
-     "url": "stremio:///search?search=Maury%20Sterling"
-    },
-    {
-     "name": "Nicholas Brendon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicholas%20Brendon"
-    },
-    {
-     "name": "James Ward Byrkit",
-     "category": "Writers",
-     "url": "stremio:///search?search=James%20Ward%20Byrkit"
-    },
-    {
-     "name": "Alex Manugian",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alex%20Manugian"
-    },
-    {
-     "name": "James Ward Byrkit",
-     "category": "Directors",
-     "url": "stremio:///search?search=James%20Ward%20Byrkit"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt2866360",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2866360.jpg"
-  },
-  {
-   "name": "Smile",
-   "cast": [
-    "Sosie Bacon",
-    "Jessie T. Usher",
-    "Kyle Gallner"
-   ],
-   "country": "United States",
-   "description": "Depois de testemunhar um bizarro e traumático incidente envolvendo uma paciente, a Dra. Rose Cotter começa a viver momentos assustadores que não consegue explicar. À medida que um terror avassalador começa a apoderar-se da sua vida, Rose terá de enfrentar o seu passado conturbado, para poder sobreviver e escapar a esta terrível nova realidade.",
-   "director": [
-    "Parker Finn"
-   ],
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "6.5",
-   "released": "2022-09-30T00:00:00.000Z",
-   "writer": [
-    "Parker Finn"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "-8d987Wtkxs",
-     "type": "Trailer"
-    },
-    {
-     "source": "BcDK7lkzzsU",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15474916/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15474916/img",
-   "runtime": "115 min",
-   "awards": "3 wins & 22 nominations total",
-   "dvdRelease": "2022-11-15T00:00:00.000Z",
-   "id": "tt15474916",
-   "genres": [
-    "Terror",
-    "Mistério"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Smile",
-     "ytId": "-8d987Wtkxs"
-    },
-    {
-     "title": "Smile",
-     "ytId": "BcDK7lkzzsU"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15474916"
-    },
-    {
-     "name": "Smile",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/smile-15474916"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Sosie Bacon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sosie%20Bacon"
-    },
-    {
-     "name": "Jessie T. Usher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessie%20T.%20Usher"
-    },
-    {
-     "name": "Kyle Gallner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kyle%20Gallner"
-    },
-    {
-     "name": "Parker Finn",
-     "category": "Writers",
-     "url": "stremio:///search?search=Parker%20Finn"
-    },
-    {
-     "name": "Parker Finn",
-     "category": "Directors",
-     "url": "stremio:///search?search=Parker%20Finn"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt15474916",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15474916.jpg"
-  },
-  {
-   "awards": "Won 5 Oscars. 71 wins & 50 nominations total",
-   "cast": [
-    "Jodie Foster",
-    "Anthony Hopkins",
-    "Scott Glenn"
-   ],
-   "country": "United States",
-   "description": "Clarice Starling, uma jovem agente do FBI, é destacada para encontrar uma mulher raptada e salvá-la de um psicopata homicida que anda a criar o pânico. Para perceber a mente do assassino, Clarice vai procurar outro género de assassino, o brilhante mas demente Hannibal Lecter, que poderá fornecer pistas para acabar com as mortes. Mas Hannibal, um psiquiatra condenado por ser um assassino canibal, só concorda ajudar Clarice se esta lhe abrir a sua vida e os seus pormenores intímos...",
-   "director": [
-    "Jonathan Demme"
-   ],
-   "dvdRelease": "2015-08-27T00:00:00.000Z",
-   "genre": [
     "Crime",
     "Drama",
-    "Horror"
+    "Thriller"
    ],
-   "imdbRating": "8.6",
-   "name": "The Silence of the Lambs",
-   "released": "1991-02-14T00:00:00.000Z",
-   "runtime": "119 min",
-   "trailers": [
-    {
-     "source": "6iB21hsprAQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "Msigx2eqO6s",
-     "type": "Trailer"
-    },
-    {
-     "source": "gSQciiKhqXc",
-     "type": "Trailer"
-    },
-    {
-     "source": "W6Mm8Sbe__o",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Thomas Harris",
-    "Ted Tally"
-   ],
-   "year": "1991",
-   "background": "https://images.metahub.space/background/medium/tt0102926/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0102926/img",
-   "id": "tt0102926",
-   "genres": [
-    "Crime",
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "1991",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Silence of the Lambs",
-     "ytId": "6iB21hsprAQ"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "Msigx2eqO6s"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "gSQciiKhqXc"
-    },
-    {
-     "title": "The Silence of the Lambs",
-     "ytId": "W6Mm8Sbe__o"
+     "title": "The Whisper Man",
+     "ytId": "ZHRR-1CKYIQ"
     }
    ],
    "links": [
     {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0102926"
-    },
-    {
-     "name": "The Silence of the Lambs",
+     "name": "The Whisper Man",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-silence-of-the-lambs-0102926"
+     "url": "https://www.strem.io/s/movie/the-whisper-man-11561116"
     },
     {
      "name": "Crime",
@@ -1092,123 +545,224 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Robert De Niro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20De%20Niro"
+    },
+    {
+     "name": "Michelle Monaghan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Monaghan"
+    },
+    {
+     "name": "Adam Scott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Adam%20Scott"
+    },
+    {
+     "name": "Ben Jacoby",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ben%20Jacoby"
+    },
+    {
+     "name": "Alex North",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20North"
+    },
+    {
+     "name": "Chase Palmer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chase%20Palmer"
+    },
+    {
+     "name": "James Ashcroft",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20Ashcroft"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt11561116",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11561116.jpg"
+  },
+  {
+   "name": "Backrooms",
+   "cast": [
+    "Chiwetel Ejiofor",
+    "Renate Reinsve",
+    "Mark Duplass"
+   ],
+   "country": "United States, Canada",
+   "description": "Inspirado no fenómeno viral da internet criado por Kane Parsons, Backrooms acompanha a descoberta de uma misteriosa passagem que conduz a uma dimensão paralela composta por corredores intermináveis, espaços vazios e labirínticos, iluminados por uma luz artificial inquietante. À medida que diferentes personagens entram neste universo estranho e claustrofóbico, percebem que não estão sozinhas: algo se esconde nas “Backrooms”. Presos num lugar onde a lógica da realidade deixa de existir, terão de lutar para sobreviver e encontrar uma saída — antes que sejam consumidos por forças desconhecidas.",
+   "director": [
+    "Kane Parsons"
+   ],
+   "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "6.7",
+   "released": "2026-05-29T00:00:00.000Z",
+   "writer": [
+    "Will Soodik",
+    "Kane Parsons"
+   ],
+   "year": "2026",
+   "runtime": "111 min",
+   "trailers": [
+    {
+     "source": "0HjdiohVOik",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt26657236/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26657236/img",
+   "awards": "14 nominations total",
+   "id": "tt26657236",
+   "genres": [
+    "Terror",
+    "Mistério",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Backrooms",
+     "ytId": "0HjdiohVOik"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26657236"
+    },
+    {
+     "name": "Backrooms",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/backrooms-26657236"
+    },
+    {
      "name": "Horror",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Jodie Foster",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jodie%20Foster"
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
     },
     {
-     "name": "Anthony Hopkins",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anthony%20Hopkins"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Scott Glenn",
+     "name": "Chiwetel Ejiofor",
      "category": "Cast",
-     "url": "stremio:///search?search=Scott%20Glenn"
+     "url": "stremio:///search?search=Chiwetel%20Ejiofor"
     },
     {
-     "name": "Thomas Harris",
+     "name": "Renate Reinsve",
+     "category": "Cast",
+     "url": "stremio:///search?search=Renate%20Reinsve"
+    },
+    {
+     "name": "Mark Duplass",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mark%20Duplass"
+    },
+    {
+     "name": "Will Soodik",
      "category": "Writers",
-     "url": "stremio:///search?search=Thomas%20Harris"
+     "url": "stremio:///search?search=Will%20Soodik"
     },
     {
-     "name": "Ted Tally",
+     "name": "Kane Parsons",
      "category": "Writers",
-     "url": "stremio:///search?search=Ted%20Tally"
+     "url": "stremio:///search?search=Kane%20Parsons"
     },
     {
-     "name": "Jonathan Demme",
+     "name": "Kane Parsons",
      "category": "Directors",
-     "url": "stremio:///search?search=Jonathan%20Demme"
+     "url": "stremio:///search?search=Kane%20Parsons"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0102926",
+    "defaultVideoId": "tt26657236",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0102926.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26657236.jpg"
   },
   {
-   "name": "Exit 8",
+   "name": "In the Lost Lands",
    "cast": [
-    "Kazunari Ninomiya",
-    "Yamato Kochi",
-    "Naru Asanuma"
+    "Milla Jovovich",
+    "Dave Bautista",
+    "Arly Jover"
    ],
-   "country": "Japan",
-   "description": "Um homem, preso numa passagem interminável e estéril do metro, parte à procura da Saída 8, seguindo uma regra simples: não ignorar nada fora do comum. Se detetar uma anomalia, deve regressar imediatamente. Se não descobrir nada, pode continuar. O objetivo final é sair pela Saída 8, mas um único descuido pode enviá-lo de volta ao início.",
+   "country": "Germany, United States, Switzerland, Poland, Canada",
+   "description": "Uma rainha, desesperada por obter o poder de mudar de forma, contrata a feiticeira Gray Alys, uma mulher temida e poderosa. Enviada para as misteriosas Terras Perdidas, Alys e o seu guia, o errante Boyce, enfrentam desafios sobrenaturais e humanos numa fábula que explora os limites entre o bem e o mal, dívida e realização, amor e perda.",
    "director": [
-    "Genki Kawamura"
+    "Paul W.S. Anderson"
    ],
    "genre": [
     "Action",
     "Adventure",
-    "Horror"
+    "Fantasy"
    ],
-   "imdbRating": "6.5",
-   "released": "2025-08-29T00:00:00.000Z",
+   "imdbRating": "4.7",
+   "released": "2025-03-07T00:00:00.000Z",
    "writer": [
-    "Kotake Create",
-    "Kentaro Hirase",
-    "Genki Kawamura"
+    "Constantin Werner",
+    "Paul W.S. Anderson",
+    "George R.R. Martin"
    ],
    "year": "2025",
-   "runtime": "95 min",
+   "runtime": "101 min",
    "trailers": [
     {
-     "source": "zzEDWwhtAHc",
-     "type": "Trailer"
-    },
-    {
-     "source": "DlRQ1oatOt8",
-     "type": "Trailer"
-    },
-    {
-     "source": "emZZexEJO8c",
+     "source": "CMyrp5Vk3mU",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt35222590/img",
-   "logo": "https://images.metahub.space/logo/medium/tt35222590/img",
-   "awards": "2 wins & 7 nominations total",
-   "id": "tt35222590",
+   "background": "https://images.metahub.space/background/medium/tt4419684/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4419684/img",
+   "awards": "3 nominations total",
+   "id": "tt4419684",
    "genres": [
-    "Mistério",
-    "Thriller",
-    "Terror"
+    "Ação",
+    "Fantasia",
+    "Faroeste"
    ],
    "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "Exit 8",
-     "ytId": "zzEDWwhtAHc"
-    },
-    {
-     "title": "Exit 8",
-     "ytId": "DlRQ1oatOt8"
-    },
-    {
-     "title": "Exit 8",
-     "ytId": "emZZexEJO8c"
+     "title": "In the Lost Lands",
+     "ytId": "CMyrp5Vk3mU"
     }
    ],
    "links": [
     {
-     "name": "6.5",
+     "name": "4.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt35222590"
+     "url": "https://imdb.com/title/tt4419684"
     },
     {
-     "name": "Exit 8",
+     "name": "In the Lost Lands",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/exit-8-35222590"
+     "url": "https://www.strem.io/s/movie/in-the-lost-lands-4419684"
     },
     {
      "name": "Action",
@@ -1221,53 +775,360 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Milla Jovovich",
+     "category": "Cast",
+     "url": "stremio:///search?search=Milla%20Jovovich"
+    },
+    {
+     "name": "Dave Bautista",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Bautista"
+    },
+    {
+     "name": "Arly Jover",
+     "category": "Cast",
+     "url": "stremio:///search?search=Arly%20Jover"
+    },
+    {
+     "name": "Constantin Werner",
+     "category": "Writers",
+     "url": "stremio:///search?search=Constantin%20Werner"
+    },
+    {
+     "name": "Paul W.S. Anderson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20W.S.%20Anderson"
+    },
+    {
+     "name": "George R.R. Martin",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
+    },
+    {
+     "name": "Paul W.S. Anderson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Paul%20W.S.%20Anderson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt4419684",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4419684.jpg"
+  },
+  {
+   "name": "Resident Evil",
+   "cast": [
+    "Austin Abrams",
+    "Paul Walter Hauser",
+    "Zach Cherry"
+   ],
+   "country": "Germany, United States",
+   "description": "Bryan, um estafeta médico, está a fazer uma entrega quando ocorre um surto repentino, obrigando-o a lutar pela sobrevivência.",
+   "director": [
+    "Zach Cregger"
+   ],
+   "genre": [
+    "Action",
+    "Horror",
+    "Sci-Fi"
+   ],
+   "imdbRating": "7.4",
+   "released": "2026-09-18T00:00:00.000Z",
+   "writer": [
+    "Zach Cregger",
+    "Shay Hatten"
+   ],
+   "year": "2026",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "mNd1gb19A-c",
+     "type": "Trailer"
+    },
+    {
+     "source": "SJPu1spHqfk",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt35538033/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35538033/img",
+   "id": "tt35538033",
+   "genres": [
+    "Terror",
+    "Ficção científica",
+    "Aventura"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Resident Evil",
+     "ytId": "mNd1gb19A-c"
+    },
+    {
+     "title": "Resident Evil",
+     "ytId": "SJPu1spHqfk"
+    }
+   ],
+   "links": [
+    {
+     "name": "Resident Evil",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/resident-evil-35538033"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
      "name": "Horror",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Kazunari Ninomiya",
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Austin Abrams",
      "category": "Cast",
-     "url": "stremio:///search?search=Kazunari%20Ninomiya"
+     "url": "stremio:///search?search=Austin%20Abrams"
     },
     {
-     "name": "Yamato Kochi",
+     "name": "Paul Walter Hauser",
      "category": "Cast",
-     "url": "stremio:///search?search=Yamato%20Kochi"
+     "url": "stremio:///search?search=Paul%20Walter%20Hauser"
     },
     {
-     "name": "Naru Asanuma",
+     "name": "Zach Cherry",
      "category": "Cast",
-     "url": "stremio:///search?search=Naru%20Asanuma"
+     "url": "stremio:///search?search=Zach%20Cherry"
     },
     {
-     "name": "Kotake Create",
+     "name": "Zach Cregger",
      "category": "Writers",
-     "url": "stremio:///search?search=Kotake%20Create"
+     "url": "stremio:///search?search=Zach%20Cregger"
     },
     {
-     "name": "Kentaro Hirase",
+     "name": "Shay Hatten",
      "category": "Writers",
-     "url": "stremio:///search?search=Kentaro%20Hirase"
+     "url": "stremio:///search?search=Shay%20Hatten"
     },
     {
-     "name": "Genki Kawamura",
-     "category": "Writers",
-     "url": "stremio:///search?search=Genki%20Kawamura"
-    },
-    {
-     "name": "Genki Kawamura",
+     "name": "Zach Cregger",
      "category": "Directors",
-     "url": "stremio:///search?search=Genki%20Kawamura"
+     "url": "stremio:///search?search=Zach%20Cregger"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt35222590",
+    "defaultVideoId": "tt35538033",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35222590.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35538033.jpg"
+  },
+  {
+   "id": "tt21044376",
+   "logo": "https://live.metahub.space/logo/medium/tt21044376/img",
+   "background": "https://live.metahub.space/background/medium/tt21044376/img",
+   "name": "Sharkers",
+   "description": "A hot young couple decide to spice up their sex life by having a threesome with another man, however it does not go to plan which leads our hero on a self-destructive, sexy and unexpectedly violent night out.",
+   "genres": [
+    "Comédia",
+    "Thriller",
+    "Crime"
+   ],
+   "releaseInfo": "2024",
+   "runtime": "88 min",
+   "trailers": [
+    {
+     "source": "dilB_qnTfvE",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Niki Burton",
+    "Neal Ward",
+    "Patrick Chamberlain"
+   ],
+   "credits_cast": [
+    {
+     "character": "Franky",
+     "name": "Niki Burton",
+     "profile_path": null,
+     "id": 4888020
+    },
+    {
+     "character": "Tony",
+     "name": "Neal Ward",
+     "profile_path": "/sfUq1cb3XBLj6MSBV7gWUxAYKKZ.jpg",
+     "id": 2256229
+    },
+    {
+     "character": "Kevin",
+     "name": "Patrick Chamberlain",
+     "profile_path": "/v3Y9zPI7Ym90rCVhB3rzBVlHey3.jpg",
+     "id": 4887198
+    },
+    {
+     "character": "Lauren",
+     "name": "Miki Davis",
+     "profile_path": "/3F4u1lYRFs2KVUT4Im3Ez6i5kqp.jpg",
+     "id": 3631500
+    },
+    {
+     "character": "Mercedes",
+     "name": "Eden Jodie",
+     "profile_path": "/leS8mtWhIL57qgeLKG6L5WiMwrT.jpg",
+     "id": 3922414
+    },
+    {
+     "character": "Harry",
+     "name": "Harry Rafferty",
+     "profile_path": "/8k5ROk4EpejBxzlH1ruILpzVLiW.jpg",
+     "id": 1840068
+    },
+    {
+     "character": "Nadine",
+     "name": "Samantha Loxley",
+     "profile_path": "/soFuTYsM7D9KXtQcFoLzIxN7CC0.jpg",
+     "id": 2800199
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Patrick Chamberlain",
+     "profile_path": "/v3Y9zPI7Ym90rCVhB3rzBVlHey3.jpg",
+     "id": 4887198
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Patrick Chamberlain",
+     "profile_path": "/v3Y9zPI7Ym90rCVhB3rzBVlHey3.jpg",
+     "id": 4887198
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Tom Aiston",
+     "profile_path": null,
+     "id": 4888083
+    }
+   ],
+   "director": [
+    "Patrick Chamberlain"
+   ],
+   "imdbRating": "4.0",
+   "language": "English",
+   "country": "United Kingdom",
+   "behaviorHints": {
+    "defaultVideoId": "tt21044376",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21044376.jpg"
+  },
+  {
+   "id": "tt46065222",
+   "logo": "https://live.metahub.space/logo/medium/tt46065222/img",
+   "background": "https://live.metahub.space/background/medium/tt46065222/img",
+   "name": "Stellar Web",
+   "description": "",
+   "genres": [
+    "Terror",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2026",
+   "trailers": [],
+   "cast": [
+    "Christopher Henry",
+    "Claude Xavier",
+    "Melissa Dawn Smith"
+   ],
+   "credits_cast": [
+    {
+     "character": "Mason",
+     "name": "Christopher Henry",
+     "profile_path": null,
+     "id": 4505015
+    },
+    {
+     "character": "Taner",
+     "name": "Claude Xavier",
+     "profile_path": null,
+     "id": 6427561
+    },
+    {
+     "character": "Carri",
+     "name": "Melissa Dawn Smith",
+     "profile_path": null,
+     "id": 1358930
+    },
+    {
+     "character": "CINI",
+     "name": "Nikki Young",
+     "profile_path": null,
+     "id": 3079291
+    },
+    {
+     "character": "Sergio",
+     "name": "Sérgio Cantú",
+     "profile_path": null,
+     "id": 2171834
+    },
+    {
+     "character": "Cole",
+     "name": "Cliff Dean",
+     "profile_path": null,
+     "id": 4590346
+    },
+    {
+     "character": "Raven",
+     "name": "Lisa Butala",
+     "profile_path": null,
+     "id": 4505020
+    },
+    {
+     "character": "Jake",
+     "name": "Jake Jecmenek",
+     "profile_path": "/3jYrSlfpp84hoaOczd6bstfDOtZ.jpg",
+     "id": 3712092
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Brett William Mauser",
+     "profile_path": "/cILC8VqPcJ8fEzC6YOPOSXp403G.jpg",
+     "id": 1465605
+    }
+   ],
+   "director": [
+    "Brett William Mauser"
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt46065222",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46065222.jpg",
+   "imdbRating": "5.6"
   }
  ]
 }

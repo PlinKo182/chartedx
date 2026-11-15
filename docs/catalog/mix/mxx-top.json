@@ -398,7 +398,198 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
-   "imdbRating": "7.4"
+   "imdbRating": "7.7"
+  },
+  {
+   "name": "London Has Fallen",
+   "year": "2016",
+   "runtime": "99 min",
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "released": "2016-03-04T00:00:00.000Z",
+   "director": [
+    "Babak Najafi"
+   ],
+   "writer": [
+    "Creighton Rothenberger",
+    "Katrin Benedikt",
+    "Christian Gudegast"
+   ],
+   "cast": [
+    "Gerard Butler",
+    "Aaron Eckhart",
+    "Morgan Freeman"
+   ],
+   "imdbRating": "5.9",
+   "description": "O primeiro-ministro britânico faleceu em circunstâncias misteriosas. A maioria dos Estados ocidentais está representada pelos seus líderes, que se encontram em Londres para uma última homenagem. Porém, apesar das extremas medidas de segurança, um grupo de terroristas decide aproveitar o funeral para um ataque em larga escala com o objectivo de matar todos os chefes de Estado presentes na cerimónia. Determinados a lançar o caos, os criminosos são início à destruição dos principais monumentos e pontos turísticos da cidade. O plano é replicar o atentado nas maiores cidades do Mundo. Agora, a esperança de abortar o projecto e salvar milhares de vidas fica a cargo de um grupo muito restrito de pessoas: Benjamin Asher, o presidente dos EUA; Mike Banning, o chefe dos serviços secretos norte-americanos; o vice-presidente britânico Allan Trumbull; e uma agente inglesa do MI6, desconfiada e implacável nas suas acções.",
+   "country": "United Kingdom, Bulgaria, United States",
+   "awards": "1 win & 2 nominations total",
+   "dvdRelease": "2016-10-04T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "oQhX4JxGHtw",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt3300542/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3300542/img",
+   "id": "tt3300542",
+   "genres": [
+    "Ação",
+    "Aventura",
+    "Thriller"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "London Has Fallen",
+     "ytId": "oQhX4JxGHtw"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3300542"
+    },
+    {
+     "name": "London Has Fallen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/london-has-fallen-3300542"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Gerard Butler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gerard%20Butler"
+    },
+    {
+     "name": "Aaron Eckhart",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aaron%20Eckhart"
+    },
+    {
+     "name": "Morgan Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Morgan%20Freeman"
+    },
+    {
+     "name": "Creighton Rothenberger",
+     "category": "Writers",
+     "url": "stremio:///search?search=Creighton%20Rothenberger"
+    },
+    {
+     "name": "Katrin Benedikt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katrin%20Benedikt"
+    },
+    {
+     "name": "Christian Gudegast",
+     "category": "Writers",
+     "url": "stremio:///search?search=Christian%20Gudegast"
+    },
+    {
+     "name": "Babak Najafi",
+     "category": "Directors",
+     "url": "stremio:///search?search=Babak%20Najafi"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3300542",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3300542.jpg"
+  },
+  {
+   "id": "tt39980704",
+   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
+   "background": "https://live.metahub.space/background/medium/tt39980704/img",
+   "name": "YAGA",
+   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Carrie-Anne Moss",
+    "Clark Backo",
+    "Noah Reid"
+   ],
+   "credits_cast": [
+    {
+     "character": "Katherine",
+     "name": "Carrie-Anne Moss",
+     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
+     "id": 530
+    },
+    {
+     "character": "Carson",
+     "name": "Clark Backo",
+     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
+     "id": 1861573
+    },
+    {
+     "character": "Rapp",
+     "name": "Noah Reid",
+     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
+     "id": 199586
+    },
+    {
+     "character": "Henry Park",
+     "name": "Hudson Williams",
+     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
+     "id": 4194612
+    },
+    {
+     "character": "Pam",
+     "name": "Ezra Franky",
+     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
+     "id": 3821010
+    },
+    {
+     "character": "Eckert",
+     "name": "Patrick Gilmore",
+     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
+     "id": 76828
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Charles Cooper",
+     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
+     "id": 2313876
+    }
+   ],
+   "director": [],
+   "language": "English, Ukrainian",
+   "country": "Canada",
+   "awards": "1 nomination total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+   "imdbRating": "6.9"
   },
   {
    "name": "The Whale",
@@ -502,211 +693,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13833688.jpg"
   },
   {
-   "id": "tt39980704",
-   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
-   "background": "https://live.metahub.space/background/medium/tt39980704/img",
-   "name": "YAGA",
-   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Carrie-Anne Moss",
-    "Clark Backo",
-    "Noah Reid"
-   ],
-   "credits_cast": [
-    {
-     "character": "Katherine",
-     "name": "Carrie-Anne Moss",
-     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
-     "id": 530
-    },
-    {
-     "character": "Carson",
-     "name": "Clark Backo",
-     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
-     "id": 1861573
-    },
-    {
-     "character": "Rapp",
-     "name": "Noah Reid",
-     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
-     "id": 199586
-    },
-    {
-     "character": "Henry Park",
-     "name": "Hudson Williams",
-     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
-     "id": 4194612
-    },
-    {
-     "character": "Pam",
-     "name": "Ezra Franky",
-     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
-     "id": 3821010
-    },
-    {
-     "character": "Eckert",
-     "name": "Patrick Gilmore",
-     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
-     "id": 76828
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Charles Cooper",
-     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
-     "id": 2313876
-    }
-   ],
-   "director": [],
-   "language": "English, Ukrainian",
-   "country": "Canada",
-   "awards": "1 nomination total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "6.9"
-  },
-  {
-   "awards": "6 nominations total",
-   "cast": [
-    "Betsy Palmer",
-    "Adrienne King",
-    "Jeannine Taylor"
-   ],
-   "country": "United States",
-   "description": "Em 1958, dois adolescentes fogem do acampamento Crystal Lake para passar uma noite romântica mas são perseguidos e mortos por um assassino. Vinte anos depois, em 1979, o acampamento  é reaberto, mas quando os novos monitores recém-contratados começam a desaparecer, os piores receios de todos concretizam-se.",
-   "director": [
-    "Sean S. Cunningham"
-   ],
-   "dvdRelease": "2011-01-01T00:00:00.000Z",
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "6.3",
-   "name": "Friday the 13th",
-   "released": "1980-05-09T00:00:00.000Z",
-   "runtime": "95 min",
-   "trailers": [
-    {
-     "source": "8nYuu5jpWVs",
-     "type": "Trailer"
-    },
-    {
-     "source": "sAzkW7HFh5U",
-     "type": "Trailer"
-    },
-    {
-     "source": "aDrOvFtzyPQ",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Victor Miller",
-    "Ron Kurz"
-   ],
-   "year": "1980",
-   "background": "https://images.metahub.space/background/medium/tt0080761/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0080761/img",
-   "id": "tt0080761",
-   "genres": [
-    "Terror"
-   ],
-   "releaseInfo": "1980",
-   "trailerStreams": [
-    {
-     "title": "Friday the 13th",
-     "ytId": "8nYuu5jpWVs"
-    },
-    {
-     "title": "Friday the 13th",
-     "ytId": "sAzkW7HFh5U"
-    },
-    {
-     "title": "Friday the 13th",
-     "ytId": "aDrOvFtzyPQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0080761"
-    },
-    {
-     "name": "Friday the 13th",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/friday-the-13th-0080761"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Betsy Palmer",
-     "category": "Cast",
-     "url": "stremio:///search?search=Betsy%20Palmer"
-    },
-    {
-     "name": "Adrienne King",
-     "category": "Cast",
-     "url": "stremio:///search?search=Adrienne%20King"
-    },
-    {
-     "name": "Jeannine Taylor",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeannine%20Taylor"
-    },
-    {
-     "name": "Victor Miller",
-     "category": "Writers",
-     "url": "stremio:///search?search=Victor%20Miller"
-    },
-    {
-     "name": "Ron Kurz",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Kurz"
-    },
-    {
-     "name": "Sean S. Cunningham",
-     "category": "Directors",
-     "url": "stremio:///search?search=Sean%20S.%20Cunningham"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0080761",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0080761.jpg"
-  },
-  {
    "name": "The Institute",
    "cast": [
     "Ben Barnes",
@@ -804,6 +790,236 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10946316.jpg"
+  },
+  {
+   "name": "Angel Has Fallen",
+   "year": "2019",
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "released": "2019-08-23T00:00:00.000Z",
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "writer": [
+    "Robert Mark Kamen",
+    "Matt Cook",
+    "Ric Roman Waugh"
+   ],
+   "cast": [
+    "Gerard Butler",
+    "Frederick Schmidt",
+    "Danny Huston"
+   ],
+   "imdbRating": "6.4",
+   "description": "Depois de uma tentativa de assassinato contra Allan Trumbull, Presidente dos EUA, o seu fiel confidente e agente dos serviços secretos Mike Banning, é erradamente acusado e detido por essa tentativa. Depois de escapar à detenção, torna-se um foragido e é obrigado a fugir à sua própria agência para descobrir a verdadeira ameaça contra o Presidente. Desesperado para encontrar a verdade, Banning recorre a aliados improváveis para ajudar a limpar o seu nome, manter a família a salvo e salvar o país dos perigos iminentes.",
+   "country": "United States, United Kingdom, Portugal, Canada, Bulgaria",
+   "trailers": [
+    {
+     "source": "l4AQchYSxwc",
+     "type": "Trailer"
+    },
+    {
+     "source": "5U2AJvU3bl4",
+     "type": "Trailer"
+    },
+    {
+     "source": "XF8h3hOGBJM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt6189022/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6189022/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727/ImageRenderer/111/168/images/no_image_111x168.jpg/218538/images/masterrepository/fandango/218538/angelhasfallen-onlinepayoff_1944x2880.jpg\" alt=\"Angel Has Fallen\" title=\"Angel Has Fallen\" border=\"0\" /></a> Opens Friday, Aug 23, 2019</p><p>When there is an assassination attempt on U.S. President Allan Trumbull (Morgan Freeman), his trusted confidant, Secret Service Agent Mike Banning (Gerard Butler), is wrongfully accused and taken into custody. </p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fangelhasfallen-trailer%2f218538%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123"
+   },
+   "runtime": "122 min",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "1 nomination total",
+   "id": "tt6189022",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "l4AQchYSxwc"
+    },
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "5U2AJvU3bl4"
+    },
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "XF8h3hOGBJM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6189022"
+    },
+    {
+     "name": "Angel Has Fallen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/angel-has-fallen-6189022"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Gerard Butler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gerard%20Butler"
+    },
+    {
+     "name": "Frederick Schmidt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Frederick%20Schmidt"
+    },
+    {
+     "name": "Danny Huston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Huston"
+    },
+    {
+     "name": "Robert Mark Kamen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Mark%20Kamen"
+    },
+    {
+     "name": "Matt Cook",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Cook"
+    },
+    {
+     "name": "Ric Roman Waugh",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
+    },
+    {
+     "name": "Ric Roman Waugh",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6189022",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6189022.jpg"
+  },
+  {
+   "name": "Georgie & Mandy's First Marriage",
+   "cast": [
+    "Montana Jordan",
+    "Emily Osment",
+    "Rachel Bay Jones"
+   ],
+   "country": "United States",
+   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "7.1",
+   "released": "2024-10-17T00:00:00.000Z",
+   "writer": [
+    "Steve Holland",
+    "Chuck Lorre",
+    "Steven Molaro"
+   ],
+   "year": "2024–",
+   "runtime": "19 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ZbdK-QJtFKI",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt31589662/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
+   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
+   "id": "tt31589662",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Georgie & Mandy's First Marriage",
+     "ytId": "ZbdK-QJtFKI"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31589662"
+    },
+    {
+     "name": "Georgie & Mandy's First Marriage",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Montana Jordan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Montana%20Jordan"
+    },
+    {
+     "name": "Emily Osment",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Osment"
+    },
+    {
+     "name": "Rachel Bay Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
+    },
+    {
+     "name": "Steve Holland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Holland"
+    },
+    {
+     "name": "Chuck Lorre",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chuck%20Lorre"
+    },
+    {
+     "name": "Steven Molaro",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Molaro"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
   },
   {
    "name": "Twisters",
@@ -947,217 +1163,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12584954.jpg"
   },
   {
-   "name": "Georgie & Mandy's First Marriage",
-   "cast": [
-    "Montana Jordan",
-    "Emily Osment",
-    "Rachel Bay Jones"
-   ],
-   "country": "United States",
-   "description": "A Georgie e a Mandy criam a sua jovem família no Texas, enquanto enfrentam os desafios da vida adulta, da maternidade e do casamento.",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-10-17T00:00:00.000Z",
-   "writer": [
-    "Steve Holland",
-    "Chuck Lorre",
-    "Steven Molaro"
-   ],
-   "year": "2024–",
-   "runtime": "19 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ZbdK-QJtFKI",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt31589662/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31589662/img",
-   "awards": "Nominated for 1 Primetime Emmy. 2 nominations total",
-   "id": "tt31589662",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Georgie & Mandy's First Marriage",
-     "ytId": "ZbdK-QJtFKI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31589662"
-    },
-    {
-     "name": "Georgie & Mandy's First Marriage",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/georgie-mandys-first-marriage-31589662"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Montana Jordan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Montana%20Jordan"
-    },
-    {
-     "name": "Emily Osment",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emily%20Osment"
-    },
-    {
-     "name": "Rachel Bay Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rachel%20Bay%20Jones"
-    },
-    {
-     "name": "Steve Holland",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steve%20Holland"
-    },
-    {
-     "name": "Chuck Lorre",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chuck%20Lorre"
-    },
-    {
-     "name": "Steven Molaro",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Molaro"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
-  },
-  {
-   "name": "London Has Fallen",
-   "year": "2016",
-   "runtime": "99 min",
-   "genre": [
-    "Action",
-    "Thriller"
-   ],
-   "released": "2016-03-04T00:00:00.000Z",
-   "director": [
-    "Babak Najafi"
-   ],
-   "writer": [
-    "Creighton Rothenberger",
-    "Katrin Benedikt",
-    "Christian Gudegast"
-   ],
-   "cast": [
-    "Gerard Butler",
-    "Aaron Eckhart",
-    "Morgan Freeman"
-   ],
-   "imdbRating": "5.9",
-   "description": "O primeiro-ministro britânico faleceu em circunstâncias misteriosas. A maioria dos Estados ocidentais está representada pelos seus líderes, que se encontram em Londres para uma última homenagem. Porém, apesar das extremas medidas de segurança, um grupo de terroristas decide aproveitar o funeral para um ataque em larga escala com o objectivo de matar todos os chefes de Estado presentes na cerimónia. Determinados a lançar o caos, os criminosos são início à destruição dos principais monumentos e pontos turísticos da cidade. O plano é replicar o atentado nas maiores cidades do Mundo. Agora, a esperança de abortar o projecto e salvar milhares de vidas fica a cargo de um grupo muito restrito de pessoas: Benjamin Asher, o presidente dos EUA; Mike Banning, o chefe dos serviços secretos norte-americanos; o vice-presidente britânico Allan Trumbull; e uma agente inglesa do MI6, desconfiada e implacável nas suas acções.",
-   "country": "United Kingdom, Bulgaria, United States",
-   "awards": "1 win & 2 nominations total",
-   "dvdRelease": "2016-10-04T00:00:00.000Z",
-   "trailers": [
-    {
-     "source": "oQhX4JxGHtw",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt3300542/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3300542/img",
-   "id": "tt3300542",
-   "genres": [
-    "Ação",
-    "Aventura",
-    "Thriller"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "London Has Fallen",
-     "ytId": "oQhX4JxGHtw"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt3300542"
-    },
-    {
-     "name": "London Has Fallen",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/london-has-fallen-3300542"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Gerard Butler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Butler"
-    },
-    {
-     "name": "Aaron Eckhart",
-     "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Eckhart"
-    },
-    {
-     "name": "Morgan Freeman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Morgan%20Freeman"
-    },
-    {
-     "name": "Creighton Rothenberger",
-     "category": "Writers",
-     "url": "stremio:///search?search=Creighton%20Rothenberger"
-    },
-    {
-     "name": "Katrin Benedikt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Katrin%20Benedikt"
-    },
-    {
-     "name": "Christian Gudegast",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christian%20Gudegast"
-    },
-    {
-     "name": "Babak Najafi",
-     "category": "Directors",
-     "url": "stremio:///search?search=Babak%20Najafi"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt3300542",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3300542.jpg"
-  },
-  {
    "name": "City of God: The Fight Rages On",
    "cast": [
     "Alexandre Rodrigues",
@@ -1241,6 +1246,402 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
+  },
+  {
+   "id": "tt25427082",
+   "logo": "https://live.metahub.space/logo/medium/tt25427082/img",
+   "background": "https://live.metahub.space/background/medium/tt25427082/img",
+   "name": "Balas & Bolinhos: Só Mais Uma Coisa",
+   "description": "Culatra, Rato e Tone são obrigados a voltar para casa dos seus pais e ali tentam uma vez mais agarrar a oportunidade das suas vidas. Mas tudo se complica quando esta reunião se transforma numa verdadeira confusão.",
+   "genres": [
+    "Comédia",
+    "Ação"
+   ],
+   "releaseInfo": "2024",
+   "runtime": "113 min",
+   "trailers": [],
+   "cast": [
+    "Luís Ismael",
+    "Jorge Neto",
+    "J.D. Duarte"
+   ],
+   "credits_cast": [
+    {
+     "character": "Tone",
+     "name": "Luís Ismael",
+     "profile_path": "/oyaMsuiYwY4l9gM4mkzyA88DIME.jpg",
+     "id": 1018060
+    },
+    {
+     "character": "Rato",
+     "name": "Jorge Neto",
+     "profile_path": "/tT4ONPWXUnSbWqDV0XFvDkWIpvb.jpg",
+     "id": 1018064
+    },
+    {
+     "character": "Quim Culatra",
+     "name": "J.D. Duarte",
+     "profile_path": "/3tP9XYVzW761bxAZLkwH6dtaa6k.jpg",
+     "id": 1018061
+    },
+    {
+     "character": "Bino",
+     "name": "João Pires",
+     "profile_path": null,
+     "id": 1037848
+    },
+    {
+     "character": "",
+     "name": "Eduardo Madeira",
+     "profile_path": "/5bx8e1pNQL2kT1T6oxMjMu8pGWa.jpg",
+     "id": 1161634
+    },
+    {
+     "character": "",
+     "name": "Paulo Azevedo",
+     "profile_path": "/fExiO9IVr0OqtmIpQE9Jl1b37d4.jpg",
+     "id": 2061779
+    },
+    {
+     "character": "",
+     "name": "Fernando Rocha",
+     "profile_path": "/qq1zvtX3Oqmu7N5WEbj1tY2u3N4.jpg",
+     "id": 1018063
+    },
+    {
+     "character": "",
+     "name": "Álvaro Costa",
+     "profile_path": "/qsZIy6AKGkACFABxCv5kvhIKJ27.jpg",
+     "id": 2099210
+    },
+    {
+     "character": "",
+     "name": "Pedro Alves",
+     "profile_path": "/nzIEyZH2ZYQYK5gQLx3Jewv69OP.jpg",
+     "id": 1193643
+    },
+    {
+     "character": "Zeca",
+     "name": "Francisco Menezes",
+     "profile_path": "/tS3BM7KVCUxQjfsSIuf8EBqKvZx.jpg",
+     "id": 1943977
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Aida Silva",
+     "profile_path": null,
+     "id": 4104531
+    },
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Luís Ismael",
+     "profile_path": "/oyaMsuiYwY4l9gM4mkzyA88DIME.jpg",
+     "id": 1018060
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Maria Pacheco",
+     "profile_path": null,
+     "id": 2396168
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Rita Laranjeira",
+     "profile_path": null,
+     "id": 3440052
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Teresa Figueiredo",
+     "profile_path": null,
+     "id": 4885663
+    }
+   ],
+   "director": [
+    "Luís Ismael"
+   ],
+   "imdbRating": "6.2",
+   "country": "Portugal",
+   "behaviorHints": {
+    "defaultVideoId": "tt25427082",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt25427082.jpg"
+  },
+  {
+   "name": "Harry Potter: Wizards of Baking",
+   "cast": [
+    "James Phelps",
+    "Oliver Phelps",
+    "Carla Hall"
+   ],
+   "country": "United Kingdom",
+   "description": "James e Oliver Phelps são os anfitriões e pasteleiros profissionais criam obras de arte comestíveis fascinantes nos cenários dos filmes Harry Potter.",
+   "genre": [
+    "Game-Show",
+    "Reality-TV"
+   ],
+   "imdbRating": "7.3",
+   "released": "2024-11-14T00:00:00.000Z",
+   "year": "2024–",
+   "trailers": [
+    {
+     "source": "vPnOJpqkXzQ",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt32374361/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32374361/img",
+   "awards": "1 nomination total",
+   "id": "tt32374361",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Harry Potter: Wizards of Baking",
+     "ytId": "vPnOJpqkXzQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32374361"
+    },
+    {
+     "name": "Harry Potter: Wizards of Baking",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/harry-potter-wizards-of-baking-32374361"
+    },
+    {
+     "name": "Game-Show",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
+    },
+    {
+     "name": "James Phelps",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Phelps"
+    },
+    {
+     "name": "Oliver Phelps",
+     "category": "Cast",
+     "url": "stremio:///search?search=Oliver%20Phelps"
+    },
+    {
+     "name": "Carla Hall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carla%20Hall"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32374361.jpg"
+  },
+  {
+   "name": "Security",
+   "year": "2017",
+   "runtime": "87 min",
+   "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "released": "2017-03-04T00:00:00.000Z",
+   "director": [
+    "Alain Desrochers"
+   ],
+   "writer": [
+    "Tony Mosher",
+    "John Sullivan"
+   ],
+   "cast": [
+    "Antonio Banderas",
+    "Ben Kingsley",
+    "Liam McIntyre"
+   ],
+   "imdbRating": "5.8",
+   "description": "Um antigo soldado das forças especiais aceita emprego como segurança num centro comercial degradado numa área pobre da cidade.  Na primeira noite de trabalho, abre as portas a uma menina  perturbada que escapou a uma tentativa de rapto após um ataque à escolta policial que a transportava para testemunhar em tribunal. No seu encalço vem o grupo que a tentou matar.",
+   "country": "United States",
+   "awards": null,
+   "dvdRelease": "2017-08-04T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "zbOqeh8VYCI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt3501112/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3501112/img",
+   "id": "tt3501112",
+   "genres": [
+    "Ação",
+    "Thriller",
+    "Crime"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "Security",
+     "ytId": "zbOqeh8VYCI"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3501112"
+    },
+    {
+     "name": "Security",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/security-3501112"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Antonio Banderas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Banderas"
+    },
+    {
+     "name": "Ben Kingsley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Kingsley"
+    },
+    {
+     "name": "Liam McIntyre",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20McIntyre"
+    },
+    {
+     "name": "Tony Mosher",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tony%20Mosher"
+    },
+    {
+     "name": "John Sullivan",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Sullivan"
+    },
+    {
+     "name": "Alain Desrochers",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alain%20Desrochers"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3501112",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3501112.jpg"
+  },
+  {
+   "id": "tt23148340",
+   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
+   "background": "https://live.metahub.space/background/medium/tt23148340/img",
+   "name": "Crystal Lake",
+   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
+   "genres": [
+    "Mistério",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "Rs49eRHFD9c",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Linda Cardellini",
+    "William Catlett",
+    "Devin Kessler"
+   ],
+   "credits_cast": [
+    {
+     "character": "Pamela Voorhees",
+     "name": "Linda Cardellini",
+     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
+     "id": 1817
+    },
+    {
+     "character": "Levon Brooks",
+     "name": "William Catlett",
+     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
+     "id": 1962720
+    },
+    {
+     "character": "Briana Brooks",
+     "name": "Devin Kessler",
+     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
+     "id": 5399431
+    },
+    {
+     "character": "Dorf",
+     "name": "Cameron Scoggins",
+     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
+     "id": 1098958
+    },
+    {
+     "character": "Grace Snell",
+     "name": "Gwendolyn Sundstrom",
+     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
+     "id": 5503263
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.6",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
   },
   {
    "name": "A Big Bold Beautiful Journey",
@@ -1539,421 +1940,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32843349.jpg"
   },
   {
-   "name": "Harry Potter: Wizards of Baking",
-   "cast": [
-    "James Phelps",
-    "Oliver Phelps",
-    "Carla Hall"
-   ],
-   "country": "United Kingdom",
-   "description": "James e Oliver Phelps são os anfitriões e pasteleiros profissionais criam obras de arte comestíveis fascinantes nos cenários dos filmes Harry Potter.",
-   "genre": [
-    "Game-Show",
-    "Reality-TV"
-   ],
-   "imdbRating": "7.3",
-   "released": "2024-11-14T00:00:00.000Z",
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "vPnOJpqkXzQ",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "49 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt32374361/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32374361/img",
-   "awards": "1 nomination total",
-   "id": "tt32374361",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Harry Potter: Wizards of Baking",
-     "ytId": "vPnOJpqkXzQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32374361"
-    },
-    {
-     "name": "Harry Potter: Wizards of Baking",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/harry-potter-wizards-of-baking-32374361"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "James Phelps",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20Phelps"
-    },
-    {
-     "name": "Oliver Phelps",
-     "category": "Cast",
-     "url": "stremio:///search?search=Oliver%20Phelps"
-    },
-    {
-     "name": "Carla Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Carla%20Hall"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32374361.jpg"
-  },
-  {
-   "name": "Angel Has Fallen",
-   "year": "2019",
-   "genre": [
-    "Action",
-    "Thriller"
-   ],
-   "released": "2019-08-23T00:00:00.000Z",
-   "director": [
-    "Ric Roman Waugh"
-   ],
-   "writer": [
-    "Robert Mark Kamen",
-    "Matt Cook",
-    "Ric Roman Waugh"
-   ],
-   "cast": [
-    "Gerard Butler",
-    "Frederick Schmidt",
-    "Danny Huston"
-   ],
-   "imdbRating": "6.4",
-   "description": "Depois de uma tentativa de assassinato contra Allan Trumbull, Presidente dos EUA, o seu fiel confidente e agente dos serviços secretos Mike Banning, é erradamente acusado e detido por essa tentativa. Depois de escapar à detenção, torna-se um foragido e é obrigado a fugir à sua própria agência para descobrir a verdadeira ameaça contra o Presidente. Desesperado para encontrar a verdade, Banning recorre a aliados improváveis para ajudar a limpar o seu nome, manter a família a salvo e salvar o país dos perigos iminentes.",
-   "country": "United States, United Kingdom, Portugal, Canada, Bulgaria",
-   "trailers": [
-    {
-     "source": "l4AQchYSxwc",
-     "type": "Trailer"
-    },
-    {
-     "source": "5U2AJvU3bl4",
-     "type": "Trailer"
-    },
-    {
-     "source": "XF8h3hOGBJM",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt6189022/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6189022/img",
-   "affiliates": {
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727/ImageRenderer/111/168/images/no_image_111x168.jpg/218538/images/masterrepository/fandango/218538/angelhasfallen-onlinepayoff_1944x2880.jpg\" alt=\"Angel Has Fallen\" title=\"Angel Has Fallen\" border=\"0\" /></a> Opens Friday, Aug 23, 2019</p><p>When there is an assassination attempt on U.S. President Allan Trumbull (Morgan Freeman), his trusted confidant, Secret Service Agent Mike Banning (Gerard Butler), is wrongfully accused and taken into custody. </p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fangelhasfallen-trailer%2f218538%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
-    "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123"
-   },
-   "runtime": "122 min",
-   "dvdRelease": "2019-08-27T00:00:00.000Z",
-   "awards": "1 nomination total",
-   "id": "tt6189022",
-   "genres": [
-    "Ação",
-    "Thriller"
-   ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
-    {
-     "title": "Angel Has Fallen",
-     "ytId": "l4AQchYSxwc"
-    },
-    {
-     "title": "Angel Has Fallen",
-     "ytId": "5U2AJvU3bl4"
-    },
-    {
-     "title": "Angel Has Fallen",
-     "ytId": "XF8h3hOGBJM"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6189022"
-    },
-    {
-     "name": "Angel Has Fallen",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/angel-has-fallen-6189022"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Gerard Butler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gerard%20Butler"
-    },
-    {
-     "name": "Frederick Schmidt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Frederick%20Schmidt"
-    },
-    {
-     "name": "Danny Huston",
-     "category": "Cast",
-     "url": "stremio:///search?search=Danny%20Huston"
-    },
-    {
-     "name": "Robert Mark Kamen",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Mark%20Kamen"
-    },
-    {
-     "name": "Matt Cook",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matt%20Cook"
-    },
-    {
-     "name": "Ric Roman Waugh",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
-    },
-    {
-     "name": "Ric Roman Waugh",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt6189022",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6189022.jpg"
-  },
-  {
-   "id": "tt23148340",
-   "logo": "https://live.metahub.space/logo/medium/tt23148340/img",
-   "background": "https://live.metahub.space/background/medium/tt23148340/img",
-   "name": "Crystal Lake",
-   "description": "A mãe solteira Pam Voorhees tem sido incapaz de superar o luto após o trágico afogamento do seu jovem e adoentado filho Jason no lago da vila, há quase um ano. Quando dois estranhos chegam à porta de Pam para investigar o seu passado, uma cadeia perturbadora de acontecimentos é desencadeada, deixando os habitantes de Crystal Lake a interrogar-se: quem é, afinal, Pam Voorhees?",
-   "genres": [
-    "Mistério",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "Rs49eRHFD9c",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Linda Cardellini",
-    "William Catlett",
-    "Devin Kessler"
-   ],
-   "credits_cast": [
-    {
-     "character": "Pamela Voorhees",
-     "name": "Linda Cardellini",
-     "profile_path": "/bcycvynDprC1rrhBNrnBjn5uOUd.jpg",
-     "id": 1817
-    },
-    {
-     "character": "Levon Brooks",
-     "name": "William Catlett",
-     "profile_path": "/1GzaCfhYEfg2s2lQzlQykijlUY8.jpg",
-     "id": 1962720
-    },
-    {
-     "character": "Briana Brooks",
-     "name": "Devin Kessler",
-     "profile_path": "/fZV3fyduDDRoRsofiO3eCAr7CDf.jpg",
-     "id": 5399431
-    },
-    {
-     "character": "Dorf",
-     "name": "Cameron Scoggins",
-     "profile_path": "/eIJCzNXmW4qZZJJyiqwrubj8Si5.jpg",
-     "id": 1098958
-    },
-    {
-     "character": "Grace Snell",
-     "name": "Gwendolyn Sundstrom",
-     "profile_path": "/uJtJHjI4gHMK2GmfX8fuNYL4OuQ.jpg",
-     "id": 5503263
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.6",
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg"
-  },
-  {
-   "id": "tt25427082",
-   "logo": "https://live.metahub.space/logo/medium/tt25427082/img",
-   "background": "https://live.metahub.space/background/medium/tt25427082/img",
-   "name": "Balas & Bolinhos: Só Mais Uma Coisa",
-   "description": "Culatra, Rato e Tone são obrigados a voltar para casa dos seus pais e ali tentam uma vez mais agarrar a oportunidade das suas vidas. Mas tudo se complica quando esta reunião se transforma numa verdadeira confusão.",
-   "genres": [
-    "Comédia",
-    "Ação"
-   ],
-   "releaseInfo": "2024",
-   "runtime": "113 min",
-   "trailers": [],
-   "cast": [
-    "Luís Ismael",
-    "Jorge Neto",
-    "J.D. Duarte"
-   ],
-   "credits_cast": [
-    {
-     "character": "Tone",
-     "name": "Luís Ismael",
-     "profile_path": "/oyaMsuiYwY4l9gM4mkzyA88DIME.jpg",
-     "id": 1018060
-    },
-    {
-     "character": "Rato",
-     "name": "Jorge Neto",
-     "profile_path": "/tT4ONPWXUnSbWqDV0XFvDkWIpvb.jpg",
-     "id": 1018064
-    },
-    {
-     "character": "Quim Culatra",
-     "name": "J.D. Duarte",
-     "profile_path": "/3tP9XYVzW761bxAZLkwH6dtaa6k.jpg",
-     "id": 1018061
-    },
-    {
-     "character": "Bino",
-     "name": "João Pires",
-     "profile_path": null,
-     "id": 1037848
-    },
-    {
-     "character": "",
-     "name": "Eduardo Madeira",
-     "profile_path": "/5bx8e1pNQL2kT1T6oxMjMu8pGWa.jpg",
-     "id": 1161634
-    },
-    {
-     "character": "",
-     "name": "Paulo Azevedo",
-     "profile_path": "/fExiO9IVr0OqtmIpQE9Jl1b37d4.jpg",
-     "id": 2061779
-    },
-    {
-     "character": "",
-     "name": "Fernando Rocha",
-     "profile_path": "/qq1zvtX3Oqmu7N5WEbj1tY2u3N4.jpg",
-     "id": 1018063
-    },
-    {
-     "character": "",
-     "name": "Álvaro Costa",
-     "profile_path": "/qsZIy6AKGkACFABxCv5kvhIKJ27.jpg",
-     "id": 2099210
-    },
-    {
-     "character": "",
-     "name": "Pedro Alves",
-     "profile_path": "/nzIEyZH2ZYQYK5gQLx3Jewv69OP.jpg",
-     "id": 1193643
-    },
-    {
-     "character": "Zeca",
-     "name": "Francisco Menezes",
-     "profile_path": "/tS3BM7KVCUxQjfsSIuf8EBqKvZx.jpg",
-     "id": 1943977
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Aida Silva",
-     "profile_path": null,
-     "id": 4104531
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Luís Ismael",
-     "profile_path": "/oyaMsuiYwY4l9gM4mkzyA88DIME.jpg",
-     "id": 1018060
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Maria Pacheco",
-     "profile_path": null,
-     "id": 2396168
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Rita Laranjeira",
-     "profile_path": null,
-     "id": 3440052
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Teresa Figueiredo",
-     "profile_path": null,
-     "id": 4885663
-    }
-   ],
-   "director": [
-    "Luís Ismael"
-   ],
-   "imdbRating": "6.2",
-   "country": "Portugal",
-   "behaviorHints": {
-    "defaultVideoId": "tt25427082",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt25427082.jpg"
-  },
-  {
    "id": "tt45114341",
    "logo": "https://live.metahub.space/logo/medium/tt45114341/img",
    "background": "https://live.metahub.space/background/medium/tt45114341/img",
@@ -1997,7 +1983,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
-   "imdbRating": "4.7"
+   "imdbRating": "4.5"
   }
  ]
 }

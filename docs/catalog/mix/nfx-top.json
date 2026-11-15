@@ -64,7 +64,7 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50817930.jpg",
-   "imdbRating": "5.6"
+   "imdbRating": "5.3"
   },
   {
    "name": "The Empress",
@@ -179,7 +179,7 @@
     "Comedy",
     "Romance"
    ],
-   "imdbRating": "5.5",
+   "imdbRating": "5.4",
    "released": null,
    "writer": [
     "Christin Magdu",
@@ -258,49 +258,92 @@
    "description": "No Natal, uma rapariga da cidade, habituada a trabalhar muito e a divertir-se ainda mais, troca de vida com a pacata irmã… e acaba por desembrulhar uma grande confusão."
   },
   {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "id": "tt38707741",
+   "logo": "https://live.metahub.space/logo/medium/tt38707741/img",
+   "background": "https://live.metahub.space/background/medium/tt38707741/img",
+   "name": "Murder in Galicia",
+   "description": "Quando uma mulher é atacada à noite, um sargento desconfia que o marido dela não seja tão inocente quanto parece.",
    "genres": [
     "Crime",
-    "Drama",
-    "Mistério"
+    "Mistério",
+    "Drama"
    ],
-   "releaseInfo": "2021",
+   "releaseInfo": "2026",
    "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
+   "trailers": [],
    "cast": [
-    "Omar Sy"
+    "Tristán Ulloa",
+    "Carlos Blanco",
+    "Fer Fraga"
    ],
    "credits_cast": [
     {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
+     "character": "Elías",
+     "name": "Tristán Ulloa",
+     "profile_path": "/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg",
+     "id": 16441
+    },
+    {
+     "character": "",
+     "name": "Carlos Blanco",
+     "profile_path": null,
+     "id": 4363
+    },
+    {
+     "character": "",
+     "name": "Fer Fraga",
+     "profile_path": "/k88nGh91fLjdnS0etnU8BrkGwlh.jpg",
+     "id": 4970048
+    },
+    {
+     "character": "Aniceto",
+     "name": "Miguel Borines",
+     "profile_path": "/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg",
+     "id": 938034
+    },
+    {
+     "character": "",
+     "name": "Marta Nieto",
+     "profile_path": "/59261r4l1nqgdnvRPmmCBa7y98M.jpg",
+     "id": 588636
+    },
+    {
+     "character": "",
+     "name": "Verónica Sánchez",
+     "profile_path": "/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg",
+     "id": 90773
+    },
+    {
+     "character": "",
+     "name": "Fernando Guillén Cuervo",
+     "profile_path": "/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg",
+     "id": 149307
+    },
+    {
+     "character": "",
+     "name": "Nacho Fresneda",
+     "profile_path": "/hFADbva2aAycgRCSlQtJW9Ua4Rg.jpg",
+     "id": 961990
+    },
+    {
+     "character": "",
+     "name": "Tito Asorey",
+     "profile_path": "/70F60qTi59F9hiKcKky2pIpV5zK.jpg",
+     "id": 1742772
     }
    ],
    "credits_crew": [],
    "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "language": "Spanish",
+   "country": "Spain",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg",
+   "imdbRating": "6.4"
   },
   {
    "name": "Minha Amiga",
@@ -401,7 +444,7 @@
     "Horror",
     "Thriller"
    ],
-   "imdbRating": "7.5",
+   "imdbRating": "7.6",
    "name": "The Body",
    "released": "2026-11-11T00:00:00.000Z",
    "writer": [
@@ -498,7 +541,7 @@
     "Crime",
     "Drama"
    ],
-   "imdbRating": "5.9",
+   "imdbRating": "6.1",
    "released": null,
    "year": "2026",
    "runtime": "137 min",
@@ -575,164 +618,142 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg"
   },
   {
-   "id": "tt38707741",
-   "logo": "https://live.metahub.space/logo/medium/tt38707741/img",
-   "background": "https://live.metahub.space/background/medium/tt38707741/img",
-   "name": "Murder in Galicia",
-   "description": "Quando uma mulher é atacada à noite, um sargento desconfia que o marido dela não seja tão inocente quanto parece.",
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
    "genres": [
     "Crime",
-    "Mistério",
-    "Drama"
+    "Drama",
+    "Mistério"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2021",
    "status": "Continuing",
-   "trailers": [],
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
    "cast": [
-    "Tristán Ulloa",
-    "Carlos Blanco",
-    "Fer Fraga"
+    "Omar Sy"
    ],
    "credits_cast": [
     {
-     "character": "Elías",
-     "name": "Tristán Ulloa",
-     "profile_path": "/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg",
-     "id": 16441
-    },
-    {
-     "character": "",
-     "name": "Carlos Blanco",
-     "profile_path": null,
-     "id": 4363
-    },
-    {
-     "character": "",
-     "name": "Fer Fraga",
-     "profile_path": "/k88nGh91fLjdnS0etnU8BrkGwlh.jpg",
-     "id": 4970048
-    },
-    {
-     "character": "Aniceto",
-     "name": "Miguel Borines",
-     "profile_path": "/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg",
-     "id": 938034
-    },
-    {
-     "character": "",
-     "name": "Marta Nieto",
-     "profile_path": "/59261r4l1nqgdnvRPmmCBa7y98M.jpg",
-     "id": 588636
-    },
-    {
-     "character": "",
-     "name": "Verónica Sánchez",
-     "profile_path": "/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg",
-     "id": 90773
-    },
-    {
-     "character": "",
-     "name": "Fernando Guillén Cuervo",
-     "profile_path": "/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg",
-     "id": 149307
-    },
-    {
-     "character": "",
-     "name": "Nacho Fresneda",
-     "profile_path": "/hFADbva2aAycgRCSlQtJW9Ua4Rg.jpg",
-     "id": 961990
-    },
-    {
-     "character": "",
-     "name": "Tito Asorey",
-     "profile_path": "/70F60qTi59F9hiKcKky2pIpV5zK.jpg",
-     "id": 1742772
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
     }
    ],
    "credits_crew": [],
    "director": [],
-   "language": "Spanish",
-   "country": "Spain",
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   },
   {
-   "name": "L'Avocat",
+   "name": "Heartland",
    "cast": [
-    "Vincent Cassel",
-    "Carole Bouquet",
-    "Mélanie Thierry"
+    "Jessica Chastain",
+    "Garrett Hedlund",
+    "John Hawkes"
    ],
-   "country": "France",
+   "country": "United States",
+   "description": "A ex-estrela da música country Misty Jones sai do seu isolamento para procurar a sua sobrinha desaparecida, uma música em ascensão, em Nashville. A sua investigação revela segredos obscuros e obriga-a a enfrentar o seu próprio passado.",
    "director": [
-    "Tristan Séguéla"
+    "Shana Feste"
    ],
-   "imdbRating": "6.4",
-   "released": null,
-   "year": "2027",
+   "genre": [
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "5.6",
+   "released": "2026-11-13T00:00:00.000Z",
+   "writer": [
+    "Shana Feste"
+   ],
+   "year": "2026",
    "runtime": "114 min",
    "trailers": [
     {
-     "source": "3Ep7Rq24jDA",
+     "source": "ziIz59enN1c",
      "type": "Trailer"
     }
    ],
-   "genre": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39453578/img",
-   "background": "https://images.metahub.space/background/medium/tt39453578/img",
-   "id": "tt39453578",
+   "logo": "https://images.metahub.space/logo/medium/tt38213251/img",
+   "background": "https://images.metahub.space/background/medium/tt38213251/img",
+   "id": "tt38213251",
    "genres": [
     "Thriller",
-    "Drama"
+    "Mistério"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "L'Avocat",
-     "ytId": "3Ep7Rq24jDA"
+     "title": "Heartland",
+     "ytId": "ziIz59enN1c"
     }
    ],
    "links": [
     {
-     "name": "L'Avocat",
+     "name": "Heartland",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/lavocat-39453578"
+     "url": "https://www.strem.io/s/movie/heartland-38213251"
     },
     {
-     "name": "Vincent Cassel",
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jessica Chastain",
      "category": "Cast",
-     "url": "stremio:///search?search=Vincent%20Cassel"
+     "url": "stremio:///search?search=Jessica%20Chastain"
     },
     {
-     "name": "Carole Bouquet",
+     "name": "Garrett Hedlund",
      "category": "Cast",
-     "url": "stremio:///search?search=Carole%20Bouquet"
+     "url": "stremio:///search?search=Garrett%20Hedlund"
     },
     {
-     "name": "Mélanie Thierry",
+     "name": "John Hawkes",
      "category": "Cast",
-     "url": "stremio:///search?search=M%C3%A9lanie%20Thierry"
+     "url": "stremio:///search?search=John%20Hawkes"
     },
     {
-     "name": "Tristan Séguéla",
+     "name": "Shana Feste",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shana%20Feste"
+    },
+    {
+     "name": "Shana Feste",
      "category": "Directors",
-     "url": "stremio:///search?search=Tristan%20S%C3%A9gu%C3%A9la"
+     "url": "stremio:///search?search=Shana%20Feste"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt39453578",
+    "defaultVideoId": "tt38213251",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453578.jpg",
-   "description": "Após sofrer uma overdose em tribunal, um advogado tem apenas uma semana para salvar a carreira e preparar a própria defesa, com a ajuda de uma estagiária determinada."
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38213251.jpg"
   },
   {
    "name": "Black Doves",
@@ -841,6 +862,147 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
+  },
+  {
+   "name": "L'Avocat",
+   "cast": [
+    "Vincent Cassel",
+    "Carole Bouquet",
+    "Mélanie Thierry"
+   ],
+   "country": "France",
+   "director": [
+    "Tristan Séguéla"
+   ],
+   "imdbRating": "6.4",
+   "released": null,
+   "year": "2027",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "3Ep7Rq24jDA",
+     "type": "Trailer"
+    }
+   ],
+   "genre": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39453578/img",
+   "background": "https://images.metahub.space/background/medium/tt39453578/img",
+   "id": "tt39453578",
+   "genres": [
+    "Thriller",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "L'Avocat",
+     "ytId": "3Ep7Rq24jDA"
+    }
+   ],
+   "links": [
+    {
+     "name": "L'Avocat",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/lavocat-39453578"
+    },
+    {
+     "name": "Vincent Cassel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Vincent%20Cassel"
+    },
+    {
+     "name": "Carole Bouquet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carole%20Bouquet"
+    },
+    {
+     "name": "Mélanie Thierry",
+     "category": "Cast",
+     "url": "stremio:///search?search=M%C3%A9lanie%20Thierry"
+    },
+    {
+     "name": "Tristan Séguéla",
+     "category": "Directors",
+     "url": "stremio:///search?search=Tristan%20S%C3%A9gu%C3%A9la"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39453578",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453578.jpg",
+   "description": "Após sofrer uma overdose em tribunal, um advogado tem apenas uma semana para salvar a carreira e preparar a própria defesa, com a ajuda de uma estagiária determinada."
+  },
+  {
+   "id": "tt39390491",
+   "logo": "https://live.metahub.space/logo/medium/tt39390491/img",
+   "background": "https://live.metahub.space/background/medium/tt39390491/img",
+   "name": "Alicia's Law",
+   "description": "Quando a vida que ela construiu com tanto cuidado desmorona, Alicia volta a exercer a advocacia e descobre que reconstruir a carreira significa redefinir a si mesma.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Fernanda Castillo",
+    "Michel Brown",
+    "Claudio Roca"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Fernanda Castillo",
+     "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
+     "id": 1303064
+    },
+    {
+     "character": "",
+     "name": "Michel Brown",
+     "profile_path": "/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg",
+     "id": 85560
+    },
+    {
+     "character": "Freddy",
+     "name": "Claudio Roca",
+     "profile_path": "/tJHJmM9R4ZWOe1Xfs25xyVIR9x0.jpg",
+     "id": 3251596
+    },
+    {
+     "character": "Bobby Ramos",
+     "name": "Alaide",
+     "profile_path": null,
+     "id": 3917728
+    },
+    {
+     "character": "",
+     "name": "Juan Manuel Bernal",
+     "profile_path": "/wNms9TQv1YUEiVSFNOkT35WvuOl.jpg",
+     "id": 112209
+    },
+    {
+     "character": "Elizabeth",
+     "name": "Caro Darman",
+     "profile_path": "/9DlpNfnBsPO4ltRZc7OO82hOgiH.jpg",
+     "id": 3938535
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "Spanish",
+   "country": "Mexico",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39390491.jpg",
+   "imdbRating": "6.1"
   },
   {
    "name": "A Dog's Perfect Christmas",
@@ -1030,314 +1192,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3281796.jpg"
   },
   {
-   "name": "Cruzados",
-   "cast": [
-    "Jorge Cabrera",
-    "Álvaro Cervantes",
-    "Laia Costa"
-   ],
-   "country": "Spain",
-   "director": [
-    "Daniel Sánchez Arévalo"
-   ],
-   "imdbRating": "5.7",
-   "released": null,
-   "writer": [
-    "Ramón Campos",
-    "Daniel Sánchez Arévalo"
-   ],
-   "year": "2026",
-   "trailers": [
-    {
-     "source": "8hVLhaK619k",
-     "type": "Trailer"
-    }
-   ],
-   "genre": [],
-   "logo": "https://images.metahub.space/logo/medium/tt38793125/img",
-   "background": "https://images.metahub.space/background/medium/tt38793125/img",
-   "id": "tt38793125",
-   "genres": [
-    "Drama",
-    "Ação",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Cruzados",
-     "ytId": "8hVLhaK619k"
-    }
-   ],
-   "links": [
-    {
-     "name": "Cruzados",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/cruzados-38793125"
-    },
-    {
-     "name": "Jorge Cabrera",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Cabrera"
-    },
-    {
-     "name": "Álvaro Cervantes",
-     "category": "Cast",
-     "url": "stremio:///search?search=%C3%81lvaro%20Cervantes"
-    },
-    {
-     "name": "Laia Costa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Laia%20Costa"
-    },
-    {
-     "name": "Ramón Campos",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ram%C3%B3n%20Campos"
-    },
-    {
-     "name": "Daniel Sánchez Arévalo",
-     "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
-    },
-    {
-     "name": "Daniel Sánchez Arévalo",
-     "category": "Directors",
-     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt38793125",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
-   "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
-  },
-  {
-   "name": "Taken: Natalee Holloway",
-   "cast": [
-    "Natalee Holloway",
-    "Beth Holloway"
-   ],
-   "country": "United States",
-   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
-   "genre": [
-    "Documentary",
-    "Crime"
-   ],
-   "imdbRating": "6.5",
-   "released": "2026-11-04T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "37 min",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
-   "background": "https://images.metahub.space/background/medium/tt43681696/img",
-   "id": "tt43681696",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Taken: Natalee Holloway",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Natalee Holloway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Natalee%20Holloway"
-    },
-    {
-     "name": "Beth Holloway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Beth%20Holloway"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
-  },
-  {
-   "name": "Heartland",
-   "cast": [
-    "Jessica Chastain",
-    "Garrett Hedlund",
-    "John Hawkes"
-   ],
-   "country": "United States",
-   "description": "A ex-estrela da música country Misty Jones sai do seu isolamento para procurar a sua sobrinha desaparecida, uma música em ascensão, em Nashville. A sua investigação revela segredos obscuros e obriga-a a enfrentar o seu próprio passado.",
-   "director": [
-    "Shana Feste"
-   ],
-   "genre": [
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "",
-   "released": "2026-11-13T00:00:00.000Z",
-   "writer": [
-    "Shana Feste"
-   ],
-   "year": "2026",
-   "runtime": "114 min",
-   "trailers": [
-    {
-     "source": "ziIz59enN1c",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt38213251/img",
-   "background": "https://images.metahub.space/background/medium/tt38213251/img",
-   "id": "tt38213251",
-   "genres": [
-    "Thriller",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Heartland",
-     "ytId": "ziIz59enN1c"
-    }
-   ],
-   "links": [
-    {
-     "name": "Heartland",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/heartland-38213251"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Jessica Chastain",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessica%20Chastain"
-    },
-    {
-     "name": "Garrett Hedlund",
-     "category": "Cast",
-     "url": "stremio:///search?search=Garrett%20Hedlund"
-    },
-    {
-     "name": "John Hawkes",
-     "category": "Cast",
-     "url": "stremio:///search?search=John%20Hawkes"
-    },
-    {
-     "name": "Shana Feste",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shana%20Feste"
-    },
-    {
-     "name": "Shana Feste",
-     "category": "Directors",
-     "url": "stremio:///search?search=Shana%20Feste"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt38213251",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38213251.jpg"
-  },
-  {
-   "id": "tt39390491",
-   "logo": "https://live.metahub.space/logo/medium/tt39390491/img",
-   "background": "https://live.metahub.space/background/medium/tt39390491/img",
-   "name": "Alicia's Law",
-   "description": "Quando a vida que ela construiu com tanto cuidado desmorona, Alicia volta a exercer a advocacia e descobre que reconstruir a carreira significa redefinir a si mesma.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Fernanda Castillo",
-    "Michel Brown",
-    "Claudio Roca"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Fernanda Castillo",
-     "profile_path": "/RMfrmN0HSVxaqYqesbcmvutTAg.jpg",
-     "id": 1303064
-    },
-    {
-     "character": "",
-     "name": "Michel Brown",
-     "profile_path": "/4a4KLHBaDbB8MHDCqOsKMfBqxDR.jpg",
-     "id": 85560
-    },
-    {
-     "character": "Freddy",
-     "name": "Claudio Roca",
-     "profile_path": "/tJHJmM9R4ZWOe1Xfs25xyVIR9x0.jpg",
-     "id": 3251596
-    },
-    {
-     "character": "Bobby Ramos",
-     "name": "Alaide",
-     "profile_path": null,
-     "id": 3917728
-    },
-    {
-     "character": "",
-     "name": "Juan Manuel Bernal",
-     "profile_path": "/wNms9TQv1YUEiVSFNOkT35WvuOl.jpg",
-     "id": 112209
-    },
-    {
-     "character": "Elizabeth",
-     "name": "Caro Darman",
-     "profile_path": "/9DlpNfnBsPO4ltRZc7OO82hOgiH.jpg",
-     "id": 3938535
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "Spanish",
-   "country": "Mexico",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39390491.jpg",
-   "imdbRating": "6.3"
-  },
-  {
    "awards": "Won 1 Oscar. 18 wins & 37 nominations total",
    "cast": [
     "Jim Carrey",
@@ -1465,82 +1319,238 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0170016.jpg"
   },
   {
-   "id": "tt38681812",
-   "logo": "https://live.metahub.space/logo/medium/tt38681812/img",
-   "background": "https://live.metahub.space/background/medium/tt38681812/img",
-   "name": "Anaesthesia",
-   "description": "Depois de uma cirurgia ousada que deu errado, um médico talentoso troca uma clínica de prestígio por um hospital local e tenta retomar a vida.",
+   "name": "Taken: Natalee Holloway",
+   "cast": [
+    "Natalee Holloway",
+    "Beth Holloway"
+   ],
+   "country": "United States",
+   "description": "Em 2005, Natalee Holloway desapareceu em Aruba. Esta série acompanha a busca que durou anos e colocou a mãe dela frente a frente com o suposto assassino.",
+   "genre": [
+    "Documentary",
+    "Crime"
+   ],
+   "imdbRating": "6.6",
+   "released": "2026-11-04T00:00:00.000Z",
+   "year": "2026",
+   "runtime": "37 min",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt43681696/img",
+   "background": "https://images.metahub.space/background/medium/tt43681696/img",
+   "id": "tt43681696",
    "genres": [
-    "Drama"
+    "Documentário"
    ],
    "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Leszek Lichota",
-    "Aleksandra Popławska",
-    "Filip Kowalewicz"
-   ],
-   "credits_cast": [
+   "links": [
     {
-     "character": "Dr. Łazarz",
-     "name": "Leszek Lichota",
-     "profile_path": "/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg",
-     "id": 1382678
+     "name": "Taken: Natalee Holloway",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/taken-natalee-holloway-43681696"
     },
     {
-     "character": "",
-     "name": "Aleksandra Popławska",
-     "profile_path": "/cOdeuRAkVMCeu5MQ9bjBvUNKCeE.jpg",
-     "id": 927411
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
     },
     {
-     "character": "",
-     "name": "Filip Kowalewicz",
-     "profile_path": null,
-     "id": 4995713
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "character": "",
-     "name": "Karolina Gruszka",
-     "profile_path": "/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg",
-     "id": 90760
+     "name": "Natalee Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Natalee%20Holloway"
     },
     {
-     "character": "",
-     "name": "Dorota Kolak",
-     "profile_path": "/vMu479AwEce9BNuLG0jMBwfbuH1.jpg",
-     "id": 1254517
-    },
-    {
-     "character": "",
-     "name": "Masza Wągrocka",
-     "profile_path": "/ofM13hNiPRCsy5ySgWrpvp8FNi.jpg",
-     "id": 2239208
-    },
-    {
-     "character": "",
-     "name": "Krzysztof Stelmaszyk",
-     "profile_path": "/ru421L4sdtLbMY9ncxYmbnevGT8.jpg",
-     "id": 549375
-    },
-    {
-     "character": "",
-     "name": "Gamou Fall",
-     "profile_path": "/gK3TI3oZbdEDFsQvzSlOB1xttpn.jpg",
-     "id": 3195942
+     "name": "Beth Holloway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Beth%20Holloway"
     }
    ],
-   "credits_crew": [],
-   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
-   "imdbRating": "7.2"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
+  },
+  {
+   "name": "Cruzados",
+   "cast": [
+    "Jorge Cabrera",
+    "Álvaro Cervantes",
+    "Laia Costa"
+   ],
+   "country": "Spain",
+   "director": [
+    "Daniel Sánchez Arévalo"
+   ],
+   "imdbRating": "5.7",
+   "released": null,
+   "writer": [
+    "Ramón Campos",
+    "Daniel Sánchez Arévalo"
+   ],
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "8hVLhaK619k",
+     "type": "Trailer"
+    }
+   ],
+   "genre": [],
+   "logo": "https://images.metahub.space/logo/medium/tt38793125/img",
+   "background": "https://images.metahub.space/background/medium/tt38793125/img",
+   "id": "tt38793125",
+   "genres": [
+    "Drama",
+    "Ação",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Cruzados",
+     "ytId": "8hVLhaK619k"
+    }
+   ],
+   "links": [
+    {
+     "name": "Cruzados",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/cruzados-38793125"
+    },
+    {
+     "name": "Jorge Cabrera",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jorge%20Cabrera"
+    },
+    {
+     "name": "Álvaro Cervantes",
+     "category": "Cast",
+     "url": "stremio:///search?search=%C3%81lvaro%20Cervantes"
+    },
+    {
+     "name": "Laia Costa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Laia%20Costa"
+    },
+    {
+     "name": "Ramón Campos",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ram%C3%B3n%20Campos"
+    },
+    {
+     "name": "Daniel Sánchez Arévalo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+    },
+    {
+     "name": "Daniel Sánchez Arévalo",
+     "category": "Directors",
+     "url": "stremio:///search?search=Daniel%20S%C3%A1nchez%20Ar%C3%A9valo"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38793125",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
+   "description": "Espanha, 2013. Após um assalto a um banco, um acidente durante a fuga expõe o lado mais sombrio de cada ladrão, desvendando mentiras e traições que antecederam o roubo."
+  },
+  {
+   "awards": null,
+   "cast": [
+    "Michael Coulthard",
+    "Charles Robinson",
+    "John Layfield"
+   ],
+   "country": "United States",
+   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Sport"
+   ],
+   "imdbRating": "7.3",
+   "name": "WWE Smackdown!",
+   "released": "1999-04-27T00:00:00.000Z",
+   "runtime": "87 min",
+   "status": "Continuing",
+   "writer": [
+    "Vince McMahon",
+    "Dusty Rhodes"
+   ],
+   "year": "1999–",
+   "background": "https://images.metahub.space/background/medium/tt0227972/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
+   "id": "tt0227972",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "1999",
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0227972"
+    },
+    {
+     "name": "WWE Smackdown!",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Michael Coulthard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Coulthard"
+    },
+    {
+     "name": "Charles Robinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charles%20Robinson"
+    },
+    {
+     "name": "John Layfield",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Layfield"
+    },
+    {
+     "name": "Vince McMahon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20McMahon"
+    },
+    {
+     "name": "Dusty Rhodes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dusty%20Rhodes"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
   },
   {
    "name": "Allen",
@@ -1655,113 +1665,82 @@
    "description": "Vinte anos após o seu encontro com um alienígena, Petey nunca conseguiu avançar. Agora, o seu velho amigo regressou, e a razão para tal é complicada — e inesperada."
   },
   {
-   "id": "tt45854934",
-   "logo": "https://live.metahub.space/logo/medium/tt45854934/img",
-   "background": "https://live.metahub.space/background/medium/tt45854934/img",
-   "name": "The Gift of Deceit",
-   "description": "Em meio ao luxo da elite carioca, a colecionadora de obras de arte Lúcia Rossetti e sua filha Maíra Rossetti vivem uma relação complexa e turbulenta. Quando seus caminhos cruzam com Irina, a teia de mistérios e tensões se intensifica.",
+   "id": "tt38681812",
+   "logo": "https://live.metahub.space/logo/medium/tt38681812/img",
+   "background": "https://live.metahub.space/background/medium/tt38681812/img",
+   "name": "Anaesthesia",
+   "description": "Depois de uma cirurgia ousada que deu errado, um médico talentoso troca uma clínica de prestígio por um hospital local e tenta retomar a vida.",
    "genres": [
     "Drama"
    ],
    "releaseInfo": "2026",
-   "status": "Upcoming",
+   "status": "Continuing",
    "trailers": [],
    "cast": [
-    "Marieta Severo",
-    "Alice Wegmann",
-    "Nanda Costa"
+    "Leszek Lichota",
+    "Aleksandra Popławska",
+    "Filip Kowalewicz"
    ],
    "credits_cast": [
     {
-     "character": "Lúcia Rossetti",
-     "name": "Marieta Severo",
-     "profile_path": "/912AulEGxubRlKsmNYVLrTmOVro.jpg",
-     "id": 138327
-    },
-    {
-     "character": "Maíra Rossetti",
-     "name": "Alice Wegmann",
-     "profile_path": "/4P6lSdh3r7hVcV6OGL95pETmZAI.jpg",
-     "id": 1371607
-    },
-    {
-     "character": "Irina",
-     "name": "Nanda Costa",
-     "profile_path": "/xnygyp5PFtqoqU4PBzsnLZoSA1y.jpg",
-     "id": 1045953
+     "character": "Dr. Łazarz",
+     "name": "Leszek Lichota",
+     "profile_path": "/4jLHDFGiD1hMjLCiSc0pGH5rC6Q.jpg",
+     "id": 1382678
     },
     {
      "character": "",
-     "name": "José de Abreu",
-     "profile_path": "/v8QrBLcnTnD3LvSmxkCKpDRvPc1.jpg",
-     "id": 769308
+     "name": "Aleksandra Popławska",
+     "profile_path": "/cOdeuRAkVMCeu5MQ9bjBvUNKCeE.jpg",
+     "id": 927411
     },
     {
      "character": "",
-     "name": "Felipe Camargo",
-     "profile_path": "/cP2aNTWCw8CcH4k6HU5r1aYmNlM.jpg",
-     "id": 1041385
+     "name": "Filip Kowalewicz",
+     "profile_path": null,
+     "id": 4995713
     },
     {
      "character": "",
-     "name": "Luciana Paes",
-     "profile_path": "/1Xwwci6AcdTzdLbikwhTkax73EX.jpg",
-     "id": 1356080
+     "name": "Karolina Gruszka",
+     "profile_path": "/3QFVPgTVGKZ76U8LzdQWIVUBkQe.jpg",
+     "id": 90760
     },
     {
      "character": "",
-     "name": "Laila Garin",
-     "profile_path": "/7EElFM2XrgAKVmrtN7Bm4a2GwNZ.jpg",
-     "id": 1995287
+     "name": "Dorota Kolak",
+     "profile_path": "/vMu479AwEce9BNuLG0jMBwfbuH1.jpg",
+     "id": 1254517
     },
     {
      "character": "",
-     "name": "Rui Ricardo Diaz",
-     "profile_path": "/zjFqxdsijCYiWHvEwaztRP1eQet.jpg",
-     "id": 129685
+     "name": "Masza Wągrocka",
+     "profile_path": "/ofM13hNiPRCsy5ySgWrpvp8FNi.jpg",
+     "id": 2239208
     },
     {
      "character": "",
-     "name": "Heloísa Jorge",
-     "profile_path": "/i556iRWHSF4bv0wAl36qYNrjdEN.jpg",
-     "id": 2266943
+     "name": "Krzysztof Stelmaszyk",
+     "profile_path": "/ru421L4sdtLbMY9ncxYmbnevGT8.jpg",
+     "id": 549375
     },
     {
      "character": "",
-     "name": "Allan Souza Lima",
-     "profile_path": "/m4HTYTh34Vy64QwS27RjHznSAol.jpg",
-     "id": 1693267
+     "name": "Gamou Fall",
+     "profile_path": "/gK3TI3oZbdEDFsQvzSlOB1xttpn.jpg",
+     "id": 3195942
     }
    ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Mauro Mendonça Filho",
-     "profile_path": null,
-     "id": 1906411
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Daniela Carvalho",
-     "profile_path": null,
-     "id": 2256635
-    }
-   ],
-   "director": [
-    "Mauro Mendonça Filho",
-    "Daniela Carvalho"
-   ],
-   "country": "Brazil",
+   "credits_crew": [],
+   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-   "imdbRating": "5.8"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
+   "imdbRating": "7.3"
   }
  ]
 }
