@@ -1,6 +1,143 @@
 {
  "metas": [
   {
+   "name": "The Rehearsal",
+   "genre": [
+    "Documentary",
+    "Comedy"
+   ],
+   "imdbRating": "8.5",
+   "released": "2022-07-15T00:00:00.000Z",
+   "year": "2022–",
+   "cast": [
+    "Nathan Fielder",
+    "Journey Baker",
+    "Anna Lamadrid"
+   ],
+   "country": "United States",
+   "description": "Nesta série, pessoas comuns podem se preparar para os maiores momentos da vida \"ensaiando-os\" em simulações cuidadosamente elaboradas. Quando um único passo em falso pode destruir seu mundo inteiro, por que deixar a vida ao acaso?",
+   "director": null,
+   "writer": [
+    "Nathan Fielder"
+   ],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt10802170/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
+   "awards": "Nominated for 4 Primetime Emmys. 3 wins & 22 nominations total",
+   "runtime": "35 min",
+   "trailers": [
+    {
+     "source": "2fjPFt8cpic",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt10802170",
+   "genres": [
+    "Comédia",
+    "Documentário"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Rehearsal",
+     "ytId": "2fjPFt8cpic"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10802170"
+    },
+    {
+     "name": "The Rehearsal",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rehearsal-10802170"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    },
+    {
+     "name": "Journey Baker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Journey%20Baker"
+    },
+    {
+     "name": "Anna Lamadrid",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anna%20Lamadrid"
+    },
+    {
+     "name": "Nathan Fielder",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nathan%20Fielder"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
+  },
+  {
+   "id": "tt18225078",
+   "logo": "https://live.metahub.space/logo/medium/tt18225078/img",
+   "background": "https://live.metahub.space/background/medium/tt18225078/img",
+   "name": "The 90s Club",
+   "description": "A charming documentary film that showcases the vibrant wisdom and life lessons from a dozen diverse individuals between 90- and 99-years-old.  “The 90s Club” hands the mic to people in their nineties to prove that empathizing with the well-aged is not just socially responsible, but hearing their voices can be inspiring, enriching, funny, and compelling. Over the course of this documentary, we meet and speak with a dozen individuals, who talk unflinchingly about death and loss, but also about love and connection, about accomplishment and meaning. Through the touching, humorous, and reflective stories and insights of the \"cast\" of \"The 90s Club\", we can all gain some perspective for our own lives as we grow older.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2022",
+   "runtime": "85 min",
+   "trailers": [],
+   "cast": [
+    "Dick Van Dyke"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Dick Van Dyke",
+     "profile_path": "/jXAeNx7mYdirzMHcqPyj5VXxcXi.jpg",
+     "id": 61303
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Robert Darwell",
+     "profile_path": null,
+     "id": 3468429
+    }
+   ],
+   "director": [
+    "Robert Darwell"
+   ],
+   "imdbRating": "9.3",
+   "behaviorHints": {
+    "defaultVideoId": "tt18225078",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18225078.jpg"
+  },
+  {
    "name": "Formula 1: Drive to Survive",
    "country": "United Kingdom",
    "description": "Pilotos, agentes e proprietários de equipas vivem a vida a mil — dentro e fora da pista — durante todas as implacáveis temporadas de corridas de Fórmula 1.",
@@ -100,201 +237,7 @@
    "genres": [
     "Documentário"
    ],
-   "imdbRating": "5.8"
-  },
-  {
-   "status": "Continuing",
-   "id": "tt50707598",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "name": "MEGASTORM",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50707598.jpg",
-   "imdbRating": "6.0"
-  },
-  {
-   "name": "The Rehearsal",
-   "genre": [
-    "Documentary",
-    "Comedy"
-   ],
-   "imdbRating": "8.5",
-   "released": "2022-07-15T00:00:00.000Z",
-   "year": "2022–",
-   "cast": [
-    "Nathan Fielder",
-    "Journey Baker",
-    "Anna Lamadrid"
-   ],
-   "country": "United States",
-   "description": "Nesta série, pessoas comuns podem se preparar para os maiores momentos da vida \"ensaiando-os\" em simulações cuidadosamente elaboradas. Quando um único passo em falso pode destruir seu mundo inteiro, por que deixar a vida ao acaso?",
-   "director": null,
-   "writer": [
-    "Nathan Fielder"
-   ],
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt10802170/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10802170/img",
-   "awards": "Nominated for 4 Primetime Emmys. 3 wins & 22 nominations total",
-   "runtime": "35 min",
-   "trailers": [
-    {
-     "source": "2fjPFt8cpic",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10802170",
-   "genres": [
-    "Comédia",
-    "Documentário"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Rehearsal",
-     "ytId": "2fjPFt8cpic"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10802170"
-    },
-    {
-     "name": "The Rehearsal",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-rehearsal-10802170"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Nathan Fielder",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nathan%20Fielder"
-    },
-    {
-     "name": "Journey Baker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Journey%20Baker"
-    },
-    {
-     "name": "Anna Lamadrid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anna%20Lamadrid"
-    },
-    {
-     "name": "Nathan Fielder",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nathan%20Fielder"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10802170.jpg"
-  },
-  {
-   "id": "tt41593493",
-   "logo": "https://live.metahub.space/logo/medium/tt41593493/img",
-   "background": "https://live.metahub.space/background/medium/tt41593493/img",
-   "name": "Avedon",
-   "description": "As fotografias de Richard Avedon não só reflectiram a cultura, como a moldaram, e continuam a fazê-lo. O documentário AVEDON traça a vida e o legado de um artista que usou a moda, o retrato e a fotografia comercial para explorar a identidade, o poder, o medo e a beleza. Com acesso inédito ao arquivo de Avedon, incluindo fotos nunca antes vistas, gravações de bastidores e entrevistas com aqueles que o conheceram melhor, AVEDON é um exame visualmente deslumbrante da mente de um artista que moldou a nossa imagem coletiva do século XX.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "104 min",
-   "trailers": [],
-   "cast": [
-    "Richard Avedon"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Richard Avedon",
-     "profile_path": "/rIfO9OhQiRXB4dxW7D5Fr04EcNt.jpg",
-     "id": 1928722
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Ron Howard",
-     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
-     "id": 6159
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Brian Grazer",
-     "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
-     "id": 339
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Ron Howard",
-     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
-     "id": 6159
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Dallas Brennan Rexer",
-     "profile_path": null,
-     "id": 2671907
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Sara Bernstein",
-     "profile_path": "/lHxgVjuHFdionBpk8BdQMf3Q95z.jpg",
-     "id": 81150
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Christopher St. John",
-     "profile_path": null,
-     "id": 4259996
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Justin Wilkes",
-     "profile_path": "/aeMYv3qHqk1XUXuLAprSEbIm6dm.jpg",
-     "id": 111406
-    }
-   ],
-   "director": [
-    "Ron Howard"
-   ],
-   "imdbRating": "7.4",
-   "country": "United States",
-   "awards": "1 nomination total",
-   "behaviorHints": {
-    "defaultVideoId": "tt41593493",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41593493.jpg"
+   "imdbRating": "5.7"
   },
   {
    "id": "tt44870166",
@@ -348,6 +291,19 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44870166.jpg"
+  },
+  {
+   "status": "Continuing",
+   "id": "tt50707598",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "name": "MEGASTORM",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50707598.jpg",
+   "imdbRating": "6.1"
   },
   {
    "awards": "3 wins & 7 nominations total",
@@ -438,6 +394,94 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2297757.jpg"
   },
   {
+   "id": "tt41593493",
+   "logo": "https://live.metahub.space/logo/medium/tt41593493/img",
+   "background": "https://live.metahub.space/background/medium/tt41593493/img",
+   "name": "Avedon",
+   "description": "As fotografias de Richard Avedon não só reflectiram a cultura, como a moldaram, e continuam a fazê-lo. O documentário AVEDON traça a vida e o legado de um artista que usou a moda, o retrato e a fotografia comercial para explorar a identidade, o poder, o medo e a beleza. Com acesso inédito ao arquivo de Avedon, incluindo fotos nunca antes vistas, gravações de bastidores e entrevistas com aqueles que o conheceram melhor, AVEDON é um exame visualmente deslumbrante da mente de um artista que moldou a nossa imagem coletiva do século XX.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "104 min",
+   "trailers": [],
+   "cast": [
+    "Richard Avedon"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Richard Avedon",
+     "profile_path": "/rIfO9OhQiRXB4dxW7D5Fr04EcNt.jpg",
+     "id": 1928722
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Ron Howard",
+     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+     "id": 6159
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Brian Grazer",
+     "profile_path": "/rNFUflKlpTEbnWDHd2Of293E4lx.jpg",
+     "id": 339
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Ron Howard",
+     "profile_path": "/tDKn6gAgvARdQRfuem2JwyNcP3B.jpg",
+     "id": 6159
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Dallas Brennan Rexer",
+     "profile_path": null,
+     "id": 2671907
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Sara Bernstein",
+     "profile_path": "/lHxgVjuHFdionBpk8BdQMf3Q95z.jpg",
+     "id": 81150
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Christopher St. John",
+     "profile_path": null,
+     "id": 4259996
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Justin Wilkes",
+     "profile_path": "/aeMYv3qHqk1XUXuLAprSEbIm6dm.jpg",
+     "id": 111406
+    }
+   ],
+   "director": [
+    "Ron Howard"
+   ],
+   "imdbRating": "7.6",
+   "country": "United States",
+   "awards": "1 nomination total",
+   "behaviorHints": {
+    "defaultVideoId": "tt41593493",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41593493.jpg"
+  },
+  {
    "name": "Taken: Natalee Holloway",
    "cast": [
     "Natalee Holloway",
@@ -499,86 +543,50 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
   },
   {
-   "id": "tt49250618",
-   "logo": "https://live.metahub.space/logo/medium/tt49250618/img",
-   "background": "https://live.metahub.space/background/medium/tt49250618/img",
-   "name": "The Fall of El Mayo",
-   "description": "Co-fundador do Cartel de Sinaloa, parceiro de longa data de \"El Chapo\", e um fantasma para as autoridades por mais de três décadas. O documentário que conta a história da sua queda.",
+   "id": "tt47021035",
+   "logo": "https://live.metahub.space/logo/medium/tt47021035/img",
+   "background": "https://live.metahub.space/background/medium/tt47021035/img",
+   "name": "Cunk on Cinema",
+   "description": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
    "genres": [
+    "Comédia",
     "Documentário"
    ],
    "releaseInfo": "2026",
-   "status": "Continuing",
+   "status": "Upcoming",
    "trailers": [
     {
-     "source": "e5ExUsk6-OE",
+     "source": "_qD_dLCMa3w",
+     "type": "Trailer"
+    },
+    {
+     "source": "MAV4nDKZetY",
      "type": "Trailer"
     }
    ],
-   "cast": [],
-   "credits_cast": [],
+   "cast": [
+    "Diane Morgan"
+   ],
+   "credits_cast": [
+    {
+     "character": "Philomena Cunk",
+     "name": "Diane Morgan",
+     "profile_path": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg",
+     "id": 1543364
+    }
+   ],
    "credits_crew": [],
    "director": [],
+   "language": "English",
+   "country": "United Kingdom",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
-   "imdbRating": "6.9"
-  },
-  {
-   "id": "tt48500521",
-   "behaviorHints": {
-    "defaultVideoId": "tt48500521",
-    "hasScheduledVideos": false
-   },
-   "links": [
-    {
-     "name": "Desprotexida: El crimen de Pazos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    }
-   ],
-   "name": "Desprotexida: El crimen de Pazos",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "genre": [
-    "Documentary"
-   ],
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "writer": [
-    "Jorge Laplace"
-   ],
-   "director": [
-    "Jorge Laplace"
-   ],
-   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
-   "language": "Spanish",
-   "country": "Spain",
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
-   "imdbRating": "6.1"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47021035.jpg",
+   "imdbRating": "7.8"
   }
  ]
 }

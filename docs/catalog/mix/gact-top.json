@@ -160,112 +160,85 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   },
   {
-   "name": "Black Doves",
-   "awards": "Nominated for 1 BAFTA Award. 1 win & 17 nominations total",
-   "cast": [
-    "Keira Knightley",
-    "Ben Whishaw",
-    "Charlotte Rice-Foley"
-   ],
-   "country": "United Kingdom",
-   "description": "Quando uma espia que se apresenta como esposa de um político sabe que o amante foi assassinado, une-se a um velho amigo assassino para descobrir a verdade... e vingar-se.",
-   "genre": [
-    "Action",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-12-05T00:00:00.000Z",
-   "writer": [
-    "Joe Barton"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "shzJzjVscno",
-     "type": "Trailer"
-    },
-    {
-     "source": "1R0d2jW7a-I",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "54 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt27995113/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27995113/img",
-   "id": "tt27995113",
+   "id": "tt32375763",
+   "logo": "https://live.metahub.space/logo/medium/tt32375763/img",
+   "background": "https://live.metahub.space/background/medium/tt32375763/img",
+   "name": "12 12 12",
+   "description": "Um assalto leva 12 meses a planear, 12 horas a executar, e, um ladrão que não seja apanhado nos 12 dias seguintes, não é apanhado de todo. Através destas três linhas temporais entusiasmantes, um agente do FBI e um criminoso reincidente enfrentam-se num jogo mortífero do gato e do rato pela Europa.",
    "genres": [
     "Action & Adventure",
-    "Mistério",
-    "Crime"
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [
     {
-     "title": "Black Doves",
-     "ytId": "shzJzjVscno"
-    },
-    {
-     "title": "Black Doves",
-     "ytId": "1R0d2jW7a-I"
+     "source": "pWdt8WMCqnc",
+     "type": "Trailer"
     }
    ],
-   "links": [
+   "cast": [
+    "Anthony Mackie",
+    "Jamie Dornan",
+    "Jack Kesy"
+   ],
+   "credits_cast": [
     {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27995113"
+     "character": "Jack Strickland",
+     "name": "Anthony Mackie",
+     "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
+     "id": 53650
     },
     {
-     "name": "Black Doves",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/black-doves-27995113"
+     "character": "Paul Galvin",
+     "name": "Jamie Dornan",
+     "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
+     "id": 1254583
     },
     {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "character": "Bobby Galvin",
+     "name": "Jack Kesy",
+     "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
+     "id": 1292258
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "character": "Severine",
+     "name": "Agathe Rousselle",
+     "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
+     "id": 2418333
     },
     {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+     "character": "Lena",
+     "name": "Sallie Harmsen",
+     "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
+     "id": 544096
     },
     {
-     "name": "Keira Knightley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Keira%20Knightley"
+     "character": "",
+     "name": "Kali Reis",
+     "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
+     "id": 3119545
     },
     {
-     "name": "Ben Whishaw",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Whishaw"
-    },
-    {
-     "name": "Charlotte Rice-Foley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlotte%20Rice-Foley"
-    },
-    {
-     "name": "Joe Barton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joe%20Barton"
+     "character": "",
+     "name": "José Garcia",
+     "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
+     "id": 24895
     }
    ],
+   "credits_crew": [],
+   "director": [],
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg",
+   "imdbRating": "5.8"
   },
   {
    "id": "tt23112594",
@@ -382,85 +355,217 @@
    "imdbRating": "7.8"
   },
   {
-   "id": "tt32375763",
-   "logo": "https://live.metahub.space/logo/medium/tt32375763/img",
-   "background": "https://live.metahub.space/background/medium/tt32375763/img",
-   "name": "12 12 12",
-   "description": "Um assalto leva 12 meses a planear, 12 horas a executar, e, um ladrão que não seja apanhado nos 12 dias seguintes, não é apanhado de todo. Através destas três linhas temporais entusiasmantes, um agente do FBI e um criminoso reincidente enfrentam-se num jogo mortífero do gato e do rato pela Europa.",
-   "genres": [
-    "Action & Adventure",
-    "Crime",
-    "Drama"
+   "name": "Black Doves",
+   "awards": "Nominated for 1 BAFTA Award. 1 win & 17 nominations total",
+   "cast": [
+    "Keira Knightley",
+    "Ben Whishaw",
+    "Charlotte Rice-Foley"
    ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
+   "country": "United Kingdom",
+   "description": "Quando uma espia que se apresenta como esposa de um político sabe que o amante foi assassinado, une-se a um velho amigo assassino para descobrir a verdade... e vingar-se.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.2",
+   "released": "2024-12-05T00:00:00.000Z",
+   "writer": [
+    "Joe Barton"
+   ],
+   "year": "2024–",
    "trailers": [
     {
-     "source": "pWdt8WMCqnc",
+     "source": "shzJzjVscno",
+     "type": "Trailer"
+    },
+    {
+     "source": "1R0d2jW7a-I",
      "type": "Trailer"
     }
    ],
-   "cast": [
-    "Anthony Mackie",
-    "Jamie Dornan",
-    "Jack Kesy"
+   "runtime": "54 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt27995113/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27995113/img",
+   "id": "tt27995113",
+   "genres": [
+    "Action & Adventure",
+    "Mistério",
+    "Crime"
    ],
-   "credits_cast": [
+   "releaseInfo": "2024",
+   "trailerStreams": [
     {
-     "character": "Jack Strickland",
-     "name": "Anthony Mackie",
-     "profile_path": "/vecvTm7SimizluJkyIwBxeLbvRm.jpg",
-     "id": 53650
+     "title": "Black Doves",
+     "ytId": "shzJzjVscno"
     },
     {
-     "character": "Paul Galvin",
-     "name": "Jamie Dornan",
-     "profile_path": "/qmTiAm3LII5moykSriVkJCeysKC.jpg",
-     "id": 1254583
-    },
-    {
-     "character": "Bobby Galvin",
-     "name": "Jack Kesy",
-     "profile_path": "/lQ8nUYK6InbCFk2TWNnXjjvG9IY.jpg",
-     "id": 1292258
-    },
-    {
-     "character": "Severine",
-     "name": "Agathe Rousselle",
-     "profile_path": "/xVeismLfDnAnM6dh2Nwh6s7fzon.jpg",
-     "id": 2418333
-    },
-    {
-     "character": "Lena",
-     "name": "Sallie Harmsen",
-     "profile_path": "/2JNkJ7UUAKwLkaPeOdzi0bQUzK4.jpg",
-     "id": 544096
-    },
-    {
-     "character": "",
-     "name": "Kali Reis",
-     "profile_path": "/ruLDXHnKA4aHEQCcFGDAJ7bLTdt.jpg",
-     "id": 3119545
-    },
-    {
-     "character": "",
-     "name": "José Garcia",
-     "profile_path": "/ml8JHunZl2TCBrcaseqtiEfpykm.jpg",
-     "id": 24895
+     "title": "Black Doves",
+     "ytId": "1R0d2jW7a-I"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27995113"
+    },
+    {
+     "name": "Black Doves",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/black-doves-27995113"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Keira Knightley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keira%20Knightley"
+    },
+    {
+     "name": "Ben Whishaw",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Whishaw"
+    },
+    {
+     "name": "Charlotte Rice-Foley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charlotte%20Rice-Foley"
+    },
+    {
+     "name": "Joe Barton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joe%20Barton"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg",
-   "imdbRating": "5.8"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
+  },
+  {
+   "name": "The Terminal List",
+   "cast": [
+    "Chris Pratt",
+    "Constance Wu",
+    "Taylor Kitsch"
+   ],
+   "country": "United States",
+   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.9",
+   "released": "2022-07-01T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Jack Carr",
+    "David DiGilio"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt11743610/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
+   "awards": "3 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "x9FvvsC0B5Q",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11743610",
+   "genres": [
+    "Action & Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Terminal List",
+     "ytId": "x9FvvsC0B5Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11743610"
+    },
+    {
+     "name": "The Terminal List",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Chris Pratt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Pratt"
+    },
+    {
+     "name": "Constance Wu",
+     "category": "Cast",
+     "url": "stremio:///search?search=Constance%20Wu"
+    },
+    {
+     "name": "Taylor Kitsch",
+     "category": "Cast",
+     "url": "stremio:///search?search=Taylor%20Kitsch"
+    },
+    {
+     "name": "Jack Carr",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jack%20Carr"
+    },
+    {
+     "name": "David DiGilio",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20DiGilio"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
   },
   {
    "name": "The End of Oak Street",
@@ -584,60 +689,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27165187.jpg"
   },
   {
-   "name": "The Terminal List",
+   "awards": "7 wins & 26 nominations total",
    "cast": [
-    "Chris Pratt",
-    "Constance Wu",
-    "Taylor Kitsch"
+    "Taylor Kinney",
+    "Christian Stolte",
+    "Joe Minoso"
    ],
    "country": "United States",
-   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
+   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
     "Action",
-    "Drama",
-    "Thriller"
+    "Drama"
    ],
-   "imdbRating": "7.9",
-   "released": "2022-07-01T00:00:00.000Z",
-   "year": "2022–",
+   "imdbRating": "8.0",
+   "name": "Chicago Fire",
+   "released": "2012-10-10T00:00:00.000Z",
+   "runtime": "42 min",
    "status": "Continuing",
-   "director": [],
    "writer": [
-    "Jack Carr",
-    "David DiGilio"
+    "Michael Brandt",
+    "Derek Haas"
    ],
-   "background": "https://images.metahub.space/background/medium/tt11743610/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
-   "awards": "3 nominations total",
-   "runtime": "60 min",
+   "year": "2012–",
+   "background": "https://images.metahub.space/background/medium/tt2261391/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
    "trailers": [
     {
-     "source": "x9FvvsC0B5Q",
+     "source": "IIeSDILTE5M",
      "type": "Trailer"
     }
    ],
-   "id": "tt11743610",
+   "id": "tt2261391",
    "genres": [
-    "Action & Adventure",
     "Drama"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2012",
    "trailerStreams": [
     {
-     "title": "The Terminal List",
-     "ytId": "x9FvvsC0B5Q"
+     "title": "Chicago Fire",
+     "ytId": "IIeSDILTE5M"
     }
    ],
    "links": [
     {
-     "name": "7.9",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt11743610"
+     "url": "https://imdb.com/title/tt2261391"
     },
     {
-     "name": "The Terminal List",
+     "name": "Chicago Fire",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
+     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
     },
     {
      "name": "Action",
@@ -650,34 +754,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Chris Pratt",
+     "name": "Taylor Kinney",
      "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Pratt"
+     "url": "stremio:///search?search=Taylor%20Kinney"
     },
     {
-     "name": "Constance Wu",
+     "name": "Christian Stolte",
      "category": "Cast",
-     "url": "stremio:///search?search=Constance%20Wu"
+     "url": "stremio:///search?search=Christian%20Stolte"
     },
     {
-     "name": "Taylor Kitsch",
+     "name": "Joe Minoso",
      "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kitsch"
+     "url": "stremio:///search?search=Joe%20Minoso"
     },
     {
-     "name": "Jack Carr",
+     "name": "Michael Brandt",
      "category": "Writers",
-     "url": "stremio:///search?search=Jack%20Carr"
+     "url": "stremio:///search?search=Michael%20Brandt"
     },
     {
-     "name": "David DiGilio",
+     "name": "Derek Haas",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20DiGilio"
+     "url": "stremio:///search?search=Derek%20Haas"
     }
    ],
    "behaviorHints": {
@@ -686,7 +785,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
   },
   {
    "awards": "6 wins & 15 nominations total",
@@ -801,62 +900,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2805096.jpg"
   },
   {
-   "name": "9-1-1",
-   "year": "2018–",
+   "name": "Outer Banks",
+   "cast": [
+    "Chase Stokes",
+    "Madelyn Cline",
+    "Madison Bailey"
+   ],
+   "country": "United States",
+   "description": "Numa ilha de ricos e pobres da Carolina do Norte, John B e o seu grupo coeso de amigos encontram mistério e aventura numa caça ao tesouro perdido.",
    "genre": [
     "Action",
-    "Drama",
-    "Thriller"
+    "Adventure",
+    "Crime"
    ],
-   "released": "2018-01-03T00:00:00.000Z",
-   "cast": [
-    "Angela Bassett",
-    "Oliver Stark",
-    "Aisha Hinds"
+   "imdbRating": "7.5",
+   "released": "2020-04-15T00:00:00.000Z",
+   "writer": [
+    "Shannon Burke",
+    "Jonas Pate",
+    "Josh Pate"
    ],
-   "imdbRating": "7.8",
-   "description": "Explore as experiências de alta pressão de policiais, paramédicos e bombeiros que são levados às situações mais assustadoras, chocantes e de parar o coração. Esses socorristas devem tentar equilibrar a economia daqueles que estão mais vulneráveis na solução dos problemas em suas próprias vidas.",
-   "country": "United States",
+   "year": "2020–2026",
+   "status": "Ended",
    "director": [],
-   "writer": [
-    "Brad Falchuk",
-    "Tim Minear",
-    "Ryan Murphy"
-   ],
-   "status": "Continuing",
-   "runtime": "43 min",
-   "background": "https://images.metahub.space/background/medium/tt7235466/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7235466/img",
-   "awards": "25 wins & 46 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt10293938/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10293938/img",
+   "runtime": "51 min",
+   "awards": "5 wins & 11 nominations total",
    "trailers": [
     {
-     "source": "_8MHJfUMqPA",
+     "source": "pfY3j-3uQhk",
      "type": "Trailer"
     }
    ],
-   "id": "tt7235466",
+   "id": "tt10293938",
    "genres": [
-    "Drama",
-    "Crime",
-    "Action & Adventure"
+    "Action & Adventure",
+    "Mistério"
    ],
-   "releaseInfo": "2018",
+   "releaseInfo": "2020",
    "trailerStreams": [
     {
-     "title": "9-1-1",
-     "ytId": "_8MHJfUMqPA"
+     "title": "Outer Banks",
+     "ytId": "pfY3j-3uQhk"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "7.5",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7235466"
+     "url": "https://imdb.com/title/tt10293938"
     },
     {
-     "name": "9-1-1",
+     "name": "Outer Banks",
      "category": "share",
-     "url": "https://www.strem.io/s/series/9-1-1-7235466"
+     "url": "https://www.strem.io/s/series/outer-banks-10293938"
     },
     {
      "name": "Action",
@@ -864,44 +962,44 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Drama",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Thriller",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Angela Bassett",
+     "name": "Chase Stokes",
      "category": "Cast",
-     "url": "stremio:///search?search=Angela%20Bassett"
+     "url": "stremio:///search?search=Chase%20Stokes"
     },
     {
-     "name": "Oliver Stark",
+     "name": "Madelyn Cline",
      "category": "Cast",
-     "url": "stremio:///search?search=Oliver%20Stark"
+     "url": "stremio:///search?search=Madelyn%20Cline"
     },
     {
-     "name": "Aisha Hinds",
+     "name": "Madison Bailey",
      "category": "Cast",
-     "url": "stremio:///search?search=Aisha%20Hinds"
+     "url": "stremio:///search?search=Madison%20Bailey"
     },
     {
-     "name": "Brad Falchuk",
+     "name": "Shannon Burke",
      "category": "Writers",
-     "url": "stremio:///search?search=Brad%20Falchuk"
+     "url": "stremio:///search?search=Shannon%20Burke"
     },
     {
-     "name": "Tim Minear",
+     "name": "Jonas Pate",
      "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Minear"
+     "url": "stremio:///search?search=Jonas%20Pate"
     },
     {
-     "name": "Ryan Murphy",
+     "name": "Josh Pate",
      "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20Murphy"
+     "url": "stremio:///search?search=Josh%20Pate"
     }
    ],
    "behaviorHints": {
@@ -910,106 +1008,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7235466.jpg"
-  },
-  {
-   "awards": "7 wins & 26 nominations total",
-   "cast": [
-    "Taylor Kinney",
-    "Christian Stolte",
-    "Joe Minoso"
-   ],
-   "country": "United States",
-   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Drama"
-   ],
-   "imdbRating": "8.0",
-   "name": "Chicago Fire",
-   "released": "2012-10-10T00:00:00.000Z",
-   "runtime": "42 min",
-   "status": "Continuing",
-   "writer": [
-    "Michael Brandt",
-    "Derek Haas"
-   ],
-   "year": "2012–",
-   "background": "https://images.metahub.space/background/medium/tt2261391/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
-   "trailers": [
-    {
-     "source": "IIeSDILTE5M",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt2261391",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2012",
-   "trailerStreams": [
-    {
-     "title": "Chicago Fire",
-     "ytId": "IIeSDILTE5M"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2261391"
-    },
-    {
-     "name": "Chicago Fire",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Taylor Kinney",
-     "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kinney"
-    },
-    {
-     "name": "Christian Stolte",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Stolte"
-    },
-    {
-     "name": "Joe Minoso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Minoso"
-    },
-    {
-     "name": "Michael Brandt",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Brandt"
-    },
-    {
-     "name": "Derek Haas",
-     "category": "Writers",
-     "url": "stremio:///search?search=Derek%20Haas"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10293938.jpg"
   }
  ]
 }
