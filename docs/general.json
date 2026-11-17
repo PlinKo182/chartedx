@@ -5,13 +5,8 @@
   "genre": false
  },
  {
-  "shortName": "gact",
-  "name": "Ação & Aventura",
-  "genre": true
- },
- {
-  "shortName": "gcmy",
-  "name": "Comédia",
+  "shortName": "gdoc",
+  "name": "Documentário",
   "genre": true
  },
  {
@@ -20,8 +15,8 @@
   "genre": true
  },
  {
-  "shortName": "gfnt",
-  "name": "Fantasia",
+  "shortName": "ghrr",
+  "name": "Terror",
   "genre": true
  },
  {
@@ -30,53 +25,8 @@
   "genre": true
  },
  {
-  "shortName": "grma",
-  "name": "Romance",
-  "genre": true
- },
- {
   "shortName": "grly",
   "name": "Reality TV",
-  "genre": true
- },
- {
-  "shortName": "geur",
-  "name": "Europeu",
-  "genre": true
- },
- {
-  "shortName": "gani",
-  "name": "Animação",
-  "genre": true
- },
- {
-  "shortName": "gdoc",
-  "name": "Documentário",
-  "genre": true
- },
- {
-  "shortName": "gwsn",
-  "name": "Western",
-  "genre": true
- },
- {
-  "shortName": "gscf",
-  "name": "Ficção Científica",
-  "genre": true
- },
- {
-  "shortName": "ghst",
-  "name": "História",
-  "genre": true
- },
- {
-  "shortName": "gtrl",
-  "name": "Mistério & Thriller",
-  "genre": true
- },
- {
-  "shortName": "gwar",
-  "name": "Guerra & Militar",
   "genre": true
  },
  {
@@ -85,8 +35,23 @@
   "genre": true
  },
  {
-  "shortName": "ghrr",
-  "name": "Terror",
+  "shortName": "ghst",
+  "name": "História",
+  "genre": true
+ },
+ {
+  "shortName": "gwsn",
+  "name": "Western",
+  "genre": true
+ },
+ {
+  "shortName": "gact",
+  "name": "Ação & Aventura",
+  "genre": true
+ },
+ {
+  "shortName": "gani",
+  "name": "Animação",
   "genre": true
  },
  {
@@ -95,8 +60,43 @@
   "genre": true
  },
  {
+  "shortName": "grma",
+  "name": "Romance",
+  "genre": true
+ },
+ {
+  "shortName": "gscf",
+  "name": "Ficção Científica",
+  "genre": true
+ },
+ {
+  "shortName": "geur",
+  "name": "Europeu",
+  "genre": true
+ },
+ {
+  "shortName": "gcmy",
+  "name": "Comédia",
+  "genre": true
+ },
+ {
+  "shortName": "gfnt",
+  "name": "Fantasia",
+  "genre": true
+ },
+ {
+  "shortName": "gtrl",
+  "name": "Mistério & Thriller",
+  "genre": true
+ },
+ {
   "shortName": "gspt",
   "name": "Esporte & Fitness",
+  "genre": true
+ },
+ {
+  "shortName": "gwar",
+  "name": "Guerra & Militar",
   "genre": true
  }
 ]
