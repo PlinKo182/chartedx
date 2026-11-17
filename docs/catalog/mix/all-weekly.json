@@ -17,7 +17,7 @@
     "Adventure",
     "Mystery"
    ],
-   "imdbRating": "6.2",
+   "imdbRating": "6.1",
    "released": "2026-08-14T00:00:00.000Z",
    "writer": [
     "David Robert Mitchell"
@@ -318,49 +318,118 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38781172.jpg"
   },
   {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
+   "cast": [
+    "Morfydd Clark",
+    "Ismael Cruz Cordova",
+    "Robert Aramayo"
    ],
-   "releaseInfo": "2021",
+   "country": "United States, New Zealand, Canada",
+   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "6.8",
+   "name": "The Lord of the Rings: The Rings of Power",
+   "released": "2022-09-01T00:00:00.000Z",
+   "writer": [
+    "Patrick McKay",
+    "John D. Payne"
+   ],
+   "year": "2022–",
    "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt7631058/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
+   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
+   "runtime": "69 min",
    "trailers": [
     {
-     "source": "ga0iTWXCGa0",
+     "source": "x8UAUAuKNcU",
+     "type": "Trailer"
+    },
+    {
+     "source": "uYnQDsaxHZU",
      "type": "Trailer"
     }
    ],
-   "cast": [
-    "Omar Sy"
+   "id": "tt7631058",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "credits_cast": [
+   "releaseInfo": "2022",
+   "trailerStreams": [
     {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "x8UAUAuKNcU"
+    },
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "uYnQDsaxHZU"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7631058"
+    },
+    {
+     "name": "The Lord of the Rings: The Rings of Power",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Morfydd Clark",
+     "category": "Cast",
+     "url": "stremio:///search?search=Morfydd%20Clark"
+    },
+    {
+     "name": "Ismael Cruz Cordova",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
+    },
+    {
+     "name": "Robert Aramayo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Aramayo"
+    },
+    {
+     "name": "Patrick McKay",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20McKay"
+    },
+    {
+     "name": "John D. Payne",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20D.%20Payne"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
   },
   {
    "name": "Minha Amiga",
@@ -447,6 +516,144 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37458193.jpg",
    "description": "Duas amigas a braços com a síndrome do ninho vazio seguem as filhas adolescentes até Portugal, onde acabam por encontrar amor, diversão e um novo conceito de amizade."
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
+   "name": "Heartland",
+   "cast": [
+    "Jessica Chastain",
+    "Garrett Hedlund",
+    "John Hawkes"
+   ],
+   "country": "United States",
+   "description": "A ex-estrela da música country Misty Jones sai do seu isolamento para procurar a sua sobrinha desaparecida, uma música em ascensão, em Nashville. A sua investigação revela segredos obscuros e obriga-a a enfrentar o seu próprio passado.",
+   "director": [
+    "Shana Feste"
+   ],
+   "genre": [
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "5.6",
+   "released": "2026-11-13T00:00:00.000Z",
+   "writer": [
+    "Shana Feste"
+   ],
+   "year": "2026",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "ziIz59enN1c",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt38213251/img",
+   "background": "https://images.metahub.space/background/medium/tt38213251/img",
+   "id": "tt38213251",
+   "genres": [
+    "Thriller",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Heartland",
+     "ytId": "ziIz59enN1c"
+    }
+   ],
+   "links": [
+    {
+     "name": "Heartland",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/heartland-38213251"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jessica Chastain",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jessica%20Chastain"
+    },
+    {
+     "name": "Garrett Hedlund",
+     "category": "Cast",
+     "url": "stremio:///search?search=Garrett%20Hedlund"
+    },
+    {
+     "name": "John Hawkes",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Hawkes"
+    },
+    {
+     "name": "Shana Feste",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shana%20Feste"
+    },
+    {
+     "name": "Shana Feste",
+     "category": "Directors",
+     "url": "stremio:///search?search=Shana%20Feste"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38213251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38213251.jpg"
   },
   {
    "id": "tt39943756",
@@ -678,269 +885,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37803364.jpg"
-  },
-  {
-   "cast": [
-    "Morfydd Clark",
-    "Ismael Cruz Cordova",
-    "Robert Aramayo"
-   ],
-   "country": "United States, New Zealand, Canada",
-   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Drama"
-   ],
-   "imdbRating": "6.8",
-   "name": "The Lord of the Rings: The Rings of Power",
-   "released": "2022-09-01T00:00:00.000Z",
-   "writer": [
-    "Patrick McKay",
-    "John D. Payne"
-   ],
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt7631058/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
-   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
-   "runtime": "69 min",
-   "trailers": [
-    {
-     "source": "x8UAUAuKNcU",
-     "type": "Trailer"
-    },
-    {
-     "source": "uYnQDsaxHZU",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt7631058",
-   "genres": [
-    "Action & Adventure",
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "x8UAUAuKNcU"
-    },
-    {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "uYnQDsaxHZU"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt7631058"
-    },
-    {
-     "name": "The Lord of the Rings: The Rings of Power",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Morfydd Clark",
-     "category": "Cast",
-     "url": "stremio:///search?search=Morfydd%20Clark"
-    },
-    {
-     "name": "Ismael Cruz Cordova",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
-    },
-    {
-     "name": "Robert Aramayo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Aramayo"
-    },
-    {
-     "name": "Patrick McKay",
-     "category": "Writers",
-     "url": "stremio:///search?search=Patrick%20McKay"
-    },
-    {
-     "name": "John D. Payne",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20D.%20Payne"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
-  },
-  {
-   "name": "Project Hail Mary",
-   "cast": [
-    "Ryan Gosling",
-    "Sandra Hüller",
-    "James Ortiz"
-   ],
-   "country": "United States",
-   "description": "O professor de Ciências Ryland Grace acorda numa nave espacial sem se lembrar de quem é ou como chegou lá. À medida que a memória volta, começa a descobrir a sua missão: resolver o enigma da misteriosa substância que está a causar a extinção do Sol. Tem de recorrer aos seus conhecimentos científicos para salvar tudo na Terra da extinção... mas uma amizade inesperada acompanha-o nesta missão.",
-   "director": [
-    "Phil Lord",
-    "Christopher Miller"
-   ],
-   "genre": [
-    "Adventure",
-    "Comedy",
-    "Sci-Fi"
-   ],
-   "imdbRating": "8.2",
-   "released": "2026-03-20T00:00:00.000Z",
-   "writer": [
-    "Drew Goddard",
-    "Andy Weir"
-   ],
-   "year": "2026",
-   "trailers": [
-    {
-     "source": "NKYea63tQmI",
-     "type": "Trailer"
-    },
-    {
-     "source": "P0XN3-n-2Lo",
-     "type": "Trailer"
-    },
-    {
-     "source": "tvd7UUHzdhA",
-     "type": "Trailer"
-    },
-    {
-     "source": "5VYsnngkS_U",
-     "type": "Trailer"
-    },
-    {
-     "source": "m08TxIsFTRI",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt12042730/img",
-   "logo": "https://images.metahub.space/logo/medium/tt12042730/img",
-   "runtime": "157 min",
-   "awards": "10 wins & 10 nominations total",
-   "id": "tt12042730",
-   "genres": [
-    "Ficção científica",
-    "Aventura"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Project Hail Mary",
-     "ytId": "NKYea63tQmI"
-    },
-    {
-     "title": "Project Hail Mary",
-     "ytId": "P0XN3-n-2Lo"
-    },
-    {
-     "title": "Project Hail Mary",
-     "ytId": "tvd7UUHzdhA"
-    },
-    {
-     "title": "Project Hail Mary",
-     "ytId": "5VYsnngkS_U"
-    },
-    {
-     "title": "Project Hail Mary",
-     "ytId": "m08TxIsFTRI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt12042730"
-    },
-    {
-     "name": "Project Hail Mary",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/project-hail-mary-12042730"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Ryan Gosling",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ryan%20Gosling"
-    },
-    {
-     "name": "Sandra Hüller",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sandra%20H%C3%BCller"
-    },
-    {
-     "name": "James Ortiz",
-     "category": "Cast",
-     "url": "stremio:///search?search=James%20Ortiz"
-    },
-    {
-     "name": "Drew Goddard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Drew%20Goddard"
-    },
-    {
-     "name": "Andy Weir",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andy%20Weir"
-    },
-    {
-     "name": "Phil Lord",
-     "category": "Directors",
-     "url": "stremio:///search?search=Phil%20Lord"
-    },
-    {
-     "name": "Christopher Miller",
-     "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20Miller"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt12042730",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
   },
   {
    "id": "tt26598805",

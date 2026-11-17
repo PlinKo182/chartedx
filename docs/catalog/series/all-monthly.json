@@ -705,79 +705,6 @@
    "imdbRating": "7.4"
   },
   {
-   "name": "East of Eden",
-   "cast": [
-    "Florence Pugh",
-    "Mike Faist",
-    "Christopher Abbott"
-   ],
-   "country": "United States",
-   "description": "No início da década de 1900, uma mulher de espírito indomável gera um conflito entre dois irmãos e dá início a uma saga que atravessa duas gerações.",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "8.0",
-   "released": "2026-10-01T00:00:00.000Z",
-   "year": "2026",
-   "runtime": "59 min",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "M9NWvGZViCg",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt21097264/img",
-   "background": "https://images.metahub.space/background/medium/tt21097264/img",
-   "id": "tt21097264",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "East of Eden",
-     "ytId": "M9NWvGZViCg"
-    }
-   ],
-   "links": [
-    {
-     "name": "East of Eden",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/east-of-eden-21097264"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Florence Pugh",
-     "category": "Cast",
-     "url": "stremio:///search?search=Florence%20Pugh"
-    },
-    {
-     "name": "Mike Faist",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Faist"
-    },
-    {
-     "name": "Christopher Abbott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Christopher%20Abbott"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg"
-  },
-  {
    "name": "Nobody Wants This",
    "cast": [
     "Kristen Bell",
@@ -875,6 +802,99 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg"
+  },
+  {
+   "name": "The Diplomat",
+   "cast": [
+    "Keri Russell",
+    "Rufus Sewell",
+    "David Gyasi"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Durante uma crise internacional, uma diplomata dos EUA concilia o seu trabalho como embaixadora no Reino Unido com o seu tenso casamento com um político conceituado.",
+   "genre": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "8.1",
+   "released": "2023-04-20T00:00:00.000Z",
+   "writer": [
+    "Debora Cahn"
+   ],
+   "year": "2023–",
+   "trailers": [
+    {
+     "source": "lV6sJlBbhPs",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "runtime": "49 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt17491088/img",
+   "logo": "https://images.metahub.space/logo/medium/tt17491088/img",
+   "awards": "Nominated for 3 Primetime Emmys. 6 wins & 56 nominations total",
+   "id": "tt17491088",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "The Diplomat",
+     "ytId": "lV6sJlBbhPs"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt17491088"
+    },
+    {
+     "name": "The Diplomat",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-diplomat-17491088"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Keri Russell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Keri%20Russell"
+    },
+    {
+     "name": "Rufus Sewell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rufus%20Sewell"
+    },
+    {
+     "name": "David Gyasi",
+     "category": "Cast",
+     "url": "stremio:///search?search=David%20Gyasi"
+    },
+    {
+     "name": "Debora Cahn",
+     "category": "Writers",
+     "url": "stremio:///search?search=Debora%20Cahn"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   }
  ]
 }
