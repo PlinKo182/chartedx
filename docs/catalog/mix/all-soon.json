@@ -96,7 +96,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://image.tmdb.org/t/p/w500/8oRI8QXgSnz9CVQWWufiaE9DQ2l.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41559886.jpg"
   },
   {
    "id": "tt44079238",
@@ -380,24 +380,58 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36786185.jpg"
   },
   {
-   "status": "Continuing",
    "id": "tt50666033",
+   "logo": "https://live.metahub.space/logo/medium/tt50666033/img",
+   "background": "https://live.metahub.space/background/medium/tt50666033/img",
+   "name": "MELANIA the Series",
+   "description": "Experience Melania Trump's transition to First Lady as she navigates the White House and puts her mission into action.",
+   "genres": [
+    "Documentário",
+    "War & Politics"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "vQhH-mOVtPs",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Melania Trump"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Melania Trump",
+     "profile_path": "/jwEWWfAG009GBVyxdC0tdoEgqUI.jpg",
+     "id": 1600272
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Brett Ratner",
+     "profile_path": "/y40YzrI2ooWiWxfisx6zCZGueEu.jpg",
+     "id": 11091
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Fernando Sulichin",
+     "profile_path": "/yb0TyqOTHwTPlrGtYRMzncmYswV.jpg",
+     "id": 71332
+    }
+   ],
+   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
-   "cast": [
-    "Melania Trump"
-   ],
    "type": "series",
-   "name": "MELANIA the Series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50666033.jpg",
-   "releaseInfo": "2026",
-   "genres": [
-    "Documentário",
-    "War & Politics"
-   ]
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50666033.jpg"
   },
   {
    "id": "tt26778255",
@@ -838,7 +872,8 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38688809.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38688809.jpg",
+   "imdbRating": "2.6"
   },
   {
    "awards": "Won 6 Primetime Emmys. 265 wins & 383 nominations total",
@@ -1415,6 +1450,47 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48343927.jpg"
   },
   {
+   "id": "tt43728785",
+   "logo": "https://live.metahub.space/logo/medium/tt43728785/img",
+   "background": "https://live.metahub.space/background/medium/tt43728785/img",
+   "name": "Collect & Praise",
+   "description": "Faith comes second to fortune as a money-hungry pastor and his unpredictable deacon scheme their way through scandal, chaos and controversy.",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Druski",
+    "Mike Epps"
+   ],
+   "credits_cast": [
+    {
+     "character": "",
+     "name": "Druski",
+     "profile_path": "/vGoriElO8VnXT7k38Wg7LbHQpFR.jpg",
+     "id": 3615902
+    },
+    {
+     "character": "",
+     "name": "Mike Epps",
+     "profile_path": "/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg",
+     "id": 51944
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt43728785/img"
+  },
+  {
    "id": "tt37433759",
    "logo": "https://live.metahub.space/logo/medium/tt37433759/img",
    "background": "https://live.metahub.space/background/medium/tt37433759/img",
@@ -1470,47 +1546,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37433759.jpg"
-  },
-  {
-   "id": "tt43728785",
-   "logo": "https://live.metahub.space/logo/medium/tt43728785/img",
-   "background": "https://live.metahub.space/background/medium/tt43728785/img",
-   "name": "Collect & Praise",
-   "description": "Faith comes second to fortune as a money-hungry pastor and his unpredictable deacon scheme their way through scandal, chaos and controversy.",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
-   "cast": [
-    "Druski",
-    "Mike Epps"
-   ],
-   "credits_cast": [
-    {
-     "character": "",
-     "name": "Druski",
-     "profile_path": "/vGoriElO8VnXT7k38Wg7LbHQpFR.jpg",
-     "id": 3615902
-    },
-    {
-     "character": "",
-     "name": "Mike Epps",
-     "profile_path": "/kDI4E3ALm2rVkF38GwhWwXmDq0a.jpg",
-     "id": 51944
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt43728785/img"
   },
   {
    "status": "Continuing",
