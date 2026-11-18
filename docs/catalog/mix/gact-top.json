@@ -193,7 +193,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32375763.jpg",
-   "imdbRating": "5.8"
+   "imdbRating": "5.7"
   },
   {
    "id": "tt2531336",
@@ -371,7 +371,7 @@
     "Adventure",
     "Mystery"
    ],
-   "imdbRating": "6.2",
+   "imdbRating": "6.1",
    "released": "2026-08-14T00:00:00.000Z",
    "writer": [
     "David Robert Mitchell"
@@ -476,316 +476,132 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27165187.jpg"
   },
   {
-   "awards": "7 wins & 26 nominations total",
+   "name": "The Odyssey",
    "cast": [
-    "Taylor Kinney",
-    "Christian Stolte",
-    "Joe Minoso"
+    "Matt Damon",
+    "Tom Holland",
+    "Anne Hathaway"
    ],
-   "country": "United States",
-   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
+   "description": "Após o fim da Guerra de Troia, Ulisses, o lendário rei de Ítaca, embarca numa longa e perigosa viagem de regresso a casa. Durante dez anos de provações, enfrenta a fúria dos deuses e cruza-se com figuras míticas como o ciclope Polifemo, as sereias e a feiticeira Circe. Determinado a sobreviver, tenta voltar para junto da esposa, Penélope, e do filho, Telémaco, e recuperar o seu reino.",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "imdbRating": "8.4",
+   "released": "2026-07-17T00:00:00.000Z",
+   "writer": [
+    "Christopher Nolan",
+    "Homer"
+   ],
+   "year": "2026",
    "genre": [
     "Action",
-    "Drama"
+    "Adventure",
+    "Fantasy"
    ],
-   "imdbRating": "8.0",
-   "name": "Chicago Fire",
-   "released": "2012-10-10T00:00:00.000Z",
-   "runtime": "42 min",
-   "status": "Continuing",
-   "writer": [
-    "Michael Brandt",
-    "Derek Haas"
-   ],
-   "year": "2012–",
-   "background": "https://images.metahub.space/background/medium/tt2261391/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
    "trailers": [
     {
-     "source": "IIeSDILTE5M",
+     "source": "AyIZ9tiiN8I",
+     "type": "Trailer"
+    },
+    {
+     "source": "f_bKjZeJBBI",
+     "type": "Trailer"
+    },
+    {
+     "source": "Mzw2ttJD2qQ",
      "type": "Trailer"
     }
    ],
-   "id": "tt2261391",
+   "background": "https://images.metahub.space/background/medium/tt33764258/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33764258/img",
+   "runtime": "173 min",
+   "awards": "3 wins total",
+   "id": "tt33764258",
    "genres": [
-    "Drama"
+    "Aventura",
+    "Ação",
+    "Fantasia"
    ],
-   "releaseInfo": "2012",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Chicago Fire",
-     "ytId": "IIeSDILTE5M"
+     "title": "The Odyssey",
+     "ytId": "AyIZ9tiiN8I"
+    },
+    {
+     "title": "The Odyssey",
+     "ytId": "f_bKjZeJBBI"
+    },
+    {
+     "title": "The Odyssey",
+     "ytId": "Mzw2ttJD2qQ"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2261391"
+     "url": "https://imdb.com/title/tt33764258"
     },
     {
-     "name": "Chicago Fire",
+     "name": "The Odyssey",
      "category": "share",
-     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
+     "url": "https://www.strem.io/s/movie/the-odyssey-33764258"
     },
     {
      "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Drama",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Taylor Kinney",
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Matt Damon",
      "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kinney"
+     "url": "stremio:///search?search=Matt%20Damon"
     },
     {
-     "name": "Christian Stolte",
+     "name": "Tom Holland",
      "category": "Cast",
-     "url": "stremio:///search?search=Christian%20Stolte"
+     "url": "stremio:///search?search=Tom%20Holland"
     },
     {
-     "name": "Joe Minoso",
+     "name": "Anne Hathaway",
      "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Minoso"
+     "url": "stremio:///search?search=Anne%20Hathaway"
     },
     {
-     "name": "Michael Brandt",
+     "name": "Christopher Nolan",
      "category": "Writers",
-     "url": "stremio:///search?search=Michael%20Brandt"
+     "url": "stremio:///search?search=Christopher%20Nolan"
     },
     {
-     "name": "Derek Haas",
+     "name": "Homer",
      "category": "Writers",
-     "url": "stremio:///search?search=Derek%20Haas"
+     "url": "stremio:///search?search=Homer"
+    },
+    {
+     "name": "Christopher Nolan",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christopher%20Nolan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
+    "defaultVideoId": "tt33764258",
+    "hasScheduledVideos": false
    },
-   "type": "series",
+   "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
-  },
-  {
-   "name": "Black Doves",
-   "awards": "Nominated for 1 BAFTA Award. 1 win & 17 nominations total",
-   "cast": [
-    "Keira Knightley",
-    "Ben Whishaw",
-    "Charlotte Rice-Foley"
-   ],
-   "country": "United Kingdom",
-   "description": "Quando uma espia que se apresenta como esposa de um político sabe que o amante foi assassinado, une-se a um velho amigo assassino para descobrir a verdade... e vingar-se.",
-   "genre": [
-    "Action",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-12-05T00:00:00.000Z",
-   "writer": [
-    "Joe Barton"
-   ],
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "shzJzjVscno",
-     "type": "Trailer"
-    },
-    {
-     "source": "1R0d2jW7a-I",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "54 min",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt27995113/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27995113/img",
-   "id": "tt27995113",
-   "genres": [
-    "Action & Adventure",
-    "Mistério",
-    "Crime"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Black Doves",
-     "ytId": "shzJzjVscno"
-    },
-    {
-     "title": "Black Doves",
-     "ytId": "1R0d2jW7a-I"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27995113"
-    },
-    {
-     "name": "Black Doves",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/black-doves-27995113"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Keira Knightley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Keira%20Knightley"
-    },
-    {
-     "name": "Ben Whishaw",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Whishaw"
-    },
-    {
-     "name": "Charlotte Rice-Foley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlotte%20Rice-Foley"
-    },
-    {
-     "name": "Joe Barton",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joe%20Barton"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995113.jpg"
-  },
-  {
-   "name": "The Terminal List",
-   "cast": [
-    "Chris Pratt",
-    "Constance Wu",
-    "Taylor Kitsch"
-   ],
-   "country": "United States",
-   "description": "O Tenente-Comandante James Reece decide vingar-se e investigar as forças misteriosas por detrás do assassinato do seu pelotão inteiro. Livre da estrutura do comando militar, Reece põe em prática o que aprendeu em quase duas décadas de serviço militar para ir atrás dos responsáveis.",
-   "genre": [
-    "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "7.9",
-   "released": "2022-07-01T00:00:00.000Z",
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Jack Carr",
-    "David DiGilio"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt11743610/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11743610/img",
-   "awards": "3 nominations total",
-   "runtime": "60 min",
-   "trailers": [
-    {
-     "source": "x9FvvsC0B5Q",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt11743610",
-   "genres": [
-    "Action & Adventure",
-    "Drama"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Terminal List",
-     "ytId": "x9FvvsC0B5Q"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11743610"
-    },
-    {
-     "name": "The Terminal List",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-terminal-list-11743610"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Chris Pratt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Pratt"
-    },
-    {
-     "name": "Constance Wu",
-     "category": "Cast",
-     "url": "stremio:///search?search=Constance%20Wu"
-    },
-    {
-     "name": "Taylor Kitsch",
-     "category": "Cast",
-     "url": "stremio:///search?search=Taylor%20Kitsch"
-    },
-    {
-     "name": "Jack Carr",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jack%20Carr"
-    },
-    {
-     "name": "David DiGilio",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20DiGilio"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33764258.jpg"
   },
   {
    "name": "The Rookie",
@@ -888,62 +704,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7587890.jpg"
   },
   {
-   "awards": "6 wins & 15 nominations total",
+   "awards": "7 wins & 26 nominations total",
    "cast": [
-    "Jason Beghe",
-    "Marina Squerciati",
-    "Patrick John Flueger"
+    "Taylor Kinney",
+    "Christian Stolte",
+    "Joe Minoso"
    ],
    "country": "United States",
-   "description": "Do produtor Dick Wolf e do time de Chicago Fire, este spin-off acompanha os homens e mulheres do Distrito 21 da polícia de Chicago, que se colocam na linha de fogo para proteger a comunidade.A delegacia é composta por dois grupos: os guardas uniformizados, que patrulham as ruas da cidade; e a unidade de inteligência, responsável por combater os grandes crimes — organizado, tráfico de drogas, assassinatos importantes.",
+   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
    "director": null,
    "dvdRelease": null,
    "genre": [
     "Action",
-    "Crime",
     "Drama"
    ],
-   "imdbRating": "8.1",
-   "name": "Chicago P.D.",
-   "released": "2014-01-08T00:00:00.000Z",
-   "runtime": "41 min",
+   "imdbRating": "8.0",
+   "name": "Chicago Fire",
+   "released": "2012-10-10T00:00:00.000Z",
+   "runtime": "42 min",
    "status": "Continuing",
    "writer": [
     "Michael Brandt",
-    "Derek Haas",
-    "Dick Wolf"
+    "Derek Haas"
    ],
-   "year": "2014–",
-   "background": "https://images.metahub.space/background/medium/tt2805096/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2805096/img",
+   "year": "2012–",
+   "background": "https://images.metahub.space/background/medium/tt2261391/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
    "trailers": [
     {
-     "source": "Wji_GTTjPLM",
+     "source": "IIeSDILTE5M",
      "type": "Trailer"
     }
    ],
-   "id": "tt2805096",
+   "id": "tt2261391",
    "genres": [
-    "Crime",
     "Drama"
    ],
-   "releaseInfo": "2014",
+   "releaseInfo": "2012",
    "trailerStreams": [
     {
-     "title": "Chicago P.D.",
-     "ytId": "Wji_GTTjPLM"
+     "title": "Chicago Fire",
+     "ytId": "IIeSDILTE5M"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt2805096"
+     "url": "https://imdb.com/title/tt2261391"
     },
     {
-     "name": "Chicago P.D.",
+     "name": "Chicago Fire",
      "category": "share",
-     "url": "https://www.strem.io/s/series/chicago-pd-2805096"
+     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
     },
     {
      "name": "Action",
@@ -951,29 +764,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
      "name": "Drama",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Jason Beghe",
+     "name": "Taylor Kinney",
      "category": "Cast",
-     "url": "stremio:///search?search=Jason%20Beghe"
+     "url": "stremio:///search?search=Taylor%20Kinney"
     },
     {
-     "name": "Marina Squerciati",
+     "name": "Christian Stolte",
      "category": "Cast",
-     "url": "stremio:///search?search=Marina%20Squerciati"
+     "url": "stremio:///search?search=Christian%20Stolte"
     },
     {
-     "name": "Patrick John Flueger",
+     "name": "Joe Minoso",
      "category": "Cast",
-     "url": "stremio:///search?search=Patrick%20John%20Flueger"
+     "url": "stremio:///search?search=Joe%20Minoso"
     },
     {
      "name": "Michael Brandt",
@@ -984,11 +792,6 @@
      "name": "Derek Haas",
      "category": "Writers",
      "url": "stremio:///search?search=Derek%20Haas"
-    },
-    {
-     "name": "Dick Wolf",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dick%20Wolf"
     }
    ],
    "behaviorHints": {
@@ -997,7 +800,239 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2805096.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
+  },
+  {
+   "name": "Runner",
+   "cast": [
+    "Alan Ritchson",
+    "Owen Wilson",
+    "Rodrigo Santoro"
+   ],
+   "country": "Australia, United States, United Kingdom",
+   "description": "Um ex-soldado vê-se envolvido numa corrida brutal contra o tempo quando uma entrega médica crucial o torna alvo de um cartel implacável. Com a traição a aproximar-se por todos os lados, ele tem de sobreviver à perseguição e entregar a sua carga antes que uma criança inocente morra.",
+   "director": [
+    "Scott Waugh"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Thriller"
+   ],
+   "imdbRating": "6.2",
+   "released": "2026-09-11T00:00:00.000Z",
+   "writer": [
+    "Miles Hubley",
+    "Tommy White"
+   ],
+   "year": "2026",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "B6Z9MM1LhEA",
+     "type": "Trailer"
+    },
+    {
+     "source": "m8JUmBgHejI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31349844/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31349844/img",
+   "id": "tt31349844",
+   "genres": [
+    "Ação",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Runner",
+     "ytId": "B6Z9MM1LhEA"
+    },
+    {
+     "title": "Runner",
+     "ytId": "m8JUmBgHejI"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31349844"
+    },
+    {
+     "name": "Runner",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/runner-31349844"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Alan Ritchson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alan%20Ritchson"
+    },
+    {
+     "name": "Owen Wilson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Owen%20Wilson"
+    },
+    {
+     "name": "Rodrigo Santoro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rodrigo%20Santoro"
+    },
+    {
+     "name": "Miles Hubley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Miles%20Hubley"
+    },
+    {
+     "name": "Tommy White",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tommy%20White"
+    },
+    {
+     "name": "Scott Waugh",
+     "category": "Directors",
+     "url": "stremio:///search?search=Scott%20Waugh"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31349844",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31349844.jpg"
+  },
+  {
+   "name": "House of the Dragon",
+   "cast": [
+    "Matt Smith",
+    "Emma D&apos;Arcy",
+    "Olivia Cooke"
+   ],
+   "country": "United States",
+   "description": "Passada 200 anos antes dos acontecimentos de A Guerra dos Tronos, esta série épica conta a história da Casa Targaryen.",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "8.2",
+   "released": "2022-08-21T00:00:00.000Z",
+   "writer": [
+    "Ryan J. Condal",
+    "George R.R. Martin"
+   ],
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt11198330/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11198330/img",
+   "awards": "Won 2 Primetime Emmys. 23 wins & 99 nominations total",
+   "runtime": "60 min",
+   "trailers": [
+    {
+     "source": "DotnJ7tTA34",
+     "type": "Trailer"
+    },
+    {
+     "source": "Wg86eQkdudI",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt11198330",
+   "genres": [
+    "Sci-Fi & Fantasy",
+    "Drama",
+    "Action & Adventure"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "House of the Dragon",
+     "ytId": "DotnJ7tTA34"
+    },
+    {
+     "title": "House of the Dragon",
+     "ytId": "Wg86eQkdudI"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11198330"
+    },
+    {
+     "name": "House of the Dragon",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/house-of-the-dragon-11198330"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Matt Smith",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Smith"
+    },
+    {
+     "name": "Emma D&apos;Arcy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20D%26apos%3BArcy"
+    },
+    {
+     "name": "Olivia Cooke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Olivia%20Cooke"
+    },
+    {
+     "name": "Ryan J. Condal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20J.%20Condal"
+    },
+    {
+     "name": "George R.R. Martin",
+     "category": "Writers",
+     "url": "stremio:///search?search=George%20R.R.%20Martin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11198330.jpg"
   }
  ]
 }

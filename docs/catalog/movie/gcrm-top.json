@@ -239,66 +239,174 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
-   "cast": [
-    "Russell Crowe",
-    "Shailene Woodley",
-    "Jacob Tremblay"
-   ],
+   "name": "The Drama",
    "country": "United States",
-   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
-   "director": [
-    "Janus Metz"
-   ],
+   "description": "Um casal apaixonado vê a sua relação ser posta à prova quando um acontecimento inesperado transforma a semana do casamento num verdadeiro caos.",
    "genre": [
-    "Biography",
-    "Crime",
-    "Drama"
+    "Comedy",
+    "Drama",
+    "Romance"
    ],
-   "imdbRating": "6.2",
-   "name": "Unabomber",
-   "released": "2026-09-25T00:00:00.000Z",
-   "writer": [
-    "Sam Chalsen",
-    "Nelson Greaves"
-   ],
+   "imdbRating": "7.1",
+   "released": "2026-04-03T00:00:00.000Z",
    "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt6933238/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
-   "runtime": "101 min",
+   "cast": [
+    "Zendaya",
+    "Robert Pattinson",
+    "Alana Haim"
+   ],
+   "director": [
+    "Kristoffer Borgli"
+   ],
+   "writer": [
+    "Kristoffer Borgli"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33071426/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33071426/img",
+   "runtime": "105 min",
    "trailers": [
     {
-     "source": "B3tR6qQjbgI",
+     "source": "0ZDzsH3XGFA",
+     "type": "Trailer"
+    },
+    {
+     "source": "6zmKcUa4Xxk",
      "type": "Trailer"
     }
    ],
-   "id": "tt6933238",
+   "awards": "8 nominations total",
+   "id": "tt33071426",
    "genres": [
-    "Thriller",
-    "Drama",
-    "Crime"
+    "Romance",
+    "Comédia",
+    "Drama"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Unabomber",
-     "ytId": "B3tR6qQjbgI"
+     "title": "The Drama",
+     "ytId": "0ZDzsH3XGFA"
+    },
+    {
+     "title": "The Drama",
+     "ytId": "6zmKcUa4Xxk"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "7.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt6933238"
+     "url": "https://imdb.com/title/tt33071426"
     },
     {
-     "name": "Unabomber",
+     "name": "The Drama",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/unabomber-6933238"
+     "url": "https://www.strem.io/s/movie/the-drama-33071426"
     },
     {
-     "name": "Biography",
+     "name": "Comedy",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Zendaya",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zendaya"
+    },
+    {
+     "name": "Robert Pattinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Pattinson"
+    },
+    {
+     "name": "Alana Haim",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alana%20Haim"
+    },
+    {
+     "name": "Kristoffer Borgli",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kristoffer%20Borgli"
+    },
+    {
+     "name": "Kristoffer Borgli",
+     "category": "Directors",
+     "url": "stremio:///search?search=Kristoffer%20Borgli"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33071426",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
+  },
+  {
+   "name": "Peaky Blinders: The Immortal Man",
+   "country": "United Kingdom, France, United States",
+   "description": "Quando o filho, de quem estava afastado, se envolve numa conspiração nazi, o autoexilado gângster Tommy Shelby regressa a Birmingham para salvar a família e a pátria.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "History"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-03-20T00:00:00.000Z",
+   "year": "2026",
+   "cast": [
+    "Cillian Murphy",
+    "Rebecca Ferguson",
+    "Tim Roth"
+   ],
+   "director": [
+    "Tom Harper"
+   ],
+   "writer": [
+    "Steven Knight"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt15574124/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15574124/img",
+   "runtime": "112 min",
+   "trailers": [
+    {
+     "source": "lcvUGs3xaDM",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "1 win & 5 nominations total",
+   "id": "tt15574124",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Peaky Blinders: The Immortal Man",
+     "ytId": "lcvUGs3xaDM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt15574124"
+    },
+    {
+     "name": "Peaky Blinders: The Immortal Man",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/peaky-blinders-the-immortal-man-15574124"
     },
     {
      "name": "Crime",
@@ -311,43 +419,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Russell Crowe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Russell%20Crowe"
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
     },
     {
-     "name": "Shailene Woodley",
+     "name": "Cillian Murphy",
      "category": "Cast",
-     "url": "stremio:///search?search=Shailene%20Woodley"
+     "url": "stremio:///search?search=Cillian%20Murphy"
     },
     {
-     "name": "Jacob Tremblay",
+     "name": "Rebecca Ferguson",
      "category": "Cast",
-     "url": "stremio:///search?search=Jacob%20Tremblay"
+     "url": "stremio:///search?search=Rebecca%20Ferguson"
     },
     {
-     "name": "Sam Chalsen",
+     "name": "Tim Roth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Roth"
+    },
+    {
+     "name": "Steven Knight",
      "category": "Writers",
-     "url": "stremio:///search?search=Sam%20Chalsen"
+     "url": "stremio:///search?search=Steven%20Knight"
     },
     {
-     "name": "Nelson Greaves",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nelson%20Greaves"
-    },
-    {
-     "name": "Janus Metz",
+     "name": "Tom Harper",
      "category": "Directors",
-     "url": "stremio:///search?search=Janus%20Metz"
+     "url": "stremio:///search?search=Tom%20Harper"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt6933238",
+    "defaultVideoId": "tt15574124",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15574124.jpg"
   },
   {
    "name": "Animals",
@@ -469,367 +577,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg"
   },
   {
-   "name": "The Drama",
-   "country": "United States",
-   "description": "Um casal apaixonado vê a sua relação ser posta à prova quando um acontecimento inesperado transforma a semana do casamento num verdadeiro caos.",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.1",
-   "released": "2026-04-03T00:00:00.000Z",
-   "year": "2026",
-   "cast": [
-    "Zendaya",
-    "Robert Pattinson",
-    "Alana Haim"
-   ],
-   "director": [
-    "Kristoffer Borgli"
-   ],
-   "writer": [
-    "Kristoffer Borgli"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33071426/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33071426/img",
-   "runtime": "105 min",
-   "trailers": [
-    {
-     "source": "0ZDzsH3XGFA",
-     "type": "Trailer"
-    },
-    {
-     "source": "6zmKcUa4Xxk",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "8 nominations total",
-   "id": "tt33071426",
-   "genres": [
-    "Romance",
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Drama",
-     "ytId": "0ZDzsH3XGFA"
-    },
-    {
-     "title": "The Drama",
-     "ytId": "6zmKcUa4Xxk"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33071426"
-    },
-    {
-     "name": "The Drama",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-drama-33071426"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Zendaya",
-     "category": "Cast",
-     "url": "stremio:///search?search=Zendaya"
-    },
-    {
-     "name": "Robert Pattinson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Pattinson"
-    },
-    {
-     "name": "Alana Haim",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alana%20Haim"
-    },
-    {
-     "name": "Kristoffer Borgli",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kristoffer%20Borgli"
-    },
-    {
-     "name": "Kristoffer Borgli",
-     "category": "Directors",
-     "url": "stremio:///search?search=Kristoffer%20Borgli"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt33071426",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
-  },
-  {
-   "name": "Balas & Bolinhos",
-   "year": "2001",
-   "runtime": "62 min",
-   "genre": [
-    "Comedy",
-    "Crime"
-   ],
-   "released": "2001-02-23T00:00:00.000Z",
-   "director": [
-    "Luis Ismael"
-   ],
-   "writer": [
-    "Luis Ismael"
-   ],
-   "cast": [
-    "Jorge Neto",
-    "Luis Ismael",
-    "J.D. Duarte"
-   ],
-   "imdbRating": "6.3",
-   "description": "Tone, a mente brilhante do crime, saiu da prisão e voltou cheio de ideias. Depois de reunir os seus antigos companheiros, tudo está preparado para o golpe final. Desta vez é que vai ser... Vai haver dinheiro a jorrar por todos os lados...  E porque o Tone é demais, os seus companheiros seguem à risca o plano, sem mais questões! O resultado... só vendo para crer!",
-   "country": "Portugal",
-   "awards": null,
-   "dvdRelease": null,
-   "trailers": [],
-   "background": "https://images.metahub.space/background/medium/tt0414850/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0414850/img",
-   "id": "tt0414850",
-   "genres": [
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2001",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0414850"
-    },
-    {
-     "name": "Balas & Bolinhos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/balas-bolinhos-0414850"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Jorge Neto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Neto"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "J.D. Duarte",
-     "category": "Cast",
-     "url": "stremio:///search?search=J.D.%20Duarte"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Writers",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Directors",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0414850",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414850.jpg"
-  },
-  {
-   "name": "Peaky Blinders: The Immortal Man",
-   "country": "United Kingdom, France, United States",
-   "description": "Quando o filho, de quem estava afastado, se envolve numa conspiração nazi, o autoexilado gângster Tommy Shelby regressa a Birmingham para salvar a família e a pátria.",
-   "genre": [
-    "Crime",
-    "Drama",
-    "History"
-   ],
-   "imdbRating": "6.5",
-   "released": "2026-03-20T00:00:00.000Z",
-   "year": "2026",
-   "cast": [
-    "Cillian Murphy",
-    "Rebecca Ferguson",
-    "Tim Roth"
-   ],
-   "director": [
-    "Tom Harper"
-   ],
-   "writer": [
-    "Steven Knight"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15574124/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15574124/img",
-   "runtime": "112 min",
-   "trailers": [
-    {
-     "source": "lcvUGs3xaDM",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "1 win & 5 nominations total",
-   "id": "tt15574124",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Peaky Blinders: The Immortal Man",
-     "ytId": "lcvUGs3xaDM"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15574124"
-    },
-    {
-     "name": "Peaky Blinders: The Immortal Man",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/peaky-blinders-the-immortal-man-15574124"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Cillian Murphy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Cillian%20Murphy"
-    },
-    {
-     "name": "Rebecca Ferguson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Ferguson"
-    },
-    {
-     "name": "Tim Roth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Roth"
-    },
-    {
-     "name": "Steven Knight",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Knight"
-    },
-    {
-     "name": "Tom Harper",
-     "category": "Directors",
-     "url": "stremio:///search?search=Tom%20Harper"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt15574124",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15574124.jpg"
-  },
-  {
-   "id": "tt50969289",
-   "behaviorHints": {
-    "defaultVideoId": "tt50969289",
-    "hasScheduledVideos": false
-   },
-   "links": [
-    {
-     "name": "Russell Brand: Open Secret",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/russell-brand-open-secret-50969289"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Olivia Isaacs",
-     "category": "Directors",
-     "url": "stremio:///search?search=Olivia%20Isaacs"
-    }
-   ],
-   "name": "Russell Brand: Open Secret",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "description": "Este documentário acompanha a investigação sobre os supostos crimes sexuais cometidos pelo comediante Russell Brand e as jornalistas determinadas que trouxeram a história à tona.",
-   "genre": [
-    "Documentary"
-   ],
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "cast": [
-    "Russell Brand",
-    "George Monbiot",
-    "Nish Kumar",
-    "Amanda Alguero Alejos",
-    "Mark Pinheiro",
-    "Harriet Kemsley",
-    "Rosamund Urwin",
-    "Charlotte Wace"
-   ],
-   "director": [
-    "Olivia Isaacs"
-   ],
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50969289.jpg",
-   "imdbRating": "6.3"
-  },
-  {
    "cast": [
     "Jorge Neto",
     "Luis Ismael",
@@ -925,64 +672,66 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414851.jpg"
   },
   {
-   "awards": "15 wins & 20 nominations total",
    "cast": [
-    "Ben Whishaw",
-    "Dustin Hoffman",
-    "Alan Rickman"
+    "Russell Crowe",
+    "Shailene Woodley",
+    "Jacob Tremblay"
    ],
-   "country": "Germany, France, Spain, Belgium, United States",
-   "description": "Jean-Baptiste Grenouille nasceu com o olfacto mais apurado do mundo e encontrou a carreira certa para o usar ao tornar-se perfumista. Mas o que poderia ter sido uma história de sucesso toma contornos macabros quando a sua busca incessante para captar o aroma mais perfeito e fugaz o leva a cometer as maiores atrocidades.",
+   "country": "United States",
+   "description": "Neste drama inspirado em eventos reais, Ted Kaczynski passa de prodígio de Harvard e cobaia de uma experiência psicológica a Unabomber enquanto o FBI o persegue.",
    "director": [
-    "Tom Tykwer"
+    "Janus Metz"
    ],
-   "dvdRelease": "2016-03-22T00:00:00.000Z",
    "genre": [
+    "Biography",
     "Crime",
-    "Drama",
-    "Fantasy"
+    "Drama"
    ],
-   "imdbRating": "7.5",
-   "name": "Perfume: The Story of a Murderer",
-   "released": "2007-01-05T00:00:00.000Z",
-   "runtime": "147 min",
+   "imdbRating": "6.2",
+   "name": "Unabomber",
+   "released": "2026-09-25T00:00:00.000Z",
+   "writer": [
+    "Sam Chalsen",
+    "Nelson Greaves"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt6933238/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6933238/img",
+   "runtime": "101 min",
    "trailers": [
     {
-     "source": "zutiIw_2e2g",
+     "source": "B3tR6qQjbgI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Andrew Birkin",
-    "Bernd Eichinger",
-    "Tom Tykwer"
-   ],
-   "year": "2006",
-   "background": "https://images.metahub.space/background/medium/tt0396171/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0396171/img",
-   "id": "tt0396171",
+   "id": "tt6933238",
    "genres": [
-    "Crime",
-    "Fantasia",
-    "Drama"
+    "Thriller",
+    "Drama",
+    "Crime"
    ],
-   "releaseInfo": "2006",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Perfume: The Story of a Murderer",
-     "ytId": "zutiIw_2e2g"
+     "title": "Unabomber",
+     "ytId": "B3tR6qQjbgI"
     }
    ],
    "links": [
     {
-     "name": "7.5",
+     "name": "6.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0396171"
+     "url": "https://imdb.com/title/tt6933238"
     },
     {
-     "name": "Perfume: The Story of a Murderer",
+     "name": "Unabomber",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/perfume-the-story-of-a-murderer-0396171"
+     "url": "https://www.strem.io/s/movie/unabomber-6933238"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
     },
     {
      "name": "Crime",
@@ -995,53 +744,380 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Ben Whishaw",
+     "name": "Russell Crowe",
      "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Whishaw"
+     "url": "stremio:///search?search=Russell%20Crowe"
     },
     {
-     "name": "Dustin Hoffman",
+     "name": "Shailene Woodley",
      "category": "Cast",
-     "url": "stremio:///search?search=Dustin%20Hoffman"
+     "url": "stremio:///search?search=Shailene%20Woodley"
     },
     {
-     "name": "Alan Rickman",
+     "name": "Jacob Tremblay",
      "category": "Cast",
-     "url": "stremio:///search?search=Alan%20Rickman"
+     "url": "stremio:///search?search=Jacob%20Tremblay"
     },
     {
-     "name": "Andrew Birkin",
+     "name": "Sam Chalsen",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Birkin"
+     "url": "stremio:///search?search=Sam%20Chalsen"
     },
     {
-     "name": "Bernd Eichinger",
+     "name": "Nelson Greaves",
      "category": "Writers",
-     "url": "stremio:///search?search=Bernd%20Eichinger"
+     "url": "stremio:///search?search=Nelson%20Greaves"
     },
     {
-     "name": "Tom Tykwer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Tykwer"
-    },
-    {
-     "name": "Tom Tykwer",
+     "name": "Janus Metz",
      "category": "Directors",
-     "url": "stremio:///search?search=Tom%20Tykwer"
+     "url": "stremio:///search?search=Janus%20Metz"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0396171",
+    "defaultVideoId": "tt6933238",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0396171.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6933238.jpg"
+  },
+  {
+   "name": "Never Surrender",
+   "cast": [
+    "Lukman Sardi",
+    "Derby Romero",
+    "Donny Alamsyah"
+   ],
+   "country": "Indonesia",
+   "description": "Um grupo de criminosos invade a casa isolada de um veterano atormentado pela culpa. Agora, este ex-soldado e os netos que mal conhece terão de unir forças para sobreviver.",
+   "director": [
+    "Sidharta Tata"
+   ],
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "6.0",
+   "released": null,
+   "year": "2026",
+   "runtime": "137 min",
+   "trailers": [
+    {
+     "source": "o0d1IA85D9o",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt39370926/img",
+   "background": "https://images.metahub.space/background/medium/tt39370926/img",
+   "id": "tt39370926",
+   "genres": [
+    "Ação",
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Never Surrender",
+     "ytId": "o0d1IA85D9o"
+    }
+   ],
+   "links": [
+    {
+     "name": "Never Surrender",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/never-surrender-39370926"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Lukman Sardi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lukman%20Sardi"
+    },
+    {
+     "name": "Derby Romero",
+     "category": "Cast",
+     "url": "stremio:///search?search=Derby%20Romero"
+    },
+    {
+     "name": "Donny Alamsyah",
+     "category": "Cast",
+     "url": "stremio:///search?search=Donny%20Alamsyah"
+    },
+    {
+     "name": "Sidharta Tata",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sidharta%20Tata"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt39370926",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg"
+  },
+  {
+   "name": "Sicario",
+   "year": "2015",
+   "runtime": "122 min",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "released": "2015-10-02T00:00:00.000Z",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "cast": [
+    "Emily Blunt",
+    "Josh Brolin",
+    "Benicio Del Toro"
+   ],
+   "imdbRating": "7.7",
+   "description": "Com a ajuda das autoridades locais, um agente do FBI atravessa a fronteira do México com uma equipa de agentes policiais, com a missão de localizar e capturar o cabecilha de um gangue de um cartel de droga mexicano, conhecido como um dos maiores traficantes de droga mexicanos.",
+   "country": "United States, Mexico, Hong Kong",
+   "awards": "Nominated for 3 Oscars. 15 wins & 159 nominations total",
+   "dvdRelease": "2015-12-22T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "Yfhu5JIxnZc",
+     "type": "Trailer"
+    },
+    {
+     "source": "5PwwJ-18Y9g",
+     "type": "Trailer"
+    },
+    {
+     "source": "7XLQ1bkSLDo",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt3397884/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3397884/img",
+   "id": "tt3397884",
+   "genres": [
+    "Ação",
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Sicario",
+     "ytId": "Yfhu5JIxnZc"
+    },
+    {
+     "title": "Sicario",
+     "ytId": "5PwwJ-18Y9g"
+    },
+    {
+     "title": "Sicario",
+     "ytId": "7XLQ1bkSLDo"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3397884"
+    },
+    {
+     "name": "Sicario",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/sicario-3397884"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Emily Blunt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emily%20Blunt"
+    },
+    {
+     "name": "Josh Brolin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Josh%20Brolin"
+    },
+    {
+     "name": "Benicio Del Toro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benicio%20Del%20Toro"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    },
+    {
+     "name": "Denis Villeneuve",
+     "category": "Directors",
+     "url": "stremio:///search?search=Denis%20Villeneuve"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3397884",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3397884.jpg"
+  },
+  {
+   "awards": "Nominated for 2 BAFTA Awards. 3 nominations total",
+   "cast": [
+    "Walter Matthau",
+    "Robert Shaw",
+    "Martin Balsam"
+   ],
+   "country": "United States",
+   "description": "Em um dia aparentemente comum, o policial Zach Garber, responsável pela segurança no metrô de Nova York, é surpreendido pelo sequestro de um vagão do metrô Pelham 123 por um bando misterioso. Os quatro criminosos, liderados por Blue e fortemente armados, exigem US$ 1 milhão para libertar os dezessete reféns com vida. Comandando a negociação, Garber tem uma hora para encontrar uma solução para o impasse.",
+   "director": [
+    "Joseph Sargent"
+   ],
+   "dvdRelease": "2010-11-06T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Crime",
+    "Thriller"
+   ],
+   "imdbRating": "7.6",
+   "name": "The Taking of Pelham One Two Three",
+   "released": "1974-10-02T00:00:00.000Z",
+   "runtime": "105 min",
+   "trailers": [
+    {
+     "source": "_WnD63TiceA",
+     "type": "Trailer"
+    },
+    {
+     "source": "lFl_XI3H1Z0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "John Godey",
+    "Peter Stone"
+   ],
+   "year": "1974",
+   "background": "https://images.metahub.space/background/medium/tt0072251/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0072251/img",
+   "id": "tt0072251",
+   "genres": [
+    "Crime",
+    "Thriller",
+    "Ação"
+   ],
+   "releaseInfo": "1974",
+   "trailerStreams": [
+    {
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "_WnD63TiceA"
+    },
+    {
+     "title": "The Taking of Pelham One Two Three",
+     "ytId": "lFl_XI3H1Z0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0072251"
+    },
+    {
+     "name": "The Taking of Pelham One Two Three",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-taking-of-pelham-one-two-three-0072251"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Walter Matthau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Walter%20Matthau"
+    },
+    {
+     "name": "Robert Shaw",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Shaw"
+    },
+    {
+     "name": "Martin Balsam",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Balsam"
+    },
+    {
+     "name": "John Godey",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Godey"
+    },
+    {
+     "name": "Peter Stone",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Stone"
+    },
+    {
+     "name": "Joseph Sargent",
+     "category": "Directors",
+     "url": "stremio:///search?search=Joseph%20Sargent"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0072251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072251.jpg"
   }
  ]
 }
