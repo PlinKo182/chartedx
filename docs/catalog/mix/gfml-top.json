@@ -1224,78 +1224,143 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28650488.jpg"
   },
   {
-   "name": "The Gospel of Christmas",
+   "awards": "2 wins & 9 nominations total",
    "cast": [
-    "Fantasia Barrino",
-    "Durrell 'Tank' Babbs",
-    "Shirley Caesar"
+    "Will Ferrell",
+    "James Caan",
+    "Bob Newhart"
    ],
    "country": "United States",
-   "description": "Um pastor em dificuldades financeiras muda-se com a família para um bairro problemático de Nova Iorque, onde têm de salvar uma igreja abandonada da execução hipotecária antes do Natal.",
+   "description": "Há 30 anos um bebê acabou indo parar num vilarejo de duendes no Pólo Norte. Sob os cuidados de um pai adotivo, o garoto foi criado com os outros habitantes locais, tornando-se um deles. Hoje Buddy é um adulto e descobriu que é humano. Ele decide, então, se a",
    "director": [
-    "Tyler Perry"
+    "Jon Favreau"
    ],
-   "imdbRating": "5.3",
-   "released": null,
-   "year": "2026",
-   "runtime": "103 min",
+   "dvdRelease": "2015-12-11T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "imdbRating": "7.1",
+   "name": "Elf",
+   "released": "2003-11-07T00:00:00.000Z",
+   "runtime": "97 min",
    "trailers": [
     {
-     "source": "lXh2rNl2wdQ",
+     "source": "14o38xfHlXc",
+     "type": "Trailer"
+    },
+    {
+     "source": "BMlmu18gIDM",
+     "type": "Trailer"
+    },
+    {
+     "source": "W4NIrWgRfrA",
+     "type": "Trailer"
+    },
+    {
+     "source": "LMPyILBePfI",
+     "type": "Trailer"
+    },
+    {
+     "source": "GA8EcNisRvA",
      "type": "Trailer"
     }
    ],
-   "genre": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt38420997/img",
-   "background": "https://images.metahub.space/background/medium/tt38420997/img",
-   "id": "tt38420997",
-   "genres": [
-    "Música",
-    "Família",
-    "Drama"
+   "writer": [
+    "David Berenbaum"
    ],
-   "releaseInfo": "2026",
+   "year": "2003",
+   "background": "https://images.metahub.space/background/medium/tt0319343/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0319343/img",
+   "id": "tt0319343",
+   "genres": [
+    "Comédia",
+    "Família",
+    "Fantasia"
+   ],
+   "releaseInfo": "2003",
    "trailerStreams": [
     {
-     "title": "The Gospel of Christmas",
-     "ytId": "lXh2rNl2wdQ"
+     "title": "Elf",
+     "ytId": "14o38xfHlXc"
+    },
+    {
+     "title": "Elf",
+     "ytId": "BMlmu18gIDM"
+    },
+    {
+     "title": "Elf",
+     "ytId": "W4NIrWgRfrA"
+    },
+    {
+     "title": "Elf",
+     "ytId": "LMPyILBePfI"
+    },
+    {
+     "title": "Elf",
+     "ytId": "GA8EcNisRvA"
     }
    ],
    "links": [
     {
-     "name": "The Gospel of Christmas",
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0319343"
+    },
+    {
+     "name": "Elf",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-gospel-of-christmas-38420997"
+     "url": "https://www.strem.io/s/movie/elf-0319343"
     },
     {
-     "name": "Fantasia Barrino",
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Will Ferrell",
      "category": "Cast",
-     "url": "stremio:///search?search=Fantasia%20Barrino"
+     "url": "stremio:///search?search=Will%20Ferrell"
     },
     {
-     "name": "Durrell 'Tank' Babbs",
+     "name": "James Caan",
      "category": "Cast",
-     "url": "stremio:///search?search=Durrell%20'Tank'%20Babbs"
+     "url": "stremio:///search?search=James%20Caan"
     },
     {
-     "name": "Shirley Caesar",
+     "name": "Bob Newhart",
      "category": "Cast",
-     "url": "stremio:///search?search=Shirley%20Caesar"
+     "url": "stremio:///search?search=Bob%20Newhart"
     },
     {
-     "name": "Tyler Perry",
+     "name": "David Berenbaum",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Berenbaum"
+    },
+    {
+     "name": "Jon Favreau",
      "category": "Directors",
-     "url": "stremio:///search?search=Tyler%20Perry"
+     "url": "stremio:///search?search=Jon%20Favreau"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt38420997",
+    "defaultVideoId": "tt0319343",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38420997.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0319343.jpg"
   }
  ]
 }

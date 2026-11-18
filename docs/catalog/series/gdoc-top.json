@@ -505,34 +505,89 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg"
   },
   {
-   "id": "tt49250618",
-   "logo": "https://live.metahub.space/logo/medium/tt49250618/img",
-   "background": "https://live.metahub.space/background/medium/tt49250618/img",
-   "name": "The Fall of El Mayo",
-   "description": "Co-fundador do Cartel de Sinaloa, parceiro de longa data de \"El Chapo\", e um fantasma para as autoridades por mais de três décadas. O documentário que conta a história da sua queda.",
-   "genres": [
-    "Documentário"
+   "name": "The Movies That Made Us",
+   "country": "United States",
+   "genre": [
+    "Documentary"
    ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
+   "imdbRating": "7.7",
+   "released": "2019-11-29T00:00:00.000Z",
+   "writer": [
+    "Brian Volk-Weiss"
+   ],
+   "year": "2019–2021",
+   "status": "Ended",
+   "cast": [
+    "Danny Wallace",
+    "Donald Ian Black",
+    "Jennifer Julian"
+   ],
+   "director": [],
+   "description": "Estes sucessos de bilheteira aproximaram e marcaram gerações. Conheça os atores, realizadores e as outras figuras da indústria que lhes deram vida.",
+   "runtime": "47 min",
+   "background": "https://images.metahub.space/background/medium/tt10681222/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10681222/img",
    "trailers": [
     {
-     "source": "e5ExUsk6-OE",
+     "source": "KmxU31re22k",
      "type": "Trailer"
     }
    ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [],
-   "director": [],
+   "id": "tt10681222",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Movies That Made Us",
+     "ytId": "KmxU31re22k"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10681222"
+    },
+    {
+     "name": "The Movies That Made Us",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-movies-that-made-us-10681222"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Danny Wallace",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Wallace"
+    },
+    {
+     "name": "Donald Ian Black",
+     "category": "Cast",
+     "url": "stremio:///search?search=Donald%20Ian%20Black"
+    },
+    {
+     "name": "Jennifer Julian",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Julian"
+    },
+    {
+     "name": "Brian Volk-Weiss",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brian%20Volk-Weiss"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
-   "imdbRating": "6.9"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10681222.jpg"
   }
  ]
 }
