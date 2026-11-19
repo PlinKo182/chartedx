@@ -220,58 +220,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1800308.jpg"
   },
   {
-   "id": "tt48500521",
-   "behaviorHints": {
-    "defaultVideoId": "tt48500521",
-    "hasScheduledVideos": false
-   },
-   "links": [
-    {
-     "name": "Desprotexida: El crimen de Pazos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    },
-    {
-     "name": "Jorge Laplace",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jorge%20Laplace"
-    }
-   ],
-   "name": "Desprotexida: El crimen de Pazos",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "genre": [
-    "Documentary"
-   ],
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "writer": [
-    "Jorge Laplace"
-   ],
-   "director": [
-    "Jorge Laplace"
-   ],
-   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
-   "language": "Spanish",
-   "country": "Spain",
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
-   "imdbRating": "6.1"
-  },
-  {
    "id": "tt39368552",
    "logo": "https://live.metahub.space/logo/medium/tt39368552/img",
    "background": "https://live.metahub.space/background/medium/tt39368552/img",
@@ -827,6 +775,51 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38040871.jpg",
    "imdbRating": "9.2"
+  },
+  {
+   "id": "tt39369392",
+   "logo": "https://live.metahub.space/logo/medium/tt39369392/img",
+   "background": "https://live.metahub.space/background/medium/tt39369392/img",
+   "name": "Heart of the Sea 2",
+   "description": "Em 2015, Damien Rider remou sozinho e sem apoio de Coolangatta até Bondi. Dez anos depois, refaz essa travessia numa jornada de 12 dias e reflete sobre os quatro princípios que o guiaram — força, confiança, gratidão e amor — e sobre os desafios que puseram cada um deles à prova.",
+   "genres": [
+    "Documentário"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "78 min",
+   "trailers": [],
+   "cast": [
+    "Damien Rider"
+   ],
+   "credits_cast": [
+    {
+     "character": "Self",
+     "name": "Damien Rider",
+     "profile_path": "/5ntz2PuKhN17v0TSENXBKLFCw6c.jpg",
+     "id": 2762569
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Damien Rider",
+     "profile_path": "/5ntz2PuKhN17v0TSENXBKLFCw6c.jpg",
+     "id": 2762569
+    }
+   ],
+   "director": [
+    "Damien Rider"
+   ],
+   "language": "English",
+   "country": "Australia",
+   "behaviorHints": {
+    "defaultVideoId": "tt39369392",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39369392.jpg"
   }
  ]
 }
