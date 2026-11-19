@@ -100,92 +100,116 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7909204.jpg"
   },
   {
-   "id": "tt46065222",
-   "logo": "https://live.metahub.space/logo/medium/tt46065222/img",
-   "background": "https://live.metahub.space/background/medium/tt46065222/img",
-   "name": "Stellar Web",
-   "description": "",
+   "name": "Colony",
+   "cast": [
+    "Jun Ji-hyun",
+    "Koo Kyo-hwan",
+    "Ji Chang-wook"
+   ],
+   "country": "South Korea",
+   "description": "O professor Se Jeong participa numa conferência sobre biotecnologia, mas acaba por testemunhar como esta se transforma numa catástrofe quando um vírus em rápida mutação é libertado. À medida que o surto se alarga e os infetados começam a transformar-se, as autoridades isolam todas as instalações.",
+   "director": [
+    "Yeon Sang-ho"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Crime"
+   ],
+   "imdbRating": "6.5",
+   "released": "2026-05-21T00:00:00.000Z",
+   "writer": [
+    "Choi Kyu-seok",
+    "Yeon Sang-ho"
+   ],
+   "year": "2026",
+   "runtime": "123 min",
+   "trailers": [
+    {
+     "source": "LW6dpj1uCK8",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt34385135/img",
+   "logo": "https://images.metahub.space/logo/medium/tt34385135/img",
+   "awards": "1 win & 1 nomination total",
+   "id": "tt34385135",
    "genres": [
     "Terror",
+    "Ação",
     "Ficção científica"
    ],
    "releaseInfo": "2026",
-   "trailers": [],
-   "cast": [
-    "Christopher Henry",
-    "Claude Xavier",
-    "Melissa Dawn Smith"
-   ],
-   "credits_cast": [
+   "trailerStreams": [
     {
-     "character": "Mason",
-     "name": "Christopher Henry",
-     "profile_path": null,
-     "id": 4505015
-    },
-    {
-     "character": "Taner",
-     "name": "Claude Xavier",
-     "profile_path": null,
-     "id": 6427561
-    },
-    {
-     "character": "Carri",
-     "name": "Melissa Dawn Smith",
-     "profile_path": null,
-     "id": 1358930
-    },
-    {
-     "character": "CINI",
-     "name": "Nikki Young",
-     "profile_path": null,
-     "id": 3079291
-    },
-    {
-     "character": "Sergio",
-     "name": "Sérgio Cantú",
-     "profile_path": null,
-     "id": 2171834
-    },
-    {
-     "character": "Cole",
-     "name": "Cliff Dean",
-     "profile_path": null,
-     "id": 4590346
-    },
-    {
-     "character": "Raven",
-     "name": "Lisa Butala",
-     "profile_path": null,
-     "id": 4505020
-    },
-    {
-     "character": "Jake",
-     "name": "Jake Jecmenek",
-     "profile_path": "/3jYrSlfpp84hoaOczd6bstfDOtZ.jpg",
-     "id": 3712092
+     "title": "Colony",
+     "ytId": "LW6dpj1uCK8"
     }
    ],
-   "credits_crew": [
+   "links": [
     {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Brett William Mauser",
-     "profile_path": "/cILC8VqPcJ8fEzC6YOPOSXp403G.jpg",
-     "id": 1465605
+     "name": "6.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt34385135"
+    },
+    {
+     "name": "Colony",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/colony-34385135"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Jun Ji-hyun",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jun%20Ji-hyun"
+    },
+    {
+     "name": "Koo Kyo-hwan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Koo%20Kyo-hwan"
+    },
+    {
+     "name": "Ji Chang-wook",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ji%20Chang-wook"
+    },
+    {
+     "name": "Choi Kyu-seok",
+     "category": "Writers",
+     "url": "stremio:///search?search=Choi%20Kyu-seok"
+    },
+    {
+     "name": "Yeon Sang-ho",
+     "category": "Writers",
+     "url": "stremio:///search?search=Yeon%20Sang-ho"
+    },
+    {
+     "name": "Yeon Sang-ho",
+     "category": "Directors",
+     "url": "stremio:///search?search=Yeon%20Sang-ho"
     }
-   ],
-   "director": [
-    "Brett William Mauser"
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt46065222",
+    "defaultVideoId": "tt34385135",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46065222.jpg",
-   "imdbRating": "4.9"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34385135.jpg"
   },
   {
    "name": "Obsession",
@@ -287,230 +311,92 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
-   "name": "The Substance",
-   "awards": "Won 1 Oscar. 149 wins & 290 nominations total",
-   "cast": [
-    "Demi Moore",
-    "Margaret Qualley",
-    "Dennis Quaid"
-   ],
-   "country": "United Kingdom, France",
-   "description": "Em \"A SUBSTÂNCIA\", uma celebridade em decadência decide usar uma droga clandestina, uma substância que replica células e cria temporariamente uma versão mais jovem e melhor de si mesma.",
-   "director": [
-    "Coralie Fargeat"
-   ],
-   "genre": [
-    "Drama",
-    "Horror",
-    "Sci-Fi"
-   ],
-   "imdbRating": "7.2",
-   "released": "2024-09-20T00:00:00.000Z",
-   "writer": [
-    "Coralie Fargeat"
-   ],
-   "year": "2024",
-   "runtime": "141 min",
-   "trailers": [
-    {
-     "source": "lR5nlovVgvQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "LNlrGhBpYjc",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt17526714/img",
-   "logo": "https://images.metahub.space/logo/medium/tt17526714/img",
-   "id": "tt17526714",
+   "id": "tt46065222",
+   "logo": "https://live.metahub.space/logo/medium/tt46065222/img",
+   "background": "https://live.metahub.space/background/medium/tt46065222/img",
+   "name": "Stellar Web",
+   "description": "",
    "genres": [
     "Terror",
     "Ficção científica"
    ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "The Substance",
-     "ytId": "lR5nlovVgvQ"
-    },
-    {
-     "title": "The Substance",
-     "ytId": "LNlrGhBpYjc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt17526714"
-    },
-    {
-     "name": "The Substance",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-substance-17526714"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Demi Moore",
-     "category": "Cast",
-     "url": "stremio:///search?search=Demi%20Moore"
-    },
-    {
-     "name": "Margaret Qualley",
-     "category": "Cast",
-     "url": "stremio:///search?search=Margaret%20Qualley"
-    },
-    {
-     "name": "Dennis Quaid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dennis%20Quaid"
-    },
-    {
-     "name": "Coralie Fargeat",
-     "category": "Writers",
-     "url": "stremio:///search?search=Coralie%20Fargeat"
-    },
-    {
-     "name": "Coralie Fargeat",
-     "category": "Directors",
-     "url": "stremio:///search?search=Coralie%20Fargeat"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt17526714",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17526714.jpg"
-  },
-  {
-   "name": "Speak No Evil",
+   "releaseInfo": "2026",
+   "trailers": [],
    "cast": [
-    "Morten Burian",
-    "Sidsel Siem Koch",
-    "Fedja van Huêt"
+    "Christopher Henry",
+    "Claude Xavier",
+    "Melissa Dawn Smith"
    ],
-   "country": "Denmark, Netherlands",
-   "description": "Uma família dinamarquesa visita uma família holandesa que conheceu durante umas férias. O que deveria ser um fim de semana idílico começa lentamente a desmoronar-se à medida que os dinamarqueses tentam manter a cortesia perante situações desagradáveis.",
+   "credits_cast": [
+    {
+     "character": "Mason",
+     "name": "Christopher Henry",
+     "profile_path": null,
+     "id": 4505015
+    },
+    {
+     "character": "Taner",
+     "name": "Claude Xavier",
+     "profile_path": null,
+     "id": 6427561
+    },
+    {
+     "character": "Carri",
+     "name": "Melissa Dawn Smith",
+     "profile_path": null,
+     "id": 1358930
+    },
+    {
+     "character": "CINI",
+     "name": "Nikki Young",
+     "profile_path": null,
+     "id": 3079291
+    },
+    {
+     "character": "Sergio",
+     "name": "Sérgio Cantú",
+     "profile_path": null,
+     "id": 2171834
+    },
+    {
+     "character": "Cole",
+     "name": "Cliff Dean",
+     "profile_path": null,
+     "id": 4590346
+    },
+    {
+     "character": "Raven",
+     "name": "Lisa Butala",
+     "profile_path": null,
+     "id": 4505020
+    },
+    {
+     "character": "Jake",
+     "name": "Jake Jecmenek",
+     "profile_path": "/3jYrSlfpp84hoaOczd6bstfDOtZ.jpg",
+     "id": 3712092
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Brett William Mauser",
+     "profile_path": "/cILC8VqPcJ8fEzC6YOPOSXp403G.jpg",
+     "id": 1465605
+    }
+   ],
    "director": [
-    "Christian Tafdrup"
-   ],
-   "genre": [
-    "Drama",
-    "Horror",
-    "Mystery"
-   ],
-   "imdbRating": "6.7",
-   "released": "2022-03-17T00:00:00.000Z",
-   "runtime": "98 min",
-   "writer": [
-    "Christian Tafdrup",
-    "Mads Tafdrup"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "UhWiiDhmBCM",
-     "type": "Trailer"
-    }
-   ],
-   "awards": "9 wins & 25 nominations total",
-   "dvdRelease": "2022-09-15T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt14253846/img",
-   "logo": "https://images.metahub.space/logo/medium/tt14253846/img",
-   "id": "tt14253846",
-   "genres": [
-    "Terror",
-    "Thriller",
-    "Drama"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Speak No Evil",
-     "ytId": "UhWiiDhmBCM"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt14253846"
-    },
-    {
-     "name": "Speak No Evil",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/speak-no-evil-14253846"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Morten Burian",
-     "category": "Cast",
-     "url": "stremio:///search?search=Morten%20Burian"
-    },
-    {
-     "name": "Sidsel Siem Koch",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sidsel%20Siem%20Koch"
-    },
-    {
-     "name": "Fedja van Huêt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Fedja%20van%20Hu%C3%AAt"
-    },
-    {
-     "name": "Christian Tafdrup",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christian%20Tafdrup"
-    },
-    {
-     "name": "Mads Tafdrup",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mads%20Tafdrup"
-    },
-    {
-     "name": "Christian Tafdrup",
-     "category": "Directors",
-     "url": "stremio:///search?search=Christian%20Tafdrup"
-    }
+    "Brett William Mauser"
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt14253846",
+    "defaultVideoId": "tt46065222",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14253846.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46065222.jpg",
+   "imdbRating": "4.8"
   },
   {
    "name": "Backrooms",
@@ -625,185 +511,104 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26657236.jpg"
   },
   {
-   "name": "Night Patrol",
+   "awards": "8 wins & 7 nominations total",
    "cast": [
-    "Jermaine Fowler",
-    "Justin Long",
-    "Freddie Gibbs"
-   ],
-   "country": "United States, United Kingdom",
-   "description": "Um patrulheiro do departamento de polícia de Los Angeles (LAPD) é obrigado a deixar de lado seus conflitos com as gangues locais ao descobrir que uma força-tarefa policial da região, da qual seu antigo parceiro faz parte, guarda um segredo terrível capaz de colocar em perigo a comunidade do bairro onde ele cresceu.",
-   "director": [
-    "Ryan Prows"
-   ],
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "4.3",
-   "released": "2026-01-16T00:00:00.000Z",
-   "writer": [
-    "Shaye Ogbonna",
-    "Ryan Prows",
-    "Tim Cairo"
-   ],
-   "year": "2026",
-   "runtime": "104 min",
-   "trailers": [
-    {
-     "source": "8J_pMGZScB8",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt8637438/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8637438/img",
-   "id": "tt8637438",
-   "genres": [
-    "Terror",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Night Patrol",
-     "ytId": "8J_pMGZScB8"
-    }
-   ],
-   "links": [
-    {
-     "name": "4.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8637438"
-    },
-    {
-     "name": "Night Patrol",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/night-patrol-8637438"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Jermaine Fowler",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jermaine%20Fowler"
-    },
-    {
-     "name": "Justin Long",
-     "category": "Cast",
-     "url": "stremio:///search?search=Justin%20Long"
-    },
-    {
-     "name": "Freddie Gibbs",
-     "category": "Cast",
-     "url": "stremio:///search?search=Freddie%20Gibbs"
-    },
-    {
-     "name": "Shaye Ogbonna",
-     "category": "Writers",
-     "url": "stremio:///search?search=Shaye%20Ogbonna"
-    },
-    {
-     "name": "Ryan Prows",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ryan%20Prows"
-    },
-    {
-     "name": "Tim Cairo",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tim%20Cairo"
-    },
-    {
-     "name": "Ryan Prows",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ryan%20Prows"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt8637438",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8637438.jpg"
-  },
-  {
-   "awards": "7 wins total",
-   "cast": [
-    "Duane Jones",
-    "Judith O&apos;Dea",
-    "Karl Hardman"
+    "Zach Galligan",
+    "Phoebe Cates",
+    "Hoyt Axton"
    ],
    "country": "United States",
-   "description": "Um grupo heterogéneo de habitantes da Pensilvânia barrica-se numa velha casa de campo para se proteger de uma horda de mortos-vivos que está a assolar o Nordeste dos Estados Unidos.",
+   "description": "«Nunca o molhes. Mantém-no afastado da luz forte. E o mais importante: por muito que ele peça, nunca - mas nunca - lhe dês de comer depois da meia noite.» Estas são as instruções misteriosas com que veio o novo animal de estimação de Billy Peltzer.",
    "director": [
-    "George A. Romero"
+    "Joe Dante"
    ],
-   "dvdRelease": "2012-09-01T00:00:00.000Z",
+   "dvdRelease": "2014-06-02T00:00:00.000Z",
    "genre": [
-    "Horror",
-    "Thriller"
+    "Comedy",
+    "Fantasy",
+    "Horror"
    ],
-   "imdbRating": "7.8",
-   "name": "Night of the Living Dead",
-   "released": "1968-10-04T00:00:00.000Z",
-   "runtime": "96 min",
+   "imdbRating": "7.3",
+   "name": "Gremlins",
+   "released": "1984-06-08T00:00:00.000Z",
+   "runtime": "106 min",
    "trailers": [
     {
-     "source": "DIuI6T48Sj0",
+     "source": "FlGZym-IpZQ",
      "type": "Trailer"
     },
     {
-     "source": "V5XwrRFP7Zw",
+     "source": "PXXZx6skXrw",
+     "type": "Trailer"
+    },
+    {
+     "source": "GEu13j7hOvQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "26TJGkNzceA",
+     "type": "Trailer"
+    },
+    {
+     "source": "WeNVftiefOE",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "John A. Russo",
-    "George A. Romero"
+    "Chris Columbus"
    ],
-   "year": "1968",
-   "background": "https://images.metahub.space/background/medium/tt0063350/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0063350/img",
-   "id": "tt0063350",
+   "year": "1984",
+   "background": "https://images.metahub.space/background/medium/tt0087363/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0087363/img",
+   "id": "tt0087363",
    "genres": [
+    "Fantasia",
     "Terror",
-    "Ficção científica"
+    "Comédia"
    ],
-   "releaseInfo": "1968",
+   "releaseInfo": "1984",
    "trailerStreams": [
     {
-     "title": "Night of the Living Dead",
-     "ytId": "DIuI6T48Sj0"
+     "title": "Gremlins",
+     "ytId": "FlGZym-IpZQ"
     },
     {
-     "title": "Night of the Living Dead",
-     "ytId": "V5XwrRFP7Zw"
+     "title": "Gremlins",
+     "ytId": "PXXZx6skXrw"
+    },
+    {
+     "title": "Gremlins",
+     "ytId": "GEu13j7hOvQ"
+    },
+    {
+     "title": "Gremlins",
+     "ytId": "26TJGkNzceA"
+    },
+    {
+     "title": "Gremlins",
+     "ytId": "WeNVftiefOE"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "7.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0063350"
+     "url": "https://imdb.com/title/tt0087363"
     },
     {
-     "name": "Night of the Living Dead",
+     "name": "Gremlins",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/night-of-the-living-dead-0063350"
+     "url": "https://www.strem.io/s/movie/gremlins-0087363"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
      "name": "Horror",
@@ -811,240 +616,112 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Duane Jones",
+     "name": "Zach Galligan",
      "category": "Cast",
-     "url": "stremio:///search?search=Duane%20Jones"
+     "url": "stremio:///search?search=Zach%20Galligan"
     },
     {
-     "name": "Judith O&apos;Dea",
+     "name": "Phoebe Cates",
      "category": "Cast",
-     "url": "stremio:///search?search=Judith%20O%26apos%3BDea"
+     "url": "stremio:///search?search=Phoebe%20Cates"
     },
     {
-     "name": "Karl Hardman",
+     "name": "Hoyt Axton",
      "category": "Cast",
-     "url": "stremio:///search?search=Karl%20Hardman"
+     "url": "stremio:///search?search=Hoyt%20Axton"
     },
     {
-     "name": "John A. Russo",
+     "name": "Chris Columbus",
      "category": "Writers",
-     "url": "stremio:///search?search=John%20A.%20Russo"
+     "url": "stremio:///search?search=Chris%20Columbus"
     },
     {
-     "name": "George A. Romero",
-     "category": "Writers",
-     "url": "stremio:///search?search=George%20A.%20Romero"
-    },
-    {
-     "name": "George A. Romero",
+     "name": "Joe Dante",
      "category": "Directors",
-     "url": "stremio:///search?search=George%20A.%20Romero"
+     "url": "stremio:///search?search=Joe%20Dante"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0063350",
+    "defaultVideoId": "tt0087363",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0063350.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0087363.jpg"
   },
   {
-   "name": "Smile",
+   "name": "Speak No Evil",
    "cast": [
-    "Sosie Bacon",
-    "Jessie T. Usher",
-    "Kyle Gallner"
+    "James McAvoy",
+    "Mackenzie Davis",
+    "Scoot McNairy"
    ],
-   "country": "United States",
-   "description": "Depois de testemunhar um bizarro e traumático incidente envolvendo uma paciente, a Dra. Rose Cotter começa a viver momentos assustadores que não consegue explicar. À medida que um terror avassalador começa a apoderar-se da sua vida, Rose terá de enfrentar o seu passado conturbado, para poder sobreviver e escapar a esta terrível nova realidade.",
+   "country": "Croatia, Canada, United States",
+   "description": "Uma família é convidada a passar um fim de semana inteiro numa casa solitária no campo, mas à medida que o fim de semana avança, apercebem-se de que existe um lado negro na família que os convidou.",
    "director": [
-    "Parker Finn"
+    "James Watkins"
    ],
-   "genre": [
-    "Horror",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "6.5",
-   "released": "2022-09-30T00:00:00.000Z",
-   "writer": [
-    "Parker Finn"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "-8d987Wtkxs",
-     "type": "Trailer"
-    },
-    {
-     "source": "BcDK7lkzzsU",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt15474916/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15474916/img",
-   "runtime": "115 min",
-   "awards": "3 wins & 22 nominations total",
-   "dvdRelease": "2022-11-15T00:00:00.000Z",
-   "id": "tt15474916",
-   "genres": [
-    "Terror",
-    "Mistério"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Smile",
-     "ytId": "-8d987Wtkxs"
-    },
-    {
-     "title": "Smile",
-     "ytId": "BcDK7lkzzsU"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15474916"
-    },
-    {
-     "name": "Smile",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/smile-15474916"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Sosie Bacon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sosie%20Bacon"
-    },
-    {
-     "name": "Jessie T. Usher",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessie%20T.%20Usher"
-    },
-    {
-     "name": "Kyle Gallner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kyle%20Gallner"
-    },
-    {
-     "name": "Parker Finn",
-     "category": "Writers",
-     "url": "stremio:///search?search=Parker%20Finn"
-    },
-    {
-     "name": "Parker Finn",
-     "category": "Directors",
-     "url": "stremio:///search?search=Parker%20Finn"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt15474916",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15474916.jpg"
-  },
-  {
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3/ImageRenderer/111/168/images/no_image_111x168.jpg/188528/images/masterrepository/fandango/188528/ouija2.jpg\" alt=\"Ouija: Origin of Evil\" title=\"Ouija: Origin of Evil\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fouija%3aoriginofevil_188528%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.3//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fouija%3aoriginofevil-trailer%2f188528%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "name": "Ouija: Origin of Evil",
-   "trailers": [
-    {
-     "source": "uVXGLbhozK8",
-     "type": "Trailer"
-    },
-    {
-     "source": "nDyOftZyVeA",
-     "type": "Trailer"
-    },
-    {
-     "source": "MJIcZGEjjwo",
-     "type": "Trailer"
-    }
-   ],
-   "year": "2016",
-   "runtime": "99 min",
    "genre": [
     "Drama",
     "Horror",
-    "Mystery"
+    "Thriller"
    ],
-   "released": "2016-10-21T00:00:00.000Z",
-   "director": [
-    "Mike Flanagan"
-   ],
+   "imdbRating": "6.8",
+   "released": "2024-09-13T00:00:00.000Z",
    "writer": [
-    "Mike Flanagan",
-    "Jeff Howard",
-    "Juliet Snowden"
+    "James Watkins",
+    "Christian Tafdrup",
+    "Mads Tafdrup"
    ],
-   "cast": [
-    "Elizabeth Reaser",
-    "Lulu Wilson",
-    "Annalise Basso"
+   "year": "2024",
+   "trailers": [
+    {
+     "source": "iSIuxrjTMk0",
+     "type": "Trailer"
+    },
+    {
+     "source": "et768NQ7dY8",
+     "type": "Trailer"
+    },
+    {
+     "source": "FjzxI6uf8H8",
+     "type": "Trailer"
+    }
    ],
-   "imdbRating": "6.2",
-   "description": "Uma mãe viúva que vive com as suas duas filhas, é especialista em enganar clientes com sessões falsas, fingindo comunicar com os espíritos.\r Mas quando Doris, uma das filhas, começa a utilizar o tabuleiro de Ouija para estabelecer comunicação com o falecido pai, acaba por libertar uma série de seres malignos que se apoderam do seu corpo e ameaçam todos que a rodeiam.",
-   "country": "United States",
-   "awards": "2 wins & 7 nominations total",
-   "dvdRelease": "2017-01-11T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4361050/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4361050/img",
-   "id": "tt4361050",
+   "runtime": "110 min",
+   "background": "https://images.metahub.space/background/medium/tt27534307/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27534307/img",
+   "awards": "1 win & 6 nominations total",
+   "id": "tt27534307",
    "genres": [
-    "Terror"
+    "Terror",
+    "Thriller"
    ],
-   "releaseInfo": "2016",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "uVXGLbhozK8"
+     "title": "Speak No Evil",
+     "ytId": "iSIuxrjTMk0"
     },
     {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "nDyOftZyVeA"
+     "title": "Speak No Evil",
+     "ytId": "et768NQ7dY8"
     },
     {
-     "title": "Ouija: Origin of Evil",
-     "ytId": "MJIcZGEjjwo"
+     "title": "Speak No Evil",
+     "ytId": "FjzxI6uf8H8"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "6.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4361050"
+     "url": "https://imdb.com/title/tt27534307"
     },
     {
-     "name": "Ouija: Origin of Evil",
+     "name": "Speak No Evil",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/ouija-origin-of-evil-4361050"
+     "url": "https://www.strem.io/s/movie/speak-no-evil-27534307"
     },
     {
      "name": "Drama",
@@ -1057,53 +734,406 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
     },
     {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "James McAvoy",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20McAvoy"
+    },
+    {
+     "name": "Mackenzie Davis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mackenzie%20Davis"
+    },
+    {
+     "name": "Scoot McNairy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Scoot%20McNairy"
+    },
+    {
+     "name": "James Watkins",
+     "category": "Writers",
+     "url": "stremio:///search?search=James%20Watkins"
+    },
+    {
+     "name": "Christian Tafdrup",
+     "category": "Writers",
+     "url": "stremio:///search?search=Christian%20Tafdrup"
+    },
+    {
+     "name": "Mads Tafdrup",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mads%20Tafdrup"
+    },
+    {
+     "name": "James Watkins",
+     "category": "Directors",
+     "url": "stremio:///search?search=James%20Watkins"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt27534307",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27534307.jpg"
+  },
+  {
+   "name": "The Lighthouse",
+   "cast": [
+    "Robert Pattinson",
+    "Willem Dafoe",
+    "Valeriia Karaman"
+   ],
+   "country": "Canada, United States",
+   "description": "Finais do século XIX. Ephraim Winslow chega a uma ilha isolada junto à costa de Nova Inglaterra (EUA) para trabalhar como ajudante de faroleiro durante quatro semanas. Nesse período, terá de responder ao irritável Thomas Wake, o encarregado. As semanas vão passando e, sentindo a opressão do isolamento e das violentas tempestades, os dois homens tentam fazer o seu trabalho e passar o tempo o melhor que lhes é possível. No meio de provocações, conflitos e algumas confidências, tudo acompanhado por doses generosas de álcool, a sua relação vai-se deteriorando gradualmente, até ambos serem levados aos limites da insanidade.",
+   "director": [
+    "Robert Eggers"
+   ],
+   "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+   ],
+   "imdbRating": "7.3",
+   "released": "2019-11-01T00:00:00.000Z",
+   "writer": [
+    "Robert Eggers",
+    "Max Eggers"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "42_UHhpq530",
+     "type": "Trailer"
+    },
+    {
+     "source": "Hyag7lR8CPA",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "109 min",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.765/ImageRenderer/111/168/images/no_image_111x168.jpg/219741/images/masterrepository/fandango/219741/ligos_108_m33v20.jpg\" alt=\"The Lighthouse (2019)\" title=\"The Lighthouse (2019)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fthelighthouse2019-trailer%2f219741%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.765//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fthelighthouse2019_219741%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
+   },
+   "awards": "Nominated for 1 Oscar. 33 wins & 139 nominations total",
+   "dvdRelease": "2019-10-18T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt7984734/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7984734/img",
+   "id": "tt7984734",
+   "genres": [
+    "Drama",
+    "Fantasia",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "The Lighthouse",
+     "ytId": "42_UHhpq530"
+    },
+    {
+     "title": "The Lighthouse",
+     "ytId": "Hyag7lR8CPA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7984734"
+    },
+    {
+     "name": "The Lighthouse",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-lighthouse-7984734"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Robert Pattinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Pattinson"
+    },
+    {
+     "name": "Willem Dafoe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Willem%20Dafoe"
+    },
+    {
+     "name": "Valeriia Karaman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Valeriia%20Karaman"
+    },
+    {
+     "name": "Robert Eggers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Eggers"
+    },
+    {
+     "name": "Max Eggers",
+     "category": "Writers",
+     "url": "stremio:///search?search=Max%20Eggers"
+    },
+    {
+     "name": "Robert Eggers",
+     "category": "Directors",
+     "url": "stremio:///search?search=Robert%20Eggers"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7984734",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7984734.jpg"
+  },
+  {
+   "awards": "8 wins & 16 nominations total",
+   "cast": [
+    "Patrick Wilson",
+    "Rose Byrne",
+    "Ty Simpkins"
+   ],
+   "country": "United States, Canada",
+   "description": "Josh e Renai vivem felizes, com o seu filho de três anos de idade. Quando a tragédia atinge a criança, Josh e Renai começam a ter experiências que a ciência não consegue explicar.",
+   "director": [
+    "James Wan"
+   ],
+   "dvdRelease": "2015-06-03T00:00:00.000Z",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "6.8",
+   "name": "Insidious",
+   "released": "2011-04-01T00:00:00.000Z",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "62rpZcMYa0A",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Leigh Whannell"
+   ],
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt1591095/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1591095/img",
+   "id": "tt1591095",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "2011",
+   "trailerStreams": [
+    {
+     "title": "Insidious",
+     "ytId": "62rpZcMYa0A"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1591095"
+    },
+    {
+     "name": "Insidious",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/insidious-1591095"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
      "name": "Mystery",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Elizabeth Reaser",
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Patrick Wilson",
      "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Reaser"
+     "url": "stremio:///search?search=Patrick%20Wilson"
     },
     {
-     "name": "Lulu Wilson",
+     "name": "Rose Byrne",
      "category": "Cast",
-     "url": "stremio:///search?search=Lulu%20Wilson"
+     "url": "stremio:///search?search=Rose%20Byrne"
     },
     {
-     "name": "Annalise Basso",
+     "name": "Ty Simpkins",
      "category": "Cast",
-     "url": "stremio:///search?search=Annalise%20Basso"
+     "url": "stremio:///search?search=Ty%20Simpkins"
     },
     {
-     "name": "Mike Flanagan",
+     "name": "Leigh Whannell",
      "category": "Writers",
-     "url": "stremio:///search?search=Mike%20Flanagan"
+     "url": "stremio:///search?search=Leigh%20Whannell"
     },
     {
-     "name": "Jeff Howard",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jeff%20Howard"
-    },
-    {
-     "name": "Juliet Snowden",
-     "category": "Writers",
-     "url": "stremio:///search?search=Juliet%20Snowden"
-    },
-    {
-     "name": "Mike Flanagan",
+     "name": "James Wan",
      "category": "Directors",
-     "url": "stremio:///search?search=Mike%20Flanagan"
+     "url": "stremio:///search?search=James%20Wan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4361050",
+    "defaultVideoId": "tt1591095",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4361050.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1591095.jpg"
+  },
+  {
+   "name": "Death of a Unicorn",
+   "cast": [
+    "Paul Rudd",
+    "Jenna Ortega",
+    "Will Poulter"
+   ],
+   "country": "United States, Hungary",
+   "description": "O que acontece quando se atropela um unicórnio? E se esse momento surreal for o catalisador para uma comédia negra sobre ganância, sátira social e unicórnios vingativos? Death of a Unicorn, novo filme da A24 realizado por Alex Scharfman, responde a esta pergunta improvável com humor ácido, crítica social e uma criatura mítica que desafia convenções.",
+   "director": [
+    "Alex Scharfman"
+   ],
+   "genre": [
+    "Comedy",
+    "Fantasy",
+    "Horror"
+   ],
+   "imdbRating": "5.8",
+   "released": "2025-03-28T00:00:00.000Z",
+   "writer": [
+    "Alex Scharfman"
+   ],
+   "year": "2025",
+   "runtime": "107 min",
+   "trailers": [
+    {
+     "source": "aQOle3MHnGs",
+     "type": "Trailer"
+    },
+    {
+     "source": "fOfndMsG8rs",
+     "type": "Trailer"
+    },
+    {
+     "source": "9cMIarrxLGs",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt28443655/img",
+   "logo": "https://images.metahub.space/logo/medium/tt28443655/img",
+   "awards": "1 win & 4 nominations total",
+   "id": "tt28443655",
+   "genres": [
+    "Terror",
+    "Fantasia",
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Death of a Unicorn",
+     "ytId": "aQOle3MHnGs"
+    },
+    {
+     "title": "Death of a Unicorn",
+     "ytId": "fOfndMsG8rs"
+    },
+    {
+     "title": "Death of a Unicorn",
+     "ytId": "9cMIarrxLGs"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt28443655"
+    },
+    {
+     "name": "Death of a Unicorn",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/death-of-a-unicorn-28443655"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Paul Rudd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Paul%20Rudd"
+    },
+    {
+     "name": "Jenna Ortega",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jenna%20Ortega"
+    },
+    {
+     "name": "Will Poulter",
+     "category": "Cast",
+     "url": "stremio:///search?search=Will%20Poulter"
+    },
+    {
+     "name": "Alex Scharfman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Scharfman"
+    },
+    {
+     "name": "Alex Scharfman",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Scharfman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt28443655",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28443655.jpg"
   }
  ]
 }

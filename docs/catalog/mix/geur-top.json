@@ -1,67 +1,211 @@
 {
  "metas": [
   {
-   "awards": "Won 9 Primetime Emmys. 95 wins & 185 nominations total",
-   "cast": [
-    "Benedict Cumberbatch",
-    "Martin Freeman",
-    "Una Stubbs"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "O Dr. John Watson precisa de um lugar para morar em Londres. Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais. Tudo isso em pleno século XXI.",
-   "director": null,
-   "dvdRelease": null,
+   "name": "Security",
+   "year": "2017",
+   "runtime": "87 min",
    "genre": [
+    "Action",
     "Crime",
-    "Drama",
-    "Mystery"
+    "Thriller"
    ],
-   "imdbRating": "9.0",
-   "name": "Sherlock",
-   "released": "2010-10-24T00:00:00.000Z",
-   "runtime": "88 min",
-   "status": "Ended",
+   "released": "2017-03-04T00:00:00.000Z",
+   "director": [
+    "Alain Desrochers"
+   ],
    "writer": [
-    "Mark Gatiss",
-    "Steven Moffat"
+    "Tony Mosher",
+    "John Sullivan"
    ],
-   "year": "2010–2017",
-   "background": "https://images.metahub.space/background/medium/tt1475582/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
+   "cast": [
+    "Antonio Banderas",
+    "Ben Kingsley",
+    "Liam McIntyre"
+   ],
+   "imdbRating": "5.8",
+   "description": "Um antigo soldado das forças especiais aceita emprego como segurança num centro comercial degradado numa área pobre da cidade.  Na primeira noite de trabalho, abre as portas a uma menina  perturbada que escapou a uma tentativa de rapto após um ataque à escolta policial que a transportava para testemunhar em tribunal. No seu encalço vem o grupo que a tentou matar.",
+   "country": "United States",
+   "awards": null,
+   "dvdRelease": "2017-08-04T00:00:00.000Z",
    "trailers": [
     {
-     "source": "gGqWqGOSTGQ",
+     "source": "zbOqeh8VYCI",
      "type": "Trailer"
     }
    ],
-   "id": "tt1475582",
+   "background": "https://images.metahub.space/background/medium/tt3501112/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3501112/img",
+   "id": "tt3501112",
    "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
+    "Ação",
+    "Thriller",
+    "Crime"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Sherlock",
-     "ytId": "gGqWqGOSTGQ"
+     "title": "Security",
+     "ytId": "zbOqeh8VYCI"
     }
    ],
    "links": [
     {
-     "name": "9.0",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1475582"
+     "url": "https://imdb.com/title/tt3501112"
     },
     {
-     "name": "Sherlock",
+     "name": "Security",
      "category": "share",
-     "url": "https://www.strem.io/s/series/sherlock-1475582"
+     "url": "https://www.strem.io/s/movie/security-3501112"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
      "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Antonio Banderas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Banderas"
+    },
+    {
+     "name": "Ben Kingsley",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Kingsley"
+    },
+    {
+     "name": "Liam McIntyre",
+     "category": "Cast",
+     "url": "stremio:///search?search=Liam%20McIntyre"
+    },
+    {
+     "name": "Tony Mosher",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tony%20Mosher"
+    },
+    {
+     "name": "John Sullivan",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Sullivan"
+    },
+    {
+     "name": "Alain Desrochers",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alain%20Desrochers"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3501112",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3501112.jpg"
+  },
+  {
+   "name": "The Last Kingdom",
+   "year": "2015–2022",
+   "runtime": "57 min",
+   "genre": [
+    "Action",
+    "Drama",
+    "History"
+   ],
+   "released": "2015-10-10T00:00:00.000Z",
+   "director": null,
+   "writer": [
+    "Stephen Butchard"
+   ],
+   "cast": [
+    "Alexander Dreymon",
+    "Eliza Butterworth",
+    "Arnas Fedaravicius"
+   ],
+   "imdbRating": "8.5",
+   "description": "Enquanto Alfredo, o Grande, defende o seu reino dos invasores nórdicos, Uhtred, nascido saxão mas criado por vikings, procura consumar o seu destino.",
+   "country": "United Kingdom",
+   "awards": "6 nominations total",
+   "dvdRelease": null,
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt4179452/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4179452/img",
+   "trailers": [
+    {
+     "source": "NNBNX34mO34",
+     "type": "Trailer"
+    },
+    {
+     "source": "vNaITmq0cX0",
+     "type": "Trailer"
+    },
+    {
+     "source": "hbdp2jJPvCg",
+     "type": "Trailer"
+    },
+    {
+     "source": "fGNMxLe7ERI",
+     "type": "Trailer"
+    },
+    {
+     "source": "WxPApTGWwas",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt4179452",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "The Last Kingdom",
+     "ytId": "NNBNX34mO34"
+    },
+    {
+     "title": "The Last Kingdom",
+     "ytId": "vNaITmq0cX0"
+    },
+    {
+     "title": "The Last Kingdom",
+     "ytId": "hbdp2jJPvCg"
+    },
+    {
+     "title": "The Last Kingdom",
+     "ytId": "fGNMxLe7ERI"
+    },
+    {
+     "title": "The Last Kingdom",
+     "ytId": "WxPApTGWwas"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt4179452"
+    },
+    {
+     "name": "The Last Kingdom",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-last-kingdom-4179452"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
@@ -69,34 +213,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "History",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Benedict Cumberbatch",
+     "name": "Alexander Dreymon",
      "category": "Cast",
-     "url": "stremio:///search?search=Benedict%20Cumberbatch"
+     "url": "stremio:///search?search=Alexander%20Dreymon"
     },
     {
-     "name": "Martin Freeman",
+     "name": "Eliza Butterworth",
      "category": "Cast",
-     "url": "stremio:///search?search=Martin%20Freeman"
+     "url": "stremio:///search?search=Eliza%20Butterworth"
     },
     {
-     "name": "Una Stubbs",
+     "name": "Arnas Fedaravicius",
      "category": "Cast",
-     "url": "stremio:///search?search=Una%20Stubbs"
+     "url": "stremio:///search?search=Arnas%20Fedaravicius"
     },
     {
-     "name": "Mark Gatiss",
+     "name": "Stephen Butchard",
      "category": "Writers",
-     "url": "stremio:///search?search=Mark%20Gatiss"
-    },
-    {
-     "name": "Steven Moffat",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Moffat"
+     "url": "stremio:///search?search=Stephen%20Butchard"
     }
    ],
    "behaviorHints": {
@@ -105,7 +244,196 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1475582.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4179452.jpg"
+  },
+  {
+   "cast": [
+    "Jorge Neto",
+    "Luis Ismael",
+    "J.D. Duarte"
+   ],
+   "country": "Portugal",
+   "description": "Rato está com problemas de dinheiro. Culatra anda teso e com problemas. Mas um dia descobrem a solução para todos os seus males... roubar o mapa de um tesouro, o que vai despoletar novamente uma série de confusões ...  É preciso reunir o grupo, mas falta um líder. Tone está de regresso para comandar a legião dos \"duros\". Contra tudo e contra todos.",
+   "director": [
+    "Luis Ismael"
+   ],
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "6.9",
+   "name": "Balas & Bolinhos - O Regresso",
+   "released": "2004-09-30T00:00:00.000Z",
+   "runtime": "108 min",
+   "writer": [
+    "Luis Ismael"
+   ],
+   "year": "2004",
+   "trailers": [],
+   "background": "https://images.metahub.space/background/medium/tt0414851/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0414851/img",
+   "id": "tt0414851",
+   "genres": [
+    "Aventura",
+    "Crime",
+    "Comédia"
+   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "6.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0414851"
+    },
+    {
+     "name": "Balas & Bolinhos - O Regresso",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/balas-bolinhos-o-regresso-0414851"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Jorge Neto",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jorge%20Neto"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Cast",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "J.D. Duarte",
+     "category": "Cast",
+     "url": "stremio:///search?search=J.D.%20Duarte"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Writers",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Directors",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0414851",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414851.jpg"
+  },
+  {
+   "awards": "Won 2 BAFTA Awards. 7 wins & 34 nominations total",
+   "cast": [
+    "Kaya Scodelario",
+    "Nicholas Hoult",
+    "Joe Dempsie"
+   ],
+   "country": "United Kingdom",
+   "description": "Skins é uma série britânica do gênero drama adolescente que acompanha as vidas de um grupo de adolescentes em Bristol, Sudoeste da Inglaterra, pelos dois últimos anos do ensino médio.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "8.2",
+   "name": "Skins",
+   "released": "2011-01-17T00:00:00.000Z",
+   "runtime": "1 min",
+   "status": "Ended",
+   "writer": [
+    "Jamie Brittain",
+    "Bryan Elsley"
+   ],
+   "year": "2007–2013",
+   "background": "https://images.metahub.space/background/medium/tt0840196/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0840196/img",
+   "trailers": [
+    {
+     "source": "7FKPoVNtmK0",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0840196",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2007",
+   "trailerStreams": [
+    {
+     "title": "Skins",
+     "ytId": "7FKPoVNtmK0"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0840196"
+    },
+    {
+     "name": "Skins",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/skins-0840196"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Kaya Scodelario",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kaya%20Scodelario"
+    },
+    {
+     "name": "Nicholas Hoult",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicholas%20Hoult"
+    },
+    {
+     "name": "Joe Dempsie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joe%20Dempsie"
+    },
+    {
+     "name": "Jamie Brittain",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jamie%20Brittain"
+    },
+    {
+     "name": "Bryan Elsley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bryan%20Elsley"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0840196.jpg"
   },
   {
    "awards": "15 wins & 34 nominations total",
@@ -255,59 +583,75 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951266.jpg"
   },
   {
-   "awards": "Won 2 BAFTA Awards. 7 wins & 34 nominations total",
-   "cast": [
-    "Kaya Scodelario",
-    "Nicholas Hoult",
-    "Joe Dempsie"
-   ],
-   "country": "United Kingdom",
-   "description": "Skins é uma série britânica do gênero drama adolescente que acompanha as vidas de um grupo de adolescentes em Bristol, Sudoeste da Inglaterra, pelos dois últimos anos do ensino médio.",
-   "director": null,
-   "dvdRelease": null,
+   "name": "Babylon Berlin",
+   "year": "2017–",
+   "runtime": "46 min",
    "genre": [
-    "Drama"
+    "Crime",
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "8.2",
-   "name": "Skins",
-   "released": "2011-01-17T00:00:00.000Z",
-   "runtime": "1 min",
-   "status": "Ended",
+   "released": "2018-01-30T00:00:00.000Z",
+   "cast": [
+    "Volker Bruch",
+    "Liv Lisa Fries",
+    "Lars Eidinger"
+   ],
+   "imdbRating": "8.4",
+   "description": "Berlim no final dos anos 20. O inspetor da polícia Gereon Rath é transferido para Berlim para investigar uma rede de pornografia e vê-se envolvido numa teia que envolve as mais altas esferas do Governo.",
+   "country": "Germany",
+   "status": "Continuing",
+   "director": [],
    "writer": [
-    "Jamie Brittain",
-    "Bryan Elsley"
+    "Henk Handloegten",
+    "Tom Tykwer",
+    "Achim von Borries"
    ],
-   "year": "2007–2013",
-   "background": "https://images.metahub.space/background/medium/tt0840196/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0840196/img",
+   "awards": "25 wins & 20 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt4378376/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4378376/img",
    "trailers": [
     {
-     "source": "7FKPoVNtmK0",
+     "source": "HAn3RXeCrLg",
+     "type": "Trailer"
+    },
+    {
+     "source": "j_qN5bFfOTE",
      "type": "Trailer"
     }
    ],
-   "id": "tt0840196",
+   "id": "tt4378376",
    "genres": [
     "Drama",
-    "Comédia"
+    "Crime",
+    "Mistério"
    ],
-   "releaseInfo": "2007",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Skins",
-     "ytId": "7FKPoVNtmK0"
+     "title": "Babylon Berlin",
+     "ytId": "HAn3RXeCrLg"
+    },
+    {
+     "title": "Babylon Berlin",
+     "ytId": "j_qN5bFfOTE"
     }
    ],
    "links": [
     {
-     "name": "8.2",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0840196"
+     "url": "https://imdb.com/title/tt4378376"
     },
     {
-     "name": "Skins",
+     "name": "Babylon Berlin",
      "category": "share",
-     "url": "https://www.strem.io/s/series/skins-0840196"
+     "url": "https://www.strem.io/s/series/babylon-berlin-4378376"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -315,29 +659,39 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Kaya Scodelario",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kaya%20Scodelario"
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Nicholas Hoult",
+     "name": "Volker Bruch",
      "category": "Cast",
-     "url": "stremio:///search?search=Nicholas%20Hoult"
+     "url": "stremio:///search?search=Volker%20Bruch"
     },
     {
-     "name": "Joe Dempsie",
+     "name": "Liv Lisa Fries",
      "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Dempsie"
+     "url": "stremio:///search?search=Liv%20Lisa%20Fries"
     },
     {
-     "name": "Jamie Brittain",
+     "name": "Lars Eidinger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lars%20Eidinger"
+    },
+    {
+     "name": "Henk Handloegten",
      "category": "Writers",
-     "url": "stremio:///search?search=Jamie%20Brittain"
+     "url": "stremio:///search?search=Henk%20Handloegten"
     },
     {
-     "name": "Bryan Elsley",
+     "name": "Tom Tykwer",
      "category": "Writers",
-     "url": "stremio:///search?search=Bryan%20Elsley"
+     "url": "stremio:///search?search=Tom%20Tykwer"
+    },
+    {
+     "name": "Achim von Borries",
+     "category": "Writers",
+     "url": "stremio:///search?search=Achim%20von%20Borries"
     }
    ],
    "behaviorHints": {
@@ -346,198 +700,80 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0840196.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4378376.jpg"
   },
   {
+   "awards": "Won 9 Primetime Emmys. 95 wins & 185 nominations total",
    "cast": [
-    "Jorge Neto",
-    "Luis Ismael",
-    "J.D. Duarte"
+    "Benedict Cumberbatch",
+    "Martin Freeman",
+    "Una Stubbs"
    ],
-   "country": "Portugal",
-   "description": "Rato está com problemas de dinheiro. Culatra anda teso e com problemas. Mas um dia descobrem a solução para todos os seus males... roubar o mapa de um tesouro, o que vai despoletar novamente uma série de confusões ...  É preciso reunir o grupo, mas falta um líder. Tone está de regresso para comandar a legião dos \"duros\". Contra tudo e contra todos.",
-   "director": [
-    "Luis Ismael"
-   ],
+   "country": "United Kingdom, United States",
+   "description": "O Dr. John Watson precisa de um lugar para morar em Londres. Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais. Tudo isso em pleno século XXI.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Adventure",
-    "Comedy",
-    "Crime"
-   ],
-   "imdbRating": "6.9",
-   "name": "Balas & Bolinhos - O Regresso",
-   "released": "2004-09-30T00:00:00.000Z",
-   "runtime": "108 min",
-   "writer": [
-    "Luis Ismael"
-   ],
-   "year": "2004",
-   "trailers": [],
-   "background": "https://images.metahub.space/background/medium/tt0414851/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0414851/img",
-   "id": "tt0414851",
-   "genres": [
-    "Aventura",
     "Crime",
-    "Comédia"
+    "Drama",
+    "Mystery"
    ],
-   "releaseInfo": "2004",
-   "trailerStreams": [],
+   "imdbRating": "9.0",
+   "name": "Sherlock",
+   "released": "2010-10-24T00:00:00.000Z",
+   "runtime": "88 min",
+   "status": "Ended",
+   "writer": [
+    "Mark Gatiss",
+    "Steven Moffat"
+   ],
+   "year": "2010–2017",
+   "background": "https://images.metahub.space/background/medium/tt1475582/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
+   "trailers": [
+    {
+     "source": "gGqWqGOSTGQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1475582",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2010",
+   "trailerStreams": [
+    {
+     "title": "Sherlock",
+     "ytId": "gGqWqGOSTGQ"
+    }
+   ],
    "links": [
     {
-     "name": "6.8",
+     "name": "9.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0414851"
+     "url": "https://imdb.com/title/tt1475582"
     },
     {
-     "name": "Balas & Bolinhos - O Regresso",
+     "name": "Sherlock",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/balas-bolinhos-o-regresso-0414851"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "https://www.strem.io/s/series/sherlock-1475582"
     },
     {
      "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
-     "name": "Jorge Neto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Neto"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "J.D. Duarte",
-     "category": "Cast",
-     "url": "stremio:///search?search=J.D.%20Duarte"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Writers",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Directors",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0414851",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414851.jpg"
-  },
-  {
-   "name": "The Grinch",
-   "year": "2018",
-   "genre": [
-    "Animation",
-    "Comedy",
-    "Family"
-   ],
-   "released": "2018-11-09T00:00:00.000Z",
-   "director": [
-    "Yarrow Cheney",
-    "Scott Mosier"
-   ],
-   "writer": [
-    "Michael LeSieur",
-    "Tommy Swerdlow",
-    "Dr. Seuss"
-   ],
-   "cast": [
-    "Benedict Cumberbatch",
-    "Cameron Seely",
-    "Rashida Jones"
-   ],
-   "imdbRating": "6.4",
-   "description": "O mal-humorado Grinch chega à conclusão que só tem uma forma de conseguir paz e sossego: roubar o Natal e acabar de vez com as celebrações dos Quem. Para levar a cabo o seu plano, Grinch disfarça-se de Pai Natal e arranja uma rena mal disfarçada...",
-   "country": "United States",
-   "trailers": [
-    {
-     "source": "_UOh0UX3alI",
-     "type": "Trailer"
-    },
-    {
-     "source": "L8LWUyUy7jM",
-     "type": "Trailer"
-    },
-    {
-     "source": "vjnqABgxfO0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt2709692/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2709692/img",
-   "affiliates": {
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563/ImageRenderer/111/168/images/no_image_111x168.jpg/208498/images/masterrepository/fandango/208498/grc_tsr1sheet_grinchandmax_.jpg\" alt=\"Dr. Seuss' The Grinch (2018)\" title=\"Dr. Seuss' The Grinch (2018)\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fdr.seussthegrinch2018-trailer%2f208498%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.563//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
-    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fdr.seussthegrinch2018_208498%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123"
-   },
-   "runtime": "85 min",
-   "dvdRelease": "2019-01-22T00:00:00.000Z",
-   "awards": "2 wins & 18 nominations total",
-   "id": "tt2709692",
-   "genres": [
-    "Animação",
-    "Comédia",
-    "Família"
-   ],
-   "releaseInfo": "2018",
-   "trailerStreams": [
-    {
-     "title": "The Grinch",
-     "ytId": "_UOh0UX3alI"
-    },
-    {
-     "title": "The Grinch",
-     "ytId": "L8LWUyUy7jM"
-    },
-    {
-     "title": "The Grinch",
-     "ytId": "vjnqABgxfO0"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2709692"
-    },
-    {
-     "name": "The Grinch",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-grinch-2709692"
-    },
-    {
-     "name": "Animation",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Comedy",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
      "name": "Benedict Cumberbatch",
@@ -545,160 +781,142 @@
      "url": "stremio:///search?search=Benedict%20Cumberbatch"
     },
     {
-     "name": "Cameron Seely",
+     "name": "Martin Freeman",
      "category": "Cast",
-     "url": "stremio:///search?search=Cameron%20Seely"
+     "url": "stremio:///search?search=Martin%20Freeman"
     },
     {
-     "name": "Rashida Jones",
+     "name": "Una Stubbs",
      "category": "Cast",
-     "url": "stremio:///search?search=Rashida%20Jones"
+     "url": "stremio:///search?search=Una%20Stubbs"
     },
     {
-     "name": "Michael LeSieur",
+     "name": "Mark Gatiss",
      "category": "Writers",
-     "url": "stremio:///search?search=Michael%20LeSieur"
+     "url": "stremio:///search?search=Mark%20Gatiss"
     },
     {
-     "name": "Tommy Swerdlow",
+     "name": "Steven Moffat",
      "category": "Writers",
-     "url": "stremio:///search?search=Tommy%20Swerdlow"
-    },
-    {
-     "name": "Dr. Seuss",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dr.%20Seuss"
-    },
-    {
-     "name": "Yarrow Cheney",
-     "category": "Directors",
-     "url": "stremio:///search?search=Yarrow%20Cheney"
-    },
-    {
-     "name": "Scott Mosier",
-     "category": "Directors",
-     "url": "stremio:///search?search=Scott%20Mosier"
+     "url": "stremio:///search?search=Steven%20Moffat"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt2709692",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2709692.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1475582.jpg"
   },
   {
-   "awards": "2 wins & 7 nominations total",
+   "awards": "3 nominations total",
    "cast": [
-    "Ethan Hawke",
-    "Julie Delpy",
-    "Andrea Eckert"
+    "Robson Green",
+    "Tessa Peake-Jones",
+    "Al Weaver"
    ],
-   "country": "United States, Austria",
-   "description": "Uma noite parece pouco tempo, mas é o bastante para Céline, uma estudante francesa de férias, e Jesse, um norte-americano em viagem pela Europa, trocarem ideias, fazerem confissões, descobrirem a paixão e prenderem a atenção do espectador com os seus diálogos e envolvimento. É num comboio, entre Budapeste (Hungria) e Viena (Áustria), que os dois se encontram pela primeira vez.",
-   "director": [
-    "Richard Linklater"
-   ],
-   "dvdRelease": "2008-10-03T00:00:00.000Z",
+   "country": "United Kingdom",
+   "description": "Com o pano de fundo da verdadeira aldeia de Grantchester, o drama se concentra na vida de Sidney Chambers, um clérigo carismático e charmoso que se transforma em vigário investigativo quando um de seus paroquianos morre em circunstâncias suspeitas.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Comedy",
+    "Crime",
     "Drama",
-    "Romance"
+    "Mystery"
    ],
-   "imdbRating": "8.1",
-   "name": "Before Sunrise",
-   "released": "1995-01-27T00:00:00.000Z",
-   "runtime": "101 min",
+   "imdbRating": "7.9",
+   "name": "Grantchester",
+   "released": "2015-01-18T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Continuing",
+   "writer": [
+    "Daisy Coulam"
+   ],
+   "year": "2014–",
+   "background": "https://images.metahub.space/background/medium/tt3747572/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3747572/img",
    "trailers": [
     {
-     "source": "jGvcbSabADM",
+     "source": "XD31kh_HBkk",
+     "type": "Trailer"
+    },
+    {
+     "source": "4mWwWMob7ZI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Richard Linklater",
-    "Kim Krizan"
-   ],
-   "year": "1995",
-   "background": "https://images.metahub.space/background/medium/tt0112471/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0112471/img",
-   "id": "tt0112471",
+   "id": "tt3747572",
    "genres": [
+    "Crime",
     "Drama",
-    "Romance"
+    "Mistério"
    ],
-   "releaseInfo": "1995",
+   "releaseInfo": "2014",
    "trailerStreams": [
     {
-     "title": "Before Sunrise",
-     "ytId": "jGvcbSabADM"
+     "title": "Grantchester",
+     "ytId": "XD31kh_HBkk"
+    },
+    {
+     "title": "Grantchester",
+     "ytId": "4mWwWMob7ZI"
     }
    ],
    "links": [
     {
-     "name": "8.1",
+     "name": "7.9",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0112471"
+     "url": "https://imdb.com/title/tt3747572"
     },
     {
-     "name": "Before Sunrise",
+     "name": "Grantchester",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/before-sunrise-0112471"
+     "url": "https://www.strem.io/s/series/grantchester-3747572"
     },
     {
-     "name": "Comedy",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
     },
     {
-     "name": "Ethan Hawke",
+     "name": "Robson Green",
      "category": "Cast",
-     "url": "stremio:///search?search=Ethan%20Hawke"
+     "url": "stremio:///search?search=Robson%20Green"
     },
     {
-     "name": "Julie Delpy",
+     "name": "Tessa Peake-Jones",
      "category": "Cast",
-     "url": "stremio:///search?search=Julie%20Delpy"
+     "url": "stremio:///search?search=Tessa%20Peake-Jones"
     },
     {
-     "name": "Andrea Eckert",
+     "name": "Al Weaver",
      "category": "Cast",
-     "url": "stremio:///search?search=Andrea%20Eckert"
+     "url": "stremio:///search?search=Al%20Weaver"
     },
     {
-     "name": "Richard Linklater",
+     "name": "Daisy Coulam",
      "category": "Writers",
-     "url": "stremio:///search?search=Richard%20Linklater"
-    },
-    {
-     "name": "Kim Krizan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kim%20Krizan"
-    },
-    {
-     "name": "Richard Linklater",
-     "category": "Directors",
-     "url": "stremio:///search?search=Richard%20Linklater"
+     "url": "stremio:///search?search=Daisy%20Coulam"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0112471",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0112471.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3747572.jpg"
   },
   {
    "awards": "1 nomination total",
@@ -952,201 +1170,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4686844.jpg"
-  },
-  {
-   "name": "Balas & Bolinhos",
-   "year": "2001",
-   "runtime": "62 min",
-   "genre": [
-    "Comedy",
-    "Crime"
-   ],
-   "released": "2001-02-23T00:00:00.000Z",
-   "director": [
-    "Luis Ismael"
-   ],
-   "writer": [
-    "Luis Ismael"
-   ],
-   "cast": [
-    "Jorge Neto",
-    "Luis Ismael",
-    "J.D. Duarte"
-   ],
-   "imdbRating": "6.3",
-   "description": "Tone, a mente brilhante do crime, saiu da prisão e voltou cheio de ideias. Depois de reunir os seus antigos companheiros, tudo está preparado para o golpe final. Desta vez é que vai ser... Vai haver dinheiro a jorrar por todos os lados...  E porque o Tone é demais, os seus companheiros seguem à risca o plano, sem mais questões! O resultado... só vendo para crer!",
-   "country": "Portugal",
-   "awards": null,
-   "dvdRelease": null,
-   "trailers": [],
-   "background": "https://images.metahub.space/background/medium/tt0414850/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0414850/img",
-   "id": "tt0414850",
-   "genres": [
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2001",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0414850"
-    },
-    {
-     "name": "Balas & Bolinhos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/balas-bolinhos-0414850"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Jorge Neto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Neto"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "J.D. Duarte",
-     "category": "Cast",
-     "url": "stremio:///search?search=J.D.%20Duarte"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Writers",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Directors",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0414850",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414850.jpg"
-  },
-  {
-   "name": "Gunpowder",
-   "year": "2017",
-   "genre": [
-    "Drama",
-    "History"
-   ],
-   "released": "2017-12-18T00:00:00.000Z",
-   "cast": [
-    "Kit Harington",
-    "Andy Lucas",
-    "Derek Riddell"
-   ],
-   "imdbRating": "6.5",
-   "description": "Inglaterra, 1605. O ativista britânico Guy Fawkes e um grupo de católicos liderados por Robert Catesby planejam explodir a Casa dos Lordes e matar o rei protestante James I e os membros do Parlamento inglês. Mas para levar adiante esta conspiração, eles precisam enfrentar muitos desafios.",
-   "country": "United Kingdom",
-   "status": "Ended",
-   "director": [],
-   "writer": [
-    "Ronan Bennett",
-    "Kit Harington",
-    "Daniel West"
-   ],
-   "runtime": "60 min",
-   "background": "https://images.metahub.space/background/medium/tt6128262/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6128262/img",
-   "awards": "Nominated for 1 BAFTA Award. 4 nominations total",
-   "trailers": [
-    {
-     "source": "wBFcpJfxEFk",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt6128262",
-   "genres": [
-    "War & Politics",
-    "Drama"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Gunpowder",
-     "ytId": "wBFcpJfxEFk"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6128262"
-    },
-    {
-     "name": "Gunpowder",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/gunpowder-6128262"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "Kit Harington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kit%20Harington"
-    },
-    {
-     "name": "Andy Lucas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andy%20Lucas"
-    },
-    {
-     "name": "Derek Riddell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Derek%20Riddell"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
-    },
-    {
-     "name": "Kit Harington",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kit%20Harington"
-    },
-    {
-     "name": "Daniel West",
-     "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20West"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6128262.jpg"
   }
  ]
 }

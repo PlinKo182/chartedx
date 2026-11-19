@@ -220,72 +220,270 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1800308.jpg"
   },
   {
-   "id": "tt10218112",
-   "logo": "https://live.metahub.space/logo/medium/tt10218112/img",
-   "background": "https://live.metahub.space/background/medium/tt10218112/img",
-   "name": "Courageous Warriors Beauty from the Ashes",
-   "description": "Courageous Warriors; Beauty From The Ashes is a tale of extraordinary women, young and old, who took their recovery from breast cancer a leap beyond medical diagnosis. They created new paths of wholeness through body, mind, and spirit. Now they offer those gifts to others.",
+   "id": "tt48500521",
+   "behaviorHints": {
+    "defaultVideoId": "tt48500521",
+    "hasScheduledVideos": false
+   },
+   "links": [
+    {
+     "name": "Desprotexida: El crimen de Pazos",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/desprotexida-el-crimen-de-pazos-48500521"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Jorge Laplace",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jorge%20Laplace"
+    },
+    {
+     "name": "Jorge Laplace",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jorge%20Laplace"
+    }
+   ],
+   "name": "Desprotexida: El crimen de Pazos",
+   "year": "2026",
+   "releaseInfo": "2026",
+   "genre": [
+    "Documentary"
+   ],
+   "genres": [
+    "Documentário",
+    "Crime"
+   ],
+   "writer": [
+    "Jorge Laplace"
+   ],
+   "director": [
+    "Jorge Laplace"
+   ],
+   "description": "Documentário que conta a história de Isabel Fuentes. Em abril de 2015, supostos ladrões a deixaram à beira da morte em sua própria casa, na aldeia de Pazos, em Verín. Desde o início, o sargento Civil da Guardia responsável pelo caso suspeitou que o relato do que tinha acontecido não se somou e tentou proteger Isabel de um novo ataque.",
+   "language": "Spanish",
+   "country": "Spain",
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48500521.jpg",
+   "imdbRating": "6.1"
+  },
+  {
+   "id": "tt39368552",
+   "logo": "https://live.metahub.space/logo/medium/tt39368552/img",
+   "background": "https://live.metahub.space/background/medium/tt39368552/img",
+   "name": "Siri Hustvedt – Dance Around the Self",
+   "description": "Sabine Lidl presents Siri Hustvedt’s journey from her first novel to being a leading voice in contemporary literature – a film about feminist perspectives, Hustvedt’s soulmate Paul Auster, and the power of thought.",
    "genres": [
     "Documentário"
    ],
-   "releaseInfo": "2021",
-   "runtime": "93 min",
+   "releaseInfo": "2026",
+   "runtime": "110 min",
    "trailers": [],
    "cast": [
-    "Dee Wallace"
+    "Siri Hustvedt",
+    "Paul Auster",
+    "Sophie Auster"
    ],
    "credits_cast": [
     {
-     "character": "Narrator",
-     "name": "Dee Wallace",
-     "profile_path": "/gVnwovXGgGcny8LJ3w9j3I9xTE7.jpg",
-     "id": 62001
+     "character": "Self",
+     "name": "Siri Hustvedt",
+     "profile_path": "/6Mm7HRACRqbdNnZ3c0OWs2dOd8p.jpg",
+     "id": 1940530
+    },
+    {
+     "character": "Self",
+     "name": "Paul Auster",
+     "profile_path": "/oyjzonrhI6ODAPzsyJ2mMdSCwqp.jpg",
+     "id": 46391
+    },
+    {
+     "character": "Self",
+     "name": "Sophie Auster",
+     "profile_path": null,
+     "id": 128888
+    },
+    {
+     "character": "Self",
+     "name": "Katerina Fotopoulou",
+     "profile_path": null,
+     "id": 6080220
+    },
+    {
+     "character": "Self",
+     "name": "Liv Hustvedt",
+     "profile_path": null,
+     "id": 6080221
+    },
+    {
+     "character": "",
+     "name": "Asti Hustvedt",
+     "profile_path": null,
+     "id": 6080225
+    },
+    {
+     "character": "",
+     "name": "Ingy Hustvedt",
+     "profile_path": null,
+     "id": 6080223
     }
    ],
    "credits_crew": [
     {
      "department": "Directing",
      "job": "Director",
-     "name": "Darla Rae",
-     "profile_path": "/rczBMauBNLrevswoc17IejBj38W.jpg",
-     "id": 1205472
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Darla Rae",
-     "profile_path": "/rczBMauBNLrevswoc17IejBj38W.jpg",
-     "id": 1205472
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Kathy Shipp",
+     "name": "Sabine Lidl",
      "profile_path": null,
-     "id": 1425248
+     "id": 1339287
     },
     {
      "department": "Production",
      "job": "Producer",
-     "name": "Alice Atwater",
+     "name": "Irene Höfer",
      "profile_path": null,
-     "id": 3388426
+     "id": 1339288
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Sabine Lidl",
+     "profile_path": null,
+     "id": 1339287
     }
    ],
    "director": [
-    "Darla Rae"
+    "Sabine Lidl"
    ],
-   "imdbRating": "9.3",
+   "imdbRating": "7.4",
    "language": "English",
-   "country": "United States",
-   "awards": "18 wins",
+   "country": "Germany, Switzerland",
    "behaviorHints": {
-    "defaultVideoId": "tt10218112",
+    "defaultVideoId": "tt39368552",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10218112.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39368552.jpg"
+  },
+  {
+   "name": "Tell Me What You Want",
+   "cast": [
+    "Gabriela Andrada",
+    "Mario Ermito",
+    "Celia Freijeiro"
+   ],
+   "country": "Spain, United States",
+   "description": "Após a morte de seu pai, Eric Zimmerman viaja para a Espanha para supervisionar as filiais de sua empresa. Em Madri, ele se apaixona por Judith e se envolve em um relacionamento intenso e erótico cheio de exploração. Eric teme que seu segredo possa acabar com o caso deles.",
+   "director": [
+    "Lucía Alemany"
+   ],
+   "genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "imdbRating": "4.1",
+   "released": "2025-09-30T00:00:00.000Z",
+   "writer": [
+    "Ivy Hesh",
+    "Vivien Dakota",
+    "Marina Martín Laguna"
+   ],
+   "year": "2025",
+   "runtime": "114 min",
+   "trailers": [
+    {
+     "source": "MzNbhA4WFqg",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31723358/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31723358/img",
+   "id": "tt31723358",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Tell Me What You Want",
+     "ytId": "MzNbhA4WFqg"
+    }
+   ],
+   "links": [
+    {
+     "name": "4.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31723358"
+    },
+    {
+     "name": "Tell Me What You Want",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/tell-me-what-you-want-31723358"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Gabriela Andrada",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gabriela%20Andrada"
+    },
+    {
+     "name": "Mario Ermito",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mario%20Ermito"
+    },
+    {
+     "name": "Celia Freijeiro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Celia%20Freijeiro"
+    },
+    {
+     "name": "Ivy Hesh",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ivy%20Hesh"
+    },
+    {
+     "name": "Vivien Dakota",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vivien%20Dakota"
+    },
+    {
+     "name": "Marina Martín Laguna",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marina%20Mart%C3%ADn%20Laguna"
+    },
+    {
+     "name": "Lucía Alemany",
+     "category": "Directors",
+     "url": "stremio:///search?search=Luc%C3%ADa%20Alemany"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31723358",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31723358.jpg"
   },
   {
    "id": "tt45978291",
@@ -463,105 +661,7 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50817930.jpg",
-   "imdbRating": "5.3"
-  },
-  {
-   "id": "tt39368552",
-   "logo": "https://live.metahub.space/logo/medium/tt39368552/img",
-   "background": "https://live.metahub.space/background/medium/tt39368552/img",
-   "name": "Siri Hustvedt – Dance Around the Self",
-   "description": "Sabine Lidl presents Siri Hustvedt’s journey from her first novel to being a leading voice in contemporary literature – a film about feminist perspectives, Hustvedt’s soulmate Paul Auster, and the power of thought.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "110 min",
-   "trailers": [],
-   "cast": [
-    "Siri Hustvedt",
-    "Paul Auster",
-    "Sophie Auster"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Siri Hustvedt",
-     "profile_path": "/6Mm7HRACRqbdNnZ3c0OWs2dOd8p.jpg",
-     "id": 1940530
-    },
-    {
-     "character": "Self",
-     "name": "Paul Auster",
-     "profile_path": "/oyjzonrhI6ODAPzsyJ2mMdSCwqp.jpg",
-     "id": 46391
-    },
-    {
-     "character": "Self",
-     "name": "Sophie Auster",
-     "profile_path": null,
-     "id": 128888
-    },
-    {
-     "character": "Self",
-     "name": "Katerina Fotopoulou",
-     "profile_path": null,
-     "id": 6080220
-    },
-    {
-     "character": "Self",
-     "name": "Liv Hustvedt",
-     "profile_path": null,
-     "id": 6080221
-    },
-    {
-     "character": "",
-     "name": "Asti Hustvedt",
-     "profile_path": null,
-     "id": 6080225
-    },
-    {
-     "character": "",
-     "name": "Ingy Hustvedt",
-     "profile_path": null,
-     "id": 6080223
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Sabine Lidl",
-     "profile_path": null,
-     "id": 1339287
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Irene Höfer",
-     "profile_path": null,
-     "id": 1339288
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Sabine Lidl",
-     "profile_path": null,
-     "id": 1339287
-    }
-   ],
-   "director": [
-    "Sabine Lidl"
-   ],
-   "imdbRating": "7.4",
-   "language": "English",
-   "country": "Germany, Switzerland",
-   "behaviorHints": {
-    "defaultVideoId": "tt39368552",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39368552.jpg"
+   "imdbRating": "5.4"
   },
   {
    "id": "tt21346758",
@@ -614,117 +714,119 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21346758.jpg"
   },
   {
-   "country": "United States",
-   "description": "Com uma nova invenção mágica que prometia revolucionar os testes de sangue, Elizabeth Holmes tornou-se a bilionária mais jovem do mundo, anunciada como o próximo Steve Jobs. Então, durante a noite, sua empresa de US $ 10 bilhões se dissolveu. A ascensão e queda de Theranos é uma janela para a psicologia da fraude.",
-   "director": [
-    "Alex Gibney"
-   ],
-   "imdbRating": "7.1",
-   "name": "The Inventor: Out for Blood in Silicon Valley",
-   "released": "2019-03-18T00:00:00.000Z",
-   "writer": [
-    "Alex Gibney"
-   ],
-   "year": "2019",
-   "trailers": [
-    {
-     "source": "wtDaP18OGfw",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Alex Gibney",
-    "Elizabeth Holmes",
-    "Dan Ariely"
-   ],
-   "genre": [
-    "Documentary",
-    "Crime"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt8488126/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8488126/img",
-   "runtime": "119 min",
-   "awards": "Nominated for 1 Primetime Emmy. 2 wins & 3 nominations total",
-   "dvdRelease": "2019-11-18T00:00:00.000Z",
-   "id": "tt8488126",
+   "id": "tt38040871",
+   "logo": "https://live.metahub.space/logo/medium/tt38040871/img",
+   "background": "https://live.metahub.space/background/medium/tt38040871/img",
+   "name": "Drink Coffee, Talk Fast",
+   "description": "Cast, crew, and fans trace the making of Gilmore Girls and the enduring pull of Stars Hollow, revealing how its stories shaped lives and connected generations.",
    "genres": [
     "Documentário"
    ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
+   "releaseInfo": "2026",
+   "runtime": "103 min",
+   "trailers": [],
+   "cast": [
+    "Stan Zimmerman",
+    "Lauren Graham",
+    "Alexis Bledel"
+   ],
+   "credits_cast": [
     {
-     "title": "The Inventor: Out for Blood in Silicon Valley",
-     "ytId": "wtDaP18OGfw"
+     "character": "Self",
+     "name": "Stan Zimmerman",
+     "profile_path": "/oGKmqcxNCqXaKUZ1GzHXtXP5p0X.jpg",
+     "id": 1226385
+    },
+    {
+     "character": "Self",
+     "name": "Lauren Graham",
+     "profile_path": "/3leQVZnthAZwngH7HAD6T7qfsVu.jpg",
+     "id": 16858
+    },
+    {
+     "character": "Self",
+     "name": "Alexis Bledel",
+     "profile_path": "/mhkQzBtp2wuYoKhYqJ4IpDtbS3t.jpg",
+     "id": 6279
+    },
+    {
+     "character": "Self",
+     "name": "Amy Sherman-Palladino",
+     "profile_path": "/v8OGBnKfmnfvlPhkluiRo5fkpQM.jpg",
+     "id": 1222946
+    },
+    {
+     "character": "Self",
+     "name": "Aris Alvarado",
+     "profile_path": "/po589yZqyecLbPggaIx4pNR2BTC.jpg",
+     "id": 169001
+    },
+    {
+     "character": "Self",
+     "name": "Chad Michael Murray",
+     "profile_path": "/jIkzUQUVLkgn3HFMFRJBDAD0OLj.jpg",
+     "id": 62747
+    },
+    {
+     "character": "Self",
+     "name": "Demi Adejuyigbe",
+     "profile_path": "/mgYi7yhNhU7j9LdzHgq76s83yC0.jpg",
+     "id": 1739472
+    },
+    {
+     "character": "Self",
+     "name": "Emily Kuroda",
+     "profile_path": "/yaZhAxSsElEaX0az2U6FUBN38ET.jpg",
+     "id": 156511
+    },
+    {
+     "character": "Self",
+     "name": "George Anthony Bell",
+     "profile_path": "/tbi1BJrrU6wVoScpKESZ6E2aAPM.jpg",
+     "id": 154189
+    },
+    {
+     "character": "Self",
+     "name": "Grant-Lee Phillips",
+     "profile_path": "/tEydXVkQlvZ5LgyY9G72FYaScf.jpg",
+     "id": 206972
     }
    ],
-   "links": [
+   "credits_crew": [
     {
-     "name": "7.2",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8488126"
+     "department": "Directing",
+     "job": "Director",
+     "name": "Meghna Balakumar",
+     "profile_path": "/5I3bZOS6mgCtx490JPC0o5vSLdf.jpg",
+     "id": 5648920
     },
     {
-     "name": "The Inventor: Out for Blood in Silicon Valley",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-inventor-out-for-blood-in-silicon-valley-8488126"
+     "department": "Directing",
+     "job": "Director",
+     "name": "Kevin Konrad Hanna",
+     "profile_path": "/rwhNTNNwtCq7dIS2zI5ywT2VP7B.jpg",
+     "id": 2440849
     },
     {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Alex Gibney",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alex%20Gibney"
-    },
-    {
-     "name": "Elizabeth Holmes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Elizabeth%20Holmes"
-    },
-    {
-     "name": "Dan Ariely",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dan%20Ariely"
-    },
-    {
-     "name": "Alex Gibney",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alex%20Gibney"
-    },
-    {
-     "name": "Alex Gibney",
-     "category": "Directors",
-     "url": "stremio:///search?search=Alex%20Gibney"
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jim Demonakos",
+     "profile_path": null,
+     "id": 3030578
     }
+   ],
+   "director": [
+    "Meghna Balakumar",
+    "Kevin Konrad Hanna"
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt8488126",
+    "defaultVideoId": "tt38040871",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8488126.jpg"
-  },
-  {
-   "id": "tt36057363",
-   "name": "Cozy Fireplace",
-   "releaseInfo": "2025",
-   "runtime": "24 min",
-   "language": "None",
-   "country": "United States",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt36057363/img"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38040871.jpg",
+   "imdbRating": "9.2"
   }
  ]
 }
