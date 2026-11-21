@@ -1082,20 +1082,28 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0206512.jpg"
   },
   {
-   "status": "Ended",
-   "id": "tt38213355",
-   "imdbRating": "8.8",
-   "name": "Winx Club: Discovering Italy's Magic",
-   "releaseInfo": "2023",
-   "language": "English",
-   "country": "Italy",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
+   "cast": [
+    "Buster Crabbe",
+    "Jean Rogers",
+    "Frank Shannon",
+    "Charles Middleton",
+    "Beatrice Roberts",
+    "Donald Kerr",
+    "Richard Alexander",
+    "C. Montague Shaw"
+   ],
+   "id": "tt0030138",
    "type": "series",
+   "name": "Flash Gordon (1936-1940)",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38213355.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0030138.jpg",
+   "releaseInfo": "1938",
+   "genres": [
+    "Ficção científica",
+    "Ação",
+    "Aventura"
+   ],
+   "imdbRating": "6.9"
   }
  ]
 }
