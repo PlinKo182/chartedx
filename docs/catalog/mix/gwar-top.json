@@ -94,48 +94,171 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17491088.jpg"
   },
   {
-   "awards": "Won 1 BAFTA Award2 wins & 9 nominations total",
+   "awards": "1 nomination total",
    "cast": [
-    "Eddie Redmayne",
-    "Clémence Poésy",
-    "Matthew Goode"
+    "Harrison Ford",
+    "Robert Shaw",
+    "Edward Fox"
    ],
-   "country": "United Kingdom",
-   "description": "Enquanto um soldado Inglês luta nas trincheiras horríveis do norte da França, ele é assombrado pelas lembranças de seu amor proibido com uma mulher francesa.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "United Kingdom, United States",
+   "description": "Segunda Guerra Mundial, 1943. Mallory e Miller, os heróis de Navarone, são enviados à Iugoslávia em busca de um fantasma do passado.",
+   "director": [
+    "Guy Hamilton"
+   ],
+   "dvdRelease": "2008-09-16T00:00:00.000Z",
    "genre": [
+    "Action",
     "Drama",
-    "Romance",
     "War"
    ],
-   "imdbRating": "7.3",
-   "name": "Birdsong",
-   "released": "2012-04-22T00:00:00.000Z",
-   "runtime": "165 min",
-   "status": "Ended",
-   "trailers": [],
-   "writer": null,
-   "year": "2012",
-   "background": "https://images.metahub.space/background/medium/tt1127876/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1127876/img",
-   "id": "tt1127876",
-   "genres": [
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2012",
-   "trailerStreams": [],
-   "links": [
+   "imdbRating": "6.4",
+   "name": "Force 10 from Navarone",
+   "released": "1978-12-08T00:00:00.000Z",
+   "runtime": "114 min",
+   "trailers": [
     {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1127876"
+     "source": "V3gA-Gnm6hQ",
+     "type": "Trailer"
     },
     {
-     "name": "Birdsong",
+     "source": "1fqnR05az6o",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Alistair MacLean",
+    "Robin Chapman",
+    "Carl Foreman"
+   ],
+   "year": "1978",
+   "background": "https://images.metahub.space/background/medium/tt0077572/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0077572/img",
+   "id": "tt0077572",
+   "genres": [
+    "Drama",
+    "Aventura",
+    "Guerra"
+   ],
+   "releaseInfo": "1978",
+   "trailerStreams": [
+    {
+     "title": "Force 10 from Navarone",
+     "ytId": "V3gA-Gnm6hQ"
+    },
+    {
+     "title": "Force 10 from Navarone",
+     "ytId": "1fqnR05az6o"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0077572"
+    },
+    {
+     "name": "Force 10 from Navarone",
      "category": "share",
-     "url": "https://www.strem.io/s/series/birdsong-1127876"
+     "url": "https://www.strem.io/s/movie/force-10-from-navarone-0077572"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Harrison Ford",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harrison%20Ford"
+    },
+    {
+     "name": "Robert Shaw",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Shaw"
+    },
+    {
+     "name": "Edward Fox",
+     "category": "Cast",
+     "url": "stremio:///search?search=Edward%20Fox"
+    },
+    {
+     "name": "Alistair MacLean",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alistair%20MacLean"
+    },
+    {
+     "name": "Robin Chapman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robin%20Chapman"
+    },
+    {
+     "name": "Carl Foreman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Carl%20Foreman"
+    },
+    {
+     "name": "Guy Hamilton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Guy%20Hamilton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0077572",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0077572.jpg"
+  },
+  {
+   "name": "Sisi: Austrian Empress",
+   "cast": [
+    "Jannik Schümann",
+    "Dominique Devenport",
+    "David Korbmann"
+   ],
+   "country": "Germany, Austria",
+   "description": "Após a proclamação da república em França, o clamor pela democracia cresce entre o povo austríaco. Perante a tensa situação política, Franz sente-se pressionado a enviar o príncipe herdeiro, Rudolf, para o treino militar, antes do combinado com Sissi. Horrorizada e convencida de que o filho de nove anos de idade não irá resistir aos métodos brutais do quartel, Sissi não vê outra opção senão fugir de Viena e levar o príncipe para uma ilha no sul da França. Franz, entretanto, tem de enfrentar desafios políticos internos e externos.\n\nÀ medida que aumentam as revoltas do movimento operário em Viena e que o equilíbrio monárquico de poder na Europa muda, o casal imperial enfrenta o que é provavelmente o seu maior teste.",
+   "genre": [
+    "Drama",
+    "History",
+    "War"
+   ],
+   "imdbRating": "7.1",
+   "released": "2021-12-12T00:00:00.000Z",
+   "year": "2021–",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "awards": "1 win & 8 nominations",
+   "runtime": "49 min",
+   "background": "https://images.metahub.space/background/medium/tt11269100/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11269100/img",
+   "id": "tt11269100",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2021",
+   "links": [
+    {
+     "name": "7.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11269100"
+    },
+    {
+     "name": "Sisi: Austrian Empress",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/sisi-austrian-empress-11269100"
     },
     {
      "name": "Drama",
@@ -143,9 +266,9 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Romance",
+     "name": "History",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
      "name": "War",
@@ -153,19 +276,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
     },
     {
-     "name": "Eddie Redmayne",
+     "name": "Jannik Schümann",
      "category": "Cast",
-     "url": "stremio:///search?search=Eddie%20Redmayne"
+     "url": "stremio:///search?search=Jannik%20Sch%C3%BCmann"
     },
     {
-     "name": "Clémence Poésy",
+     "name": "Dominique Devenport",
      "category": "Cast",
-     "url": "stremio:///search?search=Cl%C3%A9mence%20Po%C3%A9sy"
+     "url": "stremio:///search?search=Dominique%20Devenport"
     },
     {
-     "name": "Matthew Goode",
+     "name": "David Korbmann",
      "category": "Cast",
-     "url": "stremio:///search?search=Matthew%20Goode"
+     "url": "stremio:///search?search=David%20Korbmann"
     }
    ],
    "behaviorHints": {
@@ -174,7 +297,94 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1127876.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11269100.jpg"
+  },
+  {
+   "awards": "3 wins & 8 nominations total",
+   "cast": [
+    "Bertie Carvel",
+    "Eddie Marsan",
+    "Marc Warren"
+   ],
+   "country": "United Kingdom",
+   "description": "In an alternate history, during the time of real life Napoleonic Wars, two men of destiny, the gifted recluse Mr. Norrell and daring spellcasting novice Jonathan Strange, use magic to help England.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Fantasy",
+    "War"
+   ],
+   "imdbRating": "8.0",
+   "name": "Jonathan Strange & Mr Norrell",
+   "released": "2015-06-13T00:00:00.000Z",
+   "runtime": "60 min",
+   "status": "Ended",
+   "writer": null,
+   "year": "2015",
+   "background": "https://images.metahub.space/background/medium/tt2548418/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2548418/img",
+   "trailers": [
+    {
+     "source": "iE1nsOoTJos",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt2548418",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2015",
+   "trailerStreams": [
+    {
+     "title": "Jonathan Strange & Mr Norrell",
+     "ytId": "iE1nsOoTJos"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2548418"
+    },
+    {
+     "name": "Jonathan Strange & Mr Norrell",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/jonathan-strange-mr-norrell-2548418"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
+    },
+    {
+     "name": "Bertie Carvel",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bertie%20Carvel"
+    },
+    {
+     "name": "Eddie Marsan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eddie%20Marsan"
+    },
+    {
+     "name": "Marc Warren",
+     "category": "Cast",
+     "url": "stremio:///search?search=Marc%20Warren"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2548418.jpg"
   },
   {
    "name": "The Last Kingdom",
@@ -310,209 +520,102 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4179452.jpg"
   },
   {
-   "awards": "1 nomination total",
+   "name": "Lioness",
    "cast": [
-    "Harrison Ford",
-    "Robert Shaw",
-    "Edward Fox"
+    "Zoe Saldaña",
+    "Laysla De Oliveira",
+    "Dave Annable"
    ],
-   "country": "United Kingdom, United States",
-   "description": "Segunda Guerra Mundial, 1943. Mallory e Miller, os heróis de Navarone, são enviados à Iugoslávia em busca de um fantasma do passado.",
-   "director": [
-    "Guy Hamilton"
-   ],
-   "dvdRelease": "2008-09-16T00:00:00.000Z",
+   "country": "United States",
+   "description": "Joe é a líder do grupo de contraterrorismo Lioness, da CIA, encarregue de treinar, gerir e liderar uma equipa agentes que se infiltram nas linha inimigas, tanto dentro como fora dos EUA – porque o verdadeiro perigo está muitas vezes dentro de portas.",
    "genre": [
     "Action",
     "Drama",
-    "War"
+    "Thriller"
    ],
-   "imdbRating": "6.4",
-   "name": "Force 10 from Navarone",
-   "released": "1978-12-08T00:00:00.000Z",
-   "runtime": "114 min",
+   "imdbRating": "7.8",
+   "released": "2023-07-23T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2023–",
    "trailers": [
     {
-     "source": "V3gA-Gnm6hQ",
+     "source": "uEjcXhW7CXo",
      "type": "Trailer"
     },
     {
-     "source": "1fqnR05az6o",
+     "source": "KYoIoCOw-ac",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Alistair MacLean",
-    "Robin Chapman",
-    "Carl Foreman"
-   ],
-   "year": "1978",
-   "background": "https://images.metahub.space/background/medium/tt0077572/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0077572/img",
-   "id": "tt0077572",
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt13111078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13111078/img",
+   "awards": "Nominated for 1 Primetime Emmy. 7 wins & 16 nominations total",
+   "id": "tt13111078",
    "genres": [
     "Drama",
-    "Aventura",
-    "Guerra"
+    "War & Politics"
    ],
-   "releaseInfo": "1978",
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Force 10 from Navarone",
-     "ytId": "V3gA-Gnm6hQ"
+     "title": "Lioness",
+     "ytId": "uEjcXhW7CXo"
     },
     {
-     "title": "Force 10 from Navarone",
-     "ytId": "1fqnR05az6o"
+     "title": "Lioness",
+     "ytId": "KYoIoCOw-ac"
     }
    ],
    "links": [
     {
-     "name": "6.4",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0077572"
+     "url": "https://imdb.com/title/tt13111078"
     },
     {
-     "name": "Force 10 from Navarone",
+     "name": "Lioness",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/force-10-from-navarone-0077572"
+     "url": "https://www.strem.io/s/series/lioness-13111078"
     },
     {
      "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
     },
     {
      "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "War",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
     },
     {
-     "name": "Harrison Ford",
+     "name": "Zoe Saldaña",
      "category": "Cast",
-     "url": "stremio:///search?search=Harrison%20Ford"
+     "url": "stremio:///search?search=Zoe%20Salda%C3%B1a"
     },
     {
-     "name": "Robert Shaw",
+     "name": "Laysla De Oliveira",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Shaw"
+     "url": "stremio:///search?search=Laysla%20De%20Oliveira"
     },
     {
-     "name": "Edward Fox",
+     "name": "Dave Annable",
      "category": "Cast",
-     "url": "stremio:///search?search=Edward%20Fox"
+     "url": "stremio:///search?search=Dave%20Annable"
     },
     {
-     "name": "Alistair MacLean",
+     "name": "Taylor Sheridan",
      "category": "Writers",
-     "url": "stremio:///search?search=Alistair%20MacLean"
-    },
-    {
-     "name": "Robin Chapman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robin%20Chapman"
-    },
-    {
-     "name": "Carl Foreman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Carl%20Foreman"
-    },
-    {
-     "name": "Guy Hamilton",
-     "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Hamilton"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0077572",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0077572.jpg"
-  },
-  {
-   "awards": "3 wins & 8 nominations total",
-   "cast": [
-    "Bertie Carvel",
-    "Eddie Marsan",
-    "Marc Warren"
-   ],
-   "country": "United Kingdom",
-   "description": "In an alternate history, during the time of real life Napoleonic Wars, two men of destiny, the gifted recluse Mr. Norrell and daring spellcasting novice Jonathan Strange, use magic to help England.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Fantasy",
-    "War"
-   ],
-   "imdbRating": "8.0",
-   "name": "Jonathan Strange & Mr Norrell",
-   "released": "2015-06-13T00:00:00.000Z",
-   "runtime": "60 min",
-   "status": "Ended",
-   "writer": null,
-   "year": "2015",
-   "background": "https://images.metahub.space/background/medium/tt2548418/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2548418/img",
-   "trailers": [
-    {
-     "source": "iE1nsOoTJos",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt2548418",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [
-    {
-     "title": "Jonathan Strange & Mr Norrell",
-     "ytId": "iE1nsOoTJos"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2548418"
-    },
-    {
-     "name": "Jonathan Strange & Mr Norrell",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/jonathan-strange-mr-norrell-2548418"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
-    },
-    {
-     "name": "Bertie Carvel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bertie%20Carvel"
-    },
-    {
-     "name": "Eddie Marsan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Eddie%20Marsan"
-    },
-    {
-     "name": "Marc Warren",
-     "category": "Cast",
-     "url": "stremio:///search?search=Marc%20Warren"
+     "url": "stremio:///search?search=Taylor%20Sheridan"
     }
    ],
    "behaviorHints": {
@@ -521,7 +624,90 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2548418.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13111078.jpg"
+  },
+  {
+   "awards": "Won 1 BAFTA Award2 wins & 9 nominations total",
+   "cast": [
+    "Eddie Redmayne",
+    "Clémence Poésy",
+    "Matthew Goode"
+   ],
+   "country": "United Kingdom",
+   "description": "Enquanto um soldado Inglês luta nas trincheiras horríveis do norte da França, ele é assombrado pelas lembranças de seu amor proibido com uma mulher francesa.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Drama",
+    "Romance",
+    "War"
+   ],
+   "imdbRating": "7.3",
+   "name": "Birdsong",
+   "released": "2012-04-22T00:00:00.000Z",
+   "runtime": "165 min",
+   "status": "Ended",
+   "trailers": [],
+   "writer": null,
+   "year": "2012",
+   "background": "https://images.metahub.space/background/medium/tt1127876/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1127876/img",
+   "id": "tt1127876",
+   "genres": [
+    "Drama",
+    "War & Politics"
+   ],
+   "releaseInfo": "2012",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1127876"
+    },
+    {
+     "name": "Birdsong",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/birdsong-1127876"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
+    },
+    {
+     "name": "Eddie Redmayne",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eddie%20Redmayne"
+    },
+    {
+     "name": "Clémence Poésy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Cl%C3%A9mence%20Po%C3%A9sy"
+    },
+    {
+     "name": "Matthew Goode",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Goode"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1127876.jpg"
   },
   {
    "awards": "Won 6 Primetime Emmys. 34 wins & 26 nominations total",
@@ -618,6 +804,158 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185906.jpg"
+  },
+  {
+   "name": "Pressure",
+   "awards": "1 win total",
+   "cast": [
+    "Andrew Scott",
+    "Brendan Fraser",
+    "Kerry Condon"
+   ],
+   "country": "United Kingdom, France, United States",
+   "description": "Nas tensas 72 horas que antecederam o Dia D, o general Dwight D. Eisenhower e o capitão James Stagg enfrentam uma escolha impossível: lançar a invasão marítima mais perigosa da história ou arriscar-se a perder completamente a guerra.",
+   "director": [
+    "Anthony Maras"
+   ],
+   "genre": [
+    "Drama",
+    "History",
+    "Thriller"
+   ],
+   "imdbRating": "7.3",
+   "released": "2026-05-29T00:00:00.000Z",
+   "writer": [
+    "David Haig",
+    "Anthony Maras"
+   ],
+   "year": "2026",
+   "runtime": "101 min",
+   "trailers": [
+    {
+     "source": "jjdOSchcobk",
+     "type": "Trailer"
+    },
+    {
+     "source": "EBh1LGRwiis",
+     "type": "Trailer"
+    },
+    {
+     "source": "urSij5ZVhBc",
+     "type": "Trailer"
+    },
+    {
+     "source": "xcPgrKoXe_c",
+     "type": "Trailer"
+    },
+    {
+     "source": "_gQwG9Xi13g",
+     "type": "Trailer"
+    },
+    {
+     "source": "zdM4tdLQBg0",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt32547691/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32547691/img",
+   "id": "tt32547691",
+   "genres": [
+    "Thriller",
+    "História",
+    "Guerra"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Pressure",
+     "ytId": "jjdOSchcobk"
+    },
+    {
+     "title": "Pressure",
+     "ytId": "EBh1LGRwiis"
+    },
+    {
+     "title": "Pressure",
+     "ytId": "urSij5ZVhBc"
+    },
+    {
+     "title": "Pressure",
+     "ytId": "xcPgrKoXe_c"
+    },
+    {
+     "title": "Pressure",
+     "ytId": "_gQwG9Xi13g"
+    },
+    {
+     "title": "Pressure",
+     "ytId": "zdM4tdLQBg0"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32547691"
+    },
+    {
+     "name": "Pressure",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/pressure-32547691"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Andrew Scott",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrew%20Scott"
+    },
+    {
+     "name": "Brendan Fraser",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brendan%20Fraser"
+    },
+    {
+     "name": "Kerry Condon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kerry%20Condon"
+    },
+    {
+     "name": "David Haig",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Haig"
+    },
+    {
+     "name": "Anthony Maras",
+     "category": "Writers",
+     "url": "stremio:///search?search=Anthony%20Maras"
+    },
+    {
+     "name": "Anthony Maras",
+     "category": "Directors",
+     "url": "stremio:///search?search=Anthony%20Maras"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32547691",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32547691.jpg"
   },
   {
    "name": "Vinland Saga",
@@ -719,292 +1057,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10233448.jpg"
-  },
-  {
-   "name": "Sisi: Austrian Empress",
-   "cast": [
-    "Jannik Schümann",
-    "Dominique Devenport",
-    "David Korbmann"
-   ],
-   "country": "Germany, Austria",
-   "description": "Após a proclamação da república em França, o clamor pela democracia cresce entre o povo austríaco. Perante a tensa situação política, Franz sente-se pressionado a enviar o príncipe herdeiro, Rudolf, para o treino militar, antes do combinado com Sissi. Horrorizada e convencida de que o filho de nove anos de idade não irá resistir aos métodos brutais do quartel, Sissi não vê outra opção senão fugir de Viena e levar o príncipe para uma ilha no sul da França. Franz, entretanto, tem de enfrentar desafios políticos internos e externos.\n\nÀ medida que aumentam as revoltas do movimento operário em Viena e que o equilíbrio monárquico de poder na Europa muda, o casal imperial enfrenta o que é provavelmente o seu maior teste.",
-   "genre": [
-    "Drama",
-    "History",
-    "War"
-   ],
-   "imdbRating": "7.1",
-   "released": "2021-12-12T00:00:00.000Z",
-   "year": "2021–",
-   "status": "Ended",
-   "director": [],
-   "writer": [],
-   "awards": "1 win & 8 nominations",
-   "runtime": "49 min",
-   "background": "https://images.metahub.space/background/medium/tt11269100/img",
-   "logo": "https://images.metahub.space/logo/medium/tt11269100/img",
-   "id": "tt11269100",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2021",
-   "links": [
-    {
-     "name": "7.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt11269100"
-    },
-    {
-     "name": "Sisi: Austrian Empress",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/sisi-austrian-empress-11269100"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
-    },
-    {
-     "name": "Jannik Schümann",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jannik%20Sch%C3%BCmann"
-    },
-    {
-     "name": "Dominique Devenport",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dominique%20Devenport"
-    },
-    {
-     "name": "David Korbmann",
-     "category": "Cast",
-     "url": "stremio:///search?search=David%20Korbmann"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11269100.jpg"
-  },
-  {
-   "name": "Years and Years",
-   "cast": [
-    "Anne Reid",
-    "Rory Kinnear",
-    "Jessica Hynes"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "“Years and Years” segue os Lyon, uma atarefada família de Manchester.",
-   "imdbRating": "8.2",
-   "released": "2019-06-24T00:00:00.000Z",
-   "year": "2019",
-   "status": "Ended",
-   "director": [],
-   "genre": [
-    "Drama",
-    "Sci-Fi"
-   ],
-   "writer": [
-    "Russell T. Davies"
-   ],
-   "runtime": "60 min",
-   "background": "https://images.metahub.space/background/medium/tt8694364/img",
-   "logo": "https://images.metahub.space/logo/medium/tt8694364/img",
-   "awards": "1 win & 17 nominations total",
-   "trailers": [
-    {
-     "source": "SY41jhIP_xI",
-     "type": "Trailer"
-    },
-    {
-     "source": "lSOo4_7Pccg",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt8694364",
-   "genres": [
-    "Drama",
-    "War & Politics",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2019",
-   "trailerStreams": [
-    {
-     "title": "Years and Years",
-     "ytId": "SY41jhIP_xI"
-    },
-    {
-     "title": "Years and Years",
-     "ytId": "lSOo4_7Pccg"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt8694364"
-    },
-    {
-     "name": "Years and Years",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/years-and-years-8694364"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Anne Reid",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Reid"
-    },
-    {
-     "name": "Rory Kinnear",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rory%20Kinnear"
-    },
-    {
-     "name": "Jessica Hynes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jessica%20Hynes"
-    },
-    {
-     "name": "Russell T. Davies",
-     "category": "Writers",
-     "url": "stremio:///search?search=Russell%20T.%20Davies"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8694364.jpg"
-  },
-  {
-   "name": "Gunpowder",
-   "year": "2017",
-   "genre": [
-    "Drama",
-    "History"
-   ],
-   "released": "2017-12-18T00:00:00.000Z",
-   "cast": [
-    "Kit Harington",
-    "Andy Lucas",
-    "Derek Riddell"
-   ],
-   "imdbRating": "6.5",
-   "description": "Inglaterra, 1605. O ativista britânico Guy Fawkes e um grupo de católicos liderados por Robert Catesby planejam explodir a Casa dos Lordes e matar o rei protestante James I e os membros do Parlamento inglês. Mas para levar adiante esta conspiração, eles precisam enfrentar muitos desafios.",
-   "country": "United Kingdom",
-   "status": "Ended",
-   "director": [],
-   "writer": [
-    "Ronan Bennett",
-    "Kit Harington",
-    "Daniel West"
-   ],
-   "runtime": "60 min",
-   "background": "https://images.metahub.space/background/medium/tt6128262/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6128262/img",
-   "awards": "Nominated for 1 BAFTA Award. 4 nominations total",
-   "trailers": [
-    {
-     "source": "wBFcpJfxEFk",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt6128262",
-   "genres": [
-    "War & Politics",
-    "Drama"
-   ],
-   "releaseInfo": "2017",
-   "trailerStreams": [
-    {
-     "title": "Gunpowder",
-     "ytId": "wBFcpJfxEFk"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6128262"
-    },
-    {
-     "name": "Gunpowder",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/gunpowder-6128262"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
-    },
-    {
-     "name": "Kit Harington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kit%20Harington"
-    },
-    {
-     "name": "Andy Lucas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andy%20Lucas"
-    },
-    {
-     "name": "Derek Riddell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Derek%20Riddell"
-    },
-    {
-     "name": "Ronan Bennett",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
-    },
-    {
-     "name": "Kit Harington",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kit%20Harington"
-    },
-    {
-     "name": "Daniel West",
-     "category": "Writers",
-     "url": "stremio:///search?search=Daniel%20West"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6128262.jpg"
   }
  ]
 }

@@ -382,49 +382,240 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   },
   {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "name": "The Odyssey",
+   "cast": [
+    "Matt Damon",
+    "Tom Holland",
+    "Anne Hathaway"
+   ],
+   "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
+   "description": "Após o fim da Guerra de Troia, Ulisses, o lendário rei de Ítaca, embarca numa longa e perigosa viagem de regresso a casa. Durante dez anos de provações, enfrenta a fúria dos deuses e cruza-se com figuras míticas como o ciclope Polifemo, as sereias e a feiticeira Circe. Determinado a sobreviver, tenta voltar para junto da esposa, Penélope, e do filho, Telémaco, e recuperar o seu reino.",
+   "director": [
+    "Christopher Nolan"
+   ],
+   "imdbRating": "8.4",
+   "released": "2026-07-17T00:00:00.000Z",
+   "writer": [
+    "Christopher Nolan",
+    "Homer"
+   ],
+   "year": "2026",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+   ],
+   "trailers": [
+    {
+     "source": "AyIZ9tiiN8I",
+     "type": "Trailer"
+    },
+    {
+     "source": "f_bKjZeJBBI",
+     "type": "Trailer"
+    },
+    {
+     "source": "Mzw2ttJD2qQ",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33764258/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33764258/img",
+   "runtime": "173 min",
+   "awards": "3 wins total",
+   "id": "tt33764258",
+   "genres": [
+    "Aventura",
+    "Ação",
+    "Fantasia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Odyssey",
+     "ytId": "AyIZ9tiiN8I"
+    },
+    {
+     "title": "The Odyssey",
+     "ytId": "f_bKjZeJBBI"
+    },
+    {
+     "title": "The Odyssey",
+     "ytId": "Mzw2ttJD2qQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33764258"
+    },
+    {
+     "name": "The Odyssey",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-odyssey-33764258"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Matt Damon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Damon"
+    },
+    {
+     "name": "Tom Holland",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Holland"
+    },
+    {
+     "name": "Anne Hathaway",
+     "category": "Cast",
+     "url": "stremio:///search?search=Anne%20Hathaway"
+    },
+    {
+     "name": "Christopher Nolan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Christopher%20Nolan"
+    },
+    {
+     "name": "Homer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Homer"
+    },
+    {
+     "name": "Christopher Nolan",
+     "category": "Directors",
+     "url": "stremio:///search?search=Christopher%20Nolan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33764258",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33764258.jpg"
+  },
+  {
+   "name": "Dexter: Resurrection",
+   "cast": [
+    "Michael C. Hall",
+    "Uma Thurman",
+    "Ntare Guma Mbaho Mwine"
+   ],
+   "country": "United States",
+   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
+   "imdbRating": "9.0",
+   "released": "2025-07-11T00:00:00.000Z",
+   "writer": [
+    "Clyde Phillips"
+   ],
+   "year": "2025–",
+   "runtime": "52 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "nTOf1FIsBcs",
+     "type": "Trailer"
+    },
+    {
+     "source": "84o1Q6fB20k",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33043892/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
+   "awards": "3 wins & 12 nominations total",
+   "id": "tt33043892",
    "genres": [
     "Crime",
     "Drama",
     "Mistério"
    ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
+   "releaseInfo": "2025",
+   "trailerStreams": [
     {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
+     "title": "Dexter: Resurrection",
+     "ytId": "nTOf1FIsBcs"
+    },
+    {
+     "title": "Dexter: Resurrection",
+     "ytId": "84o1Q6fB20k"
     }
    ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
+   "links": [
     {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
+     "name": "9.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33043892"
+    },
+    {
+     "name": "Dexter: Resurrection",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Michael C. Hall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20C.%20Hall"
+    },
+    {
+     "name": "Uma Thurman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Uma%20Thurman"
+    },
+    {
+     "name": "Ntare Guma Mbaho Mwine",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
+    },
+    {
+     "name": "Clyde Phillips",
+     "category": "Writers",
+     "url": "stremio:///search?search=Clyde%20Phillips"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
   },
   {
    "name": "The End of Oak Street",
@@ -659,329 +850,98 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-   "imdbRating": "7.8"
+   "imdbRating": "7.7"
   },
   {
-   "name": "Dexter: Resurrection",
-   "cast": [
-    "Michael C. Hall",
-    "Uma Thurman",
-    "Ntare Guma Mbaho Mwine"
-   ],
-   "country": "United States",
-   "description": "Dexter Morgan acorda de um coma e parte para a cidade de Nova Iorque, determinado a encontrar Harrison e corrigir o que ficou por resolver. Mas a chegada de Angel Batista, da polícia de Miami, com várias perguntas faz Dexter perceber que o passado está a apanhar-lhe o rasto, a toda a velocidade.",
-   "imdbRating": "9.0",
-   "released": "2025-07-11T00:00:00.000Z",
-   "writer": [
-    "Clyde Phillips"
-   ],
-   "year": "2025–",
-   "runtime": "52 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "nTOf1FIsBcs",
-     "type": "Trailer"
-    },
-    {
-     "source": "84o1Q6fB20k",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33043892/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33043892/img",
-   "awards": "3 wins & 12 nominations total",
-   "id": "tt33043892",
+   "id": "tt47021035",
+   "logo": "https://live.metahub.space/logo/medium/tt47021035/img",
+   "background": "https://live.metahub.space/background/medium/tt47021035/img",
+   "name": "Cunk on Cinema",
+   "description": "Philomena Cunk asks experts all of the hard-hitting questions about the history of cinema, from the invention of the camera, to the New Wave filmmakers of the 60s, right up to the entrance of CGI and what the future of AI holds. Cunk will attempt to demystify it all while sitting in lumpy seats with stale popcorn, asking herself where did cinema come from? And why? What does it want? And why can't it tell us?",
    "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "nTOf1FIsBcs"
-    },
-    {
-     "title": "Dexter: Resurrection",
-     "ytId": "84o1Q6fB20k"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33043892"
-    },
-    {
-     "name": "Dexter: Resurrection",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/dexter-resurrection-33043892"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Michael C. Hall",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20C.%20Hall"
-    },
-    {
-     "name": "Uma Thurman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Uma%20Thurman"
-    },
-    {
-     "name": "Ntare Guma Mbaho Mwine",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ntare%20Guma%20Mbaho%20Mwine"
-    },
-    {
-     "name": "Clyde Phillips",
-     "category": "Writers",
-     "url": "stremio:///search?search=Clyde%20Phillips"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
-  },
-  {
-   "name": "The Odyssey",
-   "cast": [
-    "Matt Damon",
-    "Tom Holland",
-    "Anne Hathaway"
-   ],
-   "country": "United Kingdom, United States, Canada, New Zealand, Iceland",
-   "description": "Após o fim da Guerra de Troia, Ulisses, o lendário rei de Ítaca, embarca numa longa e perigosa viagem de regresso a casa. Durante dez anos de provações, enfrenta a fúria dos deuses e cruza-se com figuras míticas como o ciclope Polifemo, as sereias e a feiticeira Circe. Determinado a sobreviver, tenta voltar para junto da esposa, Penélope, e do filho, Telémaco, e recuperar o seu reino.",
-   "director": [
-    "Christopher Nolan"
-   ],
-   "imdbRating": "8.4",
-   "released": "2026-07-17T00:00:00.000Z",
-   "writer": [
-    "Christopher Nolan",
-    "Homer"
-   ],
-   "year": "2026",
-   "genre": [
-    "Action",
-    "Adventure",
-    "Fantasy"
-   ],
-   "trailers": [
-    {
-     "source": "AyIZ9tiiN8I",
-     "type": "Trailer"
-    },
-    {
-     "source": "f_bKjZeJBBI",
-     "type": "Trailer"
-    },
-    {
-     "source": "Mzw2ttJD2qQ",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33764258/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33764258/img",
-   "runtime": "173 min",
-   "awards": "3 wins total",
-   "id": "tt33764258",
-   "genres": [
-    "Aventura",
-    "Ação",
-    "Fantasia"
+    "Comédia",
+    "Documentário"
    ],
    "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Odyssey",
-     "ytId": "AyIZ9tiiN8I"
-    },
-    {
-     "title": "The Odyssey",
-     "ytId": "f_bKjZeJBBI"
-    },
-    {
-     "title": "The Odyssey",
-     "ytId": "Mzw2ttJD2qQ"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33764258"
-    },
-    {
-     "name": "The Odyssey",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-odyssey-33764258"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Matt Damon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Matt%20Damon"
-    },
-    {
-     "name": "Tom Holland",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Holland"
-    },
-    {
-     "name": "Anne Hathaway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Hathaway"
-    },
-    {
-     "name": "Christopher Nolan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Christopher%20Nolan"
-    },
-    {
-     "name": "Homer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Homer"
-    },
-    {
-     "name": "Christopher Nolan",
-     "category": "Directors",
-     "url": "stremio:///search?search=Christopher%20Nolan"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt33764258",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33764258.jpg"
-  },
-  {
-   "id": "tt31842126",
-   "logo": "https://live.metahub.space/logo/medium/tt31842126/img",
-   "background": "https://live.metahub.space/background/medium/tt31842126/img",
-   "name": "The Good Daughter",
-   "description": "The Good Daughter acompanha duas irmãs afastadas que se reencontram após uma situação perigosa em uma escola de sua cidade natal.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
+   "status": "Upcoming",
    "trailers": [
     {
-     "source": "Kjwbn5AF_3E",
+     "source": "_qD_dLCMa3w",
+     "type": "Trailer"
+    },
+    {
+     "source": "MAV4nDKZetY",
      "type": "Trailer"
     }
    ],
    "cast": [
-    "Rose Byrne",
-    "Meghann Fahy",
-    "Brendan Gleeson"
+    "Diane Morgan"
    ],
    "credits_cast": [
     {
-     "character": "Samantha Quinn",
-     "name": "Rose Byrne",
-     "profile_path": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
-     "id": 9827
-    },
-    {
-     "character": "Charlotte Quinn",
-     "name": "Meghann Fahy",
-     "profile_path": "/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
-     "id": 1028899
-    },
-    {
-     "character": "Rusty",
-     "name": "Brendan Gleeson",
-     "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
-     "id": 2039
-    },
-    {
-     "character": "Lenore",
-     "name": "Harper Steele",
-     "profile_path": "/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg",
-     "id": 1215937
-    },
-    {
-     "character": "Ben",
-     "name": "Michael Dorman",
-     "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
-     "id": 76068
-    },
-    {
-     "character": "Young Sam",
-     "name": "Audrey Grace Marshall",
-     "profile_path": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg",
-     "id": 1918851
-    },
-    {
-     "character": "Young Charlie",
-     "name": "Drew Cheek",
-     "profile_path": null,
-     "id": 5319631
-    },
-    {
-     "character": "Harriet 'Gamma' Quinn",
-     "name": "Olivia Williams",
-     "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
-     "id": 11616
+     "character": "Philomena Cunk",
+     "name": "Diane Morgan",
+     "profile_path": "/46Mdcr9ycOaLCKApoj101Cx1c1S.jpg",
+     "id": 1543364
     }
    ],
    "credits_crew": [],
    "director": [],
    "language": "English",
-   "country": "United States",
+   "country": "United Kingdom",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
-   "imdbRating": "7.7"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47021035.jpg",
+   "imdbRating": "7.4"
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
   }
  ]
 }

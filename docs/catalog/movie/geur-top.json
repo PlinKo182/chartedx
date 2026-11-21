@@ -253,63 +253,88 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1483013.jpg"
   },
   {
-   "name": "Security",
-   "year": "2017",
-   "runtime": "87 min",
+   "awards": "Won 1 BAFTA Award. 28 wins & 44 nominations total",
+   "cast": [
+    "Daniel Craig",
+    "Eva Green",
+    "Judi Dench"
+   ],
+   "country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy",
+   "description": "Casino Royale narra o início de carreira de James Bond e a sua primeira missão como “007”, onde vai tentar deter Le Chiffre, o banqueiro dos terroristas. Bond tem de o bater num jogo de poker de alto risco no Casino Royale. Ao seu lado vai ter a ajuda da contabilista Vesper Lynd, enviada para vigiar o dinheiro com que ele irá jogar. Mas, aos poucos, desenvolve-se uma atracção mútua que os conduzirá a situações ainda mais perigosas, e a uma sucessão de eventos que mudará a vida de Bond para sempre.",
+   "director": [
+    "Martin Campbell"
+   ],
+   "dvdRelease": "2016-11-30T00:00:00.000Z",
    "genre": [
     "Action",
-    "Crime",
+    "Adventure",
     "Thriller"
    ],
-   "released": "2017-03-04T00:00:00.000Z",
-   "director": [
-    "Alain Desrochers"
-   ],
-   "writer": [
-    "Tony Mosher",
-    "John Sullivan"
-   ],
-   "cast": [
-    "Antonio Banderas",
-    "Ben Kingsley",
-    "Liam McIntyre"
-   ],
-   "imdbRating": "5.8",
-   "description": "Um antigo soldado das forças especiais aceita emprego como segurança num centro comercial degradado numa área pobre da cidade.  Na primeira noite de trabalho, abre as portas a uma menina  perturbada que escapou a uma tentativa de rapto após um ataque à escolta policial que a transportava para testemunhar em tribunal. No seu encalço vem o grupo que a tentou matar.",
-   "country": "United States",
-   "awards": null,
-   "dvdRelease": "2017-08-04T00:00:00.000Z",
+   "imdbRating": "8.0",
+   "name": "Casino Royale",
+   "released": "2006-11-17T00:00:00.000Z",
+   "runtime": "144 min",
    "trailers": [
     {
-     "source": "zbOqeh8VYCI",
+     "source": "p7D4U5YsZlM",
+     "type": "Trailer"
+    },
+    {
+     "source": "U4NT78c-pYs",
+     "type": "Trailer"
+    },
+    {
+     "source": "y3jX45gi-Dc",
+     "type": "Trailer"
+    },
+    {
+     "source": "GV_18deeAXk",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt3501112/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3501112/img",
-   "id": "tt3501112",
-   "genres": [
-    "Ação",
-    "Thriller",
-    "Crime"
+   "writer": [
+    "Neal Purvis",
+    "Robert Wade",
+    "Paul Haggis"
    ],
-   "releaseInfo": "2017",
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0381061/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0381061/img",
+   "id": "tt0381061",
+   "genres": [
+    "Aventura",
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
    "trailerStreams": [
     {
-     "title": "Security",
-     "ytId": "zbOqeh8VYCI"
+     "title": "Casino Royale",
+     "ytId": "p7D4U5YsZlM"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "U4NT78c-pYs"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "y3jX45gi-Dc"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "GV_18deeAXk"
     }
    ],
    "links": [
     {
-     "name": "5.8",
+     "name": "8.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3501112"
+     "url": "https://imdb.com/title/tt0381061"
     },
     {
-     "name": "Security",
+     "name": "Casino Royale",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/security-3501112"
+     "url": "https://www.strem.io/s/movie/casino-royale-0381061"
     },
     {
      "name": "Action",
@@ -317,9 +342,9 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Crime",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
      "name": "Thriller",
@@ -327,43 +352,189 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Antonio Banderas",
+     "name": "Daniel Craig",
      "category": "Cast",
-     "url": "stremio:///search?search=Antonio%20Banderas"
+     "url": "stremio:///search?search=Daniel%20Craig"
     },
     {
-     "name": "Ben Kingsley",
+     "name": "Eva Green",
      "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Kingsley"
+     "url": "stremio:///search?search=Eva%20Green"
     },
     {
-     "name": "Liam McIntyre",
+     "name": "Judi Dench",
      "category": "Cast",
-     "url": "stremio:///search?search=Liam%20McIntyre"
+     "url": "stremio:///search?search=Judi%20Dench"
     },
     {
-     "name": "Tony Mosher",
+     "name": "Neal Purvis",
      "category": "Writers",
-     "url": "stremio:///search?search=Tony%20Mosher"
+     "url": "stremio:///search?search=Neal%20Purvis"
     },
     {
-     "name": "John Sullivan",
+     "name": "Robert Wade",
      "category": "Writers",
-     "url": "stremio:///search?search=John%20Sullivan"
+     "url": "stremio:///search?search=Robert%20Wade"
     },
     {
-     "name": "Alain Desrochers",
+     "name": "Paul Haggis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20Haggis"
+    },
+    {
+     "name": "Martin Campbell",
      "category": "Directors",
-     "url": "stremio:///search?search=Alain%20Desrochers"
+     "url": "stremio:///search?search=Martin%20Campbell"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt3501112",
+    "defaultVideoId": "tt0381061",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3501112.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0381061.jpg"
+  },
+  {
+   "name": "A Monster Calls",
+   "trailers": [
+    {
+     "source": "8q-7trUd8Vw",
+     "type": "Trailer"
+    },
+    {
+     "source": "WMgm20Di9Wg",
+     "type": "Trailer"
+    },
+    {
+     "source": "oaGOEUVl-U8",
+     "type": "Trailer"
+    },
+    {
+     "source": "uW_GNKVuZ1c",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famonstercalls_188526%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famonstercalls_188526%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/188526/images/masterrepository/fandango/188526/amcos_325_m90v40.jpg\" alt=\"A Monster Calls\" title=\"A Monster Calls\" border=\"0\" /></a> Now Playing</p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famonstercalls_188526%2fmovieoverview%3fwssaffid%3d11840%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2famonstercalls-trailer%2f188526%3fwssaffid%3d11840%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576760?url=http%3a%2f%2fwww.fandango.com%2famonstercalls_188526%2fmovietimes%3fwssaffid%3d11840%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>"
+   },
+   "year": "2017",
+   "runtime": "108 min",
+   "genre": [
+    "Adventure",
+    "Drama",
+    "Family"
+   ],
+   "released": "2017-01-06T00:00:00.000Z",
+   "director": [
+    "J.A. Bayona"
+   ],
+   "writer": [
+    "Patrick Ness",
+    "Siobhan Dowd"
+   ],
+   "cast": [
+    "Lewis MacDougall",
+    "Sigourney Weaver",
+    "Felicity Jones"
+   ],
+   "imdbRating": "7.4",
+   "description": "Para escapar ao seu quotidiano dividido entre a doença da sua mãe e as repetidas humilhações dos seus colegas de turma, um jovem rapaz refugia-se num mundo imaginário digno de conto de fadas, onde vive sentimentos de coragem, de medo, de compaixão, de fé e de perda.",
+   "country": "Spain, United States",
+   "awards": "39 wins & 57 nominations total",
+   "dvdRelease": "2017-03-14T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt3416532/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3416532/img",
+   "id": "tt3416532",
+   "genres": [
+    "Fantasia",
+    "Aventura",
+    "Família"
+   ],
+   "releaseInfo": "2016",
+   "trailerStreams": [
+    {
+     "title": "A Monster Calls",
+     "ytId": "8q-7trUd8Vw"
+    },
+    {
+     "title": "A Monster Calls",
+     "ytId": "WMgm20Di9Wg"
+    },
+    {
+     "title": "A Monster Calls",
+     "ytId": "oaGOEUVl-U8"
+    },
+    {
+     "title": "A Monster Calls",
+     "ytId": "uW_GNKVuZ1c"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3416532"
+    },
+    {
+     "name": "A Monster Calls",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/a-monster-calls-3416532"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Lewis MacDougall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lewis%20MacDougall"
+    },
+    {
+     "name": "Sigourney Weaver",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sigourney%20Weaver"
+    },
+    {
+     "name": "Felicity Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Felicity%20Jones"
+    },
+    {
+     "name": "Patrick Ness",
+     "category": "Writers",
+     "url": "stremio:///search?search=Patrick%20Ness"
+    },
+    {
+     "name": "Siobhan Dowd",
+     "category": "Writers",
+     "url": "stremio:///search?search=Siobhan%20Dowd"
+    },
+    {
+     "name": "J.A. Bayona",
+     "category": "Directors",
+     "url": "stremio:///search?search=J.A.%20Bayona"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3416532",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3416532.jpg"
   },
   {
    "awards": "15 wins & 34 nominations total",
@@ -513,163 +684,73 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1951266.jpg"
   },
   {
-   "name": "Balas & Bolinhos",
-   "year": "2001",
-   "runtime": "62 min",
+   "name": "Security",
+   "year": "2017",
+   "runtime": "87 min",
    "genre": [
-    "Comedy",
-    "Crime"
-   ],
-   "released": "2001-02-23T00:00:00.000Z",
-   "director": [
-    "Luis Ismael"
-   ],
-   "writer": [
-    "Luis Ismael"
-   ],
-   "cast": [
-    "Jorge Neto",
-    "Luis Ismael",
-    "J.D. Duarte"
-   ],
-   "imdbRating": "6.3",
-   "description": "Tone, a mente brilhante do crime, saiu da prisão e voltou cheio de ideias. Depois de reunir os seus antigos companheiros, tudo está preparado para o golpe final. Desta vez é que vai ser... Vai haver dinheiro a jorrar por todos os lados...  E porque o Tone é demais, os seus companheiros seguem à risca o plano, sem mais questões! O resultado... só vendo para crer!",
-   "country": "Portugal",
-   "awards": null,
-   "dvdRelease": null,
-   "trailers": [],
-   "background": "https://images.metahub.space/background/medium/tt0414850/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0414850/img",
-   "id": "tt0414850",
-   "genres": [
-    "Comédia",
-    "Crime"
-   ],
-   "releaseInfo": "2001",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0414850"
-    },
-    {
-     "name": "Balas & Bolinhos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/balas-bolinhos-0414850"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Jorge Neto",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jorge%20Neto"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "J.D. Duarte",
-     "category": "Cast",
-     "url": "stremio:///search?search=J.D.%20Duarte"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Writers",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    },
-    {
-     "name": "Luis Ismael",
-     "category": "Directors",
-     "url": "stremio:///search?search=Luis%20Ismael"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0414850",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414850.jpg"
-  },
-  {
-   "awards": "1 nomination total",
-   "cast": [
-    "Emmanuelle Béart",
-    "François Cluzet",
-    "Nathalie Cardone"
-   ],
-   "country": "France",
-   "description": "Paul acaba de comprar um encantador hotel à beira-mar na França, endividando-se pelos próximos 10 anos. Ao ir trabalhar com a bela esposa, e com um filho a caminho, Paul começa a desconfiar de sua parceira depois de pegá-la em situações ambíguas com os hóspedes.",
-   "director": [
-    "Claude Chabrol"
-   ],
-   "dvdRelease": "2017-03-06T00:00:00.000Z",
-   "genre": [
+    "Action",
     "Crime",
-    "Drama",
     "Thriller"
    ],
-   "imdbRating": "7.0",
-   "name": "Hell",
-   "released": "1994-11-01T00:00:00.000Z",
-   "runtime": "102 min",
+   "released": "2017-03-04T00:00:00.000Z",
+   "director": [
+    "Alain Desrochers"
+   ],
+   "writer": [
+    "Tony Mosher",
+    "John Sullivan"
+   ],
+   "cast": [
+    "Antonio Banderas",
+    "Ben Kingsley",
+    "Liam McIntyre"
+   ],
+   "imdbRating": "5.8",
+   "description": "Um antigo soldado das forças especiais aceita emprego como segurança num centro comercial degradado numa área pobre da cidade.  Na primeira noite de trabalho, abre as portas a uma menina  perturbada que escapou a uma tentativa de rapto após um ataque à escolta policial que a transportava para testemunhar em tribunal. No seu encalço vem o grupo que a tentou matar.",
+   "country": "United States",
+   "awards": null,
+   "dvdRelease": "2017-08-04T00:00:00.000Z",
    "trailers": [
     {
-     "source": "wH9guGtDJ7A",
+     "source": "zbOqeh8VYCI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Claude Chabrol",
-    "Henri-Georges Clouzot",
-    "Jean Ferry"
-   ],
-   "year": "1994",
-   "background": "https://images.metahub.space/background/medium/tt0109731/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0109731/img",
-   "id": "tt0109731",
+   "background": "https://images.metahub.space/background/medium/tt3501112/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3501112/img",
+   "id": "tt3501112",
    "genres": [
-    "Drama",
-    "Thriller"
+    "Ação",
+    "Thriller",
+    "Crime"
    ],
-   "releaseInfo": "1994",
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Hell",
-     "ytId": "wH9guGtDJ7A"
+     "title": "Security",
+     "ytId": "zbOqeh8VYCI"
     }
    ],
    "links": [
     {
-     "name": "7.0",
+     "name": "5.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0109731"
+     "url": "https://imdb.com/title/tt3501112"
     },
     {
-     "name": "Hell",
+     "name": "Security",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/hell-0109731"
+     "url": "https://www.strem.io/s/movie/security-3501112"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
      "name": "Crime",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
      "name": "Thriller",
@@ -677,48 +758,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Emmanuelle Béart",
+     "name": "Antonio Banderas",
      "category": "Cast",
-     "url": "stremio:///search?search=Emmanuelle%20B%C3%A9art"
+     "url": "stremio:///search?search=Antonio%20Banderas"
     },
     {
-     "name": "François Cluzet",
+     "name": "Ben Kingsley",
      "category": "Cast",
-     "url": "stremio:///search?search=Fran%C3%A7ois%20Cluzet"
+     "url": "stremio:///search?search=Ben%20Kingsley"
     },
     {
-     "name": "Nathalie Cardone",
+     "name": "Liam McIntyre",
      "category": "Cast",
-     "url": "stremio:///search?search=Nathalie%20Cardone"
+     "url": "stremio:///search?search=Liam%20McIntyre"
     },
     {
-     "name": "Claude Chabrol",
+     "name": "Tony Mosher",
      "category": "Writers",
-     "url": "stremio:///search?search=Claude%20Chabrol"
+     "url": "stremio:///search?search=Tony%20Mosher"
     },
     {
-     "name": "Henri-Georges Clouzot",
+     "name": "John Sullivan",
      "category": "Writers",
-     "url": "stremio:///search?search=Henri-Georges%20Clouzot"
+     "url": "stremio:///search?search=John%20Sullivan"
     },
     {
-     "name": "Jean Ferry",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jean%20Ferry"
-    },
-    {
-     "name": "Claude Chabrol",
+     "name": "Alain Desrochers",
      "category": "Directors",
-     "url": "stremio:///search?search=Claude%20Chabrol"
+     "url": "stremio:///search?search=Alain%20Desrochers"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0109731",
+    "defaultVideoId": "tt3501112",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0109731.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3501112.jpg"
   },
   {
    "name": "Jungle",
@@ -831,6 +907,96 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3758172.jpg"
+  },
+  {
+   "name": "Balas & Bolinhos",
+   "year": "2001",
+   "runtime": "62 min",
+   "genre": [
+    "Comedy",
+    "Crime"
+   ],
+   "released": "2001-02-23T00:00:00.000Z",
+   "director": [
+    "Luis Ismael"
+   ],
+   "writer": [
+    "Luis Ismael"
+   ],
+   "cast": [
+    "Jorge Neto",
+    "Luis Ismael",
+    "J.D. Duarte"
+   ],
+   "imdbRating": "6.3",
+   "description": "Tone, a mente brilhante do crime, saiu da prisão e voltou cheio de ideias. Depois de reunir os seus antigos companheiros, tudo está preparado para o golpe final. Desta vez é que vai ser... Vai haver dinheiro a jorrar por todos os lados...  E porque o Tone é demais, os seus companheiros seguem à risca o plano, sem mais questões! O resultado... só vendo para crer!",
+   "country": "Portugal",
+   "awards": null,
+   "dvdRelease": null,
+   "trailers": [],
+   "background": "https://images.metahub.space/background/medium/tt0414850/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0414850/img",
+   "id": "tt0414850",
+   "genres": [
+    "Comédia",
+    "Crime"
+   ],
+   "releaseInfo": "2001",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0414850"
+    },
+    {
+     "name": "Balas & Bolinhos",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/balas-bolinhos-0414850"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Jorge Neto",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jorge%20Neto"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Cast",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "J.D. Duarte",
+     "category": "Cast",
+     "url": "stremio:///search?search=J.D.%20Duarte"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Writers",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    },
+    {
+     "name": "Luis Ismael",
+     "category": "Directors",
+     "url": "stremio:///search?search=Luis%20Ismael"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0414850",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414850.jpg"
   },
   {
    "name": "The Death of Stalin",
@@ -968,65 +1134,68 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4686844.jpg"
   },
   {
-   "awards": "Nominated for 3 Oscars. 6 wins & 11 nominations total",
+   "awards": "1 nomination total",
    "cast": [
-    "Robert De Niro",
-    "Robin Williams",
-    "Julie Kavner"
+    "Emmanuelle Béart",
+    "François Cluzet",
+    "Nathalie Cardone"
    ],
-   "country": "United States",
-   "description": "O Dr. Malcolm Sayer é um tímido médico de pesquisa, que utiliza um medicamento experimental para \"despertar\" vítimas catatónicas de uma doença rara. Leonard é o primeiro paciente a receber o controverso tratamento. O seu despertar, cheio de espanto e entusiasmo, prova ser um renascimento também para Sayer, à medida que o exuberante paciente revela os pequenos, mas relevantes, prazeres da vida ao introvertido doutor. Encorajado pela fantástica recuperação de Leonard, Sayer administra o medicamento a outros pacientes.",
+   "country": "France",
+   "description": "Paul acaba de comprar um encantador hotel à beira-mar na França, endividando-se pelos próximos 10 anos. Ao ir trabalhar com a bela esposa, e com um filho a caminho, Paul começa a desconfiar de sua parceira depois de pegá-la em situações ambíguas com os hóspedes.",
    "director": [
-    "Penny Marshall"
+    "Claude Chabrol"
    ],
-   "dvdRelease": "2008-09-15T00:00:00.000Z",
+   "dvdRelease": "2017-03-06T00:00:00.000Z",
    "genre": [
-    "Biography",
-    "Drama"
+    "Crime",
+    "Drama",
+    "Thriller"
    ],
-   "imdbRating": "7.8",
-   "name": "Awakenings",
-   "released": "1991-01-11T00:00:00.000Z",
-   "runtime": "120 min",
+   "imdbRating": "7.0",
+   "name": "Hell",
+   "released": "1994-11-01T00:00:00.000Z",
+   "runtime": "102 min",
    "trailers": [
     {
-     "source": "7exeVt7CaE4",
+     "source": "wH9guGtDJ7A",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "Oliver Sacks",
-    "Steven Zaillian"
+    "Claude Chabrol",
+    "Henri-Georges Clouzot",
+    "Jean Ferry"
    ],
-   "year": "1991",
-   "background": "https://images.metahub.space/background/medium/tt0099077/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0099077/img",
-   "id": "tt0099077",
+   "year": "1994",
+   "background": "https://images.metahub.space/background/medium/tt0109731/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0109731/img",
+   "id": "tt0109731",
    "genres": [
-    "Drama"
+    "Drama",
+    "Thriller"
    ],
-   "releaseInfo": "1990",
+   "releaseInfo": "1994",
    "trailerStreams": [
     {
-     "title": "Awakenings",
-     "ytId": "7exeVt7CaE4"
+     "title": "Hell",
+     "ytId": "wH9guGtDJ7A"
     }
    ],
    "links": [
     {
-     "name": "7.8",
+     "name": "7.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0099077"
+     "url": "https://imdb.com/title/tt0109731"
     },
     {
-     "name": "Awakenings",
+     "name": "Hell",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/awakenings-0099077"
+     "url": "https://www.strem.io/s/movie/hell-0109731"
     },
     {
-     "name": "Biography",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -1034,142 +1203,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Robert De Niro",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20De%20Niro"
-    },
-    {
-     "name": "Robin Williams",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robin%20Williams"
-    },
-    {
-     "name": "Julie Kavner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julie%20Kavner"
-    },
-    {
-     "name": "Oliver Sacks",
-     "category": "Writers",
-     "url": "stremio:///search?search=Oliver%20Sacks"
-    },
-    {
-     "name": "Steven Zaillian",
-     "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Zaillian"
-    },
-    {
-     "name": "Penny Marshall",
-     "category": "Directors",
-     "url": "stremio:///search?search=Penny%20Marshall"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0099077",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0099077.jpg"
-  },
-  {
-   "awards": null,
-   "cast": [
-    "Corinne Cléry",
-    "Udo Kier",
-    "Anthony Steel"
-   ],
-   "country": "France, West Germany, Canada",
-   "description": "\"O\" é uma mulher livre e independente, que é levada por seu amante René a um castelo situado em Roissy, perto de Paris, onde ela se torna uma escrava de René e outros homens. No castelo, \"O\" é marcada a ferro quente com as iniciais de seu mestre e é submetida, por sua própria vontade e consentimento, a uma variedade de práticas sexuais sadomasoquistas.",
-   "director": [
-    "Just Jaeckin"
-   ],
-   "dvdRelease": "2002-12-10T00:00:00.000Z",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "5.3",
-   "name": "The Story of O",
-   "released": "1975-11-14T00:00:00.000Z",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "Gdrh0ZPAtqE",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "Sébastien Japrisot",
-    "Dominique Aury"
-   ],
-   "year": "1975",
-   "background": "https://images.metahub.space/background/medium/tt0073115/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0073115/img",
-   "id": "tt0073115",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "1975",
-   "trailerStreams": [
-    {
-     "title": "The Story of O",
-     "ytId": "Gdrh0ZPAtqE"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0073115"
-    },
-    {
-     "name": "The Story of O",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-story-of-o-0073115"
-    },
-    {
-     "name": "Drama",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Corinne Cléry",
+     "name": "Emmanuelle Béart",
      "category": "Cast",
-     "url": "stremio:///search?search=Corinne%20Cl%C3%A9ry"
+     "url": "stremio:///search?search=Emmanuelle%20B%C3%A9art"
     },
     {
-     "name": "Udo Kier",
+     "name": "François Cluzet",
      "category": "Cast",
-     "url": "stremio:///search?search=Udo%20Kier"
+     "url": "stremio:///search?search=Fran%C3%A7ois%20Cluzet"
     },
     {
-     "name": "Anthony Steel",
+     "name": "Nathalie Cardone",
      "category": "Cast",
-     "url": "stremio:///search?search=Anthony%20Steel"
+     "url": "stremio:///search?search=Nathalie%20Cardone"
     },
     {
-     "name": "Sébastien Japrisot",
+     "name": "Claude Chabrol",
      "category": "Writers",
-     "url": "stremio:///search?search=S%C3%A9bastien%20Japrisot"
+     "url": "stremio:///search?search=Claude%20Chabrol"
     },
     {
-     "name": "Dominique Aury",
+     "name": "Henri-Georges Clouzot",
      "category": "Writers",
-     "url": "stremio:///search?search=Dominique%20Aury"
+     "url": "stremio:///search?search=Henri-Georges%20Clouzot"
     },
     {
-     "name": "Just Jaeckin",
+     "name": "Jean Ferry",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jean%20Ferry"
+    },
+    {
+     "name": "Claude Chabrol",
      "category": "Directors",
-     "url": "stremio:///search?search=Just%20Jaeckin"
+     "url": "stremio:///search?search=Claude%20Chabrol"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0073115",
+    "defaultVideoId": "tt0109731",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0073115.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0109731.jpg"
   }
  ]
 }
