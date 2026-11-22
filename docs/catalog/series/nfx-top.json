@@ -13,7 +13,7 @@
     "Horror",
     "Thriller"
    ],
-   "imdbRating": "7.5",
+   "imdbRating": "7.4",
    "name": "The Body",
    "released": "2026-11-11T00:00:00.000Z",
    "writer": [
@@ -191,7 +191,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
-   "imdbRating": "5.4"
+   "imdbRating": "6.3"
   },
   {
    "id": "tt38707741",
@@ -279,7 +279,65 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg",
-   "imdbRating": "6.3"
+   "imdbRating": "6.4"
+  },
+  {
+   "id": "tt44079238",
+   "logo": "https://live.metahub.space/logo/medium/tt44079238/img",
+   "background": "https://live.metahub.space/background/medium/tt44079238/img",
+   "name": "The Law of Beasts",
+   "description": "Quando o caso de uma criança assassina em série ressurge, 25 anos mais tarde, como um problema jurídico e social por resolver, dois antigos amigos veem-se forçados a confrontar as escolhas que destruíram a sua amizade e moldaram as suas vidas.",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Agnieszka Grochowska",
+    "Agnieszka Żulewska",
+    "Michał Pawlik"
+   ],
+   "credits_cast": [
+    {
+     "character": "Anna Bersz",
+     "name": "Agnieszka Grochowska",
+     "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg",
+     "id": 105562
+    },
+    {
+     "character": "Agnieszka Grabska",
+     "name": "Agnieszka Żulewska",
+     "profile_path": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg",
+     "id": 1527552
+    },
+    {
+     "character": "Mariusz Trynkiewicz",
+     "name": "Michał Pawlik",
+     "profile_path": "/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg",
+     "id": 2458673
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Edyta Krajewska",
+     "profile_path": null,
+     "id": 4466260
+    }
+   ],
+   "director": [],
+   "country": "Mexico, Poland",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44079238.jpg",
+   "imdbRating": "6.1"
   },
   {
    "name": "The Empress",
@@ -378,64 +436,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
-  },
-  {
-   "id": "tt44079238",
-   "logo": "https://live.metahub.space/logo/medium/tt44079238/img",
-   "background": "https://live.metahub.space/background/medium/tt44079238/img",
-   "name": "The Law of Beasts",
-   "description": "Quando o caso de uma criança assassina em série ressurge, 25 anos mais tarde, como um problema jurídico e social por resolver, dois antigos amigos veem-se forçados a confrontar as escolhas que destruíram a sua amizade e moldaram as suas vidas.",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Agnieszka Grochowska",
-    "Agnieszka Żulewska",
-    "Michał Pawlik"
-   ],
-   "credits_cast": [
-    {
-     "character": "Anna Bersz",
-     "name": "Agnieszka Grochowska",
-     "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg",
-     "id": 105562
-    },
-    {
-     "character": "Agnieszka Grabska",
-     "name": "Agnieszka Żulewska",
-     "profile_path": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg",
-     "id": 1527552
-    },
-    {
-     "character": "Mariusz Trynkiewicz",
-     "name": "Michał Pawlik",
-     "profile_path": "/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg",
-     "id": 2458673
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Edyta Krajewska",
-     "profile_path": null,
-     "id": 4466260
-    }
-   ],
-   "director": [],
-   "country": "Mexico, Poland",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44079238.jpg",
-   "imdbRating": "6.0"
   },
   {
    "id": "tt2531336",
@@ -624,6 +624,93 @@
    "imdbRating": "7.0"
   },
   {
+   "awards": null,
+   "cast": [
+    "Michael Coulthard",
+    "Charles Robinson",
+    "John Layfield"
+   ],
+   "country": "United States",
+   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Sport"
+   ],
+   "imdbRating": "7.3",
+   "name": "WWE Smackdown!",
+   "released": "1999-04-27T00:00:00.000Z",
+   "runtime": "87 min",
+   "status": "Continuing",
+   "writer": [
+    "Vince McMahon",
+    "Dusty Rhodes"
+   ],
+   "year": "1999–",
+   "background": "https://images.metahub.space/background/medium/tt0227972/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
+   "id": "tt0227972",
+   "genres": [
+    "Reality"
+   ],
+   "releaseInfo": "1999",
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0227972"
+    },
+    {
+     "name": "WWE Smackdown!",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Sport",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
+    },
+    {
+     "name": "Michael Coulthard",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Coulthard"
+    },
+    {
+     "name": "Charles Robinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Charles%20Robinson"
+    },
+    {
+     "name": "John Layfield",
+     "category": "Cast",
+     "url": "stremio:///search?search=John%20Layfield"
+    },
+    {
+     "name": "Vince McMahon",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20McMahon"
+    },
+    {
+     "name": "Dusty Rhodes",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dusty%20Rhodes"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
+  },
+  {
    "id": "tt39390491",
    "logo": "https://live.metahub.space/logo/medium/tt39390491/img",
    "background": "https://live.metahub.space/background/medium/tt39390491/img",
@@ -690,100 +777,6 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39390491.jpg",
    "imdbRating": "5.1"
-  },
-  {
-   "awards": "15 wins & 29 nominations total",
-   "cast": [
-    "Omari Hardwick",
-    "Lela Loren",
-    "Naturi Naughton"
-   ],
-   "country": "United States",
-   "description": "James Ghost St. Patrick é um rico e bem-sucedido dono de uma boate de Nova York. Ele quer construir um império, mas tem só um problema: Ghost leva uma vida dupla. Quando não está no clube, ele é o chefe de uma das mais lucrativas redes de droga de Nova York, e lida com uma clientela de alto nível. Seu casamento, trabalho e família ficam ameaçados quando ele tenta sair do tráfico.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "8.1",
-   "name": "Power",
-   "released": "2014-06-07T00:00:00.000Z",
-   "runtime": "61 min",
-   "status": "Ended",
-   "writer": [
-    "Courtney A. Kemp"
-   ],
-   "year": "2014–2020",
-   "background": "https://images.metahub.space/background/medium/tt3281796/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3281796/img",
-   "trailers": [
-    {
-     "source": "w7fuOkF74Zw",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt3281796",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2014",
-   "trailerStreams": [
-    {
-     "title": "Power",
-     "ytId": "w7fuOkF74Zw"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt3281796"
-    },
-    {
-     "name": "Power",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/power-3281796"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Omari Hardwick",
-     "category": "Cast",
-     "url": "stremio:///search?search=Omari%20Hardwick"
-    },
-    {
-     "name": "Lela Loren",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lela%20Loren"
-    },
-    {
-     "name": "Naturi Naughton",
-     "category": "Cast",
-     "url": "stremio:///search?search=Naturi%20Naughton"
-    },
-    {
-     "name": "Courtney A. Kemp",
-     "category": "Writers",
-     "url": "stremio:///search?search=Courtney%20A.%20Kemp"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3281796.jpg"
   }
  ]
 }

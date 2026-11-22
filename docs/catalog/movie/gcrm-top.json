@@ -357,74 +357,61 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34385135.jpg"
   },
   {
-   "name": "The Drama",
-   "country": "United States",
-   "description": "Um casal apaixonado vê a sua relação ser posta à prova quando um acontecimento inesperado transforma a semana do casamento num verdadeiro caos.",
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
-   ],
-   "imdbRating": "7.1",
-   "released": "2026-04-03T00:00:00.000Z",
-   "year": "2026",
+   "name": "Verity",
    "cast": [
-    "Zendaya",
-    "Robert Pattinson",
-    "Alana Haim"
+    "Anne Hathaway",
+    "Dakota Johnson",
+    "Josh Hartnett"
    ],
+   "country": "United States",
+   "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
    "director": [
-    "Kristoffer Borgli"
+    "Michael Showalter"
    ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "6.0",
+   "released": "2026-10-02T00:00:00.000Z",
    "writer": [
-    "Kristoffer Borgli"
+    "Nick Antosca",
+    "Colleen Hoover",
+    "Will Honley"
    ],
-   "background": "https://images.metahub.space/background/medium/tt33071426/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33071426/img",
-   "runtime": "105 min",
+   "year": "2026",
+   "runtime": "114 min",
    "trailers": [
     {
-     "source": "0ZDzsH3XGFA",
-     "type": "Trailer"
-    },
-    {
-     "source": "6zmKcUa4Xxk",
+     "source": "xdPMKhjMSFs",
      "type": "Trailer"
     }
    ],
-   "awards": "8 nominations total",
-   "id": "tt33071426",
+   "background": "https://images.metahub.space/background/medium/tt32261958/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
+   "id": "tt32261958",
    "genres": [
-    "Romance",
-    "Comédia",
-    "Drama"
+    "Mistério",
+    "Thriller"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Drama",
-     "ytId": "0ZDzsH3XGFA"
-    },
-    {
-     "title": "The Drama",
-     "ytId": "6zmKcUa4Xxk"
+     "title": "Verity",
+     "ytId": "xdPMKhjMSFs"
     }
    ],
    "links": [
     {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33071426"
-    },
-    {
-     "name": "The Drama",
+     "name": "Verity",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-drama-33071426"
+     "url": "https://www.strem.io/s/movie/verity-32261958"
     },
     {
-     "name": "Comedy",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -432,43 +419,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Romance",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Zendaya",
+     "name": "Anne Hathaway",
      "category": "Cast",
-     "url": "stremio:///search?search=Zendaya"
+     "url": "stremio:///search?search=Anne%20Hathaway"
     },
     {
-     "name": "Robert Pattinson",
+     "name": "Dakota Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Pattinson"
+     "url": "stremio:///search?search=Dakota%20Johnson"
     },
     {
-     "name": "Alana Haim",
+     "name": "Josh Hartnett",
      "category": "Cast",
-     "url": "stremio:///search?search=Alana%20Haim"
+     "url": "stremio:///search?search=Josh%20Hartnett"
     },
     {
-     "name": "Kristoffer Borgli",
+     "name": "Nick Antosca",
      "category": "Writers",
-     "url": "stremio:///search?search=Kristoffer%20Borgli"
+     "url": "stremio:///search?search=Nick%20Antosca"
     },
     {
-     "name": "Kristoffer Borgli",
+     "name": "Colleen Hoover",
+     "category": "Writers",
+     "url": "stremio:///search?search=Colleen%20Hoover"
+    },
+    {
+     "name": "Will Honley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Will%20Honley"
+    },
+    {
+     "name": "Michael Showalter",
      "category": "Directors",
-     "url": "stremio:///search?search=Kristoffer%20Borgli"
+     "url": "stremio:///search?search=Michael%20Showalter"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt33071426",
+    "defaultVideoId": "tt32261958",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33071426.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
   },
   {
    "name": "Sicario",
@@ -712,117 +709,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0471042.jpg"
   },
   {
-   "name": "Verity",
-   "cast": [
-    "Anne Hathaway",
-    "Dakota Johnson",
-    "Josh Hartnett"
-   ],
-   "country": "United States",
-   "description": "Lowen Ashleigh é contratada por Jeremy Crawford para escrever romances para a sua mulher, Verity, uma autora de sucesso que não consegue terminar os seus livros após um acidente. Lowen descobre verdades perturbadoras sobre Verity enquanto vive na casa dos Crawford para trabalhar.",
-   "director": [
-    "Michael Showalter"
-   ],
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "6.0",
-   "released": "2026-10-02T00:00:00.000Z",
-   "writer": [
-    "Nick Antosca",
-    "Colleen Hoover",
-    "Will Honley"
-   ],
-   "year": "2026",
-   "runtime": "114 min",
-   "trailers": [
-    {
-     "source": "xdPMKhjMSFs",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt32261958/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32261958/img",
-   "id": "tt32261958",
-   "genres": [
-    "Mistério",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Verity",
-     "ytId": "xdPMKhjMSFs"
-    }
-   ],
-   "links": [
-    {
-     "name": "Verity",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/verity-32261958"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Anne Hathaway",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anne%20Hathaway"
-    },
-    {
-     "name": "Dakota Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dakota%20Johnson"
-    },
-    {
-     "name": "Josh Hartnett",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Hartnett"
-    },
-    {
-     "name": "Nick Antosca",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Antosca"
-    },
-    {
-     "name": "Colleen Hoover",
-     "category": "Writers",
-     "url": "stremio:///search?search=Colleen%20Hoover"
-    },
-    {
-     "name": "Will Honley",
-     "category": "Writers",
-     "url": "stremio:///search?search=Will%20Honley"
-    },
-    {
-     "name": "Michael Showalter",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Showalter"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32261958",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32261958.jpg"
-  },
-  {
    "name": "The Good Liar",
    "cast": [
     "Helen Mirren",
@@ -1052,70 +938,254 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26753003.jpg"
   },
   {
-   "id": "tt50817930",
-   "logo": "https://live.metahub.space/logo/medium/tt50817930/img",
-   "background": "https://live.metahub.space/background/medium/tt50817930/img",
-   "name": "The Unthinkable Daughter",
-   "description": "Décadas depois do crime que chocou o Brasil, Suzane Von Richthofen fala em uma entrevista exclusiva sobre o assassinato de seus pais e suas consequências",
-   "genres": [
-    "Crime",
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "trailers": [],
+   "awards": "Won 1 BAFTA Award. 28 wins & 44 nominations total",
    "cast": [
-    "Suzane Von Richthofen",
-    "Felipe Zecchini Muniz",
-    "Ilana Casoy"
+    "Daniel Craig",
+    "Eva Green",
+    "Judi Dench"
    ],
-   "credits_cast": [
-    {
-     "character": "Suzane Von Richthofen",
-     "name": "Suzane Von Richthofen",
-     "profile_path": "/n45c0YDJ9XstQ11Fqf3goHTxgJn.jpg",
-     "id": 6122075
-    },
-    {
-     "character": "Felipe Zecchini Muniz",
-     "name": "Felipe Zecchini Muniz",
-     "profile_path": "/tgF0Mu5l36cEe0AcKbLMFw7EfL9.jpg",
-     "id": 6622169
-    },
-    {
-     "character": "Ilana Casoy",
-     "name": "Ilana Casoy",
-     "profile_path": "/1ptTe0nJGrG9mMTREfl84L4RPYZ.jpg",
-     "id": 2337965
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Lygia M. Barbosa",
-     "profile_path": null,
-     "id": 6622306
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Paulo Gambale (Maká)",
-     "profile_path": null,
-     "id": 3967870
-    }
-   ],
+   "country": "United States, United Kingdom, Czech Republic, Germany, Bahamas, Italy",
+   "description": "Casino Royale narra o início de carreira de James Bond e a sua primeira missão como “007”, onde vai tentar deter Le Chiffre, o banqueiro dos terroristas. Bond tem de o bater num jogo de poker de alto risco no Casino Royale. Ao seu lado vai ter a ajuda da contabilista Vesper Lynd, enviada para vigiar o dinheiro com que ele irá jogar. Mas, aos poucos, desenvolve-se uma atracção mútua que os conduzirá a situações ainda mais perigosas, e a uma sucessão de eventos que mudará a vida de Bond para sempre.",
    "director": [
-    "Lygia M. Barbosa",
-    "Paulo Gambale (Maká)"
+    "Martin Campbell"
+   ],
+   "dvdRelease": "2016-11-30T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "imdbRating": "8.0",
+   "name": "Casino Royale",
+   "released": "2006-11-17T00:00:00.000Z",
+   "runtime": "144 min",
+   "trailers": [
+    {
+     "source": "p7D4U5YsZlM",
+     "type": "Trailer"
+    },
+    {
+     "source": "U4NT78c-pYs",
+     "type": "Trailer"
+    },
+    {
+     "source": "y3jX45gi-Dc",
+     "type": "Trailer"
+    },
+    {
+     "source": "GV_18deeAXk",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Neal Purvis",
+    "Robert Wade",
+    "Paul Haggis"
+   ],
+   "year": "2006",
+   "background": "https://images.metahub.space/background/medium/tt0381061/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0381061/img",
+   "id": "tt0381061",
+   "genres": [
+    "Aventura",
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2006",
+   "trailerStreams": [
+    {
+     "title": "Casino Royale",
+     "ytId": "p7D4U5YsZlM"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "U4NT78c-pYs"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "y3jX45gi-Dc"
+    },
+    {
+     "title": "Casino Royale",
+     "ytId": "GV_18deeAXk"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0381061"
+    },
+    {
+     "name": "Casino Royale",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/casino-royale-0381061"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daniel Craig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Craig"
+    },
+    {
+     "name": "Eva Green",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eva%20Green"
+    },
+    {
+     "name": "Judi Dench",
+     "category": "Cast",
+     "url": "stremio:///search?search=Judi%20Dench"
+    },
+    {
+     "name": "Neal Purvis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Neal%20Purvis"
+    },
+    {
+     "name": "Robert Wade",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Wade"
+    },
+    {
+     "name": "Paul Haggis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20Haggis"
+    },
+    {
+     "name": "Martin Campbell",
+     "category": "Directors",
+     "url": "stremio:///search?search=Martin%20Campbell"
+    }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt50817930",
+    "defaultVideoId": "tt0381061",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50817930.jpg",
-   "imdbRating": "5.3"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0381061.jpg"
+  },
+  {
+   "name": "Shelter",
+   "country": "United Kingdom, United States, Canada",
+   "description": "Numa ilha costeira remota, um homem recluso salva uma jovem rapariga de uma tempestade mortal, arrastando ambos para uma situação de grande perigo. Forçado a sair do isolamento, vê-se obrigado a enfrentar um passado turbulento enquanto a protege, dando início a uma viagem intensa de sobrevivência e redenção.",
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "6.1",
+   "released": "2026-01-30T00:00:00.000Z",
+   "year": "2026",
+   "trailers": [
+    {
+     "source": "auHiLFjaIc0",
+     "type": "Trailer"
+    },
+    {
+     "source": "PPMawzJxKF4",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Jason Statham",
+    "Bodhi Rae Breathnach",
+    "Michael Shaeffer"
+   ],
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "writer": [
+    "Ward Parry"
+   ],
+   "runtime": "107 min",
+   "background": "https://images.metahub.space/background/medium/tt32357218/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32357218/img",
+   "id": "tt32357218",
+   "genres": [
+    "Ação",
+    "Crime",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Shelter",
+     "ytId": "auHiLFjaIc0"
+    },
+    {
+     "title": "Shelter",
+     "ytId": "PPMawzJxKF4"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt32357218"
+    },
+    {
+     "name": "Shelter",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/shelter-32357218"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Jason Statham",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jason%20Statham"
+    },
+    {
+     "name": "Bodhi Rae Breathnach",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bodhi%20Rae%20Breathnach"
+    },
+    {
+     "name": "Michael Shaeffer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Shaeffer"
+    },
+    {
+     "name": "Ward Parry",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ward%20Parry"
+    },
+    {
+     "name": "Ric Roman Waugh",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt32357218",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32357218.jpg"
   }
  ]
 }

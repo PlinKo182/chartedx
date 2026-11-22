@@ -215,6 +215,167 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   },
   {
+   "name": "Tony",
+   "cast": [
+    "Dominic Sessa",
+    "Antonio Banderas",
+    "Emilia Jones"
+   ],
+   "country": "United States, Canada",
+   "description": "Anthony Bourdain, com 19 anos, viaja para Provincetown e depara-se com o mundo caótico da cozinha de um restaurante, dando início a um verão que irá marcar o rumo da sua vida.",
+   "director": [
+    "Matt Johnson"
+   ],
+   "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.2",
+   "released": "2026-08-21T00:00:00.000Z",
+   "writer": [
+    "Todd Bartels",
+    "Lou Howe",
+    "Matt Johnson"
+   ],
+   "year": "2026",
+   "runtime": "107 min",
+   "trailers": [
+    {
+     "source": "k1MVnzd2aVc",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt33095251/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33095251/img",
+   "id": "tt33095251",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Tony",
+     "ytId": "k1MVnzd2aVc"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33095251"
+    },
+    {
+     "name": "Tony",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/tony-33095251"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Dominic Sessa",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dominic%20Sessa"
+    },
+    {
+     "name": "Antonio Banderas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Banderas"
+    },
+    {
+     "name": "Emilia Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emilia%20Jones"
+    },
+    {
+     "name": "Todd Bartels",
+     "category": "Writers",
+     "url": "stremio:///search?search=Todd%20Bartels"
+    },
+    {
+     "name": "Lou Howe",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lou%20Howe"
+    },
+    {
+     "name": "Matt Johnson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Johnson"
+    },
+    {
+     "name": "Matt Johnson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Matt%20Johnson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt33095251",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33095251.jpg"
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
    "name": "Project Hail Mary",
    "cast": [
     "Ryan Gosling",
@@ -362,167 +523,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg"
-  },
-  {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
-   "name": "Tony",
-   "cast": [
-    "Dominic Sessa",
-    "Antonio Banderas",
-    "Emilia Jones"
-   ],
-   "country": "United States, Canada",
-   "description": "Anthony Bourdain, com 19 anos, viaja para Provincetown e depara-se com o mundo caótico da cozinha de um restaurante, dando início a um verão que irá marcar o rumo da sua vida.",
-   "director": [
-    "Matt Johnson"
-   ],
-   "genre": [
-    "Biography",
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "7.2",
-   "released": "2026-08-21T00:00:00.000Z",
-   "writer": [
-    "Todd Bartels",
-    "Lou Howe",
-    "Matt Johnson"
-   ],
-   "year": "2026",
-   "runtime": "107 min",
-   "trailers": [
-    {
-     "source": "k1MVnzd2aVc",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt33095251/img",
-   "logo": "https://images.metahub.space/logo/medium/tt33095251/img",
-   "id": "tt33095251",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Tony",
-     "ytId": "k1MVnzd2aVc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt33095251"
-    },
-    {
-     "name": "Tony",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/tony-33095251"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Dominic Sessa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dominic%20Sessa"
-    },
-    {
-     "name": "Antonio Banderas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Antonio%20Banderas"
-    },
-    {
-     "name": "Emilia Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Emilia%20Jones"
-    },
-    {
-     "name": "Todd Bartels",
-     "category": "Writers",
-     "url": "stremio:///search?search=Todd%20Bartels"
-    },
-    {
-     "name": "Lou Howe",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lou%20Howe"
-    },
-    {
-     "name": "Matt Johnson",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matt%20Johnson"
-    },
-    {
-     "name": "Matt Johnson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Matt%20Johnson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt33095251",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33095251.jpg"
   },
   {
    "name": "Slow Horses",
