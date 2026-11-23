@@ -258,93 +258,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36786185.jpg",
-   "imdbRating": "5.5"
-  },
-  {
-   "id": "tt31842126",
-   "logo": "https://live.metahub.space/logo/medium/tt31842126/img",
-   "background": "https://live.metahub.space/background/medium/tt31842126/img",
-   "name": "The Good Daughter",
-   "description": "The Good Daughter acompanha duas irmãs afastadas que se reencontram após uma situação perigosa em uma escola de sua cidade natal.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "Kjwbn5AF_3E",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Rose Byrne",
-    "Meghann Fahy",
-    "Brendan Gleeson"
-   ],
-   "credits_cast": [
-    {
-     "character": "Samantha Quinn",
-     "name": "Rose Byrne",
-     "profile_path": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
-     "id": 9827
-    },
-    {
-     "character": "Charlotte Quinn",
-     "name": "Meghann Fahy",
-     "profile_path": "/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
-     "id": 1028899
-    },
-    {
-     "character": "Rusty",
-     "name": "Brendan Gleeson",
-     "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
-     "id": 2039
-    },
-    {
-     "character": "Lenore",
-     "name": "Harper Steele",
-     "profile_path": "/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg",
-     "id": 1215937
-    },
-    {
-     "character": "Ben",
-     "name": "Michael Dorman",
-     "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
-     "id": 76068
-    },
-    {
-     "character": "Young Sam",
-     "name": "Audrey Grace Marshall",
-     "profile_path": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg",
-     "id": 1918851
-    },
-    {
-     "character": "Young Charlie",
-     "name": "Drew Cheek",
-     "profile_path": null,
-     "id": 5319631
-    },
-    {
-     "character": "Harriet 'Gamma' Quinn",
-     "name": "Olivia Williams",
-     "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
-     "id": 11616
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
-   "imdbRating": "7.7"
+   "imdbRating": "5.8"
   },
   {
    "id": "tt41559886",
@@ -443,7 +357,187 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41559886.jpg",
-   "imdbRating": "6.5"
+   "imdbRating": "6.8"
+  },
+  {
+   "id": "tt31842126",
+   "logo": "https://live.metahub.space/logo/medium/tt31842126/img",
+   "background": "https://live.metahub.space/background/medium/tt31842126/img",
+   "name": "The Good Daughter",
+   "description": "The Good Daughter acompanha duas irmãs afastadas que se reencontram após uma situação perigosa em uma escola de sua cidade natal.",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "Kjwbn5AF_3E",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Rose Byrne",
+    "Meghann Fahy",
+    "Brendan Gleeson"
+   ],
+   "credits_cast": [
+    {
+     "character": "Samantha Quinn",
+     "name": "Rose Byrne",
+     "profile_path": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
+     "id": 9827
+    },
+    {
+     "character": "Charlotte Quinn",
+     "name": "Meghann Fahy",
+     "profile_path": "/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
+     "id": 1028899
+    },
+    {
+     "character": "Rusty",
+     "name": "Brendan Gleeson",
+     "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+     "id": 2039
+    },
+    {
+     "character": "Lenore",
+     "name": "Harper Steele",
+     "profile_path": "/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg",
+     "id": 1215937
+    },
+    {
+     "character": "Ben",
+     "name": "Michael Dorman",
+     "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
+     "id": 76068
+    },
+    {
+     "character": "Young Sam",
+     "name": "Audrey Grace Marshall",
+     "profile_path": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg",
+     "id": 1918851
+    },
+    {
+     "character": "Young Charlie",
+     "name": "Drew Cheek",
+     "profile_path": null,
+     "id": 5319631
+    },
+    {
+     "character": "Harriet 'Gamma' Quinn",
+     "name": "Olivia Williams",
+     "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
+     "id": 11616
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
+   "imdbRating": "7.7"
+  },
+  {
+   "name": "Slow Horses",
+   "cast": [
+    "Gary Oldman",
+    "Jack Lowden",
+    "Kristin Scott Thomas"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
+   "genre": [
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "8.4",
+   "released": "2022-04-01T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Mick Herron"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5875444/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
+   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
+   "runtime": "46 min",
+   "trailers": [
+    {
+     "source": "O9ZJChzPn0U",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5875444",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Slow Horses",
+     "ytId": "O9ZJChzPn0U"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5875444"
+    },
+    {
+     "name": "Slow Horses",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/slow-horses-5875444"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Gary Oldman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gary%20Oldman"
+    },
+    {
+     "name": "Jack Lowden",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20Lowden"
+    },
+    {
+     "name": "Kristin Scott Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
+    },
+    {
+     "name": "Mick Herron",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mick%20Herron"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   },
   {
    "name": "Dexter: Resurrection",
@@ -554,6 +648,159 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg"
   },
   {
+   "name": "Tulsa King",
+   "cast": [
+    "Sylvester Stallone",
+    "Andrea Savage",
+    "Martin Starr"
+   ],
+   "country": "United States",
+   "description": "Pouco depois de ser libertado da prisão após 25 anos, Dwight “The General” Manfredi, chefe da máfia de Nova Iorque, é exilado sem cerimónias pelo seu patrão para se estabelecer em Tulsa, Oklahoma. Apercebendo-se de que a sua família mafiosa pode não ter em mente os seus melhores interesses, Dwight constrói lentamente uma “tripulação” a partir de um grupo de personagens improváveis, para o ajudar a estabelecer um novo império criminoso num lugar que, para ele, pode muito bem ser outro planeta.",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "7.9",
+   "released": "2022-11-13T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2022–",
+   "director": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt16358384/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
+   "runtime": "40 min",
+   "trailers": [
+    {
+     "source": "aaQSScwZPbA",
+     "type": "Trailer"
+    },
+    {
+     "source": "PXd3tO5ITyw",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 3 Primetime Emmys. 10 nominations total",
+   "id": "tt16358384",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Tulsa King",
+     "ytId": "aaQSScwZPbA"
+    },
+    {
+     "title": "Tulsa King",
+     "ytId": "PXd3tO5ITyw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt16358384"
+    },
+    {
+     "name": "Tulsa King",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/tulsa-king-16358384"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Andrea Savage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrea%20Savage"
+    },
+    {
+     "name": "Martin Starr",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Starr"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg"
+  },
+  {
+   "id": "tt2531336",
+   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
+   "background": "https://live.metahub.space/background/medium/tt2531336/img",
+   "name": "Lupin",
+   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2021",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ga0iTWXCGa0",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Omar Sy"
+   ],
+   "credits_cast": [
+    {
+     "character": "Assane Diop",
+     "name": "Omar Sy",
+     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
+     "id": 78423
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "imdbRating": "7.5",
+   "runtime": "231 min",
+   "language": "French",
+   "country": "France, United States",
+   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
+  },
+  {
    "id": "tt26598805",
    "logo": "https://live.metahub.space/logo/medium/tt26598805/img",
    "background": "https://live.metahub.space/background/medium/tt26598805/img",
@@ -644,206 +891,6 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
    "imdbRating": "7.4"
-  },
-  {
-   "id": "tt2531336",
-   "logo": "https://live.metahub.space/logo/medium/tt2531336/img",
-   "background": "https://live.metahub.space/background/medium/tt2531336/img",
-   "name": "Lupin",
-   "description": "Inspirado pelas aventuras de Arsène Lupin, o ladrão de casaca Assane Diop está decidido a vingar o pai por uma injustiça acometida por uma família abastada.",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2021",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "ga0iTWXCGa0",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Omar Sy"
-   ],
-   "credits_cast": [
-    {
-     "character": "Assane Diop",
-     "name": "Omar Sy",
-     "profile_path": "/Uuy6WuizieB4fOIGFp0gY90Yq2.jpg",
-     "id": 78423
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "imdbRating": "7.5",
-   "runtime": "231 min",
-   "language": "French",
-   "country": "France, United States",
-   "awards": "Nominated for 1 BAFTA Award4 wins & 22 nominations total",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2531336.jpg"
-  },
-  {
-   "name": "Habeas Corpus",
-   "cast": [
-    "Marjorie Estiano",
-    "Danton Mello",
-    "Vladimir Brichta"
-   ],
-   "country": "Brazil",
-   "description": "Uma conceituada professora de Direito lidera um grupo de alunos para provar a inocência de um homem condenado, mas a sua melhor aluna esconde uma ligação ao seu passado…",
-   "genre": [
-    "Drama"
-   ],
-   "imdbRating": "6.9",
-   "released": "2026-09-23T00:00:00.000Z",
-   "year": "2026–",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39369819/img",
-   "background": "https://images.metahub.space/background/medium/tt39369819/img",
-   "id": "tt39369819",
-   "genres": [
-    "Drama",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "links": [
-    {
-     "name": "Habeas Corpus",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/habeas-corpus-39369819"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Marjorie Estiano",
-     "category": "Cast",
-     "url": "stremio:///search?search=Marjorie%20Estiano"
-    },
-    {
-     "name": "Danton Mello",
-     "category": "Cast",
-     "url": "stremio:///search?search=Danton%20Mello"
-    },
-    {
-     "name": "Vladimir Brichta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Vladimir%20Brichta"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39369819.jpg"
-  },
-  {
-   "name": "Slow Horses",
-   "cast": [
-    "Gary Oldman",
-    "Jack Lowden",
-    "Kristin Scott Thomas"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Este drama de espiões perspicaz e inteligente segue uma equipa disfuncional de agentes do MI5 e o seu patrão detestável, o famoso Jackson Lamb, enquanto navegam pelos truques e enganos do mundo da espionagem para defender a Inglaterra de forças sinistras.",
-   "genre": [
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "8.4",
-   "released": "2022-04-01T00:00:00.000Z",
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "writer": [
-    "Mick Herron"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt5875444/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5875444/img",
-   "awards": "Won 3 Primetime Emmys. 20 wins & 125 nominations total",
-   "runtime": "46 min",
-   "trailers": [
-    {
-     "source": "O9ZJChzPn0U",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt5875444",
-   "genres": [
-    "Crime",
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "Slow Horses",
-     "ytId": "O9ZJChzPn0U"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.4",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt5875444"
-    },
-    {
-     "name": "Slow Horses",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/slow-horses-5875444"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Gary Oldman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gary%20Oldman"
-    },
-    {
-     "name": "Jack Lowden",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jack%20Lowden"
-    },
-    {
-     "name": "Kristin Scott Thomas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kristin%20Scott%20Thomas"
-    },
-    {
-     "name": "Mick Herron",
-     "category": "Writers",
-     "url": "stremio:///search?search=Mick%20Herron"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg"
   }
  ]
 }

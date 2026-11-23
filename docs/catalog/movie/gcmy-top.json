@@ -269,21 +269,190 @@
    "imdbRating": "5.6"
   },
   {
-   "id": "tt37887501",
-   "behaviorHints": {
-    "defaultVideoId": "tt37887501",
-    "hasScheduledVideos": false
-   },
+   "name": "Steps",
+   "cast": [
+    "Amanda Seyfried",
+    "Daniel Radcliffe",
+    "Peter Dinklage"
+   ],
+   "country": "United States, Australia, Canada",
+   "description": "Após ser acusada de perturbar o Baile Real com uma varinha mágica roubada, uma meia-irmã incompreendida transforma acidentalmente a sua irmã num sapo e tem de se aliar à Cinderela e a um aliado improvável para salvar o reino e reescrever o final do seu conto de fadas.",
+   "director": [
+    "John Ripa",
+    "Alyce Tzue",
+    "Priscilla Wong"
+   ],
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "6.8",
+   "released": "2026-11-20T00:00:00.000Z",
+   "writer": [
+    "Jen Chuck",
+    "Felicia Ho",
+    "Riki Lindhome"
+   ],
+   "year": "2026",
+   "runtime": "102 min",
+   "trailers": [
+    {
+     "source": "tNV4i3BqUGY",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt14413964/img",
+   "background": "https://images.metahub.space/background/medium/tt14413964/img",
+   "id": "tt14413964",
+   "genres": [
+    "Animação",
+    "Família",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Steps",
+     "ytId": "tNV4i3BqUGY"
+    }
+   ],
    "links": [
     {
-     "name": "6",
+     "name": "Steps",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/steps-14413964"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Amanda Seyfried",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amanda%20Seyfried"
+    },
+    {
+     "name": "Daniel Radcliffe",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Radcliffe"
+    },
+    {
+     "name": "Peter Dinklage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Peter%20Dinklage"
+    },
+    {
+     "name": "Jen Chuck",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jen%20Chuck"
+    },
+    {
+     "name": "Felicia Ho",
+     "category": "Writers",
+     "url": "stremio:///search?search=Felicia%20Ho"
+    },
+    {
+     "name": "Riki Lindhome",
+     "category": "Writers",
+     "url": "stremio:///search?search=Riki%20Lindhome"
+    },
+    {
+     "name": "John Ripa",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20Ripa"
+    },
+    {
+     "name": "Alyce Tzue",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alyce%20Tzue"
+    },
+    {
+     "name": "Priscilla Wong",
+     "category": "Directors",
+     "url": "stremio:///search?search=Priscilla%20Wong"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt14413964",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg"
+  },
+  {
+   "name": "One Night Only",
+   "cast": [
+    "Callum Turner",
+    "Tyonne Chambers",
+    "Grace Dumdaw"
+   ],
+   "country": "United States",
+   "description": "Numa sociedade repressiva, dois desconhecidos correm contra o tempo para encontrar alguém com quem dormir na única noite do ano em que o sexo antes do casamento é legal.",
+   "director": [
+    "Will Gluck"
+   ],
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "6.0",
+   "released": "2026-08-07T00:00:00.000Z",
+   "writer": [
+    "Travis Braun"
+   ],
+   "year": "2026",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "AvKoSR3O4NQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "JRG244IfrRE",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt37853455/img",
+   "logo": "https://images.metahub.space/logo/medium/tt37853455/img",
+   "id": "tt37853455",
+   "genres": [
+    "Romance",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "One Night Only",
+     "ytId": "AvKoSR3O4NQ"
+    },
+    {
+     "title": "One Night Only",
+     "ytId": "JRG244IfrRE"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt37887501"
+     "url": "https://imdb.com/title/tt37853455"
     },
     {
      "name": "One Night Only",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/one-night-only-37887501"
+     "url": "https://www.strem.io/s/movie/one-night-only-37853455"
     },
     {
      "name": "Comedy",
@@ -306,9 +475,9 @@
      "url": "stremio:///search?search=Tyonne%20Chambers"
     },
     {
-     "name": "Duncan Jui",
+     "name": "Grace Dumdaw",
      "category": "Cast",
-     "url": "stremio:///search?search=Duncan%20Jui"
+     "url": "stremio:///search?search=Grace%20Dumdaw"
     },
     {
      "name": "Travis Braun",
@@ -321,36 +490,13 @@
      "url": "stremio:///search?search=Will%20Gluck"
     }
    ],
-   "name": "One Night Only",
-   "year": "2026",
-   "releaseInfo": "2026",
-   "description": "Two New Yorkers search for love on the one night of the year when pre-marital sex is legal.",
-   "runtime": "102 min",
-   "background": "https://m.media-amazon.com/images/M/MV5BNzNlODQ1ZDktYWE0Ny00NzIxLWJlNWMtNDI3M2VhYmQzOWI5XkEyXkFqcGc@._V1_.jpg",
-   "imdbRating": "6",
-   "genre": [
-    "Comedy",
-    "Romance"
-   ],
-   "genres": [
-    "Comedy",
-    "Romance"
-   ],
-   "cast": [
-    "Callum Turner",
-    "Tyonne Chambers",
-    "Duncan Jui"
-   ],
-   "writer": [
-    "Travis Braun"
-   ],
-   "director": [
-    "Will Gluck"
-   ],
-   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": "tt37853455",
+    "hasScheduledVideos": false
+   },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt37887501/img"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37853455.jpg"
   },
   {
    "name": "Project Hail Mary",
@@ -711,7 +857,7 @@
    "director": [
     "Ruben Alves"
    ],
-   "imdbRating": "6.7",
+   "imdbRating": "6.6",
    "language": "Portuguese",
    "country": "Portugal",
    "behaviorHints": {
@@ -721,255 +867,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38781172.jpg"
-  },
-  {
-   "name": "Steps",
-   "cast": [
-    "Amanda Seyfried",
-    "Daniel Radcliffe",
-    "Peter Dinklage"
-   ],
-   "country": "United States, Australia, Canada",
-   "description": "Após ser acusada de perturbar o Baile Real com uma varinha mágica roubada, uma meia-irmã incompreendida transforma acidentalmente a sua irmã num sapo e tem de se aliar à Cinderela e a um aliado improvável para salvar o reino e reescrever o final do seu conto de fadas.",
-   "director": [
-    "John Ripa",
-    "Alyce Tzue",
-    "Priscilla Wong"
-   ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "6.9",
-   "released": "2026-11-20T00:00:00.000Z",
-   "writer": [
-    "Jen Chuck",
-    "Felicia Ho",
-    "Riki Lindhome"
-   ],
-   "year": "2026",
-   "runtime": "102 min",
-   "trailers": [
-    {
-     "source": "tNV4i3BqUGY",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt14413964/img",
-   "background": "https://images.metahub.space/background/medium/tt14413964/img",
-   "id": "tt14413964",
-   "genres": [
-    "Animação",
-    "Família",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Steps",
-     "ytId": "tNV4i3BqUGY"
-    }
-   ],
-   "links": [
-    {
-     "name": "Steps",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/steps-14413964"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Amanda Seyfried",
-     "category": "Cast",
-     "url": "stremio:///search?search=Amanda%20Seyfried"
-    },
-    {
-     "name": "Daniel Radcliffe",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Radcliffe"
-    },
-    {
-     "name": "Peter Dinklage",
-     "category": "Cast",
-     "url": "stremio:///search?search=Peter%20Dinklage"
-    },
-    {
-     "name": "Jen Chuck",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jen%20Chuck"
-    },
-    {
-     "name": "Felicia Ho",
-     "category": "Writers",
-     "url": "stremio:///search?search=Felicia%20Ho"
-    },
-    {
-     "name": "Riki Lindhome",
-     "category": "Writers",
-     "url": "stremio:///search?search=Riki%20Lindhome"
-    },
-    {
-     "name": "John Ripa",
-     "category": "Directors",
-     "url": "stremio:///search?search=John%20Ripa"
-    },
-    {
-     "name": "Alyce Tzue",
-     "category": "Directors",
-     "url": "stremio:///search?search=Alyce%20Tzue"
-    },
-    {
-     "name": "Priscilla Wong",
-     "category": "Directors",
-     "url": "stremio:///search?search=Priscilla%20Wong"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt14413964",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg"
-  },
-  {
-   "name": "Moana",
-   "cast": [
-    "Dwayne Johnson",
-    "Catherine Laga&apos;aia",
-    "Rena Owen"
-   ],
-   "country": "United States, New Zealand, Canada, Hungary",
-   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
-   "director": [
-    "Thomas Kail"
-   ],
-   "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "5.8",
-   "released": "2026-07-10T00:00:00.000Z",
-   "writer": [
-    "Jared Bush",
-    "Dana Ledoux Miller",
-    "Ron Clements"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt27419466/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
-   "trailers": [
-    {
-     "source": "EEz5xbzYPKI",
-     "type": "Trailer"
-    },
-    {
-     "source": "n7f6hlKsxxo",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "115 min",
-   "id": "tt27419466",
-   "genres": [
-    "Família",
-    "Fantasia",
-    "Comédia"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Moana",
-     "ytId": "EEz5xbzYPKI"
-    },
-    {
-     "title": "Moana",
-     "ytId": "n7f6hlKsxxo"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27419466"
-    },
-    {
-     "name": "Moana",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/moana-27419466"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Dwayne Johnson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
-    },
-    {
-     "name": "Catherine Laga&apos;aia",
-     "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
-    },
-    {
-     "name": "Rena Owen",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rena%20Owen"
-    },
-    {
-     "name": "Jared Bush",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jared%20Bush"
-    },
-    {
-     "name": "Dana Ledoux Miller",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
-    },
-    {
-     "name": "Ron Clements",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Clements"
-    },
-    {
-     "name": "Thomas Kail",
-     "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Kail"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt27419466",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
    "awards": "3 nominations total",
@@ -1088,6 +985,127 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0471042.jpg"
+  },
+  {
+   "awards": "5 wins & 23 nominations total",
+   "cast": [
+    "Steve Carell",
+    "Ryan Gosling",
+    "Julianne Moore"
+   ],
+   "country": "United States",
+   "description": "A vida de um homem de meia idade muda drasticamente quando a mulher lhe pede o divórcio. Vai então procurar redescobrir a sua masculinidade com a ajuda de Jacob, um amigo recente, que o vai ensinar a engatar mulheres em bares.",
+   "director": [
+    "Glenn Ficarra",
+    "John Requa"
+   ],
+   "dvdRelease": "2016-04-13T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "7.4",
+   "name": "Crazy, Stupid, Love.",
+   "released": "2011-07-29T00:00:00.000Z",
+   "runtime": "118 min",
+   "trailers": [
+    {
+     "source": "W7U03cW7k-Y",
+     "type": "Trailer"
+    },
+    {
+     "source": "flvz5RMRx7E",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Dan Fogelman"
+   ],
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt1570728/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1570728/img",
+   "id": "tt1570728",
+   "genres": [
+    "Comédia",
+    "Drama",
+    "Romance"
+   ],
+   "releaseInfo": "2011",
+   "trailerStreams": [
+    {
+     "title": "Crazy, Stupid, Love.",
+     "ytId": "W7U03cW7k-Y"
+    },
+    {
+     "title": "Crazy, Stupid, Love.",
+     "ytId": "flvz5RMRx7E"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1570728"
+    },
+    {
+     "name": "Crazy, Stupid, Love.",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/crazy-stupid-love-1570728"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Steve Carell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steve%20Carell"
+    },
+    {
+     "name": "Ryan Gosling",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ryan%20Gosling"
+    },
+    {
+     "name": "Julianne Moore",
+     "category": "Cast",
+     "url": "stremio:///search?search=Julianne%20Moore"
+    },
+    {
+     "name": "Dan Fogelman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dan%20Fogelman"
+    },
+    {
+     "name": "Glenn Ficarra",
+     "category": "Directors",
+     "url": "stremio:///search?search=Glenn%20Ficarra"
+    },
+    {
+     "name": "John Requa",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20Requa"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1570728",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1570728.jpg"
   },
   {
    "name": "Voicemails for Isabelle",

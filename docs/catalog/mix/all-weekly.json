@@ -122,63 +122,79 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27165187.jpg"
   },
   {
-   "name": "MobLand",
-   "imdbRating": "8.3",
    "cast": [
-    "Tom Hardy",
-    "Pierce Brosnan",
-    "Paddy Considine"
+    "Morfydd Clark",
+    "Ismael Cruz Cordova",
+    "Robert Aramayo"
    ],
-   "country": "United Kingdom, United States",
-   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
-   "director": null,
+   "country": "United States, New Zealand, Canada",
+   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
    "genre": [
-    "Crime",
+    "Action",
+    "Adventure",
     "Drama"
    ],
-   "released": "2025-03-30T00:00:00.000Z",
+   "imdbRating": "6.8",
+   "name": "The Lord of the Rings: The Rings of Power",
+   "released": "2022-09-01T00:00:00.000Z",
    "writer": [
-    "Ronan Bennett"
+    "Patrick McKay",
+    "John D. Payne"
    ],
-   "year": "2025–",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt7631058/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
+   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
+   "runtime": "69 min",
    "trailers": [
     {
-     "source": "qKGgw7Ob5f4",
+     "source": "x8UAUAuKNcU",
+     "type": "Trailer"
+    },
+    {
+     "source": "uYnQDsaxHZU",
      "type": "Trailer"
     }
    ],
-   "runtime": "47 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt31510819/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
-   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
-   "id": "tt31510819",
+   "id": "tt7631058",
    "genres": [
-    "Crime",
-    "Drama"
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2025",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "MobLand",
-     "ytId": "qKGgw7Ob5f4"
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "x8UAUAuKNcU"
+    },
+    {
+     "title": "The Lord of the Rings: The Rings of Power",
+     "ytId": "uYnQDsaxHZU"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "6.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt31510819"
+     "url": "https://imdb.com/title/tt7631058"
     },
     {
-     "name": "MobLand",
+     "name": "The Lord of the Rings: The Rings of Power",
      "category": "share",
-     "url": "https://www.strem.io/s/series/mobland-31510819"
+     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
     },
     {
-     "name": "Crime",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
      "name": "Drama",
@@ -186,24 +202,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Tom Hardy",
+     "name": "Morfydd Clark",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hardy"
+     "url": "stremio:///search?search=Morfydd%20Clark"
     },
     {
-     "name": "Pierce Brosnan",
+     "name": "Ismael Cruz Cordova",
      "category": "Cast",
-     "url": "stremio:///search?search=Pierce%20Brosnan"
+     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
     },
     {
-     "name": "Paddy Considine",
+     "name": "Robert Aramayo",
      "category": "Cast",
-     "url": "stremio:///search?search=Paddy%20Considine"
+     "url": "stremio:///search?search=Robert%20Aramayo"
     },
     {
-     "name": "Ronan Bennett",
+     "name": "Patrick McKay",
      "category": "Writers",
-     "url": "stremio:///search?search=Ronan%20Bennett"
+     "url": "stremio:///search?search=Patrick%20McKay"
+    },
+    {
+     "name": "John D. Payne",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20D.%20Payne"
     }
    ],
    "behaviorHints": {
@@ -212,7 +233,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
   },
   {
    "name": "The Bodyguard",
@@ -326,79 +347,63 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg"
   },
   {
+   "name": "MobLand",
+   "imdbRating": "8.3",
    "cast": [
-    "Morfydd Clark",
-    "Ismael Cruz Cordova",
-    "Robert Aramayo"
+    "Tom Hardy",
+    "Pierce Brosnan",
+    "Paddy Considine"
    ],
-   "country": "United States, New Zealand, Canada",
-   "description": "Situado na Segunda Era da Terra-média, milhares de anos antes dos eventos de O Hobbit e O Senhor dos Anéis, a série segue um elenco de personagens que enfrentam o ressurgimento do mal na Terra-média.",
+   "country": "United Kingdom, United States",
+   "description": "O poder está em jogo quando duas famílias criminosas em guerra se confrontam numa batalha que ameaça derrubar impérios e arruinar vidas.",
+   "director": null,
    "genre": [
-    "Action",
-    "Adventure",
+    "Crime",
     "Drama"
    ],
-   "imdbRating": "6.8",
-   "name": "The Lord of the Rings: The Rings of Power",
-   "released": "2022-09-01T00:00:00.000Z",
+   "released": "2025-03-30T00:00:00.000Z",
    "writer": [
-    "Patrick McKay",
-    "John D. Payne"
+    "Ronan Bennett"
    ],
-   "year": "2022–",
-   "status": "Continuing",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt7631058/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7631058/img",
-   "awards": "Nominated for 7 Primetime Emmys. 23 wins & 67 nominations total",
-   "runtime": "69 min",
+   "year": "2025–",
    "trailers": [
     {
-     "source": "x8UAUAuKNcU",
-     "type": "Trailer"
-    },
-    {
-     "source": "uYnQDsaxHZU",
+     "source": "qKGgw7Ob5f4",
      "type": "Trailer"
     }
    ],
-   "id": "tt7631058",
+   "runtime": "47 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt31510819/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31510819/img",
+   "awards": "Nominated for 1 BAFTA Award. 8 nominations total",
+   "id": "tt31510819",
    "genres": [
-    "Action & Adventure",
-    "Drama",
-    "Sci-Fi & Fantasy"
+    "Crime",
+    "Drama"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2025",
    "trailerStreams": [
     {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "x8UAUAuKNcU"
-    },
-    {
-     "title": "The Lord of the Rings: The Rings of Power",
-     "ytId": "uYnQDsaxHZU"
+     "title": "MobLand",
+     "ytId": "qKGgw7Ob5f4"
     }
    ],
    "links": [
     {
-     "name": "6.8",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7631058"
+     "url": "https://imdb.com/title/tt31510819"
     },
     {
-     "name": "The Lord of the Rings: The Rings of Power",
+     "name": "MobLand",
      "category": "share",
-     "url": "https://www.strem.io/s/series/the-lord-of-the-rings-the-rings-of-power-7631058"
+     "url": "https://www.strem.io/s/series/mobland-31510819"
     },
     {
-     "name": "Action",
+     "name": "Crime",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
     },
     {
      "name": "Drama",
@@ -406,29 +411,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Morfydd Clark",
+     "name": "Tom Hardy",
      "category": "Cast",
-     "url": "stremio:///search?search=Morfydd%20Clark"
+     "url": "stremio:///search?search=Tom%20Hardy"
     },
     {
-     "name": "Ismael Cruz Cordova",
+     "name": "Pierce Brosnan",
      "category": "Cast",
-     "url": "stremio:///search?search=Ismael%20Cruz%20Cordova"
+     "url": "stremio:///search?search=Pierce%20Brosnan"
     },
     {
-     "name": "Robert Aramayo",
+     "name": "Paddy Considine",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Aramayo"
+     "url": "stremio:///search?search=Paddy%20Considine"
     },
     {
-     "name": "Patrick McKay",
+     "name": "Ronan Bennett",
      "category": "Writers",
-     "url": "stremio:///search?search=Patrick%20McKay"
-    },
-    {
-     "name": "John D. Payne",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20D.%20Payne"
+     "url": "stremio:///search?search=Ronan%20Bennett"
     }
    ],
    "behaviorHints": {
@@ -437,7 +437,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg"
   },
   {
    "awards": "Won 1 BAFTA Award. 34 wins & 51 nominations total",
@@ -660,102 +660,101 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg"
   },
   {
-   "cast": [
-    "Jesse Eisenberg",
-    "Woody Harrelson",
-    "Dave Franco"
-   ],
-   "country": "United States, United Arab Emirates, Canada, Hungary",
-   "description": "Os Quatro Cavaleiros originais reúnem-se com uma nova geração de ilusionistas para enfrentar a poderosa herdeira de diamantes Veronika Vanderberg, que lidera um império criminoso baseado em lavagem de dinheiro e tráfico. Os novos e antigos mágicos precisam superar as suas diferenças para trabalharem juntos no seu assalto mais ambicioso até agora.",
+   "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+   "country": "United States, Canada",
+   "description": "Coriolanus tem 18 anos e está prestes a tornar-se o presidente tirano de Panem. Ele  é jovem, bonito e charmoso e, embora a família Snow tenha passado por momentos difíceis, ele vê uma  oportunidade de mudar a sua sorte quando é escolhido para ser o mentor do Décimo Jogos da Fome e de Lucy Gray, a rapariga tributo do arruinado Distrito 12.",
    "director": [
-    "Ruben Fleischer"
+    "Francis Lawrence"
    ],
    "genre": [
-    "Crime",
-    "Thriller"
+    "Action",
+    "Adventure",
+    "Sci-Fi"
    ],
-   "imdbRating": "5.9",
-   "name": "Now You See Me: Now You Don't",
-   "released": "2025-11-14T00:00:00.000Z",
+   "imdbRating": "6.6",
+   "released": "2023-11-17T00:00:00.000Z",
    "writer": [
     "Michael Lesslie",
-    "Paul Wernick",
-    "Rhett Reese"
+    "Michael Arndt",
+    "Suzanne Collins"
    ],
-   "year": "2025",
+   "year": "2023",
    "trailers": [
     {
-     "source": "lLWESUfW-0A",
+     "source": "NxW_X4kzeus",
      "type": "Trailer"
     },
     {
-     "source": "uogrgIasYcA",
-     "type": "Trailer"
-    },
-    {
-     "source": "-E3lMRx7HRQ",
+     "source": "RDE6Uz73A7g",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt4712810/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4712810/img",
-   "runtime": "112 min",
-   "awards": "4 nominations total",
-   "id": "tt4712810",
-   "genres": [
-    "Crime",
-    "Thriller"
+   "cast": [
+    "Rachel Zegler",
+    "Tom Blyth",
+    "Viola Davis"
    ],
-   "releaseInfo": "2025",
+   "background": "https://images.metahub.space/background/medium/tt10545296/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10545296/img",
+   "runtime": "157 min",
+   "awards": "7 wins & 29 nominations total",
+   "dvdRelease": "2023-12-19T00:00:00.000Z",
+   "id": "tt10545296",
+   "genres": [
+    "Ficção científica",
+    "Ação"
+   ],
+   "releaseInfo": "2023",
    "trailerStreams": [
     {
-     "title": "Now You See Me: Now You Don't",
-     "ytId": "lLWESUfW-0A"
+     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+     "ytId": "NxW_X4kzeus"
     },
     {
-     "title": "Now You See Me: Now You Don't",
-     "ytId": "uogrgIasYcA"
-    },
-    {
-     "title": "Now You See Me: Now You Don't",
-     "ytId": "-E3lMRx7HRQ"
+     "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
+     "ytId": "RDE6Uz73A7g"
     }
    ],
    "links": [
     {
-     "name": "5.9",
+     "name": "6.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4712810"
+     "url": "https://imdb.com/title/tt10545296"
     },
     {
-     "name": "Now You See Me: Now You Don't",
+     "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/now-you-see-me-now-you-dont-4712810"
+     "url": "https://www.strem.io/s/movie/the-hunger-games-the-ballad-of-songbirds-snakes-10545296"
     },
     {
-     "name": "Crime",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Thriller",
+     "name": "Adventure",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
-     "name": "Jesse Eisenberg",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jesse%20Eisenberg"
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
     },
     {
-     "name": "Woody Harrelson",
+     "name": "Rachel Zegler",
      "category": "Cast",
-     "url": "stremio:///search?search=Woody%20Harrelson"
+     "url": "stremio:///search?search=Rachel%20Zegler"
     },
     {
-     "name": "Dave Franco",
+     "name": "Tom Blyth",
      "category": "Cast",
-     "url": "stremio:///search?search=Dave%20Franco"
+     "url": "stremio:///search?search=Tom%20Blyth"
+    },
+    {
+     "name": "Viola Davis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Viola%20Davis"
     },
     {
      "name": "Michael Lesslie",
@@ -763,28 +762,28 @@
      "url": "stremio:///search?search=Michael%20Lesslie"
     },
     {
-     "name": "Paul Wernick",
+     "name": "Michael Arndt",
      "category": "Writers",
-     "url": "stremio:///search?search=Paul%20Wernick"
+     "url": "stremio:///search?search=Michael%20Arndt"
     },
     {
-     "name": "Rhett Reese",
+     "name": "Suzanne Collins",
      "category": "Writers",
-     "url": "stremio:///search?search=Rhett%20Reese"
+     "url": "stremio:///search?search=Suzanne%20Collins"
     },
     {
-     "name": "Ruben Fleischer",
+     "name": "Francis Lawrence",
      "category": "Directors",
-     "url": "stremio:///search?search=Ruben%20Fleischer"
+     "url": "stremio:///search?search=Francis%20Lawrence"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4712810",
+    "defaultVideoId": "tt10545296",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4712810.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10545296.jpg"
   },
   {
    "id": "tt32375763",
@@ -959,7 +958,7 @@
    "director": [
     "Ruben Alves"
    ],
-   "imdbRating": "6.7",
+   "imdbRating": "6.6",
    "language": "Portuguese",
    "country": "Portugal",
    "behaviorHints": {

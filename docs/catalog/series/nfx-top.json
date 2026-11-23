@@ -191,7 +191,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
-   "imdbRating": "6.3"
+   "imdbRating": "6.4"
   },
   {
    "id": "tt38707741",
@@ -624,93 +624,6 @@
    "imdbRating": "7.0"
   },
   {
-   "awards": null,
-   "cast": [
-    "Michael Coulthard",
-    "Charles Robinson",
-    "John Layfield"
-   ],
-   "country": "United States",
-   "description": "É um programa de Wrestling, um tipo de luta livre americana. A série fez sua estreia em 1999 e imediatamente se tornou um dos programas mais populares da televisão.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Action",
-    "Sport"
-   ],
-   "imdbRating": "7.3",
-   "name": "WWE Smackdown!",
-   "released": "1999-04-27T00:00:00.000Z",
-   "runtime": "87 min",
-   "status": "Continuing",
-   "writer": [
-    "Vince McMahon",
-    "Dusty Rhodes"
-   ],
-   "year": "1999–",
-   "background": "https://images.metahub.space/background/medium/tt0227972/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0227972/img",
-   "id": "tt0227972",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "1999",
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0227972"
-    },
-    {
-     "name": "WWE Smackdown!",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/wwe-smackdown-0227972"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Sport",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
-    },
-    {
-     "name": "Michael Coulthard",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Coulthard"
-    },
-    {
-     "name": "Charles Robinson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charles%20Robinson"
-    },
-    {
-     "name": "John Layfield",
-     "category": "Cast",
-     "url": "stremio:///search?search=John%20Layfield"
-    },
-    {
-     "name": "Vince McMahon",
-     "category": "Writers",
-     "url": "stremio:///search?search=Vince%20McMahon"
-    },
-    {
-     "name": "Dusty Rhodes",
-     "category": "Writers",
-     "url": "stremio:///search?search=Dusty%20Rhodes"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0227972.jpg"
-  },
-  {
    "id": "tt39390491",
    "logo": "https://live.metahub.space/logo/medium/tt39390491/img",
    "background": "https://live.metahub.space/background/medium/tt39390491/img",
@@ -776,7 +689,84 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39390491.jpg",
-   "imdbRating": "5.1"
+   "imdbRating": "5.2"
+  },
+  {
+   "id": "tt38483587",
+   "logo": "https://live.metahub.space/logo/medium/tt38483587/img",
+   "background": "https://live.metahub.space/background/medium/tt38483587/img",
+   "name": "Gènesi",
+   "description": "A origem e a ascensão do chef Ferran Adrià inspiram esta série biográfica sobre como ele transformou o El Bulli em um dos melhores restaurantes do mundo.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Ended",
+   "trailers": [],
+   "cast": [
+    "Ivan Massagué",
+    "Mónica López",
+    "Miquel Fernández"
+   ],
+   "credits_cast": [
+    {
+     "character": "Juli Soler",
+     "name": "Ivan Massagué",
+     "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg",
+     "id": 31422
+    },
+    {
+     "character": "Glòria Canabach",
+     "name": "Mónica López",
+     "profile_path": "/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg",
+     "id": 67262
+    },
+    {
+     "character": "Ferran Adrià",
+     "name": "Miquel Fernández",
+     "profile_path": "/xkJaKVSaLbwksDzvT5cacq9DuL6.jpg",
+     "id": 1179659
+    },
+    {
+     "character": "Albert Adrià",
+     "name": "Carlos Cuevas",
+     "profile_path": "/he5a5qQV3ZydOpTiBGb4HCrc8Z6.jpg",
+     "id": 1261476
+    },
+    {
+     "character": "Lola",
+     "name": "Joana Vilapuig",
+     "profile_path": "/pQpnPMsin3t8s8zLPGAqM2WYtFd.jpg",
+     "id": 1255479
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Francesc Escribano",
+     "profile_path": null,
+     "id": 19806
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Roger Corbi",
+     "profile_path": null,
+     "id": 937446
+    }
+   ],
+   "director": [],
+   "imdbRating": "7.7",
+   "language": "Catalan",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38483587.jpg"
   }
  ]
 }
