@@ -1,60 +1,836 @@
 {
  "metas": [
   {
-   "name": "FUBAR",
+   "awards": "Won 9 Primetime Emmys. 95 wins & 185 nominations total",
    "cast": [
-    "Arnold Schwarzenegger",
-    "Monica Barbaro",
-    "Milan Carter"
+    "Benedict Cumberbatch",
+    "Martin Freeman",
+    "Una Stubbs"
    ],
-   "country": "United States",
-   "description": "Quando pai e filha descobrem que ambos trabalham para a CIA, as suas missões de alto risco, já de si complexas, tornam-se uma espinhosa dinâmica familiar.",
+   "country": "United Kingdom, United States",
+   "description": "O Dr. John Watson precisa de um lugar para morar em Londres. Ele é apresentado ao detetive Sherlock Holmes e os dois acabam desenvolvendo uma parceria intrigante, na qual a dupla vagará pela capital inglesa solucionando assassinatos e outros crimes brutais. Tudo isso em pleno século XXI.",
+   "director": null,
+   "dvdRelease": null,
    "genre": [
-    "Action",
-    "Adventure",
-    "Comedy"
+    "Crime",
+    "Drama",
+    "Mystery"
    ],
-   "imdbRating": "6.5",
-   "released": "2023-05-25T00:00:00.000Z",
-   "year": "2023–2025",
-   "runtime": "51 min",
+   "imdbRating": "9.0",
+   "name": "Sherlock",
+   "released": "2010-10-24T00:00:00.000Z",
+   "runtime": "88 min",
    "status": "Ended",
+   "writer": [
+    "Mark Gatiss",
+    "Steven Moffat"
+   ],
+   "year": "2010–2017",
+   "background": "https://images.metahub.space/background/medium/tt1475582/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1475582/img",
    "trailers": [
     {
-     "source": "FsEYsHlH1Rs",
+     "source": "gGqWqGOSTGQ",
      "type": "Trailer"
     }
    ],
-   "director": [],
-   "writer": [
-    "Nick Santora"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt13064902/img",
-   "logo": "https://images.metahub.space/logo/medium/tt13064902/img",
-   "awards": "3 wins & 1 nomination total",
-   "id": "tt13064902",
+   "id": "tt1475582",
    "genres": [
-    "Action & Adventure",
+    "Crime",
     "Drama",
-    "Comédia"
+    "Mistério"
    ],
-   "releaseInfo": "2023",
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "FUBAR",
-     "ytId": "FsEYsHlH1Rs"
+     "title": "Sherlock",
+     "ytId": "gGqWqGOSTGQ"
     }
    ],
    "links": [
     {
-     "name": "6.5",
+     "name": "9.0",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt13064902"
+     "url": "https://imdb.com/title/tt1475582"
     },
     {
-     "name": "FUBAR",
+     "name": "Sherlock",
      "category": "share",
-     "url": "https://www.strem.io/s/series/fubar-13064902"
+     "url": "https://www.strem.io/s/series/sherlock-1475582"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Benedict Cumberbatch",
+     "category": "Cast",
+     "url": "stremio:///search?search=Benedict%20Cumberbatch"
+    },
+    {
+     "name": "Martin Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Freeman"
+    },
+    {
+     "name": "Una Stubbs",
+     "category": "Cast",
+     "url": "stremio:///search?search=Una%20Stubbs"
+    },
+    {
+     "name": "Mark Gatiss",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mark%20Gatiss"
+    },
+    {
+     "name": "Steven Moffat",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steven%20Moffat"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1475582.jpg"
+  },
+  {
+   "name": "The Empress",
+   "cast": [
+    "Devrim Lingnau",
+    "Philip Froissant",
+    "Melika Foroutan"
+   ],
+   "country": "Germany",
+   "description": "A rebelde Isabel apaixona-se pelo Imperador Francisco e torna-se a sua noiva, mergulhando no mundo de tensões e intrigas da corte vienense.",
+   "genre": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "imdbRating": "7.8",
+   "released": "2022-09-29T00:00:00.000Z",
+   "year": "2022–",
+   "director": null,
+   "writer": [
+    "Katharina Eyssen"
+   ],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt13720112/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13720112/img",
+   "runtime": "56 min",
+   "trailers": [
+    {
+     "source": "KfySe96FPr8",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "5 wins & 2 nominations total",
+   "id": "tt13720112",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Empress",
+     "ytId": "KfySe96FPr8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13720112"
+    },
+    {
+     "name": "The Empress",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-empress-13720112"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Devrim Lingnau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Devrim%20Lingnau"
+    },
+    {
+     "name": "Philip Froissant",
+     "category": "Cast",
+     "url": "stremio:///search?search=Philip%20Froissant"
+    },
+    {
+     "name": "Melika Foroutan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melika%20Foroutan"
+    },
+    {
+     "name": "Katharina Eyssen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katharina%20Eyssen"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
+  },
+  {
+   "id": "tt44079238",
+   "logo": "https://live.metahub.space/logo/medium/tt44079238/img",
+   "background": "https://live.metahub.space/background/medium/tt44079238/img",
+   "name": "The Law of Beasts",
+   "description": "Quando o caso de uma criança assassina em série ressurge, 25 anos mais tarde, como um problema jurídico e social por resolver, dois antigos amigos veem-se forçados a confrontar as escolhas que destruíram a sua amizade e moldaram as suas vidas.",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Agnieszka Grochowska",
+    "Agnieszka Żulewska",
+    "Michał Pawlik"
+   ],
+   "credits_cast": [
+    {
+     "character": "Anna Bersz",
+     "name": "Agnieszka Grochowska",
+     "profile_path": "/9XBjnqR2PWw4KdcyTRaTZCFllxu.jpg",
+     "id": 105562
+    },
+    {
+     "character": "Agnieszka Grabska",
+     "name": "Agnieszka Żulewska",
+     "profile_path": "/4rvcJMkl1Test5C6DFFpqJY2CrJ.jpg",
+     "id": 1527552
+    },
+    {
+     "character": "Mariusz Trynkiewicz",
+     "name": "Michał Pawlik",
+     "profile_path": "/loDhKENuDQ6VCijcWVq9WUBvuX9.jpg",
+     "id": 2458673
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Edyta Krajewska",
+     "profile_path": null,
+     "id": 4466260
+    }
+   ],
+   "director": [],
+   "country": "Mexico, Poland",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44079238.jpg",
+   "imdbRating": "6.1"
+  },
+  {
+   "name": "Tulsa King",
+   "cast": [
+    "Sylvester Stallone",
+    "Andrea Savage",
+    "Martin Starr"
+   ],
+   "country": "United States",
+   "description": "Pouco depois de ser libertado da prisão após 25 anos, Dwight “The General” Manfredi, chefe da máfia de Nova Iorque, é exilado sem cerimónias pelo seu patrão para se estabelecer em Tulsa, Oklahoma. Apercebendo-se de que a sua família mafiosa pode não ter em mente os seus melhores interesses, Dwight constrói lentamente uma “tripulação” a partir de um grupo de personagens improváveis, para o ajudar a estabelecer um novo império criminoso num lugar que, para ele, pode muito bem ser outro planeta.",
+   "genre": [
+    "Action",
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "7.9",
+   "released": "2022-11-13T00:00:00.000Z",
+   "writer": [
+    "Taylor Sheridan"
+   ],
+   "year": "2022–",
+   "director": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt16358384/img",
+   "logo": "https://images.metahub.space/logo/medium/tt16358384/img",
+   "runtime": "40 min",
+   "trailers": [
+    {
+     "source": "aaQSScwZPbA",
+     "type": "Trailer"
+    },
+    {
+     "source": "PXd3tO5ITyw",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "Nominated for 3 Primetime Emmys. 10 nominations total",
+   "id": "tt16358384",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Tulsa King",
+     "ytId": "aaQSScwZPbA"
+    },
+    {
+     "title": "Tulsa King",
+     "ytId": "PXd3tO5ITyw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt16358384"
+    },
+    {
+     "name": "Tulsa King",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/tulsa-king-16358384"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sylvester Stallone",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sylvester%20Stallone"
+    },
+    {
+     "name": "Andrea Savage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrea%20Savage"
+    },
+    {
+     "name": "Martin Starr",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Starr"
+    },
+    {
+     "name": "Taylor Sheridan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Taylor%20Sheridan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg"
+  },
+  {
+   "awards": "7 wins & 26 nominations total",
+   "cast": [
+    "Taylor Kinney",
+    "Christian Stolte",
+    "Joe Minoso"
+   ],
+   "country": "United States",
+   "description": "Nenhum trabalho é mais stressante, perigoso e recheado de adrenalina do que o feito pelos bombeiros, equipes de resgate e paramédicos da Brigada 51. Eles são os corajosos homens e mulheres que mergulham de cabeça no perigo quando alguém precisa de ajuda, enquanto outros correm para o outro lado. Entretanto, as enormes responsabilidades também cobram um preço na vida pessoal.Quando uma tragédia acaba com a vida de um membro da equipe, existe muita culpa para distribuir.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Action",
+    "Drama"
+   ],
+   "imdbRating": "8.0",
+   "name": "Chicago Fire",
+   "released": "2012-10-10T00:00:00.000Z",
+   "runtime": "42 min",
+   "status": "Continuing",
+   "writer": [
+    "Michael Brandt",
+    "Derek Haas"
+   ],
+   "year": "2012–",
+   "background": "https://images.metahub.space/background/medium/tt2261391/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2261391/img",
+   "trailers": [
+    {
+     "source": "IIeSDILTE5M",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt2261391",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2012",
+   "trailerStreams": [
+    {
+     "title": "Chicago Fire",
+     "ytId": "IIeSDILTE5M"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2261391"
+    },
+    {
+     "name": "Chicago Fire",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/chicago-fire-2261391"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Taylor Kinney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Taylor%20Kinney"
+    },
+    {
+     "name": "Christian Stolte",
+     "category": "Cast",
+     "url": "stremio:///search?search=Christian%20Stolte"
+    },
+    {
+     "name": "Joe Minoso",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joe%20Minoso"
+    },
+    {
+     "name": "Michael Brandt",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Brandt"
+    },
+    {
+     "name": "Derek Haas",
+     "category": "Writers",
+     "url": "stremio:///search?search=Derek%20Haas"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2261391.jpg"
+  },
+  {
+   "awards": "Won 6 Primetime Emmys. 79 wins & 231 nominations total",
+   "cast": [
+    "Jennifer Aniston",
+    "Courteney Cox",
+    "Lisa Kudrow"
+   ],
+   "country": "United States",
+   "description": "Ross, Rachel, Mônica, Chandler, Joey e Phoebe formam um grupo de seis amigos que lutam para se sobressair e progredir na competitiva vida de Manhattan. Seu humor inteligente e apoio mútuo incondicional fazem com sua amizade seja cada vez mais forte, superando assim todos os obstáculos que a vida lhes apresenta. Trabalho, família, responsabilidade, dinheiro, sexo, compromisso e, sobretudo, amor e amizade, são alguns dos temas que preocupam e, ás vezes, divertem esses personagens. Não foi à toa que o sofá do Central Perk, o café onde se reúnem para conversar, foi trocado duas vezes por excesso de uso. Esta série foi filmada por dez temporadas, conquistando um sucesso após o outro. Sua trilha sonora promocional, \"I'll Be There for You\" (Rembrandts), é tão famosa quanto o programa, pois a sua mensagem e o refrão definem perfeitamente o significado da existência da série.",
+   "director": null,
+   "dvdRelease": "2005-11-22T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "8.8",
+   "name": "Friends",
+   "released": "1994-09-22T00:00:00.000Z",
+   "runtime": "22 min",
+   "status": "Ended",
+   "writer": [
+    "David Crane",
+    "Marta Kauffman"
+   ],
+   "year": "1994–2004",
+   "background": "https://images.metahub.space/background/medium/tt0108778/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0108778/img",
+   "trailers": [
+    {
+     "source": "H29XSxoKp80",
+     "type": "Trailer"
+    },
+    {
+     "source": "7BLgQ-vRcjs",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0108778",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "1994",
+   "trailerStreams": [
+    {
+     "title": "Friends",
+     "ytId": "H29XSxoKp80"
+    },
+    {
+     "title": "Friends",
+     "ytId": "7BLgQ-vRcjs"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0108778"
+    },
+    {
+     "name": "Friends",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/friends-0108778"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Jennifer Aniston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Aniston"
+    },
+    {
+     "name": "Courteney Cox",
+     "category": "Cast",
+     "url": "stremio:///search?search=Courteney%20Cox"
+    },
+    {
+     "name": "Lisa Kudrow",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lisa%20Kudrow"
+    },
+    {
+     "name": "David Crane",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20Crane"
+    },
+    {
+     "name": "Marta Kauffman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marta%20Kauffman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0108778.jpg"
+  },
+  {
+   "id": "tt38707741",
+   "logo": "https://live.metahub.space/logo/medium/tt38707741/img",
+   "background": "https://live.metahub.space/background/medium/tt38707741/img",
+   "name": "Murder in Galicia",
+   "description": "Quando uma mulher é atacada à noite, um sargento desconfia que o marido dela não seja tão inocente quanto parece.",
+   "genres": [
+    "Crime",
+    "Mistério",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Tristán Ulloa",
+    "Carlos Blanco",
+    "Fer Fraga"
+   ],
+   "credits_cast": [
+    {
+     "character": "Elías",
+     "name": "Tristán Ulloa",
+     "profile_path": "/sglKcvdU3e8hTy1kOghEbT0GdHS.jpg",
+     "id": 16441
+    },
+    {
+     "character": "",
+     "name": "Carlos Blanco",
+     "profile_path": null,
+     "id": 4363
+    },
+    {
+     "character": "",
+     "name": "Fer Fraga",
+     "profile_path": "/k88nGh91fLjdnS0etnU8BrkGwlh.jpg",
+     "id": 4970048
+    },
+    {
+     "character": "Aniceto",
+     "name": "Miguel Borines",
+     "profile_path": "/zWJ71vcHjuJB7GsMMpO7JElyWdK.jpg",
+     "id": 938034
+    },
+    {
+     "character": "",
+     "name": "Marta Nieto",
+     "profile_path": "/59261r4l1nqgdnvRPmmCBa7y98M.jpg",
+     "id": 588636
+    },
+    {
+     "character": "",
+     "name": "Verónica Sánchez",
+     "profile_path": "/4Z7OHkdHIQ9VPp3JBU8QPUzMewR.jpg",
+     "id": 90773
+    },
+    {
+     "character": "",
+     "name": "Fernando Guillén Cuervo",
+     "profile_path": "/sPzRtxLB9eRnZR6MqFIv4WBzG4u.jpg",
+     "id": 149307
+    },
+    {
+     "character": "",
+     "name": "Nacho Fresneda",
+     "profile_path": "/hFADbva2aAycgRCSlQtJW9Ua4Rg.jpg",
+     "id": 961990
+    },
+    {
+     "character": "",
+     "name": "Tito Asorey",
+     "profile_path": "/70F60qTi59F9hiKcKky2pIpV5zK.jpg",
+     "id": 1742772
+    }
+   ],
+   "credits_crew": [],
+   "director": [],
+   "language": "Spanish",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg",
+   "imdbRating": "6.4"
+  },
+  {
+   "name": "Godless",
+   "year": "2017",
+   "runtime": "65 min",
+   "genre": [
+    "Action",
+    "Drama",
+    "Western"
+   ],
+   "released": "2017-11-22T00:00:00.000Z",
+   "cast": [
+    "Jack O'Connell",
+    "Michelle Dockery",
+    "Scoot McNairy"
+   ],
+   "imdbRating": "8.2",
+   "description": "Um implacável fora da lei aterroriza o faroeste em busca de um antigo membro do seu bando, que encontrou uma nova vida numa vila povoada apenas por mulheres.",
+   "country": "United States",
+   "status": "Ended",
+   "director": [],
+   "writer": [],
+   "awards": "Won 3 Primetime Emmys. 8 wins & 27 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt5516154/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5516154/img",
+   "trailers": [
+    {
+     "source": "QxY86L9Y2bs",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5516154",
+   "genres": [
+    "Faroeste",
+    "Drama"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "Godless",
+     "ytId": "QxY86L9Y2bs"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt5516154"
+    },
+    {
+     "name": "Godless",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/godless-5516154"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Western",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Western"
+    },
+    {
+     "name": "Jack O'Connell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20O'Connell"
+    },
+    {
+     "name": "Michelle Dockery",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michelle%20Dockery"
+    },
+    {
+     "name": "Scoot McNairy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Scoot%20McNairy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5516154.jpg"
+  },
+  {
+   "name": "Black Clover",
+   "year": "2017–2021",
+   "genre": [
+    "Animation",
+    "Action",
+    "Adventure"
+   ],
+   "released": "2017-10-03T00:00:00.000Z",
+   "cast": [
+    "Dallas Reid",
+    "Gakuto Kajiwara",
+    "Jill Harris"
+   ],
+   "imdbRating": "8.3",
+   "description": "Num mundo onde magia é tudo, Asta e Yuno são abandonados em uma igreja no mesmo dia. Enquanto Yuno possui poderes mágicos excepcionais, Asta é a única pessoa do mundo todo desprovida desse dom. Aos quinze anos, ambos recebem grimórios, livros mágicos que amplificam os poderes do detentor. Asta recebe um raro grimório de anti magia, capaz de negar e repelir os feitiços do oponente. Dois opostos que nutrem uma rivalidade amigável, Yuno e Asta estão prontos para encarar os mais difíceis desafios para conquistar seu sonho em comum: tornar-se o Rei dos Feiticeiros. Desistir não é opção!",
+   "country": "Japan",
+   "status": "Continuing",
+   "director": [],
+   "writer": [],
+   "runtime": "25 min",
+   "background": "https://images.metahub.space/background/medium/tt7441658/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7441658/img",
+   "awards": "3 nominations total",
+   "trailers": [
+    {
+     "source": "QwNWY6z93O4",
+     "type": "Trailer"
+    },
+    {
+     "source": "v5acEAkbEOM",
+     "type": "Trailer"
+    },
+    {
+     "source": "uaDeobqouGQ",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt7441658",
+   "genres": [
+    "Animação",
+    "Action & Adventure",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "Black Clover",
+     "ytId": "QwNWY6z93O4"
+    },
+    {
+     "title": "Black Clover",
+     "ytId": "v5acEAkbEOM"
+    },
+    {
+     "title": "Black Clover",
+     "ytId": "uaDeobqouGQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7441658"
+    },
+    {
+     "name": "Black Clover",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/black-clover-7441658"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
      "name": "Action",
@@ -67,29 +843,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Arnold Schwarzenegger",
+     "name": "Dallas Reid",
      "category": "Cast",
-     "url": "stremio:///search?search=Arnold%20Schwarzenegger"
+     "url": "stremio:///search?search=Dallas%20Reid"
     },
     {
-     "name": "Monica Barbaro",
+     "name": "Gakuto Kajiwara",
      "category": "Cast",
-     "url": "stremio:///search?search=Monica%20Barbaro"
+     "url": "stremio:///search?search=Gakuto%20Kajiwara"
     },
     {
-     "name": "Milan Carter",
+     "name": "Jill Harris",
      "category": "Cast",
-     "url": "stremio:///search?search=Milan%20Carter"
-    },
-    {
-     "name": "Nick Santora",
-     "category": "Writers",
-     "url": "stremio:///search?search=Nick%20Santora"
+     "url": "stremio:///search?search=Jill%20Harris"
     }
    ],
    "behaviorHints": {
@@ -98,547 +864,59 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13064902.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7441658.jpg"
   },
   {
-   "name": "Berlin and the Lady with an Ermine",
+   "name": "Abbott Elementary",
    "cast": [
-    "Pedro Alonso",
-    "Begoña Vargas",
-    "Julio Peña"
+    "Quinta Brunson",
+    "Tyler James Williams",
+    "Janelle James"
    ],
    "country": "United States",
-   "description": "Ansioso por fazer um novo roubo, Berlim reúne a equipa em Sevilha. Desta vez, o alvo é um duque ambicioso e o plano é roubar uma obra-prima de Leonardo da Vinci.",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "6.9",
-   "released": "2026-05-15T00:00:00.000Z",
-   "year": "2026–",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "Ltrc8z4AXKo",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt42178219/img",
-   "background": "https://images.metahub.space/background/medium/tt42178219/img",
-   "id": "tt42178219",
-   "genres": [
-    "Drama",
-    "Crime",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Berlin and the Lady with an Ermine",
-     "ytId": "Ltrc8z4AXKo"
-    }
-   ],
-   "links": [
-    {
-     "name": "Berlin and the Lady with an Ermine",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/berlin-and-the-lady-with-an-ermine-42178219"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Pedro Alonso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Alonso"
-    },
-    {
-     "name": "Begoña Vargas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Bego%C3%B1a%20Vargas"
-    },
-    {
-     "name": "Julio Peña",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julio%20Pe%C3%B1a"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42178219.jpg"
-  },
-  {
-   "name": "Berlin and the Jewels of Paris",
-   "cast": [
-    "Pedro Alonso",
-    "Michelle Jenner",
-    "Tristán Ulloa"
-   ],
-   "country": "Spain",
-   "description": "Nos seus tempos áureos, Berlim juntou-se a um bando em Paris para realizar um dos seus planos mais arrojados: roubar 44 milhões de euros em joias numa só noite.",
-   "genre": [
-    "Action",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.1",
-   "released": "2023-12-29T00:00:00.000Z",
-   "writer": [
-    "Esther Martínez Lobato",
-    "Álex Pina"
-   ],
-   "year": "2023",
-   "trailers": [
-    {
-     "source": "XD_MLvGrGCY",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "52 min",
-   "status": "Ended",
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt16288804/img",
-   "logo": "https://images.metahub.space/logo/medium/tt16288804/img",
-   "awards": "2 wins & 2 nominations total",
-   "id": "tt16288804",
-   "genres": [
-    "Drama",
-    "Action & Adventure",
-    "Crime"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "Berlin and the Jewels of Paris",
-     "ytId": "XD_MLvGrGCY"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt16288804"
-    },
-    {
-     "name": "Berlin and the Jewels of Paris",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/berlin-and-the-jewels-of-paris-16288804"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Pedro Alonso",
-     "category": "Cast",
-     "url": "stremio:///search?search=Pedro%20Alonso"
-    },
-    {
-     "name": "Michelle Jenner",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michelle%20Jenner"
-    },
-    {
-     "name": "Tristán Ulloa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Trist%C3%A1n%20Ulloa"
-    },
-    {
-     "name": "Esther Martínez Lobato",
-     "category": "Writers",
-     "url": "stremio:///search?search=Esther%20Mart%C3%ADnez%20Lobato"
-    },
-    {
-     "name": "Álex Pina",
-     "category": "Writers",
-     "url": "stremio:///search?search=%C3%81lex%20Pina"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16288804.jpg"
-  },
-  {
-   "awards": "10 wins & 1 nomination total",
-   "cast": [
-    "Paul Christie",
-    "Parker Schnabel",
-    "Tony Beets"
-   ],
-   "country": "United States",
-   "description": "Acompanhe a vida de ambiciosos mineiros na sua viagem rumo ao norte em busca de ouro. Com novos mineiros, novas concessões, novas máquinas e novas formas de extrair ouro da terra, os riscos são maiores do que nunca. Mas será que grandes riscos levarão a recompensas ainda maiores?",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Reality-TV"
-   ],
-   "imdbRating": "7.3",
-   "name": "Gold Rush",
-   "released": "2010-12-03T00:00:00.000Z",
-   "runtime": "48 min",
-   "status": "Continuing",
-   "writer": null,
-   "year": "2010–",
-   "logo": "https://images.metahub.space/logo/medium/tt1800864/img",
-   "background": "https://images.metahub.space/background/medium/tt1800864/img",
-   "trailers": [
-    {
-     "source": "ZxnqvqQN3Cs",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1800864",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2010",
-   "trailerStreams": [
-    {
-     "title": "Gold Rush",
-     "ytId": "ZxnqvqQN3Cs"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1800864"
-    },
-    {
-     "name": "Gold Rush",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/gold-rush-1800864"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Paul Christie",
-     "category": "Cast",
-     "url": "stremio:///search?search=Paul%20Christie"
-    },
-    {
-     "name": "Parker Schnabel",
-     "category": "Cast",
-     "url": "stremio:///search?search=Parker%20Schnabel"
-    },
-    {
-     "name": "Tony Beets",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tony%20Beets"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1800864.jpg"
-  },
-  {
-   "id": "tt11243112",
-   "logo": "https://live.metahub.space/logo/medium/tt11243112/img",
-   "background": "https://live.metahub.space/background/medium/tt11243112/img",
-   "name": "Voltaire High",
-   "description": "É o primeiro dia de aula no Instituto Voltaire no ano de 1963. E pela primeira vez, meninas e meninos vão se misturar. Esse primeiro ano de ensino misto será cheio de surpresas para professores e alunos.",
-   "genres": [
-    "Comédia",
-    "Drama"
-   ],
-   "releaseInfo": "2021",
-   "status": "Ended",
-   "trailers": [
-    {
-     "source": "rKNuPDzF48U",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Pierre Deladonchamps",
-    "Nina Meurisse",
-    "Maud Wyler"
-   ],
-   "credits_cast": [
-    {
-     "character": "Paul Bellanger",
-     "name": "Pierre Deladonchamps",
-     "profile_path": "/egIMzrrjVXVTMVsp7nrIXIfP7TD.jpg",
-     "id": 1071606
-    },
-    {
-     "character": "Camille Couret",
-     "name": "Nina Meurisse",
-     "profile_path": "/kLxpJGq269KEktzFh6DXoK2PsjR.jpg",
-     "id": 144763
-    },
-    {
-     "character": "Jeanne Bellanger",
-     "name": "Maud Wyler",
-     "profile_path": "/mOOZU8SgmuMHTiPJjq8AbcEzcow.jpg",
-     "id": 147882
-    },
-    {
-     "character": "Yves Lamazière",
-     "name": "Enzo Monchauzou",
-     "profile_path": "/1UEM1blvCPBFRWCbIZlARuoi48i.jpg",
-     "id": 3120438
-    },
-    {
-     "character": "Ahmed Belkacem",
-     "name": "Adil Mekki",
-     "profile_path": "/zEbpVbtQXIByQOkIZHvweT6iP5R.jpg",
-     "id": 3120439
-    },
-    {
-     "character": "Martine Gomez",
-     "name": "Meylie Vignaud",
-     "profile_path": null,
-     "id": 3127928
-    },
-    {
-     "character": "Françoise Martin",
-     "name": "Inès Domingo",
-     "profile_path": null,
-     "id": 4273599
-    },
-    {
-     "character": "Zappa",
-     "name": "Paul Barrier",
-     "profile_path": null,
-     "id": 4273600
-    },
-    {
-     "character": "",
-     "name": "Jean-Pierre Magnan",
-     "profile_path": null,
-     "id": 5848060
-    },
-    {
-     "character": "Nicole",
-     "name": "Céleste Pierron",
-     "profile_path": null,
-     "id": 5860949
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Marie Roussin",
-     "profile_path": null,
-     "id": 1409018
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Alexandre Castagnetti",
-     "profile_path": "/5qPYpnAs9xz7u7QbYuMr8khnv7Y.jpg",
-     "id": 225890
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Edouard Salier",
-     "profile_path": null,
-     "id": 1668438
-    }
-   ],
-   "director": [
-    "Alexandre Castagnetti",
-    "Edouard Salier"
-   ],
-   "imdbRating": "7.8",
-   "language": "French",
-   "country": "France",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11243112.jpg"
-  },
-  {
-   "name": "Clarkson's Farm",
-   "cast": [
-    "Jeremy Clarkson",
-    "Kaleb Cooper",
-    "Charlie Ireland"
-   ],
-   "country": "United Kingdom",
-   "description": "Siga Jeremy enquanto faz a agricultura. O homem que afirma ser alérgico ao trabalho manual assume o trabalho mais manual intensivo de trabalho. O que poderia dar errado?",
-   "genre": [
-    "Documentary",
-    "Comedy",
-    "Reality-TV"
-   ],
-   "imdbRating": "9.0",
-   "released": "2021-06-10T00:00:00.000Z",
-   "runtime": "48 min",
-   "year": "2021–",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt10541088/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10541088/img",
-   "awards": "2 nominations total",
-   "trailers": [
-    {
-     "source": "pW-iVG0_D34",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt10541088",
-   "genres": [
-    "Reality",
-    "Comédia"
-   ],
-   "releaseInfo": "2021",
-   "trailerStreams": [
-    {
-     "title": "Clarkson's Farm",
-     "ytId": "pW-iVG0_D34"
-    }
-   ],
-   "links": [
-    {
-     "name": "9.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10541088"
-    },
-    {
-     "name": "Clarkson's Farm",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/clarksons-farm-10541088"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Jeremy Clarkson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeremy%20Clarkson"
-    },
-    {
-     "name": "Kaleb Cooper",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kaleb%20Cooper"
-    },
-    {
-     "name": "Charlie Ireland",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Ireland"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10541088.jpg"
-  },
-  {
-   "awards": "Won 1 Primetime Emmy. 25 wins & 90 nominations total",
-   "cast": [
-    "Joel McHale",
-    "Danny Pudi",
-    "Donald Glover"
-   ],
-   "country": "United States",
-   "description": "Acusado de falsificar o seu diploma, o advogado Jeff Winger tem de regressar à universidade, onde conhece alunos e professores com credenciais não menos duvidosas.",
-   "director": null,
-   "dvdRelease": null,
+   "description": "Nesta comédia sobre o ambiente de trabalho, um grupo de professores dedicados e apaixonados — e um diretor um pouco desajustado — reúnem-se numa escola pública de Filadélfia onde, apesar de todas as adversidades, estão determinados a ajudar os seus alunos a ter sucesso na vida. Embora estes incríveis funcionários públicos possam estar em menor número e com poucos recursos, adoram o que fazem — mesmo que não apreciem a atitude pouco exemplar do distrito escolar em relação à educação das crianças.",
    "genre": [
     "Comedy"
    ],
-   "imdbRating": "8.5",
-   "name": "Community",
-   "released": "2009-09-17T00:00:00.000Z",
-   "runtime": "25 min",
-   "status": "Ended",
+   "imdbRating": "8.2",
+   "released": "2021-12-07T00:00:00.000Z",
    "writer": [
-    "Dan Harmon"
+    "Quinta Brunson"
    ],
-   "year": "2009–2015",
-   "background": "https://images.metahub.space/background/medium/tt1439629/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1439629/img",
+   "year": "2021–",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt14218830/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14218830/img",
+   "awards": "Won 4 Primetime Emmys. 96 wins & 308 nominations total",
+   "runtime": "21 min",
    "trailers": [
     {
-     "source": "C4W4L9TLJa8",
+     "source": "l4lP8roLz3I",
      "type": "Trailer"
     }
    ],
-   "id": "tt1439629",
+   "id": "tt14218830",
    "genres": [
     "Comédia"
    ],
-   "releaseInfo": "2009",
+   "releaseInfo": "2021",
    "trailerStreams": [
     {
-     "title": "Community",
-     "ytId": "C4W4L9TLJa8"
+     "title": "Abbott Elementary",
+     "ytId": "l4lP8roLz3I"
     }
    ],
    "links": [
     {
-     "name": "8.5",
+     "name": "8.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1439629"
+     "url": "https://imdb.com/title/tt14218830"
     },
     {
-     "name": "Community",
+     "name": "Abbott Elementary",
      "category": "share",
-     "url": "https://www.strem.io/s/series/community-1439629"
+     "url": "https://www.strem.io/s/series/abbott-elementary-14218830"
     },
     {
      "name": "Comedy",
@@ -646,24 +924,24 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
-     "name": "Joel McHale",
+     "name": "Quinta Brunson",
      "category": "Cast",
-     "url": "stremio:///search?search=Joel%20McHale"
+     "url": "stremio:///search?search=Quinta%20Brunson"
     },
     {
-     "name": "Danny Pudi",
+     "name": "Tyler James Williams",
      "category": "Cast",
-     "url": "stremio:///search?search=Danny%20Pudi"
+     "url": "stremio:///search?search=Tyler%20James%20Williams"
     },
     {
-     "name": "Donald Glover",
+     "name": "Janelle James",
      "category": "Cast",
-     "url": "stremio:///search?search=Donald%20Glover"
+     "url": "stremio:///search?search=Janelle%20James"
     },
     {
-     "name": "Dan Harmon",
+     "name": "Quinta Brunson",
      "category": "Writers",
-     "url": "stremio:///search?search=Dan%20Harmon"
+     "url": "stremio:///search?search=Quinta%20Brunson"
     }
    ],
    "behaviorHints": {
@@ -672,250 +950,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1439629.jpg"
-  },
-  {
-   "awards": "Won 5 Primetime Emmys. 33 wins & 230 nominations total",
-   "cast": [
-    "Julianna Margulies",
-    "Chris Noth",
-    "Josh Charles"
-   ],
-   "country": "United States",
-   "description": "\"The Good Wife\" retrata a vida de Alicia Florrick (Margulies), esposa do promotor Peter Florrick (Noth). Seu marido foi preso após um escândalo sexual e de corrupção muito divulgado pela imprensa. Ela retorna a seu antigo trabalho de advogada para reconstruir sua reputação e sustentar seus dois filhos. \"The Good Wife\" foi parcialmente inspirado no escândalo de prostituição envolvendo o ex-governador de Nova Iorque Eliot Spitzer.",
-   "director": null,
-   "dvdRelease": "2009-10-06T00:00:00.000Z",
-   "genre": [
-    "Crime",
-    "Drama",
-    "Mystery"
-   ],
-   "imdbRating": "8.3",
-   "name": "The Good Wife",
-   "released": "2009-09-22T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Ended",
-   "writer": [
-    "Michelle King",
-    "Robert King"
-   ],
-   "year": "2009–2016",
-   "background": "https://images.metahub.space/background/medium/tt1442462/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1442462/img",
-   "trailers": [
-    {
-     "source": "bybDgWgp-Vo",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt1442462",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2009",
-   "trailerStreams": [
-    {
-     "title": "The Good Wife",
-     "ytId": "bybDgWgp-Vo"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1442462"
-    },
-    {
-     "name": "The Good Wife",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-good-wife-1442462"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Julianna Margulies",
-     "category": "Cast",
-     "url": "stremio:///search?search=Julianna%20Margulies"
-    },
-    {
-     "name": "Chris Noth",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Noth"
-    },
-    {
-     "name": "Josh Charles",
-     "category": "Cast",
-     "url": "stremio:///search?search=Josh%20Charles"
-    },
-    {
-     "name": "Michelle King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Michelle%20King"
-    },
-    {
-     "name": "Robert King",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20King"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1442462.jpg"
-  },
-  {
-   "name": "All Her Fault",
-   "cast": [
-    "Sarah Snook",
-    "Michael Peña",
-    "Dakota Fanning"
-   ],
-   "country": "United States, Australia, United Kingdom",
-   "description": "Marissa Irvine dirige-se a uma morada comum — 14 Arthur Avenue — para ir buscar o seu filho, Milo, depois de uma simples brincadeira entre crianças. No entanto, quando a porta se abre, uma estranha atende... e afirma nunca ter ouvido falar de Milo. O que começa como um mal-entendido transforma-se rapidamente num pesadelo angustiante, à medida que Marissa se vê envolvida numa teia de segredos, mentiras e revelações perturbadoras. À medida que o mistério se adensa, Marissa terá de enfrentar o passado de outras pessoas — e o seu próprio — para proteger a sua família e descobrir a verdade.",
-   "genre": [
-    "Drama",
-    "Mystery",
-    "Thriller"
-   ],
-   "imdbRating": "7.5",
-   "released": "2025-11-06T00:00:00.000Z",
-   "year": "2025",
-   "trailers": [
-    {
-     "source": "J9y_QvRwu64",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [
-    "Megan Gallagher"
-   ],
-   "runtime": "52 min",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt31314751/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31314751/img",
-   "awards": "Nominated for 7 Primetime Emmys. 5 wins & 28 nominations total",
-   "id": "tt31314751",
-   "genres": [
-    "Mistério",
-    "Crime"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "All Her Fault",
-     "ytId": "J9y_QvRwu64"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31314751"
-    },
-    {
-     "name": "All Her Fault",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/all-her-fault-31314751"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Sarah Snook",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sarah%20Snook"
-    },
-    {
-     "name": "Michael Peña",
-     "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Pe%C3%B1a"
-    },
-    {
-     "name": "Dakota Fanning",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dakota%20Fanning"
-    },
-    {
-     "name": "Megan Gallagher",
-     "category": "Writers",
-     "url": "stremio:///search?search=Megan%20Gallagher"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31314751.jpg"
-  },
-  {
-   "id": "tt50688819",
-   "logo": "https://live.metahub.space/logo/medium/tt50688819/img",
-   "background": "https://live.metahub.space/background/medium/tt50688819/img",
-   "name": "Oobah: Scams for a Better Tomorrow",
-   "description": "Oobah Butler sets his sights on the world’s biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories.",
-   "genres": [
-    "Comédia",
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "i3fXiJ40WOw",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Oobah Butler"
-   ],
-   "credits_cast": [
-    {
-     "character": "Self",
-     "name": "Oobah Butler",
-     "profile_path": "/9UuILq5CjRsKtZ9GO6oInyBofEI.jpg",
-     "id": 3065844
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50688819.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14218830.jpg"
   }
  ]
 }

@@ -228,71 +228,86 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38781172.jpg"
   },
   {
-   "name": "Toy Story 5",
-   "awards": "4 nominations total",
-   "cast": [
-    "Tom Hanks",
-    "Tim Allen",
-    "Joan Cusack"
-   ],
-   "country": "United States",
-   "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
+   "name": "The Wild Robot",
+   "description": "A aventura épica acompanha a viagem de um robot, ROZZUM unidade 7134, \"Roz\" para abreviar, que naufraga numa ilha desabitada e tem de aprender a adaptar-se ao ambiente agreste, construindo gradualmente relações com os animais da ilha e adotando um pequeno ganso órfão.",
    "director": [
-    "McKenna Harris",
-    "Andrew Stanton"
+    "Chris Sanders"
    ],
    "genre": [
     "Animation",
     "Adventure",
-    "Comedy"
+    "Family"
    ],
-   "imdbRating": "7.3",
-   "released": "2026-06-19T00:00:00.000Z",
+   "imdbRating": "8.1",
+   "released": "2024-09-27T00:00:00.000Z",
    "writer": [
-    "Andrew Stanton",
-    "McKenna Harris"
+    "Chris Sanders",
+    "Peter Brown"
    ],
-   "year": "2026",
-   "runtime": "102 min",
+   "year": "2024",
    "trailers": [
     {
-     "source": "QftAW9TTmuQ",
+     "source": "VUCNBAmse04",
      "type": "Trailer"
     },
     {
-     "source": "c51ND9Hdbw0",
+     "source": "hbciJR5CsBA",
+     "type": "Trailer"
+    },
+    {
+     "source": "njPNg0A9VpY",
+     "type": "Trailer"
+    },
+    {
+     "source": "67vbA5ZJdKQ",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt29355505/img",
-   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
-   "id": "tt29355505",
-   "genres": [
-    "Animação",
-    "Família",
-    "Comédia"
+   "cast": [
+    "Lupita Nyong&apos;o",
+    "Pedro Pascal",
+    "Kit Connor"
    ],
-   "releaseInfo": "2026",
+   "country": "United States, Japan",
+   "background": "https://images.metahub.space/background/medium/tt29623480/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29623480/img",
+   "runtime": "102 min",
+   "awards": "Nominated for 3 Oscars. 96 wins & 108 nominations total",
+   "id": "tt29623480",
+   "genres": [
+    "Família",
+    "Animação",
+    "Ficção científica"
+   ],
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Toy Story 5",
-     "ytId": "QftAW9TTmuQ"
+     "title": "The Wild Robot",
+     "ytId": "VUCNBAmse04"
     },
     {
-     "title": "Toy Story 5",
-     "ytId": "c51ND9Hdbw0"
+     "title": "The Wild Robot",
+     "ytId": "hbciJR5CsBA"
+    },
+    {
+     "title": "The Wild Robot",
+     "ytId": "njPNg0A9VpY"
+    },
+    {
+     "title": "The Wild Robot",
+     "ytId": "67vbA5ZJdKQ"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "8.1",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt29355505"
+     "url": "https://imdb.com/title/tt29623480"
     },
     {
-     "name": "Toy Story 5",
+     "name": "The Wild Robot",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
+     "url": "https://www.strem.io/s/movie/the-wild-robot-29623480"
     },
     {
      "name": "Animation",
@@ -305,53 +320,173 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Lupita Nyong&apos;o",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lupita%20Nyong%26apos%3Bo"
+    },
+    {
+     "name": "Pedro Pascal",
+     "category": "Cast",
+     "url": "stremio:///search?search=Pedro%20Pascal"
+    },
+    {
+     "name": "Kit Connor",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kit%20Connor"
+    },
+    {
+     "name": "Chris Sanders",
+     "category": "Writers",
+     "url": "stremio:///search?search=Chris%20Sanders"
+    },
+    {
+     "name": "Peter Brown",
+     "category": "Writers",
+     "url": "stremio:///search?search=Peter%20Brown"
+    },
+    {
+     "name": "Chris Sanders",
+     "category": "Directors",
+     "url": "stremio:///search?search=Chris%20Sanders"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29623480",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29623480.jpg"
+  },
+  {
+   "name": "Moana",
+   "cast": [
+    "Dwayne Johnson",
+    "Catherine Laga&apos;aia",
+    "Rena Owen"
+   ],
+   "country": "United States, New Zealand, Canada, Hungary",
+   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
+   "director": [
+    "Thomas Kail"
+   ],
+   "genre": [
+    "Action",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "5.8",
+   "released": "2026-07-10T00:00:00.000Z",
+   "writer": [
+    "Jared Bush",
+    "Dana Ledoux Miller",
+    "Ron Clements"
+   ],
+   "year": "2026",
+   "background": "https://images.metahub.space/background/medium/tt27419466/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
+   "trailers": [
+    {
+     "source": "EEz5xbzYPKI",
+     "type": "Trailer"
+    },
+    {
+     "source": "n7f6hlKsxxo",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "115 min",
+   "id": "tt27419466",
+   "genres": [
+    "Família",
+    "Fantasia",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Moana",
+     "ytId": "EEz5xbzYPKI"
+    },
+    {
+     "title": "Moana",
+     "ytId": "n7f6hlKsxxo"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27419466"
+    },
+    {
+     "name": "Moana",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/moana-27419466"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
      "name": "Comedy",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Tom Hanks",
+     "name": "Dwayne Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Hanks"
+     "url": "stremio:///search?search=Dwayne%20Johnson"
     },
     {
-     "name": "Tim Allen",
+     "name": "Catherine Laga&apos;aia",
      "category": "Cast",
-     "url": "stremio:///search?search=Tim%20Allen"
+     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
     },
     {
-     "name": "Joan Cusack",
+     "name": "Rena Owen",
      "category": "Cast",
-     "url": "stremio:///search?search=Joan%20Cusack"
+     "url": "stremio:///search?search=Rena%20Owen"
     },
     {
-     "name": "Andrew Stanton",
+     "name": "Jared Bush",
      "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Stanton"
+     "url": "stremio:///search?search=Jared%20Bush"
     },
     {
-     "name": "McKenna Harris",
+     "name": "Dana Ledoux Miller",
      "category": "Writers",
-     "url": "stremio:///search?search=McKenna%20Harris"
+     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
     },
     {
-     "name": "McKenna Harris",
-     "category": "Directors",
-     "url": "stremio:///search?search=McKenna%20Harris"
+     "name": "Ron Clements",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Clements"
     },
     {
-     "name": "Andrew Stanton",
+     "name": "Thomas Kail",
      "category": "Directors",
-     "url": "stremio:///search?search=Andrew%20Stanton"
+     "url": "stremio:///search?search=Thomas%20Kail"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt29355505",
+    "defaultVideoId": "tt27419466",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
   },
   {
    "name": "Star Wars: The Mandalorian and Grogu",
@@ -488,75 +623,76 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg"
   },
   {
-   "name": "Moana",
+   "name": "Toy Story 5",
+   "awards": "4 nominations total",
    "cast": [
-    "Dwayne Johnson",
-    "Catherine Laga&apos;aia",
-    "Rena Owen"
+    "Tom Hanks",
+    "Tim Allen",
+    "Joan Cusack"
    ],
-   "country": "United States, New Zealand, Canada, Hungary",
-   "description": "Vaiana responde à chamada do oceano e, pela primeira vez, viaja para além do recife da sua ilha de Motunui com o infame semideus Maui numa jornada inesquecível para restaurar a prosperidade do seu povo.",
+   "country": "United States",
+   "description": "Buzz, Woody e Jessie enfrentam o maior dos desafios após serem apresentados ao que as crianças adoram hoje em dia: aparelhos eletrónicos.",
    "director": [
-    "Thomas Kail"
+    "McKenna Harris",
+    "Andrew Stanton"
    ],
    "genre": [
-    "Action",
+    "Animation",
     "Adventure",
     "Comedy"
    ],
-   "imdbRating": "5.8",
-   "released": "2026-07-10T00:00:00.000Z",
+   "imdbRating": "7.3",
+   "released": "2026-06-19T00:00:00.000Z",
    "writer": [
-    "Jared Bush",
-    "Dana Ledoux Miller",
-    "Ron Clements"
+    "Andrew Stanton",
+    "McKenna Harris"
    ],
    "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt27419466/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27419466/img",
+   "runtime": "102 min",
    "trailers": [
     {
-     "source": "EEz5xbzYPKI",
+     "source": "QftAW9TTmuQ",
      "type": "Trailer"
     },
     {
-     "source": "n7f6hlKsxxo",
+     "source": "c51ND9Hdbw0",
      "type": "Trailer"
     }
    ],
-   "runtime": "115 min",
-   "id": "tt27419466",
+   "background": "https://images.metahub.space/background/medium/tt29355505/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29355505/img",
+   "id": "tt29355505",
    "genres": [
+    "Animação",
     "Família",
-    "Fantasia",
     "Comédia"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Moana",
-     "ytId": "EEz5xbzYPKI"
+     "title": "Toy Story 5",
+     "ytId": "QftAW9TTmuQ"
     },
     {
-     "title": "Moana",
-     "ytId": "n7f6hlKsxxo"
+     "title": "Toy Story 5",
+     "ytId": "c51ND9Hdbw0"
     }
    ],
    "links": [
     {
-     "name": "5.8",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt27419466"
+     "url": "https://imdb.com/title/tt29355505"
     },
     {
-     "name": "Moana",
+     "name": "Toy Story 5",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/moana-27419466"
+     "url": "https://www.strem.io/s/movie/toy-story-5-29355505"
     },
     {
-     "name": "Action",
+     "name": "Animation",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
     },
     {
      "name": "Adventure",
@@ -569,114 +705,128 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
-     "name": "Dwayne Johnson",
+     "name": "Tom Hanks",
      "category": "Cast",
-     "url": "stremio:///search?search=Dwayne%20Johnson"
+     "url": "stremio:///search?search=Tom%20Hanks"
     },
     {
-     "name": "Catherine Laga&apos;aia",
+     "name": "Tim Allen",
      "category": "Cast",
-     "url": "stremio:///search?search=Catherine%20Laga%26apos%3Baia"
+     "url": "stremio:///search?search=Tim%20Allen"
     },
     {
-     "name": "Rena Owen",
+     "name": "Joan Cusack",
      "category": "Cast",
-     "url": "stremio:///search?search=Rena%20Owen"
+     "url": "stremio:///search?search=Joan%20Cusack"
     },
     {
-     "name": "Jared Bush",
+     "name": "Andrew Stanton",
      "category": "Writers",
-     "url": "stremio:///search?search=Jared%20Bush"
+     "url": "stremio:///search?search=Andrew%20Stanton"
     },
     {
-     "name": "Dana Ledoux Miller",
+     "name": "McKenna Harris",
      "category": "Writers",
-     "url": "stremio:///search?search=Dana%20Ledoux%20Miller"
+     "url": "stremio:///search?search=McKenna%20Harris"
     },
     {
-     "name": "Ron Clements",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Clements"
-    },
-    {
-     "name": "Thomas Kail",
+     "name": "McKenna Harris",
      "category": "Directors",
-     "url": "stremio:///search?search=Thomas%20Kail"
+     "url": "stremio:///search?search=McKenna%20Harris"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Andrew%20Stanton"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt27419466",
+    "defaultVideoId": "tt29355505",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "awards": "Nominated for 3 Oscars. 20 wins & 75 nominations total",
-   "cast": [
-    "Daniel Radcliffe",
-    "Rupert Grint",
-    "Emma Watson"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Harry Potter é um rapaz órfão que vive infeliz com a sua tia e o seu tio, os Dursley. Recebe uma carta a convidá-lo para frequentar Hogwarts, uma escola famosa especializada na formação de jovens feiticeiros. Inicialmente, o tio impede-o de ler a carta, mas pouco depois Harry recebe a visita de Hagrid, o guarda-caça de Hogwarts, que vem buscá-lo para o levar à escola. Harry entra num mundo mágico que nunca imaginou e vive muitas aventuras com os seus novos amigos, Ron Weasley e Hermione Granger.",
+   "name": "Flow",
+   "awards": "Won 1 Oscar. 63 wins & 79 nominations total",
+   "country": "Latvia, Belgium, France",
+   "description": "Um gato solitário, deslocado por uma grande inundação, encontra refúgio num barco com várias espécies. Juntos, enfrentam os desafios da adaptação a um mundo transformado.",
    "director": [
-    "Chris Columbus"
+    "Gints Zilbalodis"
    ],
-   "dvdRelease": "2012-12-16T00:00:00.000Z",
    "genre": [
+    "Animation",
     "Adventure",
-    "Family",
-    "Fantasy"
+    "Family"
    ],
-   "imdbRating": "7.7",
-   "name": "Harry Potter and the Sorcerer's Stone",
-   "released": "2001-11-16T00:00:00.000Z",
-   "runtime": "152 min",
+   "imdbRating": "7.8",
+   "released": "2025-02-14T00:00:00.000Z",
+   "writer": [
+    "Gints Zilbalodis",
+    "Matiss Kaza",
+    "Ron Dyens"
+   ],
+   "year": "2025",
+   "runtime": "85 min",
    "trailers": [
     {
-     "source": "l91Km49W9qI",
+     "source": "shsVQvHUTxw",
      "type": "Trailer"
     },
     {
-     "source": "PbdM1db3JbY",
+     "source": "ZgZccxuj2RY",
+     "type": "Trailer"
+    },
+    {
+     "source": "82WW9dVbglI",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "J.K. Rowling",
-    "Steve Kloves"
+   "cast": [
+    "Gints Zilbalodis",
+    "Thomas Oldman",
+    "Alexander David Bobson"
    ],
-   "year": "2001",
-   "background": "https://images.metahub.space/background/medium/tt0241527/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
-   "id": "tt0241527",
+   "background": "https://images.metahub.space/background/medium/tt4772188/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4772188/img",
+   "id": "tt4772188",
    "genres": [
     "Aventura",
-    "Fantasia"
+    "Animação",
+    "Família"
    ],
-   "releaseInfo": "2001",
+   "releaseInfo": "2024",
    "trailerStreams": [
     {
-     "title": "Harry Potter and the Sorcerer's Stone",
-     "ytId": "l91Km49W9qI"
+     "title": "Flow",
+     "ytId": "shsVQvHUTxw"
     },
     {
-     "title": "Harry Potter and the Sorcerer's Stone",
-     "ytId": "PbdM1db3JbY"
+     "title": "Flow",
+     "ytId": "ZgZccxuj2RY"
+    },
+    {
+     "title": "Flow",
+     "ytId": "82WW9dVbglI"
     }
    ],
    "links": [
     {
-     "name": "7.7",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0241527"
+     "url": "https://imdb.com/title/tt4772188"
     },
     {
-     "name": "Harry Potter and the Sorcerer's Stone",
+     "name": "Flow",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/harry-potter-and-the-sorcerers-stone-0241527"
+     "url": "https://www.strem.io/s/movie/flow-4772188"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
     },
     {
      "name": "Adventure",
@@ -689,48 +839,169 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Daniel Radcliffe",
+     "name": "Gints Zilbalodis",
      "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Radcliffe"
+     "url": "stremio:///search?search=Gints%20Zilbalodis"
     },
     {
-     "name": "Rupert Grint",
+     "name": "Thomas Oldman",
      "category": "Cast",
-     "url": "stremio:///search?search=Rupert%20Grint"
+     "url": "stremio:///search?search=Thomas%20Oldman"
     },
     {
-     "name": "Emma Watson",
+     "name": "Alexander David Bobson",
      "category": "Cast",
-     "url": "stremio:///search?search=Emma%20Watson"
+     "url": "stremio:///search?search=Alexander%20David%20Bobson"
     },
     {
-     "name": "J.K. Rowling",
+     "name": "Gints Zilbalodis",
      "category": "Writers",
-     "url": "stremio:///search?search=J.K.%20Rowling"
+     "url": "stremio:///search?search=Gints%20Zilbalodis"
     },
     {
-     "name": "Steve Kloves",
+     "name": "Matiss Kaza",
      "category": "Writers",
-     "url": "stremio:///search?search=Steve%20Kloves"
+     "url": "stremio:///search?search=Matiss%20Kaza"
     },
     {
-     "name": "Chris Columbus",
+     "name": "Ron Dyens",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ron%20Dyens"
+    },
+    {
+     "name": "Gints Zilbalodis",
      "category": "Directors",
-     "url": "stremio:///search?search=Chris%20Columbus"
+     "url": "stremio:///search?search=Gints%20Zilbalodis"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0241527",
+    "defaultVideoId": "tt4772188",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0241527.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4772188.jpg"
+  },
+  {
+   "name": "Black Christmas",
+   "cast": [
+    "Imogen Poots",
+    "Aleyse Shannon",
+    "Lily Donoghue"
+   ],
+   "country": "Canada, New Zealand, United States",
+   "description": "Em “Natal Sangrento”, (Black Christmas), mesmo a tempo das férias natalícias, chega uma oportuna abordagem a um clássico de terror, onde um assassino enfrenta um formidável grupo de amigas de uma irmandade.",
+   "director": [
+    "Sophia Takal"
+   ],
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "3.5",
+   "released": "2019-12-13T00:00:00.000Z",
+   "writer": [
+    "Sophia Takal",
+    "April Wolfe",
+    "Roy Moore"
+   ],
+   "year": "2019",
+   "trailers": [
+    {
+     "source": "gF4yRYbo1WE",
+     "type": "Trailer"
+    }
+   ],
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fblackchristmas2019_220065%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794/ImageRenderer/111/168/images/no_image_111x168.jpg/220065/images/masterrepository/fandango/220065/blackchristmas2019.jpg\" alt=\"Black Christmas (2019)\" title=\"Black Christmas (2019)\" border=\"0\" /></a> Opens Friday, Dec 13, 2019</p><p>A killer terrorizes sorority sisters during Christmastime.</p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fblackchristmas2019_220065%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fblackchristmas2019-trailer%2f220065%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fblackchristmas2019_220065%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.794//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fblackchristmas2019_220065%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123"
+   },
+   "runtime": "92 min",
+   "dvdRelease": "2019-12-13T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt10481868/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10481868/img",
+   "id": "tt10481868",
+   "genres": [
+    "Terror",
+    "Mistério"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Black Christmas",
+     "ytId": "gF4yRYbo1WE"
+    }
+   ],
+   "links": [
+    {
+     "name": "3.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10481868"
+    },
+    {
+     "name": "Black Christmas",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/black-christmas-10481868"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Imogen Poots",
+     "category": "Cast",
+     "url": "stremio:///search?search=Imogen%20Poots"
+    },
+    {
+     "name": "Aleyse Shannon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Aleyse%20Shannon"
+    },
+    {
+     "name": "Lily Donoghue",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lily%20Donoghue"
+    },
+    {
+     "name": "Sophia Takal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Sophia%20Takal"
+    },
+    {
+     "name": "April Wolfe",
+     "category": "Writers",
+     "url": "stremio:///search?search=April%20Wolfe"
+    },
+    {
+     "name": "Roy Moore",
+     "category": "Writers",
+     "url": "stremio:///search?search=Roy%20Moore"
+    },
+    {
+     "name": "Sophia Takal",
+     "category": "Directors",
+     "url": "stremio:///search?search=Sophia%20Takal"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt10481868",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10481868.jpg"
   },
   {
    "country": "United States",
@@ -880,332 +1151,75 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2321555.jpg"
   },
   {
-   "name": "The Super Mario Bros. Movie",
+   "awards": "Nominated for 3 Oscars. 20 wins & 75 nominations total",
    "cast": [
-    "Chris Pratt",
-    "Anya Taylor-Joy",
-    "Charlie Day"
+    "Daniel Radcliffe",
+    "Rupert Grint",
+    "Emma Watson"
    ],
-   "country": "Japan, United States, France",
-   "description": "Enquanto trabalham numa instalação subterrânea para reparar uma conduta de água, os canalizadores naturais de Brooklyn Mario e o seu irmão Luigi são transportados através de um tubo misterioso para um novo mundo mágico. Mas quando os irmãos são separados, Mario embarca numa missão épica para se reencontrar com o irmão com a ajuda de Princesa Peach e Toad.",
+   "country": "United Kingdom, United States",
+   "description": "Harry Potter é um rapaz órfão que vive infeliz com a sua tia e o seu tio, os Dursley. Recebe uma carta a convidá-lo para frequentar Hogwarts, uma escola famosa especializada na formação de jovens feiticeiros. Inicialmente, o tio impede-o de ler a carta, mas pouco depois Harry recebe a visita de Hagrid, o guarda-caça de Hogwarts, que vem buscá-lo para o levar à escola. Harry entra num mundo mágico que nunca imaginou e vive muitas aventuras com os seus novos amigos, Ron Weasley e Hermione Granger.",
    "director": [
-    "Aaron Horvath",
-    "Michael Jelenic",
-    "Pierre Leduc"
+    "Chris Columbus"
    ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "7.0",
-   "released": "2023-04-05T00:00:00.000Z",
-   "writer": [
-    "Matthew Fogel"
-   ],
-   "year": "2023",
-   "trailers": [
-    {
-     "source": "RjNcTBXTk4I",
-     "type": "Trailer"
-    },
-    {
-     "source": "TnGl01FkMMo",
-     "type": "Trailer"
-    },
-    {
-     "source": "KydqdKKyGEk",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt6718170/img",
-   "logo": "https://images.metahub.space/logo/medium/tt6718170/img",
-   "runtime": "93 min",
-   "dvdRelease": "2023-05-16T00:00:00.000Z",
-   "awards": "2 wins & 49 nominations total",
-   "id": "tt6718170",
-   "genres": [
-    "Família",
-    "Comédia",
-    "Aventura"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "The Super Mario Bros. Movie",
-     "ytId": "RjNcTBXTk4I"
-    },
-    {
-     "title": "The Super Mario Bros. Movie",
-     "ytId": "TnGl01FkMMo"
-    },
-    {
-     "title": "The Super Mario Bros. Movie",
-     "ytId": "KydqdKKyGEk"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt6718170"
-    },
-    {
-     "name": "The Super Mario Bros. Movie",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-super-mario-bros-movie-6718170"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Chris Pratt",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Pratt"
-    },
-    {
-     "name": "Anya Taylor-Joy",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anya%20Taylor-Joy"
-    },
-    {
-     "name": "Charlie Day",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charlie%20Day"
-    },
-    {
-     "name": "Matthew Fogel",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20Fogel"
-    },
-    {
-     "name": "Aaron Horvath",
-     "category": "Directors",
-     "url": "stremio:///search?search=Aaron%20Horvath"
-    },
-    {
-     "name": "Michael Jelenic",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Jelenic"
-    },
-    {
-     "name": "Pierre Leduc",
-     "category": "Directors",
-     "url": "stremio:///search?search=Pierre%20Leduc"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt6718170",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6718170.jpg"
-  },
-  {
-   "awards": null,
-   "cast": [
-    "Chevy Chase",
-    "Beverly D&apos;Angelo",
-    "Juliette Lewis"
-   ],
-   "country": "United States",
-   "description": "Neste período de férias, Clark Griswold prometeu ao seu clã que iria curtir o mais tradicional e divertido Natal de todos os tempos. Antes que possam cantar Noite Feliz, há 25 mil luzes no teto, um peru explosivo na mesa de jantar, além de uma equipe da SWAT cercando o local.",
-   "director": [
-    "Jeremiah S. Chechik"
-   ],
-   "dvdRelease": "2010-12-22T00:00:00.000Z",
-   "genre": [
-    "Comedy"
-   ],
-   "imdbRating": "7.5",
-   "name": "National Lampoon's Christmas Vacation",
-   "released": "1989-12-01T00:00:00.000Z",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "tLVd4ipC5Lc",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [
-    "John Hughes"
-   ],
-   "year": "1989",
-   "background": "https://images.metahub.space/background/medium/tt0097958/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0097958/img",
-   "id": "tt0097958",
-   "genres": [
-    "Comédia"
-   ],
-   "releaseInfo": "1989",
-   "trailerStreams": [
-    {
-     "title": "National Lampoon's Christmas Vacation",
-     "ytId": "tLVd4ipC5Lc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.5",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0097958"
-    },
-    {
-     "name": "National Lampoon's Christmas Vacation",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/national-lampoons-christmas-vacation-0097958"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Chevy Chase",
-     "category": "Cast",
-     "url": "stremio:///search?search=Chevy%20Chase"
-    },
-    {
-     "name": "Beverly D&apos;Angelo",
-     "category": "Cast",
-     "url": "stremio:///search?search=Beverly%20D%26apos%3BAngelo"
-    },
-    {
-     "name": "Juliette Lewis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Juliette%20Lewis"
-    },
-    {
-     "name": "John Hughes",
-     "category": "Writers",
-     "url": "stremio:///search?search=John%20Hughes"
-    },
-    {
-     "name": "Jeremiah S. Chechik",
-     "category": "Directors",
-     "url": "stremio:///search?search=Jeremiah%20S.%20Chechik"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0097958",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0097958.jpg"
-  },
-  {
-   "awards": "2 wins & 9 nominations total",
-   "cast": [
-    "Will Ferrell",
-    "James Caan",
-    "Bob Newhart"
-   ],
-   "country": "United States",
-   "description": "Há 30 anos um bebê acabou indo parar num vilarejo de duendes no Pólo Norte. Sob os cuidados de um pai adotivo, o garoto foi criado com os outros habitantes locais, tornando-se um deles. Hoje Buddy é um adulto e descobriu que é humano. Ele decide, então, se a",
-   "director": [
-    "Jon Favreau"
-   ],
-   "dvdRelease": "2015-12-11T00:00:00.000Z",
+   "dvdRelease": "2012-12-16T00:00:00.000Z",
    "genre": [
     "Adventure",
-    "Comedy",
-    "Family"
+    "Family",
+    "Fantasy"
    ],
-   "imdbRating": "7.1",
-   "name": "Elf",
-   "released": "2003-11-07T00:00:00.000Z",
-   "runtime": "97 min",
+   "imdbRating": "7.7",
+   "name": "Harry Potter and the Sorcerer's Stone",
+   "released": "2001-11-16T00:00:00.000Z",
+   "runtime": "152 min",
    "trailers": [
     {
-     "source": "14o38xfHlXc",
+     "source": "l91Km49W9qI",
      "type": "Trailer"
     },
     {
-     "source": "BMlmu18gIDM",
-     "type": "Trailer"
-    },
-    {
-     "source": "W4NIrWgRfrA",
-     "type": "Trailer"
-    },
-    {
-     "source": "LMPyILBePfI",
-     "type": "Trailer"
-    },
-    {
-     "source": "GA8EcNisRvA",
+     "source": "PbdM1db3JbY",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "David Berenbaum"
+    "J.K. Rowling",
+    "Steve Kloves"
    ],
-   "year": "2003",
-   "background": "https://images.metahub.space/background/medium/tt0319343/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0319343/img",
-   "id": "tt0319343",
+   "year": "2001",
+   "background": "https://images.metahub.space/background/medium/tt0241527/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0241527/img",
+   "id": "tt0241527",
    "genres": [
-    "Comédia",
-    "Família",
+    "Aventura",
     "Fantasia"
    ],
-   "releaseInfo": "2003",
+   "releaseInfo": "2001",
    "trailerStreams": [
     {
-     "title": "Elf",
-     "ytId": "14o38xfHlXc"
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "ytId": "l91Km49W9qI"
     },
     {
-     "title": "Elf",
-     "ytId": "BMlmu18gIDM"
-    },
-    {
-     "title": "Elf",
-     "ytId": "W4NIrWgRfrA"
-    },
-    {
-     "title": "Elf",
-     "ytId": "LMPyILBePfI"
-    },
-    {
-     "title": "Elf",
-     "ytId": "GA8EcNisRvA"
+     "title": "Harry Potter and the Sorcerer's Stone",
+     "ytId": "PbdM1db3JbY"
     }
    ],
    "links": [
     {
-     "name": "7.1",
+     "name": "7.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0319343"
+     "url": "https://imdb.com/title/tt0241527"
     },
     {
-     "name": "Elf",
+     "name": "Harry Potter and the Sorcerer's Stone",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/elf-0319343"
+     "url": "https://www.strem.io/s/movie/harry-potter-and-the-sorcerers-stone-0241527"
     },
     {
      "name": "Adventure",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
     },
     {
      "name": "Family",
@@ -1213,38 +1227,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
     },
     {
-     "name": "Will Ferrell",
-     "category": "Cast",
-     "url": "stremio:///search?search=Will%20Ferrell"
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
     },
     {
-     "name": "James Caan",
+     "name": "Daniel Radcliffe",
      "category": "Cast",
-     "url": "stremio:///search?search=James%20Caan"
+     "url": "stremio:///search?search=Daniel%20Radcliffe"
     },
     {
-     "name": "Bob Newhart",
+     "name": "Rupert Grint",
      "category": "Cast",
-     "url": "stremio:///search?search=Bob%20Newhart"
+     "url": "stremio:///search?search=Rupert%20Grint"
     },
     {
-     "name": "David Berenbaum",
+     "name": "Emma Watson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emma%20Watson"
+    },
+    {
+     "name": "J.K. Rowling",
      "category": "Writers",
-     "url": "stremio:///search?search=David%20Berenbaum"
+     "url": "stremio:///search?search=J.K.%20Rowling"
     },
     {
-     "name": "Jon Favreau",
+     "name": "Steve Kloves",
+     "category": "Writers",
+     "url": "stremio:///search?search=Steve%20Kloves"
+    },
+    {
+     "name": "Chris Columbus",
      "category": "Directors",
-     "url": "stremio:///search?search=Jon%20Favreau"
+     "url": "stremio:///search?search=Chris%20Columbus"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0319343",
+    "defaultVideoId": "tt0241527",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0319343.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0241527.jpg"
   }
  ]
 }

@@ -94084,7 +94084,7 @@
  "meta|tt44899802": {
   "n": "Talentos em Grande",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": true,
   "cm": {
@@ -94332,7 +94332,7 @@
  "meta|tt45577545": {
   "n": "Reis da Tarde",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": true,
   "cm": {
@@ -96368,7 +96368,7 @@
  "meta|tt14148898": {
   "n": "Drag Race Spain",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": false,
   "cm": {
@@ -247201,7 +247201,7 @@
  "meta|tt38811120": {
   "n": "The Good Boss",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": true
  },
@@ -275115,18 +275115,36 @@
  "meta|tt49013050": {
   "n": "Plein",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": true,
   "cm": {
-   "status": "Continuing",
    "id": "tt49013050",
+   "logo": "https://live.metahub.space/logo/medium/tt49013050/img",
+   "background": "https://live.metahub.space/background/medium/tt49013050/img",
+   "name": "Plein",
+   "description": "For Philipp Plein, more is more. Between Cannes, New York, Milan, and L.A., he drives his fashion empire forward-and pushes everyone around him to their limits. But while his girlfriend Andreea struggles with her health and his mother Hanne stands up to him, the very thing that matters most to Philipp begins to falter: control.",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2026–",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [],
+   "director": [],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    }
   },
-  "g": []
+  "d": "For Philipp Plein, more is more. Between Cannes, New York, Milan, and L.A., he drives his fashion empire forward-and pushes everyone around him to their limits. But while his girlfriend Andreea struggles with her health and his mother Hanne stands up to him, the very thing that matters most to Philipp begins to falter: control.",
+  "y": "2026",
+  "g": [
+   "Documentário"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/ejdbv5HCqwdLt0nOnsffOOGTjZO.jpg"
  },
  "meta|tt20859904": {
   "n": "Mike Judge's Beavis and Butt-Head",
@@ -276736,7 +276754,7 @@
  "meta|tt43620104": {
   "n": "Mascarade",
   "ty": "series",
-  "at": "2026-11-17",
+  "at": "2026-11-24",
   "v": 4,
   "rpdb": true,
   "cm": {
@@ -276744,8 +276762,11 @@
    "logo": "https://live.metahub.space/logo/medium/tt43620104/img",
    "background": "https://live.metahub.space/background/medium/tt43620104/img",
    "name": "Mascarade",
-   "description": "",
-   "genres": [],
+   "description": "They've starred in tons of movies. He hasn't seen a single one. Welcome to Mascarade, where Monsieur Loris must unmask French cinema stars.",
+   "genres": [
+    "Comedy",
+    "Reality"
+   ],
    "releaseInfo": "2026–",
    "status": "Continuing",
    "trailers": [],
@@ -276792,7 +276813,7 @@
      "id": 145121
     },
     {
-     "character": "",
+     "character": "Rick (américain)",
      "name": "Raphaël Quenard",
      "profile_path": "/lMLzNtZKalKX1tO0QHKlfZphg7m.jpg",
      "id": 2185414
@@ -276804,22 +276825,32 @@
      "id": 587184
     },
     {
-     "character": "",
+     "character": "Jean (magicien)",
      "name": "Jean-Pascal Zadi",
      "profile_path": "/wkI3RmKxNMtxNBOfSpgMgQsR53K.jpg",
      "id": 1496508
+    },
+    {
+     "character": "Alfredo",
+     "name": "Hossein Taheri",
+     "profile_path": "/qlMN83cEkwI8VJY0pUuyVjImXNP.jpg",
+     "id": 1038543
     }
    ],
    "credits_crew": [],
    "director": [],
+   "imdbRating": "4.9",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    }
   },
-  "d": "",
+  "d": "They've starred in tons of movies. He hasn't seen a single one. Welcome to Mascarade, where Monsieur Loris must unmask French cinema stars.",
   "y": "2026",
-  "g": [],
+  "g": [
+   "Comédia",
+   "Reality"
+  ],
   "p": "https://image.tmdb.org/t/p/w500/gdDUz1FqDDN2criezLPyQ3j0qdu.jpg",
   "r": "4.9"
  },
@@ -295672,5 +295703,1964 @@
   ],
   "p": "https://image.tmdb.org/t/p/w500/wXVYDQl2ENk3NhT1ETS4C8cAEOC.jpg",
   "r": "4.8"
+ },
+ "meta|tt0211181": {
+  "n": "102 Dalmatians",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "102 Dalmatians",
+   "year": "2000",
+   "runtime": "100 min",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "released": "2000-11-22T00:00:00.000Z",
+   "director": [
+    "Kevin Lima"
+   ],
+   "writer": [
+    "Dodie Smith",
+    "Kristen Buckley",
+    "Brian Regan"
+   ],
+   "cast": [
+    "Glenn Close",
+    "Gérard Depardieu",
+    "Ioan Gruffudd"
+   ],
+   "imdbRating": "4.9",
+   "description": "Cruella DeVil gets out of prison and goes after the puppies once more.",
+   "country": "United States, United Kingdom, Monaco",
+   "awards": "Nominated for 1 Oscar. 1 win & 8 nominations total",
+   "dvdRelease": "2016-07-12T00:00:00.000Z",
+   "trailers": [
+    {
+     "source": "VytB0HxR2eQ",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt0211181/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0211181/img",
+   "id": "tt0211181",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Family"
+   ],
+   "releaseInfo": "2000",
+   "trailerStreams": [
+    {
+     "title": "102 Dalmatians",
+     "ytId": "VytB0HxR2eQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "4.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0211181"
+    },
+    {
+     "name": "102 Dalmatians",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/102-dalmatians-0211181"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
+    },
+    {
+     "name": "Glenn Close",
+     "category": "Cast",
+     "url": "stremio:///search?search=Glenn%20Close"
+    },
+    {
+     "name": "Gérard Depardieu",
+     "category": "Cast",
+     "url": "stremio:///search?search=G%C3%A9rard%20Depardieu"
+    },
+    {
+     "name": "Ioan Gruffudd",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ioan%20Gruffudd"
+    },
+    {
+     "name": "Dodie Smith",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dodie%20Smith"
+    },
+    {
+     "name": "Kristen Buckley",
+     "category": "Writers",
+     "url": "stremio:///search?search=Kristen%20Buckley"
+    },
+    {
+     "name": "Brian Regan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brian%20Regan"
+    },
+    {
+     "name": "Kevin Lima",
+     "category": "Directors",
+     "url": "stremio:///search?search=Kevin%20Lima"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0211181",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Nesta hilariante aventura, Branquita, a cachorrinha dálmata sem manchas, parte em busca das suas manchas. Junta-se então a Palpites, uma espirituosa e delirante arara que acha que é um rottweiler. Ladrando loucamente, este improvável duo lidera um pelotão de cachorrinhos com a missão de vencer a sempre astuciosa Cruela De Vil (Glenn Close). Plena de perseguições, situações arriscadas, artimanhas hilariantes e fugas ousadas de Londres às ruas de Paris, esta aventura tem o seu culminar de forma emocionante numa padaria parisiense.",
+  "y": "2000",
+  "g": [
+   "Família",
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/2qHfh9DfYgi1rQNwUoQRxERblRj.jpg",
+  "r": "4.9"
+ },
+ "meta|tt0290002": {
+  "n": "Meet the Fockers",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "2 wins & 7 nominations total",
+   "cast": [
+    "Ben Stiller",
+    "Robert De Niro",
+    "Blythe Danner"
+   ],
+   "country": "United States",
+   "description": "All hell breaks loose when the Byrnes family meets the Focker family for the first time.",
+   "director": [
+    "Jay Roach"
+   ],
+   "dvdRelease": "2016-08-10T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Romance"
+   ],
+   "imdbRating": "6.4",
+   "name": "Meet the Fockers",
+   "released": "2004-12-22T00:00:00.000Z",
+   "runtime": "115 min",
+   "trailers": [
+    {
+     "source": "iusZySaeI10",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Jim Herzfeld",
+    "Marc Hyman",
+    "John Hamburg"
+   ],
+   "year": "2004",
+   "background": "https://images.metahub.space/background/medium/tt0290002/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0290002/img",
+   "id": "tt0290002",
+   "genres": [
+    "Comedy",
+    "Romance"
+   ],
+   "releaseInfo": "2004",
+   "trailerStreams": [
+    {
+     "title": "Meet the Fockers",
+     "ytId": "iusZySaeI10"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0290002"
+    },
+    {
+     "name": "Meet the Fockers",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/meet-the-fockers-0290002"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Ben Stiller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Stiller"
+    },
+    {
+     "name": "Robert De Niro",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20De%20Niro"
+    },
+    {
+     "name": "Blythe Danner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Blythe%20Danner"
+    },
+    {
+     "name": "Jim Herzfeld",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jim%20Herzfeld"
+    },
+    {
+     "name": "Marc Hyman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Marc%20Hyman"
+    },
+    {
+     "name": "John Hamburg",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Hamburg"
+    },
+    {
+     "name": "Jay Roach",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jay%20Roach"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0290002",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Depois de autorizarem o casamento entre o enfermeiro Greg Focker (Stiller) e a filha (Polo), Jack Byrnes (De Niro) e a sua mulher (Danner) viajam até Detroit para conhecerem os outros pais, Mr. and Mrs. Focker (Hoffman e Streisand), um casal \"muito diferente\".",
+  "y": "2004",
+  "g": [
+   "Comédia",
+   "Romance"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/667CNSgTPRjW0TjSlokvhKtYWAZ.jpg",
+  "r": "6.4"
+ },
+ "meta|tt30057084": {
+  "n": "Babygirl",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Babygirl",
+   "cast": [
+    "Nicole Kidman",
+    "Harris Dickinson",
+    "Antonio Banderas"
+   ],
+   "country": "Netherlands, United States",
+   "description": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much-younger intern.",
+   "director": [
+    "Halina Reijn"
+   ],
+   "genre": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "imdbRating": "5.7",
+   "released": "2024-12-25T00:00:00.000Z",
+   "writer": [
+    "Halina Reijn"
+   ],
+   "year": "2024",
+   "runtime": "115 min",
+   "trailers": [
+    {
+     "source": "9XXoNB0lVGo",
+     "type": "Trailer"
+    },
+    {
+     "source": "wieIlWbtzNw",
+     "type": "Trailer"
+    },
+    {
+     "source": "-8Sx6U6Ou0Q",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "11 wins & 25 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt30057084/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30057084/img",
+   "id": "tt30057084",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "Babygirl",
+     "ytId": "9XXoNB0lVGo"
+    },
+    {
+     "title": "Babygirl",
+     "ytId": "wieIlWbtzNw"
+    },
+    {
+     "title": "Babygirl",
+     "ytId": "-8Sx6U6Ou0Q"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30057084"
+    },
+    {
+     "name": "Babygirl",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/babygirl-30057084"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Nicole Kidman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicole%20Kidman"
+    },
+    {
+     "name": "Harris Dickinson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harris%20Dickinson"
+    },
+    {
+     "name": "Antonio Banderas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonio%20Banderas"
+    },
+    {
+     "name": "Halina Reijn",
+     "category": "Writers",
+     "url": "stremio:///search?search=Halina%20Reijn"
+    },
+    {
+     "name": "Halina Reijn",
+     "category": "Directors",
+     "url": "stremio:///search?search=Halina%20Reijn"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt30057084",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "A CEO de uma empresa coloca a sua carreira e a sua família em risco quando começa um caso tórrido com o seu estagiário muito mais jovem.",
+  "y": "2024",
+  "g": [
+   "Romance",
+   "Thriller"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/ogKTFIo6OOJ684vtIxcYU7B8ymG.jpg",
+  "r": "5.7"
+ },
+ "meta|tt9620292": {
+  "n": "Promising Young Woman",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Promising Young Woman",
+   "cast": [
+    "Carey Mulligan",
+    "Bo Burnham",
+    "Alison Brie"
+   ],
+   "description": "An unexpected encounter gives a wickedly smart and cunning woman a chance to right the wrongs from her past.",
+   "director": [
+    "Emerald Fennell"
+   ],
+   "genre": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "imdbRating": "7.5",
+   "released": "2020-12-25T00:00:00.000Z",
+   "writer": [
+    "Emerald Fennell"
+   ],
+   "year": "2020",
+   "trailers": [
+    {
+     "source": "we5yV7Gc9rY",
+     "type": "Trailer"
+    },
+    {
+     "source": "7i5kiFDunk8",
+     "type": "Trailer"
+    }
+   ],
+   "country": "United Kingdom, United States",
+   "runtime": "114 min",
+   "background": "https://images.metahub.space/background/medium/tt9620292/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9620292/img",
+   "awards": "Won 1 Oscar. 117 wins & 196 nominations total",
+   "dvdRelease": "2021-01-15T00:00:00.000Z",
+   "id": "tt9620292",
+   "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+   ],
+   "releaseInfo": "2020",
+   "trailerStreams": [
+    {
+     "title": "Promising Young Woman",
+     "ytId": "we5yV7Gc9rY"
+    },
+    {
+     "title": "Promising Young Woman",
+     "ytId": "7i5kiFDunk8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9620292"
+    },
+    {
+     "name": "Promising Young Woman",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/promising-young-woman-9620292"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "Carey Mulligan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carey%20Mulligan"
+    },
+    {
+     "name": "Bo Burnham",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bo%20Burnham"
+    },
+    {
+     "name": "Alison Brie",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alison%20Brie"
+    },
+    {
+     "name": "Emerald Fennell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Emerald%20Fennell"
+    },
+    {
+     "name": "Emerald Fennell",
+     "category": "Directors",
+     "url": "stremio:///search?search=Emerald%20Fennell"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9620292",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Todos pensavam que Cassie era uma miúda com potencial... Até um misterioso acontecimento ter subitamente arruinado o seu futuro. Nada na vida da Cassie é o que parece ser: ela é perversamente inteligente, tentadoramente astuta, e está a viver uma vida dupla e secreta durante a noite. E agora, um encontro inesperado está prestes a dar a Cassie a oportunidade de corrigir os erros do passado nesta história emocionante e extremamente cativante.",
+  "y": "2020",
+  "g": [
+   "Thriller",
+   "Crime",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/kfZSS5uCD0dsVr1mpgUv4nHu9nI.jpg",
+  "r": "7.5"
+ },
+ "meta|tt2382320": {
+  "n": "No Time to Die",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "Won 1 Oscar. 54 wins & 75 nominations total",
+   "cast": [
+    "Daniel Craig",
+    "Ana de Armas",
+    "Rami Malek"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+   "director": [
+    "Cary Joji Fukunaga"
+   ],
+   "dvdRelease": "2021-11-09T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "imdbRating": "7.3",
+   "name": "No Time to Die",
+   "released": "2021-10-08T00:00:00.000Z",
+   "runtime": "163 min",
+   "writer": [
+    "Neal Purvis",
+    "Robert Wade",
+    "Cary Joji Fukunaga"
+   ],
+   "year": "2021",
+   "trailers": [
+    {
+     "source": "N_gD9-Oa0fg",
+     "type": "Trailer"
+    },
+    {
+     "source": "FREBR6FH1rg",
+     "type": "Trailer"
+    },
+    {
+     "source": "vw2FOYjCz38",
+     "type": "Trailer"
+    },
+    {
+     "source": "BIhNsAtPbPI",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt2382320/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2382320/img",
+   "id": "tt2382320",
+   "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "No Time to Die",
+     "ytId": "N_gD9-Oa0fg"
+    },
+    {
+     "title": "No Time to Die",
+     "ytId": "FREBR6FH1rg"
+    },
+    {
+     "title": "No Time to Die",
+     "ytId": "vw2FOYjCz38"
+    },
+    {
+     "title": "No Time to Die",
+     "ytId": "BIhNsAtPbPI"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt2382320"
+    },
+    {
+     "name": "No Time to Die",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/no-time-to-die-2382320"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daniel Craig",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Craig"
+    },
+    {
+     "name": "Ana de Armas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%20de%20Armas"
+    },
+    {
+     "name": "Rami Malek",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rami%20Malek"
+    },
+    {
+     "name": "Neal Purvis",
+     "category": "Writers",
+     "url": "stremio:///search?search=Neal%20Purvis"
+    },
+    {
+     "name": "Robert Wade",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Wade"
+    },
+    {
+     "name": "Cary Joji Fukunaga",
+     "category": "Writers",
+     "url": "stremio:///search?search=Cary%20Joji%20Fukunaga"
+    },
+    {
+     "name": "Cary Joji Fukunaga",
+     "category": "Directors",
+     "url": "stremio:///search?search=Cary%20Joji%20Fukunaga"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt2382320",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Bond já está reformado e decide aproveitar o seu tempo de descanso na Jamaica. Mas, a sua paz é rapidamente interrompida quando o seu velho amigo Felix Leiter, da CIA, aparece e pede ajuda. A missão desta vez é resgatar um cientista sequestrado. O novo desafio acaba por ser muito mais traiçoeiro do que esperava e Bond entra numa trilha de um vilão misterioso.",
+  "y": "2021",
+  "g": [
+   "Ação",
+   "Thriller",
+   "Aventura"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/f9pNYmeRogWXXVjtWMVtnppZtEV.jpg",
+  "r": "7.3"
+ },
+ "meta|tt29634843": {
+  "n": "40 Acres",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "40 Acres",
+   "cast": [
+    "Danielle Deadwyler",
+    "Kataem O&apos;Connor",
+    "Michael Greyeyes"
+   ],
+   "country": "Canada",
+   "description": "In a post-apocalyptic world with food scarcity, a Black family of Canadian farmers descended from American Civil War migrants defend their homestead against cannibals trying to seize their resources.",
+   "director": [
+    "R.T. Thorne"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "Fantasy"
+   ],
+   "imdbRating": "6.4",
+   "released": "2025-07-02T00:00:00.000Z",
+   "writer": [
+    "R.T. Thorne",
+    "Glenn Taylor",
+    "Lora Campbell"
+   ],
+   "year": "2025",
+   "runtime": "113 min",
+   "trailers": [
+    {
+     "source": "qTOVmMjGpc0",
+     "type": "Trailer"
+    },
+    {
+     "source": "O9sloHiZvmg",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt29634843/img",
+   "logo": "https://images.metahub.space/logo/medium/tt29634843/img",
+   "awards": "17 wins & 24 nominations total",
+   "id": "tt29634843",
+   "genres": [
+    "Action",
+    "Drama",
+    "Fantasy"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "40 Acres",
+     "ytId": "qTOVmMjGpc0"
+    },
+    {
+     "title": "40 Acres",
+     "ytId": "O9sloHiZvmg"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt29634843"
+    },
+    {
+     "name": "40 Acres",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/40-acres-29634843"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Fantasy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
+    },
+    {
+     "name": "Danielle Deadwyler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danielle%20Deadwyler"
+    },
+    {
+     "name": "Kataem O&apos;Connor",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kataem%20O%26apos%3BConnor"
+    },
+    {
+     "name": "Michael Greyeyes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Michael%20Greyeyes"
+    },
+    {
+     "name": "R.T. Thorne",
+     "category": "Writers",
+     "url": "stremio:///search?search=R.T.%20Thorne"
+    },
+    {
+     "name": "Glenn Taylor",
+     "category": "Writers",
+     "url": "stremio:///search?search=Glenn%20Taylor"
+    },
+    {
+     "name": "Lora Campbell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lora%20Campbell"
+    },
+    {
+     "name": "R.T. Thorne",
+     "category": "Directors",
+     "url": "stremio:///search?search=R.T.%20Thorne"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29634843",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Em um futuro devastado pela fome, a veterana Hailey luta para proteger sua família e sua fazenda no interior do Canadá. Quando uma milícia violenta tenta tomar suas terras, mãe e filho precisam se unir para sobreviver.",
+  "y": "2025",
+  "g": [
+   "Ação",
+   "Thriller",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/hFU9lETUKtDnBBAuhARQOUDJOSO.jpg",
+  "r": "6.4"
+ },
+ "meta|tt7573844": {
+  "n": "Into the Okavango",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "country": "United States, Angola, Botswana, Namibia, South Africa",
+   "description": "A passionate conservation biologist brings together a river bushman fearful of losing his past and a young scientist uncertain of her future on an epic, four-month expedition across three countries, through unexplored and dangerou...",
+   "director": [
+    "Neil Gelinas"
+   ],
+   "genre": [
+    "Documentary"
+   ],
+   "imdbRating": "7.5",
+   "name": "Into the Okavango",
+   "released": "2020-03-22T00:00:00.000Z",
+   "runtime": "94 min",
+   "writer": [
+    "Neil Gelinas",
+    "Brian Newell"
+   ],
+   "year": "2018",
+   "trailers": [
+    {
+     "source": "k_WKlZ_fh1c",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Chris Boyes",
+    "Jack Boyes",
+    "Steve Boyes"
+   ],
+   "awards": "1 win & 3 nominations",
+   "dvdRelease": "2018-12-16T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt7573844/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7573844/img",
+   "id": "tt7573844",
+   "genres": [
+    "Documentary"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "Into the Okavango",
+     "ytId": "k_WKlZ_fh1c"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7573844"
+    },
+    {
+     "name": "Into the Okavango",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/into-the-okavango-7573844"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
+    },
+    {
+     "name": "Chris Boyes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chris%20Boyes"
+    },
+    {
+     "name": "Jack Boyes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jack%20Boyes"
+    },
+    {
+     "name": "Steve Boyes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Steve%20Boyes"
+    },
+    {
+     "name": "Neil Gelinas",
+     "category": "Writers",
+     "url": "stremio:///search?search=Neil%20Gelinas"
+    },
+    {
+     "name": "Brian Newell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Brian%20Newell"
+    },
+    {
+     "name": "Neil Gelinas",
+     "category": "Directors",
+     "url": "stremio:///search?search=Neil%20Gelinas"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7573844",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "A bacia do Rio Okavango oferece uma fonte de água vital para cerca de um milhão de pessoas, a maior população de elefantes da África e populações significantes de leões, guepardos e centenas de espécies de pássaros. No entanto, este oásis uma vez intacto, agora está ameaçado devido à pressão crescente de atividade humana.",
+  "y": "2018",
+  "g": [
+   "Documentário",
+   "Cinema TV"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/m9gwHoOTgdoTXFVwXABJHV3SWOc.jpg",
+  "r": "7.5"
+ },
+ "meta|tt15715052": {
+  "n": "History of the World: Part II",
+  "ty": "series",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "History of the World: Part II",
+   "cast": [
+    "Mel Brooks",
+    "Ike Barinholtz",
+    "Nick Kroll"
+   ],
+   "description": "Sketches depicting key moments from prehistoric times through modern day, showing human civilization's major developments and cultural shifts across different regions and eras.",
+   "genre": [
+    "Comedy",
+    "History"
+   ],
+   "imdbRating": "5.5",
+   "released": "2023-03-06T00:00:00.000Z",
+   "year": "2023",
+   "runtime": "26 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "jok7jfOUUxI",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "writer": [],
+   "background": "https://images.metahub.space/background/medium/tt15715052/img",
+   "logo": "https://images.metahub.space/logo/medium/tt15715052/img",
+   "country": "United States",
+   "awards": "Nominated for 2 Primetime Emmys. 1 win & 7 nominations total",
+   "id": "tt15715052",
+   "genres": [
+    "Comedy",
+    "History"
+   ],
+   "releaseInfo": "2023",
+   "trailerStreams": [
+    {
+     "title": "History of the World: Part II",
+     "ytId": "jok7jfOUUxI"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt15715052"
+    },
+    {
+     "name": "History of the World: Part II",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/history-of-the-world-part-ii-15715052"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Mel Brooks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mel%20Brooks"
+    },
+    {
+     "name": "Ike Barinholtz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ike%20Barinholtz"
+    },
+    {
+     "name": "Nick Kroll",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nick%20Kroll"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "Após esperar mais de 40 anos, há finalmente uma sequela para o filme estimulante de Mel Brooks, \"Uma Louca História do Mundo\", onde cada episódio apresenta uma variedade de sketches que nos transportam através de diferentes períodos da história humana.",
+  "y": "2023",
+  "g": [
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/vQAX03ujKBp2lE42ywIVbIzm4sH.jpg",
+  "r": "5.5"
+ },
+ "meta|tt0115433": {
+  "n": "101 Dalmatians",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "Nominated for 1 BAFTA Award. 3 wins & 10 nominations total",
+   "cast": [
+    "Glenn Close",
+    "Jeff Daniels",
+    "Joely Richardson"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "An evil high-fashion designer plots to steal dalmatian puppies in order to make an extravagant fur coat but creates an extravagant mess instead.",
+   "director": [
+    "Stephen Herek"
+   ],
+   "dvdRelease": "2016-01-04T00:00:00.000Z",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "5.8",
+   "name": "101 Dalmatians",
+   "released": "1996-11-27T00:00:00.000Z",
+   "runtime": "103 min",
+   "trailers": [
+    {
+     "source": "mom8X7zk7PE",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Dodie Smith",
+    "John Hughes"
+   ],
+   "year": "1996",
+   "background": "https://images.metahub.space/background/medium/tt0115433/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0115433/img",
+   "id": "tt0115433",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime"
+   ],
+   "releaseInfo": "1996",
+   "trailerStreams": [
+    {
+     "title": "101 Dalmatians",
+     "ytId": "mom8X7zk7PE"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0115433"
+    },
+    {
+     "name": "101 Dalmatians",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/101-dalmatians-0115433"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Glenn Close",
+     "category": "Cast",
+     "url": "stremio:///search?search=Glenn%20Close"
+    },
+    {
+     "name": "Jeff Daniels",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jeff%20Daniels"
+    },
+    {
+     "name": "Joely Richardson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joely%20Richardson"
+    },
+    {
+     "name": "Dodie Smith",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dodie%20Smith"
+    },
+    {
+     "name": "John Hughes",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Hughes"
+    },
+    {
+     "name": "Stephen Herek",
+     "category": "Directors",
+     "url": "stremio:///search?search=Stephen%20Herek"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0115433",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Com a magia da Disney, “Os Cento e Um Dálmatas” animam todas as idades numa comédia cheia de ação, com a brilhante Glenn Close como Cruela De Vil. Num apartamento de Londres, o casal de dálmatas Pongo e Perdy, e os “seus humanos” Roger e Anita, rejubilam com o nascimento de 15 cachorrinhos. Mas quando a Sra. De Vil, obcecada por peles com pintas, e os seus desajeitados associados, Jasper e Horace, raptam a ninhada e todos os demais dálmatas de Londres, Pongo e Perdy reúnem os animais da cidade para os resgatar. O plano leva-os a um emocionante final, com muito tumulto pelo meio, procurando os cachorrinhos, iludindo os captores e enfrentando Cruela. Apresentando um dos maiores e mais mimosos conjuntos de cães de um filme, “Os Cento e Um Dálmatas” conta ainda com um soberbo elenco: Jeff Daniels, Joely Richardson e Joan Plowright.",
+  "y": "1996",
+  "g": [
+   "Família",
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/coDFY3BYKjbCLIrQRWSagoxuQRm.jpg",
+  "r": "5.8"
+ },
+ "meta|tt50016818": {
+  "n": "Last Meal",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "id": "tt50016818",
+   "logo": "https://live.metahub.space/logo/medium/tt50016818/img",
+   "background": "https://live.metahub.space/background/medium/tt50016818/img",
+   "name": "Last Meal",
+   "description": "The passionate love between pianist Sebahat and Bekir is cut short when he vanishes without a trace. Years later, when fate reunites them, they realize that neither time, distance, nor the life Sebahat has built could ever break their bond. Together, they embark on a journey that pushes the very limits of love, loyalty, and sacrifice because some loves are worth fighting for, no matter what.",
+   "genres": [
+    "Romance",
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "122 min",
+   "trailers": [],
+   "cast": [
+    "Öykü Karayel",
+    "Özcan Deniz",
+    "Nejat İşler"
+   ],
+   "credits_cast": [
+    {
+     "character": "Canan",
+     "name": "Öykü Karayel",
+     "profile_path": "/rzMUT2OMgnlsDLKUIdPDM0q2mgf.jpg",
+     "id": 1255433
+    },
+    {
+     "character": "Bekir",
+     "name": "Özcan Deniz",
+     "profile_path": "/1xugZDdp0vskwozHBSTCIFQPjCV.jpg",
+     "id": 1250945
+    },
+    {
+     "character": "",
+     "name": "Nejat İşler",
+     "profile_path": "/xFhmBekB2odhRY335lJ6rWiIdyw.jpg",
+     "id": 98834
+    },
+    {
+     "character": "",
+     "name": "Helin Kandemir",
+     "profile_path": "/9ivMPksoFlRaL1eKRTZu4mkScOQ.jpg",
+     "id": 2091979
+    },
+    {
+     "character": "",
+     "name": "Gonca Vuslateri",
+     "profile_path": "/wu2gvPyKKAGEVn1VX5WmHJ5szYI.jpg",
+     "id": 1258448
+    },
+    {
+     "character": "",
+     "name": "Tilbe Saran",
+     "profile_path": "/ciN8qfqgII8T45jAAspqv722qXZ.jpg",
+     "id": 46070
+    },
+    {
+     "character": "",
+     "name": "Özgür Emre Yıldırım",
+     "profile_path": "/pekejv4I94Hp1UbLq3G3ksf3jkB.jpg",
+     "id": 1603806
+    },
+    {
+     "character": "",
+     "name": "Ceyda Düvenci",
+     "profile_path": "/1lmyMdhQCPuxo8gIjwLpZTUwEza.jpg",
+     "id": 115008
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Özcan Deniz",
+     "profile_path": "/1xugZDdp0vskwozHBSTCIFQPjCV.jpg",
+     "id": 1250945
+    }
+   ],
+   "director": [
+    "Özcan Deniz"
+   ],
+   "imdbRating": "4.9",
+   "behaviorHints": {
+    "defaultVideoId": "tt50016818",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Bekir está numa missão secreta e a rota de fuga cruza-se com a de uma jovem pianista, Sebahat. É o início de acontecimentos que irão unir o destino desta dupla. Anos mais tarde, Sabahat convida as quatro vizinhas para jantar. É então que as convidadas começam a ouvir a épica história de amor e o doloroso passado de Bekir e Sebahat vem ao de cima. Uma história de amor que desafia a própria vida.",
+  "y": "2026",
+  "g": [
+   "Romance",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/uDsZs8kzMayn3mbuinu4YNXuldZ.jpg",
+  "r": "5.1"
+ },
+ "meta|tt0166813": {
+  "n": "Spirit: Stallion of the Cimarron",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "Nominated for 1 Oscar. 10 wins & 22 nominations total",
+   "cast": [
+    "Matt Damon",
+    "James Cromwell",
+    "Daniel Studi"
+   ],
+   "country": "United States",
+   "description": "A captured mustang remains determined to return to his herd no matter what.",
+   "director": [
+    "Kelly Asbury",
+    "Lorna Cook"
+   ],
+   "dvdRelease": "2015-11-25T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Drama"
+   ],
+   "imdbRating": "7.2",
+   "name": "Spirit: Stallion of the Cimarron",
+   "released": "2002-05-24T00:00:00.000Z",
+   "runtime": "83 min",
+   "trailers": [
+    {
+     "source": "4UzmHsy4u8s",
+     "type": "Trailer"
+    },
+    {
+     "source": "RPJ4EQ2Eh9I",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "John Fusco"
+   ],
+   "year": "2002",
+   "background": "https://images.metahub.space/background/medium/tt0166813/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0166813/img",
+   "id": "tt0166813",
+   "genres": [
+    "Animation",
+    "Adventure",
+    "Drama"
+   ],
+   "releaseInfo": "2002",
+   "trailerStreams": [
+    {
+     "title": "Spirit: Stallion of the Cimarron",
+     "ytId": "4UzmHsy4u8s"
+    },
+    {
+     "title": "Spirit: Stallion of the Cimarron",
+     "ytId": "RPJ4EQ2Eh9I"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0166813"
+    },
+    {
+     "name": "Spirit: Stallion of the Cimarron",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/spirit-stallion-of-the-cimarron-0166813"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Matt Damon",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matt%20Damon"
+    },
+    {
+     "name": "James Cromwell",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Cromwell"
+    },
+    {
+     "name": "Daniel Studi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Studi"
+    },
+    {
+     "name": "John Fusco",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Fusco"
+    },
+    {
+     "name": "Kelly Asbury",
+     "category": "Directors",
+     "url": "stremio:///search?search=Kelly%20Asbury"
+    },
+    {
+     "name": "Lorna Cook",
+     "category": "Directors",
+     "url": "stremio:///search?search=Lorna%20Cook"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0166813",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Um Mustang capturado continua determinado a regressar à sua manada, aconteça o que acontecer.",
+  "y": "2002",
+  "g": [
+   "Aventura",
+   "Animação",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/irV6niVRsyNj3r7fpRMHLkaD1Uh.jpg",
+  "r": "7.2"
+ },
+ "meta|tt27987047": {
+  "n": "Boots",
+  "ty": "series",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Boots",
+   "cast": [
+    "Miles Heizer",
+    "Ana Ayora",
+    "Blake Burt"
+   ],
+   "country": "United States",
+   "description": "Bullied gay teen Cameron joins the Marine Corps with his best friend despite risks. In boot camp they experience profound personal change amid danger, as their platoon confronts both literal and figurative landmines.",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "imdbRating": "7.8",
+   "released": "2025-10-09T00:00:00.000Z",
+   "writer": [
+    "Andy Parker"
+   ],
+   "year": "2025",
+   "runtime": "43 min",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "2mjN2f5tu2s",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt27987047/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27987047/img",
+   "awards": "2 wins & 3 nominations total",
+   "id": "tt27987047",
+   "genres": [
+    "Comedy",
+    "Drama",
+    "History"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Boots",
+     "ytId": "2mjN2f5tu2s"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27987047"
+    },
+    {
+     "name": "Boots",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/boots-27987047"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Miles Heizer",
+     "category": "Cast",
+     "url": "stremio:///search?search=Miles%20Heizer"
+    },
+    {
+     "name": "Ana Ayora",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ana%20Ayora"
+    },
+    {
+     "name": "Blake Burt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Blake%20Burt"
+    },
+    {
+     "name": "Andy Parker",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andy%20Parker"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "Depois de se juntar aos fuzileiros, um jovem vítima de bullying encontra um novo propósito e uma inesperada camaradagem junto do seu grupo diverso de recrutas.",
+  "y": "2025",
+  "g": [
+   "Comédia",
+   "Drama",
+   "War & Politics"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/ygAfDMY2FgeF1qFSENyX5MMuwQh.jpg",
+  "r": "7.8"
+ },
+ "meta|tt0070909": {
+  "n": "Westworld",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "4 nominations total",
+   "cast": [
+    "Yul Brynner",
+    "Richard Benjamin",
+    "James Brolin"
+   ],
+   "country": "United States",
+   "description": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
+   "director": [
+    "Michael Crichton"
+   ],
+   "dvdRelease": "2010-09-25T00:00:00.000Z",
+   "genre": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "imdbRating": "6.9",
+   "name": "Westworld",
+   "released": "1973-11-21T00:00:00.000Z",
+   "runtime": "89 min",
+   "trailers": [
+    {
+     "source": "_vezkZIMm74",
+     "type": "Trailer"
+    },
+    {
+     "source": "ojDtMkYII_M",
+     "type": "Trailer"
+    },
+    {
+     "source": "dnR5jqiG-og",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Michael Crichton"
+   ],
+   "year": "1973",
+   "background": "https://images.metahub.space/background/medium/tt0070909/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0070909/img",
+   "id": "tt0070909",
+   "genres": [
+    "Action",
+    "Drama",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "1973",
+   "trailerStreams": [
+    {
+     "title": "Westworld",
+     "ytId": "_vezkZIMm74"
+    },
+    {
+     "title": "Westworld",
+     "ytId": "ojDtMkYII_M"
+    },
+    {
+     "title": "Westworld",
+     "ytId": "dnR5jqiG-og"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0070909"
+    },
+    {
+     "name": "Westworld",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/westworld-0070909"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Yul Brynner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Yul%20Brynner"
+    },
+    {
+     "name": "Richard Benjamin",
+     "category": "Cast",
+     "url": "stremio:///search?search=Richard%20Benjamin"
+    },
+    {
+     "name": "James Brolin",
+     "category": "Cast",
+     "url": "stremio:///search?search=James%20Brolin"
+    },
+    {
+     "name": "Michael Crichton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Crichton"
+    },
+    {
+     "name": "Michael Crichton",
+     "category": "Directors",
+     "url": "stremio:///search?search=Michael%20Crichton"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0070909",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Dois amigos, Peter Martin (Richard Benjamin) e John Blane (James Brolin), resolvem passar as férias no hipermoderno centro de diversões de Delos, que cobra US$ 1000 por pessoa ao dia. Lá foram criados os ambientes da Roma Imperial, Idade Média e do Velho Oeste, todos povoados por robôs perfeitos. Eles optam por este último \"mundo\", onde enfrentariam em duelos \"terríveis bandidos\" e seduziriam \"belas mulheres\". Os andróides foram programados para satisfazer os clientes e nunca os ferir, mas devido a problemas técnicos os robôs dos três \"mundos\" se tornam assassinos. Enquanto vários visitantes são mortos a dupla de amigos tenta fugir dos robôs, principalmente de um pistoleiro eletrônico que\t quer matá-los de qualquer jeito.",
+  "y": "1973",
+  "g": [
+   "Aventura",
+   "Ficção científica",
+   "Faroeste"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/5PraFOIOtaHbB7ZZjffh9SYgTM7.jpg",
+  "r": "6.9"
+ },
+ "meta|tt9213874": {
+  "n": "Breeder",
+  "ty": "movie",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Breeder",
+   "cast": [
+    "Daniel Doheny",
+    "Dot-Marie Jones",
+    "Maddie Phillips"
+   ],
+   "country": "United States, Canada",
+   "description": "An eccentric poodle breeder lures a broke college student to her remote ranch with a promise of research funding. But, as he soon learns, there's a catch.",
+   "director": [
+    "Alex Goyette"
+   ],
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "",
+   "released": "2026-06-06T00:00:00.000Z",
+   "writer": [
+    "Alex Goyette"
+   ],
+   "year": "2026",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "9MeILB0M274",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt9213874/img",
+   "background": "https://images.metahub.space/background/medium/tt9213874/img",
+   "id": "tt9213874",
+   "genres": [
+    "Horror",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Breeder",
+     "ytId": "9MeILB0M274"
+    }
+   ],
+   "links": [
+    {
+     "name": "Breeder",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/breeder-9213874"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daniel Doheny",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Doheny"
+    },
+    {
+     "name": "Dot-Marie Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dot-Marie%20Jones"
+    },
+    {
+     "name": "Maddie Phillips",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maddie%20Phillips"
+    },
+    {
+     "name": "Alex Goyette",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Goyette"
+    },
+    {
+     "name": "Alex Goyette",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Goyette"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9213874",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Uma excêntrica criadora de caniches atrai um estudante universitário sem dinheiro para o seu rancho isolado, com a promessa de financiamento para uma investigação. Mas, como ele depressa descobre, há um senão.",
+  "y": "2026",
+  "g": [
+   "Terror",
+   "Thriller"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/alsb3UC17kxIcytLWvwkmL0STgU.jpg",
+  "r": "6.5"
+ },
+ "meta|tt50164002": {
+  "n": "The Substitute",
+  "ty": "series",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "id": "tt50164002",
+   "logo": "https://live.metahub.space/logo/medium/tt50164002/img",
+   "background": "https://live.metahub.space/background/medium/tt50164002/img",
+   "name": "The Substitute",
+   "description": "A brilliant but low-income student uses his smarts for his own gain, but his wealthy rival might ruin both of their lives",
+   "genres": [
+    "Crime",
+    "Mystery",
+    "Drama"
+   ],
+   "releaseInfo": "2026–",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Bae Hyeon-seong",
+    "Cha Kang-yoon",
+    "Park Yoon-ho"
+   ],
+   "credits_cast": [
+    {
+     "character": "Nam Jae-yeob",
+     "name": "Bae Hyeon-seong",
+     "profile_path": "/1z0z1OXEsrD5k6P5QGb6t8eBwEH.jpg",
+     "id": 2377695
+    },
+    {
+     "character": "Kang Geon-tae",
+     "name": "Cha Kang-yoon",
+     "profile_path": "/lu25Zj2LIPs3k183uw1TBTOM3BS.jpg",
+     "id": 4735709
+    },
+    {
+     "character": "Joo Hee-dong",
+     "name": "Park Yoon-ho",
+     "profile_path": "/8hgwNPy66kaWbZlBoaKyOWXU7Q5.jpg",
+     "id": 3507817
+    },
+    {
+     "character": "Shim Kyung-oh",
+     "name": "Uhm Ji-won",
+     "profile_path": "/icqDRYRw9T99ZIHYCxTUrl0s6aS.jpg",
+     "id": 1299243
+    },
+    {
+     "character": "Nam Dong-sik",
+     "name": "Park Hyuk-kwon",
+     "profile_path": "/d4p9iRGNkZUZrFenD0gj0nQN3gR.jpg",
+     "id": 587676
+    },
+    {
+     "character": "Baek Seon-hee",
+     "name": "Baek Ji-won",
+     "profile_path": "/z8nW62LAHh3YW5Z1OlcK7hJcQ5S.jpg",
+     "id": 2720442
+    },
+    {
+     "character": "Chairman Han",
+     "name": "Woo Ji-hyun",
+     "profile_path": "/7Q5mTHP6VTHkvazJDh44TNtPk9a.jpg",
+     "id": 1747746
+    },
+    {
+     "character": "Kang I-yeon",
+     "name": "Lee Da-yeon",
+     "profile_path": "/7W6OiqncO6QHZ7pawMEFDcT0tYS.jpg",
+     "id": 3976055
+    },
+    {
+     "character": "Jin-hyuk",
+     "name": "Gu Do-hyung",
+     "profile_path": "/1TUhN34AND1zdTIg1tY8XUpWajs.jpg",
+     "id": 6254111
+    },
+    {
+     "character": "Lee Seok",
+     "name": "Woo Ji-han",
+     "profile_path": "/oPoxtTkMeGS4QRnz3FM2C6v6Uxu.jpg",
+     "id": 3865938
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Park So-yeon",
+     "profile_path": "/7cKFLdxnCDebuSjSvyualWPuBh7.jpg",
+     "id": 3979699
+    }
+   ],
+   "director": [
+    "Park So-yeon"
+   ],
+   "language": "Korean",
+   "country": "South Korea",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "A brilliant but low-income student uses his smarts for his own gain, but his wealthy rival might ruin both of their lives",
+  "y": "2026",
+  "g": [
+   "Crime",
+   "Mistério",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/oz3eIoEpmPqeu0qvaylynGbxCL5.jpg"
+ },
+ "meta|tt36843594": {
+  "n": "Dig",
+  "ty": "series",
+  "at": "2026-11-24",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Dig",
+   "cast": [
+    "Amy Poehler",
+    "Geraldine Viswanathan",
+    "Antonia Thomas"
+   ],
+   "country": "United States",
+   "description": "Follows four women at an archaeological dig in Greece, each facing different life challenges. When they discover a buried secret that could change history, they become entangled in a dangerous international conspiracy.",
+   "genre": [
+    "Adventure",
+    "Comedy",
+    "Mystery"
+   ],
+   "imdbRating": "",
+   "released": "2026-11-23T00:00:00.000Z",
+   "writer": [
+    "Amy Poehler",
+    "Michael Schur"
+   ],
+   "year": "2026–",
+   "runtime": "32 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "ir2zni8_tP4",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt36843594/img",
+   "background": "https://images.metahub.space/background/medium/tt36843594/img",
+   "id": "tt36843594",
+   "genres": [
+    "Adventure",
+    "Comedy",
+    "Mystery"
+   ],
+   "releaseInfo": "2026–",
+   "trailerStreams": [
+    {
+     "title": "Dig",
+     "ytId": "ir2zni8_tP4"
+    }
+   ],
+   "links": [
+    {
+     "name": "Dig",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/dig-36843594"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Amy Poehler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Amy%20Poehler"
+    },
+    {
+     "name": "Geraldine Viswanathan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Geraldine%20Viswanathan"
+    },
+    {
+     "name": "Antonia Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Antonia%20Thomas"
+    },
+    {
+     "name": "Amy Poehler",
+     "category": "Writers",
+     "url": "stremio:///search?search=Amy%20Poehler"
+    },
+    {
+     "name": "Michael Schur",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Schur"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "Follows four women at an archaeological dig in Greece, each facing different life challenges. When they discover a buried secret that could change history, they become entangled in a dangerous international conspiracy.",
+  "y": "2026",
+  "g": [
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/c5zO3rEJVkxDTPudMMZNh1tief3.jpg"
  }
 }
