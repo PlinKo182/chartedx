@@ -540,7 +540,7 @@
     "Horror",
     "Thriller"
    ],
-   "imdbRating": "7.7",
+   "imdbRating": "7.6",
    "released": "2026-07-31T00:00:00.000Z",
    "writer": [
     "Kirtan Nadagouda"
@@ -624,21 +624,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38984184.jpg"
-  },
-  {
-   "status": "Continuing",
-   "id": "tt29722955",
-   "name": "Battle Tendency",
-   "releaseInfo": "2012–2013",
-   "language": "Japanese",
-   "country": "Japan",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt29722955/img"
   },
   {
    "name": "Widow's Bay",
@@ -840,103 +825,198 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37287335.jpg"
   },
   {
+   "name": "Carrie",
    "cast": [
-    "Rebecca Finch",
-    "Mike Kelson",
-    "Rita Di Tuccio"
+    "Summer H. Howell",
+    "Matthew Lillard",
+    "Amber Midthunder"
    ],
-   "director": [
-    "Becca Hirani"
-   ],
-   "imdbRating": "1.9",
-   "name": "Reign of Chaos",
-   "released": "2022-04-12T00:00:00.000Z",
-   "writer": [
-    "Tom Jolliffe"
-   ],
-   "year": "2022",
-   "description": "Quando o mundo é dominado por uma praga desencadeada pelo malvado senhor Caos, e os humanos são transformados em criaturas raivosas, a humanidade só pode ser salva por três jovens, descendentes de uma Deusa, com o poder de deter o mal do Caos.",
-   "dvdRelease": "2022-04-12T00:00:00.000Z",
+   "country": "Canada, United States",
+   "description": "Após a morte súbita e prematura do pai, Carrie vê-se atirada para o ambiente implacável do ensino secundário público, onde é obrigada a lidar com um escândalo de bullying que se torna viral e abala toda a sua comunidade, com a pressão incessante e a crueldade banal da era das redes sociais e com o despertar de misteriosos poderes telecinéticos que surgem à medida que entra na adolescência.",
    "genre": [
-    "Action",
-    "Sci-Fi"
+    "Drama",
+    "Horror"
    ],
-   "runtime": "77 min",
+   "imdbRating": "7.8",
+   "released": "2026-10-07T00:00:00.000Z",
+   "writer": [
+    "Mike Flanagan"
+   ],
+   "year": "2026–",
+   "runtime": "52 min",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "12K6JVjEYGA",
+     "source": "jkUw2nh6fT0",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt7909204/img",
-   "logo": "https://images.metahub.space/logo/medium/tt7909204/img",
-   "id": "tt7909204",
+   "director": [],
+   "logo": "https://images.metahub.space/logo/medium/tt11540908/img",
+   "background": "https://images.metahub.space/background/medium/tt11540908/img",
+   "id": "tt11540908",
    "genres": [
-    "Ação",
-    "Terror",
-    "Fantasia"
+    "Mistério",
+    "Drama",
+    "Sci-Fi & Fantasy"
    ],
-   "releaseInfo": "2022",
+   "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Reign of Chaos",
-     "ytId": "12K6JVjEYGA"
+     "title": "Carrie",
+     "ytId": "jkUw2nh6fT0"
     }
    ],
    "links": [
     {
-     "name": "2.0",
+     "name": "7.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt7909204"
+     "url": "https://imdb.com/title/tt11540908"
     },
     {
-     "name": "Reign of Chaos",
+     "name": "Carrie",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/reign-of-chaos-7909204"
+     "url": "https://www.strem.io/s/series/carrie-11540908"
     },
     {
-     "name": "Action",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Sci-Fi",
+     "name": "Horror",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
     },
     {
-     "name": "Rebecca Finch",
+     "name": "Summer H. Howell",
      "category": "Cast",
-     "url": "stremio:///search?search=Rebecca%20Finch"
+     "url": "stremio:///search?search=Summer%20H.%20Howell"
     },
     {
-     "name": "Mike Kelson",
+     "name": "Matthew Lillard",
      "category": "Cast",
-     "url": "stremio:///search?search=Mike%20Kelson"
+     "url": "stremio:///search?search=Matthew%20Lillard"
     },
     {
-     "name": "Rita Di Tuccio",
+     "name": "Amber Midthunder",
      "category": "Cast",
-     "url": "stremio:///search?search=Rita%20Di%20Tuccio"
+     "url": "stremio:///search?search=Amber%20Midthunder"
     },
     {
-     "name": "Tom Jolliffe",
+     "name": "Mike Flanagan",
      "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Jolliffe"
-    },
-    {
-     "name": "Becca Hirani",
-     "category": "Directors",
-     "url": "stremio:///search?search=Becca%20Hirani"
+     "url": "stremio:///search?search=Mike%20Flanagan"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt7909204",
-    "hasScheduledVideos": false
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
    },
-   "type": "movie",
+   "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7909204.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11540908.jpg"
+  },
+  {
+   "awards": "Won 2 Primetime Emmys. 86 wins & 237 nominations total",
+   "cast": [
+    "Andrew Lincoln",
+    "Norman Reedus",
+    "Melissa McBride"
+   ],
+   "country": "United States",
+   "description": "Esta série acompanha um grupo de sobreviventes durante um apocalipse de zombies. Por vezes, os conflitos interpessoais são tão perigosos que há quem esteja disposto a qualquer coisa para sobreviver.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "8.1",
+   "name": "The Walking Dead",
+   "released": "2010-10-31T00:00:00.000Z",
+   "runtime": "46 min",
+   "status": "Ended",
+   "writer": [
+    "Frank Darabont"
+   ],
+   "year": "2010–2022",
+   "background": "https://images.metahub.space/background/medium/tt1520211/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1520211/img",
+   "trailers": [
+    {
+     "source": "cu2ApTImBKc",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt1520211",
+   "genres": [
+    "Action & Adventure",
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2010",
+   "trailerStreams": [
+    {
+     "title": "The Walking Dead",
+     "ytId": "cu2ApTImBKc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1520211"
+    },
+    {
+     "name": "The Walking Dead",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-walking-dead-1520211"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Andrew Lincoln",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andrew%20Lincoln"
+    },
+    {
+     "name": "Norman Reedus",
+     "category": "Cast",
+     "url": "stremio:///search?search=Norman%20Reedus"
+    },
+    {
+     "name": "Melissa McBride",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melissa%20McBride"
+    },
+    {
+     "name": "Frank Darabont",
+     "category": "Writers",
+     "url": "stremio:///search?search=Frank%20Darabont"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1520211.jpg"
   }
  ]
 }
