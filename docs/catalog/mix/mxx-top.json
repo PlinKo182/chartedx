@@ -321,103 +321,90 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3501112.jpg"
   },
   {
-   "name": "The Institute",
-   "cast": [
-    "Ben Barnes",
-    "Joe Freeman",
-    "Simone Miller"
+   "id": "tt31842126",
+   "logo": "https://live.metahub.space/logo/medium/tt31842126/img",
+   "background": "https://live.metahub.space/background/medium/tt31842126/img",
+   "name": "The Good Daughter",
+   "description": "The Good Daughter acompanha duas irmãs afastadas que se reencontram após uma situação perigosa em uma escola de sua cidade natal.",
+   "genres": [
+    "Drama",
+    "Mistério"
    ],
-   "country": "United States",
-   "description": "Luke Ellis, um adolescente gênio, é sequestrado e desperta no Instituto, um local misterioso onde outras crianças com habilidades extraordinárias estão passando pelo mesmo. Paralelamente, em uma cidade vizinha, o ex-policial Tim Jamieson, atormentado por seu passado, tenta construir uma nova vida. No entanto, a tranquilidade é passageira, já que suas histórias estão predestinadas a colidir com a de Luke.",
-   "genre": [
-    "Horror",
-    "Sci-Fi",
-    "Thriller"
-   ],
-   "imdbRating": "6.7",
-   "released": "2025-07-13T00:00:00.000Z",
-   "year": "2025–",
+   "releaseInfo": "2026",
+   "status": "Continuing",
    "trailers": [
     {
-     "source": "1BcvAdfyL5Y",
+     "source": "Kjwbn5AF_3E",
      "type": "Trailer"
     }
    ],
+   "cast": [
+    "Rose Byrne",
+    "Meghann Fahy",
+    "Brendan Gleeson"
+   ],
+   "credits_cast": [
+    {
+     "character": "Samantha Quinn",
+     "name": "Rose Byrne",
+     "profile_path": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
+     "id": 9827
+    },
+    {
+     "character": "Charlotte Quinn",
+     "name": "Meghann Fahy",
+     "profile_path": "/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
+     "id": 1028899
+    },
+    {
+     "character": "Rusty",
+     "name": "Brendan Gleeson",
+     "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
+     "id": 2039
+    },
+    {
+     "character": "Lenore",
+     "name": "Harper Steele",
+     "profile_path": "/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg",
+     "id": 1215937
+    },
+    {
+     "character": "Ben",
+     "name": "Michael Dorman",
+     "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
+     "id": 76068
+    },
+    {
+     "character": "Young Sam",
+     "name": "Audrey Grace Marshall",
+     "profile_path": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg",
+     "id": 1918851
+    },
+    {
+     "character": "Young Charlie",
+     "name": "Drew Cheek",
+     "profile_path": null,
+     "id": 5319631
+    },
+    {
+     "character": "Harriet 'Gamma' Quinn",
+     "name": "Olivia Williams",
+     "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
+     "id": 11616
+    }
+   ],
+   "credits_crew": [],
    "director": [],
-   "writer": [
-    "Benjamin Cavell"
-   ],
-   "runtime": "51 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt10946316/img",
-   "logo": "https://images.metahub.space/logo/medium/tt10946316/img",
-   "awards": "4 nominations total",
-   "id": "tt10946316",
-   "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy"
-   ],
-   "releaseInfo": "2025",
-   "trailerStreams": [
-    {
-     "title": "The Institute",
-     "ytId": "1BcvAdfyL5Y"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt10946316"
-    },
-    {
-     "name": "The Institute",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-institute-10946316"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
-    },
-    {
-     "name": "Sci-Fi",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Ben Barnes",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ben%20Barnes"
-    },
-    {
-     "name": "Joe Freeman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joe%20Freeman"
-    },
-    {
-     "name": "Simone Miller",
-     "category": "Cast",
-     "url": "stremio:///search?search=Simone%20Miller"
-    },
-    {
-     "name": "Benjamin Cavell",
-     "category": "Writers",
-     "url": "stremio:///search?search=Benjamin%20Cavell"
-    }
-   ],
+   "language": "English",
+   "country": "United States",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10946316.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
+   "imdbRating": "7.7"
   },
   {
    "name": "The Foreigner",
@@ -537,90 +524,103 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1615160.jpg"
   },
   {
-   "id": "tt31842126",
-   "logo": "https://live.metahub.space/logo/medium/tt31842126/img",
-   "background": "https://live.metahub.space/background/medium/tt31842126/img",
-   "name": "The Good Daughter",
-   "description": "The Good Daughter acompanha duas irmãs afastadas que se reencontram após uma situação perigosa em uma escola de sua cidade natal.",
-   "genres": [
-    "Drama",
-    "Mistério"
+   "name": "The Institute",
+   "cast": [
+    "Ben Barnes",
+    "Joe Freeman",
+    "Simone Miller"
    ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
+   "country": "United States",
+   "description": "Luke Ellis, um adolescente gênio, é sequestrado e desperta no Instituto, um local misterioso onde outras crianças com habilidades extraordinárias estão passando pelo mesmo. Paralelamente, em uma cidade vizinha, o ex-policial Tim Jamieson, atormentado por seu passado, tenta construir uma nova vida. No entanto, a tranquilidade é passageira, já que suas histórias estão predestinadas a colidir com a de Luke.",
+   "genre": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+   ],
+   "imdbRating": "6.7",
+   "released": "2025-07-13T00:00:00.000Z",
+   "year": "2025–",
    "trailers": [
     {
-     "source": "Kjwbn5AF_3E",
+     "source": "1BcvAdfyL5Y",
      "type": "Trailer"
     }
    ],
-   "cast": [
-    "Rose Byrne",
-    "Meghann Fahy",
-    "Brendan Gleeson"
+   "director": [],
+   "writer": [
+    "Benjamin Cavell"
    ],
-   "credits_cast": [
+   "runtime": "51 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt10946316/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10946316/img",
+   "awards": "4 nominations total",
+   "id": "tt10946316",
+   "genres": [
+    "Mistério",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
     {
-     "character": "Samantha Quinn",
-     "name": "Rose Byrne",
-     "profile_path": "/wR8YZlrewVW2FixRBrJcxaXU3R1.jpg",
-     "id": 9827
-    },
-    {
-     "character": "Charlotte Quinn",
-     "name": "Meghann Fahy",
-     "profile_path": "/vn1JwgdLoFerqqgzcg61tgCJ0ZE.jpg",
-     "id": 1028899
-    },
-    {
-     "character": "Rusty",
-     "name": "Brendan Gleeson",
-     "profile_path": "/ctPPJu5ZYDZr1IPmzoNpezczrm0.jpg",
-     "id": 2039
-    },
-    {
-     "character": "Lenore",
-     "name": "Harper Steele",
-     "profile_path": "/jWo1tHt9UDUBaf8m5YgNyH7kOUV.jpg",
-     "id": 1215937
-    },
-    {
-     "character": "Ben",
-     "name": "Michael Dorman",
-     "profile_path": "/7Ut9ofZ7fJAvLZ95LVLO1Lepbuc.jpg",
-     "id": 76068
-    },
-    {
-     "character": "Young Sam",
-     "name": "Audrey Grace Marshall",
-     "profile_path": "/u9j51KnphsW0zg05nCOXxXKlWex.jpg",
-     "id": 1918851
-    },
-    {
-     "character": "Young Charlie",
-     "name": "Drew Cheek",
-     "profile_path": null,
-     "id": 5319631
-    },
-    {
-     "character": "Harriet 'Gamma' Quinn",
-     "name": "Olivia Williams",
-     "profile_path": "/gnL7XGfLiAbhqIjV4jAGIZgySJh.jpg",
-     "id": 11616
+     "title": "The Institute",
+     "ytId": "1BcvAdfyL5Y"
     }
    ],
-   "credits_crew": [],
-   "director": [],
-   "language": "English",
-   "country": "United States",
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10946316"
+    },
+    {
+     "name": "The Institute",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-institute-10946316"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Ben Barnes",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ben%20Barnes"
+    },
+    {
+     "name": "Joe Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joe%20Freeman"
+    },
+    {
+     "name": "Simone Miller",
+     "category": "Cast",
+     "url": "stremio:///search?search=Simone%20Miller"
+    },
+    {
+     "name": "Benjamin Cavell",
+     "category": "Writers",
+     "url": "stremio:///search?search=Benjamin%20Cavell"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
-   "imdbRating": "7.7"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10946316.jpg"
   },
   {
    "name": "London Has Fallen",
@@ -736,198 +736,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3300542.jpg"
   },
   {
-   "name": "City of God: The Fight Rages On",
-   "cast": [
-    "Alexandre Rodrigues",
-    "Roberta Rodrigues",
-    "Andréia Horta"
-   ],
-   "country": "Brazil",
-   "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-08-25T00:00:00.000Z",
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "TmcoiA1iTYM",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "runtime": "50 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt27535062/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27535062/img",
-   "id": "tt27535062",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "City of God: The Fight Rages On",
-     "ytId": "TmcoiA1iTYM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27535062"
-    },
-    {
-     "name": "City of God: The Fight Rages On",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/city-of-god-the-fight-rages-on-27535062"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Alexandre Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alexandre%20Rodrigues"
-    },
-    {
-     "name": "Roberta Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Roberta%20Rodrigues"
-    },
-    {
-     "name": "Andréia Horta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andr%C3%A9ia%20Horta"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
-  },
-  {
-   "id": "tt37284855",
-   "logo": "https://live.metahub.space/logo/medium/tt37284855/img",
-   "background": "https://live.metahub.space/background/medium/tt37284855/img",
-   "name": "All That We Never Were",
-   "description": "Depois de perder os pais, a aspirante a pintora Leah tem dificuldade em lidar com a situação. Quando o irmão se muda, pede ao seu melhor amigo, Axel, para cuidar dela, sem saber dos sentimentos que ela nutre por ele há muito tempo.",
-   "genres": [
-    "Drama",
-    "Romance"
-   ],
-   "releaseInfo": "2026",
-   "trailers": [
-    {
-     "source": "bMM-vqUyO3w",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Margarida Corceiro",
-    "Maxi Iglesias",
-    "Natalia Rodríguez"
-   ],
-   "credits_cast": [
-    {
-     "character": "Leah Jones",
-     "name": "Margarida Corceiro",
-     "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg",
-     "id": 3372344
-    },
-    {
-     "character": "Axel Nguyen",
-     "name": "Maxi Iglesias",
-     "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg",
-     "id": 1248277
-    },
-    {
-     "character": "Elena",
-     "name": "Natalia Rodríguez",
-     "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg",
-     "id": 56245
-    },
-    {
-     "character": "Oliver",
-     "name": "Sebastián Zurita",
-     "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg",
-     "id": 970485
-    },
-    {
-     "character": "Belén",
-     "name": "Adriana Hormigos",
-     "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg",
-     "id": 4782295
-    },
-    {
-     "character": "Alejandro",
-     "name": "Javier Tolosa",
-     "profile_path": "/fSbMFLH2ykwcMnob4Y7hfOuljlh.jpg",
-     "id": 233279
-    },
-    {
-     "character": "Axel de niño",
-     "name": "Alan Miranda",
-     "profile_path": "/mxTDnXbcRvvQZKQ9TEklSJExEBu.jpg",
-     "id": 2814905
-    },
-    {
-     "character": "Pablo",
-     "name": "Joan Pedrola",
-     "profile_path": "/to8aXScmcOWfNucmqcKTJR8ijtb.jpg",
-     "id": 3492889
-    },
-    {
-     "character": "Douglas",
-     "name": "Armando del Río",
-     "profile_path": "/AuCppv180f27WZwwGnesEUrPpQr.jpg",
-     "id": 587099
-    },
-    {
-     "character": "Miriam",
-     "name": "Marta Solaz Cruz",
-     "profile_path": null,
-     "id": 5612031
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Jorge Alonso",
-     "profile_path": null,
-     "id": 2086327
-    }
-   ],
-   "director": [
-    "Jorge Alonso"
-   ],
-   "imdbRating": "5.2",
-   "language": "Spanish",
-   "country": "Spain",
-   "behaviorHints": {
-    "defaultVideoId": "tt37284855",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37284855.jpg"
-  },
-  {
    "name": "Yellowjackets",
    "cast": [
     "Melanie Lynskey",
@@ -1041,217 +849,196 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11041332.jpg"
   },
   {
-   "awards": "Nominated for 3 Oscars. 40 wins & 176 nominations total",
-   "cast": [
-    "Robert Pattinson",
-    "Zoë Kravitz",
-    "Jeffrey Wright"
-   ],
-   "country": "United States",
-   "description": "Quando um assassino ataca a elite de Gotham com uma série de máquinas sádicas, um rasto de pistas misteriosas e obscuras levam o Maior Detetive do Mundo a investigar o submundo, onde encontra personagens como Selina Kyle/Catwoman, Oswald Cobblepot/The Penguin, Carmine Falcone, e Edward Nashton/The Riddler. À medida que as provas o encaminham para mais perto de casa e a grandeza do plano do vilão se torna mais clara, Batman tem de forjar novas relações, desmascarar o culpado, e trazer justiça ao abuso de poder e à corrupção que há muito assolam a Cidade de Gotham.",
-   "director": [
-    "Matt Reeves"
-   ],
-   "dvdRelease": "2022-04-19T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Crime",
-    "Mystery"
-   ],
-   "imdbRating": "7.8",
-   "name": "The Batman",
-   "released": "2022-03-04T00:00:00.000Z",
-   "runtime": "177 min",
-   "writer": [
-    "Matt Reeves",
-    "Peter Craig",
-    "Bob Kane"
-   ],
-   "year": "2022",
-   "trailers": [
-    {
-     "source": "vc7_mH2PWHs",
-     "type": "Trailer"
-    },
-    {
-     "source": "u34gHaRiBIU",
-     "type": "Trailer"
-    },
-    {
-     "source": "mqqft2x_Aa4",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt1877830/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1877830/img",
-   "id": "tt1877830",
-   "genres": [
-    "Crime",
-    "Mistério",
-    "Thriller"
-   ],
-   "releaseInfo": "2022",
-   "trailerStreams": [
-    {
-     "title": "The Batman",
-     "ytId": "vc7_mH2PWHs"
-    },
-    {
-     "title": "The Batman",
-     "ytId": "u34gHaRiBIU"
-    },
-    {
-     "title": "The Batman",
-     "ytId": "mqqft2x_Aa4"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt1877830"
-    },
-    {
-     "name": "The Batman",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-batman-1877830"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
-    },
-    {
-     "name": "Mystery",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
-    },
-    {
-     "name": "Robert Pattinson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Pattinson"
-    },
-    {
-     "name": "Zoë Kravitz",
-     "category": "Cast",
-     "url": "stremio:///search?search=Zo%C3%AB%20Kravitz"
-    },
-    {
-     "name": "Jeffrey Wright",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jeffrey%20Wright"
-    },
-    {
-     "name": "Matt Reeves",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matt%20Reeves"
-    },
-    {
-     "name": "Peter Craig",
-     "category": "Writers",
-     "url": "stremio:///search?search=Peter%20Craig"
-    },
-    {
-     "name": "Bob Kane",
-     "category": "Writers",
-     "url": "stremio:///search?search=Bob%20Kane"
-    },
-    {
-     "name": "Matt Reeves",
-     "category": "Directors",
-     "url": "stremio:///search?search=Matt%20Reeves"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt1877830",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1877830.jpg"
-  },
-  {
-   "id": "tt39980704",
-   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
-   "background": "https://live.metahub.space/background/medium/tt39980704/img",
-   "name": "YAGA",
-   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
+   "id": "tt37284855",
+   "logo": "https://live.metahub.space/logo/medium/tt37284855/img",
+   "background": "https://live.metahub.space/background/medium/tt37284855/img",
+   "name": "All That We Never Were",
+   "description": "Depois de perder os pais, a aspirante a pintora Leah tem dificuldade em lidar com a situação. Quando o irmão se muda, pede ao seu melhor amigo, Axel, para cuidar dela, sem saber dos sentimentos que ela nutre por ele há muito tempo.",
    "genres": [
     "Drama",
-    "Sci-Fi & Fantasy"
+    "Romance"
    ],
    "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [],
+   "trailers": [
+    {
+     "source": "bMM-vqUyO3w",
+     "type": "Trailer"
+    }
+   ],
    "cast": [
-    "Carrie-Anne Moss",
-    "Clark Backo",
-    "Noah Reid"
+    "Margarida Corceiro",
+    "Maxi Iglesias",
+    "Natalia Rodríguez"
    ],
    "credits_cast": [
     {
-     "character": "Katherine",
-     "name": "Carrie-Anne Moss",
-     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
-     "id": 530
+     "character": "Leah Jones",
+     "name": "Margarida Corceiro",
+     "profile_path": "/8YxCNGN4qyrN0E12umJb7LRgReZ.jpg",
+     "id": 3372344
     },
     {
-     "character": "Carson",
-     "name": "Clark Backo",
-     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
-     "id": 1861573
+     "character": "Axel Nguyen",
+     "name": "Maxi Iglesias",
+     "profile_path": "/sX0fOdN7Urawav29j24nVAjNgaC.jpg",
+     "id": 1248277
     },
     {
-     "character": "Rapp",
-     "name": "Noah Reid",
-     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
-     "id": 199586
+     "character": "Elena",
+     "name": "Natalia Rodríguez",
+     "profile_path": "/sn1MGn3Plx0QQPDkUwztJJTpvRm.jpg",
+     "id": 56245
     },
     {
-     "character": "Henry Park",
-     "name": "Hudson Williams",
-     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
-     "id": 4194612
+     "character": "Oliver",
+     "name": "Sebastián Zurita",
+     "profile_path": "/b1njEJSLGGOUmzvjkwS45Yhi8An.jpg",
+     "id": 970485
     },
     {
-     "character": "Pam",
-     "name": "Ezra Franky",
-     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
-     "id": 3821010
+     "character": "Belén",
+     "name": "Adriana Hormigos",
+     "profile_path": "/8tCkSPyOPAQgsurkOCdi5HXr13n.jpg",
+     "id": 4782295
     },
     {
-     "character": "Eckert",
-     "name": "Patrick Gilmore",
-     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
-     "id": 76828
+     "character": "Alejandro",
+     "name": "Javier Tolosa",
+     "profile_path": "/fSbMFLH2ykwcMnob4Y7hfOuljlh.jpg",
+     "id": 233279
+    },
+    {
+     "character": "Axel de niño",
+     "name": "Alan Miranda",
+     "profile_path": "/mxTDnXbcRvvQZKQ9TEklSJExEBu.jpg",
+     "id": 2814905
+    },
+    {
+     "character": "Pablo",
+     "name": "Joan Pedrola",
+     "profile_path": "/to8aXScmcOWfNucmqcKTJR8ijtb.jpg",
+     "id": 3492889
+    },
+    {
+     "character": "Douglas",
+     "name": "Armando del Río",
+     "profile_path": "/AuCppv180f27WZwwGnesEUrPpQr.jpg",
+     "id": 587099
+    },
+    {
+     "character": "Miriam",
+     "name": "Marta Solaz Cruz",
+     "profile_path": null,
+     "id": 5612031
     }
    ],
    "credits_crew": [
     {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Charles Cooper",
-     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
-     "id": 2313876
+     "department": "Directing",
+     "job": "Director",
+     "name": "Jorge Alonso",
+     "profile_path": null,
+     "id": 2086327
+    }
+   ],
+   "director": [
+    "Jorge Alonso"
+   ],
+   "imdbRating": "5.2",
+   "language": "Spanish",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": "tt37284855",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37284855.jpg"
+  },
+  {
+   "name": "City of God: The Fight Rages On",
+   "cast": [
+    "Alexandre Rodrigues",
+    "Roberta Rodrigues",
+    "Andréia Horta"
+   ],
+   "country": "Brazil",
+   "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
+   "genre": [
+    "Crime",
+    "Drama"
+   ],
+   "imdbRating": "7.1",
+   "released": "2024-08-25T00:00:00.000Z",
+   "year": "2024–",
+   "trailers": [
+    {
+     "source": "TmcoiA1iTYM",
+     "type": "Trailer"
     }
    ],
    "director": [],
-   "language": "English, Ukrainian",
-   "country": "Canada",
-   "awards": "1 nomination total",
+   "writer": [],
+   "runtime": "50 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt27535062/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27535062/img",
+   "id": "tt27535062",
+   "genres": [
+    "Crime",
+    "Drama"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "City of God: The Fight Rages On",
+     "ytId": "TmcoiA1iTYM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27535062"
+    },
+    {
+     "name": "City of God: The Fight Rages On",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/city-of-god-the-fight-rages-on-27535062"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Alexandre Rodrigues",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alexandre%20Rodrigues"
+    },
+    {
+     "name": "Roberta Rodrigues",
+     "category": "Cast",
+     "url": "stremio:///search?search=Roberta%20Rodrigues"
+    },
+    {
+     "name": "Andréia Horta",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andr%C3%A9ia%20Horta"
+    }
+   ],
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-   "imdbRating": "6.7"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
   },
   {
    "name": "The Whale",
@@ -1355,6 +1142,206 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13833688.jpg"
   },
   {
+   "id": "tt39980704",
+   "logo": "https://live.metahub.space/logo/medium/tt39980704/img",
+   "background": "https://live.metahub.space/background/medium/tt39980704/img",
+   "name": "YAGA",
+   "description": "A história segue um investigador privado que investiga o desaparecimento de um jovem herdeiro de uma empresa de pesca, vendo-se em conflito com um detetive local, um professor carismático e um labirinto de suspeitos enigmáticos e magia antiga.",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2026",
+   "status": "Upcoming",
+   "trailers": [],
+   "cast": [
+    "Carrie-Anne Moss",
+    "Clark Backo",
+    "Noah Reid"
+   ],
+   "credits_cast": [
+    {
+     "character": "Katherine",
+     "name": "Carrie-Anne Moss",
+     "profile_path": "/9zya72vRZYBQILfetACsnmCBgdj.jpg",
+     "id": 530
+    },
+    {
+     "character": "Carson",
+     "name": "Clark Backo",
+     "profile_path": "/d24KKFxfoql6PBsBPsejFgzhSlH.jpg",
+     "id": 1861573
+    },
+    {
+     "character": "Rapp",
+     "name": "Noah Reid",
+     "profile_path": "/fMIRF0rPO7orxBSAAVhjJ5TAmBS.jpg",
+     "id": 199586
+    },
+    {
+     "character": "Henry Park",
+     "name": "Hudson Williams",
+     "profile_path": "/aUvrPx2xOqnPVpjiKGESCUItj85.jpg",
+     "id": 4194612
+    },
+    {
+     "character": "Pam",
+     "name": "Ezra Franky",
+     "profile_path": "/rPUN92bJFlwtJ7jEPsV4A4fwKcY.jpg",
+     "id": 3821010
+    },
+    {
+     "character": "Eckert",
+     "name": "Patrick Gilmore",
+     "profile_path": "/9jcnrVixk0KCIL4NB66ayMdGEfv.jpg",
+     "id": 76828
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Charles Cooper",
+     "profile_path": "/8dsJIPGYtL7TfxCifPceK5hK1sD.jpg",
+     "id": 2313876
+    }
+   ],
+   "director": [],
+   "language": "English, Ukrainian",
+   "country": "Canada",
+   "awards": "1 nomination total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+   "imdbRating": "6.7"
+  },
+  {
+   "id": "tt18376344",
+   "logo": "https://live.metahub.space/logo/medium/tt18376344/img",
+   "background": "https://live.metahub.space/background/medium/tt18376344/img",
+   "name": "O Jacaré",
+   "description": "Reboleira, um bairro de Lisboa. Após um assalto que correu mal, um carro acaba por se despistar mesmo no meio do bairro. O condutor é detido, mas os 180 000 € que foram roubados desapareceram. Na zona isolada pela polícia, espalham-se rumores e as especulações disparam. Entre os moradores, todo um elenco de personagens pitorescas sonha em deitar as mãos ao dinheiro roubado. Quem será o primeiro a deitá-lo nas mãos?",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "92 min",
+   "trailers": [
+    {
+     "source": "r3oOiW8BUSY",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Alexandra Sena",
+    "Alexandre da Costa Fonseca",
+    "Paulo César Lima Fonseca"
+   ],
+   "credits_cast": [
+    {
+     "character": "Xana",
+     "name": "Alexandra Sena",
+     "profile_path": null,
+     "id": 6336948
+    },
+    {
+     "character": "Chandi",
+     "name": "Alexandre da Costa Fonseca",
+     "profile_path": null,
+     "id": 2363836
+    },
+    {
+     "character": "PC",
+     "name": "Paulo César Lima Fonseca",
+     "profile_path": null,
+     "id": 6336950
+    },
+    {
+     "character": "KP",
+     "name": "Nelson Carvalho",
+     "profile_path": null,
+     "id": 4035760
+    },
+    {
+     "character": "Machine",
+     "name": "Pedro Diniz",
+     "profile_path": null,
+     "id": 2859926
+    },
+    {
+     "character": "Batcha",
+     "name": "Heidir Correia",
+     "profile_path": null,
+     "id": 6336952
+    },
+    {
+     "character": "Kikas",
+     "name": "Carlos Fonseca",
+     "profile_path": null,
+     "id": 4211030
+    },
+    {
+     "character": "Mafia",
+     "name": "Pedro Ferreira",
+     "profile_path": null,
+     "id": 1171402
+    },
+    {
+     "character": "Toru Oro Na Denti",
+     "name": "Frederico Lopes",
+     "profile_path": null,
+     "id": 6177346
+    },
+    {
+     "character": "",
+     "name": "Verónica Lii",
+     "profile_path": null,
+     "id": 6336954
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Basil da Cunha",
+     "profile_path": null,
+     "id": 1171400
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Julien Rouyet",
+     "profile_path": null,
+     "id": 2363843
+    },
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Basil da Cunha",
+     "profile_path": null,
+     "id": 1171400
+    }
+   ],
+   "director": [
+    "Basil da Cunha"
+   ],
+   "imdbRating": "6.1",
+   "language": "Portuguese",
+   "country": "Switzerland, Portugal",
+   "awards": "1 nomination total",
+   "behaviorHints": {
+    "defaultVideoId": "tt18376344",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18376344.jpg"
+  },
+  {
    "name": "Georgie & Mandy's First Marriage",
    "cast": [
     "Montana Jordan",
@@ -1451,6 +1438,284 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31589662.jpg"
+  },
+  {
+   "name": "Angel Has Fallen",
+   "year": "2019",
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "released": "2019-08-23T00:00:00.000Z",
+   "director": [
+    "Ric Roman Waugh"
+   ],
+   "writer": [
+    "Robert Mark Kamen",
+    "Matt Cook",
+    "Ric Roman Waugh"
+   ],
+   "cast": [
+    "Gerard Butler",
+    "Frederick Schmidt",
+    "Danny Huston"
+   ],
+   "imdbRating": "6.4",
+   "description": "Depois de uma tentativa de assassinato contra Allan Trumbull, Presidente dos EUA, o seu fiel confidente e agente dos serviços secretos Mike Banning, é erradamente acusado e detido por essa tentativa. Depois de escapar à detenção, torna-se um foragido e é obrigado a fugir à sua própria agência para descobrir a verdadeira ameaça contra o Presidente. Desesperado para encontrar a verdade, Banning recorre a aliados improváveis para ajudar a limpar o seu nome, manter a família a salvo e salvar o país dos perigos iminentes.",
+   "country": "United States, United Kingdom, Portugal, Canada, Bulgaria",
+   "trailers": [
+    {
+     "source": "l4AQchYSxwc",
+     "type": "Trailer"
+    },
+    {
+     "source": "5U2AJvU3bl4",
+     "type": "Trailer"
+    },
+    {
+     "source": "XF8h3hOGBJM",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt6189022/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6189022/img",
+   "affiliates": {
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727/ImageRenderer/111/168/images/no_image_111x168.jpg/218538/images/masterrepository/fandango/218538/angelhasfallen-onlinepayoff_1944x2880.jpg\" alt=\"Angel Has Fallen\" title=\"Angel Has Fallen\" border=\"0\" /></a> Opens Friday, Aug 23, 2019</p><p>When there is an assassination attempt on U.S. President Allan Trumbull (Morgan Freeman), his trusted confidant, Secret Service Agent Mike Banning (Gerard Butler), is wrongfully accused and taken into custody. </p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123\">Movie Details</a> <a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fangelhasfallen-trailer%2f218538%3fwssaffid%3d11839%26wssac%3d123\">Play Trailers</a></p><p><a href=\"http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovietimes%3fwssaffid%3d11839%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.727//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p>",
+    "fandango_link": "http://www.qksrv.net/click-7949808-10576761?url=http%3a%2f%2fwww.fandango.com%2fangelhasfallen_218538%2fmovieoverview%3fwssaffid%3d11839%26wssac%3d123"
+   },
+   "runtime": "122 min",
+   "dvdRelease": "2019-08-27T00:00:00.000Z",
+   "awards": "1 nomination total",
+   "id": "tt6189022",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2019",
+   "trailerStreams": [
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "l4AQchYSxwc"
+    },
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "5U2AJvU3bl4"
+    },
+    {
+     "title": "Angel Has Fallen",
+     "ytId": "XF8h3hOGBJM"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6189022"
+    },
+    {
+     "name": "Angel Has Fallen",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/angel-has-fallen-6189022"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Gerard Butler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Gerard%20Butler"
+    },
+    {
+     "name": "Frederick Schmidt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Frederick%20Schmidt"
+    },
+    {
+     "name": "Danny Huston",
+     "category": "Cast",
+     "url": "stremio:///search?search=Danny%20Huston"
+    },
+    {
+     "name": "Robert Mark Kamen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Robert%20Mark%20Kamen"
+    },
+    {
+     "name": "Matt Cook",
+     "category": "Writers",
+     "url": "stremio:///search?search=Matt%20Cook"
+    },
+    {
+     "name": "Ric Roman Waugh",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
+    },
+    {
+     "name": "Ric Roman Waugh",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ric%20Roman%20Waugh"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6189022",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6189022.jpg"
+  },
+  {
+   "id": "tt32750053",
+   "logo": "https://live.metahub.space/logo/medium/tt32750053/img",
+   "background": "https://live.metahub.space/background/medium/tt32750053/img",
+   "name": "Prisoner 951",
+   "description": "Baseada em uma comovente história real, a minissérie acompanha o pesadelo de uma mãe britânico-iraniana que, durante uma visita à família no Irã, é detida sob falsas acusações de espionagem e separada de sua filha pequena. Enquanto ela luta para sobreviver às duras condições da Prisão de Evin, seu marido em Londres enfrenta a indiferença do governo e inicia uma incansável campanha internacional, descobrindo que a liberdade de sua esposa depende de uma antiga dívida política entre as duas nações",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2025",
+   "status": "Ended",
+   "trailers": [
+    {
+     "source": "gZsmtrvLrpc",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [
+    "Narges Rashidi",
+    "Joseph Fiennes",
+    "Shaun McKee"
+   ],
+   "credits_cast": [
+    {
+     "character": "Nazanin Zaghari-Ratcliffe",
+     "name": "Narges Rashidi",
+     "profile_path": "/fCh3rJkIKvvTfLQa8y1UClyNC3R.jpg",
+     "id": 1072105
+    },
+    {
+     "character": "Richard Ratcliffe",
+     "name": "Joseph Fiennes",
+     "profile_path": "/fcqZXeEyL6z5vkidPtsMu99JtpB.jpg",
+     "id": 12763
+    },
+    {
+     "character": "Lim",
+     "name": "Shaun McKee",
+     "profile_path": "/LkQGGvQ1SM3mQxCmPr1mNmrppl.jpg",
+     "id": 2216009
+    },
+    {
+     "character": "Seyed",
+     "name": "Armin Karima",
+     "profile_path": "/iJcG6Ice0piUu4ixR6Pdrb5pVcn.jpg",
+     "id": 1747161
+    },
+    {
+     "character": "Shirin",
+     "name": "Elham Karimpour",
+     "profile_path": null,
+     "id": 5836546
+    },
+    {
+     "character": "Barbara Ratcliffe",
+     "name": "Marion Bailey",
+     "profile_path": "/iyPvGc96bD8IfdIPPESYcWrF97g.jpg",
+     "id": 72307
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Philippa Lowthorpe",
+     "profile_path": "/h5ucd2lRcrHWRO5tQsMlDvQTASf.jpg",
+     "id": 96305
+    }
+   ],
+   "director": [
+    "Philippa Lowthorpe"
+   ],
+   "imdbRating": "7.5",
+   "language": "English",
+   "country": "United Kingdom",
+   "awards": "Won 2 BAFTA Awards. 5 wins & 6 nominations total",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32750053.jpg"
+  },
+  {
+   "id": "tt0402263",
+   "name": "The Hotline",
+   "releaseInfo": "1974",
+   "runtime": "90 min",
+   "description": "A journalist begins to write an advice column for his readers whilst coping with the break-up of his marriage.",
+   "language": "English",
+   "country": "Australia",
+   "imdbRating": "8.0",
+   "behaviorHints": {
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt0402263/img"
+  },
+  {
+   "id": "tt45114341",
+   "logo": "https://live.metahub.space/logo/medium/tt45114341/img",
+   "background": "https://live.metahub.space/background/medium/tt45114341/img",
+   "name": "Melania Rea",
+   "description": "A trágica história de Melania Rea, cujo caso revela um casamento tóxico, marcado pela mentira e pela manipulação.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Continuing",
+   "trailers": [],
+   "cast": [
+    "Maria Esposito"
+   ],
+   "credits_cast": [
+    {
+     "character": "Melania Rea",
+     "name": "Maria Esposito",
+     "profile_path": "/ppViWeEsygc19YakUwLhYHMnzBH.jpg",
+     "id": 2886470
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Stefano Mordini",
+     "profile_path": "/o1eHRzQZGukPqBJEu7JfuQDqzwH.jpg",
+     "id": 236761
+    }
+   ],
+   "director": [
+    "Stefano Mordini"
+   ],
+   "language": "Italian",
+   "country": "Italy",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
+   "imdbRating": "5.1"
   },
   {
    "id": "tt39163238",
@@ -1611,7 +1876,7 @@
    "director": [
     "Sebastião Salgado"
    ],
-   "imdbRating": "6.7",
+   "imdbRating": "6.6",
    "language": "Portuguese",
    "country": "Portugal",
    "behaviorHints": {
@@ -1621,284 +1886,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14496588.jpg"
-  },
-  {
-   "id": "tt0402263",
-   "name": "The Hotline",
-   "releaseInfo": "1974",
-   "runtime": "90 min",
-   "description": "A journalist begins to write an advice column for his readers whilst coping with the break-up of his marriage.",
-   "language": "English",
-   "country": "Australia",
-   "imdbRating": "8.0",
-   "behaviorHints": {
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt0402263/img"
-  },
-  {
-   "name": "Get Jiro!",
-   "cast": [
-    "Titus Welliver",
-    "Brian Tee",
-    "Alison Pill"
-   ],
-   "country": "United States",
-   "description": "Num futuro em que Los Angeles é controlada por chefs de elite, um mestre de sushi chamado Jiro vê-se envolvido num conflito culinário feroz, procurando vingança através das suas habilidades culinárias no meio do competitivo mundo da restauração.",
-   "genre": [
-    "Animation",
-    "Action",
-    "Thriller"
-   ],
-   "imdbRating": "7.1",
-   "released": "2026-10-03T00:00:00.000Z",
-   "writer": [
-    "Brian Gatewood",
-    "Alessandro Tanaka"
-   ],
-   "year": "2026–",
-   "trailers": [
-    {
-     "source": "i8WDv3J7das",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "23 min",
-   "status": "Continuing",
-   "director": [],
-   "logo": "https://images.metahub.space/logo/medium/tt33406999/img",
-   "background": "https://images.metahub.space/background/medium/tt33406999/img",
-   "id": "tt33406999",
-   "genres": [
-    "Animação",
-    "Action & Adventure"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Get Jiro!",
-     "ytId": "i8WDv3J7das"
-    }
-   ],
-   "links": [
-    {
-     "name": "Get Jiro!",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/get-jiro-33406999"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
-    },
-    {
-     "name": "Titus Welliver",
-     "category": "Cast",
-     "url": "stremio:///search?search=Titus%20Welliver"
-    },
-    {
-     "name": "Brian Tee",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brian%20Tee"
-    },
-    {
-     "name": "Alison Pill",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alison%20Pill"
-    },
-    {
-     "name": "Brian Gatewood",
-     "category": "Writers",
-     "url": "stremio:///search?search=Brian%20Gatewood"
-    },
-    {
-     "name": "Alessandro Tanaka",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alessandro%20Tanaka"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg"
-  },
-  {
-   "name": "Hacksaw Ridge",
-   "trailers": [
-    {
-     "source": "s2-1hz1juBI",
-     "type": "Trailer"
-    }
-   ],
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/194560/images/masterrepository/fandango/194560/hacksawridge-posterart.jpg\" alt=\"Hacksaw Ridge\" title=\"Hacksaw Ridge\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fhacksawridge-trailer%2f194560%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "year": "2016",
-   "runtime": "139 min",
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "released": "2016-11-04T00:00:00.000Z",
-   "director": [
-    "Mel Gibson"
-   ],
-   "writer": [
-    "Robert Schenkkan",
-    "Andrew Knight"
-   ],
-   "cast": [
-    "Andrew Garfield",
-    "Sam Worthington",
-    "Luke Bracey"
-   ],
-   "imdbRating": "8.1",
-   "description": "O sonho do jovem Desmond T. Doss de se tornar médico é adiado devido aos escassos meios financeiros da família. Empenhado em salvar vidas, alista-se no Exército norte-americano para cumprir o que considera ser sua obrigação: ajudar os combatentes da Segunda Grande Guerra, mesmo sabendo que as suas convicções pessoais e religiosas o impossibilitam de possuir uma arma ou matar um inimigo. Como pode um soldado lutar pelo seu país sem protecção? Doss tenciona dar o seu contributo integrando a unidade médica e salvando as vidas dos soldados feridos em combate. Apesar do desdém e preconceito de alguns dos seus colegas, que vêem a sua atitude como um acto de cobardia, será durante a batalha de Okinawa (no Japão), sem pegar em armas ou disparar um tiro, que mostrará a sua bravura.",
-   "country": "United States",
-   "awards": "Won 2 Oscars. 57 wins & 115 nominations total",
-   "dvdRelease": "2017-02-07T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt2119532/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2119532/img",
-   "id": "tt2119532",
-   "genres": [
-    "Drama",
-    "História",
-    "Guerra"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Hacksaw Ridge",
-     "ytId": "s2-1hz1juBI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2119532"
-    },
-    {
-     "name": "Hacksaw Ridge",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hacksaw-ridge-2119532"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Andrew Garfield",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Garfield"
-    },
-    {
-     "name": "Sam Worthington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sam%20Worthington"
-    },
-    {
-     "name": "Luke Bracey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luke%20Bracey"
-    },
-    {
-     "name": "Robert Schenkkan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Schenkkan"
-    },
-    {
-     "name": "Andrew Knight",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Knight"
-    },
-    {
-     "name": "Mel Gibson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mel%20Gibson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt2119532",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2119532.jpg"
-  },
-  {
-   "id": "tt45114341",
-   "logo": "https://live.metahub.space/logo/medium/tt45114341/img",
-   "background": "https://live.metahub.space/background/medium/tt45114341/img",
-   "name": "Melania Rea",
-   "description": "A trágica história de Melania Rea, cujo caso revela um casamento tóxico, marcado pela mentira e pela manipulação.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Maria Esposito"
-   ],
-   "credits_cast": [
-    {
-     "character": "Melania Rea",
-     "name": "Maria Esposito",
-     "profile_path": "/ppViWeEsygc19YakUwLhYHMnzBH.jpg",
-     "id": 2886470
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Stefano Mordini",
-     "profile_path": "/o1eHRzQZGukPqBJEu7JfuQDqzwH.jpg",
-     "id": 236761
-    }
-   ],
-   "director": [
-    "Stefano Mordini"
-   ],
-   "language": "Italian",
-   "country": "Italy",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
-   "imdbRating": "5.2"
   }
  ]
 }

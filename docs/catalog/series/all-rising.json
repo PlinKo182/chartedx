@@ -1,930 +1,80 @@
 {
  "metas": [
   {
-   "name": "Das Boot",
-   "country": "Germany, Czech Republic",
-   "description": "Através de duas histórias paralelas, no alto mar e em terra, a série acompanha a inexperiente tripulação do submarino U-612 durante a campanha do Atlântico contra os Aliados e os acontecimentos na sua base em França, no porto de La Rochelle, onde Simone Strasser, cidadã alemã de origem francesa, questiona a sua lealdade e se envolve numa perigosa relação. Série inspirada no filme de Wolfgang Petersen, e baseada no livro de Lothar-Günther Buchheim.",
+   "name": "Witch Hat Atelier",
+   "country": "Japan",
+   "description": "A pequena Coco mora com a mãe em um vilarejo e sempre sonhou em se tornar uma bruxa. Mas dizem que apenas aqueles que nasceram com o dom da magia podem se tornar bruxos... Ela já havia desistido de seu sonho, quando, então, Coco viu o bruxo Qifrey lançar uma magia e descobriu um segredo!",
    "genre": [
-    "Drama",
-    "War"
-   ],
-   "imdbRating": "7.6",
-   "released": "2019-06-17T00:00:00.000Z",
-   "year": "2018–2023",
-   "status": "Ended",
-   "cast": [
-    "Franz Dinda",
-    "Tom Wlaschiha",
-    "Rick Okon"
-   ],
-   "director": [],
-   "writer": [
-    "Johannes W. Betz",
-    "Tony Saint"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt5830254/img",
-   "logo": "https://images.metahub.space/logo/medium/tt5830254/img",
-   "runtime": "53 min",
-   "awards": "12 wins & 17 nominations total",
-   "trailers": [
-    {
-     "source": "yndRSqA69Kc",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt5830254",
-   "genres": [
-    "War & Politics",
-    "Drama"
-   ],
-   "releaseInfo": "2018",
-   "trailerStreams": [
-    {
-     "title": "Das Boot",
-     "ytId": "yndRSqA69Kc"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt5830254"
-    },
-    {
-     "name": "Das Boot",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/das-boot-5830254"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "War",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
-    },
-    {
-     "name": "Franz Dinda",
-     "category": "Cast",
-     "url": "stremio:///search?search=Franz%20Dinda"
-    },
-    {
-     "name": "Tom Wlaschiha",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Wlaschiha"
-    },
-    {
-     "name": "Rick Okon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rick%20Okon"
-    },
-    {
-     "name": "Johannes W. Betz",
-     "category": "Writers",
-     "url": "stremio:///search?search=Johannes%20W.%20Betz"
-    },
-    {
-     "name": "Tony Saint",
-     "category": "Writers",
-     "url": "stremio:///search?search=Tony%20Saint"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5830254.jpg"
-  },
-  {
-   "id": "tt14496588",
-   "logo": "https://live.metahub.space/logo/medium/tt14496588/img",
-   "background": "https://live.metahub.space/background/medium/tt14496588/img",
-   "name": "Fateful Dawn",
-   "description": "Filipe, arquiteto municipal conhecido pelo seu idealismo e compromisso com as causas ambientais, é a única pessoa que pode travar a construção de um empreendimento imobiliário de luxo numa área protegida. Maria Rodrigues, uma jovem procuradora, está a perseguir uma pista num caso de corrupção financeira de alto nível. Ao mesmo tempo, a reabertura de um caso encerrado, do qual ela foi vítima, obriga-a a enfrentar o trauma profundo e doloroso de uma noite ocorrida 15 anos antes. Ao assumir a investigação com as próprias mãos, ela luta com as lembranças nebulosas do estupro e do atropelamento. Filipe é um dos principais suspeitos, mas será mesmo ele?",
-   "releaseInfo": "2026",
-   "status": "Continuing",
-   "trailers": [],
-   "cast": [
-    "Rafael Morais",
-    "Victoria Guerra",
-    "Gonçalo Waddington"
-   ],
-   "credits_cast": [
-    {
-     "character": "Filipe",
-     "name": "Rafael Morais",
-     "profile_path": "/aD4rOhxnlxfruw4XqMwuWIdBYgN.jpg",
-     "id": 139034
-    },
-    {
-     "character": "Maria",
-     "name": "Victoria Guerra",
-     "profile_path": "/2baLSCRfyT4b9z9DcBqwVvHI1XF.jpg",
-     "id": 1033632
-    },
-    {
-     "character": "Luís Morais",
-     "name": "Gonçalo Waddington",
-     "profile_path": "/46bRGWCRJXJNipl2PJXNa2AwLHF.jpg",
-     "id": 147102
-    },
-    {
-     "character": "Rita",
-     "name": "Iris Cayatte",
-     "profile_path": "/7Amla7DfX2PhsAbNUqyAMAkmKxy.jpg",
-     "id": 1658209
-    },
-    {
-     "character": "João Diogo",
-     "name": "José Pimentão",
-     "profile_path": "/rUO5gCRCD5WpC7nJeHmA7B9dJDL.jpg",
-     "id": 1866669
-    },
-    {
-     "character": "",
-     "name": "Adriano Carvalho",
-     "profile_path": "/32yUh1fosujcFmkOHjeJCca66kJ.jpg",
-     "id": 1052127
-    },
-    {
-     "character": "",
-     "name": "José Medeiros",
-     "profile_path": "/fbFxQQoS8bBvXd2csapEmj1r4pz.jpg",
-     "id": 2654210
-    },
-    {
-     "character": "",
-     "name": "Sandra Faleiro",
-     "profile_path": "/crlSPQ0BG4zFEjuWXJoldlpTrc7.jpg",
-     "id": 935689
-    },
-    {
-     "character": "",
-     "name": "Maria João Falcão",
-     "profile_path": "/vnO0GATJh4duuG9NrCK4P95Qlrx.jpg",
-     "id": 230582
-    },
-    {
-     "character": "",
-     "name": "Lia Carvalho",
-     "profile_path": "/dMBkqs00KIy2mbA5Wujp5kNVS6V.jpg",
-     "id": 1062299
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Sebastião Salgado",
-     "profile_path": null,
-     "id": 2680115
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Maria João Mayer",
-     "profile_path": "/wqfT9V9eNWI2aYfjpbEYUzNDJgV.jpg",
-     "id": 213288
-    }
-   ],
-   "director": [
-    "Sebastião Salgado"
-   ],
-   "imdbRating": "6.7",
-   "language": "Portuguese",
-   "country": "Portugal",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14496588.jpg"
-  },
-  {
-   "name": "Selenkay",
-   "cast": [
-    "Gina Mastronicola",
-    "Manuel Ramos",
-    "Alejandro Paker"
-   ],
-   "country": "Argentina",
-   "description": "Após viajar constantemente devido ao trabalho dos pais, Sofía, de dezasseis anos, quer estabilidade: ir à escola e ter amigos. Quando se mudam para Río Vivo, uma pequena vila nas montanhas, ela consegue finalmente o que deseja, até que um poder estranho de ligação à água ameaça a sua vida normal de adolescente que batalhou tanto para conseguir.",
-   "genre": [
-    "Adventure",
-    "Drama",
-    "Fantasy"
-   ],
-   "imdbRating": "6.0",
-   "released": "2024-08-21T00:00:00.000Z",
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "99RvjCzMvUw",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "runtime": "40 min",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt15675338/img",
-   "logo": "https://images.metahub.space/logo/medium/tt15675338/img",
-   "awards": "1 win & 3 nominations total",
-   "id": "tt15675338",
-   "genres": [
-    "Drama",
-    "Sci-Fi & Fantasy",
-    "Mistério"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Selenkay",
-     "ytId": "99RvjCzMvUw"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.0",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt15675338"
-    },
-    {
-     "name": "Selenkay",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/selenkay-15675338"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Fantasy"
-    },
-    {
-     "name": "Gina Mastronicola",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gina%20Mastronicola"
-    },
-    {
-     "name": "Manuel Ramos",
-     "category": "Cast",
-     "url": "stremio:///search?search=Manuel%20Ramos"
-    },
-    {
-     "name": "Alejandro Paker",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alejandro%20Paker"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15675338.jpg"
-  },
-  {
-   "awards": "Won 2 Primetime Emmys. 8 wins & 14 nominations total",
-   "cast": [
-    "Robert Durst",
-    "Andrew Jarecki",
-    "Charles Bagli"
-   ],
-   "country": "United States",
-   "description": "Este documentário expõe informação inédita sobre uma série de crimes por resolver e o homem que se crê ser o perpetrador: Robert Durst, descendente de uma família bilionária de Nova Iorque, que aceitou participar das filmagens.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Documentary",
-    "Biography",
-    "Crime"
-   ],
-   "imdbRating": "8.5",
-   "name": "The Jinx: The Life and Deaths of Robert Durst",
-   "released": "2015-02-08T00:00:00.000Z",
-   "runtime": "49 min",
-   "trailers": [],
-   "writer": null,
-   "year": "2015–2024",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt4299972/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4299972/img",
-   "id": "tt4299972",
-   "genres": [
-    "Documentário",
-    "Crime"
-   ],
-   "releaseInfo": "2015",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4299972"
-    },
-    {
-     "name": "The Jinx: The Life and Deaths of Robert Durst",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-jinx-the-life-and-deaths-of-robert-durst-4299972"
-    },
-    {
-     "name": "Documentary",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Biography"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Robert Durst",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Durst"
-    },
-    {
-     "name": "Andrew Jarecki",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Jarecki"
-    },
-    {
-     "name": "Charles Bagli",
-     "category": "Cast",
-     "url": "stremio:///search?search=Charles%20Bagli"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4299972.jpg"
-  },
-  {
-   "id": "tt36470958",
-   "logo": "https://live.metahub.space/logo/medium/tt36470958/img",
-   "background": "https://live.metahub.space/background/medium/tt36470958/img",
-   "name": "The Trap",
-   "description": "A escritora Lisa Konrad ficou 10 anos sem sair de casa depois do assassinato da irmã. Mas, quando vê o assassino na TV, ela bola um plano arriscado.",
-   "genres": [
-    "Drama",
-    "Mistério"
-   ],
-   "releaseInfo": "2026",
-   "status": "Upcoming",
-   "trailers": [
-    {
-     "source": "SmaC-w7x63c",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Friederike Becht",
-    "Hans Löw",
-    "Alexander Schubert"
-   ],
-   "credits_cast": [
-    {
-     "character": "Lisa Konrad",
-     "name": "Friederike Becht",
-     "profile_path": "/uxvEF4bF60ipQnM5QStX8Wbnnse.jpg",
-     "id": 1075108
-    },
-    {
-     "character": "Robert Lenzen",
-     "name": "Hans Löw",
-     "profile_path": "/eu2VBm55a9aQNKEtFY9qKGm5ya5.jpg",
-     "id": 5853
-    },
-    {
-     "character": "",
-     "name": "Alexander Schubert",
-     "profile_path": "/dWRleMp2Qqs7dpae56Tzpxv5yEJ.jpg",
-     "id": 1257219
-    },
-    {
-     "character": "",
-     "name": "Katja Ponickau",
-     "profile_path": null,
-     "id": 6489326
-    },
-    {
-     "character": "Toni",
-     "name": "Naila Schuberth",
-     "profile_path": "/evYmtGc11LWZNlwSUeBun4w0yOu.jpg",
-     "id": 3287900
-    },
-    {
-     "character": "",
-     "name": "Josephine Thiesen",
-     "profile_path": "/1YThG6A6GDI5sgUfxKOjZvWmKlE.jpg",
-     "id": 3003092
-    },
-    {
-     "character": "",
-     "name": "Matthias Brandt",
-     "profile_path": "/4hsgiicaXbQvgUkyWmTlaSTqk91.jpg",
-     "id": 35382
-    },
-    {
-     "character": "",
-     "name": "Anna Schudt",
-     "profile_path": "/5b8DG26iAbZmAzgOapN0N46tSye.jpg",
-     "id": 15483
-    },
-    {
-     "character": "",
-     "name": "Michael Klammer",
-     "profile_path": "/u47AlkNpQm0AMr9zY1DnFqXQJxW.jpg",
-     "id": 1366985
-    },
-    {
-     "character": "",
-     "name": "Malaya Stern Takeda",
-     "profile_path": "/yWTDo2UTmW83Tq68j4miBIDhuq4.jpg",
-     "id": 2961258
-    }
-   ],
-   "credits_crew": [],
-   "director": [],
-   "language": "German",
-   "country": "Germany",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36470958.jpg",
-   "imdbRating": "6.2"
-  },
-  {
-   "name": "Shogun",
-   "cast": [
-    "Cosmo Jarvis",
-    "Hiroyuki Sanada",
-    "Anna Sawai"
-   ],
-   "country": "United States",
-   "description": "No Japão, no ano de 1600, o Senhor Yoshii Toranaga está a lutar pela vida enquanto os seus inimigos do Conselho de Regentes se unem contra ele, quando um misterioso navio europeu é encontrado encalhado numa aldeia piscatória próxima.",
-   "genre": [
-    "Action",
+    "Animation",
     "Adventure",
     "Drama"
-   ],
-   "imdbRating": "8.6",
-   "released": "2024-02-27T00:00:00.000Z",
-   "writer": [
-    "James Clavell (based on the novel by)"
-   ],
-   "year": "2024–2026",
-   "runtime": "59 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "HIs9x49DK7I",
-     "type": "Trailer"
-    },
-    {
-     "source": "wPL80Xqc_f4",
-     "type": "Trailer"
-    },
-    {
-     "source": "yAN5uspO_hk",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "background": "https://images.metahub.space/background/medium/tt2788316/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2788316/img",
-   "awards": "Won 18 Primetime Emmys. 94 wins & 75 nominations total",
-   "id": "tt2788316",
-   "genres": [
-    "Drama",
-    "War & Politics"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Shogun",
-     "ytId": "HIs9x49DK7I"
-    },
-    {
-     "title": "Shogun",
-     "ytId": "wPL80Xqc_f4"
-    },
-    {
-     "title": "Shogun",
-     "ytId": "yAN5uspO_hk"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2788316"
-    },
-    {
-     "name": "Shogun",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/shogun-2788316"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Cosmo Jarvis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Cosmo%20Jarvis"
-    },
-    {
-     "name": "Hiroyuki Sanada",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hiroyuki%20Sanada"
-    },
-    {
-     "name": "Anna Sawai",
-     "category": "Cast",
-     "url": "stremio:///search?search=Anna%20Sawai"
-    },
-    {
-     "name": "James Clavell (based on the novel by)",
-     "category": "Writers",
-     "url": "stremio:///search?search=James%20Clavell%20(based%20on%20the%20novel%20by)"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2788316.jpg"
-  },
-  {
-   "name": "The Devil's Plan",
-   "country": "South Korea",
-   "description": "Ao longo de sete dias e seis noites, 12 concorrentes medem forças em jogos de perspicácia, estratégia e sabedoria. Quem se sagrará o grande vencedor?",
-   "genre": [
-    "Game-Show",
-    "Reality-TV"
    ],
    "imdbRating": "8.3",
-   "released": "2023-09-26T00:00:00.000Z",
-   "year": "2023–",
-   "runtime": "78 min",
-   "status": "Continuing",
-   "trailers": [
-    {
-     "source": "dtaLR2G-zmc",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Seungkwan",
-    "Seo Yoo-min",
-    "Kwak Joon-bin"
-   ],
-   "director": [],
-   "writer": [],
-   "background": "https://images.metahub.space/background/medium/tt27995115/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27995115/img",
-   "id": "tt27995115",
-   "genres": [
-    "Reality"
-   ],
-   "releaseInfo": "2023",
-   "trailerStreams": [
-    {
-     "title": "The Devil's Plan",
-     "ytId": "dtaLR2G-zmc"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27995115"
-    },
-    {
-     "name": "The Devil's Plan",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-devils-plan-27995115"
-    },
-    {
-     "name": "Game-Show",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Game-Show"
-    },
-    {
-     "name": "Reality-TV",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
-    },
-    {
-     "name": "Seungkwan",
-     "category": "Cast",
-     "url": "stremio:///search?search=Seungkwan"
-    },
-    {
-     "name": "Seo Yoo-min",
-     "category": "Cast",
-     "url": "stremio:///search?search=Seo%20Yoo-min"
-    },
-    {
-     "name": "Kwak Joon-bin",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kwak%20Joon-bin"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27995115.jpg"
-  },
-  {
-   "awards": "Won 16 Primetime Emmys. 105 wins & 218 nominations total",
-   "cast": [
-    "David Duchovny",
-    "Gillian Anderson",
-    "Mitch Pileggi"
-   ],
-   "country": "United States",
-   "description": "Dois agentes com histórias muito diferentes unem esforços para resolver casos que o FBI chamou de Ficheiros Secretos. Ambos estão determinados em desvendar as verdades escondidas – um à procura de respostas de outro mundo e outro de explicações científicas mais reais. Juntos farão descobertas que nenhum podia ter imaginado.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Adventure",
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "8.6",
-   "name": "The X-Files",
-   "released": "1993-09-10T00:00:00.000Z",
-   "runtime": "45 min",
-   "status": "Ended",
-   "writer": [
-    "Chris Carter"
-   ],
-   "year": "1993–2018",
-   "background": "https://images.metahub.space/background/medium/tt0106179/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0106179/img",
-   "trailers": [
-    {
-     "source": "_HTByz4RlqI",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0106179",
-   "genres": [
-    "Mistério",
-    "Sci-Fi & Fantasy",
-    "Crime"
-   ],
-   "releaseInfo": "1993",
-   "trailerStreams": [
-    {
-     "title": "The X-Files",
-     "ytId": "_HTByz4RlqI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.6",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0106179"
-    },
-    {
-     "name": "The X-Files",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/the-x-files-0106179"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "David Duchovny",
-     "category": "Cast",
-     "url": "stremio:///search?search=David%20Duchovny"
-    },
-    {
-     "name": "Gillian Anderson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gillian%20Anderson"
-    },
-    {
-     "name": "Mitch Pileggi",
-     "category": "Cast",
-     "url": "stremio:///search?search=Mitch%20Pileggi"
-    },
-    {
-     "name": "Chris Carter",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Carter"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0106179.jpg"
-  },
-  {
-   "name": "City of God: The Fight Rages On",
-   "cast": [
-    "Alexandre Rodrigues",
-    "Roberta Rodrigues",
-    "Andréia Horta"
-   ],
-   "country": "Brazil",
-   "description": "A trama se desenrola no início dos anos 2000, quando a saída de um jovem traficante da prisão coloca a Cidade de Deus novamente em disputa. Os moradores se veem presos entre traficantes, milícias e autoridades públicas, mas a necessidade de escapar desse ciclo faz com que a comunidade se una para enfrentar o opressor.",
-   "genre": [
-    "Crime",
-    "Drama"
-   ],
-   "imdbRating": "7.1",
-   "released": "2024-08-25T00:00:00.000Z",
-   "year": "2024–",
-   "trailers": [
-    {
-     "source": "TmcoiA1iTYM",
-     "type": "Trailer"
-    }
-   ],
-   "director": [],
-   "writer": [],
-   "runtime": "50 min",
-   "status": "Continuing",
-   "background": "https://images.metahub.space/background/medium/tt27535062/img",
-   "logo": "https://images.metahub.space/logo/medium/tt27535062/img",
-   "id": "tt27535062",
-   "genres": [
-    "Crime",
-    "Drama"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "City of God: The Fight Rages On",
-     "ytId": "TmcoiA1iTYM"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt27535062"
-    },
-    {
-     "name": "City of God: The Fight Rages On",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/city-of-god-the-fight-rages-on-27535062"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Alexandre Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alexandre%20Rodrigues"
-    },
-    {
-     "name": "Roberta Rodrigues",
-     "category": "Cast",
-     "url": "stremio:///search?search=Roberta%20Rodrigues"
-    },
-    {
-     "name": "Andréia Horta",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andr%C3%A9ia%20Horta"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27535062.jpg"
-  },
-  {
-   "name": "Dragon Ball Super: Beerus",
-   "cast": [
-    "Kôichi Yamadera",
-    "Masako Nozawa",
-    "Ryô Horikawa"
-   ],
-   "country": "Japan",
-   "description": "Quando Beerus, o Deus da Destruição, desperta em busca de um rival à altura, Goku e os amigos enfrentam uma batalha épica para impedir a destruição da Terra.",
-   "genre": [
-    "Animation"
-   ],
-   "imdbRating": "8.8",
    "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
+   "writer": [
+    "Shirahama Kamome"
+   ],
+   "year": "2025–",
+   "runtime": "24 min",
    "status": "Continuing",
    "trailers": [
     {
-     "source": "iCD3Lf7Jf9o",
+     "source": "E10fd3B8hUw",
      "type": "Trailer"
     },
     {
-     "source": "Tf4wBaSj7SE",
+     "source": "d1reryPOMX0",
      "type": "Trailer"
     },
     {
-     "source": "Plp6IJ9utjU",
+     "source": "QrCd-oNLGmY",
+     "type": "Trailer"
+    },
+    {
+     "source": "hMmBSCQs1H4",
      "type": "Trailer"
     }
    ],
+   "cast": [
+    "Rena Motomura",
+    "Natsuki Hanae",
+    "Hibiku Yamamura",
+    "Kurumi Haruki",
+    "Hika Tsukishiro"
+   ],
    "director": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39395275/img",
-   "background": "https://images.metahub.space/background/medium/tt39395275/img",
-   "id": "tt39395275",
+   "background": "https://images.metahub.space/background/medium/tt32550889/img",
+   "logo": "https://images.metahub.space/logo/medium/tt32550889/img",
+   "id": "tt32550889",
    "genres": [
     "Animação",
-    "Action & Adventure",
+    "Drama",
     "Sci-Fi & Fantasy"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "iCD3Lf7Jf9o"
+     "title": "Witch Hat Atelier",
+     "ytId": "E10fd3B8hUw"
     },
     {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Tf4wBaSj7SE"
+     "title": "Witch Hat Atelier",
+     "ytId": "d1reryPOMX0"
     },
     {
-     "title": "Dragon Ball Super: Beerus",
-     "ytId": "Plp6IJ9utjU"
+     "title": "Witch Hat Atelier",
+     "ytId": "QrCd-oNLGmY"
+    },
+    {
+     "title": "Witch Hat Atelier",
+     "ytId": "hMmBSCQs1H4"
     }
    ],
    "links": [
     {
-     "name": "Dragon Ball Super: Beerus",
+     "name": "Witch Hat Atelier",
      "category": "share",
-     "url": "https://www.strem.io/s/series/dragon-ball-super-beerus-39395275"
+     "url": "https://www.strem.io/s/series/witch-hat-atelier-32550889"
     },
     {
      "name": "Animation",
@@ -932,19 +82,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
     },
     {
-     "name": "Kôichi Yamadera",
-     "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ichi%20Yamadera"
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Adventure"
     },
     {
-     "name": "Masako Nozawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Masako%20Nozawa"
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "Ryô Horikawa",
-     "category": "Cast",
-     "url": "stremio:///search?search=Ry%C3%B4%20Horikawa"
+     "name": "Shirahama Kamome",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shirahama%20Kamome"
     }
    ],
    "behaviorHints": {
@@ -953,7 +103,883 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32550889.jpg"
+  },
+  {
+   "name": "Reasonable Doubt",
+   "cast": [
+    "Emayatzy Corinealdi",
+    "McKinley Freeman",
+    "Tim Jo"
+   ],
+   "country": "United States",
+   "description": "Vai julgar Jax Stewart pela sua ética questionável e pelas suas interpretações selvagens da lei... até ser você quem está em apuros. Depois vê-la-á pelo que ela é: a advogada de defesa mais brilhante e destemida de Los Angeles, que se gaba do sistema de justiça sempre que tem oportunidade.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "6.7",
+   "released": "2022-09-27T00:00:00.000Z",
+   "year": "2022–",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Raamla Mohamed Hunter"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt11231226/img",
+   "logo": "https://images.metahub.space/logo/medium/tt11231226/img",
+   "runtime": "50 min",
+   "trailers": [
+    {
+     "source": "ztaqk6reLlc",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "6 wins & 19 nominations total",
+   "id": "tt11231226",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "Reasonable Doubt",
+     "ytId": "ztaqk6reLlc"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt11231226"
+    },
+    {
+     "name": "Reasonable Doubt",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/reasonable-doubt-11231226"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Emayatzy Corinealdi",
+     "category": "Cast",
+     "url": "stremio:///search?search=Emayatzy%20Corinealdi"
+    },
+    {
+     "name": "McKinley Freeman",
+     "category": "Cast",
+     "url": "stremio:///search?search=McKinley%20Freeman"
+    },
+    {
+     "name": "Tim Jo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Jo"
+    },
+    {
+     "name": "Raamla Mohamed Hunter",
+     "category": "Writers",
+     "url": "stremio:///search?search=Raamla%20Mohamed%20Hunter"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11231226.jpg"
+  },
+  {
+   "name": "A Man on the Inside",
+   "awards": "2 wins & 9 nominations total",
+   "cast": [
+    "Ted Danson",
+    "Mary Elizabeth Ellis",
+    "Lilah Richcreek Estrada"
+   ],
+   "country": "United States, Chile",
+   "description": "Um professor reformado com um talento especial para bisbilhotar ganha uma nova vida quando uma detetive privada o contrata para se infiltrar e resolver um caso.",
+   "genre": [
+    "Comedy",
+    "Crime"
+   ],
+   "imdbRating": "7.6",
+   "released": "2024-11-21T00:00:00.000Z",
+   "writer": [
+    "Michael Schur"
+   ],
+   "year": "2024–",
+   "trailers": [
+    {
+     "source": "xhsVj_4ONoA",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "31 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt26670955/img",
+   "logo": "https://images.metahub.space/logo/medium/tt26670955/img",
+   "id": "tt26670955",
+   "genres": [
+    "Comédia",
+    "Crime"
+   ],
+   "releaseInfo": "2024",
+   "trailerStreams": [
+    {
+     "title": "A Man on the Inside",
+     "ytId": "xhsVj_4ONoA"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt26670955"
+    },
+    {
+     "name": "A Man on the Inside",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/a-man-on-the-inside-26670955"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Ted Danson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ted%20Danson"
+    },
+    {
+     "name": "Mary Elizabeth Ellis",
+     "category": "Cast",
+     "url": "stremio:///search?search=Mary%20Elizabeth%20Ellis"
+    },
+    {
+     "name": "Lilah Richcreek Estrada",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lilah%20Richcreek%20Estrada"
+    },
+    {
+     "name": "Michael Schur",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Schur"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26670955.jpg"
+  },
+  {
+   "name": "The Five-Star Weekend",
+   "cast": [
+    "Jennifer Garner",
+    "Regina Hall",
+    "Chloë Sevigny"
+   ],
+   "country": "United States",
+   "description": "Uma influenciadora gastronómica muito querida, que está a lidar com uma perda, recebe quatro amigos de diferentes fases da sua vida para um fim de semana em Nantucket, onde verdades ocultas vêm à tona e as relações evoluem no meio do luxo à beira-mar.",
+   "genre": [
+    "Drama"
+   ],
+   "imdbRating": "7.1",
+   "released": "2026-07-16T00:00:00.000Z",
+   "writer": [
+    "Bekah Brunstetter"
+   ],
+   "year": "2026–",
+   "runtime": "41 min",
+   "status": "Continuing",
+   "trailers": [
+    {
+     "source": "8KYNnmsCTYc",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt35587659/img",
+   "logo": "https://images.metahub.space/logo/medium/tt35587659/img",
+   "id": "tt35587659",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Five-Star Weekend",
+     "ytId": "8KYNnmsCTYc"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Five-Star Weekend",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-five-star-weekend-35587659"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Jennifer Garner",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jennifer%20Garner"
+    },
+    {
+     "name": "Regina Hall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Regina%20Hall"
+    },
+    {
+     "name": "Chloë Sevigny",
+     "category": "Cast",
+     "url": "stremio:///search?search=Chlo%C3%AB%20Sevigny"
+    },
+    {
+     "name": "Bekah Brunstetter",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bekah%20Brunstetter"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35587659.jpg"
+  },
+  {
+   "name": "All's Fair",
+   "cast": [
+    "Kim Kardashian",
+    "Naomi Watts",
+    "Niecy Nash"
+   ],
+   "country": "United States",
+   "description": "Advogadas de divórcio abandonam uma firma dominada por homens para abrirem o seu próprio escritório. Brilhantes, ferozes e emocionalmente complexas, estas mulheres lidam com separações explosivas, segredos escandalosos e lealdades voláteis, dentro e fora dos tribunais. Num mundo onde o dinheiro fala mais alto e o amor é um campo de batalha, elas não se limitam a jogar. Elas mudam as regras.",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "3.7",
+   "released": "2025-11-04T00:00:00.000Z",
+   "writer": [
+    "Jon Robin Baitz",
+    "Joe Baken",
+    "Ryan Murphy"
+   ],
+   "year": "2025–",
+   "trailers": [
+    {
+     "source": "4SVJMKNfF0w",
+     "type": "Trailer"
+    }
+   ],
+   "director": [],
+   "runtime": "48 min",
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt30291387/img",
+   "logo": "https://images.metahub.space/logo/medium/tt30291387/img",
+   "awards": "Nominated for 2 Primetime Emmys. 12 nominations total",
+   "id": "tt30291387",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "All's Fair",
+     "ytId": "4SVJMKNfF0w"
+    }
+   ],
+   "links": [
+    {
+     "name": "3.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt30291387"
+    },
+    {
+     "name": "All's Fair",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/alls-fair-30291387"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Kim Kardashian",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kim%20Kardashian"
+    },
+    {
+     "name": "Naomi Watts",
+     "category": "Cast",
+     "url": "stremio:///search?search=Naomi%20Watts"
+    },
+    {
+     "name": "Niecy Nash",
+     "category": "Cast",
+     "url": "stremio:///search?search=Niecy%20Nash"
+    },
+    {
+     "name": "Jon Robin Baitz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jon%20Robin%20Baitz"
+    },
+    {
+     "name": "Joe Baken",
+     "category": "Writers",
+     "url": "stremio:///search?search=Joe%20Baken"
+    },
+    {
+     "name": "Ryan Murphy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Ryan%20Murphy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30291387.jpg"
+  },
+  {
+   "name": "Pluribus",
+   "cast": [
+    "Rhea Seehorn",
+    "Karolina Wydra",
+    "Carlos-Manuel Vesga"
+   ],
+   "country": "United States",
+   "genre": [
+    "Drama",
+    "Sci-Fi"
+   ],
+   "imdbRating": "7.9",
+   "released": "2025-11-07T00:00:00.000Z",
+   "writer": [
+    "Vince Gilligan"
+   ],
+   "year": "2025–",
+   "runtime": "49 min",
+   "status": "Continuing",
+   "director": [],
+   "description": "A pessoa mais triste do mundo tem de salvar o mundo da felicidade.",
+   "trailers": [
+    {
+     "source": "a6lzvWby9UE",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt22202452/img",
+   "logo": "https://images.metahub.space/logo/medium/tt22202452/img",
+   "awards": "Won 6 Primetime Emmys. 24 wins & 59 nominations total",
+   "id": "tt22202452",
+   "genres": [
+    "Drama",
+    "Sci-Fi & Fantasy"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Pluribus",
+     "ytId": "a6lzvWby9UE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt22202452"
+    },
+    {
+     "name": "Pluribus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/pluribus-22202452"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Rhea Seehorn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rhea%20Seehorn"
+    },
+    {
+     "name": "Karolina Wydra",
+     "category": "Cast",
+     "url": "stremio:///search?search=Karolina%20Wydra"
+    },
+    {
+     "name": "Carlos-Manuel Vesga",
+     "category": "Cast",
+     "url": "stremio:///search?search=Carlos-Manuel%20Vesga"
+    },
+    {
+     "name": "Vince Gilligan",
+     "category": "Writers",
+     "url": "stremio:///search?search=Vince%20Gilligan"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22202452.jpg"
+  },
+  {
+   "name": "Scrubs",
+   "imdbRating": "8.2",
+   "cast": [
+    "Sarah Chalke",
+    "Donald Faison",
+    "Ava Bunn"
+   ],
+   "country": "United States",
+   "description": "J.D. e Turk voltam a vestir a bata de cirurgião juntos, pela primeira vez em muito tempo. A medicina mudou, os estagiários também, mas a amizade deles resistiu a tudo. Personagens novas e antigas percorrem os corredores do Sacred Heart entre risos, emoção e algumas surpresas.",
+   "genre": [
+    "Comedy",
+    "Drama"
+   ],
+   "released": "2026-02-25T00:00:00.000Z",
+   "writer": [
+    "Aseem Batra",
+    "Tim Hobert",
+    "Bill Lawrence"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "dJq8WJ5lMec",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "22 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt40197357/img",
+   "logo": "https://images.metahub.space/logo/medium/tt40197357/img",
+   "awards": "1 win & 2 nominations total",
+   "id": "tt40197357",
+   "genres": [
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Scrubs",
+     "ytId": "dJq8WJ5lMec"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt40197357"
+    },
+    {
+     "name": "Scrubs",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/scrubs-40197357"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Sarah Chalke",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sarah%20Chalke"
+    },
+    {
+     "name": "Donald Faison",
+     "category": "Cast",
+     "url": "stremio:///search?search=Donald%20Faison"
+    },
+    {
+     "name": "Ava Bunn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Ava%20Bunn"
+    },
+    {
+     "name": "Aseem Batra",
+     "category": "Writers",
+     "url": "stremio:///search?search=Aseem%20Batra"
+    },
+    {
+     "name": "Tim Hobert",
+     "category": "Writers",
+     "url": "stremio:///search?search=Tim%20Hobert"
+    },
+    {
+     "name": "Bill Lawrence",
+     "category": "Writers",
+     "url": "stremio:///search?search=Bill%20Lawrence"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40197357.jpg"
+  },
+  {
+   "name": "The Empress",
+   "cast": [
+    "Devrim Lingnau",
+    "Philip Froissant",
+    "Melika Foroutan"
+   ],
+   "country": "Germany",
+   "description": "A rebelde Isabel apaixona-se pelo Imperador Francisco e torna-se a sua noiva, mergulhando no mundo de tensões e intrigas da corte vienense.",
+   "genre": [
+    "Drama",
+    "History",
+    "Romance"
+   ],
+   "imdbRating": "7.8",
+   "released": "2022-09-29T00:00:00.000Z",
+   "year": "2022–",
+   "director": null,
+   "writer": [
+    "Katharina Eyssen"
+   ],
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt13720112/img",
+   "logo": "https://images.metahub.space/logo/medium/tt13720112/img",
+   "runtime": "56 min",
+   "trailers": [
+    {
+     "source": "KfySe96FPr8",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "5 wins & 2 nominations total",
+   "id": "tt13720112",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2022",
+   "trailerStreams": [
+    {
+     "title": "The Empress",
+     "ytId": "KfySe96FPr8"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt13720112"
+    },
+    {
+     "name": "The Empress",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-empress-13720112"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "History",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+    },
+    {
+     "name": "Devrim Lingnau",
+     "category": "Cast",
+     "url": "stremio:///search?search=Devrim%20Lingnau"
+    },
+    {
+     "name": "Philip Froissant",
+     "category": "Cast",
+     "url": "stremio:///search?search=Philip%20Froissant"
+    },
+    {
+     "name": "Melika Foroutan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Melika%20Foroutan"
+    },
+    {
+     "name": "Katharina Eyssen",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katharina%20Eyssen"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13720112.jpg"
+  },
+  {
+   "name": "Widow's Bay",
+   "cast": [
+    "Matthew Rhys",
+    "Kate O&apos;Flynn",
+    "Kevin Carroll"
+   ],
+   "country": "United States",
+   "description": "O Presidente da Câmara de uma cidade de Nova Inglaterra resolve transformá-la no próximo grande destino turístico, apesar de os locais avisarem sobre uma maldição.",
+   "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+   ],
+   "imdbRating": "8.1",
+   "released": "2026-04-29T00:00:00.000Z",
+   "writer": [
+    "Katie Dippold"
+   ],
+   "year": "2026–",
+   "trailers": [
+    {
+     "source": "VcpYPxKeGAc",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "38 min",
+   "status": "Continuing",
+   "director": [],
+   "background": "https://images.metahub.space/background/medium/tt33332385/img",
+   "logo": "https://images.metahub.space/logo/medium/tt33332385/img",
+   "awards": "Won 14 Primetime Emmys. 24 wins & 15 nominations total",
+   "id": "tt33332385",
+   "genres": [
+    "Drama",
+    "Comédia",
+    "Mistério"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Widow's Bay",
+     "ytId": "VcpYPxKeGAc"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt33332385"
+    },
+    {
+     "name": "Widow's Bay",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/widows-bay-33332385"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Horror"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Mystery"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Matthew Rhys",
+     "category": "Cast",
+     "url": "stremio:///search?search=Matthew%20Rhys"
+    },
+    {
+     "name": "Kate O&apos;Flynn",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kate%20O%26apos%3BFlynn"
+    },
+    {
+     "name": "Kevin Carroll",
+     "category": "Cast",
+     "url": "stremio:///search?search=Kevin%20Carroll"
+    },
+    {
+     "name": "Katie Dippold",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katie%20Dippold"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33332385.jpg"
+  },
+  {
+   "cast": [
+    "Milo Callaghan",
+    "Lana Parrilla",
+    "Madison Iseman"
+   ],
+   "country": "United States",
+   "description": "Baseada no romance de 1995 de John Grisham, a série acompanha um jovem advogado que se vê preso na perigosa sociedade de advogados que o contratou.",
+   "genre": [
+    "Crime",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "7.2",
+   "name": "The Rainmaker",
+   "released": "2025-08-15T00:00:00.000Z",
+   "year": "2025–",
+   "runtime": "43 min",
+   "status": "Continuing",
+   "director": [],
+   "writer": [
+    "Jason Richman",
+    "Michael Seitzman"
+   ],
+   "trailers": [
+    {
+     "source": "-__6rI43NyE",
+     "type": "Trailer"
+    }
+   ],
+   "awards": "1 win & 4 nominations total",
+   "background": "https://images.metahub.space/background/medium/tt6151526/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6151526/img",
+   "id": "tt6151526",
+   "genres": [
+    "Drama",
+    "Mistério"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "The Rainmaker",
+     "ytId": "-__6rI43NyE"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6151526"
+    },
+    {
+     "name": "The Rainmaker",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-rainmaker-6151526"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Thriller"
+    },
+    {
+     "name": "Milo Callaghan",
+     "category": "Cast",
+     "url": "stremio:///search?search=Milo%20Callaghan"
+    },
+    {
+     "name": "Lana Parrilla",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lana%20Parrilla"
+    },
+    {
+     "name": "Madison Iseman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Madison%20Iseman"
+    },
+    {
+     "name": "Jason Richman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jason%20Richman"
+    },
+    {
+     "name": "Michael Seitzman",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Seitzman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6151526.jpg"
   }
  ]
 }
