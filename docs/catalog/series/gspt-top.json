@@ -850,64 +850,67 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31449991.jpg"
   },
   {
-   "awards": null,
+   "name": "Welcome to Wrexham",
    "cast": [
-    "Darin Brooks",
-    "Alan Ritchson",
-    "Chris Romano"
+    "Ryan Reynolds",
+    "Rob Mac",
+    "Humphrey Ker"
    ],
-   "country": "Canada, United States",
-   "description": "Três caloiros da faculdade têm suas primeiras experiências marcantes contadas na nova comédia Blue Mountain State. Blue Moutain State foca na universidade, que dá o nome à série, a qual se dedica bastante á sua equipa de futebol americano, The Goats. A série ainda cobre outros aspectos da vida universitária para os três protagonistas, como conseguir garotas e participar de muitas festas.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "United States",
+   "description": "Rob McElhenney e Ryan Reynold dirigem o Wrexham Football Club enquanto tentam criar a história de um desfavorecido por quem o mundo todo possa torcer. De Hollywood ao País de Gales, a série documental acompanha o seu curso intensivo como donos de um clube de futebol e os destinos interligados de uma equipa e uma cidade.",
    "genre": [
-    "Comedy",
+    "Documentary",
+    "Reality-TV",
     "Sport"
    ],
    "imdbRating": "8.3",
-   "name": "Blue Mountain State",
-   "released": "2010-01-11T00:00:00.000Z",
-   "runtime": "2 min",
-   "status": "Ended",
-   "writer": [
-    "Eric Falconer",
-    "Chris Romano"
-   ],
-   "year": "2010–2011",
-   "background": "https://images.metahub.space/background/medium/tt1344204/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1344204/img",
+   "released": "2022-08-24T00:00:00.000Z",
+   "year": "2022–",
+   "director": null,
+   "writer": null,
+   "status": "Continuing",
+   "background": "https://images.metahub.space/background/medium/tt14674086/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14674086/img",
+   "awards": "Won 11 Primetime Emmys. 15 wins & 27 nominations total",
+   "runtime": "34 min",
    "trailers": [
     {
-     "source": "j9OfN64_9T8",
+     "source": "BQcxPycyRN0",
      "type": "Trailer"
     }
    ],
-   "id": "tt1344204",
+   "id": "tt14674086",
    "genres": [
-    "Comédia"
+    "Documentário",
+    "Reality"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "2022",
    "trailerStreams": [
     {
-     "title": "Blue Mountain State",
-     "ytId": "j9OfN64_9T8"
+     "title": "Welcome to Wrexham",
+     "ytId": "BQcxPycyRN0"
     }
    ],
    "links": [
     {
      "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1344204"
+     "url": "https://imdb.com/title/tt14674086"
     },
     {
-     "name": "Blue Mountain State",
+     "name": "Welcome to Wrexham",
      "category": "share",
-     "url": "https://www.strem.io/s/series/blue-mountain-state-1344204"
+     "url": "https://www.strem.io/s/series/welcome-to-wrexham-14674086"
     },
     {
-     "name": "Comedy",
+     "name": "Documentary",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Documentary"
+    },
+    {
+     "name": "Reality-TV",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Reality-TV"
     },
     {
      "name": "Sport",
@@ -915,29 +918,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Sport"
     },
     {
-     "name": "Darin Brooks",
+     "name": "Ryan Reynolds",
      "category": "Cast",
-     "url": "stremio:///search?search=Darin%20Brooks"
+     "url": "stremio:///search?search=Ryan%20Reynolds"
     },
     {
-     "name": "Alan Ritchson",
+     "name": "Rob Mac",
      "category": "Cast",
-     "url": "stremio:///search?search=Alan%20Ritchson"
+     "url": "stremio:///search?search=Rob%20Mac"
     },
     {
-     "name": "Chris Romano",
+     "name": "Humphrey Ker",
      "category": "Cast",
-     "url": "stremio:///search?search=Chris%20Romano"
-    },
-    {
-     "name": "Eric Falconer",
-     "category": "Writers",
-     "url": "stremio:///search?search=Eric%20Falconer"
-    },
-    {
-     "name": "Chris Romano",
-     "category": "Writers",
-     "url": "stremio:///search?search=Chris%20Romano"
+     "url": "stremio:///search?search=Humphrey%20Ker"
     }
    ],
    "behaviorHints": {
@@ -946,7 +939,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1344204.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14674086.jpg"
   }
  ]
 }
