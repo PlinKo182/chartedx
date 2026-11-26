@@ -232423,7 +232423,7 @@
  "meta|tt41743360": {
   "n": "Nine to Six",
   "ty": "series",
-  "at": "2026-11-19",
+  "at": "2026-11-26",
   "v": 4,
   "rpdb": true
  },
@@ -267925,9 +267925,9 @@
  "meta|tt44230388": {
   "n": "Sunshine Girls",
   "ty": "series",
-  "at": "2026-11-15",
+  "at": "2026-11-26",
   "v": 4,
-  "rpdb": false,
+  "rpdb": true,
   "cm": {
    "id": "tt44230388",
    "logo": "https://live.metahub.space/logo/medium/tt44230388/img",
@@ -268018,7 +268018,8 @@
   "y": "2026",
   "g": [
    "Drama"
-  ]
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/kH9nmA3spXyBqJ6UaWtFL23sB8Y.jpg"
  },
  "meta|tt1094229": {
   "n": "Heartland",
@@ -284374,7 +284375,7 @@
  "meta|tt38681839": {
   "n": "The Riot",
   "ty": "series",
-  "at": "2026-11-19",
+  "at": "2026-11-26",
   "v": 4,
   "rpdb": true,
   "cm": {
@@ -284382,7 +284383,7 @@
    "logo": "https://live.metahub.space/logo/medium/tt38681839/img",
    "background": "https://live.metahub.space/background/medium/tt38681839/img",
    "name": "The Riot",
-   "description": "",
+   "description": "Chaos erupts as inmates seize control during Poland's largest post-war prison uprising. Amid violence and political scheming, two ex-cellmates now on opposing sides race to stop a looming bloodbath and save lives.",
    "genres": [
     "Drama"
    ],
@@ -284476,12 +284477,14 @@
     "Mateusz Rakowicz",
     "Marek Lechki"
    ],
+   "language": "Polish",
+   "country": "Poland",
    "behaviorHints": {
     "defaultVideoId": null,
     "hasScheduledVideos": true
    }
   },
-  "d": "",
+  "d": "Chaos erupts as inmates seize control during Poland's largest post-war prison uprising. Amid violence and political scheming, two ex-cellmates now on opposing sides race to stop a looming bloodbath and save lives.",
   "y": "2026",
   "g": [
    "Drama"
@@ -301893,5 +301896,872 @@
   ],
   "p": "https://image.tmdb.org/t/p/w500/hglk1OHLnaqZkaEcqK8maEJP1t4.jpg",
   "r": "7.0"
+ },
+ "meta|tt3526078": {
+  "n": "Schitt's Creek",
+  "ty": "series",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "Won 9 Primetime Emmys. 112 wins & 153 nominations total",
+   "cast": [
+    "Eugene Levy",
+    "Catherine O&apos;Hara",
+    "Dan Levy"
+   ],
+   "country": "Canada, United States",
+   "description": "After being a victim of fraud, Johnny Rose and his family go from extremely wealthy to penniless overnight. The only asset left to them is a small, unsophisticated town: Schitt's Creek. They relocate there. Culture shock ensues.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Comedy"
+   ],
+   "imdbRating": "8.5",
+   "name": "Schitt's Creek",
+   "released": "2015-02-11T00:00:00.000Z",
+   "runtime": "24 min",
+   "status": "Ended",
+   "writer": [
+    "Dan Levy",
+    "Eugene Levy"
+   ],
+   "year": "2015–2020",
+   "background": "https://images.metahub.space/background/medium/tt3526078/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3526078/img",
+   "trailers": [
+    {
+     "source": "W0uWS6CnC2o",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt3526078",
+   "genres": [
+    "Comedy"
+   ],
+   "releaseInfo": "2015–2020",
+   "trailerStreams": [
+    {
+     "title": "Schitt's Creek",
+     "ytId": "W0uWS6CnC2o"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3526078"
+    },
+    {
+     "name": "Schitt's Creek",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/schitts-creek-3526078"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Eugene Levy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eugene%20Levy"
+    },
+    {
+     "name": "Catherine O&apos;Hara",
+     "category": "Cast",
+     "url": "stremio:///search?search=Catherine%20O%26apos%3BHara"
+    },
+    {
+     "name": "Dan Levy",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Levy"
+    },
+    {
+     "name": "Dan Levy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Dan%20Levy"
+    },
+    {
+     "name": "Eugene Levy",
+     "category": "Writers",
+     "url": "stremio:///search?search=Eugene%20Levy"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "Depois de perder a sua fortuna, a família Rose é forçada a mudar-se para Schitt´s Creek, uma pequena cidade que tinha sido comprada por piada por Johnny e que é agora tudo o que lhe resta de bens materiais.",
+  "y": "2015",
+  "g": [
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/iRfSzrPS5VYWQv7KVSEg2BZZL6C.jpg",
+  "r": "8.5"
+ },
+ "meta|tt0093105": {
+  "n": "Good Morning, Vietnam",
+  "ty": "movie",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "awards": "Nominated for 1 Oscar. 7 wins & 4 nominations total",
+   "cast": [
+    "Robin Williams",
+    "Forest Whitaker",
+    "Tom T. Tran"
+   ],
+   "country": "United States",
+   "description": "In 1965, an unorthodox and irreverent DJ named Adrian Cronauer begins to shake up things when he is assigned to the U.S. Armed Services radio station in Vietnam.",
+   "director": [
+    "Barry Levinson"
+   ],
+   "dvdRelease": "2013-09-23T00:00:00.000Z",
+   "genre": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "imdbRating": "7.3",
+   "name": "Good Morning, Vietnam",
+   "released": "1988-01-15T00:00:00.000Z",
+   "runtime": "121 min",
+   "trailers": [
+    {
+     "source": "JnBXv3W0arQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "3mJoHqmtFcQ",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Mitch Markowitz",
+    "Adrian Cronauer"
+   ],
+   "year": "1988",
+   "background": "https://images.metahub.space/background/medium/tt0093105/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0093105/img",
+   "id": "tt0093105",
+   "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+   ],
+   "releaseInfo": "1988",
+   "trailerStreams": [
+    {
+     "title": "Good Morning, Vietnam",
+     "ytId": "JnBXv3W0arQ"
+    },
+    {
+     "title": "Good Morning, Vietnam",
+     "ytId": "3mJoHqmtFcQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0093105"
+    },
+    {
+     "name": "Good Morning, Vietnam",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/good-morning-vietnam-0093105"
+    },
+    {
+     "name": "Biography",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Robin Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robin%20Williams"
+    },
+    {
+     "name": "Forest Whitaker",
+     "category": "Cast",
+     "url": "stremio:///search?search=Forest%20Whitaker"
+    },
+    {
+     "name": "Tom T. Tran",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20T.%20Tran"
+    },
+    {
+     "name": "Mitch Markowitz",
+     "category": "Writers",
+     "url": "stremio:///search?search=Mitch%20Markowitz"
+    },
+    {
+     "name": "Adrian Cronauer",
+     "category": "Writers",
+     "url": "stremio:///search?search=Adrian%20Cronauer"
+    },
+    {
+     "name": "Barry Levinson",
+     "category": "Directors",
+     "url": "stremio:///search?search=Barry%20Levinson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0093105",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Convocado ao Vietname para assumir um posto de locutor na rádio militar norte-americana, Adrian Cronauer vai revelar-se uma bênção cheia de problemas: ao mesmo tempo que conquista os soldados e levanta a sua moral graças a uma alegria contagiante e uma sucessão imparável de piadas loucas e música, ele revelar-se-á rebelde e muito difícil de controlar, tornando-se um pesadelo para os seus superiores.",
+  "y": "1987",
+  "g": [
+   "Comédia",
+   "Drama",
+   "Guerra"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/nCGK7GwtjCu2gvdfyvxLX3JkxE9.jpg",
+  "r": "7.3"
+ },
+ "meta|tt3532216": {
+  "n": "American Made",
+  "ty": "movie",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "American Made",
+   "trailers": [
+    {
+     "source": "AEBIJRAkujM",
+     "type": "Trailer"
+    }
+   ],
+   "year": "2017",
+   "runtime": "115 min",
+   "genre": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "released": "2017-09-29T00:00:00.000Z",
+   "director": [
+    "Doug Liman"
+   ],
+   "writer": [
+    "Gary Spinelli"
+   ],
+   "cast": [
+    "Tom Cruise",
+    "Domhnall Gleeson",
+    "Sarah Wright"
+   ],
+   "imdbRating": "7.2",
+   "description": "The story of Barry Seal, an American pilot who became a drug-runner for the CIA in the 1980s in a clandestine operation that would be exposed as the Iran-Contra Affair.",
+   "country": "United States",
+   "awards": "3 nominations total",
+   "dvdRelease": "2017-12-19T00:00:00.000Z",
+   "affiliates": {
+    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2famericanmade_199153%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
+    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2famericanmade_199153%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.155/ImageRenderer/111/168/images/no_image_111x168.jpg/199153/images/masterrepository/fandango/199153/americanmade2017.jpg\" alt=\"American Made\" title=\"American Made\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2famericanmade_199153%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"https://images.fandango.com/r1.0.155//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2famericanmade-trailer%2f199153%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
+   },
+   "background": "https://images.metahub.space/background/medium/tt3532216/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3532216/img",
+   "id": "tt3532216",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "American Made",
+     "ytId": "AEBIJRAkujM"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt3532216"
+    },
+    {
+     "name": "American Made",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/american-made-3532216"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Crime",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Crime"
+    },
+    {
+     "name": "Tom Cruise",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Cruise"
+    },
+    {
+     "name": "Domhnall Gleeson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Domhnall%20Gleeson"
+    },
+    {
+     "name": "Sarah Wright",
+     "category": "Cast",
+     "url": "stremio:///search?search=Sarah%20Wright"
+    },
+    {
+     "name": "Gary Spinelli",
+     "category": "Writers",
+     "url": "stremio:///search?search=Gary%20Spinelli"
+    },
+    {
+     "name": "Doug Liman",
+     "category": "Directors",
+     "url": "stremio:///search?search=Doug%20Liman"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt3532216",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Baseado na história real de Barry Seal, um piloto de aviação oportunista, que é inesperadamente recrutado pela CIA nos anos 80, para realizar uma das operações mais secretas da história dos Estados Unidos.",
+  "y": "2017",
+  "g": [
+   "Comédia",
+   "Crime",
+   "Drama"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/qRRPZMBH9nt9JgIVnOTc7Kbzof8.jpg",
+  "r": "7.2"
+ },
+ "meta|tt1210027": {
+  "n": "Afterburn",
+  "ty": "movie",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "cast": [
+    "Dave Bautista",
+    "Tom Tidiman",
+    "Phil Zimmerman"
+   ],
+   "country": "United States",
+   "description": "After a massive solar flare destroys the Earth's eastern hemisphere, an emboldened treasure hunter for hire adventures to Europe to uncover the coveted Mona Lisa, only to learn the world needs a hero more than it needs a painting.",
+   "director": [
+    "J.J. Perry"
+   ],
+   "genre": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "imdbRating": "4.6",
+   "name": "Afterburn",
+   "released": "2025-10-20T00:00:00.000Z",
+   "writer": [
+    "Nimród Antal",
+    "Scott Chitwood",
+    "Paul Ens"
+   ],
+   "year": "2025",
+   "trailers": [
+    {
+     "source": "ZkEjle729tI",
+     "type": "Trailer"
+    },
+    {
+     "source": "M7QhCm98eIQ",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "105 min",
+   "background": "https://images.metahub.space/background/medium/tt1210027/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1210027/img",
+   "id": "tt1210027",
+   "genres": [
+    "Action",
+    "Comedy",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Afterburn",
+     "ytId": "ZkEjle729tI"
+    },
+    {
+     "title": "Afterburn",
+     "ytId": "M7QhCm98eIQ"
+    }
+   ],
+   "links": [
+    {
+     "name": "4.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1210027"
+    },
+    {
+     "name": "Afterburn",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/afterburn-1210027"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Dave Bautista",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dave%20Bautista"
+    },
+    {
+     "name": "Tom Tidiman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Tidiman"
+    },
+    {
+     "name": "Phil Zimmerman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Phil%20Zimmerman"
+    },
+    {
+     "name": "Nimród Antal",
+     "category": "Writers",
+     "url": "stremio:///search?search=Nimr%C3%B3d%20Antal"
+    },
+    {
+     "name": "Scott Chitwood",
+     "category": "Writers",
+     "url": "stremio:///search?search=Scott%20Chitwood"
+    },
+    {
+     "name": "Paul Ens",
+     "category": "Writers",
+     "url": "stremio:///search?search=Paul%20Ens"
+    },
+    {
+     "name": "J.J. Perry",
+     "category": "Directors",
+     "url": "stremio:///search?search=J.J.%20Perry"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1210027",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Num mundo pós-apocalíptico em que uma erupção solar destruiu toda a tecnologia que havia na Terra, Jake (o ex-”wrestler” tornado actor Dave Bautista) é um antigo soldado que ganha a vida a resgatar grandes tesouros do antigamente para clientes com dinheiro. É contratado para ir à Europa buscar a “Mona Lisa”, mas acaba por mudar de ideias quando percebe que há missões mais importantes.",
+  "y": "2025",
+  "g": [
+   "Ação",
+   "Ficção científica",
+   "Comédia"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/ppR8CSmuVbYia4olDKFv9oddrmZ.jpg",
+  "r": "4.6"
+ },
+ "meta|tt10696784": {
+  "n": "The Harder They Fall",
+  "ty": "movie",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "The Harder They Fall",
+   "cast": [
+    "Jonathan Majors",
+    "Zazie Beetz",
+    "RJ Cyler"
+   ],
+   "country": "United States",
+   "description": "When an outlaw discovers his enemy is being released from prison, he reunites his gang to seek revenge.",
+   "director": [
+    "Jeymes Samuel"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "Western"
+   ],
+   "imdbRating": "6.6",
+   "released": "2021-11-03T00:00:00.000Z",
+   "writer": [
+    "Jeymes Samuel",
+    "Boaz Yakin"
+   ],
+   "year": "2021",
+   "trailers": [
+    {
+     "source": "Poc55U2RPMw",
+     "type": "Trailer"
+    }
+   ],
+   "runtime": "137 min",
+   "background": "https://images.metahub.space/background/medium/tt10696784/img",
+   "logo": "https://images.metahub.space/logo/medium/tt10696784/img",
+   "awards": "Won 1 BAFTA Award. 31 wins & 90 nominations total",
+   "dvdRelease": "2021-11-03T00:00:00.000Z",
+   "id": "tt10696784",
+   "genres": [
+    "Action",
+    "Drama",
+    "Western"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "The Harder They Fall",
+     "ytId": "Poc55U2RPMw"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt10696784"
+    },
+    {
+     "name": "The Harder They Fall",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-harder-they-fall-10696784"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Western",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Western"
+    },
+    {
+     "name": "Jonathan Majors",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jonathan%20Majors"
+    },
+    {
+     "name": "Zazie Beetz",
+     "category": "Cast",
+     "url": "stremio:///search?search=Zazie%20Beetz"
+    },
+    {
+     "name": "RJ Cyler",
+     "category": "Cast",
+     "url": "stremio:///search?search=RJ%20Cyler"
+    },
+    {
+     "name": "Jeymes Samuel",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jeymes%20Samuel"
+    },
+    {
+     "name": "Boaz Yakin",
+     "category": "Writers",
+     "url": "stremio:///search?search=Boaz%20Yakin"
+    },
+    {
+     "name": "Jeymes Samuel",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jeymes%20Samuel"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt10696784",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Em Harder They Fall, quando o fora da lei Nat Love (Jonathan Majors) descobre que seu maior inimigo, Rufus Buck (Idris Elba), será libertado da prisão, ele reúne seu bando em uma busca incessante por vingança. Aqueles que cavalgam com ele incluem o seu antigo amor Stagecoach Mary, seus homens de temperamento forte Bill Pickett e Jack Beckwourth. Rufus ainda conta com a ajuda do \"Traiçoeiro\" Trudy Smith e Cherokee Bill. É de se tomar cuidado, pois esse não é um grupo que costuma a perder qualquer luta.",
+  "y": "2021",
+  "g": [
+   "Faroeste"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg",
+  "r": "6.6"
+ },
+ "meta|tt9359796": {
+  "n": "Blade Runner: Black Lotus",
+  "ty": "series",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "country": "Japan, United States",
+   "description": "In Los Angeles 2032, a young woman wakes up with no memories and possessing deadly skills. The only clues she has are a locked data device and a tattoo of a black lotus. Putting together the pieces, she must find the truth of her ...",
+   "genre": [
+    "Animation",
+    "Action",
+    "Drama"
+   ],
+   "imdbRating": "6.3",
+   "name": "Blade Runner: Black Lotus",
+   "released": "2021-11-14T00:00:00.000Z",
+   "year": "2021–2022",
+   "status": "Ended",
+   "cast": [
+    "Jessica Henwick",
+    "Arisa Shida",
+    "Will Yun Lee"
+   ],
+   "director": [],
+   "writer": [
+    "Philip K. Dick"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt9359796/img",
+   "logo": "https://images.metahub.space/logo/medium/tt9359796/img",
+   "awards": "1 nomination total",
+   "runtime": "22 min",
+   "trailers": [
+    {
+     "source": "KlmnXPRJbGg",
+     "type": "Trailer"
+    },
+    {
+     "source": "eUu3lK_Z8VM",
+     "type": "Trailer"
+    },
+    {
+     "source": "ahNgjVcq4sA",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt9359796",
+   "genres": [
+    "Animation",
+    "Action",
+    "Drama"
+   ],
+   "releaseInfo": "2021–2022",
+   "trailerStreams": [
+    {
+     "title": "Blade Runner: Black Lotus",
+     "ytId": "KlmnXPRJbGg"
+    },
+    {
+     "title": "Blade Runner: Black Lotus",
+     "ytId": "eUu3lK_Z8VM"
+    },
+    {
+     "title": "Blade Runner: Black Lotus",
+     "ytId": "ahNgjVcq4sA"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt9359796"
+    },
+    {
+     "name": "Blade Runner: Black Lotus",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/blade-runner-black-lotus-9359796"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Jessica Henwick",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jessica%20Henwick"
+    },
+    {
+     "name": "Arisa Shida",
+     "category": "Cast",
+     "url": "stremio:///search?search=Arisa%20Shida"
+    },
+    {
+     "name": "Will Yun Lee",
+     "category": "Cast",
+     "url": "stremio:///search?search=Will%20Yun%20Lee"
+    },
+    {
+     "name": "Philip K. Dick",
+     "category": "Writers",
+     "url": "stremio:///search?search=Philip%20K.%20Dick"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   }
+  },
+  "d": "Los Angeles 2032. Uma jovem mulher acorda sem memórias e possuindo habilidades mortais. As únicas pistas para o mistério dela são uma unidade de armazenamento bloqueada e uma tatuagem de um lótus negro. Juntando as peças, ela tem de caçar as pessoas responsáveis pelo seu passado brutal e sangrento para encontrar a verdade da sua identidade perdida.",
+  "y": "2021",
+  "g": [
+   "Animação",
+   "Sci-Fi & Fantasy",
+   "Action & Adventure"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/4e0bY3weyKiVe58kMS34ddOdc4Q.jpg",
+  "r": "6.3"
+ },
+ "meta|tt7428594": {
+  "n": "Blade Runner: Black Out 2022",
+  "ty": "movie",
+  "at": "2026-11-26",
+  "v": 4,
+  "rpdb": true,
+  "cm": {
+   "name": "Blade Runner: Black Out 2022",
+   "year": "2017",
+   "genre": [
+    "Animation",
+    "Short",
+    "Sci-Fi"
+   ],
+   "released": "2017-09-26T00:00:00.000Z",
+   "director": [
+    "Shin'ichirô Watanabe"
+   ],
+   "cast": [
+    "Jovan Jackson",
+    "Luci Christian",
+    "Bryson Baugus",
+    "Edward James Olmos"
+   ],
+   "imdbRating": "7.3",
+   "description": "In 2022, a powerful weapon causes a global blackout that has massive implications all over the world.",
+   "country": "USA, Japan",
+   "trailers": [],
+   "writer": [
+    "Shin'ichirô Watanabe"
+   ],
+   "runtime": "16 min",
+   "background": "https://images.metahub.space/background/medium/tt7428594/img",
+   "logo": "https://images.metahub.space/logo/medium/tt7428594/img",
+   "id": "tt7428594",
+   "genres": [
+    "Animation",
+    "Short",
+    "Sci-Fi"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [],
+   "links": [
+    {
+     "name": "7.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt7428594"
+    },
+    {
+     "name": "Blade Runner: Black Out 2022",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/blade-runner-black-out-2022-7428594"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Short",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Short"
+    },
+    {
+     "name": "Sci-Fi",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Sci-Fi"
+    },
+    {
+     "name": "Jovan Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jovan%20Jackson"
+    },
+    {
+     "name": "Luci Christian",
+     "category": "Cast",
+     "url": "stremio:///search?search=Luci%20Christian"
+    },
+    {
+     "name": "Bryson Baugus",
+     "category": "Cast",
+     "url": "stremio:///search?search=Bryson%20Baugus"
+    },
+    {
+     "name": "Edward James Olmos",
+     "category": "Cast",
+     "url": "stremio:///search?search=Edward%20James%20Olmos"
+    },
+    {
+     "name": "Shin'ichirô Watanabe",
+     "category": "Writers",
+     "url": "stremio:///search?search=Shin'ichir%C3%B4%20Watanabe"
+    },
+    {
+     "name": "Shin'ichirô Watanabe",
+     "category": "Directors",
+     "url": "stremio:///search?search=Shin'ichir%C3%B4%20Watanabe"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt7428594",
+    "hasScheduledVideos": false
+   }
+  },
+  "d": "Em 2022, uma detonação de EMP causa um apagão global que tem enormes implicações destrutivas em todo o mundo. Dirigido por Shinichiro Watanabe, de Cowboy Bebop e Samurai Champloo, Blade Runner: Black Out 2022 é um curta-metragem animado que serve como prólogo para o filme de longa-metragem Blade Runner 2049.",
+  "y": "2017",
+  "g": [
+   "Animação",
+   "Ficção científica",
+   "Thriller"
+  ],
+  "p": "https://image.tmdb.org/t/p/w500/zzRjnUOVXyjp2WudgT7KxJLYh9D.jpg",
+  "r": "7.2"
  }
 }

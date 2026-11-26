@@ -1101,36 +1101,48 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27987047.jpg"
   },
   {
-   "name": "Firefly Wedding",
+   "name": "The Prince",
+   "awards": "1 win & 2 nominations total",
    "cast": [
-    "Kôki Uchiyama",
-    "Lynn"
+    "Giray Altinok",
+    "Canberk Gültekin",
+    "Çagdas Onur Öztürk"
    ],
-   "description": "Estamos na era Meiji. Abençoada com uma herança familiar e beleza, Satoko tem como único desejo se casar pelo bem da família. Mas, de repente, um misterioso assassino vem atrás dela?! Para conseguir sair viva daquela situação, Satoko faz uma \"proposta\" ao assassino…",
+   "country": "Turkey",
+   "description": "Após a morte de seu pai, o herdeiro real mais jovem e menos amado, conhecido simplesmente como “Príncipe”, assume o trono do Reino de Bongomia.",
    "genre": [
-    "History",
-    "Romance"
+    "Comedy",
+    "History"
    ],
-   "imdbRating": "7.6",
-   "released": null,
-   "year": "2026–",
-   "runtime": "23 min",
+   "imdbRating": "8.5",
+   "released": "2023-06-16T00:00:00.000Z",
+   "year": "2023–",
+   "runtime": "48 min",
    "status": "Continuing",
    "director": [],
    "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt39394153/img",
-   "background": "https://images.metahub.space/background/medium/tt39394153/img",
-   "id": "tt39394153",
+   "background": "https://images.metahub.space/background/medium/tt14533970/img",
+   "logo": "https://images.metahub.space/logo/medium/tt14533970/img",
+   "id": "tt14533970",
    "genres": [
-    "Animação",
-    "Drama"
+    "Comédia"
    ],
-   "releaseInfo": "2026",
+   "releaseInfo": "2023",
    "links": [
     {
-     "name": "Firefly Wedding",
+     "name": "8.5",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt14533970"
+    },
+    {
+     "name": "The Prince",
      "category": "share",
-     "url": "https://www.strem.io/s/series/firefly-wedding-39394153"
+     "url": "https://www.strem.io/s/series/the-prince-14533970"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
      "name": "History",
@@ -1138,19 +1150,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
     },
     {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Romance"
+     "name": "Giray Altinok",
+     "category": "Cast",
+     "url": "stremio:///search?search=Giray%20Altinok"
     },
     {
-     "name": "Kôki Uchiyama",
+     "name": "Canberk Gültekin",
      "category": "Cast",
-     "url": "stremio:///search?search=K%C3%B4ki%20Uchiyama"
+     "url": "stremio:///search?search=Canberk%20G%C3%BCltekin"
     },
     {
-     "name": "Lynn",
+     "name": "Çagdas Onur Öztürk",
      "category": "Cast",
-     "url": "stremio:///search?search=Lynn"
+     "url": "stremio:///search?search=%C3%87agdas%20Onur%20%C3%96zt%C3%BCrk"
     }
    ],
    "behaviorHints": {
@@ -1159,7 +1171,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39394153.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14533970.jpg"
   }
  ]
 }
