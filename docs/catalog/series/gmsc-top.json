@@ -67,64 +67,72 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545971.jpg"
   },
   {
-   "awards": "Won 98 Primetime Emmys. 244 wins & 647 nominations total",
+   "id": "tt0299380",
+   "type": "series",
+   "name": "Sesame Street",
+   "posterShape": "poster",
+   "poster": "https://images.metahub.space/poster/medium/tt0299380/img"
+  },
+  {
+   "awards": "Nominated for 8 Primetime Emmys. 30 wins & 106 nominations total",
    "cast": [
-    "The Saturday Night Live Band",
-    "Don Pardo",
-    "Darrell Hammond"
+    "Terrence Howard",
+    "Taraji P. Henson",
+    "Jussie Smollett"
    ],
    "country": "United States",
-   "description": "O programa humorístico \"Saturday Night Live\" conquistou o público americano pela irreverência, pelo humor corrosivo e por ter se tornado um verdadeiro celeiro para novos talentos da arte de fazer rir. O programa foi indicado mais de 50 vezes para o Emmy, ganhando, no mínimo, 15 prêmios durante todos esses anos no ar. E, ao que tudo indica, vai continuar por muito mais tempo do que alguém poderia imaginar.",
+   "description": "Descrita como um drama familiar situado no mundo do império hip-hop, a nova série Empire foca em um magnata da música e dono de uma gravadora, Lucious Lyon (Terrence Howard, de Homem de Ferro). Taraji P. Henson (Person of Interest) interpreta a ex-esposa e sócia de Lyon, Cookie, e Gabourey Sidibe (Preciosa, American Horror Story) também estará na nova série.Empire é escrita e produzida por Lee Daniels (Preciosa) e Danny Strong, tendo ambos trabalhado em O Mordomo da Casa Branca.",
    "director": null,
-   "dvdRelease": "2010-01-26T00:00:00.000Z",
+   "dvdRelease": null,
    "genre": [
-    "Comedy",
+    "Drama",
     "Music"
    ],
-   "imdbRating": "8.0",
-   "name": "Saturday Night Live",
-   "released": "1975-10-11T00:00:00.000Z",
-   "runtime": "65 min",
-   "status": "Continuing",
+   "imdbRating": "7.4",
+   "name": "Empire",
+   "released": "2015-01-07T00:00:00.000Z",
+   "runtime": "43 min",
+   "status": "Ended",
    "writer": [
-    "Lorne Michaels"
+    "Lee Daniels",
+    "Danny Strong"
    ],
-   "year": "1975–",
-   "background": "https://images.metahub.space/background/medium/tt0072562/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0072562/img",
+   "year": "2015–2020",
+   "background": "https://images.metahub.space/background/medium/tt3228904/img",
+   "logo": "https://images.metahub.space/logo/medium/tt3228904/img",
    "trailers": [
     {
-     "source": "_Np6fu-0OoY",
+     "source": "3IpVV7xDMIo",
      "type": "Trailer"
     }
    ],
-   "id": "tt0072562",
+   "id": "tt3228904",
    "genres": [
-    "Comédia",
-    "News"
+    "Drama",
+    "Soap"
    ],
-   "releaseInfo": "1975",
+   "releaseInfo": "2015",
    "trailerStreams": [
     {
-     "title": "Saturday Night Live",
-     "ytId": "_Np6fu-0OoY"
+     "title": "Empire",
+     "ytId": "3IpVV7xDMIo"
     }
    ],
    "links": [
     {
-     "name": "8.0",
+     "name": "7.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0072562"
+     "url": "https://imdb.com/title/tt3228904"
     },
     {
-     "name": "Saturday Night Live",
+     "name": "Empire",
      "category": "share",
-     "url": "https://www.strem.io/s/series/saturday-night-live-0072562"
+     "url": "https://www.strem.io/s/series/empire-3228904"
     },
     {
-     "name": "Comedy",
+     "name": "Drama",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
      "name": "Music",
@@ -132,24 +140,29 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
     },
     {
-     "name": "The Saturday Night Live Band",
+     "name": "Terrence Howard",
      "category": "Cast",
-     "url": "stremio:///search?search=The%20Saturday%20Night%20Live%20Band"
+     "url": "stremio:///search?search=Terrence%20Howard"
     },
     {
-     "name": "Don Pardo",
+     "name": "Taraji P. Henson",
      "category": "Cast",
-     "url": "stremio:///search?search=Don%20Pardo"
+     "url": "stremio:///search?search=Taraji%20P.%20Henson"
     },
     {
-     "name": "Darrell Hammond",
+     "name": "Jussie Smollett",
      "category": "Cast",
-     "url": "stremio:///search?search=Darrell%20Hammond"
+     "url": "stremio:///search?search=Jussie%20Smollett"
     },
     {
-     "name": "Lorne Michaels",
+     "name": "Lee Daniels",
      "category": "Writers",
-     "url": "stremio:///search?search=Lorne%20Michaels"
+     "url": "stremio:///search?search=Lee%20Daniels"
+    },
+    {
+     "name": "Danny Strong",
+     "category": "Writers",
+     "url": "stremio:///search?search=Danny%20Strong"
     }
    ],
    "behaviorHints": {
@@ -158,194 +171,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072562.jpg"
-  },
-  {
-   "awards": "Won 6 Primetime Emmys. 265 wins & 383 nominations total",
-   "cast": [
-    "Jim Henson",
-    "Frank Oz",
-    "Caroll Spinney"
-   ],
-   "country": "United States",
-   "description": "Numa rua especial no centro da cidade, os habitantes, humanos e bonecos, ensinam temas pré-escolares com comédia, desenhos animados, jogos e canções.",
-   "director": null,
-   "dvdRelease": "2003-03-04T00:00:00.000Z",
-   "genre": [
-    "Animation",
-    "Comedy",
-    "Drama"
-   ],
-   "imdbRating": "8.1",
-   "name": "Sesame Street",
-   "released": "1969-07-21T00:00:00.000Z",
-   "runtime": "40 min",
-   "status": "Continuing",
-   "writer": [
-    "Joan Ganz Cooney",
-    "Lloyd Morrisett Jr."
-   ],
-   "year": "1969–",
-   "logo": "https://images.metahub.space/logo/medium/tt0063951/img",
-   "background": "https://images.metahub.space/background/medium/tt0063951/img",
-   "trailers": [
-    {
-     "source": "Nab-_9_nG5U",
-     "type": "Trailer"
-    }
-   ],
-   "id": "tt0063951",
-   "genres": [
-    "Kids",
-    "Comédia"
-   ],
-   "releaseInfo": "1969",
-   "trailerStreams": [
-    {
-     "title": "Sesame Street",
-     "ytId": "Nab-_9_nG5U"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0063951"
-    },
-    {
-     "name": "Sesame Street",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/sesame-street-0063951"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Animation"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Jim Henson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Jim%20Henson"
-    },
-    {
-     "name": "Frank Oz",
-     "category": "Cast",
-     "url": "stremio:///search?search=Frank%20Oz"
-    },
-    {
-     "name": "Caroll Spinney",
-     "category": "Cast",
-     "url": "stremio:///search?search=Caroll%20Spinney"
-    },
-    {
-     "name": "Joan Ganz Cooney",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joan%20Ganz%20Cooney"
-    },
-    {
-     "name": "Lloyd Morrisett Jr.",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lloyd%20Morrisett%20Jr."
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0063951.jpg"
-  },
-  {
-   "awards": "2 wins & 10 nominations total",
-   "cast": [
-    "Dulce María",
-    "Rodrigo Nehme",
-    "Alfonso Herrera"
-   ],
-   "country": "Mexico",
-   "description": "O Elite Way School é um colégio para filhos de gente rica e poderosa. Conheceremos suas regras e seus estudantes através dos olhos dos novos alunos: Roberta, Miguel, Mia e Diego. Surgem amizades, ódios, amores, lealdade e traições enquanto eles enfrentam conflitos, ciúmes e disputas de poder. Surpreendentemente os garotos descobrirão que, em meio a suas irreconciliáveis diferenças, todos têm um ponto em comum: seu amor pela música.",
-   "director": null,
-   "dvdRelease": null,
-   "genre": [
-    "Comedy",
-    "Drama",
-    "Family"
-   ],
-   "imdbRating": "7.1",
-   "name": "Rebelde",
-   "released": "2005-03-21T00:00:00.000Z",
-   "runtime": "60 min",
-   "writer": null,
-   "year": "2004–2006",
-   "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt0414766/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0414766/img",
-   "id": "tt0414766",
-   "genres": [
-    "Drama",
-    "Comédia"
-   ],
-   "releaseInfo": "2004",
-   "links": [
-    {
-     "name": "6.9",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0414766"
-    },
-    {
-     "name": "Rebelde",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/rebelde-0414766"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
-    },
-    {
-     "name": "Dulce María",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dulce%20Mar%C3%ADa"
-    },
-    {
-     "name": "Rodrigo Nehme",
-     "category": "Cast",
-     "url": "stremio:///search?search=Rodrigo%20Nehme"
-    },
-    {
-     "name": "Alfonso Herrera",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alfonso%20Herrera"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414766.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3228904.jpg"
   },
   {
    "awards": "Won 6 Primetime Emmys. 92 wins & 221 nominations total",
@@ -468,60 +294,70 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1327801.jpg"
   },
   {
-   "awards": "Nominated for 8 Primetime Emmys. 30 wins & 106 nominations total",
    "cast": [
-    "Terrence Howard",
-    "Taraji P. Henson",
-    "Jussie Smollett"
+    "Moon Geun-young",
+    "Jang Keun-suk",
+    "Kim Jae-Wook"
    ],
-   "country": "United States",
-   "description": "Descrita como um drama familiar situado no mundo do império hip-hop, a nova série Empire foca em um magnata da música e dono de uma gravadora, Lucious Lyon (Terrence Howard, de Homem de Ferro). Taraji P. Henson (Person of Interest) interpreta a ex-esposa e sócia de Lyon, Cookie, e Gabourey Sidibe (Preciosa, American Horror Story) também estará na nova série.Empire é escrita e produzida por Lee Daniels (Preciosa) e Danny Strong, tendo ambos trabalhado em O Mordomo da Casa Branca.",
-   "director": null,
-   "dvdRelease": null,
+   "country": "South Korea",
+   "description": "Wi Mary, é a filha de um empresário fracassado e endividado que não tem experiência em relações românticas. O destino faz com acidentalmente ela conheça o roqueiro Kang Mu Gyul, antes de saber que seu pai a havia prometido em matrimonio ao filho do seu amigo que vive no Japão. O acordo é que Jung In e Mary, se casem após o termino do acordo de 100 dias. Então, Mary, tem que usar Mu Gyul, como seu marido falso para escapar do casamento arranjado. O que acontecerá com os três? Com quem Mary, se casará no final, Jung In ou Mu Gyul?",
    "genre": [
+    "Comedy",
     "Drama",
     "Music"
    ],
-   "imdbRating": "7.4",
-   "name": "Empire",
-   "released": "2015-01-07T00:00:00.000Z",
-   "runtime": "43 min",
+   "imdbRating": "6.8",
+   "name": "Mary Stayed Out All Night",
+   "released": "2010-11-08T00:00:00.000Z",
+   "year": "2010",
    "status": "Ended",
-   "writer": [
-    "Lee Daniels",
-    "Danny Strong"
-   ],
-   "year": "2015–2020",
-   "background": "https://images.metahub.space/background/medium/tt3228904/img",
-   "logo": "https://images.metahub.space/logo/medium/tt3228904/img",
+   "director": [],
+   "writer": [],
+   "runtime": "65 min",
+   "awards": "6 wins & 3 nominations",
    "trailers": [
     {
-     "source": "3IpVV7xDMIo",
+     "source": "fdZQtekM5tY",
+     "type": "Trailer"
+    },
+    {
+     "source": "UYFuu_nGdyg",
      "type": "Trailer"
     }
    ],
-   "id": "tt3228904",
+   "background": "https://images.metahub.space/background/medium/tt2458514/img",
+   "logo": "https://images.metahub.space/logo/medium/tt2458514/img",
+   "id": "tt2458514",
    "genres": [
-    "Drama",
-    "Soap"
+    "Comédia",
+    "Drama"
    ],
-   "releaseInfo": "2015",
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "Empire",
-     "ytId": "3IpVV7xDMIo"
+     "title": "Mary Stayed Out All Night",
+     "ytId": "fdZQtekM5tY"
+    },
+    {
+     "title": "Mary Stayed Out All Night",
+     "ytId": "UYFuu_nGdyg"
     }
    ],
    "links": [
     {
-     "name": "7.4",
+     "name": "6.7",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt3228904"
+     "url": "https://imdb.com/title/tt2458514"
     },
     {
-     "name": "Empire",
+     "name": "Mary Stayed Out All Night",
      "category": "share",
-     "url": "https://www.strem.io/s/series/empire-3228904"
+     "url": "https://www.strem.io/s/series/mary-stayed-out-all-night-2458514"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
     },
     {
      "name": "Drama",
@@ -534,29 +370,19 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
     },
     {
-     "name": "Terrence Howard",
+     "name": "Moon Geun-young",
      "category": "Cast",
-     "url": "stremio:///search?search=Terrence%20Howard"
+     "url": "stremio:///search?search=Moon%20Geun-young"
     },
     {
-     "name": "Taraji P. Henson",
+     "name": "Jang Keun-suk",
      "category": "Cast",
-     "url": "stremio:///search?search=Taraji%20P.%20Henson"
+     "url": "stremio:///search?search=Jang%20Keun-suk"
     },
     {
-     "name": "Jussie Smollett",
+     "name": "Kim Jae-Wook",
      "category": "Cast",
-     "url": "stremio:///search?search=Jussie%20Smollett"
-    },
-    {
-     "name": "Lee Daniels",
-     "category": "Writers",
-     "url": "stremio:///search?search=Lee%20Daniels"
-    },
-    {
-     "name": "Danny Strong",
-     "category": "Writers",
-     "url": "stremio:///search?search=Danny%20Strong"
+     "url": "stremio:///search?search=Kim%20Jae-Wook"
     }
    ],
    "behaviorHints": {
@@ -565,7 +391,182 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt3228904.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2458514.jpg"
+  },
+  {
+   "awards": "Won 98 Primetime Emmys. 244 wins & 647 nominations total",
+   "cast": [
+    "The Saturday Night Live Band",
+    "Don Pardo",
+    "Darrell Hammond"
+   ],
+   "country": "United States",
+   "description": "O programa humorístico \"Saturday Night Live\" conquistou o público americano pela irreverência, pelo humor corrosivo e por ter se tornado um verdadeiro celeiro para novos talentos da arte de fazer rir. O programa foi indicado mais de 50 vezes para o Emmy, ganhando, no mínimo, 15 prêmios durante todos esses anos no ar. E, ao que tudo indica, vai continuar por muito mais tempo do que alguém poderia imaginar.",
+   "director": null,
+   "dvdRelease": "2010-01-26T00:00:00.000Z",
+   "genre": [
+    "Comedy",
+    "Music"
+   ],
+   "imdbRating": "8.0",
+   "name": "Saturday Night Live",
+   "released": "1975-10-11T00:00:00.000Z",
+   "runtime": "65 min",
+   "status": "Continuing",
+   "writer": [
+    "Lorne Michaels"
+   ],
+   "year": "1975–",
+   "background": "https://images.metahub.space/background/medium/tt0072562/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0072562/img",
+   "trailers": [
+    {
+     "source": "_Np6fu-0OoY",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt0072562",
+   "genres": [
+    "Comédia",
+    "News"
+   ],
+   "releaseInfo": "1975",
+   "trailerStreams": [
+    {
+     "title": "Saturday Night Live",
+     "ytId": "_Np6fu-0OoY"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.0",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0072562"
+    },
+    {
+     "name": "Saturday Night Live",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/saturday-night-live-0072562"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Music",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Music"
+    },
+    {
+     "name": "The Saturday Night Live Band",
+     "category": "Cast",
+     "url": "stremio:///search?search=The%20Saturday%20Night%20Live%20Band"
+    },
+    {
+     "name": "Don Pardo",
+     "category": "Cast",
+     "url": "stremio:///search?search=Don%20Pardo"
+    },
+    {
+     "name": "Darrell Hammond",
+     "category": "Cast",
+     "url": "stremio:///search?search=Darrell%20Hammond"
+    },
+    {
+     "name": "Lorne Michaels",
+     "category": "Writers",
+     "url": "stremio:///search?search=Lorne%20Michaels"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0072562.jpg"
+  },
+  {
+   "awards": "2 wins & 10 nominations total",
+   "cast": [
+    "Dulce María",
+    "Rodrigo Nehme",
+    "Alfonso Herrera"
+   ],
+   "country": "Mexico",
+   "description": "O Elite Way School é um colégio para filhos de gente rica e poderosa. Conheceremos suas regras e seus estudantes através dos olhos dos novos alunos: Roberta, Miguel, Mia e Diego. Surgem amizades, ódios, amores, lealdade e traições enquanto eles enfrentam conflitos, ciúmes e disputas de poder. Surpreendentemente os garotos descobrirão que, em meio a suas irreconciliáveis diferenças, todos têm um ponto em comum: seu amor pela música.",
+   "director": null,
+   "dvdRelease": null,
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "imdbRating": "7.1",
+   "name": "Rebelde",
+   "released": "2005-03-21T00:00:00.000Z",
+   "runtime": "60 min",
+   "writer": null,
+   "year": "2004–2006",
+   "status": "Ended",
+   "background": "https://images.metahub.space/background/medium/tt0414766/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0414766/img",
+   "id": "tt0414766",
+   "genres": [
+    "Drama",
+    "Comédia"
+   ],
+   "releaseInfo": "2004",
+   "links": [
+    {
+     "name": "6.9",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0414766"
+    },
+    {
+     "name": "Rebelde",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/rebelde-0414766"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
+    },
+    {
+     "name": "Dulce María",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dulce%20Mar%C3%ADa"
+    },
+    {
+     "name": "Rodrigo Nehme",
+     "category": "Cast",
+     "url": "stremio:///search?search=Rodrigo%20Nehme"
+    },
+    {
+     "name": "Alfonso Herrera",
+     "category": "Cast",
+     "url": "stremio:///search?search=Alfonso%20Herrera"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0414766.jpg"
   },
   {
    "name": "Over the Garden Wall",
@@ -781,78 +782,6 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4288182.jpg"
-  },
-  {
-   "name": "Untitled Snowfall Spinoff",
-   "cast": [
-    "Isaiah John",
-    "Gail Bean",
-    "Tate Ellington"
-   ],
-   "description": "\"The Drop: Uma Snowfall Saga\" acompanha Wanda Bell e Leon Simmons na Los Angeles dos anos 90, onde as consequências da epidemia de crack impulsionam a ascensão do rap da Costa Oeste. Wanda acredita que a música pode transformar a cultura e reúne um grupo improvável de talentos, incluindo os primos Lamar e James Kinsey e o rapper Artillery. O estágio com Darryl \"DG\" Grant abre-lhe portas, mas agrava as tensões com Leon. Ambição, lealdade e sobrevivência entram em conflito.",
-   "genre": [
-    "Crime"
-   ],
-   "imdbRating": "7.0",
-   "released": null,
-   "year": "2026–",
-   "runtime": "46 min",
-   "status": "Continuing",
-   "director": [],
-   "writer": [],
-   "trailers": [
-    {
-     "source": "3Yy_6OaAk3Q",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt36210894/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36210894/img",
-   "id": "tt36210894",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Untitled Snowfall Spinoff",
-     "ytId": "3Yy_6OaAk3Q"
-    }
-   ],
-   "links": [
-    {
-     "name": "Untitled Snowfall Spinoff",
-     "category": "share",
-     "url": "https://www.strem.io/s/series/untitled-snowfall-spinoff-36210894"
-    },
-    {
-     "name": "Crime",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Crime"
-    },
-    {
-     "name": "Isaiah John",
-     "category": "Cast",
-     "url": "stremio:///search?search=Isaiah%20John"
-    },
-    {
-     "name": "Gail Bean",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gail%20Bean"
-    },
-    {
-     "name": "Tate Ellington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tate%20Ellington"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36210894.jpg"
   },
   {
    "awards": "Nominated for 2 Primetime Emmys. 4 wins & 40 nominations total",
