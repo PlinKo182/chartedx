@@ -415,64 +415,6 @@
    "imdbRating": "5.8"
   },
   {
-   "id": "tt39640040",
-   "logo": "https://live.metahub.space/logo/medium/tt39640040/img",
-   "background": "https://live.metahub.space/background/medium/tt39640040/img",
-   "name": "The Hotline",
-   "description": "Uma linha direta anônima de overdose, na qual as pessoas ligam antes de usar drogas. Os voluntários permanecem na linha, correndo contra o tempo, criando esperança coletiva em meio ao vício.",
-   "genres": [
-    "Documentário"
-   ],
-   "releaseInfo": "2026",
-   "runtime": "36 min",
-   "trailers": [
-    {
-     "source": "XBY2ylbeOkM",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [],
-   "credits_cast": [],
-   "credits_crew": [
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Ricki Stern",
-     "profile_path": "/wmktrP0Texsy4yNjI31PzKXL1tm.jpg",
-     "id": 74105
-    },
-    {
-     "department": "Directing",
-     "job": "Director",
-     "name": "Jesse Sweet",
-     "profile_path": null,
-     "id": 1591513
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Ricki Stern",
-     "profile_path": "/wmktrP0Texsy4yNjI31PzKXL1tm.jpg",
-     "id": 74105
-    }
-   ],
-   "director": [
-    "Ricki Stern",
-    "Jesse Sweet"
-   ],
-   "imdbRating": "6.9",
-   "language": "English",
-   "country": "United States",
-   "awards": "1 nomination total",
-   "behaviorHints": {
-    "defaultVideoId": "tt39640040",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39640040.jpg"
-  },
-  {
    "awards": "3 wins & 7 nominations total",
    "cast": [
     "Nathan Fielder",
@@ -665,6 +607,106 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49013050.jpg",
    "imdbRating": "1.9"
+  },
+  {
+   "name": "The Wonder Years",
+   "cast": [
+    "Elisha Williams",
+    "Dulé Hill",
+    "Saycon Sengbloh"
+   ],
+   "country": "United States",
+   "description": "A história da família Williams durante o final dos anos 60, através da perspetiva de Dean, um miúdo de 12 anos, cheio de imaginação. Com a sabedoria da idade adulta, as memórias otimistas e engraçadas de Dean realçam os altos e baixos de crescer numa família negra da classe média, em Montgomery, no Alabama, bem como a amizade, as gargalhadas e as lições dessa altura.",
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Family"
+   ],
+   "imdbRating": "6.6",
+   "released": "2021-09-22T00:00:00.000Z",
+   "year": "2021–2023",
+   "status": "Ended",
+   "director": [],
+   "writer": [
+    "Saladin K. Patterson"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt12682076/img",
+   "logo": "https://images.metahub.space/logo/medium/tt12682076/img",
+   "awards": "2 wins & 18 nominations total",
+   "runtime": "22 min",
+   "trailers": [
+    {
+     "source": "2jn-e2jWJLs",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt12682076",
+   "genres": [
+    "Comédia",
+    "Drama",
+    "Família"
+   ],
+   "releaseInfo": "2021",
+   "trailerStreams": [
+    {
+     "title": "The Wonder Years",
+     "ytId": "2jn-e2jWJLs"
+    }
+   ],
+   "links": [
+    {
+     "name": "6.6",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt12682076"
+    },
+    {
+     "name": "The Wonder Years",
+     "category": "share",
+     "url": "https://www.strem.io/s/series/the-wonder-years-12682076"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
+    },
+    {
+     "name": "Family",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Family"
+    },
+    {
+     "name": "Elisha Williams",
+     "category": "Cast",
+     "url": "stremio:///search?search=Elisha%20Williams"
+    },
+    {
+     "name": "Dulé Hill",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dul%C3%A9%20Hill"
+    },
+    {
+     "name": "Saycon Sengbloh",
+     "category": "Cast",
+     "url": "stremio:///search?search=Saycon%20Sengbloh"
+    },
+    {
+     "name": "Saladin K. Patterson",
+     "category": "Writers",
+     "url": "stremio:///search?search=Saladin%20K.%20Patterson"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12682076.jpg"
   }
  ]
 }
