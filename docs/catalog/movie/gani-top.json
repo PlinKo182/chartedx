@@ -376,31 +376,54 @@
    "imdbRating": "8.0"
   },
   {
-   "id": "tt1361841",
-   "behaviorHints": {
-    "defaultVideoId": "tt1361841",
-    "hasScheduledVideos": false
-   },
+   "awards": "Won 1 Primetime Emmy. Another 1 nomination.",
+   "cast": [
+    "Todd Barbee",
+    "Robin Kohn",
+    "Stephen Shea",
+    "Hilary Momberger"
+   ],
+   "country": "USA",
+   "description": "A Peppermint Patty convida toda a gente para celebrar o Dia de Ação de Graças na casa do Charlie Brown, embora ele vá jantar a casa da avó. O Snoopy decide cozinhar a sua especialidade com ajuda dos seus amigos.",
+   "director": [
+    "Bill Melendez",
+    "Phil Roman"
+   ],
+   "dvdRelease": "2000-09-11T21:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Comedy",
+    "Family"
+   ],
+   "imdbRating": "7.7",
+   "name": "A Charlie Brown Thanksgiving",
+   "released": "1973-11-19T22:00:00.000Z",
+   "runtime": "30 min",
+   "trailers": [],
+   "writer": [
+    "Charles M. Schulz (written and created by)"
+   ],
+   "year": "1973",
+   "background": "https://images.metahub.space/background/medium/tt0068359/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0068359/img",
+   "id": "tt0068359",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "1973",
+   "trailerStreams": [],
    "links": [
     {
-     "name": "5.3",
+     "name": "7.8",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1361841"
-    },
-    {
-     "name": "Tom and Jerry",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/tom-and-jerry-1361841"
+     "url": "https://imdb.com/title/tt0068359"
     },
     {
      "name": "Animation",
      "category": "Genres",
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
     },
     {
      "name": "Comedy",
@@ -413,215 +436,48 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
     },
     {
-     "name": "Fantasy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Fantasy"
-    },
-    {
-     "name": "Michael Peña",
+     "name": "Todd Barbee",
      "category": "Cast",
-     "url": "stremio:///search?search=Michael%20Pe%C3%B1a"
+     "url": "stremio:///search?search=Todd%20Barbee"
     },
     {
-     "name": "Colin Jost",
+     "name": "Robin Kohn",
      "category": "Cast",
-     "url": "stremio:///search?search=Colin%20Jost"
+     "url": "stremio:///search?search=Robin%20Kohn"
     },
     {
-     "name": "Tom",
+     "name": "Stephen Shea",
      "category": "Cast",
-     "url": "stremio:///search?search=Tom"
+     "url": "stremio:///search?search=Stephen%20Shea"
     },
     {
-     "name": "William Hanna",
+     "name": "Hilary Momberger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Hilary%20Momberger"
+    },
+    {
+     "name": "Charles M. Schulz (written and created by)",
      "category": "Writers",
-     "url": "stremio:///search?search=William%20Hanna"
+     "url": "stremio:///search?search=Charles%20M.%20Schulz%20(written%20and%20created%20by)"
     },
     {
-     "name": "Joseph Barbera",
-     "category": "Writers",
-     "url": "stremio:///search?search=Joseph%20Barbera"
-    },
-    {
-     "name": "Kevin Costello",
-     "category": "Writers",
-     "url": "stremio:///search?search=Kevin%20Costello"
-    },
-    {
-     "name": "Tim Story",
+     "name": "Bill Melendez",
      "category": "Directors",
-     "url": "stremio:///search?search=Tim%20Story"
-    }
-   ],
-   "name": "Tom and Jerry",
-   "year": "2021",
-   "releaseInfo": "2021",
-   "description": "A chaotic battle ensues between Jerry Mouse, who has taken refuge in the Royal Gate Hotel, and Tom Cat, who is hired to drive him away before the day of a big wedding arrives.",
-   "runtime": "101 min",
-   "background": "https://m.media-amazon.com/images/M/MV5BZjI3NDQ4YzMtNmYyZS00NGQzLThhM2ItZTk5NzViOGNjYmY4XkEyXkFqcGc@._V1_.jpg",
-   "imdbRating": "5.3",
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy",
-    "Family",
-    "Fantasy"
-   ],
-   "genres": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "cast": [
-    "Michael Peña",
-    "Colin Jost",
-    "Tom"
-   ],
-   "writer": [
-    "William Hanna",
-    "Joseph Barbera",
-    "Kevin Costello"
-   ],
-   "director": [
-    "Tim Story"
-   ],
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://images.metahub.space/poster/medium/tt1361841/img"
-  },
-  {
-   "name": "Flow",
-   "awards": "Won 1 Oscar. 63 wins & 79 nominations total",
-   "country": "Latvia, Belgium, France",
-   "description": "Um gato solitário, deslocado por uma grande inundação, encontra refúgio num barco com várias espécies. Juntos, enfrentam os desafios da adaptação a um mundo transformado.",
-   "director": [
-    "Gints Zilbalodis"
-   ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Family"
-   ],
-   "imdbRating": "7.8",
-   "released": "2025-02-14T00:00:00.000Z",
-   "writer": [
-    "Gints Zilbalodis",
-    "Matiss Kaza",
-    "Ron Dyens"
-   ],
-   "year": "2025",
-   "runtime": "85 min",
-   "trailers": [
-    {
-     "source": "shsVQvHUTxw",
-     "type": "Trailer"
+     "url": "stremio:///search?search=Bill%20Melendez"
     },
     {
-     "source": "ZgZccxuj2RY",
-     "type": "Trailer"
-    },
-    {
-     "source": "82WW9dVbglI",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Gints Zilbalodis",
-    "Thomas Oldman",
-    "Alexander David Bobson"
-   ],
-   "background": "https://images.metahub.space/background/medium/tt4772188/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4772188/img",
-   "id": "tt4772188",
-   "genres": [
-    "Aventura",
-    "Animação",
-    "Família"
-   ],
-   "releaseInfo": "2024",
-   "trailerStreams": [
-    {
-     "title": "Flow",
-     "ytId": "shsVQvHUTxw"
-    },
-    {
-     "title": "Flow",
-     "ytId": "ZgZccxuj2RY"
-    },
-    {
-     "title": "Flow",
-     "ytId": "82WW9dVbglI"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt4772188"
-    },
-    {
-     "name": "Flow",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/flow-4772188"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Gints Zilbalodis",
-     "category": "Cast",
-     "url": "stremio:///search?search=Gints%20Zilbalodis"
-    },
-    {
-     "name": "Thomas Oldman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Thomas%20Oldman"
-    },
-    {
-     "name": "Alexander David Bobson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Alexander%20David%20Bobson"
-    },
-    {
-     "name": "Gints Zilbalodis",
-     "category": "Writers",
-     "url": "stremio:///search?search=Gints%20Zilbalodis"
-    },
-    {
-     "name": "Matiss Kaza",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matiss%20Kaza"
-    },
-    {
-     "name": "Ron Dyens",
-     "category": "Writers",
-     "url": "stremio:///search?search=Ron%20Dyens"
-    },
-    {
-     "name": "Gints Zilbalodis",
+     "name": "Phil Roman",
      "category": "Directors",
-     "url": "stremio:///search?search=Gints%20Zilbalodis"
+     "url": "stremio:///search?search=Phil%20Roman"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4772188",
+    "defaultVideoId": "tt0068359",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4772188.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0068359.jpg"
   },
   {
    "name": "Toy Story 5",
@@ -750,305 +606,149 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg"
   },
   {
-   "id": "tt39163238",
-   "logo": "https://live.metahub.space/logo/medium/tt39163238/img",
-   "background": "https://live.metahub.space/background/medium/tt39163238/img",
-   "name": "When a Witness Recants",
-   "description": "Em 1983, o autor Ta-Nehisi Coates soube que um rapaz de 14 anos tinha sido assassinado na sua escola, em Baltimore. Ao reexaminar o caso, descobre a verdade: três adolescentes inocentes foram condenados injustamente e passaram 36 anos na prisão — deixando um impacto duradouro nos acusados, nas testemunhas e na sua comunidade.",
+   "id": "tt2056785",
+   "logo": "https://live.metahub.space/logo/medium/tt2056785/img",
+   "background": "https://live.metahub.space/background/medium/tt2056785/img",
+   "name": "Wildwood",
+   "description": "Prue e o seu colega de turma Curtis são atraídos para uma floresta mágica proibida, repleta de criaturas encantadas, aliados leais e adversários formidáveis, enquanto embarcam numa missão desesperada para salvar o irmãozinho de Prue, Mac, que foi raptado pelos corvos liderados por uma mulher misteriosa chamada Alexandra.",
    "genres": [
-    "Documentário",
-    "Animação"
+    "Animação",
+    "Aventura",
+    "Fantasia"
    ],
    "releaseInfo": "2026",
-   "runtime": "112 min",
+   "runtime": "132 min",
    "trailers": [
     {
-     "source": "CV04IYt-n_g",
+     "source": "bJQGtSeLPII",
+     "type": "Trailer"
+    },
+    {
+     "source": "dtr5JL1zkiM",
+     "type": "Trailer"
+    },
+    {
+     "source": "POneS8h1jyU",
      "type": "Trailer"
     }
    ],
-   "cast": [],
-   "credits_cast": [],
+   "cast": [
+    "Peyton Elizabeth Lee",
+    "Jacob Tremblay",
+    "Carey Mulligan"
+   ],
+   "credits_cast": [
+    {
+     "character": "Prue McKeel (voice)",
+     "name": "Peyton Elizabeth Lee",
+     "profile_path": "/hnEl4HxqGNGHCJ7Y8l3dJ21WHeG.jpg",
+     "id": 1768964
+    },
+    {
+     "character": "Curtis Mehlberg (voice)",
+     "name": "Jacob Tremblay",
+     "profile_path": "/h8CXDp86Y36CUENF4SXJq5ZRTsf.jpg",
+     "id": 1277188
+    },
+    {
+     "character": "Alexandra (voice)",
+     "name": "Carey Mulligan",
+     "profile_path": "/iwVHhqoz5b62FR0SDpZ7wfsuTBI.jpg",
+     "id": 36662
+    },
+    {
+     "character": "Brenden (voice)",
+     "name": "Mahershala Ali",
+     "profile_path": "/9ZmSejm5lnUVY5IJ1iNx2QEjnHb.jpg",
+     "id": 932967
+    },
+    {
+     "character": "Mac McKeel (voice)",
+     "name": "Arthur Knight",
+     "profile_path": null,
+     "id": 6210474
+    },
+    {
+     "character": "The General (voice)",
+     "name": "Angela Bassett",
+     "profile_path": "/tKnuviliyeKNGlo26IU5gIrJAtd.jpg",
+     "id": 9780
+    },
+    {
+     "character": "Septima (voice)",
+     "name": "Awkwafina",
+     "profile_path": "/l5AKkg3H1QhMuXmTTmq1EyjyiRb.jpg",
+     "id": 1625558
+    },
+    {
+     "character": "Mr. McKeel (voice)",
+     "name": "Jake Johnson",
+     "profile_path": "/3UNfW2qZgRkW81neNVfQvaRC92K.jpg",
+     "id": 543505
+    },
+    {
+     "character": "Dmitri (voice)",
+     "name": "Charlie Day",
+     "profile_path": "/c0HNhjChGybnHa4eoLyqO4dDu1j.jpg",
+     "id": 95101
+    },
+    {
+     "character": "Niamh (voice)",
+     "name": "Amandla Stenberg",
+     "profile_path": "/dGqTcwLVoVOqU6Ckp8igV3wD0CW.jpg",
+     "id": 561869
+    }
+   ],
    "credits_crew": [
+    {
+     "department": "Writing",
+     "job": "Screenplay",
+     "name": "Chris Butler",
+     "profile_path": "/3Gi6tkPagXnoZHQkDmZUtqd2hrx.jpg",
+     "id": 154705
+    },
     {
      "department": "Directing",
      "job": "Director",
-     "name": "Dawn Porter",
-     "profile_path": "/7K7vVWa72eqe7b9bp0ayJL7ExMe.jpg",
-     "id": 1140441
+     "name": "Travis Knight",
+     "profile_path": "/5JmhiYsF0H1geSwbX5NtByZuJjC.jpg",
+     "id": 1033661
     },
     {
      "department": "Production",
      "job": "Producer",
-     "name": "Dawn Porter",
-     "profile_path": "/7K7vVWa72eqe7b9bp0ayJL7ExMe.jpg",
-     "id": 1140441
+     "name": "Travis Knight",
+     "profile_path": "/5JmhiYsF0H1geSwbX5NtByZuJjC.jpg",
+     "id": 1033661
     },
     {
      "department": "Production",
      "job": "Producer",
-     "name": "Miriam Weintraub",
+     "name": "Arianne Sutner",
+     "profile_path": "/cj4xb17Rng4CLs5078QWQUJST9z.jpg",
+     "id": 1033662
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Samuel Wilson",
      "profile_path": null,
-     "id": 1270287
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Jennifer Oko",
-     "profile_path": null,
-     "id": 6548871
+     "id": 2015686
     }
    ],
    "director": [
-    "Dawn Porter"
+    "Travis Knight"
    ],
-   "imdbRating": "7.4",
    "language": "English",
-   "country": "United States",
+   "country": "United States, United Kingdom",
    "behaviorHints": {
-    "defaultVideoId": "tt39163238",
+    "defaultVideoId": "tt2056785",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg"
-  },
-  {
-   "awards": "Won 1 Primetime Emmy. Another 1 nomination.",
-   "cast": [
-    "Todd Barbee",
-    "Robin Kohn",
-    "Stephen Shea",
-    "Hilary Momberger"
-   ],
-   "country": "USA",
-   "description": "A Peppermint Patty convida toda a gente para celebrar o Dia de Ação de Graças na casa do Charlie Brown, embora ele vá jantar a casa da avó. O Snoopy decide cozinhar a sua especialidade com ajuda dos seus amigos.",
-   "director": [
-    "Bill Melendez",
-    "Phil Roman"
-   ],
-   "dvdRelease": "2000-09-11T21:00:00.000Z",
-   "genre": [
-    "Animation",
-    "Comedy",
-    "Family"
-   ],
-   "imdbRating": "7.7",
-   "name": "A Charlie Brown Thanksgiving",
-   "released": "1973-11-19T22:00:00.000Z",
-   "runtime": "30 min",
-   "trailers": [],
-   "writer": [
-    "Charles M. Schulz (written and created by)"
-   ],
-   "year": "1973",
-   "background": "https://images.metahub.space/background/medium/tt0068359/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0068359/img",
-   "id": "tt0068359",
-   "genres": [
-    "Animação",
-    "Comédia",
-    "Família"
-   ],
-   "releaseInfo": "1973",
-   "trailerStreams": [],
-   "links": [
-    {
-     "name": "7.8",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt0068359"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Family",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Family"
-    },
-    {
-     "name": "Todd Barbee",
-     "category": "Cast",
-     "url": "stremio:///search?search=Todd%20Barbee"
-    },
-    {
-     "name": "Robin Kohn",
-     "category": "Cast",
-     "url": "stremio:///search?search=Robin%20Kohn"
-    },
-    {
-     "name": "Stephen Shea",
-     "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Shea"
-    },
-    {
-     "name": "Hilary Momberger",
-     "category": "Cast",
-     "url": "stremio:///search?search=Hilary%20Momberger"
-    },
-    {
-     "name": "Charles M. Schulz (written and created by)",
-     "category": "Writers",
-     "url": "stremio:///search?search=Charles%20M.%20Schulz%20(written%20and%20created%20by)"
-    },
-    {
-     "name": "Bill Melendez",
-     "category": "Directors",
-     "url": "stremio:///search?search=Bill%20Melendez"
-    },
-    {
-     "name": "Phil Roman",
-     "category": "Directors",
-     "url": "stremio:///search?search=Phil%20Roman"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt0068359",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0068359.jpg"
-  },
-  {
-   "name": "The Super Mario Galaxy Movie",
-   "cast": [
-    "Brie Larson",
-    "Virginia Dare Jelenic",
-    "Benny Safdie"
-   ],
-   "country": "Japan, United States",
-   "description": "Depois de terem frustrado o plano anterior de Bowser de se casar com a Princesa Peach, Mario e Luigi enfrentam agora uma nova ameaça: Bowser Jr., determinado a libertar o seu pai do cativeiro e a restaurar o legado da família. Ao lado de novos e antigos companheiros, os irmãos viajam pelas estrelas para impedir a cruzada do jovem herdeiro.",
-   "director": [
-    "Aaron Horvath",
-    "Michael Jelenic",
-    "Pierre Leduc"
-   ],
-   "genre": [
-    "Animation",
-    "Adventure",
-    "Comedy"
-   ],
-   "imdbRating": "6.2",
-   "released": "2026-04-01T00:00:00.000Z",
-   "writer": [
-    "Matthew Fogel"
-   ],
-   "year": "2026",
-   "background": "https://images.metahub.space/background/medium/tt28650488/img",
-   "logo": "https://images.metahub.space/logo/medium/tt28650488/img",
-   "trailers": [
-    {
-     "source": "En5QZmL5R1s",
-     "type": "Trailer"
-    },
-    {
-     "source": "SA9ohTuGl4Q",
-     "type": "Trailer"
-    },
-    {
-     "source": "FdL2GorGdKc",
-     "type": "Trailer"
-    }
-   ],
-   "runtime": "98 min",
-   "id": "tt28650488",
-   "genres": [
-    "Família",
-    "Comédia",
-    "Aventura"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Super Mario Galaxy Movie",
-     "ytId": "En5QZmL5R1s"
-    },
-    {
-     "title": "The Super Mario Galaxy Movie",
-     "ytId": "SA9ohTuGl4Q"
-    },
-    {
-     "title": "The Super Mario Galaxy Movie",
-     "ytId": "FdL2GorGdKc"
-    }
-   ],
-   "links": [
-    {
-     "name": "6.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt28650488"
-    },
-    {
-     "name": "The Super Mario Galaxy Movie",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-super-mario-galaxy-movie-28650488"
-    },
-    {
-     "name": "Animation",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Comedy",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
-    },
-    {
-     "name": "Brie Larson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brie%20Larson"
-    },
-    {
-     "name": "Virginia Dare Jelenic",
-     "category": "Cast",
-     "url": "stremio:///search?search=Virginia%20Dare%20Jelenic"
-    },
-    {
-     "name": "Benny Safdie",
-     "category": "Cast",
-     "url": "stremio:///search?search=Benny%20Safdie"
-    },
-    {
-     "name": "Matthew Fogel",
-     "category": "Writers",
-     "url": "stremio:///search?search=Matthew%20Fogel"
-    },
-    {
-     "name": "Aaron Horvath",
-     "category": "Directors",
-     "url": "stremio:///search?search=Aaron%20Horvath"
-    },
-    {
-     "name": "Michael Jelenic",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Jelenic"
-    },
-    {
-     "name": "Pierre Leduc",
-     "category": "Directors",
-     "url": "stremio:///search?search=Pierre%20Leduc"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt28650488",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28650488.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2056785.jpg",
+   "imdbRating": "8.6"
   },
   {
    "name": "Minions & Monsters",
@@ -1168,6 +868,316 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32890033.jpg"
+  },
+  {
+   "awards": "2 nominations total",
+   "cast": [
+    "Woody Harrelson",
+    "Owen Wilson",
+    "Dan Fogler"
+   ],
+   "country": "United States, Canada, Japan, Australia",
+   "description": "Reggie era um peru comum até ao dia em que a visita presidencial à quinta que o viu nascer o tornou o \"Peru Perdoado\". Sem estar verdadeiramente consciente do terrível destino a que miraculosamente escapou, ele passa a viver sossegadamente na residência oficial do presidente. Mas, um dia, é raptado por Jake, o Peru Perfeito, incansável fundador e único membro da Frente de Libertação dos Perus. Jake revela-lhe algo aterrador: os da sua espécie são mantidos em cativeiro e generosamente alimentados para que façam parte do menu do mais célebre feriado norte-americano: o Dia de Ação de Graças. Agora o plano é encontrar um laboratório secreto do governo onde se encontra uma máquina do tempo e, num ato de coragem e solidariedade, viajar até ao ano de 1621, mais precisamente ao dia em que foi realizada a primeira dessas festividades.",
+   "director": [
+    "Jimmy Hayward"
+   ],
+   "dvdRelease": "2014-10-31T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "5.8",
+   "name": "Free Birds",
+   "released": "2013-11-01T00:00:00.000Z",
+   "runtime": "91 min",
+   "trailers": [
+    {
+     "source": "r-RnGP63rpM",
+     "type": "Trailer"
+    },
+    {
+     "source": "x9RvyOjnyxk",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "Scott Mosier",
+    "Jimmy Hayward",
+    "David I. Stern"
+   ],
+   "year": "2013",
+   "background": "https://images.metahub.space/background/medium/tt1621039/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1621039/img",
+   "id": "tt1621039",
+   "genres": [
+    "Animação",
+    "Comédia",
+    "Família"
+   ],
+   "releaseInfo": "2013",
+   "trailerStreams": [
+    {
+     "title": "Free Birds",
+     "ytId": "r-RnGP63rpM"
+    },
+    {
+     "title": "Free Birds",
+     "ytId": "x9RvyOjnyxk"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.8",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt1621039"
+    },
+    {
+     "name": "Free Birds",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/free-birds-1621039"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Woody Harrelson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Woody%20Harrelson"
+    },
+    {
+     "name": "Owen Wilson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Owen%20Wilson"
+    },
+    {
+     "name": "Dan Fogler",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dan%20Fogler"
+    },
+    {
+     "name": "Scott Mosier",
+     "category": "Writers",
+     "url": "stremio:///search?search=Scott%20Mosier"
+    },
+    {
+     "name": "Jimmy Hayward",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jimmy%20Hayward"
+    },
+    {
+     "name": "David I. Stern",
+     "category": "Writers",
+     "url": "stremio:///search?search=David%20I.%20Stern"
+    },
+    {
+     "name": "Jimmy Hayward",
+     "category": "Directors",
+     "url": "stremio:///search?search=Jimmy%20Hayward"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt1621039",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1621039.jpg"
+  },
+  {
+   "id": "tt39163238",
+   "logo": "https://live.metahub.space/logo/medium/tt39163238/img",
+   "background": "https://live.metahub.space/background/medium/tt39163238/img",
+   "name": "When a Witness Recants",
+   "description": "Em 1983, o autor Ta-Nehisi Coates soube que um rapaz de 14 anos tinha sido assassinado na sua escola, em Baltimore. Ao reexaminar o caso, descobre a verdade: três adolescentes inocentes foram condenados injustamente e passaram 36 anos na prisão — deixando um impacto duradouro nos acusados, nas testemunhas e na sua comunidade.",
+   "genres": [
+    "Documentário",
+    "Animação"
+   ],
+   "releaseInfo": "2026",
+   "runtime": "112 min",
+   "trailers": [
+    {
+     "source": "CV04IYt-n_g",
+     "type": "Trailer"
+    }
+   ],
+   "cast": [],
+   "credits_cast": [],
+   "credits_crew": [
+    {
+     "department": "Directing",
+     "job": "Director",
+     "name": "Dawn Porter",
+     "profile_path": "/7K7vVWa72eqe7b9bp0ayJL7ExMe.jpg",
+     "id": 1140441
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Dawn Porter",
+     "profile_path": "/7K7vVWa72eqe7b9bp0ayJL7ExMe.jpg",
+     "id": 1140441
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Miriam Weintraub",
+     "profile_path": null,
+     "id": 1270287
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Jennifer Oko",
+     "profile_path": null,
+     "id": 6548871
+    }
+   ],
+   "director": [
+    "Dawn Porter"
+   ],
+   "imdbRating": "7.4",
+   "language": "English",
+   "country": "United States",
+   "behaviorHints": {
+    "defaultVideoId": "tt39163238",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg"
+  },
+  {
+   "awards": "Nominated for 3 Oscars. 29 wins & 24 nominations total",
+   "cast": [
+    "Tom Hanks",
+    "Tim Allen",
+    "Don Rickles"
+   ],
+   "country": "United States",
+   "description": "Um boneco de cowboy fica profundamente invejoso quando uma nova figura de acção de um astronauta o substitui como o brinquedo mais importante no quarto de um rapaz. Quando as circunstâncias os separam do seu dono, a dupla tem de pôr de lado as suas diferenças para regressar até ele.",
+   "director": [
+    "John Lasseter"
+   ],
+   "dvdRelease": "2014-01-01T00:00:00.000Z",
+   "genre": [
+    "Animation",
+    "Adventure",
+    "Comedy"
+   ],
+   "imdbRating": "8.3",
+   "name": "Toy Story",
+   "released": "1995-11-22T00:00:00.000Z",
+   "runtime": "81 min",
+   "trailers": [
+    {
+     "source": "CxwTLktovTU",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [
+    "John Lasseter",
+    "Pete Docter",
+    "Andrew Stanton"
+   ],
+   "year": "1995",
+   "background": "https://images.metahub.space/background/medium/tt0114709/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0114709/img",
+   "id": "tt0114709",
+   "genres": [
+    "Família",
+    "Comédia",
+    "Animação"
+   ],
+   "releaseInfo": "1995",
+   "trailerStreams": [
+    {
+     "title": "Toy Story",
+     "ytId": "CxwTLktovTU"
+    }
+   ],
+   "links": [
+    {
+     "name": "8.3",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0114709"
+    },
+    {
+     "name": "Toy Story",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/toy-story-0114709"
+    },
+    {
+     "name": "Animation",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Animation"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Tom Hanks",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Hanks"
+    },
+    {
+     "name": "Tim Allen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tim%20Allen"
+    },
+    {
+     "name": "Don Rickles",
+     "category": "Cast",
+     "url": "stremio:///search?search=Don%20Rickles"
+    },
+    {
+     "name": "John Lasseter",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Lasseter"
+    },
+    {
+     "name": "Pete Docter",
+     "category": "Writers",
+     "url": "stremio:///search?search=Pete%20Docter"
+    },
+    {
+     "name": "Andrew Stanton",
+     "category": "Writers",
+     "url": "stremio:///search?search=Andrew%20Stanton"
+    },
+    {
+     "name": "John Lasseter",
+     "category": "Directors",
+     "url": "stremio:///search?search=John%20Lasseter"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0114709",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0114709.jpg"
   }
  ]
 }

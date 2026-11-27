@@ -39,7 +39,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33004920.jpg",
-   "imdbRating": "6.1"
+   "imdbRating": "6.2"
   },
   {
    "cast": [
@@ -332,7 +332,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
-   "imdbRating": "5.9"
+   "imdbRating": "5.8"
   },
   {
    "id": "tt27494436",
@@ -374,6 +374,83 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27494436.jpg"
+  },
+  {
+   "id": "tt38483587",
+   "logo": "https://live.metahub.space/logo/medium/tt38483587/img",
+   "background": "https://live.metahub.space/background/medium/tt38483587/img",
+   "name": "Gènesi",
+   "description": "A origem e a ascensão do chef Ferran Adrià inspiram esta série biográfica sobre como ele transformou o El Bulli em um dos melhores restaurantes do mundo.",
+   "genres": [
+    "Drama"
+   ],
+   "releaseInfo": "2026",
+   "status": "Ended",
+   "trailers": [],
+   "cast": [
+    "Ivan Massagué",
+    "Mónica López",
+    "Miquel Fernández"
+   ],
+   "credits_cast": [
+    {
+     "character": "Juli Soler",
+     "name": "Ivan Massagué",
+     "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg",
+     "id": 31422
+    },
+    {
+     "character": "Glòria Canabach",
+     "name": "Mónica López",
+     "profile_path": "/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg",
+     "id": 67262
+    },
+    {
+     "character": "Ferran Adrià",
+     "name": "Miquel Fernández",
+     "profile_path": "/xkJaKVSaLbwksDzvT5cacq9DuL6.jpg",
+     "id": 1179659
+    },
+    {
+     "character": "Albert Adrià",
+     "name": "Carlos Cuevas",
+     "profile_path": "/he5a5qQV3ZydOpTiBGb4HCrc8Z6.jpg",
+     "id": 1261476
+    },
+    {
+     "character": "Lola",
+     "name": "Joana Vilapuig",
+     "profile_path": "/pQpnPMsin3t8s8zLPGAqM2WYtFd.jpg",
+     "id": 1255479
+    }
+   ],
+   "credits_crew": [
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Francesc Escribano",
+     "profile_path": null,
+     "id": 19806
+    },
+    {
+     "department": "Production",
+     "job": "Producer",
+     "name": "Roger Corbi",
+     "profile_path": null,
+     "id": 937446
+    }
+   ],
+   "director": [],
+   "imdbRating": "7.8",
+   "language": "Catalan",
+   "country": "Spain",
+   "behaviorHints": {
+    "defaultVideoId": null,
+    "hasScheduledVideos": true
+   },
+   "type": "series",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38483587.jpg"
   },
   {
    "name": "The Empress",
@@ -605,83 +682,6 @@
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38707741.jpg",
    "imdbRating": "6.4"
-  },
-  {
-   "id": "tt38483587",
-   "logo": "https://live.metahub.space/logo/medium/tt38483587/img",
-   "background": "https://live.metahub.space/background/medium/tt38483587/img",
-   "name": "Gènesi",
-   "description": "A origem e a ascensão do chef Ferran Adrià inspiram esta série biográfica sobre como ele transformou o El Bulli em um dos melhores restaurantes do mundo.",
-   "genres": [
-    "Drama"
-   ],
-   "releaseInfo": "2026",
-   "status": "Ended",
-   "trailers": [],
-   "cast": [
-    "Ivan Massagué",
-    "Mónica López",
-    "Miquel Fernández"
-   ],
-   "credits_cast": [
-    {
-     "character": "Juli Soler",
-     "name": "Ivan Massagué",
-     "profile_path": "/dmnJo2sGlfFjtKb8FDPlNjRhfyc.jpg",
-     "id": 31422
-    },
-    {
-     "character": "Glòria Canabach",
-     "name": "Mónica López",
-     "profile_path": "/7Gm2h0ApsorCUJhUA8gUtxrWzMd.jpg",
-     "id": 67262
-    },
-    {
-     "character": "Ferran Adrià",
-     "name": "Miquel Fernández",
-     "profile_path": "/xkJaKVSaLbwksDzvT5cacq9DuL6.jpg",
-     "id": 1179659
-    },
-    {
-     "character": "Albert Adrià",
-     "name": "Carlos Cuevas",
-     "profile_path": "/he5a5qQV3ZydOpTiBGb4HCrc8Z6.jpg",
-     "id": 1261476
-    },
-    {
-     "character": "Lola",
-     "name": "Joana Vilapuig",
-     "profile_path": "/pQpnPMsin3t8s8zLPGAqM2WYtFd.jpg",
-     "id": 1255479
-    }
-   ],
-   "credits_crew": [
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Francesc Escribano",
-     "profile_path": null,
-     "id": 19806
-    },
-    {
-     "department": "Production",
-     "job": "Producer",
-     "name": "Roger Corbi",
-     "profile_path": null,
-     "id": 937446
-    }
-   ],
-   "director": [],
-   "imdbRating": "7.8",
-   "language": "Catalan",
-   "country": "Spain",
-   "behaviorHints": {
-    "defaultVideoId": null,
-    "hasScheduledVideos": true
-   },
-   "type": "series",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38483587.jpg"
   },
   {
    "name": "Black Doves",
