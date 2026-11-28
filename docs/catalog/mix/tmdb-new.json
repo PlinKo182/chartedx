@@ -435,7 +435,7 @@
    "type": "series",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18224594.jpg",
-   "imdbRating": "5.5"
+   "imdbRating": "5.7"
   },
   {
    "name": "Resident Evil",
@@ -552,115 +552,116 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35538033.jpg"
   },
   {
-   "name": "The Bodyguard",
+   "name": "Street Fighter",
+   "country": "United States, Japan",
+   "description": "Em 1993, os lutadores de Street Fighter Ryu e Ken Masters, que estavam afastados, voltam a lutar quando a misteriosa Chun-Li os recruta para o próximo Torneio Mundial de Guerreiros: um confronto brutal de punhos, destino e fúria. Mas por detrás desta batalha real esconde-se uma conspiração mortal que os obriga a enfrentarem-se um ao outro e os demónios do passado. E se não o fizerem, é FIM DE JOGO!",
+   "imdbRating": "6.1",
+   "released": "2026-10-16T00:00:00.000Z",
+   "year": "2026",
    "cast": [
-    "Leighton Meester",
-    "Jared Padalecki",
-    "Andie MacDowell"
+    "Noah Centineo",
+    "Andrew Koji",
+    "Callina Liang"
    ],
-   "country": "United States",
-   "description": "Uma guarda‑costas pragmática é destacada com a missão de proteger um carismático ator de filmes de ação durante as férias. Porém, o clima aquece, segredos são revelados, e o Natal torna-se muito mais complicado.",
    "director": [
-    "Elizabeth Allen Rosenbaum"
+    "Kitao Sakurai"
    ],
    "genre": [
-    "Comedy",
-    "Drama",
-    "Romance"
+    "Action"
    ],
-   "imdbRating": "6.1",
-   "released": null,
    "writer": [
-    "Erin Cardillo",
-    "Katherine Center",
-    "Richard Keith"
+    "Kitao Sakurai",
+    "T.J. Fixman",
+    "Dalan Musson"
    ],
-   "year": "2026",
-   "runtime": "109 min",
+   "background": "https://images.metahub.space/background/medium/tt27419420/img",
+   "logo": "https://images.metahub.space/logo/medium/tt27419420/img",
    "trailers": [
     {
-     "source": "mFvtVPMa5ak",
+     "source": "U6sbm1OaJb8",
+     "type": "Trailer"
+    },
+    {
+     "source": "Xt4X4FvXk2A",
      "type": "Trailer"
     }
    ],
-   "logo": "https://images.metahub.space/logo/medium/tt6611324/img",
-   "background": "https://images.metahub.space/background/medium/tt6611324/img",
-   "id": "tt6611324",
+   "runtime": "120 min",
+   "id": "tt27419420",
    "genres": [
-    "Romance",
-    "Comédia"
+    "Ação",
+    "Fantasia"
    ],
    "releaseInfo": "2026",
    "trailerStreams": [
     {
-     "title": "The Bodyguard",
-     "ytId": "mFvtVPMa5ak"
+     "title": "Street Fighter",
+     "ytId": "U6sbm1OaJb8"
+    },
+    {
+     "title": "Street Fighter",
+     "ytId": "Xt4X4FvXk2A"
     }
    ],
    "links": [
     {
-     "name": "The Bodyguard",
+     "name": "6.2",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt27419420"
+    },
+    {
+     "name": "Street Fighter",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-bodyguard-6611324"
+     "url": "https://www.strem.io/s/movie/street-fighter-27419420"
     },
     {
-     "name": "Comedy",
+     "name": "Action",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
     },
     {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Romance",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
-    },
-    {
-     "name": "Leighton Meester",
+     "name": "Noah Centineo",
      "category": "Cast",
-     "url": "stremio:///search?search=Leighton%20Meester"
+     "url": "stremio:///search?search=Noah%20Centineo"
     },
     {
-     "name": "Jared Padalecki",
+     "name": "Andrew Koji",
      "category": "Cast",
-     "url": "stremio:///search?search=Jared%20Padalecki"
+     "url": "stremio:///search?search=Andrew%20Koji"
     },
     {
-     "name": "Andie MacDowell",
+     "name": "Callina Liang",
      "category": "Cast",
-     "url": "stremio:///search?search=Andie%20MacDowell"
+     "url": "stremio:///search?search=Callina%20Liang"
     },
     {
-     "name": "Erin Cardillo",
+     "name": "Kitao Sakurai",
      "category": "Writers",
-     "url": "stremio:///search?search=Erin%20Cardillo"
+     "url": "stremio:///search?search=Kitao%20Sakurai"
     },
     {
-     "name": "Katherine Center",
+     "name": "T.J. Fixman",
      "category": "Writers",
-     "url": "stremio:///search?search=Katherine%20Center"
+     "url": "stremio:///search?search=T.J.%20Fixman"
     },
     {
-     "name": "Richard Keith",
+     "name": "Dalan Musson",
      "category": "Writers",
-     "url": "stremio:///search?search=Richard%20Keith"
+     "url": "stremio:///search?search=Dalan%20Musson"
     },
     {
-     "name": "Elizabeth Allen Rosenbaum",
+     "name": "Kitao Sakurai",
      "category": "Directors",
-     "url": "stremio:///search?search=Elizabeth%20Allen%20Rosenbaum"
+     "url": "stremio:///search?search=Kitao%20Sakurai"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt6611324",
+    "defaultVideoId": "tt27419420",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419420.jpg"
   },
   {
    "name": "Steps",
@@ -787,99 +788,6 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg"
   },
   {
-   "name": "Breeder",
-   "cast": [
-    "Daniel Doheny",
-    "Dot-Marie Jones",
-    "Maddie Phillips"
-   ],
-   "country": "United States, Canada",
-   "description": "Uma excêntrica criadora de caniches atrai um estudante universitário sem dinheiro para o seu rancho isolado, com a promessa de financiamento para uma investigação. Mas, como ele depressa descobre, há um senão.",
-   "director": [
-    "Alex Goyette"
-   ],
-   "genre": [
-    "Horror",
-    "Thriller"
-   ],
-   "imdbRating": "6.2",
-   "released": "2026-06-06T00:00:00.000Z",
-   "writer": [
-    "Alex Goyette"
-   ],
-   "year": "2026",
-   "runtime": "97 min",
-   "trailers": [
-    {
-     "source": "9MeILB0M274",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt9213874/img",
-   "background": "https://images.metahub.space/background/medium/tt9213874/img",
-   "id": "tt9213874",
-   "genres": [
-    "Terror",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Breeder",
-     "ytId": "9MeILB0M274"
-    }
-   ],
-   "links": [
-    {
-     "name": "Breeder",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/breeder-9213874"
-    },
-    {
-     "name": "Horror",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Daniel Doheny",
-     "category": "Cast",
-     "url": "stremio:///search?search=Daniel%20Doheny"
-    },
-    {
-     "name": "Dot-Marie Jones",
-     "category": "Cast",
-     "url": "stremio:///search?search=Dot-Marie%20Jones"
-    },
-    {
-     "name": "Maddie Phillips",
-     "category": "Cast",
-     "url": "stremio:///search?search=Maddie%20Phillips"
-    },
-    {
-     "name": "Alex Goyette",
-     "category": "Writers",
-     "url": "stremio:///search?search=Alex%20Goyette"
-    },
-    {
-     "name": "Alex Goyette",
-     "category": "Directors",
-     "url": "stremio:///search?search=Alex%20Goyette"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt9213874",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9213874.jpg"
-  },
-  {
    "name": "You Can See Everything",
    "cast": [
     "Billy Evans",
@@ -982,6 +890,210 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45368240.jpg"
+  },
+  {
+   "name": "The Bodyguard",
+   "cast": [
+    "Leighton Meester",
+    "Jared Padalecki",
+    "Andie MacDowell"
+   ],
+   "country": "United States",
+   "description": "Uma guarda‑costas pragmática é destacada com a missão de proteger um carismático ator de filmes de ação durante as férias. Porém, o clima aquece, segredos são revelados, e o Natal torna-se muito mais complicado.",
+   "director": [
+    "Elizabeth Allen Rosenbaum"
+   ],
+   "genre": [
+    "Comedy",
+    "Drama",
+    "Romance"
+   ],
+   "imdbRating": "6.1",
+   "released": null,
+   "writer": [
+    "Erin Cardillo",
+    "Katherine Center",
+    "Richard Keith"
+   ],
+   "year": "2026",
+   "runtime": "109 min",
+   "trailers": [
+    {
+     "source": "mFvtVPMa5ak",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt6611324/img",
+   "background": "https://images.metahub.space/background/medium/tt6611324/img",
+   "id": "tt6611324",
+   "genres": [
+    "Romance",
+    "Comédia"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Bodyguard",
+     "ytId": "mFvtVPMa5ak"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Bodyguard",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-bodyguard-6611324"
+    },
+    {
+     "name": "Comedy",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Comedy"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Romance",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Romance"
+    },
+    {
+     "name": "Leighton Meester",
+     "category": "Cast",
+     "url": "stremio:///search?search=Leighton%20Meester"
+    },
+    {
+     "name": "Jared Padalecki",
+     "category": "Cast",
+     "url": "stremio:///search?search=Jared%20Padalecki"
+    },
+    {
+     "name": "Andie MacDowell",
+     "category": "Cast",
+     "url": "stremio:///search?search=Andie%20MacDowell"
+    },
+    {
+     "name": "Erin Cardillo",
+     "category": "Writers",
+     "url": "stremio:///search?search=Erin%20Cardillo"
+    },
+    {
+     "name": "Katherine Center",
+     "category": "Writers",
+     "url": "stremio:///search?search=Katherine%20Center"
+    },
+    {
+     "name": "Richard Keith",
+     "category": "Writers",
+     "url": "stremio:///search?search=Richard%20Keith"
+    },
+    {
+     "name": "Elizabeth Allen Rosenbaum",
+     "category": "Directors",
+     "url": "stremio:///search?search=Elizabeth%20Allen%20Rosenbaum"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt6611324",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg"
+  },
+  {
+   "name": "Breeder",
+   "cast": [
+    "Daniel Doheny",
+    "Dot-Marie Jones",
+    "Maddie Phillips"
+   ],
+   "country": "United States, Canada",
+   "description": "Uma excêntrica criadora de caniches atrai um estudante universitário sem dinheiro para o seu rancho isolado, com a promessa de financiamento para uma investigação. Mas, como ele depressa descobre, há um senão.",
+   "director": [
+    "Alex Goyette"
+   ],
+   "genre": [
+    "Horror",
+    "Thriller"
+   ],
+   "imdbRating": "6.2",
+   "released": "2026-06-06T00:00:00.000Z",
+   "writer": [
+    "Alex Goyette"
+   ],
+   "year": "2026",
+   "runtime": "97 min",
+   "trailers": [
+    {
+     "source": "9MeILB0M274",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt9213874/img",
+   "background": "https://images.metahub.space/background/medium/tt9213874/img",
+   "id": "tt9213874",
+   "genres": [
+    "Terror",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Breeder",
+     "ytId": "9MeILB0M274"
+    }
+   ],
+   "links": [
+    {
+     "name": "Breeder",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/breeder-9213874"
+    },
+    {
+     "name": "Horror",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Horror"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Daniel Doheny",
+     "category": "Cast",
+     "url": "stremio:///search?search=Daniel%20Doheny"
+    },
+    {
+     "name": "Dot-Marie Jones",
+     "category": "Cast",
+     "url": "stremio:///search?search=Dot-Marie%20Jones"
+    },
+    {
+     "name": "Maddie Phillips",
+     "category": "Cast",
+     "url": "stremio:///search?search=Maddie%20Phillips"
+    },
+    {
+     "name": "Alex Goyette",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Goyette"
+    },
+    {
+     "name": "Alex Goyette",
+     "category": "Directors",
+     "url": "stremio:///search?search=Alex%20Goyette"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt9213874",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9213874.jpg"
   },
   {
    "name": "The Mosquito Bowl",
@@ -1101,129 +1213,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36413910.jpg"
-  },
-  {
-   "name": "Fall 2: Deadpoint",
-   "cast": [
-    "Harriet Slater",
-    "Arsema Thomas",
-    "Tom Brittney"
-   ],
-   "country": "Thailand, United Kingdom, United States",
-   "description": "Continuação do thriller de sobrevivência em altura, com novas personagens confrontadas com medo, isolamento e vertigem.",
-   "director": [
-    "Michael Spierig",
-    "Peter Spierig"
-   ],
-   "genre": [
-    "Adventure",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "5.3",
-   "released": "2026-09-02T00:00:00.000Z",
-   "writer": [
-    "Jonathan Frank",
-    "Scott Mann"
-   ],
-   "year": "2026",
-   "runtime": "98 min",
-   "trailers": [
-    {
-     "source": "Krs0VDIjhmE",
-     "type": "Trailer"
-    },
-    {
-     "source": "Rsztt5qDj_A",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt31192372/img",
-   "logo": "https://images.metahub.space/logo/medium/tt31192372/img",
-   "id": "tt31192372",
-   "genres": [
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Fall 2: Deadpoint",
-     "ytId": "Krs0VDIjhmE"
-    },
-    {
-     "title": "Fall 2: Deadpoint",
-     "ytId": "Rsztt5qDj_A"
-    }
-   ],
-   "links": [
-    {
-     "name": "5.7",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt31192372"
-    },
-    {
-     "name": "Fall 2: Deadpoint",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/fall-2-deadpoint-31192372"
-    },
-    {
-     "name": "Adventure",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Harriet Slater",
-     "category": "Cast",
-     "url": "stremio:///search?search=Harriet%20Slater"
-    },
-    {
-     "name": "Arsema Thomas",
-     "category": "Cast",
-     "url": "stremio:///search?search=Arsema%20Thomas"
-    },
-    {
-     "name": "Tom Brittney",
-     "category": "Cast",
-     "url": "stremio:///search?search=Tom%20Brittney"
-    },
-    {
-     "name": "Jonathan Frank",
-     "category": "Writers",
-     "url": "stremio:///search?search=Jonathan%20Frank"
-    },
-    {
-     "name": "Scott Mann",
-     "category": "Writers",
-     "url": "stremio:///search?search=Scott%20Mann"
-    },
-    {
-     "name": "Michael Spierig",
-     "category": "Directors",
-     "url": "stremio:///search?search=Michael%20Spierig"
-    },
-    {
-     "name": "Peter Spierig",
-     "category": "Directors",
-     "url": "stremio:///search?search=Peter%20Spierig"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt31192372",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31192372.jpg"
   },
   {
    "name": "Wicker",
@@ -1366,6 +1355,129 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29611136.jpg"
   },
   {
+   "name": "Fall 2: Deadpoint",
+   "cast": [
+    "Harriet Slater",
+    "Arsema Thomas",
+    "Tom Brittney"
+   ],
+   "country": "Thailand, United Kingdom, United States",
+   "description": "Continuação do thriller de sobrevivência em altura, com novas personagens confrontadas com medo, isolamento e vertigem.",
+   "director": [
+    "Michael Spierig",
+    "Peter Spierig"
+   ],
+   "genre": [
+    "Adventure",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "5.3",
+   "released": "2026-09-02T00:00:00.000Z",
+   "writer": [
+    "Jonathan Frank",
+    "Scott Mann"
+   ],
+   "year": "2026",
+   "runtime": "98 min",
+   "trailers": [
+    {
+     "source": "Krs0VDIjhmE",
+     "type": "Trailer"
+    },
+    {
+     "source": "Rsztt5qDj_A",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31192372/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31192372/img",
+   "id": "tt31192372",
+   "genres": [
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Fall 2: Deadpoint",
+     "ytId": "Krs0VDIjhmE"
+    },
+    {
+     "title": "Fall 2: Deadpoint",
+     "ytId": "Rsztt5qDj_A"
+    }
+   ],
+   "links": [
+    {
+     "name": "5.7",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31192372"
+    },
+    {
+     "name": "Fall 2: Deadpoint",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/fall-2-deadpoint-31192372"
+    },
+    {
+     "name": "Adventure",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Adventure"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Harriet Slater",
+     "category": "Cast",
+     "url": "stremio:///search?search=Harriet%20Slater"
+    },
+    {
+     "name": "Arsema Thomas",
+     "category": "Cast",
+     "url": "stremio:///search?search=Arsema%20Thomas"
+    },
+    {
+     "name": "Tom Brittney",
+     "category": "Cast",
+     "url": "stremio:///search?search=Tom%20Brittney"
+    },
+    {
+     "name": "Jonathan Frank",
+     "category": "Writers",
+     "url": "stremio:///search?search=Jonathan%20Frank"
+    },
+    {
+     "name": "Scott Mann",
+     "category": "Writers",
+     "url": "stremio:///search?search=Scott%20Mann"
+    },
+    {
+     "name": "Michael Spierig",
+     "category": "Directors",
+     "url": "stremio:///search?search=Michael%20Spierig"
+    },
+    {
+     "name": "Peter Spierig",
+     "category": "Directors",
+     "url": "stremio:///search?search=Peter%20Spierig"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt31192372",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31192372.jpg"
+  },
+  {
    "name": "Way of the Warrior Kid",
    "awards": "1 nomination total",
    "cast": [
@@ -1383,7 +1495,7 @@
     "Adventure",
     "Comedy"
    ],
-   "imdbRating": "6.5",
+   "imdbRating": "6.4",
    "released": "2026-11-25T00:00:00.000Z",
    "writer": [
     "Will Staples",
@@ -1469,248 +1581,6 @@
    "type": "movie",
    "posterShape": "poster",
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg"
-  },
-  {
-   "name": "The Beast",
-   "cast": [
-    "Samuel L. Jackson",
-    "Joel Kinnaman",
-    "Guy Burnet"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Quando uma milícia de inimigos não identificados coordena um golpe de Estado contra os EUA, o presidente descobre a verdadeira dimensão das capacidades ofensivas altamente confidenciais de \"The Beast\", a fim de salvar a sua vida e a América.",
-   "director": [
-    "Renny Harlin"
-   ],
-   "genre": [
-    "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "imdbRating": "4.4",
-   "released": null,
-   "writer": [
-    "Umair Aleem"
-   ],
-   "year": "2026",
-   "runtime": "99 min",
-   "trailers": [
-    {
-     "source": "5ckqV_uf8E0",
-     "type": "Trailer"
-    }
-   ],
-   "logo": "https://images.metahub.space/logo/medium/tt29256561/img",
-   "background": "https://images.metahub.space/background/medium/tt29256561/img",
-   "id": "tt29256561",
-   "genres": [
-    "Ação",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "The Beast",
-     "ytId": "5ckqV_uf8E0"
-    }
-   ],
-   "links": [
-    {
-     "name": "The Beast",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/the-beast-29256561"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Samuel L. Jackson",
-     "category": "Cast",
-     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
-    },
-    {
-     "name": "Joel Kinnaman",
-     "category": "Cast",
-     "url": "stremio:///search?search=Joel%20Kinnaman"
-    },
-    {
-     "name": "Guy Burnet",
-     "category": "Cast",
-     "url": "stremio:///search?search=Guy%20Burnet"
-    },
-    {
-     "name": "Umair Aleem",
-     "category": "Writers",
-     "url": "stremio:///search?search=Umair%20Aleem"
-    },
-    {
-     "name": "Renny Harlin",
-     "category": "Directors",
-     "url": "stremio:///search?search=Renny%20Harlin"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt29256561",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29256561.jpg"
-  },
-  {
-   "name": "Best Pancakes in the County",
-   "cast": [
-    "Nicolas Cage",
-    "Justin Long",
-    "Lauren German"
-   ],
-   "country": "United States",
-   "description": "Ao longo de uma noite explosiva, um restaurante de beira de estrada numa pequena cidade torna-se o epicentro de um impasse mortal que envolve agentes federais corruptos, um vigarista de fala mansa com um passado perigoso e uma empregada de mesa que guarda os seus próprios segredos.",
-   "director": [
-    "Ken Sanzel"
-   ],
-   "genre": [
-    "Action",
-    "Thriller"
-   ],
-   "imdbRating": "5.0",
-   "released": "2027-01-04T00:00:00.000Z",
-   "year": "2027",
-   "runtime": "91 min",
-   "trailers": [
-    {
-     "source": "JQsr_JLAiq0",
-     "type": "Trailer"
-    }
-   ],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt38258118/img",
-   "background": "https://images.metahub.space/background/medium/tt38258118/img",
-   "id": "tt38258118",
-   "genres": [
-    "Ação",
-    "Thriller",
-    "Crime"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Best Pancakes in the County",
-     "ytId": "JQsr_JLAiq0"
-    }
-   ],
-   "links": [
-    {
-     "name": "Best Pancakes in the County",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/best-pancakes-in-the-county-38258118"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Nicolas Cage",
-     "category": "Cast",
-     "url": "stremio:///search?search=Nicolas%20Cage"
-    },
-    {
-     "name": "Justin Long",
-     "category": "Cast",
-     "url": "stremio:///search?search=Justin%20Long"
-    },
-    {
-     "name": "Lauren German",
-     "category": "Cast",
-     "url": "stremio:///search?search=Lauren%20German"
-    },
-    {
-     "name": "Ken Sanzel",
-     "category": "Directors",
-     "url": "stremio:///search?search=Ken%20Sanzel"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt38258118",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38258118.jpg"
-  },
-  {
-   "name": "Perfectos mentirosos",
-   "country": "Spain, Mexico",
-   "description": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
-   "imdbRating": "5.3",
-   "released": null,
-   "year": "2026",
-   "trailers": [
-    {
-     "source": "50v6k3LUcxU",
-     "type": "Trailer"
-    }
-   ],
-   "cast": [
-    "Irene Balmes",
-    "Gleb Abrosimov",
-    "Pau Simon",
-    "Pablo Scapigliati",
-    "Asier Etxeandia",
-    "Silvia Kal",
-    "Irene Ferreiro",
-    "Manuela Calle"
-   ],
-   "director": [],
-   "genre": [],
-   "writer": [],
-   "logo": "https://images.metahub.space/logo/medium/tt18351090/img",
-   "background": "https://images.metahub.space/background/medium/tt18351090/img",
-   "id": "tt18351090",
-   "genres": [
-    "Drama",
-    "Romance",
-    "Thriller"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Perfectos mentirosos",
-     "ytId": "50v6k3LUcxU"
-    }
-   ],
-   "links": [
-    {
-     "name": "Perfectos mentirosos",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/perfectos-mentirosos-18351090"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt18351090",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg"
   },
   {
    "name": "Obsession",
@@ -1927,6 +1797,192 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37510326.jpg"
   },
   {
+   "name": "Best Pancakes in the County",
+   "cast": [
+    "Nicolas Cage",
+    "Justin Long",
+    "Lauren German"
+   ],
+   "country": "United States",
+   "description": "Ao longo de uma noite explosiva, um restaurante de beira de estrada numa pequena cidade torna-se o epicentro de um impasse mortal que envolve agentes federais corruptos, um vigarista de fala mansa com um passado perigoso e uma empregada de mesa que guarda os seus próprios segredos.",
+   "director": [
+    "Ken Sanzel"
+   ],
+   "genre": [
+    "Action",
+    "Thriller"
+   ],
+   "imdbRating": "5.0",
+   "released": "2027-01-04T00:00:00.000Z",
+   "year": "2027",
+   "runtime": "91 min",
+   "trailers": [
+    {
+     "source": "JQsr_JLAiq0",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt38258118/img",
+   "background": "https://images.metahub.space/background/medium/tt38258118/img",
+   "id": "tt38258118",
+   "genres": [
+    "Ação",
+    "Thriller",
+    "Crime"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Best Pancakes in the County",
+     "ytId": "JQsr_JLAiq0"
+    }
+   ],
+   "links": [
+    {
+     "name": "Best Pancakes in the County",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/best-pancakes-in-the-county-38258118"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Nicolas Cage",
+     "category": "Cast",
+     "url": "stremio:///search?search=Nicolas%20Cage"
+    },
+    {
+     "name": "Justin Long",
+     "category": "Cast",
+     "url": "stremio:///search?search=Justin%20Long"
+    },
+    {
+     "name": "Lauren German",
+     "category": "Cast",
+     "url": "stremio:///search?search=Lauren%20German"
+    },
+    {
+     "name": "Ken Sanzel",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ken%20Sanzel"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt38258118",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38258118.jpg"
+  },
+  {
+   "name": "The Beast",
+   "cast": [
+    "Samuel L. Jackson",
+    "Joel Kinnaman",
+    "Guy Burnet"
+   ],
+   "country": "United Kingdom, United States",
+   "description": "Quando uma milícia de inimigos não identificados coordena um golpe de Estado contra os EUA, o presidente descobre a verdadeira dimensão das capacidades ofensivas altamente confidenciais de \"The Beast\", a fim de salvar a sua vida e a América.",
+   "director": [
+    "Renny Harlin"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "imdbRating": "4.4",
+   "released": null,
+   "writer": [
+    "Umair Aleem"
+   ],
+   "year": "2026",
+   "runtime": "99 min",
+   "trailers": [
+    {
+     "source": "5ckqV_uf8E0",
+     "type": "Trailer"
+    }
+   ],
+   "logo": "https://images.metahub.space/logo/medium/tt29256561/img",
+   "background": "https://images.metahub.space/background/medium/tt29256561/img",
+   "id": "tt29256561",
+   "genres": [
+    "Ação",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "The Beast",
+     "ytId": "5ckqV_uf8E0"
+    }
+   ],
+   "links": [
+    {
+     "name": "The Beast",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/the-beast-29256561"
+    },
+    {
+     "name": "Action",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Thriller",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+    },
+    {
+     "name": "Samuel L. Jackson",
+     "category": "Cast",
+     "url": "stremio:///search?search=Samuel%20L.%20Jackson"
+    },
+    {
+     "name": "Joel Kinnaman",
+     "category": "Cast",
+     "url": "stremio:///search?search=Joel%20Kinnaman"
+    },
+    {
+     "name": "Guy Burnet",
+     "category": "Cast",
+     "url": "stremio:///search?search=Guy%20Burnet"
+    },
+    {
+     "name": "Umair Aleem",
+     "category": "Writers",
+     "url": "stremio:///search?search=Umair%20Aleem"
+    },
+    {
+     "name": "Renny Harlin",
+     "category": "Directors",
+     "url": "stremio:///search?search=Renny%20Harlin"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt29256561",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29256561.jpg"
+  },
+  {
    "name": "Clashing Through the Snow",
    "cast": [
     "Michelle Randolph",
@@ -2034,52 +2090,60 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39316936.jpg"
   },
   {
-   "id": "tt51165610",
-   "logo": "https://live.metahub.space/logo/medium/tt51165610/img",
-   "background": "https://live.metahub.space/background/medium/tt51165610/img",
-   "name": "Battle Through the Heavens Movie：Duel of the Two Dou Emperors",
-   "description": "Bem acima da Academia Canaan, o Clã da Alma e a Aliança da Mansão Celeste encontram-se num impasse tenso por causa do lendário Imperador Antigo Tou She. Utilizando o jade antigo, Hun Tiandi quebra o selo da caverna escondida do imperador, dando início a uma batalha feroz pela oportunidade suprema de ascender à divindade. Com a ajuda da Chama Devoradora do Niilismo, Hun Tiandi reivindica com sucesso a Pílula do Imperador nascente, enquanto o seu rival, Xiao Yan, desaparece no caos, com o seu destino desconhecido. Após absorver o poder da pílula, Hun Tiandi ascende ao posto máximo de Dou Di e liberta o gigantesco exército do Clã da Alma para aniquilar a Aliança da Mansão Celeste. Precisamente quando o desespero ameaça dominar os defensores, uma ressonância ancestral desperta na linhagem do Clã Xiao. Gu Yuan percebe que Xiao Yan está vivo e a passar pela sua própria transformação para se tornar um Dou Di, tornando-se a última esperança da humanidade.",
-   "genres": [
-    "Animação",
-    "Aventura"
-   ],
-   "releaseInfo": "2026",
-   "trailers": [],
-   "cast": [
-    "Bu Yi",
-    "Liu Yuxuan",
-    "Chen Yiwen"
-   ],
-   "credits_cast": [
+   "name": "Perfectos mentirosos",
+   "country": "Spain, Mexico",
+   "description": "Jude Derry chega à exclusiva Universidade de Tagus com uma missão secreta: se infiltrar no círculo dos irmãos Cash e descobrir a verdade sobre a morte do irmão dela. O que começa como vingança vira um perigoso triângulo de sedução, atração proibida e mentiras, que a empurra rumo a uma verdade para a qual talvez ela não esteja preparada. Baseado no romance de Alex Mírez.",
+   "imdbRating": "5.3",
+   "released": null,
+   "year": "2026",
+   "trailers": [
     {
-     "character": "Voice",
-     "name": "Bu Yi",
-     "profile_path": "/rC30srBjftYqkJgMi82XFe2kWs.jpg",
-     "id": 5170011
-    },
-    {
-     "character": "Voice",
-     "name": "Liu Yuxuan",
-     "profile_path": null,
-     "id": 2340094
-    },
-    {
-     "character": "Voice",
-     "name": "Chen Yiwen",
-     "profile_path": "/muj3gVK2759u2X9GMYqfw2VTfiu.jpg",
-     "id": 3056264
+     "source": "50v6k3LUcxU",
+     "type": "Trailer"
     }
    ],
-   "credits_crew": [],
+   "cast": [
+    "Irene Balmes",
+    "Gleb Abrosimov",
+    "Pau Simon",
+    "Pablo Scapigliati",
+    "Asier Etxeandia",
+    "Silvia Kal",
+    "Irene Ferreiro",
+    "Manuela Calle"
+   ],
    "director": [],
+   "genre": [],
+   "writer": [],
+   "logo": "https://images.metahub.space/logo/medium/tt18351090/img",
+   "background": "https://images.metahub.space/background/medium/tt18351090/img",
+   "id": "tt18351090",
+   "genres": [
+    "Drama",
+    "Romance",
+    "Thriller"
+   ],
+   "releaseInfo": "2026",
+   "trailerStreams": [
+    {
+     "title": "Perfectos mentirosos",
+     "ytId": "50v6k3LUcxU"
+    }
+   ],
+   "links": [
+    {
+     "name": "Perfectos mentirosos",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/perfectos-mentirosos-18351090"
+    }
+   ],
    "behaviorHints": {
-    "defaultVideoId": "tt51165610",
+    "defaultVideoId": "tt18351090",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt51165610.jpg",
-   "imdbRating": "9.2"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg"
   }
  ]
 }

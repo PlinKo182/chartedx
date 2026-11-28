@@ -120,72 +120,62 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36413910.jpg"
   },
   {
-   "awards": "1 nomination total",
-   "cast": [
-    "Harrison Ford",
-    "Robert Shaw",
-    "Edward Fox"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Segunda Guerra Mundial, 1943. Mallory e Miller, os heróis de Navarone, são enviados à Iugoslávia em busca de um fantasma do passado.",
-   "director": [
-    "Guy Hamilton"
-   ],
-   "dvdRelease": "2008-09-16T00:00:00.000Z",
-   "genre": [
-    "Action",
-    "Drama",
-    "War"
-   ],
-   "imdbRating": "6.4",
-   "name": "Force 10 from Navarone",
-   "released": "1978-12-08T00:00:00.000Z",
-   "runtime": "114 min",
+   "name": "The Wall",
    "trailers": [
     {
-     "source": "V3gA-Gnm6hQ",
-     "type": "Trailer"
-    },
-    {
-     "source": "1fqnR05az6o",
+     "source": "OZbjGKtR8QQ",
      "type": "Trailer"
     }
    ],
-   "writer": [
-    "Alistair MacLean",
-    "Robin Chapman",
-    "Carl Foreman"
-   ],
-   "year": "1978",
-   "background": "https://images.metahub.space/background/medium/tt0077572/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0077572/img",
-   "id": "tt0077572",
-   "genres": [
+   "year": "2017",
+   "runtime": "90 min",
+   "genre": [
+    "Action",
     "Drama",
-    "Aventura",
-    "Guerra"
+    "Thriller"
    ],
-   "releaseInfo": "1978",
+   "released": "2017-05-18T00:00:00.000Z",
+   "director": [
+    "Doug Liman"
+   ],
+   "writer": [
+    "Dwain Worrell"
+   ],
+   "cast": [
+    "Aaron Taylor-Johnson",
+    "John Cena",
+    "Laith Nakli"
+   ],
+   "imdbRating": "6.2",
+   "description": "Two American soldiers are pinned down in the Iraqi desert by a lethal sniper with only a crumbling wall between them.",
+   "country": "United States",
+   "awards": "2 nominations total",
+   "dvdRelease": "2017-07-10T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt4218696/img",
+   "logo": "https://images.metahub.space/logo/medium/tt4218696/img",
+   "id": "tt4218696",
+   "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+   ],
+   "releaseInfo": "2017",
    "trailerStreams": [
     {
-     "title": "Force 10 from Navarone",
-     "ytId": "V3gA-Gnm6hQ"
-    },
-    {
-     "title": "Force 10 from Navarone",
-     "ytId": "1fqnR05az6o"
+     "title": "The Wall",
+     "ytId": "OZbjGKtR8QQ"
     }
    ],
    "links": [
     {
-     "name": "6.4",
+     "name": "6.2",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0077572"
+     "url": "https://imdb.com/title/tt4218696"
     },
     {
-     "name": "Force 10 from Navarone",
+     "name": "The Wall",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/force-10-from-navarone-0077572"
+     "url": "https://www.strem.io/s/movie/the-wall-4218696"
     },
     {
      "name": "Action",
@@ -198,53 +188,43 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "War",
+     "name": "Thriller",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
     },
     {
-     "name": "Harrison Ford",
+     "name": "Aaron Taylor-Johnson",
      "category": "Cast",
-     "url": "stremio:///search?search=Harrison%20Ford"
+     "url": "stremio:///search?search=Aaron%20Taylor-Johnson"
     },
     {
-     "name": "Robert Shaw",
+     "name": "John Cena",
      "category": "Cast",
-     "url": "stremio:///search?search=Robert%20Shaw"
+     "url": "stremio:///search?search=John%20Cena"
     },
     {
-     "name": "Edward Fox",
+     "name": "Laith Nakli",
      "category": "Cast",
-     "url": "stremio:///search?search=Edward%20Fox"
+     "url": "stremio:///search?search=Laith%20Nakli"
     },
     {
-     "name": "Alistair MacLean",
+     "name": "Dwain Worrell",
      "category": "Writers",
-     "url": "stremio:///search?search=Alistair%20MacLean"
+     "url": "stremio:///search?search=Dwain%20Worrell"
     },
     {
-     "name": "Robin Chapman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robin%20Chapman"
-    },
-    {
-     "name": "Carl Foreman",
-     "category": "Writers",
-     "url": "stremio:///search?search=Carl%20Foreman"
-    },
-    {
-     "name": "Guy Hamilton",
+     "name": "Doug Liman",
      "category": "Directors",
-     "url": "stremio:///search?search=Guy%20Hamilton"
+     "url": "stremio:///search?search=Doug%20Liman"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt0077572",
+    "defaultVideoId": "tt4218696",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0077572.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4218696.jpg"
   },
   {
    "name": "13 Hours",
@@ -368,67 +348,64 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4172430.jpg"
   },
   {
-   "name": "The Wall",
+   "awards": "Nominated for 1 Oscar. 41 wins & 20 nominations total",
+   "cast": [
+    "Lubna Azabal",
+    "Mélissa Désormeaux-Poulin",
+    "Maxim Gaudette"
+   ],
+   "country": "Canada, France",
+   "description": "Quando a mãe de Jeanne e Simon Marwan morre, começam as surpresas para este casal de gémeos. No testamento recebem dois envelopes inesperados: um dirigido ao pai que eles julgavam morto, o outro a um irmão de quem nunca tinham ouvido falar. Jeanne decide imediatamente partir para o Médio Oriente em busca do passado e da história da mãe, uma mulher que sempre fora algo distante e secreta. Mais tarde Simon acaba por se lhe juntar nessa viagem a um país dilacerado por lutas intestinas.",
+   "director": [
+    "Denis Villeneuve"
+   ],
+   "dvdRelease": "2014-06-10T00:00:00.000Z",
+   "genre": [
+    "Drama",
+    "Mystery",
+    "War"
+   ],
+   "imdbRating": "8.3",
+   "name": "Incendies",
+   "released": "2011-04-22T00:00:00.000Z",
+   "runtime": "131 min",
    "trailers": [
     {
-     "source": "OZbjGKtR8QQ",
+     "source": "XJ69WnwvZhE",
      "type": "Trailer"
     }
    ],
-   "year": "2017",
-   "runtime": "90 min",
-   "genre": [
-    "Action",
-    "Drama",
-    "Thriller"
-   ],
-   "released": "2017-05-18T00:00:00.000Z",
-   "director": [
-    "Doug Liman"
-   ],
    "writer": [
-    "Dwain Worrell"
+    "Wajdi Mouawad",
+    "Denis Villeneuve",
+    "Valérie Beaugrand-Champagne"
    ],
-   "cast": [
-    "Aaron Taylor-Johnson",
-    "John Cena",
-    "Laith Nakli"
-   ],
-   "imdbRating": "6.2",
-   "description": "Two American soldiers are pinned down in the Iraqi desert by a lethal sniper with only a crumbling wall between them.",
-   "country": "United States",
-   "awards": "2 nominations total",
-   "dvdRelease": "2017-07-10T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt4218696/img",
-   "logo": "https://images.metahub.space/logo/medium/tt4218696/img",
-   "id": "tt4218696",
+   "year": "2011",
+   "background": "https://images.metahub.space/background/medium/tt1255953/img",
+   "logo": "https://images.metahub.space/logo/medium/tt1255953/img",
+   "id": "tt1255953",
    "genres": [
-    "Action",
     "Drama",
-    "Thriller"
+    "Guerra",
+    "Mistério"
    ],
-   "releaseInfo": "2017",
+   "releaseInfo": "2010",
    "trailerStreams": [
     {
-     "title": "The Wall",
-     "ytId": "OZbjGKtR8QQ"
+     "title": "Incendies",
+     "ytId": "XJ69WnwvZhE"
     }
    ],
    "links": [
     {
-     "name": "6.2",
+     "name": "8.3",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt4218696"
+     "url": "https://imdb.com/title/tt1255953"
     },
     {
-     "name": "The Wall",
+     "name": "Incendies",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-wall-4218696"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Action"
+     "url": "https://www.strem.io/s/movie/incendies-1255953"
     },
     {
      "name": "Drama",
@@ -436,160 +413,58 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Thriller",
+     "name": "Mystery",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
     },
     {
-     "name": "Aaron Taylor-Johnson",
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Lubna Azabal",
      "category": "Cast",
-     "url": "stremio:///search?search=Aaron%20Taylor-Johnson"
+     "url": "stremio:///search?search=Lubna%20Azabal"
     },
     {
-     "name": "John Cena",
+     "name": "Mélissa Désormeaux-Poulin",
      "category": "Cast",
-     "url": "stremio:///search?search=John%20Cena"
+     "url": "stremio:///search?search=M%C3%A9lissa%20D%C3%A9sormeaux-Poulin"
     },
     {
-     "name": "Laith Nakli",
+     "name": "Maxim Gaudette",
      "category": "Cast",
-     "url": "stremio:///search?search=Laith%20Nakli"
+     "url": "stremio:///search?search=Maxim%20Gaudette"
     },
     {
-     "name": "Dwain Worrell",
+     "name": "Wajdi Mouawad",
      "category": "Writers",
-     "url": "stremio:///search?search=Dwain%20Worrell"
+     "url": "stremio:///search?search=Wajdi%20Mouawad"
     },
     {
-     "name": "Doug Liman",
+     "name": "Denis Villeneuve",
+     "category": "Writers",
+     "url": "stremio:///search?search=Denis%20Villeneuve"
+    },
+    {
+     "name": "Valérie Beaugrand-Champagne",
+     "category": "Writers",
+     "url": "stremio:///search?search=Val%C3%A9rie%20Beaugrand-Champagne"
+    },
+    {
+     "name": "Denis Villeneuve",
      "category": "Directors",
-     "url": "stremio:///search?search=Doug%20Liman"
+     "url": "stremio:///search?search=Denis%20Villeneuve"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt4218696",
+    "defaultVideoId": "tt1255953",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt4218696.jpg"
-  },
-  {
-   "name": "Hacksaw Ridge",
-   "trailers": [
-    {
-     "source": "s2-1hz1juBI",
-     "type": "Trailer"
-    }
-   ],
-   "affiliates": {
-    "fandango_link": "http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123",
-    "fandango_embed": "<p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovieoverview%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6/ImageRenderer/111/168/images/no_image_111x168.jpg/194560/images/masterrepository/fandango/194560/hacksawridge-posterart.jpg\" alt=\"Hacksaw Ridge\" title=\"Hacksaw Ridge\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fhacksawridge_194560%2fmovietimes%3fwssaffid%3d11830%26wssac%3d123\"><img src=\"http://images.fandango.com/r102.6//images/global/buy_tickets.gif\" alt=\"Buy Tickets\" title=\"Click here to see showtimes and buy tickets!\" border=\"0\" /></a></p><p><a href=\"http://www.qksrv.net/click-7949808-10558776?url=http%3a%2f%2fwww.fandango.com%2fmovie-trailer%2fhacksawridge-trailer%2f194560%3fwssaffid%3d11830%26wssac%3d123\">Play Trailers</a></p>"
-   },
-   "year": "2016",
-   "runtime": "139 min",
-   "genre": [
-    "Biography",
-    "Drama",
-    "History"
-   ],
-   "released": "2016-11-04T00:00:00.000Z",
-   "director": [
-    "Mel Gibson"
-   ],
-   "writer": [
-    "Robert Schenkkan",
-    "Andrew Knight"
-   ],
-   "cast": [
-    "Andrew Garfield",
-    "Sam Worthington",
-    "Luke Bracey"
-   ],
-   "imdbRating": "8.1",
-   "description": "O sonho do jovem Desmond T. Doss de se tornar médico é adiado devido aos escassos meios financeiros da família. Empenhado em salvar vidas, alista-se no Exército norte-americano para cumprir o que considera ser sua obrigação: ajudar os combatentes da Segunda Grande Guerra, mesmo sabendo que as suas convicções pessoais e religiosas o impossibilitam de possuir uma arma ou matar um inimigo. Como pode um soldado lutar pelo seu país sem protecção? Doss tenciona dar o seu contributo integrando a unidade médica e salvando as vidas dos soldados feridos em combate. Apesar do desdém e preconceito de alguns dos seus colegas, que vêem a sua atitude como um acto de cobardia, será durante a batalha de Okinawa (no Japão), sem pegar em armas ou disparar um tiro, que mostrará a sua bravura.",
-   "country": "United States",
-   "awards": "Won 2 Oscars. 57 wins & 115 nominations total",
-   "dvdRelease": "2017-02-07T00:00:00.000Z",
-   "background": "https://images.metahub.space/background/medium/tt2119532/img",
-   "logo": "https://images.metahub.space/logo/medium/tt2119532/img",
-   "id": "tt2119532",
-   "genres": [
-    "Drama",
-    "História",
-    "Guerra"
-   ],
-   "releaseInfo": "2016",
-   "trailerStreams": [
-    {
-     "title": "Hacksaw Ridge",
-     "ytId": "s2-1hz1juBI"
-    }
-   ],
-   "links": [
-    {
-     "name": "8.1",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt2119532"
-    },
-    {
-     "name": "Hacksaw Ridge",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/hacksaw-ridge-2119532"
-    },
-    {
-     "name": "Biography",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Biography"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Andrew Garfield",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Garfield"
-    },
-    {
-     "name": "Sam Worthington",
-     "category": "Cast",
-     "url": "stremio:///search?search=Sam%20Worthington"
-    },
-    {
-     "name": "Luke Bracey",
-     "category": "Cast",
-     "url": "stremio:///search?search=Luke%20Bracey"
-    },
-    {
-     "name": "Robert Schenkkan",
-     "category": "Writers",
-     "url": "stremio:///search?search=Robert%20Schenkkan"
-    },
-    {
-     "name": "Andrew Knight",
-     "category": "Writers",
-     "url": "stremio:///search?search=Andrew%20Knight"
-    },
-    {
-     "name": "Mel Gibson",
-     "category": "Directors",
-     "url": "stremio:///search?search=Mel%20Gibson"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt2119532",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2119532.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1255953.jpg"
   },
   {
    "name": "Nuremberg",
@@ -719,64 +594,85 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29567915.jpg"
   },
   {
-   "awards": "Nominated for 1 Oscar. 41 wins & 20 nominations total",
+   "awards": "Won 1 Oscar. 134 wins & 173 nominations total",
    "cast": [
-    "Lubna Azabal",
-    "Mélissa Désormeaux-Poulin",
-    "Maxim Gaudette"
+    "Brad Pitt",
+    "Diane Kruger",
+    "Eli Roth"
    ],
-   "country": "Canada, France",
-   "description": "Quando a mãe de Jeanne e Simon Marwan morre, começam as surpresas para este casal de gémeos. No testamento recebem dois envelopes inesperados: um dirigido ao pai que eles julgavam morto, o outro a um irmão de quem nunca tinham ouvido falar. Jeanne decide imediatamente partir para o Médio Oriente em busca do passado e da história da mãe, uma mulher que sempre fora algo distante e secreta. Mais tarde Simon acaba por se lhe juntar nessa viagem a um país dilacerado por lutas intestinas.",
+   "country": "United States, Germany",
+   "description": "No primeiro ano da ocupação de França pelos alemães, Shosanna Dreyfus testemunha a execução da sua família pela mão do Coronel Nazi Hans Landa. Shosanna escapa por pouco, fugindo para Paris onde falsifica uma nova identidade como proprietária e operadora de um cinema. Noutro local da Europa, o Tenente Aldo Raine organiza um grupo de judeus americanos, soldados, para executar investidas rápidas e chocantes de retribuição. Conhecidos pelos seus inimigos como \"os sacanas\", o bando de Raine une-se à actriz e agente infiltrada alemã Bridget von Hammersmark numa missão para destruir os líderes do Terceiro Reich. O destino de todos eles converge sob um letreiro de cinema, onde Shosanna está determinada em criar o seu próprio plano de vingança...",
    "director": [
-    "Denis Villeneuve"
+    "Quentin Tarantino"
    ],
-   "dvdRelease": "2014-06-10T00:00:00.000Z",
+   "dvdRelease": "2015-12-10T00:00:00.000Z",
    "genre": [
     "Drama",
-    "Mystery",
     "War"
    ],
-   "imdbRating": "8.3",
-   "name": "Incendies",
-   "released": "2011-04-22T00:00:00.000Z",
-   "runtime": "131 min",
+   "imdbRating": "8.4",
+   "name": "Inglourious Basterds",
+   "released": "2009-08-21T00:00:00.000Z",
+   "runtime": "153 min",
    "trailers": [
     {
-     "source": "XJ69WnwvZhE",
+     "source": "uSEDz-my7XQ",
+     "type": "Trailer"
+    },
+    {
+     "source": "QFIUD3aq_do",
+     "type": "Trailer"
+    },
+    {
+     "source": "-2cRY4p7KIk",
+     "type": "Trailer"
+    },
+    {
+     "source": "KnrRy6kSFF0",
      "type": "Trailer"
     }
    ],
    "writer": [
-    "Wajdi Mouawad",
-    "Denis Villeneuve",
-    "Valérie Beaugrand-Champagne"
+    "Quentin Tarantino"
    ],
-   "year": "2011",
-   "background": "https://images.metahub.space/background/medium/tt1255953/img",
-   "logo": "https://images.metahub.space/logo/medium/tt1255953/img",
-   "id": "tt1255953",
+   "year": "2009",
+   "background": "https://images.metahub.space/background/medium/tt0361748/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0361748/img",
+   "id": "tt0361748",
    "genres": [
     "Drama",
-    "Guerra",
-    "Mistério"
+    "Thriller",
+    "Guerra"
    ],
-   "releaseInfo": "2010",
+   "releaseInfo": "2009",
    "trailerStreams": [
     {
-     "title": "Incendies",
-     "ytId": "XJ69WnwvZhE"
+     "title": "Inglourious Basterds",
+     "ytId": "uSEDz-my7XQ"
+    },
+    {
+     "title": "Inglourious Basterds",
+     "ytId": "QFIUD3aq_do"
+    },
+    {
+     "title": "Inglourious Basterds",
+     "ytId": "-2cRY4p7KIk"
+    },
+    {
+     "title": "Inglourious Basterds",
+     "ytId": "KnrRy6kSFF0"
     }
    ],
    "links": [
     {
-     "name": "8.3",
+     "name": "8.4",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt1255953"
+     "url": "https://imdb.com/title/tt0361748"
     },
     {
-     "name": "Incendies",
+     "name": "Inglourious Basterds",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/incendies-1255953"
+     "url": "https://www.strem.io/s/movie/inglourious-basterds-0361748"
     },
     {
      "name": "Drama",
@@ -784,9 +680,102 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "Mystery",
+     "name": "War",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Brad Pitt",
+     "category": "Cast",
+     "url": "stremio:///search?search=Brad%20Pitt"
+    },
+    {
+     "name": "Diane Kruger",
+     "category": "Cast",
+     "url": "stremio:///search?search=Diane%20Kruger"
+    },
+    {
+     "name": "Eli Roth",
+     "category": "Cast",
+     "url": "stremio:///search?search=Eli%20Roth"
+    },
+    {
+     "name": "Quentin Tarantino",
+     "category": "Writers",
+     "url": "stremio:///search?search=Quentin%20Tarantino"
+    },
+    {
+     "name": "Quentin Tarantino",
+     "category": "Directors",
+     "url": "stremio:///search?search=Quentin%20Tarantino"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0361748",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0361748.jpg"
+  },
+  {
+   "name": "City of Ghosts",
+   "year": "2017",
+   "runtime": "90 min",
+   "genre": [
+    "Documentary",
+    "War"
+   ],
+   "released": "2017-07-21T00:00:00.000Z",
+   "director": [
+    "Matthew Heineman"
+   ],
+   "cast": [
+    "Abdelaziz Alhamza",
+    "Mohamad Almusari",
+    "Hamoud Almousa"
+   ],
+   "imdbRating": "7.4",
+   "description": "Com um acesso sem precedentes, este documentário segue a extraordinária jornada de \"Raqqa is Being Slaughtered Silently\" (Raqqa está sendo morto em silêncio) - um grupo de jornalistas cidadãos anônimos que se uniram depois de sua pátria ter sido tomada pelo Estado Islâmico - quando arriscam suas vidas para enfrentar um dos maiores males no mundo atual.",
+   "country": "United States",
+   "awards": "Nominated for 1 Primetime Emmy. 16 wins & 34 nominations total",
+   "trailers": [
+    {
+     "source": "jBeqGcMaC-A",
+     "type": "Trailer"
+    }
+   ],
+   "writer": [],
+   "dvdRelease": "2017-09-26T00:00:00.000Z",
+   "background": "https://images.metahub.space/background/medium/tt6333056/img",
+   "logo": "https://images.metahub.space/logo/medium/tt6333056/img",
+   "id": "tt6333056",
+   "genres": [
+    "Guerra",
+    "Documentário"
+   ],
+   "releaseInfo": "2017",
+   "trailerStreams": [
+    {
+     "title": "City of Ghosts",
+     "ytId": "jBeqGcMaC-A"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt6333056"
+    },
+    {
+     "name": "City of Ghosts",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/city-of-ghosts-6333056"
+    },
+    {
+     "name": "Documentary",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Documentary"
     },
     {
      "name": "War",
@@ -794,48 +783,33 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
     },
     {
-     "name": "Lubna Azabal",
+     "name": "Abdelaziz Alhamza",
      "category": "Cast",
-     "url": "stremio:///search?search=Lubna%20Azabal"
+     "url": "stremio:///search?search=Abdelaziz%20Alhamza"
     },
     {
-     "name": "Mélissa Désormeaux-Poulin",
+     "name": "Mohamad Almusari",
      "category": "Cast",
-     "url": "stremio:///search?search=M%C3%A9lissa%20D%C3%A9sormeaux-Poulin"
+     "url": "stremio:///search?search=Mohamad%20Almusari"
     },
     {
-     "name": "Maxim Gaudette",
+     "name": "Hamoud Almousa",
      "category": "Cast",
-     "url": "stremio:///search?search=Maxim%20Gaudette"
+     "url": "stremio:///search?search=Hamoud%20Almousa"
     },
     {
-     "name": "Wajdi Mouawad",
-     "category": "Writers",
-     "url": "stremio:///search?search=Wajdi%20Mouawad"
-    },
-    {
-     "name": "Denis Villeneuve",
-     "category": "Writers",
-     "url": "stremio:///search?search=Denis%20Villeneuve"
-    },
-    {
-     "name": "Valérie Beaugrand-Champagne",
-     "category": "Writers",
-     "url": "stremio:///search?search=Val%C3%A9rie%20Beaugrand-Champagne"
-    },
-    {
-     "name": "Denis Villeneuve",
+     "name": "Matthew Heineman",
      "category": "Directors",
-     "url": "stremio:///search?search=Denis%20Villeneuve"
+     "url": "stremio:///search?search=Matthew%20Heineman"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt1255953",
+    "defaultVideoId": "tt6333056",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1255953.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6333056.jpg"
   },
   {
    "name": "War Dogs",
@@ -965,63 +939,196 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2005151.jpg"
   },
   {
-   "name": "The Uprising",
+   "awards": "Won 2 Oscars. 21 wins & 33 nominations total",
    "cast": [
-    "Andrew Garfield",
-    "Jamie Bell",
-    "Stephen Dillane"
+    "Martin Sheen",
+    "Marlon Brando",
+    "Robert Duvall"
    ],
-   "country": "United Kingdom, Germany, United States",
-   "description": "Na Inglaterra do século XIV, devastada pela peste, a história segue um camponês que desencadeia uma rebelião contra o rei Ricardo II e, sem o querer, torna-se uma lenda da resistência.",
+   "country": "United States",
+   "description": "O capitão Willard tem como missão ir até ao Cambodja e assassinar o Coronel Kurtz que parece ter enlouquecido e criou o seu próprio exército na selva.",
    "director": [
-    "Paul Greengrass"
+    "Francis Ford Coppola"
    ],
+   "dvdRelease": "2013-09-29T00:00:00.000Z",
    "genre": [
-    "Action",
     "Drama",
-    "History"
+    "Mystery",
+    "War"
    ],
-   "imdbRating": "6.2",
-   "released": "2026-09-11T00:00:00.000Z",
-   "writer": [
-    "Paul Greengrass"
-   ],
-   "year": "2026",
-   "runtime": "128 min",
+   "imdbRating": "8.4",
+   "name": "Apocalypse Now",
+   "released": "1979-08-15T00:00:00.000Z",
+   "runtime": "147 min",
    "trailers": [
     {
-     "source": "lyhCxZN4Ro8",
+     "source": "9l-ViOOFH-s",
      "type": "Trailer"
     },
     {
-     "source": "ZVkrhHebz1Q",
+     "source": "gIUIefO_2x0",
+     "type": "Trailer"
+    },
+    {
+     "source": "Nd2QtwblrsE",
      "type": "Trailer"
     }
    ],
-   "background": "https://images.metahub.space/background/medium/tt36983905/img",
-   "logo": "https://images.metahub.space/logo/medium/tt36983905/img",
-   "id": "tt36983905",
-   "genres": [
-    "História",
-    "Drama",
-    "Ação"
+   "writer": [
+    "John Milius",
+    "Francis Ford Coppola",
+    "Michael Herr"
    ],
-   "releaseInfo": "2026",
+   "year": "1979",
+   "background": "https://images.metahub.space/background/medium/tt0078788/img",
+   "logo": "https://images.metahub.space/logo/medium/tt0078788/img",
+   "id": "tt0078788",
+   "genres": [
+    "Drama",
+    "Guerra"
+   ],
+   "releaseInfo": "1979",
    "trailerStreams": [
     {
-     "title": "The Uprising",
-     "ytId": "lyhCxZN4Ro8"
+     "title": "Apocalypse Now",
+     "ytId": "9l-ViOOFH-s"
     },
     {
-     "title": "The Uprising",
-     "ytId": "ZVkrhHebz1Q"
+     "title": "Apocalypse Now",
+     "ytId": "gIUIefO_2x0"
+    },
+    {
+     "title": "Apocalypse Now",
+     "ytId": "Nd2QtwblrsE"
     }
    ],
    "links": [
     {
-     "name": "The Uprising",
+     "name": "8.4",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt0078788"
+    },
+    {
+     "name": "Apocalypse Now",
      "category": "share",
-     "url": "https://www.strem.io/s/movie/the-uprising-36983905"
+     "url": "https://www.strem.io/s/movie/apocalypse-now-0078788"
+    },
+    {
+     "name": "Drama",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
+    },
+    {
+     "name": "Mystery",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Mystery"
+    },
+    {
+     "name": "War",
+     "category": "Genres",
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
+    },
+    {
+     "name": "Martin Sheen",
+     "category": "Cast",
+     "url": "stremio:///search?search=Martin%20Sheen"
+    },
+    {
+     "name": "Marlon Brando",
+     "category": "Cast",
+     "url": "stremio:///search?search=Marlon%20Brando"
+    },
+    {
+     "name": "Robert Duvall",
+     "category": "Cast",
+     "url": "stremio:///search?search=Robert%20Duvall"
+    },
+    {
+     "name": "John Milius",
+     "category": "Writers",
+     "url": "stremio:///search?search=John%20Milius"
+    },
+    {
+     "name": "Francis Ford Coppola",
+     "category": "Writers",
+     "url": "stremio:///search?search=Francis%20Ford%20Coppola"
+    },
+    {
+     "name": "Michael Herr",
+     "category": "Writers",
+     "url": "stremio:///search?search=Michael%20Herr"
+    },
+    {
+     "name": "Francis Ford Coppola",
+     "category": "Directors",
+     "url": "stremio:///search?search=Francis%20Ford%20Coppola"
+    }
+   ],
+   "behaviorHints": {
+    "defaultVideoId": "tt0078788",
+    "hasScheduledVideos": false
+   },
+   "type": "movie",
+   "posterShape": "poster",
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0078788.jpg"
+  },
+  {
+   "name": "Warfare",
+   "cast": [
+    "D&apos;Pharaoh Woon-A-Tai",
+    "Will Poulter",
+    "Cosmo Jarvis"
+   ],
+   "country": "United States, United Kingdom",
+   "description": "Uma missão de vigilância das forças especiais da Marinha dos EUA resulta numa emboscada em território inimigo no Iraque.",
+   "director": [
+    "Alex Garland",
+    "Ray Mendoza"
+   ],
+   "genre": [
+    "Action",
+    "Drama",
+    "War"
+   ],
+   "imdbRating": "7.1",
+   "released": "2025-04-11T00:00:00.000Z",
+   "writer": [
+    "Ray Mendoza",
+    "Alex Garland"
+   ],
+   "year": "2025",
+   "runtime": "95 min",
+   "trailers": [
+    {
+     "source": "JER0Fkyy3tw",
+     "type": "Trailer"
+    }
+   ],
+   "background": "https://images.metahub.space/background/medium/tt31434639/img",
+   "logo": "https://images.metahub.space/logo/medium/tt31434639/img",
+   "awards": "Nominated for 1 BAFTA Award. 7 wins & 30 nominations total",
+   "id": "tt31434639",
+   "genres": [
+    "Guerra",
+    "Ação"
+   ],
+   "releaseInfo": "2025",
+   "trailerStreams": [
+    {
+     "title": "Warfare",
+     "ytId": "JER0Fkyy3tw"
+    }
+   ],
+   "links": [
+    {
+     "name": "7.1",
+     "category": "imdb",
+     "url": "https://imdb.com/title/tt31434639"
+    },
+    {
+     "name": "Warfare",
+     "category": "share",
+     "url": "https://www.strem.io/s/movie/warfare-31434639"
     },
     {
      "name": "Action",
@@ -1034,195 +1141,53 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
     },
     {
-     "name": "History",
+     "name": "War",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=War"
     },
     {
-     "name": "Andrew Garfield",
+     "name": "D&apos;Pharaoh Woon-A-Tai",
      "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Garfield"
+     "url": "stremio:///search?search=D%26apos%3BPharaoh%20Woon-A-Tai"
     },
     {
-     "name": "Jamie Bell",
+     "name": "Will Poulter",
      "category": "Cast",
-     "url": "stremio:///search?search=Jamie%20Bell"
+     "url": "stremio:///search?search=Will%20Poulter"
     },
     {
-     "name": "Stephen Dillane",
+     "name": "Cosmo Jarvis",
      "category": "Cast",
-     "url": "stremio:///search?search=Stephen%20Dillane"
+     "url": "stremio:///search?search=Cosmo%20Jarvis"
     },
     {
-     "name": "Paul Greengrass",
+     "name": "Ray Mendoza",
      "category": "Writers",
-     "url": "stremio:///search?search=Paul%20Greengrass"
+     "url": "stremio:///search?search=Ray%20Mendoza"
     },
     {
-     "name": "Paul Greengrass",
+     "name": "Alex Garland",
+     "category": "Writers",
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Alex Garland",
      "category": "Directors",
-     "url": "stremio:///search?search=Paul%20Greengrass"
+     "url": "stremio:///search?search=Alex%20Garland"
+    },
+    {
+     "name": "Ray Mendoza",
+     "category": "Directors",
+     "url": "stremio:///search?search=Ray%20Mendoza"
     }
    ],
    "behaviorHints": {
-    "defaultVideoId": "tt36983905",
+    "defaultVideoId": "tt31434639",
     "hasScheduledVideos": false
    },
    "type": "movie",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36983905.jpg"
-  },
-  {
-   "name": "Pressure",
-   "awards": "1 win total",
-   "cast": [
-    "Andrew Scott",
-    "Brendan Fraser",
-    "Kerry Condon"
-   ],
-   "country": "United Kingdom, France, United States",
-   "description": "Nas tensas 72 horas que antecederam o Dia D, o general Dwight D. Eisenhower e o capitão James Stagg enfrentam uma escolha impossível: lançar a invasão marítima mais perigosa da história ou arriscar-se a perder completamente a guerra.",
-   "director": [
-    "Anthony Maras"
-   ],
-   "genre": [
-    "Drama",
-    "History",
-    "Thriller"
-   ],
-   "imdbRating": "7.3",
-   "released": "2026-05-29T00:00:00.000Z",
-   "writer": [
-    "David Haig",
-    "Anthony Maras"
-   ],
-   "year": "2026",
-   "runtime": "101 min",
-   "trailers": [
-    {
-     "source": "jjdOSchcobk",
-     "type": "Trailer"
-    },
-    {
-     "source": "EBh1LGRwiis",
-     "type": "Trailer"
-    },
-    {
-     "source": "urSij5ZVhBc",
-     "type": "Trailer"
-    },
-    {
-     "source": "xcPgrKoXe_c",
-     "type": "Trailer"
-    },
-    {
-     "source": "_gQwG9Xi13g",
-     "type": "Trailer"
-    },
-    {
-     "source": "zdM4tdLQBg0",
-     "type": "Trailer"
-    }
-   ],
-   "background": "https://images.metahub.space/background/medium/tt32547691/img",
-   "logo": "https://images.metahub.space/logo/medium/tt32547691/img",
-   "id": "tt32547691",
-   "genres": [
-    "Thriller",
-    "História",
-    "Guerra"
-   ],
-   "releaseInfo": "2026",
-   "trailerStreams": [
-    {
-     "title": "Pressure",
-     "ytId": "jjdOSchcobk"
-    },
-    {
-     "title": "Pressure",
-     "ytId": "EBh1LGRwiis"
-    },
-    {
-     "title": "Pressure",
-     "ytId": "urSij5ZVhBc"
-    },
-    {
-     "title": "Pressure",
-     "ytId": "xcPgrKoXe_c"
-    },
-    {
-     "title": "Pressure",
-     "ytId": "_gQwG9Xi13g"
-    },
-    {
-     "title": "Pressure",
-     "ytId": "zdM4tdLQBg0"
-    }
-   ],
-   "links": [
-    {
-     "name": "7.3",
-     "category": "imdb",
-     "url": "https://imdb.com/title/tt32547691"
-    },
-    {
-     "name": "Pressure",
-     "category": "share",
-     "url": "https://www.strem.io/s/movie/pressure-32547691"
-    },
-    {
-     "name": "Drama",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Drama"
-    },
-    {
-     "name": "History",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=History"
-    },
-    {
-     "name": "Thriller",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/movie/top?genre=Thriller"
-    },
-    {
-     "name": "Andrew Scott",
-     "category": "Cast",
-     "url": "stremio:///search?search=Andrew%20Scott"
-    },
-    {
-     "name": "Brendan Fraser",
-     "category": "Cast",
-     "url": "stremio:///search?search=Brendan%20Fraser"
-    },
-    {
-     "name": "Kerry Condon",
-     "category": "Cast",
-     "url": "stremio:///search?search=Kerry%20Condon"
-    },
-    {
-     "name": "David Haig",
-     "category": "Writers",
-     "url": "stremio:///search?search=David%20Haig"
-    },
-    {
-     "name": "Anthony Maras",
-     "category": "Writers",
-     "url": "stremio:///search?search=Anthony%20Maras"
-    },
-    {
-     "name": "Anthony Maras",
-     "category": "Directors",
-     "url": "stremio:///search?search=Anthony%20Maras"
-    }
-   ],
-   "behaviorHints": {
-    "defaultVideoId": "tt32547691",
-    "hasScheduledVideos": false
-   },
-   "type": "movie",
-   "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32547691.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434639.jpg"
   }
  ]
 }
