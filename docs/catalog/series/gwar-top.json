@@ -839,56 +839,59 @@
    "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27987047.jpg"
   },
   {
-   "awards": "Won 6 Primetime Emmys. 34 wins & 26 nominations total",
-   "cast": [
-    "Scott Grimes",
-    "Damian Lewis",
-    "Ron Livingston"
-   ],
-   "country": "United Kingdom, United States",
-   "description": "Baseado no best-seller de relatos verídicos de Stephen E. Ambrose, Irmãos de Armas conta-nos a história do 506º Regimento da 101ª Divisão Aero-transportada do Exército Americano. Começando com o seu rigoroso treino na Geórgia em 1942, mostra-nos os feitos desta companhia de elite desde o Dia D até à queda da Alemanha Nazi e à sua rendição. Concebida a partir de horas de entrevistas com sobreviventes, bem como de diários e cartas de soldados.",
-   "director": null,
-   "dvdRelease": "2009-03-17T00:00:00.000Z",
+   "name": "Das Boot",
+   "country": "Germany, Czech Republic",
+   "description": "Através de duas histórias paralelas, no alto mar e em terra, a série acompanha a inexperiente tripulação do submarino U-612 durante a campanha do Atlântico contra os Aliados e os acontecimentos na sua base em França, no porto de La Rochelle, onde Simone Strasser, cidadã alemã de origem francesa, questiona a sua lealdade e se envolve numa perigosa relação. Série inspirada no filme de Wolfgang Petersen, e baseada no livro de Lothar-Günther Buchheim.",
    "genre": [
-    "Action",
     "Drama",
-    "History"
+    "War"
    ],
-   "imdbRating": "9.4",
-   "name": "Band of Brothers",
-   "released": "2001-09-09T00:00:00.000Z",
-   "runtime": "594 min",
-   "trailers": [],
-   "writer": [
-    "Tom Hanks",
-    "Steven Spielberg"
-   ],
-   "year": "2001",
+   "imdbRating": "7.6",
+   "released": "2019-06-17T00:00:00.000Z",
+   "year": "2018–2023",
    "status": "Ended",
-   "background": "https://images.metahub.space/background/medium/tt0185906/img",
-   "logo": "https://images.metahub.space/logo/medium/tt0185906/img",
-   "id": "tt0185906",
-   "genres": [
-    "Drama",
-    "War & Politics"
+   "cast": [
+    "Franz Dinda",
+    "Tom Wlaschiha",
+    "Rick Okon"
    ],
-   "releaseInfo": "2001",
-   "trailerStreams": [],
+   "director": [],
+   "writer": [
+    "Johannes W. Betz",
+    "Tony Saint"
+   ],
+   "background": "https://images.metahub.space/background/medium/tt5830254/img",
+   "logo": "https://images.metahub.space/logo/medium/tt5830254/img",
+   "runtime": "53 min",
+   "awards": "12 wins & 17 nominations total",
+   "trailers": [
+    {
+     "source": "yndRSqA69Kc",
+     "type": "Trailer"
+    }
+   ],
+   "id": "tt5830254",
+   "genres": [
+    "War & Politics",
+    "Drama"
+   ],
+   "releaseInfo": "2018",
+   "trailerStreams": [
+    {
+     "title": "Das Boot",
+     "ytId": "yndRSqA69Kc"
+    }
+   ],
    "links": [
     {
-     "name": "9.4",
+     "name": "7.6",
      "category": "imdb",
-     "url": "https://imdb.com/title/tt0185906"
+     "url": "https://imdb.com/title/tt5830254"
     },
     {
-     "name": "Band of Brothers",
+     "name": "Das Boot",
      "category": "share",
-     "url": "https://www.strem.io/s/series/band-of-brothers-0185906"
-    },
-    {
-     "name": "Action",
-     "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Action"
+     "url": "https://www.strem.io/s/series/das-boot-5830254"
     },
     {
      "name": "Drama",
@@ -896,34 +899,34 @@
      "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=Drama"
     },
     {
-     "name": "History",
+     "name": "War",
      "category": "Genres",
-     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=History"
+     "url": "stremio:///discover/https%3A%2F%2Fv3-cinemeta.strem.io%2Fmanifest.json/series/top?genre=War"
     },
     {
-     "name": "Scott Grimes",
+     "name": "Franz Dinda",
      "category": "Cast",
-     "url": "stremio:///search?search=Scott%20Grimes"
+     "url": "stremio:///search?search=Franz%20Dinda"
     },
     {
-     "name": "Damian Lewis",
+     "name": "Tom Wlaschiha",
      "category": "Cast",
-     "url": "stremio:///search?search=Damian%20Lewis"
+     "url": "stremio:///search?search=Tom%20Wlaschiha"
     },
     {
-     "name": "Ron Livingston",
+     "name": "Rick Okon",
      "category": "Cast",
-     "url": "stremio:///search?search=Ron%20Livingston"
+     "url": "stremio:///search?search=Rick%20Okon"
     },
     {
-     "name": "Tom Hanks",
+     "name": "Johannes W. Betz",
      "category": "Writers",
-     "url": "stremio:///search?search=Tom%20Hanks"
+     "url": "stremio:///search?search=Johannes%20W.%20Betz"
     },
     {
-     "name": "Steven Spielberg",
+     "name": "Tony Saint",
      "category": "Writers",
-     "url": "stremio:///search?search=Steven%20Spielberg"
+     "url": "stremio:///search?search=Tony%20Saint"
     }
    ],
    "behaviorHints": {
@@ -932,7 +935,7 @@
    },
    "type": "series",
    "posterShape": "poster",
-   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0185906.jpg"
+   "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5830254.jpg"
   }
  ]
 }
